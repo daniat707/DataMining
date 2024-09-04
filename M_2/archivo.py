@@ -4,8 +4,9 @@ import os
 input_file = "/Users/alexperez/Documents/DataMining/Mapper/src/Input.txt"
 output_file = "input.txt"
 
-# Tamaño deseado en bytes (1 GB = 1024 * 1024 * 1024 bytes)
-desired_size = 1 * 1024 * 1024 * 1024  # 1 GB
+# Tamaño deseado en bytes (1.152 GB)
+desired_size = 1.28 * 1000 * 1000 * 1000
+#desired_size = 1 * 1024 * 1024 * 1024  # 1 GB
 
 # Leer el contenido del archivo original
 with open(input_file, 'r') as f:

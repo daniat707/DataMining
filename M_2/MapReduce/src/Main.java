@@ -8,15 +8,17 @@ public class Main {
     public static void main(String[] args) throws Exception {
         // Simulación de datos de entrada
         // List<String> input = Arrays.asList("hola mundo", "hola de nuevo mundo");
-        String ruta = "C:/USFQ/9_Semestre/DataMining/DM1/M_2/Input.txt";
+        String ruta = "/Users/alexperez/Documents/GitHub/DM1/input.txt";
 
-        List<String> input = readFile(ruta);
+        //List<String> input = readFile(ruta);
         // Crear y ejecutar el coordinador de MapReduce
-        Coordinator coordinator = new Coordinator(input);
-        coordinator.execute();
+        Coordinator coordinator = new Coordinator(32 * 1000 * 1000, ruta);
+        coordinator.startProcessing();
+        coordinator.split();
+        //coordinator.execute();
     }
 
-    public static List<String> readFile(String ruta) {
+    /*public static List<String> readFile(String ruta) {
         List<String> lines = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader(ruta))) {
             String line;
@@ -32,7 +34,7 @@ public class Main {
         }
         return lines;
     }
-    
+    */
 }
 
 
