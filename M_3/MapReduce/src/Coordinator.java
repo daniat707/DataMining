@@ -121,34 +121,25 @@ public class Coordinator {
     
 
     public void executeReduce() {
-        int numReduceNodes = 2; // Número de hilos para reduce
+        int numReduceNodes = 2; // Temporalmente reducir a un solo nodo para pruebas
         ExecutorService reducePool = Executors.newFixedThreadPool(numReduceNodes);
     
-        List<String> shuffleFilesForReducer1 = List.of(outputFilePath + "shuffle_0.txt", outputFilePath + "shuffle_1.txt");
-        List<String> shuffleFilesForReducer2 = List.of(outputFilePath + "shuffle_2.txt", outputFilePath + "shuffle_3.txt");
+        // Combinar todos los archivos shuffle en un solo reducer
+        List<String> allShuffleFiles = List.of(
+            outputFilePath + "shuffle_0.txt", 
+            outputFilePath + "shuffle_1.txt", 
+            outputFilePath + "shuffle_2.txt", 
+            outputFilePath + "shuffle_3.txt"
+        );
     
-        // Reducers procesan los archivos shuffle y generan reduce_1.txt y reduce_2.txt
-        Future<Map<String, Integer>> reduceFuture1 = reducePool.submit(new ReduceNode(shuffleFilesForReducer1, outputFilePath + "reduce_1.txt"));
-        Future<Map<String, Integer>> reduceFuture2 = reducePool.submit(new ReduceNode(shuffleFilesForReducer2, outputFilePath + "reduce_2.txt"));
+        // Reducer procesando todos los archivos shuffle y generando reduce.txt
+        Future<Map<String, Integer>> reduceFuture = reducePool.submit(new ReduceNode(allShuffleFiles, outputFilePath + "reduce.txt"));
     
         reducePool.shutdown();
         while (!reducePool.isTerminated()) {}
     
-        // Una vez que se completa la fase reduce, combinamos los resultados de reduce_1.txt y reduce_2.txt
         try {
-            Map<String, Integer> finalResults = new TreeMap<>();
-            
-            // Obtener los resultados de reduceFuture1
-            Map<String, Integer> result1 = reduceFuture1.get();
-            for (Map.Entry<String, Integer> entry : result1.entrySet()) {
-                finalResults.merge(entry.getKey(), entry.getValue(), Integer::sum);
-            }
-    
-            // Obtener los resultados de reduceFuture2
-            Map<String, Integer> result2 = reduceFuture2.get();
-            for (Map.Entry<String, Integer> entry : result2.entrySet()) {
-                finalResults.merge(entry.getKey(), entry.getValue(), Integer::sum);
-            }
+            Map<String, Integer> finalResults = reduceFuture.get();
     
             // Guardar los resultados finales en un archivo único
             try (FileWriter writer = new FileWriter(outputFilePath + "final_reduce.txt")) {
@@ -163,6 +154,8 @@ public class Coordinator {
     
         System.out.println("Fase Reduce completada. Resultados finales guardados en final_reduce.txt");
     }
+    
+    
     
 
 }
