@@ -24,7 +24,7 @@ public class Coordinator {
     private Map<String, List<String>> resultsMap;
     private int chunkSize;
     private String filePath;
-    private String outputFilePath = "/Users/alexperez/Downloads/M_2/MapReduce/src/Files/Chunks/";
+    private String outputFilePath = "/Users/alexperez/Documents/GitHub/DM1/M_3/MapReduce/src/Files/Chunks/";
 
     public Coordinator(int chunkSize, String filePath) {
         this.resultsMap = new TreeMap<>();
@@ -74,16 +74,13 @@ public class Coordinator {
     }
 
     public void executeMap(List<String> chunks) {
-        int numMapNodes = 4; // Número de hilos para map
+        int numMapNodes = 40; // Ahora son 40 nodos map, uno por cada chunk
         ExecutorService mapPool = Executors.newFixedThreadPool(numMapNodes);
         List<Future<Map<String, List<Integer>>>> mapFutures = new ArrayList<>();
     
-        int chunksPerNode = 10;
+        // Cada nodo map procesará un chunk
         for (int i = 0; i < numMapNodes; i++) {
-            int start = i * chunksPerNode;
-            int end = Math.min(start + chunksPerNode, chunks.size());
-    
-            List<String> chunkSubset = chunks.subList(start, end);
+            List<String> chunkSubset = chunks.subList(i, i + 1); // Un chunk por nodo
             MapNode mapNode = new MapNode(chunkSubset, outputFilePath + "map_" + i + ".txt");
             Future<Map<String, List<Integer>>> future = mapPool.submit(mapNode);
             mapFutures.add(future);
@@ -94,19 +91,20 @@ public class Coordinator {
     
         System.out.println("Fase Map completada.");
     }
+    
 
     public void executeShuffle() {
-        int numShuffleNodes = 4; // Número de hilos para shuffle
+        int numShuffleNodes = 40; // 40 nodos shuffle, uno por cada archivo map
         ExecutorService shufflePool = Executors.newFixedThreadPool(numShuffleNodes);
     
         List<String> mapFiles = new ArrayList<>();
         for (int i = 0; i < numShuffleNodes; i++) {
-            mapFiles.add(outputFilePath + "map_" + i + ".txt");
+            mapFiles.add(outputFilePath + "map_" + i + ".txt"); // Archivos generados por los 40 nodos map
         }
     
         List<Future<Map<String, List<Integer>>>> shuffleFutures = new ArrayList<>();
         for (int i = 0; i < numShuffleNodes; i++) {
-            // Cada nodo shuffle procesará uno de los archivos generados por los mappers
+            // Cada nodo shuffle procesará un archivo generado por los mappers
             ShuffleNode shuffleNode = new ShuffleNode(mapFiles.subList(i, i + 1), outputFilePath + "shuffle_" + i + ".txt");
             Future<Map<String, List<Integer>>> future = shufflePool.submit(shuffleNode);
             shuffleFutures.add(future);
@@ -115,35 +113,44 @@ public class Coordinator {
         shufflePool.shutdown();
         while (!shufflePool.isTerminated()) {}
     
-        // Verificar los resultados de la fase de shuffle
         System.out.println("Fase Shuffle completada.");
     }
     
 
     public void executeReduce() {
-        int numReduceNodes = 2; // Temporalmente reducir a un solo nodo para pruebas
+        int numReduceNodes = 2; // Dos nodos reduce
         ExecutorService reducePool = Executors.newFixedThreadPool(numReduceNodes);
     
-        // Combinar todos los archivos shuffle en un solo reducer
-        List<String> allShuffleFiles = List.of(
-            outputFilePath + "shuffle_0.txt", 
-            outputFilePath + "shuffle_1.txt", 
-            outputFilePath + "shuffle_2.txt", 
-            outputFilePath + "shuffle_3.txt"
-        );
+        List<String> allShuffleFiles = new ArrayList<>();
+        for (int i = 0; i < 40; i++) { // Todos los archivos shuffle generados
+            allShuffleFiles.add(outputFilePath + "shuffle_" + i + ".txt");
+        }
     
-        // Reducer procesando todos los archivos shuffle y generando reduce.txt
-        Future<Map<String, Integer>> reduceFuture = reducePool.submit(new ReduceNode(allShuffleFiles, outputFilePath + "reduce.txt"));
+        // Dividir los 40 archivos shuffle entre dos nodos reduce
+        List<String> firstHalfShuffleFiles = allShuffleFiles.subList(0, 20);
+        List<String> secondHalfShuffleFiles = allShuffleFiles.subList(20, 40);
+    
+        // Reducer 1 trabaja con los primeros 20 archivos shuffle
+        Future<Map<String, Integer>> reduceFuture1 = reducePool.submit(new ReduceNode(firstHalfShuffleFiles, outputFilePath + "reduce_1.txt"));
+        // Reducer 2 trabaja con los últimos 20 archivos shuffle
+        Future<Map<String, Integer>> reduceFuture2 = reducePool.submit(new ReduceNode(secondHalfShuffleFiles, outputFilePath + "reduce_2.txt"));
     
         reducePool.shutdown();
         while (!reducePool.isTerminated()) {}
     
         try {
-            Map<String, Integer> finalResults = reduceFuture.get();
+            Map<String, Integer> finalResults1 = reduceFuture1.get();
+            Map<String, Integer> finalResults2 = reduceFuture2.get();
     
-            // Guardar los resultados finales en un archivo único
-            try (FileWriter writer = new FileWriter(outputFilePath + "final_reduce.txt")) {
-                for (Map.Entry<String, Integer> entry : finalResults.entrySet()) {
+            // Guardar los resultados finales
+            try (FileWriter writer = new FileWriter(outputFilePath + "final_reduce_1.txt")) {
+                for (Map.Entry<String, Integer> entry : finalResults1.entrySet()) {
+                    writer.write("(" + entry.getKey() + ", " + entry.getValue() + ")\n");
+                }
+            }
+    
+            try (FileWriter writer = new FileWriter(outputFilePath + "final_reduce_2.txt")) {
+                for (Map.Entry<String, Integer> entry : finalResults2.entrySet()) {
                     writer.write("(" + entry.getKey() + ", " + entry.getValue() + ")\n");
                 }
             }
@@ -152,8 +159,8 @@ public class Coordinator {
             e.printStackTrace();
         }
     
-        System.out.println("Fase Reduce completada. Resultados finales guardados en final_reduce.txt");
-    }
+        System.out.println("Fase Reduce completada. Resultados finales guardados.");
+    }    
     
     
     
