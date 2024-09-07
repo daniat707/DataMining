@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        String ruta = "/Users/alexperez/Documents/GitHub/DM1/input.txt";
+        String ruta = "/Users/alexperez/Documents/GitHub/DM1/M_3/Input.txt";
 
         Coordinator coordinator = new Coordinator(32 * 1000 * 1000, ruta);
         coordinator.startProcessing();
