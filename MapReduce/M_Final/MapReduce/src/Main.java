@@ -1,10 +1,10 @@
 import java.util.List;
 import java.util.Scanner;
-import java.util.concurrent.*;
+
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        String ruta = "/Users/alexperez/Documents/GitHub/DM1/M_Final/Input.txt";
+        String ruta = "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/Input.txt";
 
         // Tamaño de cada chunk
         int chunkSize = 32 * 1000 * 1000;
@@ -69,10 +69,10 @@ public class Main {
 
         // Combinar los resultados finales de ambos coordinadores
         String[] reduceFiles = {
-            "/Users/alexperez/Documents/GitHub/DM1/M_Final/MapReduce/src/Files/Chunks/MapReduce1/reduce_1.txt",
-            "/Users/alexperez/Documents/GitHub/DM1/M_Final/MapReduce/src/Files/Chunks/MapReduce1/reduce_2.txt",
-            "/Users/alexperez/Documents/GitHub/DM1/M_Final/MapReduce/src/Files/Chunks/MapReduce2/reduce_1.txt",
-            "/Users/alexperez/Documents/GitHub/DM1/M_Final/MapReduce/src/Files/Chunks/MapReduce2/reduce_2.txt"
+            "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/MapReduce/src/Files/Chunks/MapReduce1/reduce_1.txt",
+            "/Users/alexperez/Documents/GitHub/DM1/MapREduce/M_Final/MapReduce/src/Files/Chunks/MapReduce1/reduce_2.txt",
+            "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/MapReduce/src/Files/Chunks/MapReduce2/reduce_1.txt",
+            "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/MapReduce/src/Files/Chunks/MapReduce2/reduce_2.txt"
         };
 
         // Reinicio del nodo Final Reduce si hay error
@@ -88,7 +88,7 @@ public class Main {
         
                 // Intentamos realizar la combinación de nuevo después de reiniciar
                 try {
-                    FinalReduceNode finalReduceNodeRetry = new FinalReduceNode(reduceFiles, "/Users/alexperez/Documents/GitHub/DM1/M_Final/MapReduce/src/Files/final_result.txt", false);
+                    FinalReduceNode finalReduceNodeRetry = new FinalReduceNode(reduceFiles, "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/MapReduce/src/Files/final_result.txt", false);
                     finalReduceNodeRetry.combineReduceResults();
                     break;  // Salir del bucle si la combinación es exitosa
                 } catch (Exception retryException) {

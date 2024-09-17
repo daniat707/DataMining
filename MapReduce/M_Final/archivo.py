@@ -1,7 +1,7 @@
 import os
 
 # Nombre del archivo original y del archivo de salida
-input_file = "/Users/alexperez/Documents/GitHub/DM1/M_Final/Input.txt"
+input_file = "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/Input.txt"
 output_file = "input.txt"
 
 # Tamaño deseado en bytes (1.152 GB)

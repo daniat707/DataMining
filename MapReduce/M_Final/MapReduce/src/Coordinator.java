@@ -28,7 +28,7 @@ public class Coordinator {
         this.resultsMap = new TreeMap<>();
         this.chunkSize = chunkSize;
         this.filePath = filePath;
-        this.outputFilePath = "/Users/alexperez/Documents/GitHub/DM1/M_Final/MapReduce/src/Files/Chunks/" + outputFolder;
+        this.outputFilePath = "/Users/alexperez/Documents/GitHub/DM1/MapReduce/M_Final/MapReduce/src/Files/Chunks/" + outputFolder;
         this.numChunks = numChunks;
         this.startOffset = startOffset;
         this.startChunkIndex = startChunkIndex;
