@@ -1,0 +1,473 @@
+GOBIERNO AUTÓNOMO DESCENTRALIZADO DE LA PROVINCIA
+DE COTOPAXI
+DIRECCION DE COMPRAS PÚBLICAS
+ANEXO DE CONTRATACIÓN PÚBLICA
+
+Código:
+GADOC-DCP-MCPREF-2017-002
+
+APLICATIVO DE ESPECIFICACIONES TÉCNICAS PARA BIENES
+ESPECIFICACIONES TÉCNICAS
+FECHA: 16 de junio de 2022
+
+DIRECCIÓN
+DIRECCIÓN DE OBRAS PÚBLICAS
+
+OBJETO DE CONTRATACIÓN
+ADQUISICION DE CEMENTO VIAL TIPO MH A GRANER PARA LOS TRABAJOS DE ESTABILIZACIÓN
+SUELO – CEMENTO, MEDIANTE ADMINISTRACIÓN DIRECTA EN LAS PARROQUIAS PILALO DEL
+CANTÓN PUJILI, GUAYTACAMA, JUAN MONTALVO E IGNACIO FLORES DEL CANTÓN LATACUNGA.
+1. BASE LEGAL
+ En la CONSTITUCION DE LA REPÚBLICA DEL ECUADOR.
+“Art. 260.- El ejercicio de las competencias exclusivas no excluirá el ejercicio concurrente de la gestión
+en la prestación de servicios públicos y actividades de colaboración y complementariedad entre los
+distintos niveles de gobierno”.
+El Art.263, determina las competencias de los gobiernos provinciales y en el numeral precisa que les
+corresponde: “Planificar, construir y mantener el sistema vial de ámbito provincial, que no incluya las
+zonas urbanas”.
+En el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)
+“Art.126.- Gestión concurrente de competencias exclusivas. – El ejercicio de las competencias
+exclusivas establecidas en la Constitución para cada nivel de gobierno, no excluirá el ejercicio
+concurrente de la gestión en la prestación de servicios públicos. En este marco, salvo el caso de los
+sectores privativos, los gobiernos autónomos descentralizados podrán ejercer la gestión concurrente
+de competencias exclusivas de otro nivel, conforme el modelo de gestión de cada sector al cual
+pertenezca la competencia y con autorización expresa del titular de la misma a través de un convenio.”
+El Art. 129 del Código Orgánico de Organización Territorial, Autonomía Descentralizada, dispone:
+(…) “El ejercicio de la competencia de vialidad atribuida en la Constitución a los distintos niveles de
+gobierno, se cumplirá de la siguiente manera: (…) Al gobierno autónomo descentralizado provincial
+le corresponde las facultades de planificar, construir y mantener el sistema vial de ámbito provincial,
+que no incluya las zonas urbanas. Al gobierno autónomo municipal le corresponde las facultades de
+planificar, construir y mantener la vialidad urbana. En el caso de las cabeceras de las parroquias
+rurales, la ejecución de esta competencia se coordinará con los gobiernos parroquiales rurales”.
+En la Codificación y Actualización de las resoluciones emitidas por el servicio nacional de
+contratación pública
+N°RE-SERCOP-2016-0000072.
+Art 108. - Elaboración de las especificaciones técnicas. - Para elaborar las especificaciones
+técnicas se tomarán en cuenta los siguientes aspectos:
+
+1 de 6
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO DE LA PROVINCIA
+DE COTOPAXI
+DIRECCION DE COMPRAS PÚBLICAS
+ANEXO DE CONTRATACIÓN PÚBLICA
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+Código:
+GADOC-DCP-MCPREF-2017-002
+
+Para el caso de bienes, se establecerán en función de las propiedades de su uso y empleo,
+así como de sus características fundamentales, requisitos funcionales o tecnológicos,
+atendiendo los conceptos de capacidad, calidad y/o rendimiento, para los que, de existir,
+se utilizarán rasgos técnicos, requisitos, símbolos y términos normalizados;
+Para el caso de obras, se establecerán para cada uno de los rubros y materiales del
+proyecto, atendiendo los aspectos de diseño y constructivos;
+Las especificaciones han de ser claras, completas e inequívocas; no deben presentar
+ambigüedades, ni contradicciones entre las mismas, que propicien o permitan diferentes
+interpretaciones de una misma disposición, ni indicaciones parciales sobre determinado
+tópico;
+No se podrá hacer referencia a marcas de fábrica o de comercio, nombres o tipos de
+comerciales, patentes, derechos de autor, diseños o tipos particulares, ni a determinados
+orígenes, productores o proveedores. Excepcionalmente, y de manera justificada, se podrá
+hacer tales referencias para los siguientes casos: la adquisición de repuestos o accesorios
+de conformidad con el artículo 94 del Reglamento General de la Ley Orgánica del Sistema
+Nacional de Contratación Pública; y, tanto las contrataciones que impliquen el desarrollo
+o mejora de tecnologías ya existentes en la entidad contratante, como la utilización de
+patentes o marcas exclusivas o tecnologías que no admitan otras alternativas técnicas de
+conformidad con el artículo 95 del Reglamento General de la Ley Orgánica del Sistema
+Nacional de Contratación Pública; a condición de que, en los casos que sea aplicable, la
+entidad haga constar en el pliego la expresión “o equivalente” u otra similar;
+Las especificaciones técnicas se basarán en las normas o reglamentos técnicos nacionales,
+y en ausencia de estos en los instrumentos internacionales similares, en lo que fuera
+aplicable;
+No se podrá establecer o exigir especificaciones, condicionalmente o requerimientos
+técnicos que no pueda cumplir la oferta nacional, salvo justificación funcional debidamente
+motivada; y.
+Las especificaciones técnicas se establecerán con relación exclusiva a los bienes o rubros
+de obra integrantes del objeto del procedimiento y no con relación a los proveedores,
+
+2. ANTECEDENTES
+Es el conjunto de hechos, sucesos y acontecimientos ocurridos anteriormente a la formulación del
+problema, las cuales sirven para aclarar, juzgar e interpretar la situación que se está
+investigando, por lo tanto, su propósito es ayudar al investigador a definir las estrategias
+metodológicas que se van a seguir.
+El GAD Provincial de Cotopaxi, tiene como una de sus prioridades atender a los barrios,
+comunidades y parroquias rurales de los diferentes cantones de la provincia; entre las necesidades
+prioritarias y en el presente caso realizar los trabajos de Estabilización Suelo – Cemento, mediante
+administración Directa en las parroquias Pilalo, del cantón Pujilí; Guaytacama, Juan Montalvo e
+Ignacio Flores, del cantón Latacunga, provincia de Cotopaxi.
+3. JUSTIFICATIVO DE LA NECESIDAD
+El justificativo de la necesidad debe ser legal, técnica y económica.
+El Gobierno Autónomo Descentralizado de la Provincia de Cotopaxi ante la necesidad de realizar el
+mantenimiento vial en las siguientes vías: Vía Apahua – Angamarca II Etapa, parroquia Pilalo,
+cantón Pujilí; vía Pilacoto – San Andrés, parroquia Guaytacama, cantón Latacunga; vía San José –
+Pichalo, Vía Laipo Grande – Laipo Chico, parroquia Juan Montalvo, cantón Latacunga, vía Santan
+Grande – La Vicentina, vía Pilligloma, vía La Vicentina – La Comuna y Vía Tiobamba Sur, parroquia
+Ignacio Flores, cantón Latacunga, se ha obtenido información sobre la utilización de cemento vial
+2 de 6
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO DE LA PROVINCIA
+DE COTOPAXI
+DIRECCION DE COMPRAS PÚBLICAS
+ANEXO DE CONTRATACIÓN PÚBLICA
+
+Código:
+GADOC-DCP-MCPREF-2017-002
+
+tipo MH para el mejoramiento de suelos, con lo que se reemplazara un lastrado común por la
+colocación de una sub base mejorada, trabajo que garantiza mayor duración, eliminación de polvo
+e impermeabilización de la capa de rodadura, sobre la que se podría a futuro colocar una capa de
+mayor duración como adoquín, doble tratamiento bituminoso, carpeta asfáltica u otros.
+Como se ha explicado en ocasiones anteriores los trabajos y la utilización de estos materiales ha
+dependido de la predisposición de los beneficiados para coordinar las acciones puesto que se
+requiere de su aporte de mano de obra para la distribución del cemento.
+De acuerdo al Memorando No. GADPC-GOP-DSHM-045-2022, de fecha 11 de mayo de 2022, en la
+que realiza la entrega de los perfiles de los proyectos para la Adquisición del Cemento Vial tipo MH
+para los trabajos de Estabilización Suelo – Cemento, en la que hace mención a la cantidad de
+2,184.62 Toneladas de cemento vial tipo MH que servirán para estabilizar el suelo natural en una
+longitud total de 11.653 Km, que se adjunta al presente.
+
+4. OBJETIVOS
+Una vez identificado y definido el problema, se debe, con base en el análisis de las reales capacidades con las que
+se cuenta, plantear los objetivos esperados con el programa que se propone para la solución del problema o
+necesidad.
+Los objetivos determinan ¿para qué? Se va a modificar la situación actual y que tanto se va a acercar a la situación
+esperada. (Su presentación es obligatoria y su falta impedirá que transcurra la ejecución del proyecto).
+
+Objetivo General:
+
+Adquirir 2,184.62 toneladas de cemento vial tipo MH a granel, incluido transporte al sitio del
+proyecto, para mantenimiento vial, mediante el mejoramiento de suelos con cemento.
+
+
+Objetivos Específicos:
+Adquirir Cemento Tipo MH a granel para realizar el mantenimiento de las siguientes vías: Vía Apahua –
+
+Angamarca II Etapa, parroquia Pilalo, cantón Pujilí; vía Pilacoto – San Andrés, parroquia
+Guaytacama, cantón Latacunga; vía San José – Pichalo, Vía Laipo Grande – Laipo Chico,
+parroquia Juan Montalvo, cantón Latacunga, vía Santan Grande – La Vicentina, vía Pilligloma,
+vía La Vicentina – La Comuna y Vía Tiobamba Sur, parroquia Ignacio Flores, cantón Latacunga.
+
+5. ALCANCE
+El alcance es la suma total de todos los servicios o entregables, hasta donde se quiere llegar con el servicio o
+consultoría, alineado al objetivo.
+Breve descripción de las necesidades del requirente desde el punto inicial de la contratación hasta la necesidad
+final/uso, definido por el requirente.
+También se debe incluir la descripción geográfica exacta del lugar en el cual se desarrollará el contrato, cuando sea
+el caso. (¿Hasta Dónde?).
+Adquirir 2,184.62 toneladas de cemento vial tipo MH a granel incluido transporte a las diferentes vías
+consideradas.
+6. METODOLOGÍA DE TRABAJO
+La metodología de trabajo es la descripción de las actividades técnicas que debe describir el área requirente con
+el fin de que los oferentes o participantes en un proceso de contratación puedan ofertar los servicios de forma
+clara y precisa cumpliendo los principios que determina la Ley del Sistema Nacional de Contratación Pública , como
+son legalidad, trato justo, igualdad, calidad, vigencia tecnológica, oportunidad, concurrencia, transparencia,
+publicidad y participación nacional.
+En el presente proceso se describe las especificaciones técnicas que debe cumplir el oferente.
+Los materiales se receptarán en presencia de un representante de bodega y el administrador del contrato.
+El material será entregado conforme los pedidos parciales que realice el Departamento de la Gestión de Obras
+Públicas del GAD provincial de Cotopaxi.
+3 de 6
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO DE LA PROVINCIA
+DE COTOPAXI
+DIRECCION DE COMPRAS PÚBLICAS
+Código:
+GADOC-DCP-MCPREF-2017-002
+
+ANEXO DE CONTRATACIÓN PÚBLICA
+
+7. INFORMACION QUE DISPONE LA ENTIDAD
+Debe incluir:
+
+Datos estadísticos, diagnósticos o estudios relacionados al requerimiento con el fin de sustentar la
+adquisición, siempre que exista información.
+
+Es necesario incluir información disponible para evitar la duplicidad de trabajos, facilitar la gestión
+y obtener mejores resultados de la contratación realizada.
+El GADPC dispone de la siguiente información:
+
+Memorando No. GADPC-GOP-DSHM-045-2022 de fecha 11 de mayo de 2022, suscrito por el Ing.
+Daniel Shigui, Gestor de Estudios y Proyectos 4, mismo que justifica las cantidades y perfiles de los
+proyectos para realizar la Adquisición.
+
+Análisis técnico, diseño y recomendaciones del contenido de cemento para la estabilización de las
+vías.
+8. PRODUCTOS ESPERADOS.
+Debe Incluir:
+
+Las características fundamentales, los requisitos funcionales o tecnológicos que deben cumplir los
+servicios, productos o rubros requeridos por la institución, alineados al objeto contractual y
+atendiendo los conceptos de capacidad, calidad y/o rendimiento, para los que, de existir, se
+utilizaran rasgos técnicos, requisitos, símbolos y términos normalizados. (¿qué y cómo?).
+
+Adquirir 2,184.62 Toneladas de Cemento Vial tipo MH a granel, incluido Transporte al sitio del
+proyecto.
+9. PLAZO DE EJECUCION
+Debe incluir:
+
+El plazo de ejecución será de (días, meses) calendario (Art. 116 del Reglamento General de la
+LOSNCP. En los plazos de vigencia de los contratos se cuentan todos los días.
+
+El plazo máximo de duración del servicio (expresado en días calendario), pudiendo indicar, además,
+el plazo mínimo para realizar la entrega o parte de ella. Para establecer el plazo mínimo y máximo
+de ejecución de las entregas, se podrá tomar como referencia la información de mercado o necesidad
+institucional.
+
+En el caso de servicios que se ejecuten en forma periódica y/o conlleve entregas parciales, además
+deben indicarse el plazo para el cumplimiento de tales entregas.
+
+De existir entregas parciales se deberá adjuntar el cronograma en días calendario.
+Los materiales serán entregados a partid de un plazo de 180 días calendario, este inicia a partir del
+día siguiente de la suscripción del respectivo contrato.
+Se realizaran retiros parciales conforme lo requiera el Departamento de Obras Públicas en un lapso
+aproximadamente de 6 meses, por lo que el proveedor entregará una garantía que podría ser un
+cheque o letra de cambio que se retendrá en bodegas de la institución hasta que se retire todo el
+material.
+10. DESCRIPCIÓN Y ESPECIFICACIONES TÉCNICAS DE LA CONTRATACIÓN.
+Características, Requisitos Funcionales
+Cantidad
+Atributo
+Unidad
+o Tecnológicos
+NTE INEN 2380
+
+Condiciones
+de Uso
+
+Tipo MH. Moderado Calor de Hidratación
+
+2,184.62
+
+CEMENTO VIAL
+TIPO MH A
+GRANEL
+
+1.
+2.
+3.
+
+Nombre del Cemento “Cemento Tipo
+MH”.
+Tipo de cemento.
+Marca de Fábrica.
+
+Toneladas
+
+Cementante
+
+4 de 6
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO DE LA PROVINCIA
+DE COTOPAXI
+DIRECCION DE COMPRAS PÚBLICAS
+ANEXO DE CONTRATACIÓN PÚBLICA
+
+Código:
+GADOC-DCP-MCPREF-2017-002
+
+11. PERSONAL TÉCNICO MÍNIMO
+Nómina del personal técnico clave necesario para el proyecto; la posición que ocupará o el campo de
+intervención, la formación profesional que deberá acreditar y el instrumento por el que se comprometerá su
+participación. De ser el caso podrá establecer condiciones de experiencia mínima a ser acreditadas por cada
+uno de los miembros del equipo, en concordancia con la naturaleza y dimensión del proyecto a contratar,
+conforme los siguientes elementos: Nivel de formación, Formación académica, Capacitación o entrenamiento.
+NO APLICA.
+PERSONAL
+TITULACION
+N°
+TÉCNICO
+NIVEL DE ESTUDIO
+CANTIDAD
+ACADEMICA
+(FUNCIÓN)
+NO APLICA
+N°
+
+PERSONAL
+TÉCNICO
+
+DESCRIPCIÓN
+EXPERIENCIA
+
+TIEMPO
+
+NUMERO DE
+PROYECTOS
+
+MONTO POR
+PROYECTO
+
+NO APLICA
+12. FORMAS Y CONDICIONES DE PAGO.
+Conforme al artículo 201. – Anticipos y garantías. - en la adquisición de bienes y/o servicios normalizados, la
+entidad contratante, de ser requerido por el proveedor, podrá entregar un anticipo que no podrá ser menor
+al 30% ni mayor al 70% del valor total de la orden de compra, el mismo que deberá estar determinado en
+el pliego de acuerdo a lo previsto en la Ley Orgánica del Sistema Nacional de Contratación Pública.
+MARCAR.
+
+X
+
+TIPO
+
+Pago Contra Entrega
+
+DESCRIPCION
+El valor del contrato se pagará una
+vez constatados la existencia de los
+bienes a entera satisfacción del
+administrador
+del
+contrato
+designado por el Gobierno Autónomo
+Descentralizado de la Provincia de
+Cotopaxi y deberá presentar el
+informe final a la fecha de
+terminación del servicio y entregar la
+factura correspondiente.
+
+PORCENTAJE
+
+100.00%
+
+Debe considerarse lo establecido en
+el numeral 9 Plazo de Ejecución,
+constante en el presente documento.
+13. OBLIGACIONES ADICIONALES DEL CONTRATISTA
+Se contemplan todos los aspectos adicionales relacionados a la contratación, en los que el contratista tiene la
+obligación de cumplir.
+El contratista debe presentar un anexo, con el precio y detalle del material.
+El contratista debe entregar los materiales en el lugar del proyecto.
+El contratista debe entregar los materiales conforme lo establecido en el numeral 9 PLAZO DE
+EJECUCIÓN, constante en este documento.
+14. INDICES FINANCIEROS
+Los índices regularmente aceptados son: Índice de Solvencia (mayor o igual a 1.0; índice de Endeudamiento
+(menor a 1.5). Los factores para su cálculo estarán respaldados en la correspondiente declaración del
+impuesto a la renta del ejercicio fiscal correspondiente y los balances presentados al órgano de control
+respectivo del oferente, es importante que usted observe si la contratación posiblemente se lo realizará con
+personas no obligadas a llevar contabilidad.
+
+5 de 6
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO DE LA PROVINCIA
+DE COTOPAXI
+DIRECCION DE COMPRAS PÚBLICAS
+Código:
+GADOC-DCP-MCPREF-2017-002
+
+ANEXO DE CONTRATACIÓN PÚBLICA
+
+N°
+
+DESCRIPCION DE ÍNDICES
+
+VALOR
+
+1
+
+Solvencia
+
+>= 1.00
+
+2
+
+Endeudamiento
+
+< 1.50
+
+OBSERVACIONES
+
+15. EQUIPO MÍNIMO
+El listado del equipo mínimo detallado por la entidad contratante en el pliego, deberá ser definido en función
+de su tipología (sin determinación de marcas) y utilizando especificaciones técnicas no direccionadas; no se
+fijarán condiciones que carezcan de soporte legal o que resultaren excesivas para el tipo de objeto a ejecutar.
+NO APLICA.
+CANTIDAD
+EQUIPO / INSTRUMENTO
+CARACTERÍSTICAS.
+16. EXPERENCIA GENERAL DEL OFERENTE
+Para acreditar la experiencia general, el oferente deberá presentar al menos (1) copia de acta entrega recepción
+definitiva y/o factura, que acredite la experiencia en la venta de Cemento Hidráulico a entidades Públicas y
+Privadas, emitidas en los últimos 15 años.
+MONTO
+N.
+DESCRIPCIÓN
+MONTO MÍNIMO REQUERIDO
+MÍNIMO POR TEMPORALIDAD
+CONTRATO
+Venta
+de
+cemento
+hidráulico a entidades
+1
+$117,969.48
+$17,695.42
+15 años.
+públicas y/o privadas.
+17. EXPERIENCIA ESPECÍFICA DEL OFERENTE
+Para acreditar la experiencia específica, el oferente deberá presentar al menos (1) copia de acta entrega
+recepción definitiva y/o factura, que acredite la experiencia en la Venta de Cemento Hidráulico Tipo MH a
+entidades Públicas y Privadas, emitidas en los últimos 5 años.
+MONTO
+N.
+DESCRIPCIÓN
+MONTO MÍNIMO REQUERIDO
+MÍNIMO POR TEMPORALIDAD
+CONTRATO
+Venta
+de
+Cemento
+Hidráulico tipo MH a
+$58,984.74
+$8,847.71
+5 años.
+entidades Públicas y/o
+1
+privadas.
+18. OTROS PARÁMETROS RESUELTOS POR LA ENTIDAD
+PARAMETROS
+DIMENSIÓN
+Adjuntar el Compromiso de Garantía Técnica.
+COMPROMISO GARANTÍA TÉCNICA
+Vigencia(12 meses)
+Adjuntar a la oferta física y digital el catálogo de los
+CATALOGO DE PRODUCTOS
+bienes ofertados con sus especificaciones técnicas.
+
+FIRMAS DE RESPONSABILIDAD
+
+Elaboró:
+
+Aprobó:
+
+Firmado electrónicamente por:
+
+FERNANDO
+JAVIER JEREZ
+BUNCES
+
+Ing. Fernando Javier Jerez Bunces.
+Gestor de Estudios y Proyectos
+
+Firmado electrónicamente por:
+
+CARLOS ESTUARDO
+VILLACIS JACOME
+
+Ing. Carlos Villacís Jácome
+Director de la Gestión de Obras Públicas
+6 de 6
+
+

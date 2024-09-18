@@ -1,0 +1,727 @@
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+ESPECIFICACIONES TÉCNICAS
+Informe No. 2022-007-TOX-CCON
+
+10 de marzo de 2022
+
+1. OBJETO DE LA CONTRATACIÓN:
+Adquisición de 6200 pruebas rápidas multidrogas en orina, para la Sección de
+Toxicología del CCON-IGEN.
+2. PRESUPUESTO:
+DESCRIPCIÓN:
+Partida
+Presupuestaria
+Procedimiento de
+Contratación
+Código CPC. a 5
+dígitos
+Descripción
+del
+CPC 5 dígitos
+Código CPC. a 9
+dígitos
+Descripción
+del
+CPC 9 dígitos
+Unidad
+Requirente
+Tipo de bien
+Se
+encuentra
+catalogado
+Presupuesto
+Referencial
+
+DETALLE
+530810 denominada “Materiales e insumos para Laboratorio Clínico y uso
+médico”
+Subastas Inversa Electrónica
+35290
+Otros productos o artículos farmacéuticos para usos médicos o quirúrgicos
+352901091
+Insumos de uso general
+Sección de Toxicología del Departamento de Control de Confianza IGEN
+Normalizado
+No
+Presupuesto referencial establecido en base a las disposiciones de la
+Resolución No. RE-SERCOP2016-0000072 de 31 de agosto de 2016 y sus
+reformas respectivas debidamente publicadas en el portal institucional, no
+disponible de acuerdo con al artículo 265 de la Resolución ibídem.
+
+3. ANTECEDENTES.
+ La Constitución de la República del Ecuador, en su artículo 364 expresa: “Las
+adicciones son un problema de salud pública. Al Estado le corresponderá
+desarrollar programas coordinados de información, prevención y control del
+consumo de alcohol, tabaco y sustancias estupefacientes y psicotrópicas; así
+como ofrecer tratamiento y rehabilitación a los consumidores ocasionales,
+habituales y problemáticos. En ningún caso se permitirá su criminalización ni se
+vulnerarán sus derechos constitucionales”.
+ El Código Orgánico de las Entidades de Seguridad Ciudadana y Orden Público,
+en su artículo 80 expresa: “Componente de Control y Evaluación.- Al componente
+de control y evaluación le corresponde realizar la supervisión, control, sanción y
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+evaluación de la conducta policial y de las faltas disciplinarias para generar
+acciones preventivas y correctivas en todos los niveles de gestión de la institución.
+Su finalidad es garantizar una adecuada prestación de servicios y el desempeño
+ético del personal policial. Aplica mecanismos técnicos de control y confianza”.
+ Reglamento de Carrera Profesional para las y los Servidores Policiales en su
+artículo 455 expresa: “Evaluación toxicológica.- Consiste en la detección del
+rastro de consumo de sustancias sujetas a fiscalización en el organismo de la o
+el servidor policial evaluado, mediante la aplicación de una prueba de rastreo de
+drogas en un fluido biológico, de conformidad al manual de procedimientos e
+instructivos que permitan efectuar dichas actividades”.
+ Memorando Nro. PN-IGEN-DSO-2022-0012-M, de 17 de enero de 2022, firmado
+electrónicamente por el señor Jefe del Departamento de Soporte Operativo de la
+IGEN, en el que dispone presentar las Creaciones de la necesidad, Estudios
+completos, (TDR y/o E.T., Proformas y Estudios de Mercado) conforme a lo que
+dispone la Ley Orgánica de Sistema Nacional de Contratación Pública, su
+Reglamento y Codificaciones del SERCOP, para lo cual deberá realizar el proceso
+de la adquisición de pruebas rápidas multidrogas en orina, para la realización de
+evaluaciones de confianza.
+ Memorando No. PN-IGEN-2022-0273-M, de 15 de enero de 2022, firmado
+electrónicamente por el señor Inspector General de la P.N. en el que adjunta el
+memorando circular PN-DINACOP-QX-2022-0007-C, de 14 de enero de 2022,
+firmado electrónicamente por el señor Delegado del Ministerio de Gobierno de
+Compras Públicas, mediante el cual informa que han procedido a publicar el
+PLAN ANUAL DE CONTRATACIONES PARA EL AÑO FISCAL 2022, con la
+finalidad de que se sirva presentar las Creaciones de la necesidad, Estudios
+completos, (TDR y/o E.T., Proformas y Estudios de Mercado) conforme a lo que
+dispone la Ley Orgánica de Sistema Nacional de Contratación Pública, su
+Reglamento y Codificaciones del SERCOP.
+ Oficio N° PN-IGEN-STOX-QX-2022-0045-O, de fecha 08 de marzo de 2022,
+firmado electrónicamente por el señor Sgos. Nelson Espín Rocha, Analista de
+Identidad de la Sección de Toxicología, mediante el cual informa el stock de kits
+toxicológicos y frascos plásticos existentes para la ejecución de evaluaciones
+toxicológicas.
+ Informe N° 2022-005-TOX-CCON, de fecha 10 de marzo de 2022, referente a la
+generación de la necesidad para la adquisición de 6200 pruebas rápidas
+multidrogas en orina, para la Sección de Toxicología del CCON-IGEN.
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+4. OBJETIVO DE LA CONTRATACIÓN:
+Objetivo General.
+Adquisición de 6200 pruebas rápidas multidrogas en orina, para ejecutar
+evaluaciones toxicológicas a servidores policiales, a fin de detectar la presencia de
+sustancias sujetas a fiscalización en su organismo, a través de una muestra de
+orina.
+Objetivos Específicos.
+Obtener pruebas rápidas para la detección de cinco tipos de drogas en muestra de
+orina, para ejecutar las evaluaciones toxicológicas que son parte de las evaluaciones
+confianza que realiza el Departamento de Control de Confianza de la Inspectoría
+General.
+5. JUSTIFICACIÓN:
+De acuerdo a la Constitución del Ecuador, artículo 364, “las adicciones son un
+problema de salud pública y establece que al Estado le corresponderá desarrollar
+programas de información, prevención y control del consumo de alcohol, tabaco y
+sustancias estupefacientes y psicotrópicas; así como ofrecer tratamiento y
+rehabilitación a los consumidores ocasionales, habituales y problemáticos”.
+Es así que la Inspectoría General, dentro de su potestad de control y evaluación de
+la conducta policial, realiza evaluaciones toxicológicas a los servidores policiales a
+nivel nacional de acuerdo al requerimiento, a través de la Sección de Toxicología del
+Departamento de Control de Confianza, en concordancia a lo descrito en el
+Reglamento de Carrera Profesional para las y los Servidores Policiales, que en su
+artículo 455 que habla sobre la Evaluación toxicológica que consiste en la detección
+del rastro de consumo de sustancias sujetas a fiscalización.
+Como sustento al presente requerimiento se expone la planificación de evaluaciones
+toxicológicas a ejecutarse en el presente año.
+PLANIFICACIÓN DE EVALUACIONES 2022
+Aleatoria a nivel nacional (Informe N° 2022001-TOX-CCON, aprobado)
+Histórico de evaluaciones solicitadas CCONIGEN (Informe N° 2019-030-PO-DECCOP,
+histórico del año 2021 )
+Stock para cubrir necesidades institucionales
+imprevistas
+Repetición de análisis y comprobación 10%
+TOTAL
+
+Dir. José Calama E7-27 y Reina Victoria
+
+CANTIDAD
+3040
+
+1752
+788
+620
+6200
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+STOCK ACTUAL SECCIÓN TOXICOLOGÍA
+Kits para evaluación toxicológica
+
+CANTIDAD
+100
+
+Cabe indicar que a la fecha 08 de marzo del año en curso en stock de bodega existen
+100 kits completos para la ejecución de evaluaciones toxicológicas para el presente
+año, sin embargo también existen 6.200 frascos plásticos de 100 ml con termómetro
+y 6.200 frascos plásticos de 100 ml sin termómetro, por lo que se solicita que se
+realice únicamente la adquisición de las pruebas rápidas multidrogas en orina.
+Además, se debe tomar en cuenta que los requerimientos institucionales son a nivel
+nacional, por lo que la cantidad de kits toxicológicos que actualmente se mantiene
+en stock de bodega es insuficiente para atender las peticiones de evaluación de
+acuerdo a la planificación anual.
+6. ALCANCE:
+La presente contratación se realiza para ejecutar evaluaciones toxicológicas
+dirigidas a servidores policiales a nivel nacional de acuerdo a la planificación anual
+y requerimientos institucionales.
+
+7. INFORMACIÓN QUE DISPONE LA ENTIDAD
+Para la presente adquisición la institución cuenta con las especificaciones técnicas
+de los bienes objeto de contratación.
+8. METODOLOGÍA DE TRABAJO:
+
+
+La totalidad de los bienes, deberán ser entregados en las bodegas del
+Departamento Técnico de Almacenamiento, ubicado en la provincia de Pichincha,
+cantón Quito, en la calle Los Cedros y Av. Galo Plaza Lasso, en óptimas
+condiciones, para lo cual el contratista realizará la coordinación correspondiente
+con el Administrador de Contrato.
+
+
+
+El Administrador de contrato verificará el cumplimiento de las especificaciones
+técnicas y plazo de entrega establecidos.
+
+
+
+El Asesor Técnico del contratista será el encargado de brindar el soporte técnico
+en caso de presentarse novedades con los productos entregados, como
+variaciones en los resultados obtenidos, el soporte deberá ser entregado en el
+lapso de 48 horas a partir de su notificación.
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+9. PRODUCTOS ESPERADOS:
+A continuación, se detalla la cantidad de pruebas rápidas multidrogas en orina, con
+las especificaciones técnicas requeridas:
+DESCRIPCIÓN GENERAL
+Nombre Genérico
+Tipo de producto
+Especialidad
+Cantidad
+
+Prueba rápida multidrogas en orina
+Dispositivo médico para diagnóstico In Vitro
+Prueba de diagnóstico rápido
+6200
+
+DESCRIPCIÓN TÉCNICA
+Detección de 5 tipos de drogas con corte según estándar SAMSHA a los siguientes cut-off:
+SUSTANCIA
+CUT-Off
+1. Marihuana (THC): ………….………………….....50 ng/ml
+2. Cocaína (Benzoilecgonina):……………..……300 ng/ml
+3. Barbitúricos:…………………………….……..……300 ng/ml
+4. Anfetaminas:………………………….……….…1.000 ng/ml
+5. Derivados opiáceos:…………………….……2.000 ng/ml
+Los resultados deben obtenerse de 3 a 5 minutos y permanecer estables hasta por sesenta
+minutos.
+Aplicación y uso
+Nota 1: El test de inmersión no deberá tener más de las 5 drogas descritas y tampoco el panel
+deberá estar incorporado en el frasco de recolección de muestras.
+Nota 2: Adicionalmente por los 6200 test de inmersión, el proveedor seleccionado deberá
+entregar:
+a) 100 tirillas o paneles reactivos para detección de THC (Marihuana), con cut-off a 25
+ng/ml, y
+b) 100 tirillas o paneles reactivos para detección de BENZOILECGONINA (Cocaína), con
+cut-off a 150 ng/ml
+Test de inmersión para prueba de inmunoensayo cromatográfico cualitativo, conformados por
+una zona para la muestra y una membrana de nitrocelulosa que posee una banda de control
+(C) y varias bandas de prueba (T) recubiertas de anticuerpos monoclonales, probado para
+reactividad cruzada con otras sustancias en orina humana.
+Especificaciones
+técnicas
+
+Sensibilidad: ≥ 95%
+Especificidad: ≥ 95%
+El test de inmersión debe contar con panel o paneles para la absorción de la muestra de orina
+y lograr la detección de cada tipo de droga.
+
+Tiempo de vida útil
+Envase
+
+Requisitos Sanitarios
+y para recepción
+técnica
+
+Inserto o manual de uso en castellano o inglés.
+18 meses a partir de la entrega
+Lo que establezca el certificado de Registro Sanitario
+
+REGISTRO SANITARIO: Para su participación el interesado deberá presentar copia
+simple del Registro Sanitario Ecuatoriano, vigente. Se verificará en la Plataforma del
+ARCSA para dispositivos médicos: https://www.controlsanitario.gob.ec/base-dedatos/
+
+PERMISO DE FUNCIONAMIENTO: Para su participación el interesado deberá
+presentar copia simple del Permiso de funcionamiento, vigente. Se verificará
+mediante
+la
+página
+web
+del
+ARCSA:
+http://permisosfuncionamiento.controlsanitario.gob.ec/consulta_permisosf/index.
+php
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+
+
+
+
+ISO 13485: Para su participación el interesado deberá presentar copia simple del
+Certificado de Norma ISO 13485 o Norma específica del producto, o Certificado de
+Buenas Prácticas de Manufactura (BPM), vigentes.
+CERTIFICADO FDA O CE: Para su participación el interesado deberá presentar copia
+simple del Certificado de calidad FDA o CE, vigente y si resultare adjudicado deberá
+presentar documento que de fe de su autenticidad.
+AUTORIZACIÓN DE DISTRIBUCIÓN: Para su participación el interesado deberá
+presentar copia simple de la Autorización de distribución otorgado por el fabricante
+o representante legal y si resultare adjudicado deberá presentar documento que de
+fe de su autenticidad.
+
+10. PLAZO DE EJECUCIÓN
+El plazo de entrega de los bienes contratados a entera satisfacción del Contratante
+es de 30 días contados a partir de la firma del contrato.
+11. FORMA Y CONDICIONES DE PAGO
+El pago se realizará contra entrega de las pruebas rápidas multidrogas en orina,
+previa presentación de la factura correspondiente, el informe a conformidad del
+Administrador de contrato y la suscripción del Acta de Entrega Recepción Definitiva
+de conformidad a lo establecido en los artículos 124 y 125 del Reglamento General
+de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+12. LOCALIDAD DONDE SE EJECUTARÁ LA CONTRATACIÓN.
+Distrito Metropolitano de Quito, Provincia de Pichincha, calle Tierra No. E 8-33 y
+Shyris.
+13. REQUISITOS MÍNIMOS:
+
+13.1. INTEGRIDAD DE LA OFERTA:
+La integridad de las ofertas se evaluará considerando la presentación de los
+Formularios de la oferta y el cumplimiento de los requisitos mínimos
+previstos en el pliego.
+
+13.2. PERSONAL TÉCNICO MÍNIMO:
+No.
+
+Función
+
+Nivel de Estudio
+
+Titulación
+Académica
+
+Cantidad
+
+Medio de
+verificación
+Hoja de vida,
+
+1
+
+Asesor Técnico
+
+TERCER NIVEL
+TERMINADO
+
+Dir. José Calama E7-27 y Reina Victoria
+
+Químico
+Farmacéutico,
+Bioquímico
+Farmacéutico, o
+Bioquímico Clínico
+
+1
+
+El Título de
+tercer nivel se
+verificará
+directamente
+en el
+SENESCYT.
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+13.3. EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO:
+NO.
+1
+
+DESCRIPCIÓN DE LA
+EXPERIENCIA
+El asesor técnico deberá acreditar
+experiencia, como mínimo dos
+años en soporte técnico sobre en
+el uso, manejo y precauciones del
+producto, para lo cual adjuntará
+copia del contrato o acta de
+entrega recepción definitiva, en el
+que se demuestre su
+participación.
+
+TIEMPO
+
+NÚMERO DE
+PROYECTOS
+
+MONTO DEL
+PROYECTO
+
+2 años
+
+1
+
+$ 1.000,00
+
+13.4. EXPERIENCIA GENERAL Y ESPECÍFICA:
+No.
+
+TIPO DE
+EXPERIENCIA
+
+DESCRIPCIÓN
+
+TEMPORALI
+DAD
+
+NÚMERO DE
+PROYECTOS
+SIMILARES
+
+MONTO
+MÍNIMO
+
+1
+
+GENERAL
+
+15 últimos
+años
+
+1
+
+2.926,00
+
+2
+
+ESPECÍFICA
+
+El oferente
+deberá
+demostrar su
+experiencia
+presentando
+contratos o
+actas de
+entrega
+recepción
+definitiva o
+facturas en la
+venta de
+reactivos para
+laboratorio.
+El oferente
+deberá
+demostrar su
+experiencia
+presentando
+contratos o
+actas de
+entrega
+recepción
+definitiva en la
+venta de test
+rápidos o
+reactivos para
+detección de
+drogas.
+
+MONTO
+MÍNIMO
+POR
+CONTRATO
+146,32
+
+5
+últimos
+años
+
+1
+
+1.463,20
+
+73,16
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+13.5. CUMPLIMIENTO DE ESPECIFICACIONES TÉCIAS:
+El oferente deberá cumplir con las Especificaciones Técnicas de referencia
+solicitada en el pliego.
+
+13.6. OTRO(S) PARÁMETRO(S)
+CONTRATANTE
+N
+o.
+1
+
+RESUELTO
+
+DESCRIPCIÓN
+REGISTRO
+SANITARIO
+
+POR
+
+LA
+
+ENTIDAD
+
+DIMENSIÓN
+Para su participación el interesado deberá presentar
+copia simple del Registro Sanitario Ecuatoriano,
+vigente. Se verificará en la Plataforma del ARCSA para
+dispositivos
+médicos:
+https://www.controlsanitario.gob.ec/base-de-datos/
+Para su participación el interesado deberá presentar
+copia simple del Permiso de funcionamiento, vigente.
+Se verificará mediante la página web del ARCSA:
+http://permisosfuncionamiento.controlsanitario.gob.e
+c/consulta_permisosf/index.php
+
+2
+
+PERMISO
+DE
+FUNCIONAMIENTO
+
+3
+
+ISO 13485
+
+Para su participación el interesado deberá presentar
+copia simple del Certificado de Norma ISO 13485 o
+Norma específica del producto, o Certificado de Buenas
+Prácticas de Manufactura (BPM), vigentes.
+
+4
+
+CERTIFICADO FDA
+O CE
+
+5
+
+CERTIFICADO DE
+DISTRIBUIDOR
+
+Para su participación el oferente deberá presentar
+copia simple del Certificado de calidad FDA o CE,
+vigente. Si resultare adjudicado, deberá presentar el
+documento apostillado.
+Para su participación el oferente deberá presentar
+copia simple de la Autorización del fabricante como
+representante, distribuidor o vendedor autorizado
+vigente. Si resultare adjudicado, deberá presentar el
+documento apostillado o notariado.
+
+14. METODOLOGÍA DE EVALUACIÓN:
+Parámetro
+Integridad de la Oferta
+Personal técnico mínimo
+Experiencia general mínima
+Experiencia específica mínima
+Experiencia mínima del
+personal técnico
+Especificaciones técnicas
+Patrimonio (Personas
+Jurídicas)
+Otro(s) parámetro(s) resuelto
+por la entidad contratante
+
+Dir. José Calama E7-27 y Reina Victoria
+
+Cumple
+
+No Cumple
+
+Observaciones
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+15. GARANTÍA TÉCNICA:
+La Garantía Técnica. – De conformidad con lo establecido en el artículo 76 de la
+LOSNCP, el contratista deberá presentar la garantía técnica de los bienes, por un
+tiempo mínimo de doce (12) meses, contra defectos de fabricación; la garantía
+entrará en vigencia a partir de la suscripción del Acta Entrega Recepción
+Definitiva.
+La garantía técnica no será extensiva a los desgastes normales. Durante el plazo
+de vigencia de la garantía técnica, si la Policía Nacional solicitare el cambio de los
+bienes objeto de la contratación y demás componentes descritos en las
+especificaciones técnicas considerados como defectos de fabricación o no
+cumplan con las características técnicas contratadas o instalación defectuosa,
+estos serán reemplazados por otros de la misma calidad y sin costo adicional en
+el tiempo máximo de 5 días laborables, contados a partir de su notificación.
+16. MULTAS:
+En caso de incumplimiento o retardo en la ejecución de las obligaciones
+contractuales por parte del contratista, se aplicará la multa del uno por mil (1x1000)
+del valor contractual pendiente de ejecutar o de las obligaciones que se encuentren
+pendientes de ejecutar, sin que pueda exceder del cinco por ciento (5%) del valor
+total del mismo, en cuyo caso se podrá declarar anticipada y unilateralmente la
+terminación del contrato, conforme lo dispuesto en el artículo 94 de la LOSNCP;
+igual multa se aplicará por el incumplimiento de cualquiera de las obligaciones que
+contrae en virtud de este instrumento.
+Las multas serán impuestas por el administrador del contrato, quien establecerá en
+su informe el incumplimiento, fechas y montos.
+17. VIGENCIA DE LA OFERTA.
+Las ofertas deberán mantenerse vigentes hasta la celebración del contrato, acorde
+con lo establecido en el artículo 30 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública, LOSNCP.
+18. ÍNDICES FINANCIEROS:
+Para el presente proceso se fija lo siguiente:
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+Índice
+
+Indicador
+Societario
+
+Indicador
+Observaciones
+declarado por el
+oferente
+
+Endeudamiento = (menor a 5%)
+(Pasivo
+total
+/
+Patrimonio Neto)
+Solvencia = (Activo (Mayor o igual a
+corriente / Pasivo 1.0)
+corriente)
+Nota: (Se deberá presentar la declaración de impuesto a la renta del ejercicio fiscal
+inmediato anterior que fue entregada al Servicio de Rentas Internas SRI)
+19. OBLIGACIONES DE LAS PARTES:
+19.1. OBLIGACIONES DEL CONTRATANTE
+
+
+
+
+
+
+
+
+La coordinación, supervisión y verificación de la recepción de los bienes
+objeto de este contrato estará a cargo del Administrador del Contrato.
+Entregar la información necesaria para solventar cualquier inquietud
+relacionada a la presente contratación.
+Velar por el estricto cumplimiento de todas las obligaciones adquiridas por el
+contratista.
+Solicitar los pagos respectivos, una vez recibidos a conformidad los bienes
+objeto de la presente contratación.
+En caso de daño irreparable, y/o destrucción parcial o total del producto
+objeto de la contratación, durante el tiempo de vigencia de la garantía, el
+Ministerio de Gobierno deberá solicitar oportunamente al contratista el
+reemplazo del bien siempre y cuando el daño sea imputable al contratista.
+El Contratante dispondrá de personal técnico quien realizará el análisis de
+los bienes propuestos para su recepción.
+
+19.2. OBLIGACIONES DEL CONTRATISTA
+
+
+
+
+
+El contratista se compromete en entregar los bienes objeto del contrato en
+estricto cumplimiento a las especificaciones técnicas.
+El contratista se obliga a entregar los productos objeto del contrato en las
+bodegas del Departamento Técnico de Almacenamiento de la Policía Nacional;
+ubicado en la provincia de Pichincha, Cantón Quito, calle De Los Cedros y
+Av. Galo Plaza Lasso.
+En caso de que exista inconvenientes para la entrega de los productos objeto
+del contrato, el Contratista deberá buscar soluciones inmediatas, sin que esto
+represente costo adicional para el Ministerio de Gobierno; bajo ningún
+concepto el contratista podrá dejar de entregar el producto objeto del contrato.
+
+Dir. José Calama E7-27 y Reina Victoria
+
+POLICÍA NACIONAL DEL ECUADOR
+INSPECTORÍA GENERAL
+DEPARTAMENTO DE CONTROL DE CONFIANZA
+
+
+
+
+
+Será de exclusiva cuenta y responsabilidad del Contratista el transporte, y
+los gastos extras que se generen en la entrega de los productos objeto del
+contrato.
+El contratista se compromete a garantizar que los bienes objeto del contrato
+entregados sean nuevos, sin uso, ni imperfecciones, no remanufacturados.
+
+20. ADMINISTRADOR DE CONTRATO
+Se sugiere como administrador de contrato al señor TMD. Sgos. Daniel Fernando
+Ruiz Paredes, Analista Toxicológico de la Sección Toxicología del CCON-IGEN.
+21. FIRMAS DE RESPONSABILIDAD
+Elaborado por:
+
+Aprobado por :
+
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+LUIS FERNANDO
+VARGAS MANTILLA
+
+JAIRO RAUL
+BURBANO
+VILLARREAL
+
+Dr. Luis Fernando Vargas Mantilla
+Capitán de Policía (S)
+ESPECIALISTA DE LA SECCIÓN DE
+TOXICOLOGÍA CCON-IGEN
+
+Dir. José Calama E7-27 y Reina Victoria
+
+Jairo Raúl Burbano Villarreal
+Teniente Coronel de Policía de E.M.
+JEFE DEL DEPARTAMENTO DE
+CONTROL DE CONFIANZA-IGEN
+
+

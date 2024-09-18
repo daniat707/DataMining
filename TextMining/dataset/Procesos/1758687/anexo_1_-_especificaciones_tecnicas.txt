@@ -1,0 +1,827 @@
+EMPRESA ELÉCTRICA PÚBLICA ESTRATÉGICA CORPORACIÓN
+NACIONAL DE ELECTRICIDAD CNEL EP
+UNIDAD DE NEGOCIO SANTA ELENA
+
+“STE REPOSICIÓN DE UN CONTADOR DE CABLE PARA LA
+BODEGA LA LIBERTAD DE LA UNIDAD DE NEGOCIO SANTA
+ELENA GAF”
+
+La Libertad, diciembre 2022
+1
+
+INDICE
+
+1.
+
+INTRODUCCIÓN
+
+2.
+
+ANTECEDENTES
+
+3.
+
+ALCANCE DEL PROYECTO
+
+4.
+
+OBJETIVOS
+
+5.
+
+JUSTIFICACIÓN
+
+6.
+
+CARACTERISTICAS TÉCNICAS DEL PROYECTO
+
+7.
+
+METODOLOGÍA DEL TRABAJO
+
+8.
+
+INFORMACIÓN QUE DISPONE LA ENTIDAD
+
+9.
+
+PRODUCTOS O SERVICIOS ESPERADOS
+
+10.
+
+VIGENCIA DE LA OFERTA
+
+11.
+
+PRECIO DE LA OFERTA
+
+12.
+
+FORMA DE PAGO
+
+13.
+
+ANTICIPO
+
+14.
+
+PLAZO DE EJECUCIÓN
+
+15.
+
+TIPO DE ADJUDICACIÓN
+
+16.
+
+GARANTIA.
+
+17.
+
+PROCEDIMIENTO SUGERIDO
+
+2
+
+1. INTRODUCCIÓN
+
+Los métodos manuales realizados en una entidad, provoca que ésta no optimice sus
+recursos, generando pérdidas económicas.
+La Dirección Administrativa Financiera a través del área Administrativa es la responsable
+de la adquisición de equipos para la eficiente gestión de los recursos en las bodegas de
+CNEL EP Unidad de Negocio Santa Elena, siendo una de las actividades principales en las
+bodegas el despacho de cables y conductores eléctricos, por lo que se requiere medirlos
+con exactitud, razón por la cual es necesario la adquisición del contador de cables en las
+bodegas.
+La política institucional de la Corporación CNEL EP considera mantener sus bodegas en
+orden con sus bienes y materiales en buen estado, lo que permitirá al personal despachar
+con una mayor eficiencia y seguridad, con el propósito de mejorar los índices de atención
+en el despacho de los conductores y cables almacenados en la bodega.
+
+2. ANTECEDENTE
+
+La CNEL EP cuenta con un Procedimiento para la Administración de Almacén, aprobado por
+la Gerencia General el 11 de marzo 2020, donde se establece que la existencia física de
+bienes debe ser almacenadas de manera ordenada y sistemática a fin de facilitar su
+ubicación, despacho y recuento selectivo, el mismo que permitirá la circulación del
+personal y los equipos, esto va orientado a mejorar la productividad y a garantizar los
+procedimientos de un trabajo seguro.
+En la época actual, muchos son los medios para la automatización de procesos, en este
+caso, CNEL EP Santa Elena ha experimentado las desventajas de trabajar en forma manual,
+motivo por el cual ha expuesto la necesidad de contar con las máquinas que realicen estos
+procesos de manera automática, mejorando la eficiencia y eficacia en las labores diarias de
+las bodegas.
+De esta manera nace la necesidad de reponer la Máquina medidora de Cables acorde a la
+tecnología moderna para optimizar los tiempos de respuestas, los recursos, y evitar algún
+accidente laboral al realizar estas actividades de medición de conductores de diferentes
+tipos y calibres.
+
+3
+
+3. ALCANCE DEL PROYECTO
+El proyecto se crea por la necesidad de cubrir eficientemente la operatividad de la bodega
+ubicada en La Libertad. Con el aporte de la Adquisición de la Máquina Medidora de
+Conductores Eléctricos para la Bodega La Libertad de CNEL EP Un Santa Elena, ayudará al
+desarrollo de las actividades del personal que labora en la misma, mejorando su
+productividad.
+Adicional, para la ejecución del proyecto no se requiere:
+•
+•
+•
+•
+•
+•
+
+Obtener licencia y estudio ambiental
+Permiso de ente regulador
+Permiso de municipio, bomberos o prefectura
+Fiscalización interno o externo
+Estudio de ingeniería
+Redes de comunicación, SCADA, algún sistema tecnológico, cámaras
+de seguridad o seguridad de la información.
+
+El presente proceso no interfiere con proyectos planificados en el municipio o prefectura
+de Santa Elena.
+En ese sentido, el proceso requiere:
+•
+•
+•
+•
+•
+•
+
+Inducción al personal de la Bodega para el manejo del bien.
+Instalación del maquina rebobinadora.
+Instalación de estanterías para bobinas.
+Una vez recibido el equipo se procederá a la suscripción del acta
+entrega recepción y a realizar el respectivo ingreso a Bodega.
+El egreso del contador será realizado por el área requirente para su
+posterior codificación.
+Instalación de señalética por parte de Seguridad Industrial.
+
+4. OBJETIVOS
+Objetivo General
+Optimizar los tiempos de atención en el despacho de los materiales de Bodega a través de
+la reposición de un contador de cable que permitirá reducir el nivel de pérdida en el
+metraje de los conductores para tener un adecuado control del inventario.
+
+4
+
+Objetivos Específicos
+
+
+
+
+Mejorar en un 85% los tiempos de respuesta en el despacho del cable
+Realizar la entrega de la cantidad de cable requerido para las diferentes áreas para
+disminuir en un 100% la pérdida de cable al momento del despacho.
+Controlar en un 100% mediante un registro el metraje proporcionado a las
+cuadrillas de manera mensual.
+
+5. JUSTIFICACIÓN.
+El proyecto comprende la adquisición de una máquina medidora de conductores eléctricos
+para realizar y devanar bobinas en la bodega de La Libertad, esta máquina debe cumplir con
+las especificaciones técnicas establecidas por la UN STE.
+Incluye capacitación certificada al personal responsable de la bodega La Libertad, que
+deberá ser de 4 horas con la participación de 6 personas, (personal responsable de la
+bodega), el lugar y fecha de la capacitación deberá ser coordinado con el Administrador del
+Contrato, dicha capacitación deberá realizarse máximo 5 días después de la entrega de los
+bienes. Esta capacitación contemplará las fases de operación, cuidado y mantenimiento de
+la máquina contadora de cables, que incluyan las pruebas de funcionamiento.
+La máquina devanadora de conductores eléctricos, busca minimizar las dificultades del
+proceso manual, proporcionando un control efectivo en la medición, el devanado y el corte
+de los diferentes cables. Es importante señalar que la bodega requiere de estos equipos para
+mejorar la eficiencia en los despachos y evitar los desperdicios de los materiales.
+
+6. CARACTERÍSTICAS TÉCNICAS DEL PROYECTO.
+La máquina deberá cumplir las siguientes características:
+ITEM
+1
+
+DESCRIPCION
+Máquina automática medidora de conductores eléctricos
+
+ITEM EQUIPO
+01
+
+Características
+eléctricas
+
+CANTIDAD
+1
+
+CARACTERÍSTICAS TÉCNICAS
+DESCRIPCIÓN
+Voltaje de Operación a 220 voltios de red trifásica + tierra
++ neutro. / 60 Hz
+
+5
+
+02
+
+Características
+físicas
+
+-
+
+03
+
+Características del
+medidor
+
+-
+
+-
+
+04
+
+Capacidad
+medidor
+
+del
+
+-
+
+-
+
+-
+
+05
+
+Característica
+mecánica
+del
+Bobinador
+
+-
+
+-
+
+-
+
+La Máquina debe estar empotrada al piso
+Debe tener una malla protectora para el
+bobinador.
+Debe tener una malla protectora para el
+enrollador.
+El Sistema mecánico debe soportar una tracción
+de una bobina giratoria de 3 toneladas de peso
+máximo a una velocidad moderada.
+El medidor debe ser de alta eficiencia para
+trabajo continuo.
+El sistema de ajuste entre la rueda medidora y la
+rueda superior debe ser automático.
+El contador debe tener un sistema que detenga la
+máquina cuando no detecte el paso del
+conductor eléctrico.
+La medición debe mostrarse digitalmente en el
+software de la máquina.
+Para conductores redondos aislados y desnudos
+de cobre y aluminio (con o sin alma de acero)
+hasta un máximo de 50 mm de diámetro.
+Para conductores pre ensamblados de cobre y
+aluminio (con o sin alma de acero) ya sean dúplex
+o triplex hasta un máximo de 50 mm de diámetro.
+Para conductores planos aislados de cobre y
+aluminio hasta un máximo de 35 mm de ancho.
+Motor Reductor con un mínimo de potencia de 7
+HP, 220 voltios trifásico.
+Capacidad de arrastre hasta una Bobina de
+máximo de 3 toneladas de peso.
+Peso máximo a soportar en el portabobina es de
+3 toneladas.
+Para Bobinas con un rango máximo de 2 metros
+de diámetro y 0,50 metros de diámetro mínimo y
+un ancho de 1,15 metros como máximo y 0,45
+metros como mínimo.
+Sistema de porta bobina con brazos móviles
+motorizados de traslación horizontal para sujetar
+y aflojar el carreto y sistema hidráulico
+incorporado para elevar y bajar los carretos
+Sistema de regulación de fuerza para sujetar el
+carreto sin que este de deforme.
+Pin de arrastre regulable para girar al carreto
+
+6
+
+06
+
+Característica
+Operativa
+del
+Bobinador
+
+-
+
+-
+
+-
+
+07
+
+Característica
+mecánica
+del
+Enrollador
+
+-
+
+08
+
+Dimensionamiento
+del enrollador
+
+-
+
+09
+
+Característica
+Operativa
+del
+Enrollador.
+
+-
+
+10
+
+Guiador
+automático
+
+-
+
+Tener un mando central en la porta bobina para
+abrir, cerrar, elevar y bajar los brazos porta
+bobina.
+El mando central también debe incorporar un
+pulsante retenido de emergencia para frenar el
+equipo en caso que el operador lo requiera y un
+pulsante tipo JOG para mover el carreto con una
+velocidad mínima.
+Si la malla protectora está abierta el equipo no
+debe operar en forma automática.
+La operación general debe estar monitoreada
+desde el Software de la PC de la máquina.
+El bobinador debe posicionarse en forma
+automática para su utilización.
+Motor Reductor con un mínimo de potencia de 3
+HP, 220 voltios trifásico.
+La Capacidad de arrastre de un rollo debe
+alcanzar un máximo de 150 Kilos en cualquier tipo
+de conductor eléctrico.
+El enrollador debe estar montado en uno de los
+brazos del portabobina.
+El enrollador debe posicionarse en forma
+automática para su utilización.
+Cuente con un sistema de aspas abatibles para
+desgonzar horizontalmente la extracción del rollo
+Núcleo central debe ser mínimo de 400 mm de
+diámetro.
+Diámetro exterior debe ser máximo de 1000 mm
+de diámetro.
+Ancho regulable debe ser de 10 mm hasta un
+máximo de 300 mm.
+Debe incorporar un seguro para sostener la punta
+inicial antes de enrollar.
+La Velocidad debe alcanzar un máximo de 85 RPM
+y una mínima de 5 RPM.
+La operación de control de velocidad debe
+gestionarse mediante un potenciómetro.
+Si la malla protectora está abierta el equipo no
+debe operar en forma automática.
+El guiador debe tener un motor mínimo de 2 HP
+trifásico.
+Debe estar acoplado al medidor para guiar al
+cable eléctrico.
+
+7
+
+-
+
+-
+
+11
+
+Sistema de corte
+
+-
+
+-
+
+12
+
+13
+
+14
+
+Unidad Hidráulica
+
+Debe observarse en el software de la máquina el
+posicionamiento numérico del guiador.
+De acuerdo al ancho programado del carreto o
+ancho del enrollador el guiador debe
+posicionarse automáticamente para guiar el
+cable.
+Debe tener las seguridades físicas o digitales para
+evitar que el guiador salga del límite requerido
+El sistema de corte hidráulico debe tener como
+medio cuchillas de acero.
+Debe cortar conductores eléctricos desnudos,
+aislados, pre ensamblados de cobre y aluminio
+(incluye con o sin alma de acero).
+En conductores redondos debe tener un máximo
+de corte hasta 40 mm de diámetro.
+
+Debe ser trifásico con la capacidad de suministrar
+la energía hidráulica hacia la porta bobina y al
+sistema de corte.
+Botonera externa Esta botonera tiene como mínimo las siguientes
+operativa en el funciones:
+control de mando. - Selector de encendido de máquina.
+- Botón de emergencia.
+- Pulsante start /stop.
+- Potenciómetro.
+Requerimiento de
+- Control de todo el sistema de programación de la
+máquina.
+Software
+- Visualización del metraje con un valor de escala
+de 9.999,99 mts.
+- Visualización de velocidad.
+- Visualización de Horómetro.
+- Visualización de posición de guiador
+- Visualización de fallas y emergencias de la
+máquina.
+- Programación de metros al cual la máquina se
+detendrá.
+- Programación de ancho de bobina para el guiado
+del cable
+- Programación de ancho del enrollador para el
+guiado del cable.
+- Base de datos para administrar los diferentes
+tipos de cables.
+- Base de datos para administrar los diferentes
+tipos de contratistas.
+- Base de datos para administrar los diferentes
+operadores.
+-
+
+8
+
+-
+
+-
+
+-
+
+Guardar la medida realizada.
+Imprimir térmicamente la medida realizada en
+cable eléctrico en una etiqueta térmica como
+mínimo de 5 cm de ancho.
+La etiqueta deberá tener los siguientes datos:
+número de Bodega, medida realizada, tipo de
+conductor, fecha actual,
+Reporte de medidas y cortes realizados escogidos
+de acuerdo a la fecha
+El reporte debe ser en formato pdf y Excel
+
+Los componentes adicionales para que pueda funcionar el contador de cables deben estar
+acoplados a la máquina medidora, a continuación, el detalle:
+ITEM
+
+DESCRIPCION
+
+CANTIDAD
+
+1.1.
+1.2
+
+Desbobinador:
+Balanza de piso electrónica
+
+1
+1
+
+1.3
+1.4
+
+Zunchadora automática
+Equipo para realizar bultos comprimidos de rechazo de
+conductores eléctricos
+Desbobinador tipo estantería de 12 unidades
+
+1
+1
+
+1.5
+
+2
+
+Ítem 1.1. Desbobinador: Tipo Dancer con eje central fijo.
+ITEM
+EQUIPO
+DESCRIPCIÓN
+01
+
+Características
+técnicas
+
+-
+
+-
+
+El Sistema estructural para cargar una bobina con un
+máximo de 4 toneladas de peso.
+Para Bobinas con un rango máximo de 2 metros de
+diámetro y 0,50 metros de diámetro como mínimo y
+un ancho de 1,15 metros como máximo.
+Debe tener un elevador de bobina hidráulicoautomático.
+Debe tener una botonera para control de elevador
+Debe tener un compartimiento regulable para
+centrar el eje sólido del soporte de la bobina.
+
+Ítem 1.2. Balanza de piso electrónica
+ITEM
+
+EQUIPO
+
+01
+
+Características
+técnicas
+
+DESCRIPCIÓN
+-
+
+Voltaje de Operación a 110 voltios de red monofásica
++ tierra.
+Área de 1,2 mts x 1,2 mts.
+
+9
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Fabricado en estructura de acero para soportar 3
+toneladas de peso con un factor de seguridad de + 10
+%, con pintura negra mate.
+Capacidad de la balanza máxima de 3 toneladas de
+peso.
+Enlace con máquina medidora de conductores
+eléctricos mediante red cableada LAN, para registro
+de pesos y longitudes aproximadas de acuerdo al
+espeso específico de los diferentes conductores.
+Imprimir térmicamente el peso realizado en el cable
+eléctrico en una etiqueta térmica como mínimo de 5
+cm de ancho.
+La etiqueta deberá tener los siguientes datos:
+número de Bodega, medida realizada, tipo de
+conductor, fecha actual y peso.
+Reporte de medidas y pesos realizados escogidos de
+acuerdo a la fecha
+El reporte debe ser en formato pdf y Excel.
+
+Ítem 1.3. Zunchadora automática para zunchar bultos comprimidos de rollos.
+ITEM
+EQUIPO
+DESCRIPCIÓN
+01
+
+Características
+técnicas
+
+-
+
+Deber tener una batería recargable con cargador de
+baterías
+El Accionamiento debe ser tipo gatillo
+Debe realizar zunchos máximos de 12 mm de ancho y
+0.5 mm de espesor.
+La Capacidad mínima para un rollo de 1000 metros.
+
+Ítem 1.4. Equipo para realizar bultos comprimidos de rechazo de conductores eléctricos
+ITEM
+
+EQUIPO
+
+DESCRIPCIÓN
+
+01
+
+Características
+técnicas
+
+- Debe realizar comprimidos de toda clase de rechazo de
+conductores
+- El sistema eléctrico debe ajustarse al trifásico a 220
+voltios / 60 HZ
+- La potencia de motor debe alcanzar un mínimo de 3HP
+- La caja de control debe tener los pulsante de
+STOP/START/ y emergencia
+- El arranque automático temporizado debe ser con un
+máximo de 60 segundos
+
+10
+
+- Las dimensiones del sistema de compactado deben tener
+como máximo un alto de 0,60 metros con un ancho de
+0,80 metros y con una profundidad de 0,60 metros.
+TIPO DE MATERIAL A COMPACTAR:
+- Conductores de aluminio desnudos tipo ACSR con calibre
+máximo de 4/0 AWG
+- Conductores de aluminio aislada con calibre máximo de1/0
+AWG
+- Conductores de cobre duro desnudos con calibre máximo
+3/0 AWG
+- conductores de cobre duro aislado con calibre máximo 3/0
+AWG
+- Cables trenzados de acero galvanizado diámetro máximo de
+1/2 pulgada.
+Ítem 1.5. Desbobinadores tipo estantería de 12 unidades
+ITEM
+
+EQUIPO
+
+DESCRIPCIÓN
+
+01
+
+Características
+técnicas
+
+-Debe abarcar 12 carretes por cada estantería.
+-El Ancho de cada porta bobina debe alcanzar un máximo de
+1.40 metros.
+- El sistema debe tener 3 servicios horizontales y 4 servicios
+verticales por cada estantería de acuerdo al siguiente
+detalle:
+ En el primer nivel el peso como máximo a soportar
+es de 1 tonelada y bobinas de hasta 1.4 mts de
+diámetro.
+ En el segundo nivel el peso como máximo a soportar
+es de 500 kilos y bobinas de hasta 1.2 metros de
+diámetro.
+ En el tercer nivel el peso como máximo a soportar es
+de 300 kilos y bobinas de hasta 0,80 mts de
+diámetro.
+ El peso máximo a soportar total de cada estantería
+es de 8 Toneladas como una tolerancia máxima.
+ Cada servicio debe tener su propio eje y sus soportes
+de bobinas.
+ Todo el sistema estructural debe estar empotrado al
+piso.
+
+La máquina devanadora de conductores eléctricos poseerá un control por PC, con el objeto
+de controlar el proceso de devanado y enrollado finalizado con el informe en etiquetas
+térmicas compatible por cada pedido de acuerdo a los requerimientos del área técnica y
+comercial.
+
+11
+
+7. METODOLOGÍA DEL TRABAJO
+Dentro de los 5 primeros días laborables, contados a partir del inicio de ejecución del
+contrato, se realizará una visita a las bodegas entre el contratista con el Administrador del
+contrato, para coordinar o verificar las instalaciones eléctricas necesarias para el
+funcionamiento de esta máquina.
+La máquina medidora de conductores eléctricos para enrollar y devanar bobinas de
+manera automática deberá ser entregada en la provincia de Santa Elena, cantón La
+Libertad - Br. General Enríquez Gallo - Av. 12 E/calles 33 y 35.
+La máquina automática de medición de cable deberá resistir cualquier condición adversa
+durante el transporte y manipuleo hasta las instalaciones de la bodega de La Libertad, CNEL
+EP UN STE.
+
+
+
+Horarios de recepción: 08:00 a 16:00.
+Responsable para recepción: Administrador del Contrato.
+
+Previa a la recepción del bien se verificará que cumplan los requisitos solicitados y las
+especificaciones técnicas establecidas.
+La Capacitación deberá ser de 4 horas con la participación de 6 personas, (personal
+responsable de bodega), el lugar y fecha de la capacitación deberá ser coordinado con el
+Administrador del Contrato, dicha capacitación deberá realizarse máximo 5 días después
+de la entrega de los bienes. Esta capacitación contemplará la operación, cuidado y
+mantenimiento del equipo además de pruebas de funcionamiento.
+La factura debe estar aprobada por el Administrador del contrato en conjunto con el
+informe final, previa suscripción del acta entrega recepción definitiva.
+
+8. INFORMACIÓN QUE DISPONE LA ENTIDAD
+La CNEL EP Unidad de Negocio Santa Elena, cuenta con bodega de La Libertad donde se
+almacenan los bienes que se reciben y se despachan, motivo por el cual la maquina deberá
+ser ubicado en La Libertad.
+El Reglamento Interno de Seguridad Higiene y Salud en el Trabajo de CNEL EP, será
+entregado al contratista por parte del Administrador de contrato.
+
+12
+
+9. PRODUCTOS O SERVICIOS ESPERADOS
+La CNEL EP Unidad de Negocio Santa Elena, con la dotación de la máquina medidora de
+conductores eléctricos, se espera cubrir la necesidad de operatividad de las bodegas, donde
+se podrá atender de manera eficiente y rápida el despacho y recepción de los bienes, de la
+misma manera el personal podrá realizar sus actividades de una forma más organizada y
+segura, evitando accidentes laborales.
+Mantenimiento mecánico, mantenimiento hidráulico, ajuste y calibración de medidor.
+
+
+
+El ajuste y calibración de medidor se debe realizar una vez al año.
+Se debe realizar un mantenimiento cada cuatro meses por un año, este
+mantenimiento este cubierto por la garantía técnica.
+
+Capacitación al personal de la UN Santa Elena en la operación, cuidado y mantenimiento de
+la unidad.
+Para efectos de este documento, se considera incidente a una interrupción no planificada o
+reducción de la calidad del servicio del equipo, que afectan su normal funcionamiento.
+El Contratista otorgará el servicio de mantenimiento por el tiempo que dure la garantía
+técnica a partir del acta de entrega recepción del bien adquirido según cuadro de
+programación de mantenimiento contratado.
+El plazo para la atención o solución de problemas es de 15 días calendarios.
+Cumplir con las especificaciones técnicas y plazo de entrega según el pliego.
+Entregar debidamente legalizada y previo a la suscripción del contrato, la Garantía Técnica,
+a fin de garantizar el cumplimiento de las especificaciones técnicas a partir de la firma del
+acta entrega recepción definitiva.
+Entregar los manuales de operación y de partes en idioma español.
+El contratista, en general, deberá cumplir con todas las obligaciones que naturalmente se
+desprendan o emanen del contrato suscrito.
+10. VIGENCIA DE LA OFERTA
+La oferta tendrá una vigencia de 90 días calendarios.
+11. PRECIO DE LA OFERTA
+
+13
+
+El precio de la oferta deberá cubrir todas las actividades y costos necesarios para que el
+oferente preste los servicios y entregue el bien, conforme al objeto de la contratación en
+cumplimiento de los términos de referencia correspondientes y a plena satisfacción de la
+Unidad de Negocio Santa Elena.
+Los precios presentados por el oferente son de su exclusiva responsabilidad.
+Cualquier omisión se interpretará como voluntaria y tendiente a conseguir precios que le
+permitan presentar una oferta más ventajosa.
+
+12. FORMA DE PAGO
+Se otorgará el 50% del valor total del contrato en calidad de anticipo, previa entrega de las
+respectivas garantías de buen uso de anticipo y garantía técnica (12 meses) por parte del
+adjudicatario y luego de la suscripción del contrato.
+El saldo del 50% restante del valor total del contrato se cancelará contra entrega total de los
+bienes, a entera satisfacción de CNEL EP, adjunto a la cual debe constar el ingreso a bodega,
+la factura debidamente aprobada por el administrador del contrato, y el informe final emitido
+por el mismo, previa suscripción del acta de entrega recepción definitiva.
+
+13. ANTICIPO
+Se otorgará el 50% del valor total del contrato en calidad de anticipo
+14. PLAZO DE EJECUCIÓN
+El plazo de ejecución de esta contratación es por 120 días calendarios.
+
+15. TIPO DE ADJUDICACIÓN
+La Adjudicación es total.
+
+16. GARANTIA.
+Conforme lo estipula el artículo 76 de la LOSNCP, el adjudicatario al momento de la
+suscripción del contrato y como parte integrante del mismo debe presentar una garantía
+
+14
+
+Técnica del bien que entregará con vigencia de 12 MESES o 365 días calendario, contados a
+partir de la fecha de suscripción del acta entrega de recepción de los bienes adquiridos, así
+mismo deberá presentar las garantías de buen uso del anticipo.
+
+17. PROCEDIMIENTO SUGERIDO
+La presente contratación se realiza por la modalidad de Subasta Inversa Electrónica, de
+acuerdo al Reglamento de la Ley Orgánica del Sistema Nacional de Contratación Pública
+LOSNCP.
+
+Firmado electrónicamente por:
+
+PEDRO DAVID
+AZAR
+
+Tnjgo. David Azar Espinoza
+ELABORADO POR:
+TECNICO DE MOVILIZACION Y
+TRANSPOSTE
+
+Firmado electrónicamente por:
+
+EDISON ALBERTO
+ORTEGA ORRALA
+
+Ing. Edison Ortega Orrala
+REVISADO POR:
+LÍDER ADMINISTRATIVO
+
+Firmado electrónicamente por:
+
+XEOMARA ALEXANDRA
+BORBOR VILLAMAR
+
+Mgs. Xeomara Borbor Villamar
+AUTORIZADO POR:
+DIRECTORA ADMINISTRATIVA
+FINANCIERA
+
+15
+
+

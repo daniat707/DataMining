@@ -1,0 +1,1531 @@
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:1 de 26
+
+SUBASTA INVERSA ELECTRÓNICA DE BIENES
+ESPECIFICACIONES TÉCNICAS
+OBJETO DE LA CONTRATACIÓN:
+CCS ADQUISICION DE ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL PARA
+LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA
+MANDURIACU
+UNIDAD OPERATIVA:
+CELEC EP – CCS COCA CODO SINCLAIR
+
+CIELO VERDE, 26 de junio de 2022
+
+ÁREA TÉCNICA REQUIRENTE:
+SUBGERENCIA DE PRODUCCIÓN
+MANTENIMIENTO ELECTRÓNICO
+
+Nombres:
+Responsable
+
+Aprobador
+
+Graciano Silva E.
+
+Cédula
+
+0501389845
+
+Cargo:
+
+Jefe de Mantenimiento Eléctrico
+y Electrónico
+
+Nombres:
+
+José Jarrin D.
+
+Cédula
+
+1704766391
+
+Cargo:
+
+Jefe de Central Manduriacu (S)
+
+GRACIANO
+ANTONIO SILVA
+ESPINDOLA
+2022.06.26 18:00:01
+-05'00'
+
+JOSE
+AUGUSTO
+JARRIN DUQUE
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:2 de 26
+
+Contenido
+
+1.
+
+DATOS GENERALES .................................................................................................................... 3
+
+1.1 PLAZO DE EJECUCIÓN.................................................................................................................... 3
+1.2 FORMA Y CONDICIONES DE PAGO .............................................................................................. 3
+2.
+
+RUBROS QUE CONFORMAN EL OBJETO DE LA CONTRATACIÓN: .................................. 3
+
+3.
+
+ESPECIFICACIONES TÉCNICAS DE LOS BIENES A CONTRATAR ..................................... 5
+
+4.
+
+CONDICIONES PARTICULARES .............................................................................................. 23
+
+4.1 LOCALIDAD DONDE SE EJECUTARÁ LA CONTRATACIÓN ................................................... 23
+4.2 DIRECCIÓN DE ENTREGA DE OFERTAS ................................................................................... 23
+4.3 LUGAR DE ENTREGA DE LOS BIENES ...................................................................................... 23
+4.4 OBLIGACIONES DE LAS PARTES ............................................................................................... 23
+4.5.1 OBLIGACIONES DEL CONTRATISTA ....................................................................................... 23
+4.5.2 OBLIGACIONES DEL CONTRATANTE ..................................................................................... 23
+5.
+
+GARANTÍA TÉCNICA .................................................................................................................. 24
+
+6.
+
+MULTAS ........................................................................................................................................ 24
+
+7.
+
+TRANSFERENCIA DE TECNOLOGIA (EN CASO DE QUE APLIQUE) ................................ 24
+
+8.
+
+REQUISITOS MÍNIMOS: ............................................................................................................. 24
+8.1 OBSERVACIONES ....................................................................................................................... 24
+8.2 EQUIPO MÍNIMO .......................................................................................................................... 24
+8.3 PERSONAL TÉCNICO MÍNIMO .................................................................................................. 25
+8.4 EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO ................................................................ 25
+8.5 EXPERIENCIA GENERAL MÍNIMA DEL OFERENTE ............................................................... 25
+8.7 OTROS PARAMETROS RESUELTOS POR LA ENTIDAD CONTRATANTE ......................... 25
+
+9.
+
+ANEXOS........................................................................................................................................ 26
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:3 de 26
+
+A continuación se presentan las Especificaciones Técnicas para la contratación de: CCS
+ADQUISICION DE ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL PARA LOS
+SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA MANDURIACU:
+
+1.
+
+DATOS GENERALES
+1.1 PLAZO DE EJECUCIÓN
+
+Plazo de Ejecución
+
+90
+
+Días calendario
+
+La ejecución del contrato
+inicia en:
+Descripción de “Otra
+condición de acuerdo a
+la naturaleza del
+contrato:
+Vigencia de la Oferta
+
+Desde la fecha de notiticación que el anticipo se encuentra
+disponible
+NO APLICA
+
+60
+
+Días calendario
+
+1.2 FORMA Y CONDICIONES DE PAGO
+Anticipo (Establecer un
+porcentaje no mayor al
+setenta por ciento (70%)
+Valor Restante del
+Contrato
+Condiciones de pago
+
+Condiciones
+Adicionales al precio de
+la oferta
+
+2.
+
+El treinta por ciento (30%) del valor del contrato, sin IVA, en
+calidad de anticipo, previo la entrega de la garantía del buen
+uso del anticipo por el 100% del valor del mismo.
+Pago contra entrega
+
+El setenta por ciento (70%) restante será cancelado a la
+entrega de la totalidad de los bienes, a entera satisfacción de
+la Unidad de Negocio CELEC EP COCA CODO SINCLAIR,
+informe del Administrador del Contrato, presentación de la
+factura correspondiente y suscripción del Acta de Entrega
+Recepción Única.
+El precio total de la oferta (sin IVA), deberá cubrir el valor de
+los bienes requeridos, su transporte hasta el sitio de entrega,
+de la Unidad de Negocio COCA CODO SINCLAIR, así como;
+lo necesario para el cumplimiento de protocolos sanitarios
+emitidos por autoridades nacionales y las autoridades de la
+Unidad de Negocio COCA CODO SINCLAIR.
+
+RUBROS QUE CONFORMAN EL OBJETO DE LA CONTRATACIÓN:
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:4 de 26
+
+CANT.
+
+UNIDAD DE
+MEDIDA
+
+TRANSFORMADOR MONOFÁSICO DE CONTROL
+
+2
+
+UNIDAD
+
+482650321
+
+ANUNCIADOR DE ALARMAS ME3011b
+
+2
+
+UNIDAD
+
+3
+
+482650321
+
+INTERRUPTOR SECCIONADOR DE EMERGENCIA TESYS
+VARIO V3 - 63A
+
+1
+
+UNIDAD
+
+4
+
+482650321
+
+MONITOR DE TEMPERATURA PARA TRANSFORMADORES
+SECOS
+
+2
+
+UNIDAD
+
+5
+
+482650321
+
+MINI RESISTENICA CALEFACTORA SEMICONDUCTORA 9W
+
+10
+
+UNIDAD
+
+6
+
+482650321
+
+MINI RESISTENICA CALEFACTORA SEMICONDUCTORA 13W
+
+10
+
+UNIDAD
+
+7
+
+482650321
+
+RESISTENCIA CALEFACTORA SEMICONDUCTORA PLANA
+50W
+
+5
+
+UNIDAD
+
+8
+
+482650321
+
+RESISTENCIA CALEFACTORA SEMICONDUCTORA 100W
+
+5
+
+UNIDAD
+
+9
+
+482650321
+
+VENTILADOR CON FILTRO PF32.000 PARA ARMARIO
+ELÉCTRICO
+
+1
+
+UNIDAD
+
+10
+
+482650321
+
+CONECTOR HEMBRA ACODADO PARA VÁLVULA DE 4 PINES
+3P+PE TIPO A
+
+12
+
+UNIDAD
+
+11
+
+482650321
+
+CONECTOR HEMBRA ACODADO PARA VÁLVULA DE 4 PINES
+3P+PE TIPO A
+
+12
+
+UNIDAD
+
+12
+
+482650321
+
+CONECTOR HEMBRA ACODADO PARA VÁLVULA DE 3 PINES
+2P+PE TIPO A 24VAC/DC
+
+12
+
+UNIDAD
+
+13
+
+482650321
+
+SENSOR INDUCTIVO DIMENSIÓN Ø 12 X 70 MM BES 516113-S4-C
+
+2
+
+UNIDAD
+
+14
+
+482650321
+
+INCLINÓMETRO UNIDIMENSIONAL KINAX N702-CANOpen
+
+1
+
+UNIDAD
+
+15
+
+482650321
+
+INTERRUPTOR DE NIVEL ELCTRÓNICO CON INDICADOR
+LSD-30
+
+1
+
+UNIDAD
+
+16
+
+482650321
+
+TRANSMISOR DE PRESIÓN PIEZORESISTIVO RANGO 0 A
+1bar PARA FLUIDOS
+
+2
+
+UNIDAD
+
+17
+
+482650321
+
+MÓDULOS DE SUPRESIÓN DE EMC E INDICACIÓN DE
+BOBINA SERIE 99.02
+
+6
+
+UNIDAD
+
+18
+
+482650321
+
+RELÉ ELECTROMECÁNICO DELGADO 24VDC DE PCB SERIE
+34.51
+
+6
+
+UNIDAD
+
+ITEM
+
+CPC DE CADA RUBRO
+
+1
+
+482650321
+
+2
+
+DESCRIPCIÓN DE CADA RUBRO QUE CONTEMPLA LA
+CONTRATACIÓN
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:5 de 26
+
+19
+
+482650321
+
+RELÉ ELECTROMECÁNICO DELGADO 60VDC DE PCB SERIE
+34.51
+
+6
+
+UNIDAD
+
+20
+
+482650321
+
+SENSOR DE POSICIÓN DEL DISTRIBUIDOR
+
+1
+
+UNIDAD
+
+21
+
+482650321
+
+SENSOR DE POSICIÓN DE RODETE KAPLAN
+
+1
+
+UNIDAD
+
+22
+
+482650321
+
+MODULO UNIVERSAL AS-INTERFACE AC2620
+
+2
+
+UNIDAD
+
+23
+
+482650321
+
+MODULO DE ENTRADAS ANALOGICAS 4-20mA AC2516
+
+2
+
+UNIDAD
+
+24
+
+482650321
+
+MODULO DE ENTRADA DIGITAL AC5245
+
+2
+
+UNIDAD
+
+25
+
+482650321
+
+MONITOR DE POSICIÓN DE VALVULAS MB601
+
+4
+
+UNIDAD
+
+26
+
+482650321
+
+MONITOR DE TEMPERATURA PARA TRANSFORMADORES
+DE ACEITE
+
+2
+
+UNIDAD
+
+3. ESPECIFICACIONES TÉCNICAS DE LOS BIENES A CONTRATAR
+
+ÍTEM
+
+1
+
+DESCRIPCIÓN
+
+ESPECIFICACIÓN
+
+• TIP: TMC.
+• Potencia: 150VA.
+• Tensión Primario: 480VAC.
+TRANSFORMADOR MONOFÁSICO
+• Tensión Secundario: 115VAC.
+DE CONTROL
+• Isol: 0.6KV.
+• Con regleta de conexiones en primario y
+secundario.
+
+CANTIDAD
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+2
+
+ANUNCIADOR DE ALARMAS
+ME3011b
+
+Página:6 de 26
+
+• Referencia: ME3011b BL
+• Puntos de alarma: 20 puntos.
+• Formación: 6V x 4H.
+• Recorte en panel: Alto x Largo
+(161mmx209mm).
+• Indicación luminosa: SOQ BL UB RJ.
+• Señalización acústica: Zumbador
+incorporado.
+• Alimentación eléctrica: Redundante 19264Vdc, 90-264Vac c/PSFD en el Teclado.
+• Tensión del campo: 125Vdc.
+• Relés repetidores: con PRO, 20 relés con
+raíz común.
+• Interface: RS485.
+• Protocoló: Modbus RTU (Slave).
+• Opciones especiales: Con OE.
+• Secuencia de alarma: ISA 2C / (M)
+(estándar).
+• Supervisión Vdc (PSFD): 125Vdc.
+• Supervisión Vac (PSFD): 220Vac.
+• Grabación en bajo relevo: Si.
+• Cantidad y colores de LEDs: 20 LEDs de
+color rojo.
+• Operación vía teclado incorporado en el
+frente del equipo.
+• Terminales de conexión mediante borneras
+extraíbles en la parte posterior del
+anunciador.
+• Montaje embutido simple, mediante calado
+y tornillos de fijación.
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+3
+
+INTERRUPTOR SECCIONADOR
+DE EMERGENCIA TESYS VARIO
+V3 - 63A
+
+Página:7 de 26
+
+• Referencia: TeSys VARIO V3.
+• Tensión operativa: 690VAC 50/60Hz.
+• Tensión de impulso: 8KV.
+• Corriente operativa: 63A.
+• Número de polos: 3P, NO.
+• Dimensiones: 83mm de alto, 60mm de
+ancho, 65mm de profundidad.
+• Soporte de montaje: riel DIN.
+• Incluye accesorios: VZ18, VZ31, KZ81,
+KCF2PZ.
+
+1
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+4
+
+MONITOR DE TEMPERATURA
+PARA TRANSFORMADORES
+SECOS
+
+Página:8 de 26
+
+• Referencia: LAD.
+• Tensión operativa: 38 a 265 Vac/Vdc
+50/60Hz.
+• Temperatura de operación: -10 a +70°C.
+• Grado de protección: Panel frontal IP50,
+parte trasera IP20.
+• Fijación: Empotrado en panel.
+• Mediciones de temperatura: Cinco
+entradas.
+• Tipo de entrada: Pt100 Ω a 0°C con auto
+calibración continua.
+• Rango de medición: -55 a 200°C.
+• Tipo de conexión: Tres cables.
+• Salida analógica: 4 - 20 mA, 500Ω.
+• Salidas a relés: Tres reversibles y dos NF,
+libres de potencial.
+• Capacidad máxima de cierre: 250Vac 5A /
+30Vdc 5A.
+• Puerto de comunicación serial: 1 RS-485
+para sistema de supervisión y monitoreo.
+• Protocolo de comunicación: Modbus RTU.
+• Incluye accesorios: 10 sensores Pt100Ω a
+0°C de coeficiente Alfa 0.385Ω/°C, con
+conductores de cobre estañado flexible
+22AWG aislamiento PTFE, grado de
+protección IP68.
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+5
+
+MINI RESISTENICA
+CALEFACTORA
+SEMICONDUCTORA 9W
+
+Página:9 de 26
+
+• Referencia: RCE016 - 01623.0-00.
+• Tensión operativa: 120-240Vac/dc.
+• Potencia de calefacción: 9W.
+• Corriente operativa max: 2.5A.
+• Temperatura de superficie aprox: +175°C.
+• Temperatura de servicio: -45 a +70°C.
+• Elemento de calefacción: Resistencia PTClimitadora de temperatura.
+• Material radiador: Aluminio.
+• Dimensiones: 45mm de largo, 10mm de
+diámetro.
+• Soporte de montaje: 2 clips de sujeción
+modelo N° 09008.0-01.
+• Tipo de conexión: 2x22AWG cable
+revestido de silicona.
+• Grado de protección: IP54.
+
+10
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+6
+
+MINI RESISTENICA
+CALEFACTORA
+SEMICONDUCTORA 13W
+
+Página:10 de 26
+
+• Referencia: RCE016 - 01610.0-00.
+• Tensión operativa: 120-240Vac/dc.
+• Potencia de calefacción: 13W.
+• Corriente operativa max: 3A.
+• Temperatura de superficie aprox: +170°C.
+• Temperatura de servicio: -45 a +70°C.
+• Elemento de calefacción: Resistencia PTClimitadora de temperatura.
+• Material radiador: Perfil de aluminio,
+anodizado.
+• Dimensiones: 45mm de largo, 10mm de
+diámetro.
+• Soporte de montaje: Sujeción por tornillos.
+• Tipo de conexión: 2x22AWG cable
+revestido de silicona.
+• Grado de protección: IP54.
+
+10
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+7
+
+RESISTENCIA CALEFACTORA
+SEMICONDUCTORA PLANA 50W
+
+Página:11 de 26
+
+• Referencia: CP-061 - 06100.0-00.
+• Tensión operativa: 120-240Vac, 50/60Hz.
+• Potencia de calefacción: 50W.
+• Corriente operativa max: 3A.
+• Temperatura de superficie aprox: +150°C.
+• Temperatura de servicio: -40°C a +60°C.
+• Elemento de calefacción: Resistencia PTClimitadora de temperatura.
+• Material radiador: Perfil de aluminio,
+anodizado.
+• Dimensiones: 239mm de largo, 100mm de
+ancho, 8mm de alto.
+• Soporte de montaje: Sujeción por tornillos
+M6.
+• Tipo de conexión: 3x0.75mm², cable de
+conexión de 1m recubierto de silicona libre
+de halógenos.
+• Grado de protección: IP30.
+
+5
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+8
+
+RESISTENCIA CALEFACTORA
+SEMICONDUCTORA 100W
+
+Página:12 de 26
+
+• Referencia: CSF060 - 06011.0-00.
+• Tensión operativa: 120-240Vac.
+• Potencia de calefacción: 100W.
+• Corriente operativa max: 4.5A.
+• Temperatura de superficie aprox: +80°C.
+• Temperatura de servicio: -45 a +70°C.
+• Accionamiento: Mediante termostato
+incorporado.
+• Elemento de calefacción: Resistencia PTClimitadora de temperatura.
+• Carcasa: plástico según UL-94 V-0, negro.
+• Dimensiones: 110mm de largo, 60mm de
+ancho, 90mm de alto.
+• Montaje: Vertical, mediante clips para carril
+DIN de 35mm, EN 60715.
+• Tipo de conexión: bornera 2 polos, terminal
+2.5mm².
+• Grado de protección: IP20.
+
+5
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+9
+
+10
+
+Página:13 de 26
+
+VENTILADOR CON FILTRO
+PF32.000 PARA ARMARIO
+ELÉCTRICO
+
+• Referencia: PF32.000, 11632103055.
+• Tensión operativa: 230Vac, 50/60Hz.
+• Caudal de aire boca libre: 100/110 m³/h.
+• Caudal de aire combinado: 55/64 m³/h.
+• Potencia absorbida: 19/18 W
+• Corriente absorbida: 0.12/0.18 A.
+• Ruido según EN ISO 3741: 40/40 dB(A).
+• Peso: 0.87 Kg.
+• Tipo de conexión: caja de bornes.
+• Grado de protección según EN 60529 /
+UL50: IP55, NEMA tipo 12 - filtro plisado.
+• Eficiencia de filtración: 91%.
+• Calidad del elemento filtrante según DIN
+EN 779: G4.
+• Ciclo de trabajo útil: 100%.
+• Tipo de cojinete: cojinetes de manguito.
+• Duración útil L (+40°C): 40000h.
+• Campo de temperatura: -40 +55°C.
+• Color: RAL7035.
+• Medidas: Orifico armario (177mm x
+177mm), Rejilla frontal (202mm x202mm x
+6mm), Profundidad total (87mm).
+
+1
+
+CONECTOR HEMBRA ACODADO
+PARA VÁLVULA DE 4 PINES
+3P+PE TIPO A
+
+• Referencia: GDMW310B-A0U-4K.
+• Tensión operativa: 230VAC/DC.
+• Corriente operativa: 16A.
+• Color de carcasa: Negro.
+• Número de pines: 3P+PE.
+• Rango de cable: PG11, Ø4.5-11mm.
+• Tipo de terminal de bloqueo: Tornillo acero
+inoxidable Phillips.
+• Tamaño de conductor: 0.25-1.5mm².
+• Temperatura ambiente: -40°C+125°C.
+• Grado de protección: IP68.
+• Standard: DIN EN 175301-803-A, ISO4400.
+
+12
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+11
+
+12
+
+Página:14 de 26
+
+CONECTOR HEMBRA ACODADO
+PARA VÁLVULA DE 4 PINES
+3P+PE TIPO A
+
+• Referencia: GDMW31FB-V2N-2K
+• Tensión operativa: 230VAC/DC.
+• Corriente operativa: 16A.
+• Color de carcasa: Transparente.
+• Número de pines: 3P+PE.
+• Rango de cable: PG11, Ø4.5-11mm.
+• Circuito: Varistor, LED rojo/verde.
+• Tipo de terminal de bloqueo: Tornillo acero,
+cabeza torx.
+• Tamaño de conductor: 0.25-1.5mm².
+• Temperatura ambiente: -40°C+125°C.
+• Grado de protección: IP68.
+• Standard: DIN EN 175301-803-A, ISO4400.
+
+12
+
+CONECTOR HEMBRA ACODADO
+PARA VÁLVULA DE 3 PINES
+2P+PE TIPO A 24VAC/DC
+
+• Referencia: GDM21F6-D4J-2K
+• Tensión operativa: 24VAC/DC.
+• Corriente operativa: 16A.
+• Color de carcasa: Transparente.
+• Número de pines: 2P+PE.
+• Rango de cable: M16 & PG9, Ø4.5-10mm.
+• Circuito: Puente rectificador, LED
+rojo/verde.
+• Tipo de terminal de bloqueo: Tornillo acero,
+cabeza torx.
+• Tamaño de conductor: 0.25-1.5mm².
+• Temperatura ambiente: -40°C+125°C.
+• Grado de protección: IP68.
+• Standard: DIN EN 175301-803-A, ISO4400.
+
+12
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+13
+
+Página:15 de 26
+
+• Referencia: BES 516-113-S4-C
+• Dimensiones: 12mm de diámetro, 70mm de
+largo.
+• Tensión de operación UB: 10-30vcc.
+• Grado de protección: IP68
+• Velocidad de operación: 3500Hz.
+• Salida de conmutación: PNP, NO/NC.
+• LED indicativo: activo/inactivo.
+• Rango de detección: 2mm.
+• Montaje: Roscado empotrado, con
+SENSOR INDUCTIVO DIMENSIÓN
+contratuerca.
+Ø 12 X 70 MM BES 516-113-S4-C
+• Material de carcasa: Acero inoxidable.
+• Superficie de detección de material: PBT.
+• Conexión conector: M12x1 Macho, 4 Pines.
+• Temperatura ambiente: -45 a 85°C.
+• Estándar aprobación: CE, CULUS, EAC,
+WEEE.
+• Humedad relativa del aire: 95%.
+• Cableado: 4 hilos, señales independientes
+de alimentación.
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+14
+
+Página:16 de 26
+
+• Referencia: KINAX N702-CANOpen.
+• Carcasa de aluminio ‐ uso industria.
+• Grado de protección IP66.
+• Péndulo amortiguado por aceite.
+• Eje del péndulo sin tope mecánico.
+•Principio de medida: Robusto inclinómetro
+magneto resistivo, sin contacto de rotación
+libre sin tope.
+• Rango de medida: 0‐360⁰
+INCLINÓMETRO UNIDIMENSIONAL • Angulo de inclinación: ‐180⁰ ‐ 179.9⁰
+KINAX N702-CANOpen
+• Salida de medida: interfaz CAN‐BUS
+• Protocolo: CAN Open
+• Energía Auxiliar: 18‐33 VDC
+• Precisión: ±0.2⁰
+• Resolución: 14 bits
+•
+Conexión eléctrica: Conector M12X1.5 polos.
+• Amortiguado por aceite: Aceite de silicona.
+• Material carcasa: Aluminio lacado.
+• Humedad: Humedad relativa máx. < 90%.
+
+1
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+15
+
+INTERRUPTOR DE NIVEL
+ELCTRÓNICO CON INDICADOR
+LSD-30
+
+Página:17 de 26
+
+• Material de la cabeza: plástico
+reforzado/acero inoxidable.
+• Conexión al proceso: 3/4” NPT.
+• Material de la conexión al proceso: acero
+inoxidable.
+• Conexión eléctrica: conector circular
+M12x1-5 pines.
+• Material del tubo guia: acero inoxidable.
+• Diámetro del tubo guia: 8mm.
+• Separación de los contactos: 6mm.
+• Distancia entre tope de la conexión al
+• Proceso y nivel máximo (l1)
+• Largo de la vaina (f) 410
+• Material del flotador: acero inoxidable.
+• Tipo de flotador: cilíndrico.
+• Diámetro del flotador: 17,7mm.
+• Presión máxima de trabajo: 40 kg/cm2.
+• Indicación display: 14 segmentos.
+• Resolución: 6mm.
+• Clase de protección: IP67.
+• Alimentación: 24vcc.
+• Señal de entrada: resistencia
+(potenciômetro-3hilos)
+• Señal de salida 1: (s +) 4 - 20ma.
+• Señal de salida 2: (sp1) salida activa 24vcc
+• Señal de salida 3: (sp2) salida activa 24vcc
+• Temperatura ambiente: 0 hasta 50°C
+• Temperatura del medio: 0 hasta 60°C
+medio aceite lubricante mineral.
+
+1
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:18 de 26
+
+16
+
+• Grado de protección IP65/prensa estopa
+IP68.
+• Conexión al proceso 3/4 NPT.
+• Carcasa acero inoxidable AISI 304.
+• Señal de salida 4 a 20mA.
+• Alimentación 12 a 35VCD.
+• Rango de 0 a 1 bar.
+TRANSMISOR DE PRESIÓN
+• Precisión de señal 0.25%.
+PIEZORESISTIVO RANGO 0 A 1bar
+• Resolución de salida infinita.
+PARA FLUIDOS
+• Ajuste de 0.01mA por pulso.
+• Linealidad 0.5%F.E.
+• Protección total contra radio frecuencia
+(RF).
+• Protección contra polaridad inversa.
+• Protección sobretensiones integrada en
+transmisor.
+
+17
+
+MÓDULOS DE SUPRESIÓN DE
+EMC E INDICACIÓN DE BOBINA
+SERIE 99.02
+
+• Referencia: 99.02.9.220.99
+• Tensión operativa: 110-220VDC.
+• Composición: LED + Diodo (+A1, polaridad
+estándar).
+• Conexión: en sócalo.
+
+6
+
+RELÉ ELECTROMECÁNICO
+DELGADO 24VDC DE PCB SERIE
+34.51
+
+• Referencia: 34.51.7.024.0010
+• Tipo de relé: delgado para PCB o zócalo
+serie 93, plug in.
+• Tensión de bobina: 24VDC.
+• Corriente de contactos: 6A.
+• Tensión de contactos: 250VAC.
+• Resistencia dieléctrica bobina-contactos: 6
+KV AC.
+• Resistencia dieléctrica entre contactos:
+1KV AC.
+• Material contactos: AgNi.
+• Número de contactos: 1CO (SPDT),
+conmutados.
+• Temperatura ambiente: -40 a +85°C.
+• Tiempo de operación/liberación: 5/3ms.
+
+6
+
+18
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+19
+
+20
+
+21
+
+Página:19 de 26
+
+RELÉ ELECTROMECÁNICO
+DELGADO 60VDC DE PCB SERIE
+34.51
+
+• Referencia: 34.51.7.060.0010
+• Tipo de relé: delgado para PCB o zócalo
+serie 93, plug in.
+• Tensión de bobina: 60VDC.
+• Corriente de contactos: 6A.
+• Tensión de contactos: 250VAC.
+• Resistencia dieléctrica bobina-contactos: 6
+KV AC.
+• Resistencia dieléctrica entre contactos:
+1KV AC.
+• Material contactos: AgNi.
+• Número de contactos: 1CO (SPDT),
+conmutados.
+• Temperatura ambiente: -40 a +85°C.
+• Tiempo de operación/liberación: 5/3ms.
+
+6
+
+SENSOR DE POSICIÓN DEL
+DISTRIBUIDOR
+
+Sensores tipo perfil
+Principio de detección magnetostrictiva
+basada en el tiempo
+Bus de campo: CANbus, DeviceNet,
+Profibus-DP, EtherCAT® y EtherNet/IP
+Longitud de carrera 392 mm
+Conector 6 pines
+Voltaje de alimentación +24 Vdc (+20% 15%)
+Señal de salida 4 a 20mA
+Kit de programación de PC analógica serie
+R, n.º de pieza 253309-1
+
+1
+
+SENSOR DE POSICIÓN DE
+RODETE KAPLAN
+
+Sensores tipo varilla
+Principio de detección magnetostrictiva
+basada en el tiempo
+Bus de campo: CANbus, DeviceNet,
+Profibus-DP, EtherCAT® y EtherNet/IP
+Longitud de carrera 320 mm
+Conector 6 pines
+Voltaje de alimentación +24 Vdc (+20% 15%)
+Señal de salida 4 a 20mA
+
+1
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+22
+
+23
+
+24
+
+MODULO UNIVERSAL ASINTERFACE AC2620
+
+MODULO DE ENTRADAS
+ANALOGICAS 4-20mA AC2516
+
+MODULO DE ENTRADA DIGITAL
+AC5245
+
+Página:20 de 26
+
+Número de entradas y salidas Número de
+entradas Pt100: 4
+Rango de medición [°C] -200...850
+Tensión de alimentación [V] 26,5...31,6 DC
+Consumo de corriente máx. de AS-i, 80 [mA]
+Protección contra inversiones de polaridad
+Número de entradas y salidas Número de
+entradas Pt100: 4
+Resolución de la entrada analógica 16 bit /
+0,1 °C
+Homologaciones /pruebas CEM EN 50295
+Indicación señal analógica LED, amarillo
+canales AI1…AI4
+Número de entradas y salidas Número de
+entradas analógicas: 4
+Tensión de alimentación [V] 26,5...31,6 DC
+Consumo de corriente máx. de AS-i 157[mA]
+Suministro de tensión adicional [V] 24...30
+DC; (AUX)
+Número de entradas analógicas 4; (conexión
+de sensores de 2, 3 y 4 hilos)
+Precisión de la entrada analógica 0.5 [%]
+Grado de protección IP 67
+Homologaciones /pruebas CEM EN 50295
+Número de entradas y salidas digitales: 4
+Conexionado de las entradas digitales PNP
+Alimentación del sensor en las entradas AS-i
+Alimentación de tensión [V] 18...30
+Corriente máxima total de las entradas
+200[mA]
+Homologaciones /pruebas CEM EN 50295
+IEC 61000-6-2
+Grado de protección IP 67
+
+2
+
+2
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+25
+
+MONITOR DE POSICIÓN DE
+VALVULAS MB601
+
+Página:21 de 26
+
+Señalización local y remota
+Colores de indicación amarillo/negro
+Inscripción de señalización Abierto/Cerrado
+Actuación sentido horario vista superior
+Carcasa de policarbonato
+Eje principal Acero inox 304
+Acoplamiento directo Norma NAMUR
+VDI/VDE 3485
+Entrada de cables prensa cable PG13.5
+Grado de protección IP 68
+Especificaciones eléctricas T (SPDT)
+
+4
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+26
+
+MONITOR DE TEMPERATURA
+PARA TRANSFORMADORES DE
+ACEITE
+
+Página:22 de 26
+
+Voltaje de operación 48 a 265 Vdc/Vac
+50/60 Hz
+Temperatura de funcionamiento -40 a +85°C
+Temperatura de almacenamiento -50 a +60
+°C
+Consumo < 15W
+Entrada de medida de temperatura Hasta 2 x
+Pt100 a 3 hilos [100°C a 0°C]
+Salidas analógicas y opciones de carga
+máxima -50 a 250 °C o 0 a 200 °C
+Error Máximo de Entradas de Medida 4 20mA - 400 Ohmios.
+Error máximo de salida analógica 0,25% del
+final de la escala
+Contactos salientes 0,25% del final de la
+escala
+Máxima potencia de conmutación 13 – Libre
+de potencial
+Tensión máxima de conmutación 70 W / 250
+VA
+Corriente Máxima de Conducción 250
+Vac/Vdc
+Puerto de comunicación 6,0 A
+Protocolo de comunicación RS485 (2 hilos)
+Auto Baud Rate RS485 Modbus RTU y DNP
+3 L1/L2 (Esclavo)
+Puerto USB frontal 2400 a 57600 bps
+(automático/manual
+detección)
+Caja DIN IEC 61554 Serial USB - 2.0 - Tipo
+A
+Fijación con clip de acero 98 x 98 x 98 mm Aluminio
+Transformador de corriente - Núcleo dividido
+TC
+Señal de salida 4 a 20mA
+Rango de Medida 0 a 10 A
+Error Máximo de Entradas de Medida 1% del
+final de la escala
+linealidad 1% del final de la escala
+Temperatura de funcionamiento -40 a +85°C
+Temperatura de almacenamiento -50 a +60
+°C
+
+2
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+4.
+
+Página:23 de 26
+
+CONDICIONES PARTICULARES
+4.1 LOCALIDAD DONDE SE EJECUTARÁ LA CONTRATACIÓN
+
+Provincia: Imbabura
+Cantón: Cotacachi – Parroquia Garcia Moreno – Comuna Cielo Verde.
+4.2 DIRECCIÓN DE ENTREGA DE OFERTAS
+La entrega de las ofertas se realizará conforme las directrices constantes en el “Anexo 001Presentacion ofertas en CELEC EP” que se encuentra en la sección “Archivos” de los pliegos del
+proceso.
+4.3 LUGAR DE ENTREGA DE LOS BIENES
+La entrega e instalación de la totalidad de bienes objeto de esta contratación se realizará, en
+coordinación con el Administrador del Contrato, en las instalaciones de la central hidroeléctrica
+Manduriacu:
+Provincia: Imbabura
+Cantón: Cotacachi
+Parroquia: Garcia Moreno
+Comuna: Cielo Verde, Bodegas de la Central Hidroeléctrica Manduriacu
+4.4 OBLIGACIONES DE LAS PARTES
+4.5.1 OBLIGACIONES DEL CONTRATISTA
+1. Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano ofertado.
+2. Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con los términos y
+condiciones del contrato.
+3. El proveedor deberá cumplir con los plazos y ubicación de entrega, debiendo cumplir a plena
+satisfacción por parte del Administrador de Contrato.
+4.5.2 OBLIGACIONES DEL CONTRATANTE
+
+1. Suscribir las actas de entrega recepción de los trabajos recibidos, siempre que se haya
+cumplido con lo previsto en la ley para la entrega recepción; y, en general, cumplir con las
+obligaciones derivadas del contrato.
+2. Adicional deberá cumplir con el procedimiento implementado y solicitado por SSL al
+momento del ingreso a la entrega de los bienes.
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:24 de 26
+
+Número de días para la solución de
+peticiones o problemas
+15 días
+5. GARANTÍA TÉCNICA
+El proveedor deberá entregar la garantía técnica del fabricante representante, distribuidor o vendedor
+autorizado, por doce (12) meses de los equipos suministrados contra defectos de fábrica y mal
+funcionamiento, la cual entrará en vigencia a partir de la firma del Acta Entrega Recepción Única del
+Contrato.
+En caso de que los bienes entregados con cargo al objeto del contrato presentaren algún defecto de
+fábrica y/o mal funcionamiento deberán ser reemplazados por otros nuevos, de idénticas
+características, sin costo adicional alguno para la UNIDAD DE NEGOCIO COCA CODO SINCLAIR,
+con sus respectivos certificados de garantía. Esto no aplica si los daños hubieren sido ocasionados
+por el mal uso de los mismos por la Contratante o por fuerza mayor o caso fortuito, conforme lo
+señalado en el artículo 30 del Código Civil.
+Para la comprobación de este parámetro, los oferentes deberán presentar el Modelo de Garantía
+Técnica (Formato libre) con las directrices indicadas en el archivo “LINEAMIENTOS EMISION DE
+GARANTIA TECNICA” que se encuentra en la sección “Archivos” de los pliegos del proceso.
+6. MULTAS
+En la presente contratación se aplicará la multa equivalente al cinco por mil (5/1000) del valor total del Contrato,
+sin IVA, por cada día de retraso en el cumplimiento de su plazo total de ejecución, así como; por cada caso de
+incumplimiento de las demás obligaciones contractuales.
+7.
+
+TRANSFERENCIA DE TECNOLOGIA (EN CASO DE QUE APLIQUE)
+
+“No Aplica”
+8.
+
+REQUISITOS MÍNIMOS:
+8.1 OBSERVACIONES
+
+“No Aplica”
+8.2 EQUIPO MÍNIMO
+“No Aplica”
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:25 de 26
+
+8.3 PERSONAL TÉCNICO MÍNIMO
+“No Aplica”
+8.4 EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO
+“No Aplica”
+8.5 EXPERIENCIA GENERAL MÍNIMA DEL OFERENTE
+
+Descripción de la Experiencia General
+Mínima Requerida
+
+Periodo de experiencia
+Requerida
+(Normativa de
+Contratación Pública)
+
+Monto de experiencia
+general mínima
+requerida en relación
+al presupuesto
+referencial
+
+Monto mínimo requerido
+por cada contrato en
+relación al monto
+determinado en la
+experiencia general
+mínima
+
+Suministro de equipos
+industriales para la automatización,
+medición y control de procesos
+
+15
+
+$ 4500
+
+1
+
+8.6 EXPERIENCIA ESPECÍFICA MÍNIMA DEL OFERENTE
+
+Descripción de la Experiencia Específica
+Mínima Requerida
+
+Periodo de
+experiencia Requerida
+(Normativa de
+Contratación Pública)
+
+Monto de experiencia
+específica mínima
+requerida en relación
+al presupuesto
+referencial
+
+Monto mínimo requerido por
+cada contrato en relación al
+monto determinado en la
+experiencia específica
+mínima
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+8.7 OTROS PARAMETROS RESUELTOS POR LA ENTIDAD CONTRATANTE
+
+Nro.
+1
+
+PARÁMETRO
+Certificados de calibración
+
+DESCRIPCIÓN DEL PARÁMETRO SOLICITADO
+Para todos los ítems se considerará en la oferta el
+certificado de calibración de los instrumentos.
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+2
+
+Metodología de Desarrollo
+
+3
+
+Metodología y Cronograma
+
+4
+
+Plan de Trabajo
+
+5
+
+Plazo de Entrega
+
+6
+
+Programación de los Servicios
+
+7
+
+Trabajos Similares
+
+8
+
+Transferencia de Tecnología
+
+9
+
+DECLARACIÓN BAJO
+JURAMENTO
+
+Página:26 de 26
+
+Los proveedores deberán presentar obligatoriamente en su
+oferta una DECLARACIÓN BAJO JURAMENTO de: “NO
+TENER GLOSAS EN FIRME EN LA CONTRALORIA GENERAL
+DEL ESTADO”- (VER FORMATO EN EL INDICE DE
+ARCHIVOS DEL PLIEGO). La no presentación de este
+documento, será causal de descalificación de la oferta
+
+9. ANEXOS
+
+N°
+1
+
+DESCRIPCIÓN DEL ARCHIVO / ANEXO
+REQUERIMIENTO TECNICO DE LA NECESIDAD.
+
+

@@ -1,0 +1,52 @@
+
+  DETALLE DE PRECIOS UNITARIOS
+SUBASTA INVERSA ELECTRÓNICA Nro. SIE-GADIMCD-30-2022
+SERVICIO DE LOGÍSTICA E IMPLEMENTACIÓN DE MOBILIARIO Y AUDIO PARA LA ORGANIZACIÓN DE ACTIVIDADES TERRITORIALES AUSPICIADAS POR EL G.A.D.I. MUNICIPALIDAD DEL CANTÓN DAULE
+ÍTEM CÓDIGO CPC CANTIDAD UNIDAD DE MEDIDA DETALLE VALOR UNITARIO VALOR TOTAL
+1.0 732300011.0 19000.0 U Alquiler de sillas plásticas sin brazos, apilables
+2.0 350.0 U Alquiler de Mesas  (Hasta 2 x 0.80)
+3.0 300.0 U Alquiler de Carpas 6 x 6 con tela protectora
+4.0 100.0 U Alquiler de Carpas 4 x 4 con su respectiva tela protectora
+5.0 200.0 U Alquiler de Manteles Largos (Color blanco)
+6.0 100.0 U Alquiler de Sobremanteles (Color amarillo)
+7.0 800.0 U Alquiler de Forros para sillas
+8.0 60.0 U Alquiler de Silla Tiffany con Lazo
+9.0 180.0 U Alquiler de Audio 3500 wts (Pequeño)
+10.0 100.0 U Alquiler de Audio 5200 wts (Mediano)
+11.0 30.0 U Alquiler de Audio 9200 wts (Grande)
+12.0 1.0 U Alquiler de Audio 60000wts (Aéreo) con iluminación 
+13.0 275.0 U Servicio logístico
+14.0 5.0 U Alquiler de Pantalla Led 4x3 con cercha/truss 5x5 para altura
+15.0 15.0 U Alquiler de Pantalla LED  3x2  en piso, con soporte
+16.0 6.0 U Alquiler de TV Led DE 50” con pedestal
+17.0 50.0 U Alquiler de Tarima (metros cuadrados)
+18.0 40.0 U Alquiler de Podium
+19.0 8.0 U Animación/maestro de ceremonias
+20.0 30.0 U Kit de Arreglos Florales Varios
+21.0 12.0 U Pirotecnia fría diversos efectos
+22.0 10.0 U Pirotecnia  caliente diversos efectos
+23.0 10.0 U Instrumentación con presentaciones musicales (Sinfónicas
+y/o Orquestas) 
+24.0 2.0 U Generador Electrico 120kv 
+SUBTOTAL
+IVA 12%
+TOTAL
+Fecha :
+FIRMA DEL OFERENTE
+2018.0 DICIEMBRE 0.001
+2019.0 ENERO 0.0047
+2019.0 FEBRERO -0.0023
+2019.0 MARZO -0.0021
+2019.0 ABRIL 0.0017
+2019.0 MAYO -4e-05
+2019.0 JUNIO -0.0004
+2019.0 JULIO 0.0009
+0.0034599999999999995 0.0034599999999999995
+7.3875
+19.76
+precio con inflacion Precio actual %variación
+Toallitas humedas 2.94 2.9501724 2.95 2.4 -0.5500000000000003 -0.18644067796610178
+Mascarilla 3.96 3.9737016 3.97 2.81 -1.1600000000000001 -0.292191435768262
+2.856
+Toallitas humedas 2.94 0.7644 3.7043999999999997 -0.7643999999999997
+Mascarilla 3.96 1.0296 4.9896

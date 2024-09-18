@@ -1,0 +1,176 @@
+DIRECCIÓN NACIONAL DE
+EQUIPAMIENTO SANITARIO
+EQUIPO BIOMÉDICO
+DATOS GENERALES
+CÓDIGO DNES Nº:
+REVISIÓN:
+NOMBRE ECRI:
+CÓDIGO ECRI:
+NOMBRE GENÉRICO:
+PERIODO DE VIGENCIA:
+
+TOR-03-R17
+DÉCIMA SEPTIMA
+Sistemas de exploración
+13-468
+TORRE PARA CIRUGÍA LAPAROSCÓPICA
+Desde: 01/01/2022
+Hasta: 31/12/2022
+
+ESPECIFICACIONES TÉCNICAS
+VALOR
+
+ATRIBUTO
+Número de pantallas
+Pantalla de visualización
+Resolución
+Relación de aspecto
+Puertos de entrada
+Filtros de imagen
+Balance de blancos
+Puertos de salida
+
+Visualización
+Dos (2)
+≥ 26 pulgadas, de grado médico
+≥ 1920 x 1080 pixeles
+≥ 16:9
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+Procesador de video
+≥ 3 (tres)
+Automático
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+Cabezal de cámara
+
+Funcionamiento
+Botones de control
+Control de funciones
+Resolución
+Distancia focal
+Desinfección
+Lámpara de iluminación
+Temperatura de color
+Control de intensidad
+Gas de insuflación
+Flujo regulable
+Presión regulable
+Visualización de parámetros
+Regulación de parámetros
+Seguridad de paciente
+Puertos de entrada
+Puertos de salida
+Almacenamiento interno
+Almacenamiento externo
+Extracción de información
+Protocolos
+
+MCM
+
+≥ 3 Chips CCD o CMOS
+≥ 2 programables
+Todas las funciones disponibles desde el cabezal
+≥ 1920 x 1080 pixeles
+≥ 10 mm y ≤ 40 mm
+Mediante autoclave y/o sumergible
+Fuente de luz
+LED
+≥ 5000 °K y ≤ 7000°K
+Regulable
+Insuflador
+Dióxido de carbono (CO2)
+0 l/min a ≥ 30 l/min
+≤ 3 mmHg a ≥ 25 mmHg
+Mediante pantalla
+Mediante pantalla táctil y/o teclado
+Contra sobre presión
+Grabador de video
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+≥ 1 TB
+Requerido
+Mediante USB y/o DVD
+DICOM y/o HL7
+
+Pág. 1 de 2
+
+Cobertor de equipo
+
+Accesorios
+Uno (1) móvil, propio del equipo, con sistema de frenado,
+además deberá incluir mínimo:
+- un (1) soporte giratorio y articulado para el monitor,
+- una (1) bandeja para teclado,
+- un (1) soporte para cabezal de cámara,
+- tres (3) bandejas para ubicar los equipos,
+- una (1) regleta de conexión eléctrica,
+- una (1) extensión eléctrica de 3 m
+Uno (1) móvil, propio del equipo, con sistema de frenado,
+además deberá incluir mínimo:
+- un (1) soporte giratorio y articulado para el monitor
+Uno (1) propio del equipo, que cubra toda la torre
+
+Disco duro externo de expansión
+
+Uno (1) tipo torre de ≥ 8 TB
+
+Energía de respaldo
+Teclado en español
+Dispositivo apuntador (ratón)
+Cables de conexión eléctrica
+Cables de audio y/o video
+Cable de fibra óptica
+
+Manguera de paciente
+
+Un (1) UPS ≥ 1,5 kVA
+Uno (1) de grado médico
+Uno (1) de grado médico
+Para todos lo equipos que lo requieran
+Para todos lo equipos que lo requieran
+Dos (2), longitud ≥ 2,5 m
+Una (1) para el insuflador con conector acorde al requerimiento
+del Establecimiento de Salud
+Dos (2) reutilizables, compatibles con el insuflador
+
+Filtro descartable para insuflador
+
+Veinte (20)
+
+Sistema de montaje principal
+
+Sistema de montaje secundario
+
+Manguera neumática
+
+Recipiente para esterilización del
+cabezal de cámara
+Cable de alta frecuencia
+monopolar
+Unidad de Almacenamiento USB
+
+Uno (1) propio del equipo
+Uno (1), con conector acorde al requerimiento del
+Establecimiento de Salud
+Uno (1) propio del equipo
+
+OTRAS ESPECIFICACIONES
+Energía / Alimentación
+Garantía técnica fabricante
+Certificados de Calidad del
+Equipo
+
+110 ~ 127 VAC / 60 Hz
+Dos (2) años a partir de la recepción definitiva del bien
+Al menos una (1) de las siguientes certificaciones:
+FDA / CE
+Firmado electrónicamente por:
+
+ALEX MANUEL
+DEMERA
+RAMIREZ
+
+MCM
+
+Pág. 2 de 2
+
+

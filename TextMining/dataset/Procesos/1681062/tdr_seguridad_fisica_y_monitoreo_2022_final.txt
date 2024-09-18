@@ -1,0 +1,983 @@
+
+                                          Samborondón 04 de febrero del 2022
+
+
+       TÉRMINOS DE REFERENCIA PARA PROCESOS CONTRATACIÓN “SERVICIO DE
+           SEGURIDAD FÍSICA Y MONITOREO ELECTRÓNICO BODEGA MATRIZ”
+   Código C.P.C. del servicio. 852500021 PUNTO DE SEGURIDAD INSTITUCIONAL
+                     DE 24 HORAS PERMANTE CON ARMA LETAL
+
+           1. ANTECEDENTES
+
+      Mediante Decreto Ejecutivo 1046-A, de 26 de abril de  2008,  publicado
+      en Registro Oficial No 345, de 26 de mayo de 2008,  se  reorganiza  la
+      Dirección Nacional de Defensa Civil, y se crea la  Secretaría  Técnica
+      de Gestión de Riesgos,  adscrita  al  Ministerio  de  Coordinación  de
+      Seguridad Interna y Externa, adquiriendo por este mandato,  todas  las
+      competencias, atribuciones, funciones, representaciones y delegaciones
+      constantes en leyes, reglamentos y demás instrumentos  normativos  que
+      hasta ese momento le correspondían a la Dirección Nacional de  Defensa
+      Civil y a la Secretaría General  del  Consejo  de  Seguridad  Nacional
+      (COSENA), en materia de Defensa Civil;
+
+      Mediante Decreto  Ejecutivo  42  de  10  de  septiembre  de  2009,  la
+      Secretaría  Técnica  de  Gestión  de  Riesgos,  pasa   a   denominarse
+      Secretaría Nacional de Gestión de Riesgos, en el cual se establece sus
+      competencias y funciones de manera  independiente,  descentralizada  y
+      desconcentrada;
+
+      Mediante Decreto Ejecutivo 103 de 20 de octubre de 2009, publicado  en
+      Registro Oficial No. 58, de 30 de  octubre  de  2009,  se  reforma  el
+      Decreto Ejecutivo No. 42, y se le da el rango de Ministro de Estado al
+      Secretario (a) Nacional de Gestión de Riesgos;
+
+      Mediante Decreto Ejecutivo 62 de 05 de agosto de 2013, suscrito por el
+      señor Presidente Constitucional de la  República  del  Ecuador,  Econ.
+      Rafael Correa Delgado, reforma el  Estatuto  del  Régimen  Jurídico  y
+      Administrativo de la Función Ejecutiva cambiando  la  denominación  de
+      Secretaría Nacional de Gestión de Riesgos por Secretaría de Gestión de
+      Riesgos;
+
+      El artículo 389 de la Constitución de la República en sus numerales  4
+      y 5 establece lo siguiente: “El Estado protegerá a las  personas,  las
+      colectividades y la naturaleza frente a los efectos negativos  de  los
+      desastres de origen natural o antrópico mediante la prevención ante el
+      riesgo, la mitigación de desastres, la recuperación y mejoramiento  de
+      las condiciones sociales, económicas y ambientales, con el objetivo de
+      minimizar  la  condición  de  vulnerabilidad.  El   sistema   nacional
+      descentralizado de gestión de riesgo está compuesto por  las  unidades
+      de gestión de riesgo de todas las instituciones públicas y privadas en
+      los ámbitos local, regional y nacional. El Estado ejercerá la rectoría
+      a través del organismo técnico establecido  en  la  ley.  Tendrá  como
+      funciones principales, entre otras:
+
+      4. Fortalecer en la ciudadanía y en las entidades públicas y  privadas
+      capacidades para identificar los riesgos inherentes a sus  respectivos
+      ámbitos  de  acción,  informar  sobre  ellos,  e  incorporar  acciones
+      tendientes a reducirlos.
+
+      5. Articular las instituciones para que coordinen acciones  a  fin  de
+      prevenir y mitigar los riesgos, así como para enfrentarlos,  recuperar
+      y mejorar las condiciones anteriores a la ocurrencia de una emergencia
+      o desastre”;
+
+      El artículo 390 de la Constitución de la República, determina que “Los
+      Riesgos  se  gestionarán  bajo  el  principio   de   descentralización
+      subsidiaria,  que  implicará  la  responsabilidad   directa   de   las
+      instituciones dentro de su ámbito geográfico. Cuando  sus  capacidades
+      para la gestión del riesgo sean insuficientes, las instancias de mayor
+      ámbito territorial y mayor capacidad técnica y financiera brindarán el
+      apoyo necesario con respeto a su autoridad  en  el  territorio  y  sin
+      relevarlos de su responsabilidad”;
+
+      El artículo 11 de la Ley de Seguridad Pública y del  Estado  establece
+      en su literal d) que la prevención y las medidas  para  contrarrestar,
+      reducir y mitigar los riesgos de origen natural  y  antrópico  o  para
+      reducir de vulnerabilidad, corresponden a  las  entidades  públicas  y
+      privadas, nacionales, regionales y locales. La rectoría la ejercerá el
+      Estado a través de la Secretaria Nacional de Gestión de Riesgos;
+
+      El literal d) del artículo 3 del Reglamento de  la  Ley  de  Seguridad
+      Pública y del Estado  establece  como  competencia  de  la  Secretaría
+      Nacional de Gestión de Riesgos “d) Fortalecer en la  ciudadanía  y  en
+      las entidades públicas y privadas  capacidades  para  identificar  los
+      riesgos inherentes a sus respectivos ámbitos de acción”;
+
+      Mediante Decreto Ejecutivo Nro. 534, de 03  de  octubre  de  2018,  el
+      señor Lcdo. Lenin  Moreno  Garcés,  Presidente  Constitucional  de  la
+      República del Ecuador, dispuso la transformación de la  Secretaría  de
+      Gestión de Riesgos en el Servicio Nacional de  Gestión  de  Riesgos  y
+      Emergencias, dirigido por un Director/a General con rango de  Ministro
+      de Estado.
+
+
+      La SNGRE. como institución pública, debe  cumplir  con  las  normas  y
+      procedimientos legales, administrativos y operativos, con  los  cuales
+      se minimizan los riesgos que en la actualidad se presentan.
+      Dentro  de  las  atribuciones  y  responsabilidades  de  la  Dirección
+      Administrativa, establecidas en el Estatuto Orgánico por procesos,  se
+      encuentra la  de  planificar  y  supervisar  la  contratación  de  los
+      servicios de vigilancia y seguridad integral para  las  instalaciones;
+      por lo cual es imprescindible para SNGRE iniciar y continuar  contando
+      con la provisión del servicio de seguridad y vigilancia armada, motivo
+      por el que solicita la contratación del “SERVICIO DE SEGURIDAD  FÍSICA
+      Y MONITOREO ELECTRÓNICO BODEGA MATRIZ”
+
+
+
+
+           2. OBJETO DE LA CONTRATACIÓN
+
+      Contratar el “SERVICIO DE SEGURIDAD FÍSICA Y MONITOREO ELECTRÓNICO
+      BODEGA MATRIZ”
+
+
+      • PUESTO DE SERVICIO DE 24 HORAS PERMANENTE CON ARMA LETAL
+
+      Objetivos:
+         ✓  Brindar  protección  a  la  integridad   tanto   del   personal
+           administrativo y personal externo;
+         ✓ Tener control tanto del personal que ingresa como  del  personal
+           que sale de las instalaciones;
+
+
+           3. OBJETIVO DE LA CONTRATACIÓN
+
+
+      El presente proceso tiene como objetivo velar por la seguridad de la
+      bodega matriz km 7.5 vía Daule del Servicio de Seguridad Física y
+      Vigilancia Armada se ejecutará en los bienes administrados por EL
+      SERVICIO NACIONAL DE GESTIÓN DE RIESGOS Y EMERGENCIAS. siendo estos:
+
+
+      • Bodega Matriz, ubicada en el km 7,5 vía Daule.
+
+           4. ALCANCE DE LA CONTRATACIÓN
+
+El servicio de “SEGURIDAD FÍSICA”  para  bodega  del  Servicio  Nacional  de
+Gestión  de  Riesgos  y  Emergencias  deberá  comprender:  el  servicio   de
+seguridad  física,  vigilancia  armada  y  supervisada,  para  custodiar  La
+bodega,  es  decir:  instalaciones,  bienes  propios  y  aquellos   que   se
+encuentran en custodia  del  Servicio  Nacional  de  Gestión  de  Riesgos  y
+Emergencias en la bodega matriz; así como velar  por  la  seguridad  de  los
+servidores y visitantes en general, que se encuentren  al  interior  de  las
+instalaciones  o   bodega  las  24  horas  diarias  acorde  al  termino   de
+referencia que se adjuntan en el presente documento.
+
+
+El servicio de “MONITOREO ELECTRÓNICO DE ALARMAS  CON  RESPUESTA  INMEDIATA”
+para el Servicio Nacional  de  Gestión  de  Riesgos  y  Emergencias;  deberá
+precautelar la seguridad de las instalaciones y bodega, los  bienes  propios
+y aquellos que se encuentran en  custodia  de  esta  entidad;  custodiar  La
+bodega,  es  decir:  instalaciones,  bienes  propios  y  aquellos   que   se
+encuentran en custodia  del  Servicio  Nacional  de  Gestión  de  Riesgos  y
+Emergencias en la bodega matriz; así como velar  por  la  seguridad  de  los
+servidores y visitantes en general, que se encuentren  al  interior  de  las
+instalaciones  o   bodega  las  24  horas  diarias  acorde  al  termino   de
+referencia que se adjuntan en el presente documento.
+
+
+           5. METODOLOGÍA DE TRABAJO
+
+
+      El contratista para la prestación del servicio de seguridad  física  y
+      vigilancia  armada,  debe  considerar  la  siguiente  metodología   de
+      trabajo:
+
+
+      •  El  servicio  debe  brindarse  de  acuerdo   a   las   condiciones
+        establecidas en los presentes términos  de  referencia,  e  incluye
+        velar por la seguridad de los funcionarios, usuarios  y  visitantes
+        en general, que se encuentren al interior de las dependencias de la
+        institución
+      • El servicio se deberá realizar mediante la asignación  de  personal
+        de   guardias   de   seguridad,   y    supervisores,    debidamente
+        seleccionados, entrenados y,  dotados  del  equipamiento  necesario
+        para brindar un servicio de calidad.
+      • Los puestos de  guardia  corresponden  a  los  autorizados  por  la
+        Dirección de Regulación y Control del Ministerio del Interior.
+      • La ubicación de los puestos de guardia  podrá  ser  modificada,  en
+        caso de cambio de dirección de los bienes, para lo cual bastará  la
+        notificación por parte del Administrador del Contrato con 3 días de
+        anticipación.
+      • Todo el personal deberá contar siempre  con  la  credencial  de  la
+        empresa que lo identifique
+      • El Contratista deberá  mantener  una  conexión  permanente  con  la
+        Policía Nacional y Cuerpo de Bomberos de la localidad,  cuando  las
+        circunstancias así lo requieran.
+      • En caso de que por necesidad institucional se requiera  eliminar  o
+        disminuir determinado puesto de guardia, se procederá con la debida
+        notificación al contratista, por  lo  que  solo  se  cancelará  ese
+        puesto hasta la fecha en que se notificó dicha disminución
+      • Se  deberá  presentar  la  debida  planificación  del  servicio  de
+        vigilancia y seguridad privada, a fin de garantizar que  se  cumpla
+        con la  especificación  de  "Factor  Hombre"  para  cada  punto  de
+        servicio, dando cumplimiento a lo determinado en los artículos  47,
+        49 y 55 del Código de Trabajo
+      • El horario de alimentación de los guardias, deberá  ser  coordinado
+        de tal manera que los puestos de  trabajo  no  queden  abandonados,
+        debiendo utilizar el debido “saca franco”.
+      • Se deberá coordinar con el Administrador del contrato, en un máximo
+        de 10 días contados a partir de la suscripción  del  contrato,  una
+        inducción  al  personal  operativo  del   contratista   sobre   los
+        lineamientos institucionales
+      • De darse el caso de que el personal de guardia llegare a faltar  en
+        los lugares donde prestan  sus  servicios,  el  contratista  deberá
+        reemplazarlos con otros guardias en  igual  número,  con  la  misma
+        calificación de idoneidad; y, en el caso que dicho reemplazo sea de
+        forma definitiva el Contratista deberá presentar  al  Administrador
+        del Contrato, para  su  debida  aprobación,  la  documentación  que
+        sustente que el reemplazo cumple con los requisitos  exigidos  para
+        su calificación
+      • El contratista deberá contar con la logística necesaria para que en
+        casos de emergencia tenga una unidad de respuesta armada.
+      • Los puestos de guardianía deberán estar  cubiertos  por  grupos  de
+        trabajadores que laborarán de acuerdo  a  la  jornada  de  trabajo,
+        según la normativa vigente.
+      • El contratista deberá contar con un Jefe  de  Operaciones  a  nivel
+        Nacional, quién responderá y coordinará con  el  administrador  del
+        contrato, a fin de  atender  los  problemas  operacionales  que  se
+        puedan suscitar en las diferentes instalaciones que son objeto  del
+        contrato.
+      • El contratista deberá contar con un  Jefe  Administrativo  o  quien
+        hago  sus  veces  (de  nivel  gerencial  quien  coordinará  con  el
+        administrador  del  contrato,  a  fin  de  atender  los   problemas
+        administrativos  que  se  puedan   suscitar   en   las   diferentes
+        instalaciones que son objeto del contrato
+      • El personal asignado deberá estar capacitado, instruido y entrenado
+        de conformidad con lo dispuesto en la Ley de Vigilancia y Seguridad
+        Privada y  su  Reglamento.  Deberá  disponer  del  elemento  humano
+        necesario y requerido para el cumplimiento del contrato.
+      • El personal deberá estar debidamente calificado y especializado  en
+        las labores objeto de la misma, para lo cual la Entidad contratante
+        a través del Administrador del Contrato, se reserva el  derecho  de
+        aceptar o rechazar dicho personal cuando lo  estime  conveniente  y
+        sin necesidad de aducir o justificar los motivos para ello.
+      • A partir de la firma del contrato, la contratista deberá cumplir en
+        un plazo no mayor a dos (2) días calendario, con  la  recepción  de
+        las localidades e instalaciones de los puntos solicitados  para  el
+        servicio para lo que deberá firmar las respectivas actas de entrega
+        – recepción (modelo en anexo 1).
+      • Los guardias de  seguridad  tendrán  la  obligación  de  portar  su
+        credencial de identificación personal otorgada  por  la  respectiva
+        compañía,  durante  su  jornada  de  trabajo,  la  misma  que  será
+        intransferible y que cumplirá con los requisitos detallados  en  el
+        Reglamento a la Ley de Vigilancia y Seguridad Privada.
+      • Control de accesos de servidores, usuarios,  clientes,  visitantes,
+        proveedores y  contratistas  dentro  de  las  instalaciones  de  la
+        entidad contratante
+      • Vigilancia y control de acceso de vehículos autorizados.
+      • Vigilancia y control de salida de bienes de la entidad, debidamente
+        autorizados, a través de la verificación y recepción  del  acta  de
+        salida de bienes, la cual deberá  ser  entregada  por  el  servidor
+        competente de la institución,  al  guardia  de  seguridad  para  su
+        revisión correspondiente.
+      • Prevención, disuasión y reacción en caso de incendios,  accidentes,
+        sabotajes,  terrorismo  y  cualquier  otro  tipo  de  siniestros  o
+        emergencias en coordinación con el Administrador del contrato.
+      • Proporcionar una fuerza de acción y reacción ante cualquier  evento
+        de desastre natural
+      • Vigilancia interna y externa de las  instalaciones  de  la  entidad
+        contratante
+      • Revisar los bultos, paquetes, maletines, sin excepción de  personas
+        o funcionarios del  Servicio  Nacional  de  Gestión  de  Riesgos  y
+        Emergencias. etc., que ingresen o salgan de las instalaciones de la
+        entidad, portados personalmente o en vehículos, con la finalidad de
+        evitar el ingreso de objetos o artículos que pongan  en  riesgo  la
+        seguridad integral en las instalaciones o que, de acuerdo a  normas
+        internas, no estén autorizados.
+      • Intervenir y neutralizar la acción de personas que  atenten  contra
+        la institución, para ser entregadas a las  autoridades  policiales,
+        cuando las circunstancias así lo exijan.
+      •  Poner  en  conocimiento  verbal  inmediato  del  fiscalizador  del
+        contrato  de  cada  localidad  respecto  de  cualquier  novedad   o
+        emergencia que se suscite tanto con servidores, visitantes y en las
+        instalaciones en general, luego deberá realizar el  debido  informe
+        al Administrador del Contrato con  copia  al  Gerente  de  Sucursal
+        correspondiente
+      • Detectar a  personas  y  vehículos  sospechosos  que  merodeen  las
+        instalaciones.
+      • Evitar robos, atentados y toma física de las instalaciones.
+      • Coordinar el sistema de control y planes de acción en  coordinación
+        con el Administrador  y  fiscalizadores  del  Contrato,  planes  de
+        evacuación del edificio  y  demás  que  se  pudieren  ocasionar  en
+        eventos de desastres naturales
+      • Controles específicos mediante rondas permanentes,  después  de  la
+        salida de personal de las oficinas, al término del horario  laboral
+        (verificación y previsión de situaciones inseguras).
+      • Registrar  en  las  bitácoras  las  novedades  diarias  y  todo  lo
+        referente a los procedimientos y protocolos  de  seguridad  que  se
+        ejecutan en estos procesos de control.
+
+
+           6. INFORMACION QUE DISPONE LA ENTIDAD Y FORMA DE PAGO.
+
+
+      • Puesto de 24 horas de  lunes  a  domingo  con  arma  letal.  Puntos
+        requeridos Bodega MATRIZ km 7,5 vía Daule Guayaquil, frente a Aguas
+        Montaña.
+      • Se cancelará de manera mensual por el lapso del servicio entregado,
+        a entera satisfacción de la contratante, previa la presentación  de
+        facturas y la documentación  de  respaldo  debidamente  legalizada,
+        verificada, según emisión de informe favorable  de  aprobación  del
+        administrador del contrato con suscripción de Informe.
+
+           7. PRODUCTOS O SERVICIOS ESPERADOS
+
+
+El servicio debe brindarse de acuerdo a las condiciones establecidas en  los
+presentes términos de referencia, e incluye velar por la  seguridad  de  los
+bienes, funcionarios, usuarios y visitantes en general,  que  se  encuentren
+al interior de las dependencias de la institución
+      El contratista luego del inicio de su gestión, en un tiempo no mayor a
+      30 días deberá entregar al  Administrador  del  contrato,  un  informe
+      técnico respecto de los protocolos de seguridad encontrados y posibles
+      mejoras en cada uno de los bienes s considerados en  materia  de  este
+      contrato, con las debidas recomendaciones para mejorar y garantizar el
+      buen resguardo de los bienes del SNGRE
+      El contratista deberá cumplir con todas las  obligaciones  estipuladas
+      en estos términos de referencia, materia de este contrato
+      Vigencia de la oferta debe contemplar 90 días.
+
+           8. PLAZO DE EJECUCIÓN (144 días)
+
+      El plazo de ejecución  del  objeto  de  contratación  va  conforme  el
+      siguiente detalle:
+
+
+           puesto de 24 horas de lunes a domingo con arma letal. Los puntos
+           requeridos Bodega Matriz km 0,5 vía Daule Guayaquil. (144 días)
+
+      previa recepción del puesto de seguridad física,  según  el  siguiente
+      detalle:
+
+
+
+
+
+
+      |ACTIVIDAD                 |PLAZO                        |
+|Suscripción del Acta      |2 Días calendario previo al  |
+|Entrega – Recepción del   |inicio del servicio          |
+|puesto de seguridad física|contratado.                  |
+|Servicio                  |Por 144 días previa recepción|
+|                          |del puesto de seguridad      |
+|                          |física.                      |
+
+
+    ““SERVICIO DE SEGURIDAD FÍSICA Y MONITOREO ELECTRÓNICO BODEGA MATRIZ”
+      ”
+      El plazo para la ejecución del Servicio de  Monitoreo  Electrónico  de
+      Alarmas con Respuesta Inmediata es de acuerdo al siguiente detalle:
+
+
+      |ACTIVIDAD                   |PLAZO                      |
+|Levantamiento de información|1 días calendario contados |
+|de la ubicación con sus     |a partir de la firma del   |
+|respectivos planos y        |contrato.                  |
+|configuración de los equipos|                           |
+|existentes, donde se va a   |                           |
+|brindar el servicio de      |                           |
+|Monitoreo.                  |                           |
+|Entrega de Informe de       |1 días calendario contados |
+|ubicación de los equipos    |a partir de la finalización|
+|existentes                  |del levantamiento de la    |
+|                            |información.               |
+|Servicio                    |A partir de la entrega del |
+|                            |informe de equipos         |
+|                            |existentes, hasta la       |
+|                            |culminación del plazo del  |
+|                            |Servicio de Seguridad      |
+|                            |Física                     |
+
+
+           1. PERSONAL TÉCNICO / EQUIPO DE TRABAJO / RECURSOS
+
+
+      9.1 Personal Técnico / Equipo de Trabajo:
+
+      Para la prestación del  servicio,  la  entidad  requiere  contar  como
+      mínimo con el siguiente personal técnico:
+
+|NRO.  |FUNCIÓN    |NIVEL DE       |CANT.  |
+|      |           |ESTUDIO        |       |
+|1     |Jefe de    |Bachiller      |1      |
+|      |Operaciones|               |       |
+|2     |Guardia de |Instrucción    |3      |
+|      |seguridad  |básica         |       |
+
+
+        9.2 Recursos:
+
+      o Uniformes
+      o 1 vehículo con el logo y sello  de  identificación  de  la  empresa
+        previo a iniciar sus trabajos, demostrando efectividad en  patrulla
+        y respuesta.
+
+           2. PRESUPUESTO REFERENCIAL
+
+
+      De acuerdo al artículo 265  de  la  Resolución  Nro.   RE-SERCOP-2016-
+      0000072 de 31 de agosto de 2016 emitida por el SERCOP, el  presupuesto
+      referencial no será visible; sin embargo, el mismo se mostrará una vez
+      que el proceso esté adjudicado, mismo que se encuentra  respaldado  en
+      el respectivo estudio de mercado para  la  obtención  del  presupuesto
+      referencial.
+
+           3. OBLIGACIONES ADICIONALES DEL CONTRATISTA:
+         o Cumplir  con  las  disposiciones  de  la  Ley  de  Vigilancia  y
+           Seguridad Privada y su Reglamento de aplicación.
+         o Cumplimiento con las obligaciones laborales, como  el  pago  del
+           salario básico unificado (SBU) o los salarios y tarifas  mínimas
+           sectoriales conforme las resoluciones del Ministerio de  Trabajo
+           y  Consejo  Nacional  de  Salarios  (CONADES),  respectivamente.
+           Además, deberá pagar el décimo tercero y décimo cuarto  sueldos,
+           fondos  de  reserva,  utilidades,  horas  suplementarias,  horas
+           extraordinarias, y demás beneficios de Ley  a  sus  trabajadores
+           conforme a la planificación mensual presentada (se adjunta Ficha
+           técnica.
+         o Para salvaguardar la integridad física del  personal  operativo,
+           que se deriven de su actividad de vigilancia,  las  empresas  de
+           seguridad privada contrataran una póliza de  seguro  de  vida  y
+           accidentes  que  tenga  una  cobertura  por  muerte  accidental,
+           incapacidad total y permanente, con un valor asegurado mínimo de
+           USD$50.000,00 (Cincuenta  mil  00/100  Dólares  de  los  Estados
+           Unidos de América) para cada guardia; y, gastos médicos, con  un
+           valor asegurado  mínimo  de  USD$20.000,00  (Veinte  mil  00/100
+           Dólares de los Estados Unidos de América) por evento.
+         o Deberá contar con una póliza de seguro de responsabilidad  civil
+           contra daños a terceros y/o usuarios, para garantizar a  quienes
+           puedan resultar perjudicados en  el  proceso  de  prestación  de
+           servicios, con un valor asegurado mínimo de USD $ 100.000  (Cien
+           mil 00/100 dólares de los Estados Unidos de América).
+         o Deberá prestar el servicio de seguridad de manera ininterrumpida
+           conforme a la naturaleza del contrato.
+         o Los guardias asignados a prestar el servicio de seguridad, en la
+           entidad contratante, no podrán  prestar  el  servicio  en  otras
+           instituciones del estado ni privadas.
+         o La  contratista  deberá  contar  con  los  recursos  financieros
+           suficientes para realizar los  pagos  al  personal  asignado  al
+           contrato, aun cuando la entidad contratante no haya cancelado la
+           prestación del servicio.
+         o El contratista deberá mantener un botiquín de primeros  auxilios
+           con  medicina  básica,  como  gasa,  algodón,  desinfectante  de
+           heridas y demás que se consideren de primeros auxilios, en  cada
+           una de las instituciones a fin de solucionar problemas de  salud
+           en el personal de su representada.
+         o Deberá sugerir y  participar  en  las  tareas  de  prevención  y
+           simulacros de  actos  que  atenten  a  los  bienes,  personas  y
+           actividades  de  la   entidad   contratante,   dentro   de   las
+           instalaciones.
+         o Mantener vigente el permiso de tenencia  de  armas  y  de  porta
+           armas,  durante  la  vigencia  del  contrato,  el  cual   deberá
+           presentarlo de manera aleatoria al administrador  del  contrato,
+           cuando sea requerido.
+
+         o No tener deuda y estar al día con el  Instituto  Ecuatoriano  de
+           Seguridad Social.
+
+         o Los guardias de seguridad tendrán la  obligación  de  portar  su
+           credencial de identificación personal otorgada por la respectiva
+           compañía, durante su jornada  de  trabajo,  la  misma  que  será
+           intransferible y que cumplirá con los requisitos  detallados  en
+           el Reglamento a la Ley de Vigilancia y Seguridad Privada.
+
+         o  El  contratista  deberá  contar  entre  su  personal,  con   un
+           responsable  administrativo,  un  médico   ocupacional,   y   un
+           supervisor
+
+         o Adicionalmente, siempre que exista  un  cambio  en  el  personal
+           asignado, el Administrador del contrato deberá  revisar  que  el
+           nuevo personal cumpla  con  lo  solicitado  para  el  cargo  que
+           ocupará, para lo cual el oferente deberá  remitir  la  siguiente
+           documentación:
+         o Hoja de vida actualizada con foto legible
+         o Copia de cédula de ciudadanía y Cedula Militar
+         o 2 referencias laborales y una personal.
+         o Aviso de ingreso al IESS.
+         o Copia del contrato del empleado regularizado en el Ministerio de
+           trabajo.
+           4. TÉRMINO PARA LA ATENCIÓN/SOLUCIÓN DE PETICIONES/PROBLEMAS:
+           5 días
+           5. NÚMERO DE DÍAS PARA CELEBRAR CONTRATOS COMPLEMENTARIOS
+
+
+           15 días
+
+
+           6. OBLIGACIONES ADICIONALES DEL CONTRATANTE:
+         • Designar un administrador del contrato.
+         • Cumplir con las obligaciones de  pago  del  servicio  de  manera
+           oportuna, luego de haber recibido  los  documentos  habilitantes
+           según lo estipulado en los términos del contrato.
+
+           7. PARAMETROS DE CALIFICACIÓN DE LA OFERTA:
+
+      15.1 Integridad de la Oferta
+
+      La integridad de la oferta se evaluará considerando la presentación de
+      los formularios de la  oferta  y  requisitos  mínimos  previos  en  el
+      pliego.
+
+     2. Equipo Mínimo
+
+      UNIFORME DEL PERSONAL DE SEGURIDAD E IDENTIFICACIÓN
+
+      El personal de seguridad para poder desempeñar sus actividades  deberá
+      contar con el uniforme y la respectiva credencial  de  identificación.
+      El uniforme deberá ser entregado al inicio del contrato como mínimo en
+      dos juegos completos que deberán contener.
+       • 2 camisas con el distintivo de la compañía.
+       • 2 pantalones.
+       • 2 gorras jockey.
+       • 1 par de botas (tipo militar) o zapatos de acuerdo a su uniforme.
+       • 1 chompa para el frío con el distintivo de la compañía.
+       • 1 equipo contra lluvia (impermeable).
+       • Credencial actualizada de la empresa.
+
+      La contratista deberá proporcionar al Administrador del  Contrato,  el
+      respectivo documento donde se demuestre con el personal  de  seguridad
+      ha recibido los uniformes.
+
+      PARQUE AUTOMOTOR
+
+
+        Asimismo,  para  la  ejecución  del  servicio   deberá   considerar
+        obligatoriamente, el siguiente equipo mínimo:
+         • 1 vehículos de al menos el año 2017, con su respectiva matricula
+           al día, 1 en la ciudad de Guayaquil, Es necesario mencionar  que
+           el vehículo deberá contar con el logo y sello de  identificación
+           de  la  empresa  previo  a  iniciar  sus  trabajos,  demostrando
+           efectividad en patrulla y respuesta.
+           Anexar fotos.
+
+      ARMAMENTO Y ACCESORIOS
+
+      El guardia deberá estar dotado como mínimo con el siguiente equipo:
+              • armas de fuego con sus respectivos permisos vigentes
+              • Chaleco  antibalas  por  cada  guardia,  los  cuales  deben
+                cumplir indicado por el Grupo de Intervención y Rescate GIR
+                conforme las norma Balistic Resintance Of  Body  Armor  NIJ
+                Estándar NIJ0101.06
+              • Linterna industrial recargable
+              • Cinturón de campaña o canana
+              • Porta arma
+              • Porta tolete y tolete plegable o rígido.
+              • Materiales de  escritorio  para  los  puestos  de  trabajo,
+                bitácoras (con páginas numeradas, con  el  logotipo  de  la
+                empresa y empastada) una por cada puesto  que  lo  requiera
+                como recepción, garitas, etc.; plumas  y  demás  materiales
+                que se requiera para el servicio.
+              • Cabe mencionar que todas  las  armas  deberán  ser  de  uso
+                exclusivo  de  los  puestos  correspondientes  al  presente
+                contrato.
+
+      EQUIPO DE COMUNICACIÓN
+
+      • El Contratista  para  la  prestación  del  servicio,  deberá  tener
+        equipos de comunicación mínimo uno por cada puesto de  guardia,  de
+        manera que tenga contacto directo con su central de  operaciones  y
+        con los supervisores, para que cualquier evento sea  comunicado  de
+        inmediato.
+
+
+      En la oferta el contratista deberá adjuntar el permiso de  la  ARCOTEL
+      por el uso de la  frecuencia  respectiva  y  la  cobertura  para  cada
+      localidad o contrato de arrendamiento de uso  de  frecuencia  otorgado
+      por un proveedor que mantiene el contrato de Arcotel.
+
+
+
+
+      15.3 PERSONAL TÉCNICO MÍNIMO
+
+
+      JEFE DE OPERACIONES (bachiller)
+
+
+
+
+      Tiempo mínimo 2 años de experiencia
+      Número de proyectos 1
+      Deberá acreditar  experiencia  como  Jefe  de  Operaciones  (o  cargos
+      similares), en proyectos relacionados con el Servicio de  Seguridad  y
+      Vigilancia Armada realizados para instituciones públicas  o  privadas,
+      para  lo  cual  deberá  presentar  certificados  o  actas  de  entrega
+      recepción definitiva de proyectos ejecutados dentro de los  últimos  5
+      años.
+      Se reconocerá la experiencia adquirida en relación de dependencia,  si
+      el certificado emitido por el Contratista o  Máxima  Autoridad  de  la
+      Entidad Contratante o máxima autoridad del Área  Requirente  o  Máxima
+      Autoridad de Talento Humano de la  Entidad  Contratante  demuestra  su
+      participación efectiva, como empleado privado o servidor  público,  en
+      la ejecución del proyecto.  Además, junto con la presentación  de  los
+      certificados  y/o  actas  de  entrega  recepción  definitiva,  deberán
+      presentar  en  caso  de  relación  de  dependencia  la   documentación
+      pertinente del IESS (Historia Laboral) y  en  caso  de  prestación  de
+      servicios profesionales (el contrato y las facturas) correspondientes
+
+
+      Los certificados deben contener por lo menos la siguiente información:
+     a) Nombre de la entidad contratante;
+     b) Descripción del proyecto;
+     c) Periodo de ejecución del proyecto (especificar periodo) y monto;
+     d) Nombre de la empresa encargada del proyecto;
+     e) Dirección y número de teléfono del otorgante del certificado;
+     f) Nombre y firma de la persona otorgante del certificado.
+
+
+      Adicionalmente se deberá adjuntar:
+
+
+            o Certificado de antecedentes penales emitido dentro del mes  de
+              presentación de la oferta, en  el  cual  se  acredite  que  no
+              registra antecedentes.
+            o Certificado o diploma  que  certifique  la  capacitación  como
+              guardia de seguridad y/o reentrenamiento, supervisor y jefe de
+              operaciones, emitido por una escuela avalada por el Ministerio
+              del Interior.
+
+      GUARDIAS DE SEGURIDAD
+
+
+      Tiempo mínimo 1 año
+      Número de proyectos 1
+
+      Deberá acreditar experiencia  como  Guardia  de  Seguridad  (o  cargos
+      similares), con educación básica, en  proyectos  relacionados  con  el
+      Servicio  de   Seguridad   y   Vigilancia   Armada   realizados   para
+      instituciones públicas o  privadas,  para  lo  cual  deberá  presentar
+      certificados o actas de  entrega  recepción  definitiva  de  proyectos
+      ejecutados dentro de los últimos 5 años.  Se reconocerá la experiencia
+      adquirida en relación de dependencia, si el certificado emitido por el
+      Contratista o Máxima Autoridad de  la  Entidad  Contratante  o  máxima
+      autoridad del Área Requirente o Máxima Autoridad de Talento Humano  de
+      la Entidad  Contratante  demuestra  su  participación  efectiva,  como
+      empleado privado o servidor público, en  la  ejecución  del  proyecto.
+      Además, junto con la presentación de los  certificados  y/o  actas  de
+      entrega recepción definitiva y en  caso  de  prestación  de  servicios
+      profesionales (el contrato y las facturas) correspondientes.
+
+      Los certificados deben contener por lo menos la siguiente información:
+         • Nombre de la entidad contratante;
+         • Descripción del proyecto;
+         • Periodo de ejecución del proyecto (especificar periodo) y monto
+         • Nombre de la empresa encargada del proyecto;
+         • Dirección y número de teléfono del otorgante del certificado
+         • Nombre y firma de la persona otorgante del certificado
+
+      Adicionalmente se deberá adjuntar:
+         • Certificado de antecedentes penales emitido dentro  del  mes  de
+           presentación de la  oferta,  en  el  cual  se  acredite  que  no
+           registra antecedentes
+         • Certificado de haber recibido al menos 120 horas de capacitación
+           en “Seguridad de Modalidad  fija”,  emitido  por  un  centro  de
+           capacitación autorizado por  el  Ministerio  del  Interior,  y/o
+           Certificado o diploma de curso de reentrenamiento,  emitido  por
+           un  centro  de  capacitación  avalado  por  el  Ministerio   del
+           Interior.
+
+
+      15.4 EXPERIENCIA DEL OFERENTE
+
+
+      Experiencia General
+      El oferente deberá acreditar experiencias generales en  la  prestación
+      del  Servicio  de  Seguridad  y  Vigilancia  Armada  realizadas   para
+      instituciones públicas o privadas, por un monto de al menos USD$  1278
+      dólares, para lo cual deberá presentar certificados o actas de entrega
+      recepción definitiva de contratos ejecutados durante  los  últimos  15
+      años previos a la publicación del presente procedimiento.
+
+      Los certificados deberán ser emitidos a favor del oferente y suscritos
+      por el Representante Legal de  la  Entidad  Contratante  o  la  Máxima
+      Autoridad del Área Requirente o el Administrador del contrato  y  debe
+      contener por lo menos la siguiente información:
+         • Nombre de la entidad contratante;
+         • Descripción del proyecto;
+         • Periodo de ejecución del proyecto (especificar periodo) y monto;
+         • Nombre de la empresa encargada del proyecto;
+         • Dirección y número de teléfono del otorgante del certificado;
+         • Nombre y firma de la persona otorgante del certificado
+
+      Las actas de entrega recepción  definitivas  serán  suscritas  por  el
+      contratista y los integrantes de la comisión designada por  la  máxima
+      autoridad de la entidad contratante o su delegado  conformada  por  el
+      administrador del contrato y un técnico que no haya intervenido en  el
+      proceso          de          ejecución          del          contrato.
+
+
+
+
+      Para el caso de servicios previstos al sector privado, la  experiencia
+      será  acreditada  únicamente  con  la  presentación   del   respectivo
+      certificado de cumplimiento de  contrato,  que  deberá  contener  como
+      mínimo: fecha de  emisión,  nombre  del  cliente  a  quien  brindó  el
+      servicio, descripción del proyecto realizado, plazo (fecha de inicio y
+      fin), y monto del proyecto.
+
+
+|Experiencia    |15 años         |
+|adquirida en   |                |
+|los últimos    |                |
+|años           |                |
+|Número de      |1 o mas         |
+|proyectos      |                |
+|similares      |                |
+|Valor del monto|USD$ 1,278      |
+|mínimo         |                |
+|Permite        |S|      |NO|x   |
+|alcanzar el    |I|      |  |    |
+|Monto Mínimo a | |      |  |    |
+|través de la   | |      |  |    |
+|sumatoria del  | |      |  |    |
+|presupuesto de | |      |  |    |
+|los contratos  | |      |  |    |
+|Si la respuesta|1               |
+|es SI, indicar |                |
+|la cantidad de |                |
+|contratos      |                |
+|permitidos     |                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      15.5 Experiencia Específica
+
+      El oferente deberá acreditar experiencia  específica  en  Servicio  de
+      Seguridad y Vigilancia Armada realizados para instituciones públicas o
+      privadas, de al menos 6 puntos de Seguridad por un monto de  al  menos
+      USD$ 639 dólares, para lo cual deberá presentar certificados  o  actas
+      de entrega recepción definitiva de contratos  ejecutados  durante  los
+      últimos 5 años previos a la publicación  del  presente  procedimiento.
+
+
+      Los certificados deberán ser emitidos a favor del oferente y suscritos
+      por el Representante Legal de  la  Entidad  Contratante  o  la  Máxima
+      Autoridad del Área Requirente o el Administrador del contrato  y  debe
+      contener por lo menos la siguiente información:
+
+
+      • Nombre de la entidad contratante;
+      • Descripción del proyecto;
+      • Periodo de ejecución del proyecto (especificar periodo) y monto;
+      • Nombre de la empresa encargada del proyecto;
+      • Dirección y número de teléfono otorgante del certificado
+      • Nombre y firma de la persona otorgante del certificado.
+
+      Las actas de entrega recepción  definitivas  serán  suscritas  por  el
+      contratista y los integrantes de la comisión designada por  la  máxima
+      autoridad de la entidad contratante o su delegado  conformada  por  el
+      administrador del contrato y un técnico que no haya intervenido en  el
+      proceso          de          ejecución          del          contrato.
+
+
+
+      Para el caso de servicios previstos al sector privado, la  experiencia
+      será  acreditada  únicamente  con  la  presentación   del   respectivo
+      certificado de cumplimiento de  contrato,  que  deberá  contener  como
+      mínimo: fecha de  emisión,  nombre  del  cliente  a  quien  brindó  el
+      servicio, descripción del proyecto realizado, plazo (fecha de inicio y
+      fin), y monto del proyecto.
+
+      Suscribir acta de entrega-recepción, siempre que se haya cumplido  con
+      lo previsto en la ley para la entrega recepción
+|Experiencia     |5 años                      |
+|adquirida en los|                            |
+|últimos años    |                            |
+|Número de       |1                           |
+|proyectos       |                            |
+|similares       |                            |
+|Valor del monto |                            |
+|mínimo          |USD$ 639                    |
+|Permite alcanzar|SI      |     |NO       | x|
+|el Monto Mínimo |        |     |         |  |
+|a través de la  |        |     |         |  |
+|sumatoria del   |        |     |         |  |
+|presupuesto de  |        |     |         |  |
+|los contratos   |        |     |         |  |
+|Si la respuesta |1                           |
+|es SI, indicar  |                            |
+|la cantidad de  |                            |
+|contratos       |                            |
+|permitidos      |                            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           8.  OTROS PARÁMETROS REQUERIDOS POR LA ENTIDAD:
+      (cumple no cumple)
+      • Carta compromiso donde se estipule la entrega de la dotación de
+        uniformes a su personal sin costo a los trabajadores
+      • Permiso de Operaciones de la Compañía de Seguridad, emitido por  el
+        Ministerio del Interior. (El certificado debe estar vigente).
+      • Listado de las armas que se utilizarán  en  el  presente  contrato,
+        emitido por el Comando Conjunto de las Fuerzas Armadas,  junto  con
+        el respectivo permiso vigente de porte y tenencia de armas.
+      • Permiso de Uniformes (vigente), otorgado  por  el  Departamento  de
+        Control de Organizaciones de Seguridad Privada  (COSP),  acompañado
+        por las fotos correspondientes
+      • Copia de póliza de seguro de vida y accidentes personales, a  favor
+        de su personal, que tenga  una  cobertura  por  muerte  accidental,
+        incapacidad total y permanente, con un valor  asegurado  mínimo  de
+        USD$50.000,00 (Cincuenta mil 00/100 Dólares Americanos);  y  gastos
+        médicos, con un valor asegurado mínimo de USD$20.000,00 (Veinte mil
+        00/100  Dólares  Americanos).  Art  27  Reglamento  a  la  Ley   de
+        vigilancia y seguridad privada
+      • Copia de póliza de seguro de responsabilidad civil contra  daños  a
+        terceros y/o usuarios, para garantizar a  quienes  puedan  resultar
+        perjudicados en el proceso de prestación de servicios, con un valor
+        asegurado  mínimo  de  USD$100.000,00  (Cien  mil  00/100   Dólares
+        Americanos). Ar 26 Reglamento a la Ley de  vigilancia  y  seguridad
+        privada
+      • Reglamento interno de la compañía, aprobado por  el  Ministerio  de
+        Trabajo.
+      • Reglamento de Salud y Seguridad Ocupacional vigente y aprobado  por
+        el Ministerio de Trabajo.
+      • Consolidado de las planillas de aportes del IESS de los 3 últimos
+        meses previo la presentación de la oferta.
+      • Permiso de Agencia o sucursal, emitido por el Comando  Conjunto  de
+        las Fuerza Armadas,
+
+
+
+
+              9. MULTAS:
+
+
+      El contratista pagará a la Servicio Nacional de Gestión de  Riesgos  y
+      Emergencias, una multa equivalente al  1  x  1000  del  valor  de  las
+      obligaciones pendientes del contrato, por no cumplir con el inicio  de
+      la prestación del servicio dentro del plazo máximo  estipulado  en  el
+      presente documento.
+
+
+      De las sanciones
+      Art. 23.- Infracciones Administrativas.- A fin de dar cumplimiento al
+      Capítulo V de la Ley de Vigilancia y Seguridad Privada, los
+      representantes legales y/o administradores de las compañías de
+      vigilancia y seguridad privada, que incurrieran en infracciones de
+      carácter administrativo, sin perjuicio de las acciones civiles y
+      penales a que hubiere lugar, serán sancionados de la siguiente manera:
+
+
+      a) Con amonestación escrita:
+      1. Falta de presentación de los reportes periódicos establecidos en el
+      artículo 15 de la Ley de Vigilancia y Seguridad Privada, dentro de los
+          plazos de entrega previstos en este reglamento.
+      2. No dotar al personal de la credencial de identificación actualizada
+      para su servicio.
+      3. Utilización de los grados jerárquicos e insignias de la fuerza
+      pública para denominar a su personal;
+
+      b) Con multa de doscientos a seiscientos dólares de los Estados Unidos
+      de América:
+      1. Contratación de personal sin cumplir con los requisitos,
+      prohibiciones y obligaciones establecidos en los artículos 4, 5, 6 y
+      13 de la Ley de Vigilancia y Seguridad Privada y las disposiciones del
+      presente reglamento.
+      2. Falta de control al personal en lo referente al uso de uniformes.
+      3. La utilización de balizas y otros sistemas destinados al uso de la
+      fuerza pública.
+      4. Reincidencia al cometer una de las infracciones administrativas
+      previstas en la letra a) del presente artículo;
+
+
+      c) Con suspensión temporal de quince a treinta días de operación:
+      1. Falta de contratación de una póliza de seguro de responsabilidad
+      civil de daños contra terceros, de conformidad con el
+      presente reglamento.
+      2. Falta de contratación de una póliza de seguro de vida y de
+      accidentes personales a favor de su personal de conformidad
+      con el presente reglamento.
+      3. Reincidencia en la comisión de las infracciones administrativas
+      previstas en la letra b) del presente artículo; y,
+
+
+      d) Con la cancelación definitiva del permiso de operación y multa de
+      cuatrocientos a mil doscientos dólares de los Estados
+      Unidos de América:
+      1. Prestación ilegal de servicios de vigilancia y seguridad por parte
+      de sociedades, grupos o personas que no se
+      encuentren constituidas ni autorizadas legalmente, de conformidad con
+      lo previsto en la Ley de Vigilancia y Seguridad
+      Privada y el presente reglamento.
+      2. Reincidencia en un mismo año en la comisión de las infracciones
+      administrativas previstas en la letra c) del presente
+      artículo.
+
+
+      Las sanciones serán aplicadas de acuerdo a la gravedad de la
+      infracción cometida.
+
+      Del procedimiento para sancionar
+      Art. 24.- Procedimiento en Infracciones Administrativas.- Las
+      infracciones administrativas cometidas por las compañías
+      de vigilancia y seguridad privada, así como de sus miembros
+      administrativos y operativos, se conocerán y tramitarán mediante
+      denuncia ante el Ministerio de Gobierno y Policía o a través de
+      informes de control elaborados por la fuerza pública en su área de
+      competencia.
+      Art. 25.- Del Informe Previo al Establecimiento de Sanciones.- Cuando
+      el Ministerio de Gobierno y Policía conociere del posible cometimiento
+      de una infracción administrativa por parte de una compañía de
+      vigilancia y seguridad privada o de su personal directivo,
+      administrativo u operativo, por cualquiera de las formas establecidas
+      en la ley o en el presente reglamento, dispondrá en todos los casos
+      que la Policía Nacional realice la investigación pertinente, en el
+      término de quince días, recogiendo los justificativos de cargo y de
+      descargo de las partes, debiendo elaborar un informe, que será
+      remitido al Ministerio de Gobierno y Policía para los fines que
+      determina la ley.
+      Si del informe que remite la Policía Nacional se dedujera indicios de
+      responsabilidad, el Ministerio de Gobierno y Policía, inmediatamente
+      iniciará el procedimiento establecido en el artículo 24 de la Ley de
+      Vigilancia y Seguridad Privada. De la resolución que emita el
+      Ministerio de Gobierno y Policía, se notificará a la Inspectoría de la
+      Policía Nacional, así como al Comando Conjunto de las Fuerzas Armadas.
+
+
+             10. CONCLUSIONES
+
+La eficacia de las acciones de seguridad requiere  un  adecuado  control  de
+esa actividad en la institución, la seguridad, tantos internamente  como  de
+manera externa con vistas a establecer las medidas correctivas que  resultan
+siempre oportunas.
+Es necesario que  la  Dirección  Administrativa  implemente  un  sistema  de
+control de la bodega para garantizar la actuación preventiva, el control  de
+los bienes y acciones referidas a hechos ocurridos, tiene su concreción  con
+la inspección sistemática, control  de  ingreso  y  salida,  evaluación  del
+comportamiento  de  los  servidores  evitando  de  esta  manera  accidentes,
+incidentes, hurtos robos y perdidas de bienes institucionales y mantener  el
+estatus de efectividad, eficiencia y eficacia.
+
+             11. RECOMENDACIONES
+      En el ámbito institucional es vital contar  con  la  protección  y  el
+      resguardo adecuado, para el cuidado de los  bienes  y  servidores  que
+      permanece en la bodega institucional, motivo por el cual se recomienda
+      contar “SERVICIO DE SEGURIDAD FÍSICA Y  MONITOREO  ELECTRÓNICO  BODEGA
+      MATRIZ”, esto permitirá dar correcto cumplimiento a lo dispuesto en el
+      Reglamento de Bienes y Normas  de  control  Interno  de  la  Contraria
+      General del Estado.
+
+|Elaborado por:            |Aprobado por:             |
+|                          |                          |
+|                          |                          |
+|                          |                          |
+|Ing. Carlos Barreno Loza  |Jhonny Israel Castillo    |
+|Analista de Bienes        |Andrade                   |
+|                          |Director Administrativo   |
+

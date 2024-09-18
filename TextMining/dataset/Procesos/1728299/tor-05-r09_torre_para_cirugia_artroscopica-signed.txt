@@ -1,0 +1,188 @@
+DIRECCIÓN NACIONAL DE
+EQUIPAMIENTO SANITARIO
+EQUIPO BIOMÉDICO
+DATOS GENERALES
+CÓDIGO DNES Nº:
+REVISIÓN:
+NOMBRE ECRI:
+CÓDIGO ECRI:
+NOMBRE GENÉRICO:
+PERIODO DE VIGENCIA:
+
+TOR-05-R09
+NOVENA
+Sistemas de exploración
+13-468
+TORRE PARA CIRUGÍA ARTROSCÓPICA
+Desde: 01/01/2022
+Hasta: 31/12/2022
+
+ESPECIFICACIONES TÉCNICAS
+VALOR
+
+ATRIBUTO
+Número de pantallas
+Pantalla de visualización
+Resolución
+Relación de aspecto
+Puertos de entrada
+Balance de blancos
+Puertos de salida
+Funcionamiento
+Botones de control
+Resolución
+Distancia focal
+Desinfección
+Lámpara de iluminación
+Temperatura de color
+Control de intensidad
+
+Visualización
+Dos (2)
+≥ 26 pulgadas, de grado médico
+≥ 1920 x 1080 pixeles
+≥ 16:9
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+Procesador de video
+Automático o manual
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+Cabezal de cámara
+≥ 3 Chips CCD o CMOS
+≥ 2 programables
+≥ 1920 x 1080 pixeles
+≥ 10 mm y ≤ 40 mm
+Autoclave y/o sumergible
+Fuente de luz
+LED
+≥ 5000 °K y ≤ 7000°K
+Regulable
+Bomba artroscópica
+
+Presión de salida
+Flujo de salida
+
+≥ 150 mmHg
+≥ 500 ml/min
+
+Visualización de parámetros
+
+Mediante pantalla
+Equipo rasurador (shaver)
+
+Revoluciones
+Visualización de parámetros
+
+≥ 8000 rpm
+Mediante pantalla
+Grabador de video
+
+Puertos de entrada
+Puertos de salida
+Almacenamiento interno
+Almacenamiento externo
+Extracción de información
+Protocolos
+MCM
+
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+Para señales HD (HDMI, HDSDI, DVI, etc.)
+≥ 1TB
+Requerido
+Mediante USB y/o DVD
+DICOM y/o HL7
+
+Pág. 1 de 2
+
+Cobertor de equipo
+
+Accesorios
+Uno (1) móvil, propio del equipo, con sistema de frenado,
+además deberá incluir mínimo:
+- un (1) soporte giratorio y articulado para el monitor,
+- una (1) bandeja para teclado,
+- un (1) soporte para cabezal de cámara,
+- tres (3) bandejas para ubicar los equipos,
+- una (1) regleta de conexión eléctrica,
+- una (1) extensión eléctrica de 3 m
+Uno (1) móvil, propio del equipo, con sistema de frenado,
+además deberá incluir mínimo:
+- un (1) soporte giratorio y articulado para el monitor
+Uno (1) propio del equipo, que cubra toda la torre
+
+Disco duro externo de expansión
+
+Uno (1) tipo torre de ≥ 8 TB
+
+Energía de respaldo
+Teclado en español
+Dispositivo apuntador (ratón)
+Cables de conexión eléctrica
+Cables de audio y/o video
+Cable de fibra óptica
+
+Un (1) UPS ≥ 1,5 kVA
+Uno (1) de grado médico
+Uno (1) de grado médico
+Para todos lo equipos que lo requieran
+Para todos lo equipos que lo requieran
+Dos (2), longitud ≥ 2,5 m
+
+Sistema de montaje
+
+Sistema de montaje secundario
+
+Circuito para bomba artroscópica Dos (2) reutilizables
+Frasco de recolección
+Pieza de mano taladradora
+Pieza de mano rasurador
+Pieza de mano sierra
+Pedal de mando
+Punta agresiva
+Punta dentada o resectora
+Cortadora de meniscos
+Cortadora de fresa esférica
+Recipiente para esterilización del
+cabezal de cámara
+Recipiente para esterilización de
+accesorios reutilizables
+
+Dos (2) reutilizables para la bomba artroscópica
+Una (1) reutilizable
+Una (1) reutilizable
+Una (1) reutilizable
+Uno (1) para el equipo rasurador
+Cuatro (4) reutilizables
+
+Unidad de Almacenamiento USB
+
+Uno (1) propio del equipo
+
+Cuatro (4) reutilizables
+Cuatro (4) reutilizables
+Cuatro (4) reutilizables
+Uno (1) propio del equipo
+Uno (1), incluirá elementos separadores y de sujeción
+
+OTRAS ESPECIFICACIONES
+Energía / Alimentación
+Garantía técnica fabricante
+
+110~127 VAC / 60 Hz
+Dos (2) años a partir de la recepción definitiva del bien
+
+Certificados de Calidad del
+Equipo
+
+Al menos una (1) de las siguientes certificaciones:
+FDA / CE
+Firmado electrónicamente por:
+
+ALEX MANUEL
+DEMERA
+RAMIREZ
+
+MCM
+
+Pág. 2 de 2
+
+

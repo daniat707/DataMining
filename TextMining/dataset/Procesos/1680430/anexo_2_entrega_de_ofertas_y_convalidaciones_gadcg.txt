@@ -1,0 +1,63 @@
+DEPARTAMENTO DE COMPRAS PÚBLICAS
+
+ANEXO 2
+PROCESO No. SIE-GADCG-001-2022
+Lugar de entrega de Ofertas y Convalidaciones
+
+Para el presente procedimiento, para la entrega de ofertas y convalidaciones el Gobierno
+Autónomo Descentralizado del Cantón Guaranda, requiere que las ofertas y convalidaciones de
+errores (de ser el caso) contengan firma electrónica, en cumplimiento a lo dispuesto en la
+Resolución No. RE-SERCOP-2020-106, de 16 de julio de 2020, emitida por el Servicio Nacional
+de Contratación Pública y en el numeral 6.1 de la Circular SERCOP-SERCOP-2020-0022-C;
+que dispone:
+“Para los procedimientos de contratación en los que es obligatoria la generación de las ofertas
+a través del Módulo Facilitador de la Contratación Pública, los usuarios del Sistema Nacional de
+Contratación Pública deberán realizar los siguientes pasos:
+a) Las entidades contratantes, cuando generen sus pliegos a través del Módulo Facilitador de
+la Contratación Pública, al momento de establecer las formas y/o de canales de entrega de
+ofertas, deberán observar lo previsto en el presente acápite, adaptando en lo que sea posible el
+texto susceptible de modificación en el MFC.[19].
+b) Ingresar toda la información y documentación de los formularios que componen la oferta, de
+conformidad con las funcionalidades y controles establecidos en la herramienta informática.
+c) Una vez ingresada toda la información y documentación de la oferta, presionar el botón
+“Vista previa de la oferta”, mismo que se encuentra en la parte superior derecha de la pantalla,
+para generar la vista previa de la oferta en formato PDF.
+d) Descargar el archivo de la vista previa de la oferta y firmar electrónicamente en cada uno de
+los formularios.
+Cada formulario de la oferta, o sus particiones debido a que su tamaño supera los 10 Mb,
+deben ser firmados electrónicamente de manera individual; para así cumplir con el mandato de
+integridad de estos mensajes de datos;
+e) Cargar el archivo firmado electrónicamente en la sección “Anexos” de la oferta en el Módulo
+Facilitador de la Contratación Pública.
+f) De conformidad con el artículo 3 de la Ley de Comercio Electrónico, Firmas Electrónicas y
+Mensajes de Datos, se reconoce validez jurídica a la información no contenida directamente en
+una oferta firmada electrónicamente, siempre que figure en la misma, en forma de remisión o
+de anexo, y cumpla con los parámetros establecidos en los artículos 1 y 2 del Reglamento
+General a la Ley antes mencionada.
+Dirección: Convención de 1884 y García Moreno.
+Teléfonos: (032) 551083 – 551088 – 551089.
+E-mail: alcaldia@guaranda.gob.ec
+www.guaranda.gob.ec
+
+DEPARTAMENTO DE COMPRAS PÚBLICAS
+
+g) Generar Oferta en el Módulo Facilitador de la Contratación Pública y descargar el archivo en.
+ushay
+h) Cargar oferta generada en. ushay al procedimiento de contratación en el SOCE tanto
+en formato ushay como en PDF, que se haya firmado electrónicamente.
+(… ) se concluye que la suscripción de las ofertas, dependiendo del tipo procedimiento de
+contratación, se efectuarán electrónicamente; para tal efecto, será viable que la entrega de las
+ofertas se instrumente a través de un mensaje de datos, como es la remisión vía correo
+electrónico [email] a la entidad contratante. Para dicho efecto, la entidad contratante deberá
+indicar en la correspondiente sección del pliego del procedimiento, la forma de entrega de
+ofertas que se deberá efectuar; indicando, en esta forma de entrega, el correo electrónico
+institucional en el cual se receptarán las ofertas y sus convalidaciones.”
+Por lo expuesto, las ofertas y convalidaciones de errores (de ser el caso), serán
+presentadas obligatoriamente a través del Portal Institucional del SERCOP.
+
+Dirección: Convención de 1884 y García Moreno.
+Teléfonos: (032) 551083 – 551088 – 551089.
+E-mail: alcaldia@guaranda.gob.ec
+www.guaranda.gob.ec
+
+

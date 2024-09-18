@@ -1,0 +1,1802 @@
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+1 de 23
+
+RESOLUCIÓN N° GG-2022-0037
+
+Ing. Hugo Othón Zevallos Moreno
+GERENTE GENERAL
+EMPRESA PÚBLICA METROPOLITANA DE AGUA POTABLE Y SANEAMIENTO
+CONSIDERANDO:
+Que, el artículo 226 de la Constitución de la República del Ecuador, manifiesta: “Las instituciones del
+Estado, sus organismos, dependencias, las servidoras o servidores públicos y las personas que
+actúen en virtud de una potestad estatal ejercerán solamente las competencias y facultades
+que les sean atribuidas en la Constitución y la ley. Tendrán el deber de coordinar acciones para
+el cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos reconocidos en
+la Constitución”;
+Que, el artículo 288 de la Constitución de la República del Ecuador, establece que: “Las compras
+públicas cumplirán con criterios de eficiencia, transparencia, calidad, responsabilidad ambiental
+y social. Se priorizarán los productos y servicios nacionales, en particular los provenientes de la
+economía popular y solidaria, y de las micro, pequeñas y medianas unidades productivas.”;
+Que, el artículo 315 de la Constitución de la República del Ecuador, determina que: “El Estado
+constituirá empresas públicas para la gestión de sectores estratégicos, la prestación de
+servicios públicos, el aprovechamiento sustentable de recursos naturales o de bienes públicos
+y el desarrollo de otras actividades económicas. Las empresas públicas estarán bajo la
+regulación y el control específico de los organismos pertinentes, de acuerdo con la ley;
+funcionarán como sociedades de derecho público, con personalidad jurídica, autonomía
+financiera, económica, administrativa y de gestión, con altos parámetros de calidad y criterios
+empresariales, económicos, sociales y ambientales. (…)”;
+Que, el artículo 4 de la Ley Orgánica de Empresas Públicas, menciona: “Las empresas públicas son
+entidades que pertenecen al Estado en los términos que establece la Constitución de la
+República, personas jurídicas de derecho público, con patrimonio propio, dotadas de autonomía
+presupuestaria, financiera, económica, administrativa y de gestión. Estarán destinadas a la
+gestión de sectores estratégicos, la prestación de servicios públicos, el aprovechamiento
+sustentable de recursos naturales o de bienes públicos y en general al desarrollo de
+actividades económicas que corresponden al Estado (…)”;
+Que, el artículo 10 de la LOEP prescribe que el Gerente General de la EPMAPS ejercerá la
+representación legal, judicial y extrajudicial de la empresa y será el responsable de la gestión
+empresarial, administrativa, económica, financiera, comercial, técnica y operativa;
+Que, el numeral 8 del artículo 11 de la Ley Orgánica de Empresas Públicas, refiere dentro de las
+atribuciones y deberes del Gerente General: “Aprobar y modificar los reglamentos internos que
+requiera la empresa, excepto el señalado en el numeral 8 del artículo 9 de esta Ley”;
+Que, el numeral 2 del artículo 34 de la Ley Orgánica de Empresas Públicas, expresa que:
+“RÉGIMEN COMÚN. - Las contrataciones de bienes, obras y servicios, incluidos los de
+consultoría, que realicen las empresas públicas, se sujetarán a lo dispuesto en la Ley Orgánica
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+2 de 23
+
+del Sistema Nacional de Contratación Pública, su Reglamento General y demás disposiciones
+administrativas aplicables”;
+Que, la letra e) del artículo 77 de la Ley Orgánica de la Contraloría General del Estado, determina
+que las máximas autoridades de las instituciones del Estado, son responsables de los actos
+emanados de su autoridad, y entre las atribuciones y obligaciones específicas está la de: (…)
+e) Dictar los correspondientes reglamentos y demás normas secundarias necesarias para el
+eficiente, efectivo y económico funcionamiento de sus instituciones (…)”; en complemento a
+ello, el Acuerdo No. 039, de la Contraloría General del Estado, expidió las Normas de Control
+Interno de la Contraloría General del Estado, cuya norma 200-05 trata respecto a la Delegación
+de autoridad y sus efectos;
+Que, el artículo 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública, manifiesta: “Para
+la aplicación de esta Ley y de los contratos que de ella deriven, se observarán los principios de
+legalidad, trato justo, igualdad, calidad, vigencia tecnológica, oportunidad, concurrencia,
+transparencia, publicidad; y, participación nacional.”;
+Que, el artículo 5 de la Ley Orgánica del Sistema Nacional de Contratación Pública, manifiesta: “Los
+procedimientos y los contratos sometidos a esta Ley se interpretarán y ejecutarán conforme los
+principios referidos en el artículo anterior y tomando en cuenta la necesidad de precautelar los
+intereses públicos y la debida ejecución del contrato”;
+Que, el artículo 69 del Código Orgánico Administrativo, establece que los órganos administrativos
+pueden delegar el ejercicio de sus competencias, incluidas su gestión, en: “1. Otros órganos o
+entidades de la misma administración pública, jerárquicamente dependientes. (…) 4. Los
+titulares de otros órganos dependientes para la firma de sus actos administrativos (…)”;
+Que, el artículo 71 del Código Orgánico Administrativo, expresa: “Son efectos de la delegación: 1.
+Las decisiones delegadas se consideran adoptadas por el delegante. 2. La responsabilidad por
+las decisiones adoptadas por el delegado o el delegante, según corresponda (…)”;
+Que, el artículo 130 del Código Orgánico Ibídem, menciona: “Competencia normativa de carácter
+administrativo. Las máximas autoridades administrativas tienen competencia normativa de
+carácter administrativo únicamente para regular los asuntos internos del órgano a su cargo,
+salvo los casos en los que la ley prevea esta competencia para la máxima autoridad legislativa
+de una administración pública. La competencia regulatoria de las actuaciones de las personas
+debe estar expresamente atribuida en la ley”;
+Que, el artículo 136 del Código Municipal para el Distrito Metropolitano de Quito, establece: “Las
+empresas públicas metropolitanas son personas jurídicas de derecho público, con patrimonio
+propio, dotadas de autonomía presupuestaria, financiera, económica, administrativa, de gestión
+y con potestad coactiva, cuya constitución, organización, funcionamiento, fusión, escisión y
+liquidación se regula por la ley de la materia, las ordenanzas y las disposiciones contenidas en
+este capítulo”;
+Que, el artículo 151 del Código Municipal ibídem, respecto a la administración de las empresas
+públicas metropolitanas manifiesta: “El (la) Gerente(a) General ejerce la representación legal,
+judicial y extrajudicial, de su respectiva empresa y es responsable ante el Directorio por su
+gestión administrativa, técnica y financiera. El (la) Gerente(a) General está facultado para
+realizar todos los actos y contratos necesarios para el cumplimiento de los fines de la empresa
+a su cargo (...)”;
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+3 de 23
+
+Que, el artículo 155 del Código Municipal para el Distrito Metropolitano de Quito, expresa como
+deberes y atribuciones del Gerente General: “a. Cumplir y hacer cumplir las normas que rigen
+las actividades de la empresa pública metropolitana; b. Dirigir y supervisar las actividades de la
+empresa pública metropolitana, coordinar y controlar el funcionamiento de las dependencias de
+esta y de los distintos sistemas empresariales y adoptar las medidas más adecuadas para
+garantizar una administración eficiente, transparente y de calidad (…) i. Delegar atribuciones a
+funcionarios de la empresa pública metropolitana, dentro de la esfera de su competencia,
+siempre que tales delegaciones no afecten al interés público(…)”;
+Que, el artículo 4 del Reglamento General de la Ley Orgánica del Sistema Nacional de Contratación
+Pública, refiere: “En aplicación de los principios de Derecho Administrativo son delegables
+todas las facultades previstas para la máxima autoridad tanto en la Ley como en este
+Reglamento General, aun cuando no conste en dicha normativa la facultad de delegación
+expresa. La Resolución que la máxima autoridad emita para el efecto, determinará el contenido
+y alcance de la delegación. Las máximas autoridades de las personas jurídicas de derecho
+privado que actúen como entidades contratantes, otorgarán poderes o emitirán delegaciones,
+según corresponda, conforme a la normativa de derecho privado que les sea aplicable. En el
+ámbito de responsabilidades derivadas de las actuaciones, producto de las delegaciones o
+poderes emitidos, se estará al régimen aplicable a la materia”;
+Que, en la letra h) del artículo 12 del Reglamento Orgánico Funcional Nivel Jerárquico Superior de la
+Empresa Pública Metropolitana de Agua Potable y Saneamiento, se establecen las funciones
+del Gerente General, expresando así: “Aprobar y modificar la reglamentación interna y políticas
+internas generales o específicas que requiera la Empresa para la mejora y optimización de la
+gestión institucional, excepto el Reglamento de Funcionamiento del Directorio”;
+Que, mediante Resolución No. 113, de 22 de octubre de 2021, la Gerente General Subrogante de la
+Empresa Pública Metropolitana de Agua Potable y Saneamiento EPMAPS, a esa fecha,
+resolvió expedir el Reglamento Interno de Procedimientos de Contratación Pública para la
+Empresa Pública Metropolitana de Agua Potable y Saneamiento, mismo que fue reformado
+posteriormente con Resolución N° GG-2022-024, de 23 de febrero de 2022;
+Que, es necesario actualizar la Resolución No. 113, de 22 de octubre de 2021, que contiene el
+Reglamento Interno de Procedimientos de Contratación Pública para la Empresa Pública
+Metropolitana de Agua Potable y Saneamiento, para facilitar la gestión institucional en materia
+de contratación pública, evitando así dispersión normativa; y,
+En ejercicio de las atribuciones y facultades legales y reglamentarias conferidas:
+
+R E S U E L V E:
+EXPEDIR EL REGLAMENTO INTERNO DE PROCEDIMIENTOS DE CONTRATACIÓN PÚBLICA
+PARA LA EMPRESA PÚBLICA METROPOLITANA DE AGUA POTABLE Y SANEAMIENTO
+CAPÍTULO I
+DEL OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
+Artículo 1.- OBJETO Y ÁMBITO DE APLICACIÓN. - El presente Reglamento tiene por objeto
+normar los trámites y actuaciones administrativas para la adquisición o arrendamiento de bienes,
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+4 de 23
+
+ejecución de obras y prestación de servicios, incluidos los de consultoría, en el ámbito de aplicación
+que realice la Empresa Pública Metropolitana de Agua Potable y Saneamiento, de conformidad con la
+Ley Orgánica del Sistema Nacional de Contratación Pública, su Reglamento General y la Codificación
+de las Resoluciones emitidas por el Servicio Nacional de Contratación Pública.
+Artículo 2.- DEFINICIONES. - Para los fines del presente Reglamento, se aplicarán las siguientes
+definiciones:
+a)
+
+Área requirente: Son las dependencias de la Empresa, en donde se crea la necesidad
+institucional de la contratación para la adquisición o arrendamiento de bienes, ejecución de
+obras y prestación de servicios, incluidos los de consultoría; esta área, es también la que activa
+el procedimiento, mediante la solicitud debidamente justificada para el inicio del respectivo
+procedimiento de contratación pública.
+
+b)
+
+Certificación Presupuestaria: Documento emitido por el Departamento Análisis y
+Programación Financiera de la Gerencia Financiera, obligatorio para el inicio de todo
+procedimiento de contratación, a través del cual, se certifica la disponibilidad presupuestaria y
+la existencia presente y/o futura de recursos suficientes para cubrir las obligaciones derivadas
+de la contratación. En la certificación se hará constar la partida presupuestaria, centro gestor,
+área funcional y tipo de fondo.
+
+c)
+
+Comisión Técnica: Servidores designados por el autorizador de gasto, para llevar a cabo la
+fase precontractual de un procedimiento de contratación, conforme el artículo 18 del
+Reglamento General de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+d)
+
+Informe de pertinencia de la Contraloría General del Estado: Documento de carácter
+obligatorio, emitido por la Contraloría General del Estado, mediante el cual se determina la
+pertinencia y favorabilidad para iniciar un procedimiento de contratación pública, en aquellos
+casos especificados en la normativa vigente.
+
+e)
+
+Plazo de ejecución contractual: Número de días calendario, incluido feriados y fines de
+semana, contados desde el día siguiente de la fecha de suscripción del contrato; de la fecha de
+notificación de que el anticipo se encuentra disponible; o día siguiente de cualquier otra
+condición, de acuerdo a la naturaleza del contrato.
+
+f)
+
+Presupuesto referencial: Es el resultado del estudio económico determinado por el área
+requirente al inicio de un procedimiento de contratación pública, en el cual se deberá indicar el
+valor referencial de la contratación sin tomar en cuenta el IVA, observando las disposiciones
+establecidas por el SERCOP para el efecto.
+
+g)
+
+Profesionales responsables de la fase precontractual: Servidores del área requirente y del
+Departamento de Abastecimientos de la Gerencia de Administración y Logística o del
+Departamento de Contrataciones Técnicas de la Gerencia Técnica de Infraestructura,
+designados por el autorizador de gasto de acuerdo al monto de contratación, responsables de
+las etapas de la fase precontractual de un procedimiento de contratación que no requiere la
+conformación de Comisión Técnica.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+5 de 23
+
+CAPÍTULO II
+DE LAS NORMAS GENERALES QUE REGULAN LOS
+PROCEDIMIENTOS DE CONTRATACIÓN
+Artículo 3.- AUTORIZACIÓN DE USUARIOS Y CONTRASEÑAS. - El titular del área requirente
+designará y autorizará a los servidores el uso de los usuarios y contraseñas para acceder a las
+herramientas del Sistema Nacional de Contratación Pública. Le corresponde a la Gerencia de
+Tecnología de Información a través de su delegado, administrar el permiso de accesibilidad otorgado
+por el SERCOP para operar el portal institucional del Servicio Nacional de Contratación Pública, por
+ende, deberá crear usuarios y claves para la operación del mismo.
+Artículo 4.- PUBLICACIÓN EN EL PORTAL INSTITUCIONAL DEL SERVICIO NACIONAL DE
+CONTRATACIÓN PÚBLICA. - Los servidores de la Unidad Adquisiciones del Departamento
+Abastecimientos de la Gerencia de Administración y Logística; Departamento Contrataciones
+Técnicas de la Gerencia Técnica de Infraestructura; en coordinación con las áreas requirentes, los
+Secretarios de Comisiones Técnicas o responsables de la fase precontractual, según corresponda; en
+el ámbito de sus respectivas competencias, deberán publicar en el portal institucional del Servicio
+Nacional de Contratación Pública, la información relevante de los procedimientos de contratación de
+las fases: preparatoria, pre contractual hasta el registro del contrato.
+Los Administradores de los Contratos de ejecución de obras, adquisición de bienes, arrendamiento y
+prestación de servicios, incluidos los de consultoría, serán los encargados de publicar en el portal
+institucional del Servicio Nacional de Contratación Pública, la información relevante de la fase
+contractual.
+Corresponde a los Gerentes de Área y Directores o sus delegados, supervisar que la información
+relevante de las fases: preparatoria, precontractual, contractual y de ejecución, sea elevada al portal
+institucional del Servicio Nacional de Contratación Pública oportunamente; esto es, en el momento
+que se genere la documentación detallada en el artículo 13 del Reglamento General de la LOSNCP y,
+la Codificación y Actualización de las Resoluciones del SERCOP.
+Artículo 5.- DOCUMENTOS FIRMADOS ELECTRÓNICAMENTE. - De acuerdo a las disposiciones
+emitidas por el SERCOP, los documentos relevantes (ANEXO 2A, 2B y 2C) correspondientes a las
+fases preparatoria, precontractual y de ejecución contractual, dependiendo del procedimiento de
+contratación pública, deberán estar firmados electrónicamente, los cuales serán validados únicamente
+a través del sistema FIRMA EC.
+Artículo 6.- AUTORIZADOR DEL GASTO. - Es la máxima autoridad o su delegado, quien, en uso de
+sus funciones y atribuciones delegadas, autorizará el gasto, el inicio de los procedimientos de
+contratación pública, mediante la suscripción de los actos administrativos y contratos, previa
+verificación que el objeto de la contratación se encuentre previsto en el PAC vigente y cuente con la
+documentación correspondiente a cada fase de la contratación.
+Artículo 7.- ORDENADORES DE PAGO. - Son ordenadores de pago, quienes, en el ámbito de su
+competencia, autorizan el pago, previo control y cumplimiento de los requisitos establecidos en la
+normativa legal vigente. Son ordenadores de pago en la Empresa, los funcionarios y servidores que
+se detallan en el ANEXO 1, que forma parte integrante del presente Reglamento, conforme el
+coeficiente señalado y de acuerdo al Presupuesto Inicial del Estado (PIE) para el correspondiente
+ejercicio fiscal.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+6 de 23
+
+El Gerente Financiero o su delegado, deberá previamente verificar que todo pago corresponda a un
+compromiso devengado; se efectúen dentro de los límites de la programación financiera; estén
+debidamente justificados y comprobados con los documentos originales o certificados.
+Artículo 8.- SUBDIVISIÓN DE CONTRATACIONES. - Se prohíbe expresamente cualquier tipo de
+subdivisión de contrataciones con el fin de eludir los diferentes procedimientos establecidos en la
+LOSNCP y los niveles de autorizaciones de pago dispuestos en el ANEXO 1, que forma parte
+integrante del presente Reglamento.
+Artículo 9.- CÓDIGO CPC RESTRINGIDO. - En el caso de que existan bienes y servicios que se
+encuentren en el catálogo electrónico del SERCOP, de acuerdo a las condiciones y especificaciones
+establecidas en dicha herramienta, y no correspondan a las requeridas por la Empresa; el área
+requirente deberá tramitar a través de la respectiva Gerencia de Área, la solicitud de autorización al
+SERCOP para la utilización del código CPC restringido.
+Artículo 10.- EXPEDIENTE DEL PROCEDIMIENTO DE CONTRATACIÓN. - Contendrá la
+documentación de las fases preparatoria, precontractual, contractual y ejecución incluido el contrato,
+la documentación habilitante y la oferta adjudicada e incluso las ofertas no adjudicadas.
+El expediente del procedimiento de contratación deberá estar debidamente organizado de manera
+secuencial, conforme se generen o se reciban los documentos que forman parte del mismo, por tanto,
+su organización debe ser cronológica, numerada en orden, y con una identificación clara de cada
+documento.
+Artículo 11.- GARANTIAS. - Previo a la suscripción del contrato y cuando corresponda, el
+Departamento de Tesorería General, para el caso de pólizas y garantías previstas en el artículo 73
+de la LOSNCP, y para el caso de pólizas de seguros (Responsabilidad Civil y Accidentes Personales),
+serán responsables de verificar que las garantías otorgadas cumplan con los requisitos, condiciones
+(generales y particulares) y montos exigidos en la ley y en los contratos, efectuar el control,
+seguimiento y custodia de las mismas, a fin de asegurar que se mantengan vigentes, realizar los
+pedidos de renovación con la anticipación debida conforme la ley y, requerir la ejecución de las
+mismas a las compañías financieras o aseguradoras cuando corresponda; funciones para las cuales
+se le delega expresamente, a fin de que cuente con las facultades y atribuciones respectivas, sin que
+ninguna autoridad pública o privada pueda alegar falta o insuficiencia de poder o autorización.
+En caso de que los contratos requieran garantía técnica, el titular del área requirente, previo a la
+suscripción de estos, en coordinación con el servidor que elaboró las especificaciones técnicas o
+términos de referencia, revisará y sumillará la misma en aceptación de las condiciones, términos y
+legalidad de su emisión, previstos en la Ley Orgánica del Sistema Nacional de Contratación Pública.
+Para las contrataciones de repuestos o accesorios y para la adquisición de bienes únicos en el
+mercado o proveedores únicos previstos en el Reglamento General de la LOSNCP; así como para los
+contratos que requieran la entrega de garantías técnicas, serán admitidos únicamente aquellos que
+fueran emitidos por el fabricante, representante, distribuidor o vendedor autorizado, en caso que tal
+garantía sea emitida en territorio extranjero, deberá contar con la certificación del agente diplomático
+o consular del Ecuador residente en el Estado en el que se otorgó el documento o de acuerdo con lo
+previsto en la Convención de La Haya sobre la Apostilla, conforme lo establecido en el artículo 28 de
+la Ley Orgánica para la Optimización y Eficiencia de Trámites Administrativos.
+Las garantías técnicas, durante la ejecución del contrato serán custodiadas por el administrador del
+contrato, quien una vez se haya liquidado el mismo, remitirá al Departamento de Tesorería General
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+7 de 23
+
+para su custodia. En caso de requerirse la ejecución de las garantías técnicas, el área usuaria del
+bien, gestionará la ejecución de la misma a fin de salvaguardar los intereses institucionales.
+
+CAPÍTULO III
+DE LA FASE PREPARATORIA
+Artículo 12.- ELABORACIÓN DEL PLAN ANUAL DE CONTRATACIONES (PAC). - Todas las
+contrataciones de la Empresa deberán estar incluidas en el PAC inicial o reformado durante el
+período fiscal correspondiente, mismo que será aprobado por la máxima autoridad. Los Gerentes de
+Área y Directores, en el ámbito de sus competencias, elaborarán el Plan Anual de Contrataciones
+(PAC) paralelamente con la proforma presupuestaria, plan que deberá contemplar todos los
+requerimientos para la adquisición o arrendamiento de bienes, ejecución de obras y prestación de
+servicios incluidos los de consultoría.
+Previo a la elaboración del PAC y sus reformas, el área requirente deberá consultar el código CPC, al
+Departamento Abastecimientos de la Gerencia de Administración y Logística, para el caso de bienes,
+servicios y consultorías; y, al Departamento Contrataciones Técnicas de la Gerencia Técnica de
+Infraestructura, para el caso de obras y consultorías (técnicas). El código CPC asignado, será
+responsabilidad compartida del área requirente y los Departamentos: Abastecimientos; y,
+Contrataciones Técnicas, según corresponda.
+La Gerencia de Planificación y Desarrollo, previa revisión, publicará el PAC aprobado hasta el 15 de
+enero de cada año, en el portal institucional del Servicio Nacional de Contratación Pública, y pondrá
+en consideración de la máxima autoridad, las reformas al PAC que deberán estar motivadas por
+aspectos técnicos o económicos.
+Así mismo, le corresponde a la Gerencia de Planificación y Desarrollo, el seguimiento y control
+mensual de la ejecución del Plan Anual de Contrataciones; y, de manera cuatrimestral emitirá un
+informe de evaluación, a fin de efectuar los ajustes necesarios y optimizar el presupuesto asignado; y,
+asegurar que los procedimientos de contratación concuerden con los objetivos estratégicos de la
+Empresa.
+Artículo 13.- CERTIFICACIONES DE CATÁLOGO ELECTRÓNICO. - Las certificaciones de catálogo
+electrónico, serán emitidas por
+el Departamento de Abastecimientos de la Gerencia de
+Administración y Logística designado, previo a la publicación del proceso de contratación.
+Artículo 14.- CERTIFICACIÓN PRESUPUESTARIA. - Si se determina que, el estudio de mercado y
+el presupuesto referencial de la contratación, tiene valores inferiores a los que constan en el PAC
+vigente aprobado, se aceptará para la emisión de la respectiva Certificación Presupuestaria emitida
+por la Gerencia Financiera, siempre y cuando los mismos se encuentren en el umbral establecido por
+la Gerencia Financiera y difundido a las Gerencias de Área y Direcciones, excedido este umbral o que
+dicho estudio estipule un valor superior, se deberá realizar las reformas respectivas al PAC.
+Artículo 15.- RESPONSABLES DE LA FASE PREPARATORIA. - La Fase preparatoria estará a
+cargo de las áreas requirentes, las cuales serán responsables de obtener y/o generar todos los
+documentos determinados en la normativa aplicable para cada procedimiento de contratación; por lo
+tanto, les corresponde responder ante los órganos de control, respecto de la validez técnica, legal y
+económica del expediente de la fase preparatoria que generen y, verificar que previo a solicitar la
+autorización de inicio del procedimiento, esta cumpla con los requerimientos establecidos en dicha
+normativa.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+8 de 23
+
+Artículo 16.- DOCUMENTACIÓN REQUERIDA PARA LA FASE PREPARATORIA. - La
+documentación de esta fase, deberá encontrarse de manera digital, debidamente suscrita
+electrónicamente por los responsables de su elaboración, revisión y aprobación, según el caso, en el
+repositorio documental, conforme lo establecido en ANEXO 2A y 2C.
+
+CAPÍTULO IV
+DE LA FASE PRECONTRACTUAL
+Artículo 17.- RESPONSABLES DE LA FASE PRECONTRACTUAL. - Esta fase estará a cargo de
+los servidores que conforman la Comisión Técnica, para los procedimientos en los que es necesaria
+su conformación; y, de los profesionales responsables de la fase precontractual designado por los
+autorizadores de gasto, de acuerdo al monto de contratación, quienes deberán atender y llevar a
+cabo las diferentes etapas de esta fase dentro de la fecha límite del cronograma establecido en el
+respectivo pliego.
+
+CAPÍTULO V
+DE LA FASE CONTRACTUAL Y DE EJECUCIÓN
+Artículo 18.- RESPONSABLES DE LA FASE CONTRACTUAL Y DE EJECUCIÓN. - Esta fase inicia
+con la suscripción del contrato y está a cargo del Administrador del Contrato, hasta su finalización en
+el portal institucional del Servicio Nacional de Contratación Pública.
+Para los procedimientos de contratación a nivel de Gerencia General, la Gerencia Jurídica
+comunicará al Gerente o Director de área requirente, y al Administrador de Contrato designado dentro
+del mismo, que el expediente completo está disponible en el repositorio documental a fin de que se
+inicie la fase de ejecución contractual.
+Para los procedimientos de contratación ejecutados por los delegados de la Máxima Autoridad, los
+Departamentos Abastecimientos de la Gerencia de Administración y Logística y Contrataciones
+Técnicas de la Gerencia Técnica de Infraestructura, comunicarán al Gerente o Director de área
+requirente, y al Administrador de Contrato designado dentro del mismo, que el expediente completo
+está disponible en el repositorio documental a fin de que se inicie la fase de ejecución contractual.
+Durante la ejecución del contrato, el Administrador, deberá publicar toda la documentación relevante
+correspondiente a la fase contractual en el portal institucional del SERCOP y en el repositorio
+documental; una vez concluida ésta fase, comunicará al Gerente de Área o Director con la constancia
+de cierre del procedimiento en el portal institucional del Servicio Nacional de Contratación Pública; así
+también, notificará a la Secretaría General que el expediente completo se encuentra disponible en el
+repositorio documental, para archivo y custodia final.
+Artículo 19.- SUSCRIPCIÓN DE CONTRATOS. - Una vez suscrito electrónicamente el contrato
+elaborado por las áreas a cargo de los procesos de contratación en la Empresa realizarán su
+publicación en el portal institucional del SERCOP; además, comunicarán al área requirente, que el
+expediente completo, está disponible en el repositorio documental, para que proceda con la
+notificación al Administrador del Contrato.
+Artículo 20.- CONTRATOS COMPLEMENTARIOS Y MODIFICATORIOS. - Para la celebración de
+contratos complementarios o modificatorios, los administradores solicitarán a la Gerencia Jurídica, el
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+9 de 23
+
+informe de pertinencia legal, previos informes técnicos y/o económicos que justifiquen los
+presupuestos normativos para cada uno de los casos, con los documentos de sustento que se
+encontrarán en el repositorio documental.
+Una vez que se cuente con el informe de pertinencia legal, el Administrador de Contrato solicitará al
+autorizador de gasto que corresponda según el monto del contrato, autorización para la celebración
+de un contrato complementario o modificatorio.
+En los casos que procedan dichos contratos, la Gerencia Jurídica, remitirá al autorizador de gasto que
+corresponda, el proyecto de contrato y documentos constantes en el expediente para su revisión y
+suscripción. Una vez suscrito el instrumento contractual, se comunicará al Administrador de Contrato,
+que el expediente completo, está disponible en el repositorio documental, para la consecución de sus
+funciones derivadas de la ejecución del contrato.
+Artículo 21.- TERMINACIÓN DE CONTRATOS. - En los casos de terminación unilateral y anticipada
+del contrato o por mutuo acuerdo, el Administrador de Contrato, elaborará los informes técnicos y
+económicos que justifiquen las circunstancias establecidas en los artículos 93 y 94 de la Ley Orgánica
+del Sistema Nacional de Contratación Pública, los cuales serán remitidos a la Gerencia Jurídica para
+la emisión del informe de pertinencia legal.
+Una vez que se cuente con el informe de pertinencia legal y se haya cumplido con el debido proceso,
+el Administrador de Contrato, solicitará al autorizador de gasto que corresponda, según el monto del
+contrato, la aprobación para la celebración de los instrumentos legales que estarán a cargo de la
+Gerencia Jurídica.
+Suscrito el respectivo instrumento legal, la Gerencia Jurídica, comunicará al Administrador de
+Contrato, que el expediente completo, está disponible en el repositorio documental.
+
+CAPÍTULO VI
+DE LAS DELEGACIONES A LOS AUTORIZADORES DE GASTO
+Artículo 22.- DELEGACIÓN Y COMPETENCIAS. - Los autorizadores de gasto, conforme los montos
+de contratación, tendrán las siguientes competencias:
+a)
+
+Autorizar el gasto e inicio de procedimiento de contratación pública, previa verificación que el
+objeto de la contratación se encuentre previsto en el Plan Anual de Contrataciones y cuente
+con la documentación habilitante respectiva;
+
+b)
+
+Aprobar los pliegos de los procedimientos de contratación pública, previo sumilla de revisión y
+validación del titular del área requirente o de la comisión técnica, según el tipo de
+procedimiento;
+
+c)
+
+Designar a la Comisión Técnica o a los profesionales responsables de la fase precontractual
+que intervendrán en los procedimientos de contratación, de acuerdo al monto del contrato;
+
+d)
+
+Aprobar y suscribir resoluciones de inicio, adjudicación, cancelación, declaratoria de
+procedimiento desierto, según corresponda de conformidad con lo establecido en la LOSNCP y
+demás normativa aplicable, a excepción de las resoluciones de declaratoria en situación de
+emergencia que deberán ser firmadas por la máxima autoridad;
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+10 de 23
+
+e)
+
+Firmar los contratos u órdenes de compra derivados de los procedimientos para adquisición de
+bienes, obras y servicios incluidos los de consultoría realizados por la Empresa;
+
+f)
+
+Designar a los Administradores de Contratos o responsables de órdenes de compra, según
+corresponda;
+
+g)
+
+Designar comisiones de recepción sean provisionales, parciales, totales y/o definitivas en los
+diferentes contratos, de conformidad con lo dispuesto en el Reglamento General de la
+LOSNCP;
+
+h)
+
+Aprobar y firmar los contratos modificatorios y complementarios que se derivan de los contratos
+principales;
+
+i)
+
+Resolver y suscribir motivadamente la terminación unilateral y anticipada del contrato, así como
+la terminación por mutuo acuerdo de las órdenes de compra o contratos según corresponda y
+suscribir los instrumentos jurídicos respectivos previo informe del responsable de la orden de
+compra o Administrador de Contrato de conformidad con el procedimiento establecido en la
+LOSNCP, su Reglamento General y demás normativa vigente;
+
+j)
+
+Aprobar y suscribir las resoluciones motivadas para la declaración de adjudicatario fallido o
+contratista incumplido;
+
+k)
+
+Resolver de forma motivada los reclamos y recursos en materia de contratación pública en
+coordinación con la Gerencia Jurídica;
+
+l)
+
+Dar contestación a las solicitudes de información requeridas por los entes de control o el
+SERCOP de los procedimientos a su cargo;
+
+m)
+
+Suscribir todo acto administrativo, de simple administración e informes inherentes al
+cumplimiento de la normativa vigente en materia de contratación pública, y las disposiciones
+emitidas por la máxima autoridad;
+
+n)
+
+Remitir a la Gerencia de Planificación y Desarrollo de manera mensual, el reporte de
+procedimientos de contrataciones, publicados en el Sistema Nacional de Contratación del
+Estado, incluidos los procedimientos de Ínfima Cuantía según su competencia;
+
+o)
+
+Supervisar que en el caso de los procedimientos de contratación de obras, se cuente con:
+trámite ambiental; informe social del trámite de ocupación de los terrenos afectados;
+autorización de los propietarios-posesionados en el caso de servidumbres; planos, estudios,
+informe de visita técnica al área del proyecto; estudios de desagregación tecnológica o de
+Compra de Inclusión; y, condiciones económicas, conforme lo previsto en la LOSNCP, su
+Reglamento General, resoluciones del SERCOP y el presente Reglamento; y,
+
+p)
+
+Aprobar el Estudio de Desagregación Tecnológica, en los casos que corresponda, documento
+que será elaborado por la Unidad de Presupuesto, Normas y Especificaciones Técnicas y
+aprobado por el Departamento Proyectos, Estudios y Diseños de la Gerencia Técnica de
+Infraestructura, a través de acto administrativo.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+11 de 23
+
+22.1 El Gerente General ejercerá las competencias que anteceden en los siguientes
+procedimientos de contratación pública:
+a)
+
+Catálogo Electrónico, siempre que supere el valor que resulte de multiplicar el coeficiente de
+0,00003 por el monto del Presupuesto Inicial del Estado;
+
+b)
+
+Subasta inversa electrónica, siempre que supere el valor que resulte de multiplicar el
+coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+c)
+
+Licitaciones de bienes, servicios y obras, siempre que supere el valor que resulte de multiplicar
+el coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+d)
+
+Consultoría, siempre que supere el valor que resulte de multiplicar el coeficiente de 0,00003 por
+el monto del Presupuesto Inicial del Estado;
+
+e)
+
+Procedimientos Especiales (arrendamientos), siempre que supere el valor que resulte de
+multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+f)
+
+Ferias Inclusivas, siempre que supere el valor que resulte de multiplicar el coeficiente de
+0,00003 por el monto del Presupuesto Inicial del Estado,
+
+g)
+
+Régimen Especial para adquisición de bienes y prestación de servicios, siempre que supere el
+valor que resulte de multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial
+del Estado;
+
+h)
+
+Régimen Especial para la ejecución de obras y consultorías siempre que supere el valor que
+resulte de multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+i)
+
+Procedimientos de Importación de bienes y servicios siempre que supere el valor que resulte
+de multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+j)
+
+Contratación directa por terminación unilateral del contrato (bienes, servicios y obras) siempre
+que supere el valor que resulte de multiplicar el coeficiente de 0,00003 por el monto del
+Presupuesto Inicial del Estado; y,
+
+k)
+
+Contratos derivados de Declaratoria en Situaciones de Emergencia.
+
+22.2 El Gerente de Administración y Logística ejercerá las competencias previstas en este
+artículo en los siguientes procedimientos de contratación pública:
+a)
+
+Catálogo Electrónico, que supere el valor que resulte de multiplicar el coeficiente 0,000002;
+hasta el valor que resulte de multiplicar el coeficiente 0,00003 por el monto del Presupuesto
+Inicial del Estado;
+
+b)
+
+Subasta inversa electrónica, que supere el valor que resulte de multiplicar el coeficiente
+0,000002; hasta el valor que resulte de multiplicar el coeficiente 0,00003 por el monto del
+Presupuesto Inicial del Estado;
+
+c)
+
+Menor Cuantía de bienes y servicios hasta el valor que resulte de multiplicar el coeficiente de
+0,000002 por el monto del Presupuesto Inicial del Estado;
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+12 de 23
+
+d)
+
+Cotización bienes y servicios hasta el valor que resulte de multiplicar el coeficiente de 0,000015
+por el monto del Presupuesto Inicial del Estado;
+
+e)
+
+Licitación bienes y servicios hasta el valor que resulte de multiplicar el coeficiente de 0,00003
+por el monto del Presupuesto Inicial del Estado;
+
+f)
+
+Procedimientos de Importación de bienes y servicios hasta el valor que resulte de multiplicar el
+coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+g)
+
+Procedimientos Especiales (arrendamientos) hasta el valor que resulte de multiplicar el
+coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+h)
+
+Ferias Inclusivas hasta el valor que resulte de multiplicar el coeficiente de 0,00003 por el monto
+del Presupuesto Inicial del Estado;
+
+i)
+
+Régimen Especial para adquisición de bienes y prestación de servicios hasta el valor que
+resulte de multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado;
+
+j)
+
+Contratación directa por terminación unilateral del contrato (bienes y servicios) hasta el valor
+que resulte de multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del
+Estado; y,
+
+k)
+
+Consultoría hasta el valor que resulte de multiplicar el coeficiente de 0,00003 por el monto del
+Presupuesto Inicial del Estado.
+
+22.3 El Coordinador de la Gerencia de Administración y Logística ejercerá las competencias
+previstas en este artículo en los siguientes procedimientos de contratación pública:
+a)
+
+Subasta inversa electrónica, hasta el valor que resulte de multiplicar el coeficiente 0,000002 por
+el monto del Presupuesto Inicial del Estado;
+
+b)
+
+Catálogo Electrónico, hasta el valor que resulte de multiplicar el coeficiente 0,000002 por el
+monto del Presupuesto Inicial del Estado;
+
+22.4 El Gerente Técnico de Infraestructura, ejercerá las competencias previstas en este artículo
+en los siguientes procedimientos de contratación pública:
+a)
+
+Menor cuantía de obras hasta el valor que resulte de multiplicar el coeficiente de 0.000007 por
+el monto del Presupuesto Inicial del Estado;
+
+b)
+
+Cotización de obras hasta el valor que resulte de multiplicar el coeficiente de 0,00003 por el
+monto del Presupuesto Inicial del Estado;
+
+c)
+
+Consultoría (técnicas) hasta por el monto que resulte de multiplicar el coeficiente de 0,00003
+por el monto del Presupuesto Inicial del Estado;
+
+d)
+
+Régimen Especial para la ejecución de obras y consultorías hasta por el monto menor o igual
+que resulte de multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+13 de 23
+
+Estado; y,
+e)
+
+Contratación directa por terminación unilateral del contrato (obras) hasta el valor que resulte de
+multiplicar el coeficiente de 0,00003 por el monto del Presupuesto Inicial del Estado.
+
+CAPÍTULO VII
+DE LAS CONTRATACIONES QUE REALIZA EL GERENTE GENERAL Y REQUIERE DE LA
+CONFORMACIÓN DE COMISIÓN TÉCNICA
+Artículo 23.- INTEGRACIÓN DE LAS COMISIONES TÉCNICAS. - Las Comisiones Técnicas para
+cada procedimiento de contratación establecido en el artículo 18 del RLOSNCP, estarán integradas
+de la siguiente manera:
+a)
+b)
+c)
+
+Un profesional designado por el autorizador del gasto, quien la presidirá;
+El Gerente o director del Área requirente o su delegado; y,
+Un profesional afín al objeto de la contratación designado por el autorizador de gasto.
+
+El miembro afín y el delegado de la Gerencia de Área o Dirección requirente, preferiblemente deberá
+ser un servidor con conocimiento técnico en el objeto de contratación y que no haya participado en la
+elaboración, revisión y aprobación de los términos de referencia, o especificaciones técnicas, salvo
+que se trate de Gerentes de Área, Directores, Jefes Departamentales y Jefes de Unidad.
+En caso de que la Comisión Técnica requiera de manera puntual y específica un profesional afín que
+no sea servidor de la Empresa, la Gerencia o Dirección requirente podrá solicitar a la máxima
+autoridad la participación de asesoría externa especializada en el objeto de la contratación, dicho
+profesional deberá comprobar documentadamente la especialización requerida.
+Artículo 24.- FUNCIONAMIENTO DE LAS COMISIONES TÉCNICAS. - La convocatoria a los
+integrantes de las Comisiones Técnicas, se la realizará por lo menos con 24 horas de anticipación,
+será firmada electrónicamente e incluirá el orden del día acompañado de los requisitos de la fase
+preparatoria y precontractual según corresponda.
+La Comisión Técnica podrá sesionar válidamente con la presencia de dos de sus miembros, de los
+cuales, el Presidente deberá estar presente necesariamente. Las decisiones se adoptarán por
+mayoría simple; en caso de empate, el Presidente tendrá voto dirimente, podrá auto convocarse en
+cualquier momento, con la presencia de todos sus integrantes. El voto será obligatorio, tendrá
+carácter afirmativo o negativo.
+Las Comisiones Técnicas, designarán en calidad de Secretarios de preferencia a profesionales en
+derecho del Departamento Contratación Pública de la Gerencia Jurídica, previa coordinación con el
+Jefe de dicha Área.
+Artículo 25.- RESPONSABILIDADES DE LA COMISIÓN TÉCNICA Y DE LOS PROFESIONALES
+RESPONSABLES DE LA FASE PRECONTRACTUAL. - Son responsabilidades de la Comisión
+Técnica y de los profesionales responsables de la fase precontractual:
+25.1. De la Comisión Técnica:
+a)
+
+Designar al secretario fuera de su seno de acuerdo a lo establecido en el artículo 18 del
+Reglamento General de la Ley Orgánica del Sistema Nacional de Contratación Pública;
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+14 de 23
+
+b)
+
+Disponer a los secretarios que coordinen con los Departamentos Abastecimientos o
+Contrataciones Técnicas, según el caso, la publicación de la información relevante a través del
+portal institucional del Servicio Nacional de Contratación Pública;
+
+c)
+
+Elaborar, en conjunto con el área requirente el pliego respectivo, para los procedimientos de
+licitación;
+
+d)
+
+Conformar de ser necesario las subcomisiones de apoyo que estarán integradas por servidores
+con conocimiento inherente al objeto de la contratación, que no hayan participado en la
+elaboración, revisión y aprobación de Términos de Referencia o Especificaciones Técnicas. Los
+miembros de la subcomisión deberán ser sugeridos por los Gerentes de Área o Directores;
+
+e)
+
+Analizar y aprobar los informes presentados por la subcomisión de apoyo durante la fase
+precontractual;
+
+f)
+
+Responder las preguntas efectuadas a través del portal institucional del SERCOP o realizar las
+aclaraciones pertinentes a los pliegos, lo cual constará en el acta de preguntas o aclaraciones;
+
+g)
+
+Coordinar con los Departamentos Abastecimientos o Contrataciones Técnicas, según el caso,
+la publicación de la información relevante a través del portal institucional del Servicio Nacional
+de Contratación Pública;
+
+h)
+
+Realizar el acto público de apertura de ofertas, validando la firma electrónica en el sistema EC,
+lo cual constará en la respectiva acta de apertura de ofertas;
+
+i)
+
+Verificar en la etapa precontractual, la habilitación de cada uno de los proveedores en el RUP;
+así como, que no incurran en las inhabilidades generales y especiales contempladas en la
+LOSNCP; RGLOSNCP; en la Resoluciones emitidas por el SERCOP, y demás aplicables;
+
+j)
+
+Solicitar y realizar la convalidación de ofertas de ser el caso, lo cual constará en el acta de
+convalidación respectiva;
+
+k)
+
+Elaborar y suscribir el acta de calificación de ofertas, el acta de negociación, según
+corresponda, informes de recomendación de adjudicación, cancelación o declaratoria de
+desierto según corresponda, el cual deberá estar dirigido al autorizador de gasto
+correspondiente de acuerdo al procedimiento de contratación;
+
+l)
+
+Elaborar y suscribir todo acto de simple administración que se genere en la fase precontractual;
+y,
+
+m)
+
+Las demás que señale la LOSNCP, su Reglamento General y la Codificación y actualización de
+las resoluciones que emita el SERCOP.
+
+25.2
+a)
+
+De los profesionales responsables de la fase precontractual:
+Responder las preguntas efectuadas a través del portal institucional del SERCOP o realizar las
+aclaraciones pertinentes a los pliegos, lo cual constará en el acta de preguntas o aclaraciones;
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+15 de 23
+
+b)
+
+Coordinar con los Departamentos Abastecimientos o Contrataciones Técnicas, según el caso,
+la publicación de la información relevante a través del portal institucional del Servicio Nacional
+de Contratación Pública;
+
+c)
+
+Realizar el acto público de apertura de ofertas, validando la firma electrónica en el sistema EC,
+lo cual constará en la respectiva acta de apertura de ofertas;
+
+d)
+
+Verificar en la etapa precontractual, la habilitación de cada uno de los proveedores en el RUP;
+así como, que no incurran en las inhabilidades generales y especiales contempladas en la
+LOSNCP; RGLOSNCP; en la Resoluciones emitidas por el SERCOP, y demás aplicables;
+
+e)
+
+Solicitar y realizar la convalidación de ofertas de ser el caso, lo cual constará en el acta de
+convalidación respectiva;
+
+f)
+
+Elaborar y suscribir el acta de calificación de ofertas, el acta de negociación, según
+corresponda, informes de recomendación de adjudicación, cancelación o declaratoria de
+desierto según corresponda, el cual deberá estar dirigido al autorizador de gasto
+correspondiente de acuerdo al procedimiento de contratación;
+
+g)
+
+Elaborar y suscribir todo acto de simple administración que se genere en la fase precontractual;
+y,
+
+h)
+
+Las demás que señale la LOSNCP, su Reglamento General y la Codificación y actualización de
+las resoluciones que emita el SERCOP.
+
+Artículo 26.- RESPONSABILIDADES DE LA SECRETARÍA DE LA COMISIÓN TÉCNICA. - Son
+responsabilidades de la Secretaría de la Comisión Técnica:
+a)
+
+Receptar la documentación que corresponde a la Comisión Técnica y que ha sido direccionada
+al Presidente;
+
+b)
+
+Convocar a sesiones al menos con 24 horas de anticipación acompañando la documentación a
+tratarse en cada sesión, previa disposición del Presidente, misma que será notificada mediante
+correo electrónico a los miembros de la Comisión;
+
+c)
+
+Elaborar motivadamente las actas e informes correspondientes a la fase precontractual y
+someterlas a consideración de la Comisión Técnica para la firma de todos los miembros
+actuantes;
+
+d)
+
+Mantener el archivo de la documentación de los procedimientos generados por la Comisión
+Técnica durante la fase precontractual, hasta que se notifique a la Gerencia Jurídica que el
+expediente completo se encuentra disponible en el centro documental, para la continuidad del
+trámite respectivo;
+
+e)
+
+Recibir las ofertas;
+
+f)
+
+Preparar los documentos sobre los asuntos resueltos por la Comisión Técnica;
+
+g)
+
+Certificar los documentos generados en la Comisión Técnica, o que reposen en la Secretaría;
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+16 de 23
+
+h)
+
+Recibir de las subcomisiones de apoyo los informes y cuadros comparativos, de la evaluación
+de las ofertas, y ponerlas en conocimiento de la Comisión Técnica, correspondiendo a los
+subcomisionados entregarlos de manera oportuna y suscrito por todos;
+
+i)
+
+Coordinar con el Departamentos Abastecimientos o Contrataciones Técnicas, la creación y
+publicación del procedimiento en el portal institucional del Servicio Nacional de Contratación la
+documentación relevante de las fases preparatoria, precontractual y contractual de conformidad
+con el Art. 13 del Reglamento General de la LOSNCP, su Codificación y actualización de las
+Resoluciones emitidas por el SERCOP; así como cumplir con las etapas establecidas por el
+portal institucional del Servicio Nacional de Contratación Pública, informando la existencia o no
+de hallazgos presentados por el SERCOP, con el descargo y resolución adoptada de acuerdo
+al cronograma constante en los pliegos; y,
+
+j)
+
+Elaborar los informes de respuesta a reclamos y recursos sujetos a la LOSNCP y su
+Reglamento General; acompañando los justificativos que respalden la actuación de la Comisión
+Técnica, y remitir a la Gerencia Jurídica oportunamente, a fin de que lo atienda dentro del
+término correspondiente, conforme a las resoluciones adoptadas por los miembros de la
+Comisión Técnica;
+
+CAPÍTULO VIII
+DE LOS PROCEDIMIENTOS QUE CORRESPONDEN A
+AUTORIZADORES DE GASTO
+Artículo 27.- CONTRATACIONES EN SITUACIONES DE EMERGENCIA. - Comprende las
+definidas en el numeral 31 del artículo 6 de la LOSNCP, para que una contratación sea declarada en
+emergencia las áreas requirentes, deberán observar las disposiciones de la Ley Orgánica del Sistema
+Nacional de Contratación Pública, su Reglamento General y el procedimiento establecido en la
+Codificación de las Resoluciones emitidas por el SERCOP, respecto a plazos, entrega de informes,
+publicaciones y demás requerimientos que son de cumplimiento obligatorio por parte de todos los
+Gerentes de Área y Directores.
+Este procedimiento no está sujeto a delegación, por lo que las áreas requirentes deberán calificar
+previo a solicitar la declaratoria de emergencia, que la existencia de acontecimientos graves tales
+como: accidentes, terremotos, inundaciones, sequías, grave conmoción interna, inminente agresión
+externa, guerra internacional, catástrofes naturales, y otras que provengan de fuerza mayor o caso
+fortuito, a nivel nacional, sectorial o institucional y calificar la misma como concreta, inmediata,
+imprevista, probada y objetiva.
+
+CAPÍTULO IX
+DE LA CONTRATACIÓN PARA ÍNFIMAS CUANTÍAS
+Artículo 28.- AUTORIZACIÓN INICIAL. - Los procedimientos de contratación para ínfimas cuantías,
+se efectuarán para la adquisición o arrendamiento de bienes, ejecución de obras y prestación de
+servicios, a excepción de los de consultoría, cuyo presupuesto referencial sea inferior al valor que
+resulte de multiplicar el coeficiente 0,0000002 por el Presupuesto Inicial del Estado vigente, conforme
+con lo establecido en el artículo 60 del Reglamento General a la LOSNCP, para lo cual, el área
+requirente solicitará la autorización de inicio debidamente motivada al Gerente de Administración y
+Logística.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+17 de 23
+
+Artículo 29.- PROCEDIMIENTO. - El área requirente realizará un informe de justificación de la
+necesidad y fijación del presupuesto referencial conforme la herramienta electrónica establecida por
+el SERCOP; y, siempre que sea posible, se exhorta a las Gerencias de área y Direcciones a que
+cuenten con al menos tres proformas que servirán de base para elaborar el respectivo estudio de
+mercado y/o presupuesto referencial.
+Toda la documentación correspondiente, será remitida por el Gerente de Área o Director del área
+requirente a la de la Gerencia de Administración y Logística para su revisión, autorización y trámite a
+través del Departamento Abastecimientos, en aquellos casos en los cuales no se cuente con toda la
+documentación de sustento que justifique la contratación, se devolverá el expediente al área
+requirente ya sea para subsanar inconsistencias o para el archivo del procedimiento.
+
+CAPÍTULO X
+DE LOS ADMINISTRADORES DE CONTRATOS U ÓRDENES DE COMPRA
+Artículo 30.- RESPONSABILIDADES. – El Administrador del Contrato u orden de compra será
+responsable de tomar todas las medidas necesarias para la adecuada ejecución de un contrato, con
+estricto cumplimiento de sus cláusulas, programas, cronogramas, plazo de ejecución contractual y
+costos previstos, debiendo velar por el cabal y oportuno cumplimiento de todas y cada una de las
+obligaciones atinentes al contrato. El Administrador del Contrato u orden de compra deberá tener
+pleno conocimiento de la contratación que supervisa para un adecuado control.
+Artículo 31.- AUSENCIA TEMPORAL O DEFINITIVA DEL ADMINISTRADOR. – En circunstancias
+de ausencia temporal o definitiva (casos de ausencia, traslado o desvinculación), el Administrador del
+Contrato deberá notificar al Gerente de Área o Director/a, su ausencia y la necesidad de su
+reemplazo.
+El Gerente de Área o Director/a deberá solicitar motivadamente al respectivo autorizador del gasto
+mediante comunicación formal, la designación de un nuevo Administrador de Contrato.
+Salvo casos de fuerza mayor, en los cuales el Administrador del Contrato no pueda notificar su
+ausencia temporal o definitiva, será el Jefe inmediato de manera directa será quien reporte al Gerente
+de Área o Director, la necesidad de designación de un nuevo Administrador.
+El Administrador saliente deberá entregar al respectivo autorizador del gasto y al Gerente de Área o
+Director un informe técnico - financiero debidamente respaldado y documentado del estado actual de
+la ejecución contractual, con el expediente completo.
+
+DISPOSICIONES GENERALES
+PRIMERA: El cumplimiento de las delegaciones otorgadas mediante el presente Reglamento o las
+que otorgue la máxima autoridad, no podrán ser sustituidas a favor de terceras personas. Los
+servidores delegados, informarán periódicamente o cuando el Gerente General lo requiera, sobre las
+acciones realizadas en ejercicio de las atribuciones delegadas.
+El Gerente General, podrá en cualquier momento, realizar la avocación de la atribución, sin necesidad
+de suscripción de documento alguno, particular que será puesto en conocimiento del servidor
+delegado.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+18 de 23
+
+La delegación se ejercerá en el marco de todas las normas, reglas y disposiciones aplicables, de
+modo que cualquier inobservancia de estas, se entenderá como una desviación o incumplimiento de
+los términos de la presente delegación; por lo que el servidor que actuare al margen de los términos e
+instrucciones de la delegación, responderá personal y pecuniariamente, por los actos u omisiones
+realizados en ejercicio de su delegación.
+Sin perjuicio de la responsabilidad administrativa, civil o penal por infracciones al ordenamiento
+jurídico, los servidores delegados responderán de sus actuaciones ante la autoridad delegante.
+SEGUNDA: Los procedimientos de contratación financiados con fondos provenientes de organismos
+multilaterales de crédito de los cuales el Ecuador sea miembro, o, en las contrataciones que se
+financien con fondos reembolsables o no reembolsables provenientes de financiamiento de gobierno
+a gobierno; u organismos internacionales de cooperación, se regirán bajo las políticas de
+adquisiciones dispuestas y aprobadas por dichos entidades financistas.
+TERCERA: Para aquellos casos en los cuales la Empresa requiera para el cumplimiento de su objeto
+principal y en ejercicio de su capacidad asociativa, constituir alianzas estratégicas; o a su vez,
+contrataciones bajo el mecanismo de giro específico de negocio, se regirá a los procedimientos
+establecidos en la Ley y en los reglamentos emitidos para el efecto.
+CUARTA: Para los procedimientos de contratación pública llevados a cabo por la Empresa, los
+funcionarios que intervengan en cada una de las fases del procedimiento, deben contar con la
+certificación de Operadores del Sistema Nacional de Contratación Pública.
+QUINTA: Los servidores de la Empresa, que intervengan en las fases preparatoria, precontractual y
+contractual de los procedimientos de contratación pública, así como, quienes asuman cargos de
+Gerentes de Área o Directores, deberán dar estricto cumplimento a las recomendaciones efectuados
+por los organismos de control y comunicar sobre su cumplimiento a la Gerencia General.
+SEXTA: Los ANEXOS 2A, 2B y 2C, deberán ser actualizados por la Gerencia Jurídica, en
+coordinación con la Gerencia de Planificación y Desarrollo, conforme a los cambios generados por el
+Ente Rector de la Contratación Pública a través de la Ley Orgánica del Sistema Nacional de
+Contratación Pública, su Reglamento de aplicación y las Resoluciones emitidas por el SERCOP; así
+como también, conforme a las necesidades institucionales que generen las áreas delegadas para
+llevar adelante los procesos de contratación, sin que para el efecto sea necesario reformar el
+presente instrumento. Las actualizaciones de los ANEXOS 2A, 2B y 2C, deberán ser comunicadas a
+los servidores de la Empresa e incorporadas en el Vademécum Institucional.
+
+DISPOSICIONES FINALES
+PRIMERA: Deróguese la Resolución N° 113, de 22 de octubre de 2021, y la Resolución N° GG-2022024, de 23 de febrero de 2022, así como cualquier otra de igual o inferior jerarquía que se oponga al
+presente Reglamento.
+SEGUNDA: En todo lo no previsto en el presente Reglamento o discrepancia con la normativa
+jerárquicamente superior, se estará a lo previsto en la Ley Orgánica del Sistema Nacional de
+Contratación Pública, su Reglamento General, las Resoluciones emitidas por el Servicio Nacional de
+Contratación Pública SERCOP, Código Civil, Código Orgánico de Planificación y Finanzas Públicas;
+y, lo que establezcan las demás normas vigentes en la materia, según corresponda.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+19 de 23
+
+TERCERA: La presente Resolución entrará en vigor, a partir de su suscripción y deberá publicarse en
+la página institucional de la Empresa.
+Dada en la ciudad de San Francisco de Quito, Distrito Metropolitano, a 16 de marzo de 2022.
+
+Firmado electrónicamente por:
+
+HUGO OTHON
+ZEVALLOS
+MORENO
+
+Ing. Hugo Othón Zevallos Moreno
+GERENTE GENERAL
+EMPRESA PÚBLICA METROPOLITANA DE AGUA POTABLE Y SANEAMIENTO
+
+ELABORADO
+
+REVISADO
+
+Cargo: Jefe Desarrollo Corporativo y Cargo: Asesora (E)
+Sostenibilidad (E)
+Nombre: Dra. Jimena Polanco.
+Nombre: Ing. Juan Nolivos
+Firma:
+Firmado electrónicamente por:
+Firmado electrónicamente por:
+ALVA JIMENA
+Firma:
+
+JUAN ELIAS
+NOLIVOS
+
+POLANCO
+BENALCAZAR
+
+Cargo: Jefe Contratación Pública
+Nombre: Abg. Diego Salazar F.
+
+Cargo: Gerente de Administración y Logística
+Nombre: Alicia Lupera.
+
+Firma:
+
+Firma:
+
+Firmado electrónicamente por:
+
+DIEGO ARMANDO
+SALAZAR FLORES
+
+Firmado electrónicamente por:
+
+ALICIA FABIOLA
+LUPERA
+ASTUDILLO
+
+Cargo: Gerente de Planificación y Desarrollo
+Nombre: Lic. Verónica Sánchez
+Firma:
+
+Firmado electrónicamente por:
+
+TERESA VERONICA
+SANCHEZ HIDALGO
+
+Cargo: Gerente Jurídica
+Nombre: Dra. Cristina González C.
+Firma:
+Firmado electrónicamente por:
+
+ANGELA CRISTINA
+GONZALEZ CAMACHO
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+20 de 23
+
+ANEXO 1
+ORDENADORES DE PAGO
+
+PROCEDIMIENTO
+
+ORDENADOR
+DE PAGO
+
+Todos los
+procedimientos de
+adquisición de bienes y
+servicios, incluidos los de
+consultoría y ejecución
+de obras
+
+Coordinador de la
+Gerencia Financiera y
+Tesorero
+
+Todos los
+procedimientos de
+adquisición de bienes y
+servicios, incluidos los de
+consultoría y ejecución
+de obras
+
+Gerente Financiero y
+Tesorero
+
+NOTA:
+
+No. 01
+
+MÁRGENES POR MONTO (USD)
+PRESUPUESTO INICIAL DEL
+ESTADO (PIE)
+
+Hasta 0,000007
+
+Más de 0,000007
+
+Con la disposición de pago efectuada por los Ordenadores de Pago, el Tesorero deberá
+confirmar todas las órdenes de pago de la Empresa Pública Metropolitana de Agua
+Potable y Saneamiento, de manera previa a realizar pagos a través del Sistema de
+Pagos del Sector Público SSP.
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+21 de 23
+
+ANEXO 2A
+DOCUMENTACIÓN RELEVANTE A SER SUSCRITA MEDIANTE FIRMA ELECTRÓNICA Y PUBLICADA EN EL PORTAL INSTITUCIONAL DEL SERCOP
+FASE PREPARATORIA Y PRECONTRACTUAL
+1
+
+Estudios, diseños o proyectos;
+
+2
+
+Estudio de mercado para la definición de presupuesto referencial;
+
+3
+
+Estudio de Desagregación Tecnológica, aprobado por la máxima autoridad de la entidad contratante o su delegado, en caso de ser pertinente;
+
+4
+
+Certificación presupuestaria para el objeto de contratación correspondiente;
+
+5
+
+Informe de Pertinencia para la contratación pública emitido por la Contraloría General del Estado, conforme los lineamientos establecidos por el ente de control
+
+6
+
+Convocatoria o invitación para participar en el procedimiento, según el caso;
+
+7
+
+Resolución de aprobación de pliego e inicio del procedimiento;
+
+8
+
+Pliego;
+
+9
+
+Preguntas, respuestas y aclaraciones correspondientes al procedimiento;
+
+10
+
+Ofertas presentadas, salvo la información calificada como confidencial por la entidad contratante conforme al pliego;
+
+11
+
+Acta de apertura de las ofertas presentadas por los oferentes;
+
+12
+
+Acta que detalle los errores de forma de las ofertas y por lo cual se solicita la convalidación de errores, así como el acta por la cual se han convalidado dichos
+errores, de ser el caso;
+
+13
+
+Informe de evaluación de las ofertas realizado por las subcomisiones de apoyo a la Comisión Técnica, de ser el caso;
+
+14
+
+Informe de evaluación de las ofertas realizado por la Comisión Técnica, la máxima autoridad o su delegado, en los casos que corresponda;
+
+15
+
+Cuadro resumen de calificación de las ofertas presentadas;
+
+16
+
+Informe de la Comisión Técnica en la cual recomienda a la máxima autoridad o su delegado la adjudicación o declaratoria de desierto, según corresponda, del
+procedimiento de contratación;
+
+17
+
+Garantías presentadas antes de la firma del contrato;
+
+18
+
+Cualquier resolución de delegación emitida dentro de esta fase por la máxima autoridad de la entidad contratante o su delegado;
+
+19
+
+Resoluciones de cancelación o declaratoria de procedimiento desierto, según el caso y de existir;
+
+20
+
+Cualquier reclamo o recurso presentado dentro de esta fase, así como los actos emitidos por la entidad contratante con ocasión de su tramitación;
+
+21
+
+En el caso que no se llegue a suscribir el contrato por causas imputables al adjudicatario, la resolución de declaratoria de adjudicatario fallido;
+
+22
+
+Petición del adjudicatario para la firma del contrato, así como el acto por el cual se ha dejado sin efecto la adjudicación, de existir y haberse emitido; y,
+
+23
+
+En general cualquier documento requerido que suponga autorización para la realización de los procedimientos precontractuales o que se requiera como requisito
+previo al inicio de un procedimiento de contratación.
+FUENTE: Ley Orgánica del Servicio Nacional de Contratación Pública, publicada en el Registro Oficial Suplemento 395 de 4 de agosto de 2018; actualizada a 17 de febrero de 2021
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, publicada en el Registro Oficial Suplemento 588 de 12 de mayo de 2009; actualizado a 16 de agosto de 2021
+Resolución Codificada 072 del SERCOP, publicada en Registro Oficial Edición Especial N° 245 de 29 de enero de 2018; actualizada a 21 de agosto de 2021
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+22 de 23
+
+ANEXO 2B
+DOCUMENTACIÓN RELEVANTE A SER SUSCRITA MEDIANTE FIRMA ELECTRÓNICA Y PUBLICADA EN EL PORTAL INSTITUCIONAL DEL
+SERCOP
+FASE CONTRACTUAL Y DE EJECUCIÓN
+1
+
+Contrato suscrito entre la entidad contratante y el contratista así como sus documentos habilitantes, de ser pertinente;
+
+2
+
+Contratos modificatorios, en caso de que sea necesario enmendar errores de conformidad con lo establecido en el artículo 72 de la Ley Orgánica del
+Sistema Nacional de Contratación Pública;
+
+3
+
+Contratos complementarios, en caso de haberse celebrado acorde con lo dispuesto en el Capítulo VIII del Título IV de la Ley Orgánica del Sistema
+Nacional de Contratación Pública, con su respectiva certificación de disponibilidad presupuestaria;
+
+4
+
+Notificación de disponibilidad del anticipo, cuando su pago implica que, a partir de este hecho, corren los plazos de cumplimiento de obligaciones
+por parte del contratista;
+
+5
+
+Órdenes de cambio, de haberse emitido;
+
+6
+
+Documento suscrito por las partes respecto a diferencia en cantidades de obra, de haberse emitido;
+
+7
+
+Documento de aprobación de la entidad contratante para la subcontratación, de ser el caso;
+
+8
+
+Garantías presentadas a la firma del contrato;
+
+9
+
+Informe provisional y final o actas de recepción provisional, parcial, total y definitiva, debidamente suscritas, según sea el caso;
+
+10 Cronogramas de ejecución de actividades contractuales y de pagos;
+
+11 Comunicaciones al contratista respecto de la aplicación de multas u otras sanciones;
+
+12 Actos administrativos de sanción y multas;
+
+13 Cualquier resolución de delegación emitida dentro de esta fase por la máxima autoridad de la entidad contratante o su delegado;
+En el caso de terminación unilateral de un contrato y previo a emitir la resolución correspondiente, la notificación efectuada al contratista
+14 concediéndole el término de diez (10) días para que justifique la mora o remedie el incumplimiento, junto con los informes económico y técnico
+referentes al cumplimiento de las obligaciones de la entidad contratante y del contratista; y,
+15 Cualquier reclamo o recurso presentado por el contratista, así como los actos emitidos por la entidad contratante con ocasión de su tramitación.
+FUENTE: Ley Orgánica del Servicio Nacional de Contratación Pública, publicada en el Registro Oficial Suplemento 395 de 4 de agosto de 2018; actualizada a 17 de febrero de 2021
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, publicada en el Registro Oficial Suplemento 588 de 12 de mayo de 2009; actualizado a 16 de agosto
+de 2021
+
+REGLAMENTO INTERNO DE PROCEDIMIENTOS DE
+CONTRATACIÓN PÚBLICA PARA LA EMPRESA
+PÚBLICA METROPOLITANA DE AGUA POTABLE Y
+SANEAMIENTO
+NORMATIVA INTERNA
+
+CODIGO: R-03-2022-GJ
+
+REVISION
+
+No. 01
+
+FECHA
+
+Marzo
+2022
+
+HOJA
+
+23 de 23
+
+ANEXO 2C
+DOCUMENTACIÓN RELEVANTE ADICIONAL A SER SUSCRITA MEDIANTE FIRMA ELECTRÓNICA Y PUBLICADA EN EL PORTAL INSTITUCIONAL DEL SERCOP
+
+Subasta Inversa
+Electrónica
+
+1. Cuando exista negociación, acta de negociación con los detalles y términos del acuerdo, de haberse alcanzado el mismo, o con la indicación
+de que aquella no tuvo éxito.
+2. Información referente al presupuesto referencial del procedimiento, una vez se haya finalizado la fase de puja o la negociación, respectivamente,
+es decir, dentro de la etapa por adjudicar; o, en caso de que se haya cancelado o declarado desierto el procedimiento, en la etapa de cancelación
+o declaratoria de desierto, según corresponda.
+
+Consultoría
+
+El acta de negociación en la que consten los detalles y términos del acuerdo, de haberse alcanzado el mismo, o con la indicación de que aquella
+no tuvo éxito.
+
+1. Orden de inicio de trabajos;
+2. Planillas de ejecución de obra con identificación de porcentaje de avance físico y financiero para el período y acumulado, debidamente
+aprobadas por la fiscalización;
+3. Documento justificativo de diferencias en cantidades de obra, diferencias de rubros existentes o creación de rubros nuevos;
+4. Órdenes de trabajo;
+Ejecución de obras
+5. Informes de fiscalización;
+6. Registro de incidencia de las lluvias;
+7. Órdenes de suspensión de trabajos en caso de haberlas; y,
+8. Informe de fiscalización y resolución de la máxima autoridad por los que se concedieran prórrogas a los plazos contractuales, en los casos
+permitidos por la normativa vigente o por el contrato.
+
+Adquisición de
+bienes inmuebles
+
+1. Aprobación emitida por el Servicio de Gestión Inmobiliaria del Sector Público, INMOBILIAR, de ser aplicable;
+2. Resolución de declaratoria de utilidad pública o de interés social de propiedad privada en la cual se individualice el bien o bienes requeridos y
+los fines a los cuales se destinará;
+3. Documento emitido por la autoridad competente que certifique el avalúo del bien inmueble por adquirir;
+4. Demanda de expropiación y su sentencia, si no hubiere existido un acuerdo directo entre la entidad y el propietario del inmueble; y,
+5. Escritura pública inscrita en el Registro de la Propiedad.
+
+Arrendamiento de
+bienes inmuebles
+
+1. Pliego en el que consten las condiciones mínimas del inmueble, con la indicación de la ubicación y características del bien;
+2. La publicación de la convocatoria o las invitaciones efectuadas por la entidad contratante realizadas a través de la prensa local o nacional;
+3. Para el caso de las entidades contratantes previstas en el artículo 2, numerales 1 y 2, del Decreto Ejecutivo Nro. 503, publicado en el Registro
+Oficial Suplemento Nro. 335, de 26 de septiembre de 2018; la respectiva autorización emitida por el Servicio de Gestión Inmobiliaria del Sector
+Público - INMOBILIAR, tanto para el inicio del procedimiento de arrendamiento, como para la prórroga y/o renovación de los contratos de
+arrendamiento de bienes inmuebles.
+4. El contrato de arrendamiento.
+
+Régimen Especial
+
+1. Resolución emitida por la entidad contratante con la explicación de los motivos por los que se acoge a dicho procedimiento;
+2. Acta de audiencia realizada con el proveedor invitado, en los casos que aplique; y,
+3. Cualquier otro documento relacionado con la contratación bajo este Régimen de los establecidos para las fases preparatoria, precontractual ,
+contractual y de ejecución.
+
+Todos los documentos que fueren aplicables de aquellos establecidos para las fases preparatoria, precontractual, contractual y de ejecución,
+Giro específico del
+incluyendo la resolución emitida por la entidad contratante en la que se detallen las contrataciones sometidas al giro específico del negocio,
+negocio
+previa autorización del Servicio Nacional de Contratación Pública.
+
+Ínfima Cuantía y
+Emergencia
+
+Los documentos que disponga el SERCOP a través de la normativa legal corespondiente, así como también aquellos requeridos por el
+Departamento Abastecimientos de la Gerencia de Administración y Logística; y el Departamento Contrataciones Técnicas de la Gerencia Técnica
+de Infraestructura.
+
+FUENTE: Ley Orgánica del Servicio Nacional de Contratación Pública, publicada en el Registro Oficial Suplemento 395 de 4 de agosto de 2018; actualizada a 17 de febrero de 2021
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, publicada en el Registro Oficial Suplemento 588 de 12 de mayo de 2009; actualizado a 16 de agosto de 2021
+Resolución Codificada 072 del SERCOP, publicada en Registro Oficial Edición Especial N° 245 de 29 de enero de 2018; actualizada a 21 de agosto de 2021
+
+

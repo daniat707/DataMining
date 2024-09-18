@@ -1,0 +1,428 @@
+INFORME DE NECESIDAD PARA SUBASTA INVERSA ELECTRÓNICA
+(SERVICIOS)
+“ADQUISICIÓN DE UN SOFTWARE DE GESTIÓN
+
+ADMINISTRATIVA, CONTABLE Y FINANCIERA
+PARA EL PATRONATO DE AMPARO SOCIAL DEL
+PAS GADMT”
+
+ANTECEDENTES
+Según lo estipula la Constitución del Ecuador, el artículo 288 de la Constitución
+de la República del Ecuador, dispone que “Las compras públicas cumplirán con
+criterios de eficiencia, transparencia, calidad, responsabilidad ambiental y
+social. Se priorizarán los productos y servicios nacionales, en particular los
+provenientes de la economía popular y solidaria, y de las micro, pequeñas y
+medianas unidades productivas.”
+De acuerdo a la Ley Orgánica del Sistema Nacional de Contratación Pública,
+SECCIÓN II Subasta Inversa, Artículo 47. Subasta Inversa.- “Para la
+adquisición de bienes y servicios normalizados que no consten en el catálogo
+electrónico, las Entidades Contratantes deberán realizar subastas inversas en
+las cuales los proveedores de bienes y servicios equivalentes, pujan hacia la
+baja el precio ofertado, en acto público o por medios electrónicos a través del
+Portal de COMPRAS PUBLICAS.
+Los resultados de los procesos de adjudicación por subasta inversa serán
+publicados en el Portal COMPRAS PUBLICAS para que se realicen las
+auditorías correspondientes”.
+De existir una sola oferta técnica calificada o si luego de ésta un solo proveedor
+habilitado presenta su oferta económica inicial en el portal, no se realizará la
+1/11
+
+puja y en su lugar se efectuará la sesión única de negociación entre la entidad
+contratante y el oferente. El único objetivo de la sesión será mejorar la oferta
+económica. Si después de la sesión de negociación se obtiene una oferta
+definitiva favorable a los intereses nacionales o institucionales, la entidad
+procederá a contratar con el único oferente.
+Según el Reglamento a Ley Orgánica del Sistema Nacional de Contratación
+Pública, SECCIÓN II Subasta Inversa, Apartado I de la Subasta Inversa
+Electrónica, Artículo 44. Procedencia.- La subasta inversa electrónica se
+realizará cuando las entidades contratantes requieran
+
+adquirir
+
+bienes
+
+y
+
+servicios normalizados cuya cuantía supere el monto equivalente al
+0,0000002 del Presupuesto Inicial del Estado, que no se puedan contratar a
+través del procedimiento de Compras por Catálogo Electrónico, y en la
+que los proveedores de dichos bienes y servicios, pujan hacia la baja el
+precio
+
+ofertado
+
+por
+
+medios
+
+electrónicos
+
+a
+
+través
+
+del
+
+Portal
+
+www.compraspublicas.gob.ec.
+En el capítulo VII de la CODIFICACIÓN RESOLUCIONES DEL SERVICIO
+NACIONAL DE CONTRATACIÓN PÚBLICA, en su Art. 462.1 “(…) establece
+que “Antes de iniciar un procedimiento de contratación cuyo objeto sea el
+desarrollo de software, la adquisición de software y/o la provisión de servicios
+relacionados al software, las entidades contratantes deberán consultar el Portal
+del Sistema de Información de Ciencia, Tecnología, Innovación y Saberes
+Ancestrales, y el Portal de Software Ecuatoriano, a efectos de poder formular
+las especificación técnicas o términos de referencias. En la formulación de sus
+términos de referencia y especificaciones técnicas, las entidades contratantes
+deberán preferir y promover el uso de tecnologías libres”.
+Mediante Oficio Nro. MINTEL-SEGE-2018-0049-O, de 15 de marzo de 2018,
+suscrito por el Mgs. Raúl Javier Jara Iñiguez SUBSECRETARIO DE ESTADO GOBIERNO
+
+ELECTRÓNICO,
+
+ratifica
+
+“(…)
+
+que
+
+el
+
+Ministerio
+
+de
+
+Telecomunicaciones y Sociedad de la Información continúa con la evaluación y
+2/11
+
+aprobación de la viabilidad técnica de proyectos de tecnología postulados por
+las instituciones de la Función Ejecutiva, en lo que corresponda a la adquisición
+de hardware y servicios no relacionados con software, cuyo presupuesto
+referencial supere las (50 RMU) remuneraciones mínimas unificadas incluido
+IVA. En lo que respecta a proyectos de software y servicios relacionados y en
+cumplimiento a lo que determina el Código Orgánico de la Economía Social de
+los Conocimientos, Creatividad e Innovación en el art 148, se debe evaluar
+toda adquisición de software sin monto definido.”
+El Código Orgánico de la Economía Social de los Conocimientos, Creatividad e
+Innovación en su artículo 148 Prelación en la adquisición de software por
+parte del sector público establece que “(…) Para la contratación pública
+relacionada a software, las entidades contratantes del sector público deberán
+seguir el siguiente orden de prelación:
+1. Software de código abierto que incluya servicios de desarrollo de código
+fuente, parametrización o implementación con un importante componente de
+valor agregado ecuatoriano;
+2. Software en cualquier otra modalidad que incluya servicios con un
+componente mayoritario de valor agregado ecuatoriano;
+3. Software de código abierto sin componente mayoritario de servicios de valor
+agregado ecuatoriano;
+4. Software internacional por intermedio de proveedores nacionales;
+5. Software internacional por intermedio de proveedores extranjeros.
+En caso no sea posible por el órgano público o pertinente la adquisición o
+desarrollo de software de código abierto con servicios, con un importante
+componente de valor agregado ecuatoriano, el órgano público involucrado en la
+adquisición deberá justificar la adquisición de otras tecnologías de otras
+características ante el ente de Regulación en materia de Gobierno Electrónico
+3/11
+
+que determine el Presidente de la República mediante reglamento. Para
+autorizar dicha justificación, esta Instancia evaluará la criticidad del software en
+función de los siguientes criterios: 1. Sostenibilidad de la solución; 2. Costo y
+oportunidad; 3. Estándares de seguridad; y, 4. Capacidad técnica que brinde el
+soporte necesario para el uso del software.
+En LA NORMA TÉCNICA QUE REGULA EL PROCESO PARA LA
+EVALUACIÓN DE VIABILIDAD TÉCNICA DE PROYECTOS DE GOBIERNO
+ELECTRÓNICO Y AUTORIZACIÓN DE CRITICIDAD DE SOFTWARE Y
+SERVICIOS RELACIONADOS en su “Art. 7.- determina que De la máxima
+autoridad de las entidades.- Le corresponde las siguientes obligaciones:
+a) Designar al responsable de la postulación de los proyectos en el sistema
+CTI y del envío del formulario declarativo para el proceso simplificado. El
+funcionario designado deberá ser el responsable del área de tecnología
+o quien haga sus veces. En caso excepcional, de acuerdo al volumen de
+contrataciones tecnológicas que la institución realice, se podrá
+establecer personal adicional responsable para la postulación de
+proyectos. Estas designaciones deberán ser informadas por escrito al
+Ministerio de Telecomunicaciones y de la Sociedad de la Información.
+Mediante Memorando Nro. 034.1-CONT-PASGADMT-2022, suscrito por la Ing.
+Carmita Vera, Contadora – PASGADMT; solicita que se realice el trámite
+correspondiente para la adquisición de un software de gestión contable,
+administrativo y financiero….; con la finalidad de contar con la información real
+oportuna y actualizada para la presentación de informes financieros y toma de
+decisiones por el nivel directivo.
+
+Con Memorando Nro. 126. C.M.T.SUR-GADMT.2022, de 15 de marzo de 2022,
+suscrito por el Ing. José Ordoñez, solicita “(…) autorice a quien corresponda la
+adquisición del software de facturación, control de inventarios y cuentas por
+cobrar existentes en comisariatos Municipales….”.
+4/11
+
+Mediante Memorando Nro. 118-FMT-PASGADMT-2022, de 15 de marzo de
+2022, la Lcda. Zaida Villarreal, solicita se autorice a quien corresponda la (…)
+adquisición del software de facturación, control de inventarios y Vademecum
+(…)”.
+
+Mediante Memorando Nro. 142.1-PASGADMT-2022, la Mcs. Msc. Guisela
+Sislema, Secretaria Ejecutiva del Patronato del PAS-GADMT, Notifica a la
+Lcda. Zaida Villrreal, Administradora de Farmacias (E), que se le designa como
+la persona encargada para realizar el trámite de “ADQUISICIÓN DE UN
+SOFTWARE DE GESTIÓN ADMINISTRATIVA, CONTABLE Y FINANCIERA
+PARA EL PATRONATO DE AMPARO SOCIAL DEL PAS GADMT”.
+
+Mediante Memorando Nro. 044-CONT-PASGADM-2022, suscrito por la Ing.
+Carmita Vera, Contadora General PAS-GADMT, solicita a la Msc. Guisela
+Sislema, Secretaria Ejecutiva del Patronato del PAS-GADMT, “(…) que de
+acuerdo al procedimiento definido por el Ministerio de Telecomunicaciones y de
+la Sociedad de la Información y el SERCOP, solicite un profesional de la
+jefatura Sistemas del GAD Municipal de Tulcán, con la finalidad de poder
+realizar el proceso de solicitud de autorización para el procedimiento de
+adquisición del Sistema de Gestión Contable Financiera del PAS-GADMT (…)”.
+Con Memorando Nro. 182-PASGADMT-2022, de 23 de marzo de 2022, la Msc.
+Guisela Sislema, Secretaria Ejecutiva del PAS - GADMT, solicita al Ing.
+Oswaldo Mayanquer, Director Administrativo GADMT, “(…) se delegue a un
+funcionario de la Jefatura de Sistemas del GAD – MT, para continuar con el
+Proceso de adquisición del Software del Sistema Contable y Financiero del
+PAS – GADMT (…)”.
+Con fecha 05 de abril de 2022, el Ing. Fernando Bustos, Funcionario de la
+Jefatura
+
+de
+
+Sistemas
+
+del
+
+GADMT,
+
+realiza
+
+ante
+
+el
+
+Ministerio
+
+de
+
+Telecomunicaciones y de la Sociedad de la Información la solicitud de
+5/11
+
+Autorización para la ADQUISICIÓN DE UN SOFTWARE DE GESTIÓN
+ADMINISTRATIVA, CONTABLE Y FINANCIERA PARA EL PATRONATO DE
+AMPARO SOCIAL DEL PAS GADMT, Mediante Nro. Solicitud 034B-0CO6K4.
+Mediante Memorando N° 253-PASGADMT-2022, de 18 de abril de 2022,
+suscrito por la Mgs. Guisela Sislema, Secretaria Ejecutiva Patronato, solicita al
+Ing. Freed Carrera, Jefe de Sistemas GADMT, “se designe a quien
+corresponda con la elaboración del informe técnico para la generación del
+proceso de Adquisición del Software Contable (…)”.
+Con Memorando N° 106-S-GADMT-2022, de 21 de abril de 2022, suscrito por
+el Ing. Freed Carrera, Jefe de Sistemas GADMT, informa que se remite el
+informe sobre especificaciones tecnológicas para el proceso de Adquisición del
+Software Contable.
+OBJETIVO DE LA CONTRATACIÓN
+Realizar
+
+la
+
+“ADQUISICIÓN
+
+DE
+
+UN
+
+SOFTWARE
+
+DE
+
+GESTIÓN
+
+ADMINISTRATIVA, CONTABLE Y FINANCIERA PARA EL PATRONATO DE
+AMPARO SOCIAL DEL PAS GADMT”, que integre todas las actividades
+relacionadas con las áreas, financiera, contable, presupuestaria, administrativa,
+compras públicas, bodega, farmacias, centro médico y comisariatos, que
+faciliten la correcta administración de los recursos contables, financieros y
+administrativos.
+OBJETO DE LA CONTRATACIÓN
+Adquisición de un Software de Gestión Administrativa, Contable y Financiera
+Para El Patronato de Amparo Social del PAS GADMT
+JUSTIFICACIÓN DE LA CONTRATACIÓN
+Se necesita continuar con la automatización del sistema Contable que permita
+el interfaz e interconexión entre las actividades administrativas y financieras
+6/11
+
+desarrolladas en todas las dependencias del Patronato de Amparo Social del
+GAD-MT, como son Comisariatos, Farmacias, Centro Médico, Unidad de
+Contabilidad y de Compras Públicas con la finalidad de contar con información
+rápida y oportuna, además, que cumpla con todos los lineamientos y
+parámetros establecidos por los Organismos y Entes de Control del Ecuador.
+También se necesita que el sistema contable a adquirirse permita mostrar
+información georreferenciada del gasto o las intervenciones de la acción del
+patronato de forma automática e integrada por procesos, además de la
+integración al POA y PAC institucional, el mismo que debe adaptarse a cada
+una de las necesidades institucionales, para la toma de decisiones asertivas.
+5.1. JUSTIFICACIÓN TÉCNICA
+Mediante Informe Técnico Nro. 004-FB-TICS-GADMT-2022, suscrito por el Ing.
+Fernando Bustos, S.P. Apoyo de Servicios Unidad de TICS; “(…) describe las
+recomendaciones generales tecnológicas que se debería tomar en cuenta
+dentro del proceso de adquisición de software conjuntamente con las ya
+definidas por parte de las unidades requirentes.
+5.1.1. Características del software:
+La arquitectura del software debe permitir la intercomunicación entre todas las
+dependencias requirentes, en los casos que no se encuentra en una misma
+intranet, como; comisariatos y farmacias.
+El frontal del software deberá ser basado en el aplicativo de preferencia web o
+en su defecto de escritorio que sea adaptativo a las distintas resoluciones de
+pantalla catalogadas como estándares.
+El motor de base de datos a utilizar deberá de ser de uso libre o en su defecto
+debe incluir la licencia o derecho de uso.
+Debe estar basado en la estructura escalable, flexible y adaptable a la dinámica
+de cambios a las normativas contables y administrativas gubernamentales.
+7/11
+
+La licencia de uso del sistema de información integrado local debe ser perpetua
+y para uso de todas las dependencias requirentes, contabilidad, farmacias,
+comisariatos y centro médico.
+El oferente deberá presentar una certificación de propiedad intelectual del
+Software ofertado.
+En la oferta se debe incluir el año de garantía técnica de preferencia tres años
+sin costo (no incluye nuevos desarrollos no contemplados en el sistema).
+5.1.2. Seguridad
+Debe contar con módulo de autorización y poder controlar los permisos por
+módulo o función, niveles de usuarios.
+Debe contar con mecanismos de seguridad y auditoría que registre todo tipo de
+cambio y eventos (control de auditoría) que se puede realizar en el Software.
+Emisión de reportes.
+5.1.3. Implementación:
+El oferente indicará los requerimientos mínimos de hardware para un óptimo
+funcionamiento de los sistemas ofertados. Una vez adjudicado analizará la
+cantidad de información que procesa la institución, las dependencias que
+estarán interconectadas y los recursos tecnológicos necesarios.
+Oferente deberá presentar un cronograma tentativo de implementación,
+indicando etapas, tiempos, descripción de actividades, responsables.
+El oferente deberá
+
+contar además de los profesionales en desarrollo
+
+de
+
+software, con un profesional que conozca y demuestre experiencia sobre la
+operación contable y administrativa de las instituciones públicas.
+
+8/11
+
+Los
+
+técnicos
+
+del
+
+oferente
+
+adjudicado
+
+establecerán
+
+mecanismos
+
+de
+
+implementación del proyecto de preferencia presenciales para evitar retrasos
+por falta de conectividad.
+Los técnicos del oferente adjudicado deben encargarse de la instalación,
+parametrización inicial, puesta en marcha, configuración del software migración
+de datos y aplicaciones generales.
+El oferente adjudicado debe efectuar la migración o la alimentación de toda la
+información contenido en los sistemas existentes hacia la base de datos del
+nuevo software.
+El oferente debe garantizar que en el software existirá integración de toda la
+información registrada en todas las dependencias contabilidad, farmacias,
+comisariatos, Centro médico.
+El oferente adjudicado deberá entregar los respectivos ejecutables, Backus de
+base de datos el del software ofertado en medio digital. Además debe incluir
+toda la información que se genere a partir del proceso de instalación, puesta en
+marcha y pruebas de solución implementada.
+5.1.4. Migración de la información:
+El proveedor deberá realizar el análisis de la información que posee la
+institución, en sus Bases de Datos actuales para posteriormente realizar la
+migración de la información al nuevo software, quienes deben garantizar la
+integridad del 100% de los datos originales.
+5.1.4. Capacitación:
+El Oferente debe incluir en su propuesta el plan de capacitación para todo el
+personal que interactúa con el software, este plan debe contar con cronogramas
+y metodologías a utilizarse para la transferencia de conocimientos, manuales de
+usuario y manual técnico.
+9/11
+
+La capacitación debe ser teórico práctica y deberá ser impartido en un lugar
+adecuado y que cuente con todas las facilidades tecnológicas con el fin de
+garantizar el aprendizaje de los funcionarios.
+El oferente debe incluir capacitación a personal de Tecnologías para los fines de
+implementación, puesta en marchas, respaldo y recuperación de información”.
+5.2. JUSTIFICACIÓN LEGAL
+La Adquisición de un Software de Gestión Administrativa, Contable y
+Financiera Para El Patronato de Amparo Social del PAS GADMT”, se realizará
+mediante el proceso de Subasta Inversa Electrónica, ya que su presupuesto
+referencial es superior al valor que resulta de multiplicar el coeficiente
+0,0000002 por el monto del Presupuesto Inicial del Estado.
+El software a ser adquirido al ser un bien intangible normalizados, es
+procedente realizar el procedimiento de contratación mediante Subasta Inversa
+Electrónica, conforme lo establecido en el artículo 47 de la Ley Orgánica del
+Sistema Nacional de Contratación Pública, en el artículo 44 de su Reglamento
+General; y Título IV Procedimientos Dinámicos, Capítulo III Disposiciones
+Relativas a los Procedimientos de Subasta Inversa Electrónica, artículos 265 al
+274, de la Codificación y Actualización de las Resoluciones Emitidas por el
+Servicio Nacional de Contratación Pública, expedida el 31 de agosto de 2016;
+mediante Resolución N° RE-SERCOP-2016-0000072, y demás normativa legal
+vigente.
+Declaramos que el software, corresponden a los objetivos institucionales y se
+ajustan a la necesidad así como a sus precios son los de mercado por lo que
+no se ha transgredido ninguna disposición legal referida al manejo de recursos
+públicos.
+
+10/11
+
+NECESIDAD INSTITUCIONAL
+El desarrollo de la propuesta iniciará con la adquisición mediante el proceso
+correspondiente, constatación de especificaciones requeridas, la migración de
+datos, capacitación a cada uno de los funcionarios que intervienen en cada una
+de las dependencias del PAS-GADMT, e implementación del sistema y
+operatividad al 100%.
+RECOMENDACIÓN
+En base a las necesidades institucionales se sugiere iniciar los trámites
+respectivos para el inicio del proceso de contratación pública denominados
+“ADQUISICIÓN DE UN SOFTWARE DE GESTIÓN ADMINISTRATIVA,
+CONTABLE Y FINANCIERA PARA EL PATRONATO DE AMPARO SOCIAL
+DEL PAS GADMT”
+Tulcán, 01 de junio de 2022
+Elaborado y Revisado por:
+
+Aprobado por:
+
+Firmado electrónicamente por:
+
+ZAIDA JANNETH
+VILLARREAL
+ANDRAMUNO
+
+Firmado electrónicamente por:
+
+GUISELA
+ELIZABETH
+SISLEMA NACATO
+
+Lcda. Zaida Villarreal
+
+Mg. Guísela Sislema
+
+ADMINISTRADORA DE FARMACIAS
+PASGADMT
+
+Directora Ejecutiva
+PAS GADMT
+
+C.I. 040106030-6
+
+C.I. 1710892157
+
+11/11
+
+

@@ -1,0 +1,1569 @@
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+DESCRIPCIÓN GENERAL
+Unidad requirente
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS- GESTION DOCUMENTAL
+
+Objeto de la contratación
+
+SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO
+A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS
+ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS
+
+Ejecución presupuestaria
+
+Anual
+
+1.
+
+Plurianual
+
+ANTECEDENTES:
+
+1.1. Normativa legal
+El Art. 370 de la Constitución de la República señala: “El Instituto Ecuatoriano de Seguridad
+Social, entidad autónoma regulada por la ley, será responsable de la prestación de las
+contingencias del seguro universal obligatorio a sus afiliados”.
+La Ley de Seguridad Social en su artículo 16 establece: “Naturaleza jurídica. - El Instituto
+Ecuatoriano de Seguridad Social (IESS) es una entidad pública descentralizada, creada por la
+Constitución Política de la República, dotada de autonomía normativa, técnica, administrativa,
+financiera y presupuestaria, con personería jurídica y patrimonio propio, que tiene por objeto
+indelegable la prestación del Seguro General Obligatorio en todo el territorio nacional. El IESS
+no podrá ejercer otras atribuciones ni desempeña otras actividades que las consignadas en la
+Constitución Política de la República y en esta Ley. (…)”.
+La Ley del Comercio Electrónico Art. 8, de Conservación de los mensajes de datos especifica que
+“Toda información sometida a esta Ley, podrá ser conservada; este requisito quedará cumplido
+mediante el archivo del mensaje de datos, siempre que se reúnan las siguientes condiciones:
+a. Que la información que contenga sea accesible para su posterior consulta;
+b. Que sea conservado con el formato en el que se haya generado, enviado o recibido, o con
+algún formato que sea demostrable que reproduce con exactitud la información generada,
+enviada o recibida;
+c. Que se conserve todo dato que permita determinar el origen, el destino del mensaje, la fecha
+y hora en que fue creado, generado, procesado, enviado, recibido y archivado; y,
+d. Que se garantice su integridad por el tiempo que se establezca en el reglamento a esta ley.
+Toda persona podrá cumplir con la conservación de mensajes de datos, usando los servicios de
+terceros, siempre que se cumplan las condiciones mencionadas en este artículo.
+La Resolución C.D. 621 Expide LA CODIFICACIÓN DEL PLAN DE AUSTERIDAD Y RESTRICCION DE
+GASTOS DEL INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL., en cuanto a SERVICIOS Y
+SUMINISTROS, indica lo siguiente:
+
+a) Restrínjase a lo indispensable el uso de los servicios de energía eléctrica, telefonía, agua
+potable; así como la adquisición de suministros, materiales de oficina e impresión,
+combustibles y los egresos por concepto de mantenimiento de bienes muebles e inmuebles.
+
+Página 1 de 37
+
+x
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+b) Elimínese los servicios de televisión pagada, telefonía celular y tarjetas de viaje, excepto
+para los Miembros del Consejo Directivo, Director General y Subdirector General.
+c) Prohíbase la contratación y entrega de objetos promocionales, así como la impresión y
+contratación de agendas, calendarios, cuadernos y revistas, con excepción de la Memoria
+Anual y publicaciones institucionales.
+1.2. Antecedentes de la necesidad
+La Dirección Provincial del Guayas, de conformidad con la normativa nacional vigente, la misma
+que está orientada a mejorar la eficacia de los servicios que se prestan, así como a fortalecer la
+transparencia de la información, en atención a los procesos de modernización, de acuerdo con
+la Política Cero Papel y los productos presentados en los servicios en línea del portal web, busca
+como parte de su estrategia una eficiente gestión documental a través de la tecnología.
+En vista de estos fines, la Unidad de Gestión Documental Guayas, se encuentra en la labor de
+ejecutar el proceso de CONVERSIÓN DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN
+MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTIÓN
+DOCUMENTAL DE LA COORDINACIÓN DE AFILIACIÓN Y CONTROL TÉCNICO GUAYAS, con la
+finalidad de reducir el volumen de papel que, actualmente, existe para así brindar una atención
+ágil, inmediata y certera a través de la implementación de los Archivos Digitales.
+Con Memorando IESS-DPG-2022-0018-M, de fecha 4 de enero del 2022, suscrito por el Ing.
+Walter Luna Álvarez, Director Provincial de Guayas de la época, se realiza la socialización de la
+importancia del Manual de proceso de Gestión de Archivos y Digitalización a las Coordinaciones
+Provinciales del Guayas.
+Con Memorando IESS-CPAFG-2022-0105-M, de fecha 18 de enero del 2022, suscrito por el Ing.
+Guillermo Mosquera, Coordinador Provincial Administrativo Financiero de la época, se socializa
+el PAC 2022 de la Dirección Provincial del Guayas a las Coordinaciones Provinciales del CRP.
+Con el Memorando IESS-CPACTG-2022-0565-M, del 27 de enero del 2022, suscrito por el señor
+Holger Chancay Villafuerte, Asistente administrativo se realiza el insistido a necesidad del
+Servicio de conversión de ROLLOS JACKETS DE MICROFILM A DIGITAL Y MIGRACIÓN DE
+IMÁGENES AL SISTEMA.
+Por ello, mediante memorando IESS-CPAFG-2022-0266-M, de fecha 4 de febrero del 2022, el
+Ing. Guillermo Mosquera Acosta en calidad Coordinador Provincial Administrativo Financiero
+Guayas dirigido al Ing. Walter Luna Álvarez, Director Provincial del Guayas ambos de la época,
+solicitó el inicio de la fase preparatoria para contrata el SERVICIO DE CONVERSIÓN DE ROLLOS Y
+JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTIÓN DOCUMENTAL DE LA COORDINACIÓN DE AFILIACIÓN Y CONTROL
+TÉCNICO GUAYAS.
+Con sumilla inserta al Memorando IESS-CPAFG-2022-0266-M, del 04 de febrero del 2022, el Ing.
+Walter Luna Álvarez, Director Provincial del Guayas de la época autoriza el inicio de la Fase
+Preparatoria de la “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO
+Página 2 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL
+GUAYAS” indicando: “AUTORIZADO, ACOGER SUMILLA DEL ABOGADA DE LA DPG PARA FIN
+DE CONTINUAR TRÁMITE PERTINENTE CONFORME A LA NORMATIVA LEGAL VIGENTE"
+Con Memorando IESS-CPAFG-2022-0105-M, de fecha 18 de enero 2022 suscrito por Ing.
+Guillermo Andrés Mosquera Acosta, Coordinador Provincial Administrativo Financiero Guayas
+socializa de esa fecha el PAC aprobado para el periodo 2022, en la que se existe el ítem
+“SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS”, para
+el periodo C2 ( segundo trimestre)
+Mediante Circular No. IESS-CPAFG-2022-0011-C; de fecha 29 de marzo de 2022, suscrito por
+ingeniero Guillermo Andrés Mosquera Acosta Coordinador Provincial Administrativo Financiero
+IESS-Guayas, de aquella época remitió la Socialización de Recordatorio: Certificación como
+Operadores del Sistema Nacional de Contratación Pública.
+Mediante Memorando IESS-DPG-2022-1380-M, de fecha 26 de mayo 2022, suscrito por el
+Director Provincial de Guayas ingeniero Mario Aníbal Maldonado Director Provincial del Guayas
+de esa época, remite informe justificativo a la Subdirección Nacional de Compras la no ejecución
+del PAC 2022 y concluye lo que se transcribe a continuación:
+“..En consecuencia, de lo antes narrado, se puede determinar que uno de los motivos más
+influyentes por las cuales no se ha dado cumplimiento a la ejecución de planificado en el PAC
+2022 de la Dirección Provincial del Guayas, se debe a los cambios de administración dados en
+este CRP, habida cuenta que es conocido hasta la saciedad, que toda autoridad al posesionarse
+en un cargo, realiza una revisión prolija a todos los procesos y procedimientos que mantiene a
+cargo cada dependencia, a fin de verificar el cumplimiento de normativa, siendo así que con
+fecha 01 de abril del presente año, fui posesionado como Director Provincial.
+Por consiguiente, en esta administración se continuará con las gestiones para dar cumplimiento
+a lo programado tanto en el primer como en el segundo cuatrimestre.
+Con tal justificación se argumenta la no ejecución del PAC de la Dirección Provincial del Guayas
+en el primer cuatrimestre”
+Con Memorando IESS-CPAFG-2022-1138-M, de fecha 31 de mayo 2022, suscrito por la Mgs.
+Haydee Xiomara Moreta Monserrate, Coordinadora Provincial Financiera del Guayas de esa
+fecha, remitió los avances de procesos de compras planificados para el presente periodo y se
+retoma la necesidad de conformidad a los justificativos expuestos en memorando IESS-DPG2022-1380-M.
+Se remite INFORME DE JUSTIFICACION DE LA NECESIDAD elaborado por Ing. Diana Sánchez
+Saavedra, Analista Económico del Departamento de Gestión Documental, trasladado con
+Memorando IESS-GDG-2022-0371-M, de fecha 06 de junio 2022, suscrito por la Econ. María
+Isabel Eguez Responsable de Gestión Documental Guayas de conformidad a las gestiones
+inmersas en la etapa preparatoria.
+Con Memorando IESS-CPAFG-2022-1200-M, de fecha 06 de junio 2022, suscrito por Ing. Luis
+Fernando Chávez Guevara Coordinador Provincial Financiero del Guayas de ese época, remitió
+la “Solicitud de Autorización Para Inicio de la Propuesta de Segunda Fase Servicio de Conversión
+Página 3 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado Archivo
+Binario al Sistema Gestión Documental Para Los Archivos Afiliación”
+En Memorando IESS-CPAFG-2022-1200-M, de fecha 06 de junio de 2022, mediante sumilla
+inserta “Se autoriza preparatoria” documento, suscrito por el Ing Mario Aníbal Maldonado
+Director Provincial del Guayas, de esa época.
+Con Memorando IESS-GDG-2022-0444-M, de fecha 11 de julio de 2022, suscrito por el Luis
+Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA
+DISPONIBILIDAD PRESUPUESTARIA PARA EL PROCESO DE "SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS
+DE DIRECCION PROVINCIAL DEL GUAYAS”
+Con Memorando IESS-CPAFG-2022-1492-M, de fecha 12 de julio 2022, suscrito por la Mgs.
+Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada de esa fecha, RESPONDE A LA SOLICITUD DE DISPONIBILIDAD PRESUPUESTARIA PARA
+EL PROCESO "SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS”
+Con Memorando IESS-GDG-2022-0454-M, de fecha 12 de julio 2022, suscrito por el Luis Walter
+Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA SALDOS PAC PARA
+PROCESO "SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS”
+Con Memorando IESS-UPPG-2022-0140-M, de fecha 13 de julio 2022, por el Mgs. Carlos Alberto
+Barahona Quituisaca, Responsable de la Unidad Provincial de Planificación Guayas, REMITIO
+SALDOS PAC PROCESO DE "SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL
+SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS”
+Con Memorando IESS-GDG-2022-0458-M, de fecha 14 de julio 2022, suscrito por el Econ. Luis
+Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA
+APROBACION DEL INFORME TECNICO NRO. 013-2022-DPG Y LA ELABORACION DE LA
+RESOLUCION MOTIVADA DE REFORMA AL PAC PARA SEGUNDA FASE SERVICIO DE CONVERSION
+DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO
+A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION
+PROVINCIAL DEL GUAYAS, mediante sumilla inserta de la Mgs. Bertha Janina Cardona Bravo,
+Coordinadora Provincial Administrativa Financiera Guayas, Encargada, de esa época, recibido en
+base a lo expuesto, ya se remitió solicitud a la Dirección Provincial del Guayas.
+Con Memorando IESS-CPAFG-2022-1526-M, de fecha 14 de julio 2022, suscrito por la Mgs.
+Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada, de esa fecha, REMITIO SOLICITUD DE APROBACION DEL INFORME TECNICO NRO.
+013-2022-DPG Y LA ELABORACION DE LA RESOLUCION MOTIVADA DE REFORMA AL PAC PARA
+SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO
+Página 4 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION
+DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS.
+Con Memorando IESS-DPG-2022-1846-M, de fecha 15 de julio 2022, suscrito por el Ing. Mario
+Aníbal Vásconez Flores, Director Provincial del Guayas, de esa fecha, REMITIO SOLICITUD DE
+ELABORACION DE LA RESOLUCION MOTIVADA DE REFORMA AL PAC PARA SEGUNDA FASE
+SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO
+MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA
+LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS.
+Con Memorando IESS-DPG-2022-1906-M, de fecha 22 de julio 2022, suscrito por el Ing. Mario
+Aníbal Vásconez Flores, Director Provincial del Guayas, de esa fecha, remitió Solicitud Emisión
+de Certificación de existencia de SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y
+JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG.
+Con Memorando IESS-SDNCP-2022-1965-M, de fecha 25 de julio 2022, suscrito por la Ing. Celia
+Priscila Ojeda Pico, Subdirectora Nacional de Compras Públicas, en el que remite CPAC-DPG-0072022 “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG”.
+Con Memorando IESS-GDG-2022-0524-M, de fecha 04 de agosto de 2022, suscrito por el Econ.
+Luis Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA
+CERTIFICACION PRESUPUESTARIA PARA EL PROCESO DE SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS
+DE DPG.
+Con Memorando IESS-GDG-2022-0526-M, de fecha 04 de agosto de 2022, suscrito por el Econ.
+Luis Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, remitió
+ALCANCE A LA SOLICITUD DE CERTIFICACION PRESUPUESTARIA PARA EL PROCESO SEGUNDA
+FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO
+MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA
+LOS ARCHIVOS DE DPG.
+Con Memorando IESS-CPAFG-2022-1757-M, de fecha 09 de agosto de 2022, suscrito por la Mgs.
+Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada, remitió EMISION DE CERTIFICACION PRESUPUESTARIAS PARA EL PROCESO DE
+PROCESO DE “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG”.
+Con Memorando IESS-CPAFG-2022-1784-M, de fecha 14 de agosto de 2022, suscrito por la Mgs.
+Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada, de esa fecha, remitió SOLICITUD DE AUTORIZACION DE GASTO E INICIO DEL PROCESO
+“SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO
+EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION
+Página 5 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+DOCUMENTAL PARA LOS ARCHIVOS DE DPG”.
+Con Memorando IESS-GDG-2022-0558-M, de fecha 16 de agosto de 2022, suscrito por el Econ.
+Luis Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, TRASLADA
+ESPEDIENTE PARA INICIO DE LA FASE PRECONTRACTUAL “SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS
+DE DPG”.
+Con Memorando No. IESS-CPG-2022-0640-M, de fecha 22 de agosto de 2022, suscrito por la Ing.
+Teresa Josefina Espinoza Beltrán en calidad de Responsable de Compras Públicas Guayas de esa
+fecha, remite “DEVOLUCION DE EXPEDIENTE FISICO Y DIGITAL DEL PROCESO: "SEGUNDA FASE
+SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO
+MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA
+LOS ARCHIVOS DE DPG" documento que transcribo para conocimiento del acto:
+“Mediante Decreto Ejecutivo Nro. 458 del 18 de junio de 2022 se expidió el nuevo
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, en cuya
+DISPOSICION FINAL señala: “El presente Reglamento entrará en vigencia en el plazo
+de un mes a partir de su publicación en el Registro Oficial”
+En el Registro Oficial Suplemento Nro. 87 del 20 de junio de 2022, se publicó el nuevo
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública.
+Con Decreto Ejecutivo Nro. 488 del 12 de julio de 2022 se expidió una reforma al Nuevo
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, en cuyo
+artículo 14 se dispone: “En la Disposición Final del Reglamento General a la Ley
+Orgánica del Sistema Nacional de Contratación Pública, reemplácese la frase “un
+mes” por “ dos meses”.
+Por ende, el Nuevo Reglamento a la Ley Orgánica del Sistema Nacional de Contratación
+Pública entrará en vigencia a partir del 20 de agosto del presente año.
+En dicho instrumento legal, se hace una actualización respecto a establecer con claridad los
+procedimientos a efectuarse en relación a los distintos contenidos de la Ley, sin exceder las
+disposiciones legales establecidas en la misma.
+Según la Disposición Transitoria Cuarta señala: “Los procedimientos de contratación
+iniciados hasta antes de la entrada en vigencia de este Reglamento, se concluirán aplicando
+los pliegos y las normas que estuvieron vigentes al momento de su convocatoria”
+Por lo expuesto en líneas anteriores, se devuelve el expediente físico y digital, a fin de
+actualizar la información.
+Lo que comunico para los fines pertinentes.”
+
+
+
+Con Memorando No. IESS-GDG-2022-0592-M, de fecha 30 de agosto de 2022, suscrito
+por la Mgs. María Isabel Eguez Santana, Responsable de Gestión Documental Guayas
+remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial Administrativa
+Financiera Guayas, Encargada de esa fecha, Solicitud de Aprobación de Estudio de
+Página 6 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Viabilidad y Autorización de Inicio del Proceso Segunda Fase Servicio de Conversión de
+Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental para los Archivos de Dirección Provincial
+del Guayas.
+
+
+Con Memorando Nro. IESS-CPAFG-2022-1967-M, de fecha 30 de agosto de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió al Mgs. Felix Eduardo
+Pilco del Salto Director Provincial del Guayas, Encargado, Solicitud de Aprobación de
+Informe de Necesidad de Necesidad y Autorización de Inicio de Fase Preparatoria de La
+Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental.
+
+
+
+En hoja de ruta IESS-CPAFG-2022-1967-M, de fecha 30 de agosto 2022, solicitud que
+refiere APROBACION DE INFORME DE NECESIDAD Y AUTORIZACION DE INICIO DE FASE
+PREPARATORIA DE LA SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS
+DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL, la Abg de despacho de Dirección
+Provincial Mishel Estefanía Rosero Hermenejildo mediante sumilla inserta indica
+“Estimado Director: En virtud de la revisión de la documentación preparatoria se
+recomienda autorizar inicio de fase preparatoria del proceso, en cumplimiento a la
+normativa legal vigente.”
+
+
+
+En hoja de ruta IESS-CPAFG-2022-1967-M de fecha 30 de agosto 2022, solicitud que
+refiere APROBACION DE INFORME DE NECESIDAD Y AUTORIZACION DE INICIO DE FASE
+PREPARATORIA DE LA SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS
+DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL, el Mgs. Felix Eduardo Pilco del Salto
+Director Provincial del Guayas “Se acoge sumilla de la abogada de despacho y se
+autoriza inicio del proceso acorde a la normativa legal vigente.”
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0593-M, de fecha 30 de agosto de 2022, suscrito
+por la Mgs. María Isabel Eguez Santana, Responsable de Gestión Documental Guayas,
+remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial Administrativa
+Financiera Guayas, Encargada de esa fecha, Solicitud de Autorización de Gasto e Inicio
+del Proceso "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de DPG"
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-1978-M, de fecha 30 de agosto de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa época, remitió al Mgs. Felix
+Eduardo Pilco del Salto Director Provincial del Guayas, Encargado, Solicitud de
+Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio de Conversión de
+
+Página 7 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental para los Archivos de DPG"
+
+
+Con Memorando Nro. IESS-GDG-2022-0594-M, de fecha 30 de agosto de 2022, suscrito
+por la Mgs. María Isabel Eguez Santana, Responsable de Gestión Documental Guayas,
+remitió a la Ing. Teresa Josefina Espinoza Beltrán Responsable de Compras Públicas
+Guayas de esa fecha, Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio
+de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental para los Archivos de
+DPG"
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-1118-M, de fecha 10 de mayo de 2022, suscrito
+por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada remitió a la Mgs. Verónica Alexandra Tómala Tejada, Responsable de
+Compras Públicas Guayas de esa fecha, remitió respuesta: Servidores que Intervienen
+en la Fase Preparatoria que No Cuentan con la Certificación de Operadores del SNCP
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0597-M, de fecha 31 de agosto de 2022, suscrito
+por Mgs. María Isabel Eguez Santana Responsable de Gestión Documental Guayas
+remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial Administrativa
+Financiera Guayas, Encargada de esa fecha, Solicitud Información sobre certificación
+como Operadora en el SNCP.
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0598-M, de fecha 01 de septiembre de 2022,
+suscrito por la Ing. Celia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, remitió Solicitud de Anulación de Certificación CPAC-DPG-007-2022 de la
+Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental para
+los Archivos de la Dirección Provincial del Guayas.
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0599-M, de fecha 01 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Solicitud de Disponibilidad
+Presupuestaria para el Proceso de "Segunda Fase Servicio de Conversión de Rollos y
+Jackets de Microfilm Almacenado en Medio Magnético y Transformado a Archivo
+Binario al Sistema Gestión Documental para los Archivos de Dirección Provincial del
+Guayas
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0600-M, de Fecha 01 de Septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Alcance al Memorando IESSGDG-2022-0599-M de la Solicitud de Disponibilidad Presupuestaria Para El Proceso
+Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Página 8 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Medio Magnético Transformado a Archivo Binario al Sistema Gestión Documental para
+los Archivos de Dirección Provincial del Guayas
+
+
+Con Memorando Nro. IESS-GDG-2022-0601-M, de fecha 01 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada, Solicitud de Anulación de Certificación
+Presupuestaria Otorgadas para Segunda Fase Servicio de Conversión de Rollos y Jackets
+de Microfilm Almacenado en Medio Magnético y Transformado a Archivo Binario al
+Sistema Gestión Documental para los Archivo.
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2016-M, de fecha 01 de septiembre de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió a la Mgs. María Isabel
+Eguez Santana Responsable de Gestión Documental Guayas, Respuesta a La Solicitud de
+Disponibilidad Presupuestaria para Proceso de Adquisición De "Segunda Fase Servicio
+de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al sistema Gestión Documental
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0606-M, de fecha 02 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió al Mgs. Carlos Alberto Barahona Quituisaca Responsable de la Unidad
+Provincial de Planificación Guayas, Solicitud de Saldos PAC para la "Segunda Fase
+Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al sistema Gestión Documental.
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2508-M, de fecha 06 de septiembre de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, remitió Anulación de Certificación PAC Nro. CPAC-DPG-007-2022 "Segunda
+Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al Sistema Gestión Documental para los
+Archivos de la DPG"
+
+
+
+Con Memorando Nro. IESS-UPPG-2022-0185-M, de fecha 06 de septiembre de 2022,
+suscrito por el Mgs. Carlos Alberto Barahona Quituisaca Responsable de la Unidad
+Provincial de Planificación Guayas, remitió a la Mgs. María Isabel Eguez Santana
+Responsable de Gestión Documental Guayas, Saldos PAC para proceso "Segunda Fase
+servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario Al sistema Gestión Documental
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0630-M, de fecha 09 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Solicitud de Aprobación del
+Informe Técnico NRO.18-2022-DPG y la Elaboración de la Resolución Motivada de
+Página 9 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Reforma al PAC para Segunda Fase Servicio de Conversión de Rollos y Jackets de
+Microfilm Almacenado en Medio Magnético y Transformado a Archivo Binario Al
+sistema Gestión Documental
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2128-M, de fecha 09 de septiembre de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió al Mgs. Felix Eduardo
+Pilco del Salto Director Provincial del Guayas, Encargado, Solicitud de Aprobación del
+Informe Técnico NRO.18-2022-DPG y la Elaboración de la Resolución Motivada de
+Reforma al PAC para Segunda Fase Servicio de Conversión de Rollos y Jackets de
+Microfilm Almacenado en Medio Magnético y Transformado a Archivo Binario al
+sistema Gestión Documental.
+
+
+
+Con Memorando Nro. IESS-DPG-2022-2382-M, de fecha 10 de septiembre de 2022,
+suscrito por el Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas,
+Encargado, remitió al Mgs. Carlos Alberto Barahona Quituisaca, Responsable de la
+Unidad Provincial de Planificación Guayas, remitió Solicitud Elaboración de la Resolución
+Motivada de Reforma al PAC para Segunda Fase Servicio de Conversión de Rollos y
+Jackets de Microfilm Almacenado en Medio Magnético y Transformado a Archivo
+Binario al Sistema Gestión Documental
+
+
+
+Con Memorando Nro. IESS-DPG-2022-2392-M, de fecha 12 de septiembre de 2022,
+suscrito por el Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas, remitió
+a la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, Solicitud de Certificación PAC, para el Proceso "Segunda Fase Servicio de
+Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental"
+
+
+
+Con Memorando Nro. IESS-UPPG-2022-0206-M, de fecha 16 de septiembre de 2022,
+suscrito por el Mgs. Carlos Alberto Barahona Quituisaca Responsable de la Unidad
+Provincial de Planificación Guayas, remitió Mgs. María Isabel Eguez Santana
+Responsable de Gestión Documental Guayas, Solicitud PAC para el Proceso "Segunda
+Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al Sistema Gestión Documental"
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2638-M, de fecha 16 de septiembre de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, remitió al Mgs. Carlos Alberto Barahona Quituisaca Responsable de la
+Unidad Provincial de Planificación Guayas, Devolución de la Resolución de Reforma al
+PAC Nro. IESS-UPPG-2022-0058-R.
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2642-M, de fecha 16 de septiembre de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, remitió al Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas,
+Respuesta: Solicitud de Certificación PAC, para el proceso "Segunda Fase Servicio de
+Página 10 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental”
+
+
+Con Memorando Nro. IESS-GDG-2022-0642-M, de fecha 16 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Solicitud PAC para el Proceso
+"Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental"
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2195-M, de fecha 16 de septiembre de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió al Mgs. Felix Eduardo
+Pilco del Salto Director Provincial del Guayas, Solicitud de Aprobación del Informe
+Técnico Nro.20-2022-DPG y la elaboración de la Resolución Motivada de Reforma al PAC
+para Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado
+en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental”
+
+
+
+Con Memorando Nro. IESS-DPG-2022-2482-M, de fecha 19 de septiembre de 2022,
+suscrito por el Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas, remitió
+al Mgs. Carlos Alberto Barahona Quituisaca, Responsable de la Unidad Provincial de
+Planificación Guayas, Instituto Ecuatoriano de Seguridad Social, Solicitud Elaboración de
+Resolución Motivada de Reforma al PAC para Segunda Fase Servicio de Conversión de
+Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental.
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2770-M, de fecha 23 de septiembre de 2022,
+Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas, Encargada,
+remitió al Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas, CPAC-DPG009-2022 "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental.
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0683-M, de fecha 27 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió al Econ. Janio Darío Arroyo Torres, Coordinador Provincial
+Administrativo Financiero Guayas, Solicitud de Certificación Presupuestaria para el
+Proceso de "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de DPG”
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2306-M, de fecha 28 de septiembre de 2022,
+suscrito por el Econ. Janio Darío Arroyo Torres, Coordinador Provincial Administrativo
+Financiero Guayas, remitió a la Mgs. María Isabel Eguez Santana Responsable de Gestión
+Documental Guayas, Emisión de Certificación Presupuestarias para Proceso de
+Página 11 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+"Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental para
+los Archivos de DPG"
+
+
+Con Memorando Nro. IESS-GDG-2022-0684-M, de fecha 28 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió al Econ. Janio Darío Arroyo Torres, Coordinador Provincial
+Administrativo Financiero Guayas, Solicitud de Autorización de Gasto e Inicio del
+Proceso "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de DPG”
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2306-M, de fecha 28 de septiembre de 2022,
+suscrito por el Econ. Janio Darío Arroyo Torres, Coordinador Provincial Administrativo
+Financiero Guayas, remitió al Mgs. Felix Eduardo Pilco del Salto Director Provincial del
+Guayas, Solicitud de Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio
+de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental para los Archivos de
+DPG”
+Con Memorando Nro. IESS-GDG-2022-0686-M, de fecha 29 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitio a la Ing. Celia Nataly Quimí Reyes, Responsable de Compras Públicas
+Guayas, Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio de Conversión
+de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental para los Archivos de Dirección provincial
+del Guayas”
+Mediante Correo electrónico de fecha 30 de septiembre 2022 Ing. Celia Nataly Quimí
+Reyes, Responsable de Compras Públicas Guayas, remite solicitud de actualización de
+información en el término de 2 días, para continuidad de la gestión de conformidad a la
+normativa legal vigente.
+
+
+
+
+
+2. PROBLEMÁTICA
+El Instituto Ecuatoriano de Seguridad Social - IESS, cuenta en sus distintas áreas con información
+relacionada a las facultades que le otorga la Ley, a fin de atender principalmente los procesos
+de afiliación, recaudación y prestaciones de sus afiliados, jubilados y pensionistas, información
+que se encuentra en los archivos de microfilm.
+Mediante memorando Nro. IESS-GDG-2020-0480-M, de fecha 16 de noviembre de 2020,
+suscrito por la Econ. Maria Isabel Eguez Responsable de Gestión Documental de la provincia del
+Guayas, remite un informe actualizado del estado de rollos y Jakets de microfilm denominado
+con afectación del “SINDROME DEL VINAGRE EN ARCHIVOS JACKETS MICROFILMADOS
+COORDINACION DE AFILIACION Y CONTROL TECNICO GUAYAS”, transcribo el de interés:
+1.- El anexo Numero 1 registra el estado actual de los referidos archivos en la que evidentemente
+demuestra la perdida de la información de las planillas de aportes, el deterioro de los jaquets de
+microfilm es conocido como el “Síndrome del vinagre” (proyectoidis.org/sindrome-del-vinagre)
+Página 12 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+El síndrome del vinagre es un proceso de deterioro de la cinta de celuloide, por el cual, a causa
+de las condiciones de humedad y de temperatura (preferiblemente el calor), el material del que
+se compone la cinta de celuloide pasa a ser ácido acético (CH3COOH) y deteriora toda la película
+en un proceso irreversible. La producción de este ácido es el que da el característico olor a
+vinagre en dicho proceso.
+Este archivo cuenta con diferentes fases y grados de deterioro:
+Primera fase: Emisión del ácido acético y la producción del olor a vinagre.
+Segunda fase: La base hecha de plástico que tiene la película comienza a quebrarse, encogerse
+y perder la flexibilidad debido a la emulsión de ésta.
+Tercera fase: Dependiendo del grado de deterioro y de emulsión que tenga, se puede llegar a
+esta tercera fase, en la que la película se cristaliza y libera las burbujas líquidas de los diferentes
+aditivos que se encuentran en el material del film. En esta fase, el deterioro de la película es
+irreversible y se imposibilita su proyección en salas de cine o por cualquier otro procedimiento.
+En el caso de que la película sea en color, los tintes se derraman y se tornan a tonos azulados o
+rosados.
+Actualmente no existe ninguna forma de detener este proceso una vez alcanzado su máximo
+grado.
+Es por ello que con memorando IESS-CPACTG-2022-0565-M de fecha 27 de enero 2022 suscrito
+por el Sr. Holger Upiano Chancay Responsable de los archivos de la Coordinación Provincial de
+Afiliación y Control Técnico, pone a conocimiento y comunica la necesidad de realizar una
+Segunda Fase Servicio de Conversión De Rollos y Jackets De Microfilm Almacenado En Medio
+Magnético y Transformado a Archivo Binario Al Sistema Gestión Documental para los Archivos
+de Dirección Provincial del Guayas”
+3.
+
+JUSTIFICACIÓN
+
+La Constitución de la República del Ecuador en su artículo 18 numeral 2, dispone “Acceder
+libremente a la información generada en entidades públicas, o en las privadas que manejen
+fondos del Estado o realicen funciones públicas. No existirá reserva de información excepto en
+los casos expresamente establecidos en la ley. En caso de violación a los derechos humanos,
+ninguna entidad pública negará la información”.
+El artículo 92 ibídem, determina “Toda persona, por sus propios derechos o como representante
+legitimado para el efecto, tendrá derecho a conocer de la existencia y a acceder a los
+documentos, datos genéticos, bancos o archivos de datos personales e informes que sobre sí
+misma, o sobre sus bienes, consten en entidades públicas o privadas, en soporte material o
+electrónico. Asimismo, tendrá derecho a conocer el uso que se haga de ellos, su finalidad, el
+Página 13 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+origen y destino de información personal y el tiempo de vigencia del archivo o banco de datos”.
+El artículo 4 de la Ley Orgánica de Transparencia y Acceso a la Información Pública, manda:
+“Principios de Aplicación de la Ley. - En el desarrollo del derecho de acceso a la información
+pública se observarán los siguientes principios: a) La información pública pertenece a los
+ciudadanos y ciudadanas, El estado y las instituciones privada depositarias de archivos públicos,
+son sus administradores y están obligados a garantizar el acceso a la información…”.
+La Ley de Seguridad Social en su artículo 16 establece: “Naturaleza jurídica. - El Instituto
+Ecuatoriano de Seguridad Social (IESS) es una entidad pública descentralizada, creada por la
+Constitución Política de la República, dotada de autonomía normativa, técnica, administrativa,
+financiera y presupuestaria, con personería jurídica y patrimonio propio, que tiene por objeto
+indelegable la prestación del Seguro General Obligatorio en todo el territorio nacional. El IESS
+no podrá ejercer otras atribuciones ni desempeña otras actividades que las consignadas en la
+Constitución Política de la República y en esta Ley. (…)”.
+A través del Acuerdo de la Contraloría General del Estado Nro. 39 publicado en el Registro Oficial,
+Suplemento Nro. 87, de 14 de diciembre de 2009, se expiden las Normas de control interno para
+las entidades, organismos del sector público y personas jurídicas de derecho privado que
+dispongan de recursos públicos, se establece: 405-04 Documentación de respaldo y su archivo.
+La máxima autoridad dispondrá la adopción e implementación de políticas y procedimientos
+para la conservación y mantenimiento de archivos físicos, magnéticos y/o digitales, en atención
+a las disposiciones técnicas y jurídicas vigentes, así como incentivar los procesos de digitalización
+de la información.
+Para efectos del ejercicio de las actividades de control, la documentación generada mediante
+archivos digitales, electrónicos o desmaterializados, tendrán el mismo valor jurídico que los
+documentos físicos.
+Toda entidad pública dispondrá de evidencia documental de sus operaciones, suficiente,
+pertinente y legal. La documentación sustentada de transacciones financieras, operaciones
+administrativas o decisiones institucionales estará disponible en formato físico, o en medios
+magnéticos, electrónicos o desmaterializados y se utilizará para acciones de verificación o
+auditoría, así como para información de otros usuarios autorizados, en ejercicio de sus
+derechos…”.
+Mediante Resolución Administrativa Nro. IESS-DG-AL-2019-0009-RFDQ de junio 18 de 2019,
+artículo 1 resuelve “Expedir y aprobar los Manuales de los Procesos de “Gestión de Archivos” y
+Digitalización de Documentos”, versiones 1.0 y 1.1, respectivamente, así como la Guía de
+Actividad “Almacenar y Custodiar Documentación en Obra”, versión 1.0…”.
+Mediante la Resolución CD 535, el Consejo Directivo del Instituto Ecuatoriano de Seguridad
+Social, emitió el Reglamento Orgánico Funcional de la entidad cuyo numeral 6.3.4 “Gestión
+Provincial Administrativa Financiera dentro de las Atribuciones y Responsabilidades de la
+Coordinación Provincial Administrativa Financiera, literal hh) “administrar los procesos de
+almacenamiento y provisión de bienes y servicios”.
+El Comité de Ética y Transparencia, a través de la Resolución IESS-CET-2020-0122-R, de 15 de
+junio de 2020, resuelve: “61.5 Disponga a los Directores Provinciales, Gerentes Generales,
+Directores Administrativos, ordenen a los servidores responsables del área de Contratación
+Página 14 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Pública se dé cumplimiento con lo establecido en la Resolución Nro. R.E.-SERCOP-2018-0000088,
+cálculo del presupuesto referencial a ser utilizado en un procedimiento de contratación pública
+de bienes o servicios, en vigencia, emitida por el SERCOP”; “61.11 Disponga a los Directores
+Provinciales, Gerentes Generales, Directores Administrativos ordenen a las áreas requirentes y
+de compras públicas, en coordinación con la Subdirección Nacional de Compras Públicas,
+elaborar un estudio de mercado económico pormenorizado al momento de fijar un monto previo
+a la contratación, que arroje techos máximos de precios; de manera de provocar un adecuado y
+efectivo gasto público, donde los proveedores se vean obligados a mejorar sus precios, y generar
+la transparencia como principio básico de la contratación.
+Existe una primera fase del “SERVICIO DECONVERSIÓN DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO ENMEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL
+SISTEMAGESTIÓN DOCUMENTAL DE LA COORDINACIÓN DE AFILIACIÓN YCONTROL TÉCNICO
+GUAYAS" con número de proceso SIE-IESS-DPG-010-20, el cual fue entregada a satisfacción total
+por el administrador del contrato el 27 de agosto 2021 al Instituto Ecuatoriano de Seguridad
+Social Dirección Provincial del Guayas, con este producto se obtuvo una herramienta de trabajo
+importante para nuestra institución, que alcanza una demanda diaria de atención 423 solitudes
+que refiere a las aportaciones antiguas de los afiliados para así migrar a la historia laboral, hoy
+en día se tiene:
+Tipo información:
+
+Planillas de Aportes Patronales Privados desde 1945 hasta el año 2000 (Jakets hasta el año 1992
+y rollos desde el año 1945)
+Solicitantes:
+
+
+
+
+
+Solicita el Usuario por Ventanilla de Gestión Documental
+Solicita unidades de Negocio (ocho Coordinaciones Provinciales)
+Direcciones Provinciales y Nivel Central
+
+Productos que se utilizan este tipo de Información:
+
+
+
+
+
+
+Reliquidación
+Jubilación
+Certificación de Documentos
+Depuración de Aportes
+
+Uso de la Herramienta Gestor Documental
+
+
+
+
+
+72 usuarios activos que usan la herramienta (modulo gestor documental de imágenes
+digitales).
+Apertura de enlaces a la Dirección Provincial de Santa Elena, los Ríos, El Oro y Galápagos
+Soporte de información para el área de Gestión de Afiliación de la Coordinación Provincial
+de Afiliación y Control Técnico Guayas
+
+Tiempo de espera
+Antes de Conversión de Microfilm a Digital 41 días laborables
+Después de servicio se obtiene el documento en minutos
+
+Página 15 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Búsqueda de la Información Antes del servicio adquirido
+
+Conocimiento General del Proceso
+
+Herramienta Modulo Gestor Documental
+
+Página 16 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Beneficio del Producto recibido
+•
+•
+•
+•
+•
+•
+
+Mejorar la disponibilidad de documentos para la atención al usuario
+Evitar el deterioro de los Rollos por la manipulación o humedad en el ambiente
+Eliminar el Riesgo de Trabajo producto de la erosión del rollo por descomposición químicos
+dañinos a la salud
+Optimizar tiempos de respuestas al Usuario
+Mantener Información histórica y contar con una herramienta de gestión documental para la
+administración del archivo digital.
+Almacenamiento de las imágenes en formatos estándares e integración al módulo Gestor
+Documental IESS
+
+Rollos y Jakets Pendientes
+
+Con el Memorando IESS-CPACTG-2022-0565-M del 27 de enero del 2022, suscrito por el Sr.
+Holger Chancay Villafuerte Asistente administrativo, se realiza INFORME TECNICO DE ARCHIVO
+sobre los rollos y Jackets pendientes, por lo que transcribo el punto medular que da inicio a esta
+justificación de necesidad:
+“4.1 Resumen de la necesidad
+El requerimiento de la Coordinación de Afiliación Control Técnico Guayas se resume en:
+ROLLOS: Requiere se considere para su intervención inmediata de 668 rollos
+enfatizando la importancia de preservar esta información la cual corresponde a los aportes de
+los afiliados, y que se implemente a el servidor que almacenas las imágenes ya convertidas a
+digital , evitando así el riesgo de daño y pérdida de información valiosa para el afiliado
+JACKETS: quedarían pendiente según lo estimado 4 bandejas metálicas y 1 estante de Jackets
+tiene un total de 58459”
+Con Memorando IESS-CPACTG-2022-0688-M de fecha 2 de febrero del 2022, suscrito por Mgs.
+Lida Soraya Triviño Segovia, Coordinadora Provincial de Afiliación y Control Técnico Guayas de
+la época, solicita al Director Provincial del Guayas dar atención a la necesidad del Servicio de
+conversión de rollos Jacker de Microfilm a Digital y Migración de imágenes al sistema, ya que es
+importante preservar la información que reposa en la Coordinación, necesidad que fue derivado
+Página 17 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+al Responsable de Gestión Documental con la siguiente sumilla “Gestión Documental: Sírvase
+atender de conformidad al Manual de Archivos y Digitalización emitido por Nivel Central”
+4. OBJETIVO
+Determinar el presupuesto referencial para la contratación de “Segunda Fase Servicio De
+Conversión De Rollos Y Jackets De Microfilm Almacenado En Medio Magnético Y Transformado
+A Archivo Binario Al Sistema Gestión Documental Para Los Archivos De Dirección Provincial Del
+Guayas” en cumplimiento a lo establecido en la Codificación y Actualización de la Resoluciones
+del Servicio Nacional de Contratación Pública.
+
+4.1. Objetivos específicos
+
+
+
+
+
+
+
+
+
+
+Mejorar la disponibilidad de la información para el acceso oportuno a los usuarios.
+Evitar el deterioro de los Rollos y jaquets por la manipulación o humedad en el
+ambiente.
+Eliminar el Riesgo de Trabajo
+Optimizar tiempos de respuestas al Usuario al momento de requerir documentos con
+información requerida por los mismos.
+Eliminación del riesgo laboral en deterioro de los rollos que expone químicos dañinos
+a la salud.
+Mantener Información histórica y contar con una herramienta de gestión documental
+para la administración del archivo digital.
+Almacenamiento de las imágenes en formatos estándares e integración de los índices
+asociados a cada una de las bases de datos/servidores autorizados por el IESS.
+Coordinar con la Dirección Nacional de Tecnologías de la Información la Estructura las
+gestiones pertinentes para la entrega recepción de la solución conforme los
+lineamientos pertinentes.
+Dar cumplimiento a las siguientes directrices:
+ “Manual del Proceso Gestión de Archivo”, emitido por la Dirección Nacional de Servicios
+Corporativos – Subdirección Nacional de Gestión Documental – Marzo 2019.
+ Recomendaciones de los Organismos de Control.
+
+5.
+
+METODOLOGÍA DE ESTUDIO DE MERCADO
+
+Mediante Circular Nro. IESS-DNSC-2021-0038-C de fecha 23 de octubre de 2021, suscrito por
+Mgs. Julio Emanuel Villacres Real Director Nacional de Servicios Corporativos, documento en el
+cual se establece insubsistente el Memorando Nro. IESS-DNSC-2020-2560-M de 17 de
+noviembre de 2020, mediante el cual se aprobó el Manual del Subproceso de Gestión
+Preparatoria.
+Con memorando IESS-CPG-2020-0065-M de fecha 24 de enero 2022 suscrito por Mgs. Verónica
+Alexandra Tómala Tejada, Responsable de Compras Públicas Guayas remite recordatorio de
+sobre cumplimiento de disposiciones emitidas por la subdirección Nacional de Compras Públicas
+IESS
+
+Página 18 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Con Memorando IESS-CPG-2022-0575-M de fecha 22 de julio 2022 suscrito por Mgs. Verónica
+Alexandra Tómala Tejada, Responsable de Compras Públicas Guayas remite recordatorio de
+directrices que deben considerar en la elaboración de documentos preparatorios para los
+procesos de Contratación Pública
+Con Memorando IESS-CPG-2022-0632-M de fecha 18 de agosto 2022, por Mgs. Verónica
+Alexandra Tómala Tejada, Responsable de Compras Públicas Guayas, socializa el nuevo
+reglamento a la LEY ORGANICA DEL SISTEMA NACIONAL DE CONTRATACION PIUBLICA QUE
+ENTRATRÁ EN VIGENCIA A PARTIR DEL 20 DE AGOSTO 2022
+5.1. Análisis del bien o servicio a ser adquirido
+SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO
+EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION
+DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS
+Detalle del servicio
+
+
+Conversión de rollos y jaquets de imágenes microfilmadas a una imagen pdf almacenada
+en el servidor de la institución,
+
+Levantar un Inventario de ésta categoría de archivo en el formato establecido por la
+institución
+
+Organización de los rollos o archivo microfilmado puesto en cajas con etiquetas con la
+información de contenido evidenciado
+
+Realizar Actas Estructurales en la que se registrará series y subseries. como compromiso
+entre Custodio de los Archivos y empresa contratada
+
+Cumplirá con cada uno de los objetivos Específicos referidos.
+
+Se define que un documento es igual a una imagen.
+
+La Resolución de captura debe ser mínima de 300 DPI o (PPP).
+
+Debe contener Software utilizado para escaneo
+
+Software visor de los documentos escaneados.
+
+Trazabilidad de la herramienta con bitácoras o log de eventos.
+
+Permisibilidad del software para integración con otros sistemas.
+
+Software que permita indexación a través de la metadata proporcionada por la Entidad
+contratante
+
+Software con control de administración de usuarios a través del cual se otorguen
+permisos, accesos y restricciones a la base de datos.
+
+Base de datos que permita su crecimiento exponencial de manera distribuida.
+
+Acceso al aplicativo a través de “web service” para su uso óptimo en su acceso.
+
+Los archivos Convertidos/Indexados deben permitir la inclusión de la Firma electrónica.
+
+La documentación Convertidos/Indexados deberá tener un control de calidad
+estableciendo mecanismos de supervisión y muestreo periódico para que al momento de
+efectuar el proceso de Convertir/Indexación los mismos sean efectuados acorde a las
+necesidades de clasificación y ordenamiento de los documentos de cada coordinación y/o
+área, esto deberá ser previamente definido por cada área requirente antes que se ejecute
+el proceso de indexación.
+ Mejorar la disponibilidad de documentos a través del módulo gestor de imágenes.
+ Deberá obtener las siguientes operaciones :
+*Login
+Página 19 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+*Consultar
+*Descargar
+*Busqueda avanzada
+*Lon on
+*Hojas de datos
+*Visor de imágenes
+*Email
+*Exportar
+*Firma electrónica
+
+5.2 Montos de adjudicaciones similares realizadas en años pasados
+Se procedió con la búsqueda a través de la plataforma oficial del Servicio Nacional de
+Contratación Pública del SERCOP www.compraspublicas.gob.ec “búsqueda de procesos”
+https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/buscarProceso.cpe?s
+g=1#;, de procesos con similar objeto de contratación, efectuados en el 2021 y 2022, con estado
+de proceso “EJECUCIÓN DE CONTRATO” y “FINALIZADO”, evidenciándose 2 contratos en el año
+2020 y 2021; correspondiente a la Dirección Provincial del Guayas y de la Municipalidad de
+Guayaquil.
+PALABRA CLAVE: MICROFILM
+Rango de fecha : Octubre a Diciembre 2020
+
+PALABRA CLAVE: MICROFILM
+Rango de fecha : Enero a Junio 2021
+
+Página 20 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 21 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+PALABRA CLAVE: MICROFILM
+Rango de fecha : Julio a Diciembre de 2021
+
+PALABRA CLAVE: conversion
+Rango de fecha: Julio a Diciembre 2021
+
+Página 22 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Por lo que, en esta primera instancia, se considerarán valores unitarios de los procesos
+encontrados en el SOCE:
+
+Código de
+Procedimiento
+
+Entidad
+
+Año
+
+Mes de
+adjudicación
+
+Objeto de la
+Contratación
+
+1
+
+SIE-IESS-DPG010-20
+
+INSTITUTO
+ECUATORIANO DE
+SEGURIDAD SOCIAL
+
+2021
+
+Enero
+
+SERVICIO
+DE
+CONVERSIÓN
+DE
+ROLLOS Y JACKETS DE
+MICROFILM
+ALMACENADO
+EN
+MEDIO MAGNÉTICO Y
+TRANSFORMADO A
+ARCHIVO BINARIO AL
+SISTEMA
+GESTIÓN
+DOCUMENTAL DE LA
+COORDINACIÓN DE
+AFILIACIÓN
+Y
+CONTROL TÉCNICO
+GUAYAS
+
+2
+
+SIE-MIMG138-2021
+
+MUNICIPALIDAD DE
+GUAYAQUIL
+
+2021
+
+Noviembre
+
+CONTRATACIÓN DEL
+SERVICIO
+DE
+CONVERSIÓN
+DE
+ROLLOS/JACKETS DE
+MICROFILM
+Y
+TARJETAS
+DE
+APERTURA
+DE
+ALMACENADO
+EN
+MEDIO MAGNÉTICO Y
+TRANSFORMADO A
+ARCHIVO BINARIO AL
+SISTEMA
+GESTIÓN
+DOCUMENTAL
+
+Valor
+Adjudicado
+US$
+859,999.00
+
+305,000.00
+
+Novedad
+
+Proceso
+con
+características
+de
+alcance
+similar
+al
+requerido en el
+proceso
+de
+análisis.
+Se
+revisó
+los
+términos
+de
+referencia del
+proceso.
+
+Las
+características
+o condiciones
+del
+servicio
+difieren a las
+requeridas
+para
+el
+presente
+proceso.
+Se
+revisó
+los
+términos
+de
+referencia del
+proceso.
+
+ENTIDAD CONTRATANTE: INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CODIGO DE PROCESO: SIE-IESS-DPG-010-20
+FECHA DE ADJUDICACION: 2021-01-29
+MONTO ADJUDICADO: 859,999.00
+
+Página 23 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 24 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 25 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 26 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+ENTIDAD CONTRATANTE: MUNICIPALIDAD DE GUAYAQUIL
+CODIGO DE PROCESO: SIE-MIMG-138-2021
+FECHA DE ADJUDICACION: 2021-11-17
+MONTO ADJUDICADO: 305,000.00
+
+Página 27 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 28 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 29 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 30 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Página 31 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+5.3 Tomar en cuenta la variación de precios locales o importados, según corresponda. De ser
+necesario traer los montos a valores presentes, considerando la inflación (nacional e/o
+internacional); es decir, realizar el análisis a precios actuales
+Al revisar las contrataciones del servicio requerido por e l I E S S y otras entidades contratantes
+
+Página 32 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+dentro de los períodos de búsqueda realizados, esto es, en los años 2021, 2020 Y 2022 con
+las terminologías “CONVERSIÓN” y “MICROFILM” en capturas de pantalla, se evidencia que
+existen dos procesos con objetos de contratación similar, sin embargo en uno de los procesos
+las características, especificaciones técnicas, no coinciden con lo requerido, como se detalla a
+continuación:
+
+
+Proceso Nro. SIE-MIMG-138-2021 de la MUNICIPALIDAD DE GUAYAQIUL, cuyo
+objeto CONTRATACIÓN DEL SERVICIO DE CONVERSIÓN DE ROLLOS/JACKETS
+DE MICROFILM Y TARJETAS DE APERTURA DE ALMACENADO EN MEDIO
+MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTIÓN
+DOCUMENTAL, las características del proceso que se está impulsando, no es de
+alcance similar al encontrado en el portal, según la revisión efectuada en los términos
+de referencia de dicho proceso.
+
+Así mismo, en el año 2020 la Dirección Provincial realizó un proceso con similares
+características, por lo que, dichos valores serán considerados para el cálculo del presupuesto.
+
+CÁLCULO DEL PRESUPUESTO REFERENCIAL CONSIDERANDO LOS MONTOS DE ADJUDICACIONES SIMILARES REALIZADAS
+EN AÑOS PASADOS ADQUISICIÓN DE SERVICIOS
+Valor del
+Porcentaje de
+Valor de
+Código
+ítem
+Inflación
+Inflación
+Valor Actual
+Procedimiento Entidad
+Año Mes
+Objeto de la contratación
+Acumulada
+Acumulada
+SERVICIO DE
+CONVERSIÓN DE
+ROLLOS Y JACKETS DE
+MICROFILM
+ALMACENADO EN
+INSTITUTO
+MEDIO MAGNÉTICO Y
+ECUATORIANO
+SIE-IESSTRANSFORMADO A
+DE
+2021 Enero
+859.999,00
+4.99%
+42.913,95
+933.361,10
+DPG-010-20
+ARCHIVO BINARIO AL
+SEGURIDAD
+SISTEMA GESTIÓN
+SOCIAL
+DOCUMENTAL DE LA
+COORDINACIÓN DE
+AFILIACIÓN Y
+CONTROL TÉCNICO
+GUAYAS
+
+Página 33 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+5.4. Proformas de proveedores de los servicios a contratar.
+
+Mediante correo institucional diana.sanchezs@iess.gob.ec de fecha 13 de junio del 2022 se
+remitieron solicitudes de proformas a los siguientes correos: ciasumatrading@gmail.com;
+vvillacis@blixasesor.com y bbconser@gmail.com, por lo que se obtiene las siguientes
+proformas: B&B CONSER con proforma No. 002-20220614; SUMATRADING S.A Proforma No.
+20220613-04 y Cotización de Blix Asesor SA No. 13062022/010
+En vista de que las proformas anteriormente descritas su vigencia fue hasta el 14 de septiembre
+del presente año, se publicó nuevamente en el SOCE (LA NECESIDAD DE CONTRATACIÓN Y
+RECEPCIÓN DE PROFORMAS), para así poder contar con proformas actualizadas. Por lo que una
+vez que estas han sido revisadas y analizadas se procede a la elaboración del cuadro comparativo
+que se detalla a continuación:
+CUADRO COMPARATIVO
+
+CUADRO COMPARATIVO
+CONTRATACION DE SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNETICO Y TRANSFORMADO A CODIGO CPC: 859600021
+FECHA
+4/10/2022
+NOTA: LOS VALORES OFERTADOS POR LOS PROVEEDORES CORRESPONDEN AL PRECIO ACTUAL DE MERCADO
+PROVEEDOR N°1
+BLIXASESOR
+RUC:
+
+REQUERIMIENTO
+
+DESCRIPCION
+
+ITEM
+
+1
+
+SERVICIO DE CONVERSIÓN DE ROLLOS
+Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO
+Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTIÓN
+DOCUMENTAL DE LA COORDINACIÓN
+DE AFILIACIÓN Y CONTROL TÉCNICO
+GUAYAS
+
+DESGLOSE
+
+AREA
+
+PROVEEDOR N°2
+RUC:
+
+PROVEEDOR N°3
+RUC:
+VALOR
+VALOR UNIT TORAL
+(SIN IVA)
+
+VALOR TORAL
+VALOR UNIT
+(SIN IVA)
+
+VALOR
+TORAL
+(SIN IVA)
+
+386,00
+
+257.848,00
+
+386,42
+
+258.128,56
+
+386,48
+
+258.168,64
+
+10,20
+
+596.281,80
+
+10,50
+
+613.819,50
+
+10,26
+
+599.789,34
+
+CANTIDAD
+
+VALOR UNIT
+
+668
+
+58459
+
+ROLLOS
+GESTION
+DOCUMENTAL
+JACKETS
+
+TOTAL
+
+854.129,80
+
+871.948,06
+
+857.957,98
+
+6. ANALISIS DEL CÁLCULO DEL PRESUPUESTO REFERENCIAL
+Para la determinación del presupuesto del presente procedimiento se aplicó lo
+establecido en La Resolución RE-SERCOP-2021-0116, artículo 1: “Art. 1.- En el numeral 2
+del artículo 9, efectúense las siguientes reformas 1.1 Sustitúyase el primer inciso por el
+siguiente texto: “2. Estudio de mercado para la definición de presupuesto referencial, que
+deberá contener las siguientes consideraciones mínimas: 1. Análisis del bien o servicio a ser
+adquirido: características técnicas; 2. Considerar los montos de adjudicaciones similares
+realizadas en los últimos dos años, previos a la publicación del proceso tanto de la entidad
+contratante como de otras instituciones; 3. Tomar en cuenta la variación de precios locales
+o importados, según corresponda. De ser necesario traer los montos a valores presentes,
+considerando la inflación (nacional e/o internacional); es decir, realizar el análisis a precios
+actuales; y, 4. Siempre que sea posible, se exhorta a las entidades contratantes a que
+cuenten con al menos tres proformas”.
+Página 34 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+
+
+Al revisar las contrataciones del servicio requerido en el que se realizó un proceso similar
+en mismo IESS del procedimiento No. SIE-IESS-DPG-010-20, dentro de los períodos de
+búsqueda realizados, con las terminologías “CONVERSIÓN” y “MICROFILM” en capturas
+de pantalla insertas en este documento, se evidencia que existen dos procesos con
+objetos de contratación similar, sin embargo en uno de los procesos las características,
+especificaciones técnicas, no coinciden con lo requerido, como se detalla a
+continuación: Proceso Nro. SIE-MIMG-138-2021 de la MUNICIPALIDAD DE GUAYAQIUL,
+cuyo objeto CONTRATACIÓN DEL SERVICIO DE CONVERSIÓN DE ROLLOS/JACKETS DE
+MICROFILM Y TARJETAS DE APERTURA DE ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTIÓN DOCUMENTAL, las
+características del proceso que se está impulsando, no es de alcance similar al
+encontrado en el portal, según la revisión efectuada en los términos de referencia de
+dicho proceso.
+
+
+
+En el año 2020 la Dirección Provincial suscribió el contrato Nro. DPG-006-2021 por lo
+que, dichos valores serán considerados para el cálculo del presupuesto junto con el valor
+de la proformas más baja, obteniendo un valor promedio.
+
+
+
+Se elaboró el cuadro comparativo de las cotizaciones recibidas que se adjuntan al
+presente estudio de mercado, se considera el precio unitario de la proforma más baja
+para establecer el presupuesto referencial.
+RESUMEN PARA DETERMINAR REFERENCIAL DE MENOR VALOR
+Proveedor 1
+$ 857.957,98
+Proveedor 2
+$ 871.948,06
+Proveedor 3
+$ 854.129,80
+Referencial menor valor
+$ 854.129,80
+
+
+
+Por consiguiente, la determinación del Presupuesto Referencial se lo realiza así:
+1. El valor promedio de los procesos cuyos precios unitarios están dentro del rango
+del mercado actual.
+2. El valor de la proforma más económica
+
+DETALLE
+
+SERVICIO DE CONVERSIÓN DE
+ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN
+MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA
+GESTIÓN DOCUMENTAL DE LA
+COORDINACIÓN DE
+AFILIACIÓN Y CONTROL
+TÉCNICO GUAYAS
+
+SIE-IESSCANTIDAD
+DPG-010-20
+
+PROMEDIO
+PRECIOS
+PORTAL
+
+VALOR
+UNITARIO
+MAS BAJO DE
+LAS
+PROFORMAS
+
+PRECIO
+PROMEDIO
+SUBTOTAL
+PROFORMA Y
+PRECIO PORTAL
+
+$890.872,96
+
+890872,96
+
+854.129,80
+
+872501,38
+
+1
+
+872501,38
+
+Página 35 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Del valor promedio calculado entre el proceso indagado en el SOCE y la proforma más económica, se
+obtiene un presupuesto referencial de $ 872501,38; sin embargo, observando lo dispuesto en la
+Resolución C.D. 621 que contiene las normas de optimización del gasto público en el IESS, SE SUGIERE
+que el presupuesto referencial para el presente proceso, sea el valor de la oferta más económica.
+
+En relación con las proformas entregadas por los proveedores y de los procesos similares de años
+anteriores se ha podido determinar que solo uno de ellos, el proceso No. SIE-IESS-DPG-010-20 cumple
+con las especificaciones técnicas solicitadas. Por lo que al hacer el análisis se establece que entre el valor
+promedio calculado del proceso encontrado en el SOCE y la proforma más económica, se sugiere que el
+presupuesto referencial para el presente proceso de contratación sea el de $ 854.129,80
+
+7.
+
+CONCLUSIÓN
+
+A pesar de haber efectuado el cálculo para obtener un valor promedio conforme se describe en párrafo
+que antecede, acatando lo dispuesto en la Resolución C.D. 621 que contiene las normas de optimización
+del gasto público en el IESS, se determina que el presupuesto referencial del proceso de SEGUNDA FASE
+SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO
+Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE
+DIRECCION PROVINCIAL DEL GUAYAS” es de USD $ 854.129,80 (Ochocientos cincuenta y cuatro mil
+ciento veintinueve 80/100 Dólares de los Estados Unidos de América) sin incluir IVA.
+
+8. ANEXO
+
+
+
+
+Solicitudes de proformas
+Proformas recibidas
+Certificación cate
+
+
+
+
+Informe de necesidad
+otros
+
+Fecha de elaboración: 04 de octubre 2022
+FIRMAS DE RESPONSABILIDAD:
+Elaborado por:
+
+Firmado electrónicamente por:
+
+DIANA MARIUXI
+SANCHEZ
+SAAVEDRA
+
+Lic Diana Mariuxi Sánchez Saavedra
+Analista Económico de Gestión Documental Guayas
+
+Página 36 de 37
+
+DIRECCIÓN PROVINCIAL DEL GUAYAS
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+Revisado y Aprobado por:
+Firmado electrónicamente por:
+
+MARIA ISABEL
+EGUEZ SANTANA
+
+__________________________
+Econ. María Isabel Eguez S.
+Responsable de Gestión Documental
+
+Página 37 de 37
+
+

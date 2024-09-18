@@ -1,0 +1,360 @@
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+Milagro, 05 de agosto del 2022
+CERTIFICACIÓN CATÁLOGO ELECTRÓNICO Nro. 209-2022-CE
+El área de Compras Públicas, verificó en el Sistema Oficial de Contratación Pública
+Ecuatoriana (SOCE) " ADQUISICIÓN DE UNA TORRE PARA CIRUGÍA LAPAROSCÓPICA PARA
+EL HOSPITAL GENERAL MILAGRO.", NO se encuentran dentro del Catálogo Electrónico.
+Los bienes tienen las siguientes características:
+DETALLE DE LOS BIENES, SERVICIOS A CONTRATAR:
+DATOS GENERALES
+Nombre:
+
+TORRE DE VIDEO - LAPAROSCOPIA
+
+CARACTERÍSTICAS TÉCNICAS MÍNIMAS REQUERIDAS:
+Características generales
+
+Sistema de
+Visualización
+
+1,01
+
+Mínimo un monitor Full HD o 4K/UHD a Color LCD o LED, Grado Médico
+
+1,02
+
+Tamaño mínimo 26", con resolución mínima de 1920x1080
+
+1,03
+
+Puertos de entrada: Mínimo DVI o HDMI y opcional (RGB y/o VGA y/o
+Super Video y/o
+Video compuesto)
+
+Procesador de
+video
+
+Cabezal de
+cámara.
+
+Fuente de luz.
+
+2,01
+
+Captura de imagen y de video Full HD o 4K/UHD
+
+2,02
+
+Puerto mínimo: USB
+
+2,03
+
+Puertos de salida de video Full HD o 4K/UHD: Mínimo DVI o HDMI.
+
+3,01
+
+Funcionamiento mediante 3 chips CCD o CMOS.
+
+3,02
+
+Autoclavable o mediante limpieza manual
+
+3,03
+
+Resolución: Soporta Full HD o 4K/UHD mínimo de 1920x1080
+
+3,04
+
+Con acople estándar o universal
+
+3,05
+
+Zoom óptico: mínimo de 1,5x veces o superior o su equivalente en mm
+
+3,06
+4,01
+
+Botones de control ≥ 2 botones.
+Lámpara de xenón o LED.
+
+1
+
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+4,02
+
+Temperatura de color: Entre 5000 °K a 7000 °k.
+
+4,03
+
+Control de intensidad: De forma manual y/o automático o progresiva
+
+5,01
+
+Puerto de entrada mínimo DVI o HDMI que incluye adaptador para DVI, en
+caso de
+requerirse
+
+5,02
+
+Puertos de salida mínimo DVI o HDMI que incluye adaptador para DVI, en
+caso de
+requerirse
+
+Sistema grabador
+de video
+5,03
+
+Captura y almacenamiento de video e imágenes en unidades de memoria
+USB o Disco
+duro externo, con memoria interna de al menos 320GB
+
+5,04
+
+Grabador de video e imágenes de alta definición Full HD o 4K/UHD,
+mínimo de
+1920x1080 (1080p)
+
+6,01
+
+Gas de insuflación mediante CO2
+
+6,02
+
+Flujo regulable que al menos cubra el rango de 2 a 30 l/min
+
+6,03
+
+Presión regulable que al menos cubra el rango de 3 a 25 mmHg.
+
+6,04
+
+Pantalla para visualización de parámetros
+
+6,05
+
+Manejo de parámetros mediante pantalla táctil y/o teclado.
+
+6,06
+
+Seguridad de paciente control de sobrepresión.
+
+Insuflador
+
+Accesorios
+Coche de
+transporte
+
+7,01
+
+Un (1) Carro de transporte de grado médico para la ubicación de los
+componentes del equipo médico: con montaje estético para el monitor, al
+menos dos ruedas bloqueables
+
+Cobertor del
+equipo
+
+7,02
+
+Uno (1) para el equipo.
+
+Disco duro externo
+de expansión
+
+7,03
+
+Uno (1) compatible con el grabador de video de mínimo 8TB.
+
+7,04
+
+Un (1) UPS de acuerdo a la potencia del equipo
+
+7,05
+
+Dos (2) compatibles con el equipo de mínimo 2,5 m.
+
+7,06
+
+Una (1) compatible con el insuflador y conector para el tanque de gas o
+toma de pared,
+
+Energía de
+respaldo
+Cable de fibra
+óptica
+Manguera
+neumática
+
+acorde a lo requerido por el Establecimiento de Salud.
+Manguera de
+paciente
+
+7,07
+
+Cuatro (4) reutilizables compatibles con el insuflador.
+
+2
+
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+Filtro para
+insuflador
+Recipiente de
+esterilización
+cabezal
+
+7,08
+
+Veinte (20) descartables.
+
+7,09
+
+Uno (1) requerido
+
+Recipiente de
+esterilización
+
+7,1
+
+Tres (3) Recipientes para esterilización del instrumental
+
+Memoria USB
+
+7,11
+
+Uno (1) propia del equipo para extracción de información.
+Instrumental
+
+Telescopio de 30⁰
+
+8,01
+
+Telescopio de 30⁰
+
+8,02
+
+Uno (1) de 10 mm reutilizable, incluye trocar reutilizable y contenedor de
+esterilización
+Uno (1) en el rango de 5m a 5,5 mm reutilizable, incluye trocar reutilizable
+y contenedor
+de esterilización
+
+Telescopio de 0⁰
+
+8,03
+
+Telescopio de 0⁰
+
+8,04
+
+Uno (1) de 10 mm reutilizable, incluye trocar reutilizable y contenedor de
+esterilización
+Uno (1) en el rango de 5m a 5,5 mm reutilizable, incluye trocar reutilizable
+y contenedor
+de esterilización
+Mantenimiento preventivo y correctivo
+
+9,05
+
+Durante la vida útil, cada 4 meses el proveedor deberá dar mantenimiento
+preventivo, incluyendo dentro del mantenimiento el ajuste y revisión de
+los parámetros de funcionamiento; sin costo para la entidad contratante
+durante los dos primeros años de garantía técnica. Si el fabricante del
+equipo médico recomienda más visitas de mantenimiento preventivo al
+año, estas serán cubiertas por el proveedor sin costo adicional para la
+entidad contratante.
+
+Mantenimiento
+Garantía del servicio técnico (mano de obra) hasta la siguiente visita de
+mantenimiento
+
+9,06
+
+preventivo, es decir, de suscitarse eventos que requieran de visitas de
+mantenimiento correctivo, estas serán cubiertas por el proveedor sin
+costo alguno para la entidad contratante. Esta garantía no incluye la
+provisión de repuestos, accesorios o consumibles (después de los dos
+primeros años)
+
+3
+
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+De conformidad al artículo 46 de la Ley Orgánica del Sistema Nacional de Contratación
+Pública, seha consultado en el Catálogo Electrónico el bien detallado y se verifica que NO está
+catalogado. Para respaldo de lo consultado a continuación se detalla las capturas de pantalla
+generadas del Portal del SERCOP, www.compraspublicas.gob.ec.
+
+TORRE DE VIDEO - LAPAROSCOPIA
+
+LAPAROSCOPIA
+
+Accesorios
+-Coche de transporte
+
+4
+
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+-Cobertor del equipo
+
+-Disco duro externo de expansión
+
+-Energía de respaldo
+
+5
+
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+
+-Cable de fibra óptica
+
+-Manguera neumática
+-Manguera de paciente
+
+-Filtro para insuflador
+
+6
+
+HOSPITAL GENERAL MILAGRO
+
+CERTIFICACIÓN DE VERIFICACIÓN EN CATÁLOGO ELECTRÓNICO
+-Recipiente de esterilización cabezal
+-Recipiente de esterilización
+
+Atentamente,
+
+ELABORADO POR:
+
+Sra. Adriana Guijarro Heredia
+AUX. FARMACIA COMPRAS
+PÚBLICAS
+
+REVISADO POR:
+
+Sra. Brenda Irene Cruz Ferruzola
+RESPONSABLE DE COMPRAS
+PÚBLICAS
+
+7
+
+Firmado electrónicamente por:
+
+ADRIANA ZULLAY
+GUIJARRO
+HEREDIA
+
+Firmado electrónicamente por:
+
+BRENDA IRENE
+CRUZ
+FERRUZOLA
+
+

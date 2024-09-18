@@ -1,0 +1,241 @@
+M17.P02.S01-M02 Manual para cargar una oferta suscrita electrónicamente en el portal de compras públicas y en el módulo facilitador de contratación pública: MFC – ofertas
+
+
+
+M17. Gestión de compras
+
+
+
+M17.P02 Gestión de las compras e importaciones
+
+
+
+S01 Contratación por el Sistema Oficial de Contratación del Estado (SOCE)
+
+
+
+Versión: 01
+
+Página:9 de 10
+
+
+
+
+
+<< P_XX.YY.SZZ Nombre_del_procedimiento >>
+
+
+
+<< P_XX Nombre_del_macroproceso >>
+
+
+
+<< YY Nombre_del_proceso >>
+
+
+
+<< SZZ Nombre_del_subproceso >>
+
+
+
+Versión: 01
+
+Página:1 de 3
+
+
+
+
+
+MANUAL PARA CARGAR UNA OFERTA SUSCRITA ELECTRÓNICAMENTE EN EL PORTAL DE COMPRAS PÚBLICAS Y EN EL MÓDULO FACILITADOR DE CONTRATACIÓN PÚBLICA: MFC – OFERTAS
+
+1. Ingresar en el Portal de Compras Públicas con el número de RUC, USUARIO y CONTRASEÑA, conforme la siguiente imagen:
+
+
+
+
+
+
+
+2. Dar click en “CONSULTAR MIS PROCESOS”
+
+
+
+
+
+3. Buscar el proceso de contratación para el cual se requiere presentar la oferta:
+
+
+
+
+
+
+
+4. Una vez ubicado el proceso de contratación, ingresar a la sección ARCHIVOS y descargar el archivo .ushay del pliego subido por la Entidad Contratante a fin de poder elaborar la oferta: 
+
+
+
+
+
+
+
+5. Una vez descargado el archivo .ushay del pliego, abrir la versión vigente del aplicativo MFC – OFERTAS  para proceder a subir el archivo descargado:
+
+
+
+
+
+Una vez abierto el MFC – OFERTAS, dar click en ofertas, llenar toda la información requerida hasta llegar a la siguiente pantalla, en la cual se subirá el archivo del pliego descargado:
+
+
+
+En la pantalla descrita, colocar un nombre con el cual se identificará la oferta, luego proceder a subir el archivo .ushay del pliego, dando click en “Examinar”; finalmente dar un click en “Consolidar archivos”; una vez cargado el .ushay, dar click en “Regresar” y se encuentra listo para elaborar la oferta.
+
+Para la elaboración de la oferta en el Módulo Facilitador de Contratacion – Ofertas, se deberá considerar lo dispuesto por el SERCOP en el numeral 6.1 de la Circular Nro. SERCOP-SERCOP-2020-0022-C, del 27 de octubre de 2020, que textualmente señala:
+
+“6.1.- Para los procedimientos de contratación en los que es obligatoria la generación de las ofertas a través del Módulo Facilitador de la Contratación Pública, los usuarios del Sistema Nacional de Contratación Pública deberán realizar los siguientes pasos: 
+
+(…) 
+
+b) Ingresar toda la información y documentación de los formularios que componen la oferta, de conformidad con las funcionalidades y controles establecidos en la herramienta informática. 
+
+c) Una vez ingresada toda la información y documentación de la oferta, presionar el botón “Vista previa de la oferta”, mismo que se encuentra en la parte superior derecha de la pantalla, para generar la vista previa de la oferta en formato PDF. 
+
+d) Descargar el archivo de la vista previa de la oferta y firmar electrónicamente en cada uno de los formularios. Cada formulario de la oferta, o sus particiones debido a que su tamaño supera los 10 Mb, deben ser firmados electrónicamente de manera individual; para así cumplir con el mandato de integridad de estos mensajes de datos; 
+
+e) Cargar el archivo firmado electrónicamente en la sección “Anexos” de la oferta en el Módulo Facilitador de la Contratación Pública. 
+
+f) De conformidad con el artículo 3 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos, se reconoce validez jurídica a la información no contenida directamente en una oferta firmada electrónicamente, siempre que figure en la misma, en forma de remisión o de anexo, y cumpla con los parámetros establecidos en los artículos 1 y 2 del Reglamento General a la Ley antes mencionada. 
+
+g) Generar Oferta en el Módulo Facilitador de la Contratación Pública y descargar el archivo en .ushay 
+
+h) Cargar oferta generada en .ushay al procedimiento de contratación en el SOCE tanto en formato ushay como en PDF, que se haya firmado electrónicamente”.
+
+En cuanto a los anexos que forman parte de la oferta, se deberá considerar lo dispuesto por el SERCOP en la Resolución Nro. RE-SERCOP-2021-0112 que en su parte pertinente señala:
+
+“En los casos de ofertas presentadas con firma electrónica, cada anexo o documentación de respaldo que se adjunte, y que hayan sido suscritos o emitidos por un tercero con firma manuscrita, deberán ser digitalizados y este documento será firmado electrónicamente por el oferente. Esta firma implicará la declaración de que todos los documentos presentados son auténticos, exactos y veraces, y que el oferente se hace responsable de los mismos dentro de los controles posteriores que se pueda realizar”. Lo resaltado no es parte del documento original.
+
+
+
+VISUALIZACIÓN DE LA OFERTA QUE SERÁ FIRMADA ELECTRÓNICAMENTE: 
+
+
+
+Una vez que se ha elaborado la oferta en el Módulo Facilitador de Contratación – Ofertas y que se han subido todos los archivos que forman parte de la misma, conforme lo señalado en los párrafos precedentes, dar click en “VISTA PREVIA DE LA OFERTA”, del menú de la parte superior derecha a fin de visualizar la oferta generada y proceder a firmarla electrónicamente en el o los formularios en los cuales debe plasmarse la firma:
+
+
+
+
+
+
+
+Firmada la oferta, nuevamente ingresar al aplicativo MFC – OFERTAS, dar click en “Archivos” del menú de la parte inferior, clik en “nuevo” y proceder a subir la misma:
+
+
+
+
+
+
+
+
+
+En el caso de que el aplicativo MFC – OFERTAS, no permita cargar el archivo de la oferta firmada electrónicamente, debido a su tamaño, el oferente deberá realizar las particiones que sean necesarias y deberá firmar electrónicamente cada una de ellas y cargar cada una de estas particiones en la sección archivos del MFC – OFERTAS, de la forma señalada anteriormente.
+
+
+
+Luego de realizar los pasos señalados, se podrá visualizar que la OFERTA O SUS PARTICIONES SUSCRITAS ELECTRÓNICAMENTE forman parte de los archivos de la oferta: (Ejemplo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finalmente, dar click en “GENERAR OFERTA” del menú de la parte inferior del Módulo Facilitador de Contratación - Ofertas:
+
+
+
+Se genera la siguiente pantalla:
+
+
+
+Llenar la información solicitada en la imagen descrita y dar click en “GENERAR OFERTA” a fin de obtener el archivo de la oferta con extensión .ushay, mismo que deberá subirse al Portal Institucional del SERCOP:
+
+
+
+
+
+Ahora, se debe ingresar al Portal de Compras Públicas con el usuario y contraseña, buscar el proceso de contratación en el cual se va a participar y subir el .ushay de la oferta generada en el MFC-OFERTAS:
+
+
+
+Dar click en “examinar” y ubicar el archivo de la oferta .ushay generado en el Módulo Facilitador de Contratación – MFC Ofertas, dar click en “ABRIR” y subir la oferta (.ushay):
+
+
+
+Cuando se ha subido todo el archivo (.USHAY), dar click en PROCESAR ARCHIVO (S):
+
+
+
+
+
+
+
+
+
+Si todo está correcto aparece la siguiente imagen:
+
+
+
+
+
+Una vez cargada en el SOCE la oferta, proceder a guardar la constancia de la carga de la oferta, dando click en “IMPRIMIR”:
+
+
+
+
+
+NOTA: En el caso de que la Entidad Contratante requiera que la presentación de ofertas sea enviada por correo electrónico, el oferente deberá remitir desde su correo registrado en el Portal Institucional del SERCOP, LA MISMA OFERTA CARGADA EN EL SOCE INCLUIDOS SUS ANEXOS al correo institucional indicado en los pliegos, por lo que no deberá existir diferencia alguna entre la oferta subida en el SOCE y la enviada al correo electrónico institucional.
+
+
+
+
+
+
+
+FIRMA ELECTRÓNICA DE LA OFERTA:
+
+
+
+Una vez descargado el archivo de la vista previa de la oferta generada a través del Módulo Facilitador de Contratación – Ofertas, se procederá a firmarlo electrónicamente, en los formularios en los cuales deba plasmarse la firma, para lo cual, en este caso vamos a utilizar el aplicativo “FIRMA EC”, provisto por el Ministerio de Telecomunicaciones y de la Sociedad de la Información:
+
+
+
+
+
+
+
+Abrir el aplicativo “FIRMA EC” y proceder a plasmar la firma en el/los formularios correspondientes; en este caso, en el formulario 1.12 “OTROS PARÁMETROS DE CALIFICACIÓN PROPUESTOS POR LA ENTIDAD CONTRATANTE”
+
+
+
+
+
+En el caso de existir particiones se deberá proceder a firmar cada una de ellas.
+
+Finalmente, recordar que se debe subir la oferta o sus particiones firmadas electrónicamente en la sección “ARCHIVOS” del MFC-Ofertas.
+
+NOTAS
+
+
+
+NOTA 1: La Unidad Operativa tendrá la atribución de realizar los ajustes que considere necesarios a esta guía. 
+
+
+
+NOTA 2: La presente guía deberá subirse en formato PDF, sin incluir las notas explicativas y con los ajustes que la Unidad Operativa considere necesarios.

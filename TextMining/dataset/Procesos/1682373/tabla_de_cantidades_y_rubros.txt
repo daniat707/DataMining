@@ -1,0 +1,67 @@
+TABLA DE CANTIDADES Y RUBROS
+
+Item
+
+Rubro
+
+Cantidad
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Contenido de agua
+Gravedad Especifica
+Color
+Examen Visual
+Punto de Inflamación
+Viscosidad cinemática a
+Número de Neutralización
+Tensión Interfacial
+(*) Rigidez Dieléctrica
+(*) Índice de Calidad
+Azufre corrosivo
+H2, N2, O2, CO, CO2, CH4, C2H2, C2H4, C2H6
+Contenido de PCB's AROCLOR 1260, 1254 y1242
+Factor de potencia a 25 C
+Contenido de metales ICP (Hierro, cobre y aluminio)
+Contenido de Furanos (Evalúa la celulosa del papel Kraft en el aceite y se determina
+el % de vida útil remanente del transformador)
+Servicio de Toma de muestras con personal técnico cualificado y con experiencia
+en muestreo de transformadores energizados
+
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+20
+
+16
+17
+
+20
+20
+
+

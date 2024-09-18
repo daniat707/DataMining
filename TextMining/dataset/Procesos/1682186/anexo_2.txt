@@ -1,0 +1,464 @@
+ANEXO 2
+ESPECIFICACIONES TÉCNICAS
+1. Metodología del trabajo
+• Para la entrega de los bienes en la Institución:
+a) El Contratista realizará la entrega de los bienes adquiridos que forman parte
+del objeto del contrato dentro del plazo establecido y en el lugar
+especificado, previa coordinación con el Administrador de Contrato, sin
+ningún tipo de costo adicional con respecto al transporte o logística para la
+institución.
+b) El Contratista deberá presentar el listado de los equipos detallados en el
+objeto del contrato, donde conste la marca, modelo y serie.
+c) Todos los bienes deberán ser provistos por el Contratista y validados por el
+Administrador del Contrato.
+d) Una vez validado el cumplimiento de las especificaciones técnicas de los
+bienes, se suscribirá el Acta Entrega Recepción Parcial de bienes.
+e) El Contratista presentará un cronograma de fechas tentativas para la
+ejecución del mantenimiento preventivo de los bienes adquiridos.
+f) El Contratista deberá coordinar con el Administrador del contrato la
+capacitación conforme lo establece el artículo 128 de la Codificación y
+Actualización de las resoluciones emitidas por el Servicio Nacional de
+Contratación Pública.
+g) El Contratista deberá capacitar a los funcionarios de acuerdo a la
+coordinación realizada con el Administrador de contrato, en el manejo de los
+bienes a fin de que los funcionarios cuenten con el conocimiento su uso y
+mantenimiento. La capacitación se realizará para el personal de la Dirección
+Nacional de Tecnología de la Información y Comunicaciones. El tiempo
+mínimo por capacitación deberá ser de una (1) hora.
+•
+
+Para la ejecución del mantenimiento preventivo:
+a) El Administrador del contrato conforme el cronograma de ejecución,
+coordinará con el Contratista la ejecución de los mantenimientos
+preventivos.
+b) En caso fortuito o fuerza mayor, como pérdida o robo de equipos, el
+Administrador del contrato notificará al Contratista el número de equipos
+disponibles previo el inicio del mantenimiento preventivo.
+c) El personal técnico del Contratista deberá realizar las tareas del
+mantenimiento preventivo en las oficinas de la Contraloría General de
+Estado en matriz, sin ningún tipo de costo adicional respecto a transporte o
+logística para la Institución.
+d) Una vez finalizado el mantenimiento preventivo el Contratista deberá
+entregar al Administrador del contrato un informe detallando las actividades
+realizadas y novedades encontradas en caso de existir.
+e) Una vez prestado los servicios de los mantenimientos preventivos acorde al
+cronograma de mantenimiento se suscribirán las Actas Entrega Recepción
+Parciales.
+f) En el caso de existir mantenimientos correctivos se deberá entregar al
+Administrador de contrato un informe, detallando las actividades realizadas
+y novedades encontradas.
+g) En caso de mantenimiento correctivo, el mismo será prestado conforme los
+Arts. 119 de la Codificación y Actualización de las resoluciones emitidas por
+el Servicio Nacional de Contratación Pública.
+
+h) Una vez ejecutado todo el contrato se deberá suscribir el acta entrega de
+recepción definitiva.
+•
+
+Para la ejecución de garantías técnicas:
+
+a) El Administrador del contrato coordinará con el Contratista la aplicación de la
+garantía técnica a nivel nacional.
+2. Información que dispone la entidad
+Una vez distribuidos los equipos portátiles a las diferentes unidades administrativas
+en matriz, el Administrador del Contrato notificará al Contratista la ubicación y
+cantidad de los mismos para la prestación de los respectivos mantenimientos.
+
+3. Plazo de ejecución
+El plazo de ejecución total del contrato es de 1.126 días calendario, distribuidos de
+la siguiente manera:
+Plazo 1: Entrega de los bienes:
+•
+•
+
+Los bienes deben ser entregados 30 días calendarios contados desde la
+suscripción del contrato.
+Una vez entregados los bienes se suscribirá el Acta Entrega Recepción Parcial.
+
+Plazo 2: El primer mantenimiento preventivo se ejecutará dentro los primeros 365
+días contados desde la suscripción del acta de ingreso a bodega, de conformidad al
+cronograma definitivo establecido entre el Contratista y el Administrador del contrato.
+Plazo 3: El segundo mantenimiento preventivo se ejecutará dentro los 365 días
+contados desde la suscripción del acta entrega recepción parcial del primer
+mantenimiento preventivo.
+Plazo 4: El tercer mantenimiento preventivo se ejecutará dentro los 366 días
+contados desde la suscripción del acta entrega recepción parcial del segundo
+mantenimiento preventivo.
+4. Especificaciones técnicas
+ATRIBUTO
+
+Computadoras
+portátiles
+
+CARACTERÍSTICAS, REQUISITOS FUNCIONALES O
+TECNOLÓGICOS
+
+DATOS DE FABRICACIÓN
+Marca
+Especificar
+Modelo
+Especificar
+País de origen
+Especificar
+Número de parte
+Opcional
+Año de fabricación
+Especificar
+ESPECIFICACIONES DE HARDWARE
+Audio
+Integrado
+Capacidad de Disco
+512 GB o superior
+Duro Interno
+Tipo de Disco Duro
+SSD (Solid State) -M.2
+Formato
+Portátil (modelo corporativo)
+Si, Chasis fabricado y diseñado
+Chasis
+bajo los parámetros de
+especificaciones MIL-STD-810 para
+
+CONDICIONE
+S DE USO
+(EN CASO DE
+QUE SEA
+NECESARIO)
+
+CANTIDA
+D
+
+UNIDAD
+
+No aplica
+
+8
+
+U
+
+ATRIBUTO
+
+CARACTERÍSTICAS, REQUISITOS FUNCIONALES O
+TECNOLÓGICOS
+
+Memoria Cache
+Memoria RAM
+Memoria RAM
+Expandible
+Chipset
+Número de Núcleos
+Pantalla
+Tamaño de pantalla
+Peso
+Procesador
+Frecuencia del
+procesador
+Puertos
+Slot de memoria
+Soporte para 64 bits
+Soporte para
+Virtualización
+Soporte vPro
+Tarjeta de video
+Teclado
+Tipo de memoria
+Unidad Óptica
+Seguridad Protección de
+Datos
+Conectividad
+
+Cargador
+Batería
+Mouse óptico
+Adicionales
+Garantía Técnica:
+Vida Útil
+
+equipos de gama corporativa.
+Especificar los parámetros que han
+cumplido.
+8 MB o superior
+16 GB DDR4 (1x16GB) o superior
+32 GB o superior
+Especificar
+4 núcleos o superior
+Led HD o superior
+14” pulgadas
+Hasta 2 kg
+Intel Core i7 11va generación o
+superior
+Debe soportar un rango de 1.8 GHz
+a 4.0 GHz o superior
+2 puertos USB 3.0 o superior
+RJ45
+HDMI
+2 slots o superior
+Soporta 64 bits
+Si
+Si
+Especificar
+Español, Sin teclado numérico
+DDR4
+Si, Lector/Quemador de DVD’s y
+CD’s de la misma marca del equipo
+ofertado
+(Se aceptará interna o externa)
+Trusted Plataform Module (TPM)
+2.0 o superior
+Wireless Dual Band 802.11ac o
+superior
+Bluetooth mínimo 4.0
+Gigabit Ethernet 10/100/1000 Mbps
+Si, de la misma marca del equipo
+ofertado
+Batería de iones de litio, larga
+duración, 3 celdas o superior, de la
+misma marca del equipo ofertado
+Si, de la misma marca del equipo
+ofertado
+Mochila y candado de seguridad
+3 años en sitio por parte del
+fabricante.
+3 años
+Un mantenimiento preventivo por
+año durante la vigencia de la
+garantía técnica del equipo (3 años).
+Las especificaciones del
+mantenimiento preventivo son:
+a)
+
+Mantenimiento
+preventivo
+
+b)
+c)
+
+Matriz de registro de datos del
+equipo que incluyan: activo fijo,
+número de serie, marca,
+modelo, unidad administrativa,
+ciudad,
+estado
+de
+mantenimiento.
+Verificar el funcionamiento y
+estado general del equipo.
+Revisar
+los
+dispositivos
+teclado, touchpad, pantalla,
+micrófono, puertos, cargador,
+unidad óptica de CD/DVD
+interna o externa.
+
+CONDICIONE
+S DE USO
+(EN CASO DE
+QUE SEA
+NECESARIO)
+
+CANTIDA
+D
+
+UNIDAD
+
+ATRIBUTO
+
+CARACTERÍSTICAS, REQUISITOS FUNCIONALES O
+TECNOLÓGICOS
+
+CONDICIONE
+S DE USO
+(EN CASO DE
+QUE SEA
+NECESARIO)
+
+CANTIDA
+D
+
+UNIDAD
+
+d)
+
+Solicitar
+al
+usuario
+o
+responsable del equipo cerrar
+sus aplicaciones y apagar el
+equipo.
+e) Encender y revisar el correcto
+encendido.
+f)
+Apagar nuevamente el equipo,
+destapar y realizar la limpieza
+interna y externa.
+g) Etiquetado que incluya la fecha
+del mantenimiento.
+h) Encender el equipo y realizar
+pruebas de funcionamiento.
+ESPECIFICACIONES DE SOFTWARE
+Sistema operativo gráfico basado en
+Sistema Operativo
+software libre compatible con todos
+los componentes de hardware.
+Si, Compatible con Windows (10 o
+superior) y GNU\Linux en entorno
+Controlador de
+gráfico compatible con todos los
+hardware
+componentes de hardware.
+Especificar URL de descarga en la
+página del fabricante.
+
+El oferente debe incluir en su oferta el servicio de mantenimiento preventivo
+periódico durante la vida útil del bien.
+El valor de mantenimiento preventivo deberá contemplar el correspondiente a la
+mano de obra de las visitas técnicas programadas y que deben estar acorde al plan
+de mantenimiento del fabricante del equipo.
+La Contraloría General del Estado verificará que las ofertas técnicas y económicas,
+cumplan con lo requerido en el pliego del proceso y las especificaciones técnicas.
+El oferente deberá presentar en su oferta los valores desglosados del bien y del
+servicio de mantenimiento preventivo.
+En caso de que el oferente no presente el valor desglosado del mantenimiento
+preventivo, se entenderá que éste no fue ofertado y en tal caso la entidad contratante
+podrá descalificar la oferta, al amparo de lo previsto en el artículo 134 de la
+Codificación de Resoluciones del SERCOP.
+5. Multas
+Con base en la Ley Orgánica del Sistema Nacional de Contratación Pública artículo
+71 “Cláusulas obligatorias. - (Reformado por el num. 2 del Art. 11 de la Ley s/n, R.O.
+150-2S, 29-XII-2017). - En los contratos sometidos a esta Ley se estipulará
+obligatoriamente cláusulas de multas (…)”, y a su Reglamento General artículo 116
+“Cómputo del plazo de duración del contrato, prórrogas y multas. - En los plazos de
+vigencia de los contratos se cuentan todos los días, desde el día siguiente de su
+suscripción o desde el día siguiente de cumplirse las condiciones establecidas en
+los pliegos, en el presente Reglamento General o en el propio contrato. (…)”.
+Las multas se impondrán por retardo o incumplimiento en la ejecución de las
+obligaciones contractuales.
+
+Por cada día de retraso en la ejecución de las mismas, se aplicará una multa de las
+obligaciones contractuales, se aplicará una multa del uno por mil (1x1000), sobre el
+porcentaje de las obligaciones que se encuentran pendientes de ejecutarse.
+En todos los casos, las multas serán impuestas por el Administrador del contrato,
+quien establecerá el incumplimiento, fechas y montos.
+Si el valor de las multas llegaré a superar el valor del 5% del monto total del contrato,
+la Contratante podrá declarar anticipada y unilateralmente la terminación del
+contrato, conforme el numeral 3 del artículo 94 de la Ley Orgánica del Sistema
+Nacional de Contratación Pública.
+No se aplicarán multas en eventos de caso fortuito o fuerza mayor, probados en
+debida forma y aceptados por la Contraloría General del Estado, para lo cual se
+notificará a la entidad dentro de las cuarenta y ocho (48) horas subsiguientes de
+ocurridos los hechos. Concluido este término en caso de no existir notificación, se
+entenderá que no han ocurrido y se impondrá la multa correspondiente.
+La CONTRATISTA no podrá suspender el servicio de mantenimiento, aduciendo la
+falta de pago por parte de la Contraloría General del Estado, cuando dicho retraso
+no sea atribuible a la CONTRATANTE, si esto llega a ocurrir, se aplicará una multa
+del 1x1.000, sobre el porcentaje de las obligaciones que se encuentran pendientes
+de ejecutarse, conforme lo establecido en el contrato, el mismo que se levantará
+cuando se vuelva a brindar el servicio.
+6. Lugar de entrega
+El lugar de entrega de los bienes será efectuado al Administrador del contrato en las
+oficinas de la Contraloría General del Estado en la ciudad de Quito, el mismo que
+será comunicado oportunamente al Contratista para realizar la entrega.
+El mantenimiento preventivo de los equipos informáticos se lo deberá realizar en las
+diferentes unidades administrativas de la Contraloría General del Estado en matriz.
+7. Vigencia de la oferta
+La oferta tendrá una vigencia de 90 días.
+8. Tiempo de solución de problemas por parte de la Contraloría General del
+Estado
+La Contraloría General del Estado se compromete en dar solución a las peticiones
+y problemas que se presenten en la ejecución del contrato, en un término de 5 días
+laborables, contados a partir de la recepción de la petición escrita formulada por el
+Contratista al Administrador del contrato.
+9. Definición de código CPC
+En cumplimiento de lo establecido en el artículo 104.1 de la Codificación de
+Resoluciones emitida con la resolución RE-SERCOP-2016-0000072 con el cual el
+Servicio Nacional de Contratación Pública expidió la Codificación y Actualización de
+las Resoluciones, se selecciona para este requerimiento los siguientes CPC:
+
+CPC
+452200016
+871300011
+
+DESCRIPCIÓN DEL PRODUCTO
+Computadoras portátiles
+Servicios de mantenimiento, reparación y
+atención del equipo de computación (informática)
+
+10. Vigencia Tecnológica
+Cumplir con lo establecido en el Capítulo III, Principio de Vigencia Tecnológica,
+Sección I de la Resolución No. RE-SERCOP-2016-0000072 de 31 de agosto de
+2016, por lo que, deberá observar el contenido de los artículos del 114 al 138 de la
+codificación, en especial los siguientes:
+•
+•
+
+•
+•
+
+•
+
+•
+
+Mantenimiento preventivo periódico.- El Contratista deberá realizar un
+mantenimiento por año durante el tiempo de vida útil.
+Mantenimiento correctivo.- En los casos que sean necesarios el Contratista
+deberá realizar reparación inmediata del bien en caso de daño o defecto de
+funcionamiento, la provisión e instalación de repuestos, accesorios, piezas o
+partes, así como la obligación de ejecutar todas las acciones necesarias para
+garantizar su funcionalidad y operatividad, incluyendo su reposición temporal.
+Extensiones de la garantía técnica.- Se deberá contemplar una vez que termine
+el plazo de garantías contratadas en la adquisición del bien.
+Reposición de los bienes.- La garantía técnica de los equipos y partes
+proporcionadas incluye el reemplazo de partes, piezas o el equipo completo de
+ser necesario, así como el derecho a recibir actualizaciones de las versiones de
+software de los equipos, durante el período de validez de la misma.
+Reposición temporal.- En caso de daño o durante el tiempo de trabajo de
+mantenimientos que impidan su utilización. La reposición temporal comprende
+la entrega inmediata de un bien de las mismas o mayores características o
+especificaciones técnicas por el tiempo que dure el mantenimiento técnico
+referido.
+Reposición definitiva.- La reposición definitiva operará en el caso en que el bien
+deba ser reemplazado por uno nuevo de iguales o mayores características o
+especificaciones técnicas al presentar defectos de fabricación o funcionamiento
+durante su operación.
+
+11. Verificación de Anexos 20 y 21
+Transferencia de tecnología
+Se procedió a verificar el objeto de contratación y los códigos CPC del proceso en
+referencia en el Anexo 20 de la Codificación y Actualización de Resoluciones emitidas
+por el Servicio Nacional de Contratación Pública, contenido en la resolución RE.SERCOP-2016-0000072 de 31 de agosto de 2016, y se verificó que los CPC´s
+452200016 y 871300011 que corresponden a Computadoras portátiles y Servicios
+de mantenimiento, reparación y atención del equipo de computación (informática),
+respectivamente, NO constan en dicho Anexo.
+En ese sentido, los CPC´s 452200016 y 871300011 que corresponden a
+Computadoras portátiles y Servicios de mantenimiento, reparación y atención del
+equipo de computación (informática), respectivamente, NO constan en dicho Anexo,
+razón por la cual NO requieren transferencia de tecnología.
+12. Desagregación Tecnológica:
+Se procedió a verificar el objeto de contratación y los códigos CPC del proceso en
+referencia en el Anexo 21 de la Codificación y Actualización de Resoluciones emitidas
+por el Servicio Nacional de Contratación Pública, contenido en la resolución RE.SERCOP-2016-0000072 de 31 de agosto de 2016, y se verificó que los CPC´s
+452200016 y 871300011 que corresponden a Computadoras portátiles y Servicios
+
+de mantenimiento, reparación y atención del equipo de computación (informática),
+respectivamente, NO constan en dicho Anexo.
+En ese sentido, los CPC´s 452200016 y 871300011 que corresponden a
+Computadoras portátiles y Servicios de mantenimiento, reparación y atención del
+equipo de computación (informática), respectivamente, NO constan en dicho Anexo,
+razón por la cual NO requieren desagregación tecnológica.
+
+16. Valor Agregado Ecuatoriano
+Se deberá aplicar obligatoriamente la metodología definida por el Servicio Nacional
+de Contratación Pública para la determinación de Valor Agregado Ecuatoriano en la
+adquisición de bienes y/o prestación de servicios, según corresponda, que será
+considerado como uno de los criterios para la adjudicación.
+Para que una oferta sea considerada ecuatoriana el Valor Agregado Ecuatoriano de
+la misma deberá ser igual o superior al umbral del Valor Agregado Ecuatoriano del
+procedimiento de contratación pública, publicado por la entidad contratante
+conforme lo establecido por el Sistema Oficial de Contratación del Estado - SOCE.
+Únicamente en el caso de que la oferta presentada no acreditare Valor Agregado
+Ecuatoriano, se considerará las ofertas de origen extranjero que se hubieren
+presentado.
+
+

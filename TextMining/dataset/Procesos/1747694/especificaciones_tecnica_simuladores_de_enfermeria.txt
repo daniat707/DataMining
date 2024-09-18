@@ -1,0 +1,957 @@
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+ESPECIFICACIONES TÉCNICAS PARA “ADQUISICIÓN DE SIMULADORES PARA
+LABORATORIOS DE LA CARRERA DE ENFERMERÍA”
+1. OBJETO DE LA CONTRATACIÓN
+
+“ADQUISICIÓN DE SIMULADORES PARA LABORATORIOS DE LA CARRERA DE
+ENFERMERÍA”
+2. ANTECEDENTES
+
+El Ecuador es un Estado Constitucional de Derechos y Justicia, según se desprende el Art. 1 de la
+Constitución de la República del Ecuador, por lo tanto, las Compras Gubernamentales que realicen las
+entidades que integramos el Sector Público, deben estar constitucionalizadas.
+Artículo 3 de la Constitución de la República del Ecuador; indica: “Son deberes primordiales del Estado: 1.
+Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la Constitución y en los
+instrumentos internacionales, en particular la educación, la salud, la alimentación, la seguridad social y el
+agua para sus habitantes”.
+Artículo 26 de la Constitución de la República del Ecuador; indica: “La educación es un derecho de las
+personas a lo largo de su vida y un deber ineludible e inexcusable del Estado. Constituye un área prioritaria de
+la política pública y de la inversión estatal, garantía de la igualdad e inclusión social y condición indispensable
+para el buen vivir. Las personas, las familias y la sociedad tienen el derecho y la responsabilidad de participar
+en el proceso educativo”.
+El artículo 227 de la Constitución de la República, establece: “La administración pública constituye un
+servicio a la colectividad que se rige por los principios de eficacia, eficiencia, calidad, jerarquía,
+desconcentración, descentralización, coordinación, participación, planificación, transparencia y evaluación.”
+El artículo 288 de la Constitución de la República del Ecuador, dispone: “Art. 288.- Las compras públicas
+cumplirán con criterios de eficiencia, transparencia, calidad, responsabilidad ambiental y social. Se
+priorizarán los productos y servicios nacionales, en particular los provenientes de la economía popular y
+solidaria, y de las micro, pequeñas y medianas unidades productivas.”
+Artículo 347 de la Constitución de la República del Ecuador, indica: “Será responsabilidad del Estado:
+numeral 1 “Fortalecer la educación pública y la coeducación; asegurar el mejoramiento permanente de la
+calidad, la ampliación de la cobertura, la infraestructura física y el equipamiento necesario de las instituciones
+educativas públicas”.
+Artículo 350 de la Constitu0ción de la República del Ecuador, indica: “El sistema de Educación Superior tiene
+como finalidad la formación académica y profesional con visión científica y humanista; la investigación
+científica y tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la
+construcción de soluciones para los problemas del país, en relación con los objetivos del régimen de
+desarrollo”.
+Artículo 351 de la Constitución de la República del Ecuador, indica: “El sistema de educación superior estará
+articulado al sistema nacional de educación y al Plan Nacional de Desarrollo; la ley establecerá los
+mecanismos de coordinación del sistema de educación superior con la Función Ejecutiva. Este sistema se
+regirá por los Principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad,
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+pertinencia, integralidad, auto determinación para la producción del pensamiento y conocimiento, en el marco
+del diálogo de saberes, pensamiento universal y producción científica tecnológica global”.
+Artículo 13 de la Ley Orgánica de Educación Superior indica: “Art. 13.- Funciones del Sistema de
+Educación Superior.- Son funciones del Sistema de Educación Superior: (…) a) Garantizar el derecho a
+la educación superior mediante la docencia, la investigación y su vinculación con la sociedad, y
+asegurar crecientes niveles de calidad, excelencia académica y pertinencia; b) Promover la creación,
+desarrollo, transmisión y difusión de la ciencia, la técnica, la tecnología y la cultura; c) Formar académicos,
+científicos y profesionales responsables, éticos y solidarios, comprometidos con la sociedad,
+debidamente preparados en todos los campos del conocimiento, para que sean capaces de generar y
+aplicar sus conocimientos y métodos científicos, así como la creación y promoción cultural y
+artística; d) Fortalecer el ejercicio y desarrollo de la docencia y la investigación científica en todos los
+niveles y modalidades del sistema”.
+Artículo 107 de la Ley Orgánica de Educación Superior indica: “Principio de pertinencia. - El principio de
+pertinencia consiste en que la educación superior responda a las expectativas y necesidades de la sociedad, a
+la planificación nacional, y al régimen de desarrollo, a la prospectiva de desarrollo científico, humanístico
+y tecnológico mundial, y a la diversidad cultural. Para ello, las instituciones de educación superior
+articularán su oferta docente, de investigación y actividades de vinculación con la sociedad, a la demanda
+académica, a las necesidades de desarrollo local, regional y nacional, a la innovación y diversificación
+de profesiones y grados académicos, a las tendencias del mercado ocupacional local, regional y
+nacional, a las tendencias demográficas locales, provinciales y regionales; a la vinculación con la
+estructura productiva actual y potencial de la provincia y la región, y a las políticas nacionales de
+ciencia y tecnología.”
+La profesión de enfermería en su etapa de formación requiere de la adquisición y desarrollo de habilidades
+prácticas indispensables para brindar el cuidado a pacientes. En la actualidad las directrices de formación
+académica superior indican que, estas habilidades prácticas deben desarrollarse en simuladores anatómicos de
+laboratorio previo a atender seres humanos en las instituciones de salud. La Carrera de enfermería de la
+Universidad de Guayaquil, de cumplir con los lineamientos de una formación profesional de calidad. Además,
+permite el cumplimiento de los diferentes indicadores del modelo de evaluación para la carrera de enfermería
+evaluado por el CACES.
+La Universidad de Guayaquil desde su gestión de procesos busca ofrecer a sus estudiantes los entornos de
+aprendizaje con herramientas teórico-prácticas que permitan crear el mejor escenario para la adquisición de
+conocimientos teórico-prácticos. En la Facultad de Ciencias Médicas-Carrera de Enfermería, se cuenta con
+cinco (5) laboratorios de práctica clínica básica y profesionalizante. Este proceso de mantenimiento permitirá
+rehabilitar los simuladores correspondientes a: LABORATORIO #2 de ENFERMERIA EN SALUD
+REPRODUCTIVA y EL LABORATORIO #3 DE ENFERMERÍA CLÍNICA Y CRÍTICA.
+Esto permitirá la ejecución de prácticas de asignaturas como enfermería clínica, enfermería en salud
+reproductiva, cuidados críticos y desastres, correspondientes a la malla de rediseño definida en el SIUG como
+malla de enfermería 2018.
+Con estos antecedentes se procura mediante la gestión de este proceso avanzar en el alcance de acreditación
+de carrera de enfermería por el CACES.
+Mediante memorando N°UG-FCM-SD-2022-0022-M, de fecha 26 de enero 2022, suscrito por la Lcda.
+Germania VargasAguilar-exsubdecana de la Facultad de Ciencias Médicas, se solicita certificación de stock
+de bodega sobre la existencia de simuladores de uso pedagógico.
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+Mediante memorando N° UG-JP-2022-0042-M, de fecha 26 de enero 2022, suscrito por el Mgs. Wilmer
+Jouvin Trujillo-Jefe de Proveeduría UG, emite certificación de stock de bodega sobre la no existencia de
+simuladores de uso pedagógico.
+Mediante memorando N°UG-FCM-2022-0869, de fecha 14 de junio 2022, suscrito por el Dr. Francisco
+Hernández Manrique-Decano de la Facultad de Ciencias Médicas, se solicita certificación PAP de la
+subactividad referente al proceso “ADQUISICIÓN DE SIMULADORES PARA LABORATORIOS DE LA
+CARRERA DE ENFERMERÍA”.
+Mediante memorando N° UG-CGPEA-DPPI-2022-0549-M, de fecha 16 de junio 2022, suscrito por el Mgs.
+David Pérez Vera-Director de Planificación y Proyectos de Inversión, emite certificación PAP de la
+subactividad referente al proceso “ADQUISICIÓN DE SIMULADORES PARA LABORATORIOS DE LA
+CARRERA DE ENFERMERÍA”.
+Mediante memorando N°UG-FCM-2022-1023, de fecha 04 de julio 2022, suscrito por el Dr. Francisco
+Hernández Manrique-Decano de la Facultad de Ciencias Médicas, se solicita certificación presupuestaria para
+la adquisición de simuladores para la carrera de Enfermería.
+Mediante memorando N° UG-DF-2022-1667-M, de fecha 11 de julio 2022, suscrito por el Ing. Edgar
+Aguirre Morocho-Director Financiero UG, emite certificaciones presupuestarias N° 484 y 485 para la
+adquisición de simuladores para la carrera de Enfermería.
+3. JUSTIFICACION DE LA CONTRATACIÓN
+
+La carrera de Enfermería de la Facultad de Ciencias Médicas de la Universidad de Guayaquil, cuenta con
+su Laboratorio de Simulación, el cual es utilizado por los estudiantes de las diferentes especializaciones
+médicas que aquí se ofertan. Su objetivo es lograr que futuros profesionales adquieran destrezas de
+asistencia en áreas clínico - quirúrgicas antes de interactuar con pacientes reales, para disminuir la
+posibilidad de errores o complicaciones en la realización de procedimientos.
+En el caso de las especialidades médicas, el nivel de simulación debe ser más elevado, requiriendo para
+ello simuladores de alta fidelidad los cuales integran múltiples variables fisiológicas para la creación de
+escenarios clínicos realistas con maniquíes de tamaño real, lo que se complementa con los simuladores de
+mediana y baja fidelidad. El objetivo es entrenar y adquirir competencias técnicas avanzadas y, en el
+manejo de crisis.
+La simulación es una estrategia educativa que permite al estudiante recrear escenarios que van desde
+situaciones comunes hasta aquellas que se presentan en rara ocasión, permitiéndoles realizar los
+procedimientos las veces que sean necesarias hasta dominar las destrezas necesarias para evitar errores al
+momento que se encuentre con un paciente real. Una vez concluida la práctica simulada, permitirá
+analizar lo actuado para alcanzar otras conclusiones y buscar otras posibles alternativas a lo actuado.
+Actualmente las condiciones estructurales y operativas de los fantomas y simuladores en la Carrera de
+Enfermería no permiten el uso efectivo de los mismos para las prácticas de laboratorio, siendo estos los
+únicos con los que se cuenta actualmente, esto ha impedido una correcta ejecución del proceso de
+enseñanza y aprendizaje de los estudiantes.
+La profesión de Enfermería en su etapa de formación requiere de la adquisición y desarrollo de
+habilidades prácticas indispensables para brindar el cuidado a pacientes. En la actualidad las directrices de
+formación académica superior indican que, estas habilidades prácticas deben desarrollarse en fantomas y
+simuladores de laboratorio previo a atender seres humanos en las instituciones de salud.
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+Estas habilidades practicas se logran solo mediante la repetición constante de los procedimientos, un
+fantoma y simulador en condiciones operativas adecuadas permitirá adquirir y reforzar estas habilidades
+prácticas, lo que genera un impacto positivo en el proceso de enseñanza y aprendizaje, así como en la
+seguridad del paciente en los diferentes escenarios de práctica del sistema de salud.
+La contratación se justifica con base a lo expuesto y la necesidad de la Carrera de Enfermería de la
+Universidad de Guayaquil, de cumplir con los lineamientos de una formación profesional de calidad.
+Además, permite el cumplimiento de los diferentes indicadores del modelo de evaluación para la carrera
+de enfermería evaluado por el CACES.
+3.1. Beneficio. La actividad docente formativa superior en la salud de las áreas de Medicina, Enfermería, Obstetricia y
+Tecnologías en la Universidad de Guayaquil, está dirigido a formar profesionales que garanticen el estado
+de salud de la población y en consecuencia el incremento la esperanza y calidad de vida.
+La formación de los profesionales de la salud se basa en el principio de la vinculación estudio-trabajo.
+Esta constituye la modalidad fundamental de organización del proceso docente-educativo en el ciclo
+clínico y hospitalario de las diferentes áreas en la educación médica superior, cuya forma es la enseñanza
+basada en la práctica realizada en un ambiente real, hospitalario-clínico, y/o en ambientes de aprendizaje
+ideales en materia de salud.
+El objetivo principal de la educación mediante la práctica en laboratorios de aprendizaje es el de contribuir
+a la formación de las habilidades y hábitos prácticos característicos de las actividades profesionales,
+mediante la adquisición de equipamiento, materiales, insumos y/o equipos tecnológicos que permitan dar
+soporte a la implementación de procedimiento pedagógicos para el aprendizaje, según los planes
+académicos y sílabos de la malla actual; los mismos, beneficiarían a 60 docentes y 1.245 Estudiantes de la
+carrea Enfermería.
+3.2. Eficacia. La adquisición de simuladores para los laboratorios de la carrera de Enfermería permite contribuir en los
+lineamientos implementados para la mejora constante de la formación académica, conjuntamente con el
+perfeccionamiento de procesos de gestión pedagógica para las prácticas en ambientes de aprendizaje,
+fortaleciendo el sistema educativo de la Universidad de Guayaquil y contribuyendo en una óptima
+articulación de las áreas sustantivas como son las de Admisión y Nivelación, Formación Académica y la
+de Gestión de Personal Académico.
+3.3. Capacidad de Almacenamiento y Consumo Real. –
+Mediante memorando N° UG-JP-2022-0042-M, de fecha 26 de enero 2022, suscrito por el Mgs. Wilmer
+Jouvin Trujillo-jefe de Proveeduría UG, emite certificación de stock de bodega sobre la no existencia de
+simuladores de uso pedagógico donde indica textualmente: En atención a la solicitud de certificación de
+stock de bodega de los ítems detallados en el presente memorando, la Jefatura de Proveeduría no mantiene
+stock en bodega estos ítems.
+Mediante Memorando Nro. UG-FCM-2022-1582 del 8 de septiembre de 2022, el Dr. Francisco Xavier
+Félix Hernández Manrique DECANO (E) - Facultad de Ciencias Médicas, solicita a la Jefatura de Proveeduría
+certifique la Capacidad de Almacenamiento y Consumo Real de simuladores para laboratorios.
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+Mediante Memorando Nro. UG-JP-2022-0602-M, de fecha 13 de septiembre/2022 el Mgs. Wilmer
+Emanuel Jouvin Trujillo; jefe de Proveeduría, informa que, “(…) En referencia a la solicitud de contar con
+capacidad de almacenamiento cumplo en informar que, si contamos con la capacidad de almacenamiento,
+ya que estos bienes ingresan de manera temporal y son entregados de forma inmediata a la unidad
+requirente para su uso inmediato. Con lo que respecta al consumo real de estos bienes este está
+relacionado a su vida útil y a la necesidad institucional de adquirir nuevos equipos (…)”.
+4. OBJETIVOS
+4.1
+
+Objetivo General
+
+Contratar la adquisición de simuladores para laboratorios de la carrera de Enfermería.
+4.2
+
+Objetivos Específicos
+
+
+
+Reestructurar los entornos de aprendizaje práctico de la carrera de Enfermería desde habilidades
+básicas hasta competencias profesionalizantes.
+Disponer de entornos de aprendizaje prácticos dotados de simuladores anatómicos en las cantidades
+básicas para cumplir con los indicadores EQUIPAMIENTO Y DISPONIBILIDAD del modelo de
+evaluación de carreras.
+Realizar la práctica de procedimientos avanzados o complejos que se encuentran contemplados en la
+malla curricular de las especialidades médicas que utilizarán estos equipos.
+
+
+
+
+5. ALCANCE
+
+En cumplimento con la misión de la carrera de Enfermería es formar médicos con vocación de servicio,
+capaces de desarrollar competencia de cuidado holístico de la persona, familia, grupos y comunidades; a
+través de la promoción, prevención, rehabilitación de la salud, tendencias globales de la educación y la
+profesión y según la visión enmarca el reconocimiento de la sociedad, el sistema de salud, y la comunidad
+académica nacional e internacional como uno de los centros de formación en salud humana con excelencia
+académica; se encuentra gestionado la adquisición de simuladores para los ambientes de aprendizaje de la
+carrera, ya que actualmente las condiciones estructurales y operativas de los simuladores en las aulas de
+clase no permiten el uso efectivo de los mismos para las prácticas de laboratorio, siendo estos los únicos
+con los que se cuenta actualmente, esto ha impedido una correcta ejecución del proceso de enseñanza y
+aprendizaje de los estudiantes.
+6. INFORMACION QUE DISPONE LA ENTIDAD
+
+La profesión de Enfermería en su etapa de formación requiere de la adquisición y desarrollo de
+habilidades prácticas indispensables para brindar el cuidado a pacientes. En la actualidad las directrices de
+formación académica superior indican que, estas habilidades prácticas deben desarrollarse en simuladores
+de laboratorio previo a atender seres humanos en las instituciones de salud. La Carrera de Enfermería de
+la Universidad de Guayaquil, de cumplir con los lineamientos de una formación profesional de calidad.
+Además, permite el cumplimiento de los diferentes indicadores del modelo de evaluación para la carrera
+de Enfermería evaluado por el CACES.
+La Carrera de enfermería de la Universidad de Guayaquil, como parte de la Facultad de Ciencias Médicas
+cuenta con un edificio donde se desarrollan las actividades docentes y administrativas, en la planta baja se
+encuentra el espacio físico para cinco (5) laboratorios:
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+
+
+
+
+
+
+Laboratorio #1 Ciencias Básicas De Enfermería.
+Laboratorio #2 Enfermería Materno Infantil y Enfermería Del Niño y Adolescente.
+Laboratorio #3 Enfermería Crítica y Reanimación Cardio pulmonar.
+Laboratorio #4 Enfermería Quirúrgica.
+Laboratorio #5 Enfermería Clínica y Procedimientos Invasivos.
+
+En el Laboratorio #2 Enfermería Materno Infantil y Enfermería Del Niño y Adolescente. - En este
+laboratorio se ubicarían los siguientes equipos:
+1. Simulador avanzado para prácticas de alumbramiento
+2. Simulador de parto madre e hijo
+En este laboratorio se realizarán prácticas de laboratorio de asignaturas como:
+Asignatura
+
+Grupos Estudiantes
+
+Enfermería en salud reproductiva
+
+4
+
+120
+
+Enfermería quirúrgica
+
+4
+
+120
+
+Internado enfermería clínica quirúrgica del adulto
+
+4
+
+140
+
+Internado salud reproductiva
+
+4
+
+140
+
+Laboratorio #3 Enfermería Crítica y Reanimación Cardiopulmonar. - En este laboratorio se ubicarían los
+siguientes equipos:
+1. Simulador para práctica avanzada de reanimación cardiopulmonar
+2. Simulador paciente CAE
+En este laboratorio se realizarán prácticas de laboratorio de asignaturas como:
+Asignatura
+
+Grupos Estudiantes
+
+Enfermería en cuidados críticos y desastres
+Enfermería en cuidado del paciente con discapacidad
+permanente
+Enfermería en salud reproductiva
+
+4
+
+120
+
+4
+4
+
+120
+120
+
+Enfermería quirúrgica
+
+4
+
+120
+
+Internado enfermería clínica quirúrgica del adulto
+
+4
+
+140
+
+Internado salud reproductiva
+
+4
+
+140
+
+Semiología
+
+3
+
+120
+
+Fisiopatología
+
+3
+
+120
+
+Laboratorio #5 Enfermería Clínica y Procedimientos Invasivos. - En este laboratorio se ubicarían
+los siguientes equipos:
+1. Simulador paciente CAE
+Número
+Facultad de
+simuladores
+Ciencias Médicas
+electrónicos
+
+Número
+Número
+simuladores no
+fantomas
+electrónicos
+
+Medicina
+
+11
+
+5
+
+0
+
+Enfermería
+
+2
+
+1
+
+5
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+7. ESPECIFICACIONES TECNICAS
+
+La Universidad de Guayaquil detalla en el presente documento las condiciones mínimas a ser
+adquiridas, sin embargo, los oferentes podrán ofertar bienes de estas o mejores condiciones a las
+requeridas, siempre y cuando dichas mejoras se encuentren establecidas y/o estipuladas en la oferta.
+Para cualquier condición o situación técnica que pudiera corresponder a una marca en particular, la
+Universidad deGuayaquil aceptará también sus equivalentes.
+Las especificaciones técnicas se detallan a continuación:
+N°
+
+CPC
+
+Cantidad
+
+1
+
+4815009147
+
+3
+
+2
+
+4815009147
+
+3
+
+Descripción
+
+Especificaciones técnicas
+
+*Simulador de RCP de apariencia a torso adulto.
+*Portátil, ideal para el entrenamiento en la
+reanimación cardiopulmonar.
+*Que permita evaluar la respiración y el
+reconocimiento del retorno de la circulación.
+Simulador para *Que permita ejecutar reanimación cardio
+práctica
+pulmonar y electrochoque,
+*Que permita realizar electrocardiogramas
+avanzada de
+con al menos 15 ritmos.
+reanimación
+cardiopulmonar *Que permita la práctica de intubación oral.
+*Visualice distensión de la caja torácica.
+*Que permita realizar la desfibrilación.
+*Que permita recopilar datos.
+*Que cuente con fuente de alimentación para
+110 voltios.
+*Simulador para prácticas avanzadas de
+alumbramiento que replique la estructura
+anatómica del torso inferior de una mujer
+adulta.
+*Que cree escenarios de simulación de parto
+vaginal normal y con dificultades.
+*Que permita la auscultación de ruidos
+cardiacos de la madre y recién nacido.
+*Que permita prácticas de procedimientos
+como: cateterización urinaria, cortar y pinzar
+Simulador
+el cordón umbilical.
+avanzado para *Que incluya al menos una placenta para
+prácticas de
+parto.
+alumbramiento *Que permita simular la hemorragia
+postparto y el masaje uterino.
+*Que permita al menos simular el parto
+asistido con fórceps y al vacío.
+*Además, que incluya al menos bebé recién
+nacido con ombligo para cateterización
+umbilical y pulso umbilical.
+*Incluye, además: concentrados de sangre y
+orina simulados.
+*Que cuente con fuente de alimentación para
+110 voltios.
+
+Imagen Referencial
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4815009147
+
+1
+
+Simulador de
+parto madre e
+hijo
+
+*Simulador automático de parto
+*Que tenga al menos placenta, cordón
+umbilical, feto de parto, cubierta abdominal.
+*Que permita practicar partos vaginales
+normales y de alto riesgo.
+*Que permita simular reiteradamente
+escenarios de parto.
+*Que cuente con un software que permita
+controlar el proceso de parto.
+*Que incluya un recién nacido a término con
+estructuras anatómicas de vías respiratorias
+óptimas para ejecución de procesos de
+reanimación y manejo de vía aérea y permita
+al menos intubación oral, que refleje a la
+valoración física el aumento real del tórax a
+la ventilación BVM. Que permita el
+monitoreo en tiempo real de RCP, las
+ventilaciones con monitoreo de la
+circulación periférica del RN.
+*Que incluya sangre artificial, una guía de
+usuario, con fuente de alimentación para 110
+voltios y con al menos 1 dispositivo
+electrónico de monitoreo con parámetros
+visuales.
+
+Los bienes a adquirirse deberán ser registrados en proveeduría y posterior entregarse en la Facultad de
+Ciencias Médicas, instalados, calibrados y funcionando bajo todos sus parámetros.
+En el momento de recepción de los equipos ofertados, este deberá contar con los respectivos sellos de
+fábrica intactos.
+Los bienes deben ser nuevos no re manufacturados y de tecnología nueva, con garantía de defectos de
+fábrica durante la vida útil del bien y fallas de instalación con la obligación de inmediato reemplazo en
+caso de detectar fallas de fábrica.
+La fecha de fabricación de todos los equipos no debe ser superior a un año a la fecha del procedimiento de
+adquisición a fin de garantizar su utilización con tecnología de punta, en concordancia con la política
+pública de vigencia tecnológica.
+Los equipos a adquirirse deberán ser registrados en proveeduría y posterior entregarse en la Facultad de
+Ciencias Médicas, instalados, calibrados y funcionando bajo todos sus parámetros.
+El costo de transporte e instalación física de los equipos y de todos los accesorios que el mismo necesite
+para un trabajo adecuado, correrá a cargo del OFERENTE.
+La puesta en funcionamiento de los equipos en la Facultad de Ciencias Médicas debe cumplir las
+especificaciones y requerimientos del fabricante.
+Si los equipos en cuestión requieren de software para su funcionamiento, éste debe ser completamente
+original y con las licencias completas, prohibiéndose expresamente modos demo o licencias parciales para
+cualquiera de las aplicaciones ofertadas.
+Los equipos que se entreguen deberán estar identificado con los datos de placa o chapa como son: marca,
+modelo, serie, año de fabricación, y demás datos de identificación específica del equipo, no se permitirá
+las series, modelo u otros sobre montados o como sticker, debiendo ser equipos totalmente originales;
+adicionalmente, deberá incluirse los teléfonos de contacto, correos electrónicos, páginas web, etc. para
+casos de emergencias de fábrica, distribuidor y servicio técnico.
+En el momento de recepción de los equipos ofertados, este deberá contar con los respectivos sellos de
+fábrica intactos.
+Para la prueba de todos los equipos durante el acto de entrega recepción y/o de capacitación inicial, el
+proveedor debe suministrar el material e insumos necesarios para comprobar el funcionamiento de los
+mismos.
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+8. PLAZO DE EJECUCION
+
+El plazo para la entrega de la totalidad de los bienes a entera satisfacción de la entidad contratante es
+de noventa días (90 días), contados a partir del día siguiente de la notificación por escrito por parte
+del administrador del contrato respecto de la disponibilidad del anticipo, en la cuenta bancaria
+proporcionada por el contratista.
+9. FORMA Y CONDICIONES DE PAGO
+
+El pago se realizará el 50% de anticipo y el saldo es decir el 50% restante se cancelará una vez recibida la
+totalidad de los bienes instalados y puestos en funcionamiento, previa presentación de la siguiente
+documentación:
+
+
+
+
+
+
+Informe de satisfacción del administrador de contrato.
+Factura original.
+Ingreso a Bodega
+Acta de Entrega - Recepción definitiva suscrita de conformidad al art. 325 del Reglamento
+General
+Demás documentos habilitantes para el pago.
+
+10. LUGAR Y FORMA DE ENTREGA DEL BIEN O SERVICIO
+
+Los bienes deberán ser entregados a entera satisfacción en la ciudad de Guayaquil, en la Sección de
+Proveeduría de la Universidad de Guayaquil ubicada en la Ciudadela Universitaria, Malecón del Salado entre
+Av. Fortuna Safadi (Av. Delta) y Av. Kennedy. Para la entrega del equipo el proveedor adjudicado coordinará
+con el Administrador del contrato sobre el lugar fecha y hora de la entrega, y posterior instalación,
+comprobado el correcto funcionamiento, convocará a la comisión de entrega recepción para la verificación y
+constatación del correcto funcionamiento de los equipos y en consecuencia se suscribirá la respectiva acta.
+11. GARANTÍAS
+
+De conformidad con lo determinado en la Ley Orgánica del Sistema Nacional de Contratación Pública, se
+exigirán las siguientes garantías:
+Art. 76.- Garantía Técnica para ciertos Bienes.- “En los contratos de adquisición, provisión o instalación
+de equipos, maquinaria o vehículos, o de obras que contemplen aquella provisión o instalación, para
+asegurar la calidad y buen funcionamiento de los mismos, se exigirá, además, al momento de la
+suscripción del contrato y como parte integrante del mismo, una garantía del fabricante, representante,
+distribuidor o vendedor autorizado, la que se mantendrá vigente de acuerdo con las estipulaciones
+establecidas en el contrato. Estas garantías son independientes y subsistirán luego de cumplida la
+obligación principal. De no presentarse esta garantía, el contratista entregará una de las previstas en
+esta Ley por igual valor del bien a suministrarse, de conformidad con lo establecido en los pliegos y en el
+contrato. Cualquiera de estas garantías entrará en vigencia a partir de la entrega recepción del bien”.
+Si la Universidad de Guayaquil solicitare el cambio de los productos que sean considerados defectuosos,
+estos deberán serán reemplazados en un término de 72 horas por otros nuevos de la misma calidad y
+condición requeridos sin costo adicional alguno para la Entidad Contratante.
+Art. 75.-Garantía por Anticipo. - Si por la forma de pago establecida en el contrato, la Entidad
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+contratante debiera otorgar anticipos de cualquier naturaleza, sea en dinero, giros a la vista u otra
+forma de pago, el contratista para recibir el anticipo, deberá rendir previamente garantías por igual
+valor del anticipo, que se reducirán en la proporción que se vaya amortizando aquél o se reciban
+provisionalmente las obras, bienes o servicios.
+12. PRESUPUESTO REFERENCIAL
+
+De conformidad con lo determinado en el art. 130 Reglas comunes. -Toda subasta inversa deberá cumplir
+con las siguientes reglas comunes: (…) 5. El presupuesto referencial de toda subasta inversa será
+visible;(…)
+N°
+
+CPC
+
+Cantidad
+
+1
+
+4815009147
+
+3
+
+2
+
+4815009147
+
+3
+
+3
+
+4815009147
+
+1
+
+Descripción
+Simulador para práctica avanzada de
+reanimación cardiopulmonar
+Simulador avanzado para prácticas de
+alumbramiento
+Simulador de parto madre e hijo
+
+Precio Unitario
+
+Precio Total
+
+$ 7.281,95
+
+$ 21.845,85
+
+$ 2.575,30
+
+$ 7.725,90
+
+$ 22.088,96
+
+$ 22.088,96
+
+Total
+
+$ 51.660,71
+
+Por lo tanto, el presupuesto referencial para la “ADQUISICIÓN DE SIMULADORES PARA
+LABORATORIOS DE LA CARRERA DE ENFERMERÍA” es de $ 51,660.71 Cincuenta y un mil
+seiscientos sesenta con 71/100 Dólares de los Estados Unidos de América, más IVA.
+Los precios presentados por el proveedor son de su exclusiva responsabilidad.
+El precio ofertado deberá incluir:
+-
+
+Transporte hasta el sitio de entrega y el costo del seguro correspondiente.
+Los costos de instalación y puesta en operación, incluyendo los accesorios, materiales y mano de
+obra necesarios para la instalación y puesta en operación de los equipos.
+Los costos de las pruebas necesarias para verificar el cumplimiento de las especificaciones
+técnicas descritas en los pliegos, y para verificar el óptimo funcionamiento del equipo.
+
+Variación mínima de la puja: se sugiere el 1%
+Vigencia de la oferta: 90 días
+13. OTROS PARÁMETROS RESUELTOS POR LA ENTIDAD CONTRATANTE
+
+Parámetro
+
+Compromiso de Transporte
+El Oferente deberá incluir en su oferta una carta de compromiso que indique que sin costo
+Dimensión: alguno para la Institución se incluye el transporte y descarga de los bienes a contratar
+hasta el sitio de entrega en LA UNIVERSIDAD DE GUAYAQUIL
+Parámetro Catálogo de Producto
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+El oferente deberá presentar catálogos o folletos indicando detalladamente las
+características de lo ofertado, las imágenes deberán ser verídicas en cuanto a lo ofertado
+de forma digital. Esta información será evaluada por la comisión, misma que permitirá la
+constatación del cumplimiento de las especificaciones técnicas. Dichos folletos, catálogos,
+Dimensión: manuales deben contener fotos claras y demás detalles como marca, procedencia y
+aspectos técnicos de los bienes requeridos. Esta información será primordial para la
+evaluación de la oferta si la misma no está justificada con documentación de respaldo se
+entenderá como no valida. Documentos que serán en idioma ESPAÑOL
+Parámetro: Carta Compromiso - Cambio por fallas
+Deberá presentar una carta de compromiso de que en caso de que los productos
+presenten fallas imputables al transporte, estos serán reemplazados con cargo al
+Dimensión: proveedor, igualmente aquellos productos que sin causa justificable presenten
+alteraciones o modificaciones de su aspecto físico o forma de presentación, deberán ser
+canjeados por otro de manera inmediata, por cuenta del proveedor.
+Certificado de bienes: que sean originales nuevos, no reformados,
+Parámetro:
+remanufacturados, reensamblados.
+Deberá presentar el Certificado actualizado de que los bienes a entregar serán originales
+Dimensión: nuevos, no reformados, remanufacturados, reensamblados
+Parámetro: Tabla de Productos Ofertados
+El Oferente deberá presentar el listado de los bienes requeridos, detallando sus
+Dimensión: especificaciones técnicas, precio unitario, presentación, marca, modelo, país de
+procedencia y demás parámetros requeridos.
+Parámetro: Certificado Original de distribuidor autorizado
+Deberá presentar copia clara y legible del Certificado de distribuidor autorizado de los
+productos ofertados emitido por cada fabricante del bien en caso de que el certificado sea
+Dimensión:
+emitido por un Distribuidor Autorizado igual este deberá contar con el respaldo de fábrica
+que elabora el bien.
+Parámetro: Permiso de funcionamiento emitido por el ARCSA
+Dimensión: Deberá presentar copia del Permiso de funcionamiento emitido por el ARCSA vigente.
+14. ÍNDICES FINANCIEROS
+
+Los índices financieros constituirán información de referencia respecto de los participantes en el
+procedimiento, serán calculados y llenados con la información obtenida de la Declaración del Impuesto a
+la Renta o del Estado de Situación Financiera, según corresponda a cada Oferente, en tal medida su análisis
+se registrará conforme el detalle a continuación:
+ Índice de Solvencia: Activo Corriente / Pasivo Corriente >= 1.0
+ Índice de Endeudamiento: Pasivo Total / Patrimonio <= 1,5
+Es preciso indicar que los índices financieros previstos no constituyen requisitos mínimos de obligatorio
+cumplimiento y no será causal de rechazo de la oferta, de conformidad con lo dispuesto en la Resolución
+No. RE- SERCOP-2016-0000072 de fecha 31 de agosto de 2016.
+15. MULTAS
+
+Por cada día se retardo en la ejecución de las obligaciones contractuales por parte de la contratista
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+señaladas en el presente instrumento, se aplicará la multa del 2x1000 sobre el porcentaje de las
+obligaciones que se encuentren pendientes de ejecutarse, conforme al cronograma valorado, así como por
+incumplimientos de las demás obligaciones contractuales.
+En todos los casos, las multas serán impuestas por el administrador del contrato, el cual establecerá el
+incumplimiento, fechas y montos. Las multas impuestas al contratista pueden ser impugnadas en sede
+administrativa, a través de los respectivos recursos, o en sede judicial o arbitral.
+16. OBLIGACIONES DE LAS PARTES
+
+Obligaciones del Contratista:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El contratista se obliga a suscribir el contrato dentro del plazo establecido en los pliegos.
+El contratista se compromete dar cumplimiento cabal a lo establecido en el presente pliego de
+acuerdo con los términos y condiciones del contrato.
+El contratista cumplirá con el plazo contractual convenido, del servicio objeto de la
+contratación, deacuerdo con los pliegos, especificaciones técnicas y la oferta presentada.
+El contratista deberá revisar cuidadosamente el pliego y cumplir con todos los requisitos solicitados
+en él. Su omisión o descuido al revisar los documentos no le relevará de cumplir lo señalado en su
+propuesta.
+El contratista deberá cumplir a cabalidad con las obligaciones determinadas en este instrumento y a
+lo previsto en el pliego a entera satisfacción de la Universidad de Guayaquil.
+El contratista se compromete a entregar los bienes contratados en la ubicación designada por el
+Administrador de Contrato, sin ningún costo adicional por transporte, almacenaje, o similares, y de
+acuerdo con las condiciones requeridas en los pliegos y contrato.
+Dar cumplimiento a las disposiciones del administrador del contrato.
+El/ la contratista se compromete durante la ejecución del contrato a facilitar a las personas
+designadas por la Universidad de Guayaquil, toda la información y documentación que estas
+soliciten para disponer de un pleno conocimiento técnico relacionado con la ejecución del contrato.
+El precio deberá incluir el transporte hasta el sitio de entrega, es decir todos los costos directos e
+indirectos para que el oferente entregue los bienes a entera satisfacción en el lugar establecido por la
+entidad contratante.
+Durante el plazo de vigencia de la garantía técnica, si la Universidad de Guayaquil solicitare el
+cambio de los bienes adquiridos considerados defectuosos, el contratista deberá acercarse a la
+Universidad de Guayaquil para retirar el bien y/o insumo considerado defectuoso, y procederá a
+reemplazar en un plazo máximo de 48 horas el bien indicado, contado a partir de la petición escrita
+formulada por el Administrador del Contrato, por otro nuevo de la misma calidad y condición sin
+costo adicional alguno para la entidad contratante y con la misma garantía técnica otorgada al
+producto original, excepto si los daños hubieren sido ocasionados por el mal uso de los mismos por
+parte del personal de la institución.
+El/la contratista deberá obligatoriamente entregar a la entidad el certificado actualizado de que los
+bienes son originales, nuevos y NO reformados, remanufacturados, reensamblados,
+(REFURBISHED), etc. con el respectivo número de serie de cada bien por parte del ensamblador.
+Se requerirán los manuales técnicos que prevean de uso, operación y mantenimiento, los que deberán
+encontrarse en idioma español y cuya entrega se efectuará conjuntamente con los bienes
+suministrados. Los manuales de usuario y técnicos pueden ser entregados en medios digitales. El
+juego de manuales estará integrado por: a) Manual de Uso y Operación: con instrucciones de manejo
+y cuidados a tener en cuenta para el adecuado funcionamiento y conservación de los bienes; y, b)
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+
+
+
+
+
+
+
+Manual de Servicio Técnico: con información detallada para su funcionamiento, entre otros.
+El oferente deberá capacitar a los servidores designados por la Universidad de Guayaquil sobre el
+cuidado y operación de los equipos; además entregar los manuales de uso, operación y
+mantenimiento, los que deberán encontrarse en idioma español y cuya entrega se efectuará
+conjuntamente con los bienes suministrados. Los juegos de manuales estarán integrados por Manual
+de Uso y Operación, y Manual de Servicio Técnico. Establecer las condiciones mínimas que deberá
+contener el Plan de Capacitación, entre ellas, si la capacitación es in situ, virtual o utilizando medios
+telemáticos.
+El equipo debe entregarse instalado y funcionando bajo todos sus parámetros, incluyendo las
+configuraciones de software que deberán ser actualizadas durante la vigencia de la garantía.
+Los equipos que se entreguen deberán estar identificados con los datos de placa o chapa como son:
+marca, modelo, serie, año de fabricación, potencia, clasificación de riesgo y además datos de
+identificación específica del equipo, no se permitirá las series, modelo u otros sobre montados o
+como sticker, debiendo ser equipos totalmente originales, adicionalmente debe incluir los teléfonos
+de contacto, correos electrónicos, página web, etc. Para el caso de emergencia de fábrica, distribuidor
+y servicio técnico.
+Durante el tiempo de garantía, el contratista brindará soporte técnico en horarios laborables, con un
+tiempo de respuesta máximo de 2 horas y tiempo de solución a incidentes máximo en 48 horas.
+
+Transferencia Tecnológica
+Es obligación del proveedor adjudicado, previo a la suscripción del respectivo contrato, entregar a la
+entidad contratante, en calidad de documento habilitante, y dentro del término que establece la Ley
+Orgánica del Sistema Nacional de Contratación Pública para el efecto, los requerimientos que se indican a
+continuación, según el nivel TT2 de transferencia de tecnología:
+
+
+
+
+
+
+
+
+Manual de uso y manejo de producto, en formato digital y en físico.
+CD o información en línea donde se dé a conocer información del producto, procedencia de
+materias primas, fechas y registros de producción.
+Certificados de calidad o normativa (escaneados) bajo los cual fuere desarrollado el producto (en
+caso que existiesen).
+Certificados de calibración del producto, dependiendo del caso.
+Cualquier otra información sobre estándares industriales de medidas, pruebas y control de calidad.
+Taller o curso de capacitación (SIN COSTO) para conocer el correcto uso o manejo del producto;
+CD donde se exponga el curso o taller de capacitación que fue dado a personal ecuatoriano.
+
+En caso que el proveedor adjudicado, dentro del término para suscribir el respectivo contrato, no presente
+los requerimientos correspondientes a la Transferencia de Tecnología, será causal para que la entidad
+contratante lo declare adjudicatario fallido.
+Referente a la Capacitación
+Para el personal de la Universidad de Guayaquil se deben realizar al menos 1 capacitación de mínimo 2 horas
+al momento de la entrega del equipo; la capacitación tratará acerca de las bases técnicas y funcionamiento de
+todos los equipos. Se deberá presentar el itinerario de la capacitación en el momento de la instalación y puesta
+en funcionamiento de los equipos.
+Para el personal de la Facultad de Ciencias Médicas que operan los equipos objeto de contratación se deben
+realizar mínimo dos capacitaciones; la primera al momento de la instalación, la misma que debe asegurar que
+el personal este completamente familiarizado con los equipos y sus capacidades y/o prestaciones, la segunda
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+se realizará a los 60 días plazo de la inicial con un tiempo mínimo de 2 horas de capacitación como refuerzo a
+la inicial. No obstante lo anterior el proveedor podrá ejecutar un mayor número de capacitaciones si ellos a
+bien lo tuvieren o amerite la situación, dependiendo de la complejidad del equipamiento de los equipos en
+mención.
+En caso de existir personal de reemplazo o por rotación, el proveedor está obligado a capacitarlo de acuerdo a
+lo previsto en los párrafos anteriores durante el tiempo de vigencia de garantía de fábrica.
+Posterior a la capacitaciones se realizará una acta donde firmarán los asistentes a la capacitación, la copia del
+acta de capacitación debe ser entregada al Decano de la Facultad de Ciencias Médicas
+REFERENCIA A LOS MANUALES TÉCNICOS DE USO, OPERACIÓN Y MANTENIMIENTO
+Los manuales técnicos de uso, operación y mantenimiento deberán ser entregados en el momento de la
+instalación y puesta en funcionamiento de los equipos objeto de contratación de acuerdo a lo siguiente:
+
+
+
+
+Entregar 2 copias en físico y un archivo digital de los manuales técnicos EN ESPAÑOL que prevean su
+uso, operación y servicio técnico.
+Manual de uso y operación comprende instrucciones de manejo y cuidados a tener en cuenta para el
+adecuado funcionamiento y preservación de los equipo.
+Manual de servicio técnico contiene información detallada para su instalación, funcionamiento, entre
+otros, que contengan los diagramas de bloques, mecánicos, eléctricos y/o electrónicos, planos y
+procedimientos de montaje /instalación y otros que considere el proveedor.
+Los manuales no deberán tener marca, anotación o sello que dificulte su lectura.
+
+Obligaciones de la Universidad de Guayaquil:
+
+
+
+
+
+Designar al Administrador del Contrato.
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del contrato, en un
+plazo de dos días (2 días) contados a partir de la petición escrita formulada por el contratista.
+Suscribir las actas de entrega recepción de los bienes recibidos, siempre que se haya cumplido con
+lo previsto en la ley para la entrega recepción; y, en general, cumplir con las obligaciones
+derivadas del contrato.
+Facilitar al contratista las condiciones necesarias para el cumplimiento y ejecución del contrato en
+forma oportuna.
+
+17. TERMINO PARA LA SOLUCIÓN DE PROBLEMAS
+
+Si respecto de la divergencia o controversia existentes no se lograre un acuerdo directo entre las partes,
+estas se someterán al procedimiento establecido en la ley de la jurisdicción contencioso administrativo que
+ejerce jurisdicción en el domicilio de la entidad contratante.
+La legislación aplicable es la ecuatoriana en consecuencia el contratista declara conocer el ordenamiento
+jurídico ecuatoriano y, por lo tanto, se entiende incorporado el mismo en todo lo que sea aplicable al
+presente.
+El contratista deberá dar la solución de problemas o peticiones por la entidad contratante, en un plazo de 5
+días a partir de la petición por escrito.
+
+UNIVERSIDAD DE GUAYAQUIL
+FACULTAD CIENCIAS MÉDICAS
+
+18. RECOMENDACION
+
+De acuerdo con lo establecido en el art. 46 la Ley Orgánica del Sistema Nacional de Contratación Pública,
+“Obligaciones de las entidades contratantes. - Las entidades Contratantes deberán consultar el catálogo
+electrónico previamente a establecer procesos de adquisición de bienes y servicios.
+De conformidad al artículo 52.1 de la LOSNCP y 129 de su Reglamento General, el procedimiento de
+contratación a realizarse según su naturaleza jurídica y sugerida es PROCESO DE SUBASTA
+INVERSA ELECTRONICA.
+Guayaquil, 17 de noviembre de 2022
+FIRMAS DE RESPONSABILIDAD:
+ELABORADO
+
+REVISADO
+
+APROBADO
+
+Firmado electrónicamente por:
+Firmado electrónicamente por:
+
+PEDRO
+GIOVANNI
+LUCIO CHAVEZ
+
+Ec. Pedro Giovanni Lucio Chávez,
+Analista Financiero
+
+GERMANIA
+MARIVEL
+VARGAS
+AGUILAR
+
+Firmado digitalmente
+por GERMANIA MARIVEL
+VARGAS AGUILAR
+Fecha: 2022.11.18
+12:31:23 -05'00'
+
+Lcda. Germania Marivel Vargas Aguilar
+Directora de la Carrera de Enfermería
+UNIVERSIDAD DE GUAYAQUIL
+
+DELIA NARCISA
+CRESPO ANTEPARA
+
+Dra. Delia Narcisa Crespo Antepara
+Vicedecana de la Facultad de Ciencias
+Médicas
+UNIVERSIDAD DE GUAYAQUIL
+
+

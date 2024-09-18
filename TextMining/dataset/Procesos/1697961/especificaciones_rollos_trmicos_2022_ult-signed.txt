@@ -1,0 +1,580 @@
+ESPECIFICACIONES TÉCNICAS
+ADQUISICIÓN DE ROLLOS DE PAPEL TÉRMICOS
+A fin de determinar las condiciones generales del presente proceso me permito adjuntar
+las siguientes disposiciones:
+1.- ANTECEDENTES
+Con fecha 25 de mayo de 2017 se suscribe el Convenio Tripartito de Delegación de
+Competencias en la vía Alóag - Santo Domingo entre el Ministerio de Transporte y Obras
+Públicas, el Gobierno Autónomo Descentralizado Provincial de Pichincha y el Gobierno
+Autónomo Descentralizado Provincial de Santo Domingo de los Tsáchilas.
+El Gobierno Autónomo Descentralizado Provincial de Santo Domingo de los Tsáchilas
+con la Dirección de Obras Públicas, durante el año 2017 presenta el Proyecto:
+“Rehabilitación, mantenimiento y operación del peaje de la vía Alóag – Santo Domingo,
+tramo Unión del Toachi – Santo Domingo”.
+Desde el 17 de abril del 2017, fecha de apertura de la Estación de Peaje de Santo
+Domingo, se ha mantenido un funcionamiento ininterrumpido hasta la presente fecha,
+razón por la cual es de vital importancia se realice la correcta ejecución de la
+planificación, operativa en un 100%, dotando al proyecto de todos los componentes
+establecidos en el POA 2022 y en el PAC 2022.
+El proveedor objeto del contrato, debe entregar los bienes al Gobierno Autónomo
+Descentralizado Provincial de Santo Domingo de los Tsáchilas, acorde a los
+requerimientos institucionales y especificaciones técnicas de Rollos para impresoras
+térmicas.
+2.- OBJETIVO
+Adquirir Rollos de papel térmicos, de características térmico exterior (impresión por
+medio de calor), a fin de disponer de materiales óptimos para la impresión de tickets.
+3.- ALCANCE
+Disponer de rollos para impresión térmica directa de excelente calidad, para garantizar la
+emisión de tickets de cobro en la Estación de Peaje Santo Domingo.
+
+1/12
+
+4.- METODOLOGÍA DE TRABAJO
+Para alcanzar una adecuada adquisición de rollos para impresión térmica, la recepción de
+los bienes se realizará en base a las especificaciones técnicas presentadas en el presente
+proceso de “ADQUISICIÓN DE ROLLOS DE PAPEL TÉRMICOS” dentro del
+Proyecto “REHABILITACIÓN, MANTENIMIENTO Y OPERACIÓN DEL
+PEAJE DE LA VÍA ALOAG – SANTO DOMINGO, TRAMO UNIÓN DEL
+TOACHI – SANTO DOMINGO”.
+El Contratista y Administrador de Contrato, coordinaran de forma oportuna las Artes y
+demás actos que permitan recibir los bienes en óptimas condiciones.
+5.- INFORMACIÓN QUE DISPONE LA ENTIDAD
+El Gobierno Autónomo Descentralizado Provincial de Santo Domingo de los Tsáchilas
+posee el siguiente equipamiento:
+ITEM
+
+EQUIPO
+
+MARCA
+
+MODELO
+
+CANTIDAD
+
+1
+
+Impresora
+térmica
+
+Hwasung
+System
+
+MHP/
+HMK-081
+
+6
+
+DESCRIPCIÓN:
+Método de impresión:
+Térmico de línea de puntos
+Cortador de papel:
+SI
+Interfaces:
+RS 232, paralela o USB
+Velocidad de impresión:
+hasta 250 mm/seg
+Resistencia al desgaste:
+150 KM o más
+Características eléctricas:
++24 V DC , +- 2.4V
+Temperatura de operación:
+-20 °C a 80 °C
+Toleración humedad:
+10 a 80 % (34°C al 80%)
+Buffer interno de memoria:
+512 Kbytes
+Alimentación de papel térmico:
+Automático
+Botones:
+1. Alimentación de papel.
+2. Programación de preferencias de impresión.
+Indicadores LED: SI
+IMPRESIÓN:
+Metodo :
+Impresión térmica en punto de línea
+Número de puntos/lineas :
+
+2/12
+
+640
+Resolución (puntos/mm):
+8
+Ancho del Papel(mm):
+80 +0.1/ 82.55+0.1
+Ancho de impresión (mm):
+76/80
+Velocidad ( max mm/sec):
+250
+SENSOR:
+Temperatura de cabezal:
+determinada por el termistor
+Detección en salida de papel:
+Por medio de 1 foto interruptor
+Detección de posición de marca:
+Por medio de 1 foto interruptor
+Detección de posición de platina:
+Por medio de Switch mecánico
+Detección de posición de
+cortadora :
+Por medio de Switch mecánico
+Cabezal:
+5.9(26.4 V / 128 puntos)
+Motor:
+1
+CORTADORA:
+Metodo :
+cuchilla
+Espesor de papel(um):
+de 57 a 155*
+Tipo de corte:
+Corte completo /corte parcial con punto céntrico
+Tiempo de operación max(s/ciclos):
+2
+Frecuencia de corte max(cortes/min):
+30
+Frecuencia en vida útil Cortadora:
+1 millón de cortes
+GARANTÍA:
+1 Año, contra fallas en el funcionamiento del equipo
+producto y/o servicio, que tengan su origen en el diseño
+y/o defectos de fabricación o materiales.
+
+Tabla 1. Información que dispone la entidad
+
+3/12
+
+El tamaño del papel (ticket), expresado en milímetros y logotipo
+(logotipos van en la parte posterior):
+
+Tabla 2. Medidas en milímetros del tamaño del papel térmico y logotipo.
+
+6.- ESPECIFICACIONES TÉCNICAS
+Adjunto cuadro de especificaciones técnicas para la adquisición de rollos de papel
+térmicos:
+DESCRIPCIÓN DE
+ESPECIFICACIONES
+Cantidad
+CPC
+Marca
+Modelo
+Tipo
+Características del papel
+Medidas
+
+REQUERIDO
+5000
+321991317
+Definir por el proveedor
+Térmico 58 gr. Extra blanco
+Rollo
+Térmico exterior ( impresión por medio de calor)
+- Diámetro: ~130 mm;
+- Ancho: 80 mm;
+- Canutillo: ~25 mm / 1 pulgada
+- Longitud: 170 metros
+- Gramaje: 58 gr /m2
+
+4/12
+
+Extra Blanco
+En Pvc reforzado de 1 pulgada y 3 mm de espesor anti de formable
+La personalización del rollo, debe incluir la impresión de logos
+institucionales y números de emergencia de la unidad requirente en
+cuatricromías, y se deberá presentar pruebas de impresión para ser
+aprobado por la coordinación del GAD (Ver punto 5)
+Todos los rollos deben estar protegidos por un empaquetado plástico
+térmico para evitar la humedad y deterioro al transportarlos.
+Garantía del proveedor, reemplazo inmediato de rollos con
+desperfectos en un tiempo no mayor a 3 días.
+
+Color
+Eje tipo
+Personalizable
+
+Incluir
+Garantías
+
+HISTÓRICO DE CONSUMO DE AÑOS ANTERIORES
+ROLLOS TÉRMICOS
+
+2018 ( Ene- Dic)
+
+Consumo
+promedio
+mensual
+320
+
+Consumo
+promedio
+anual
+3840
+
+2019 ( Ene- Dic)
+
+335
+
+4020
+
+Período
+
+%
+variación
+anual
+4,48%
+
+JUSTIFICACIÓN
+No se establece en el detalle Histórico, el consumo del año 2020, toda vez no fue un
+año de operación regular debido a que con fecha 16 de marzo de 2020, el Lcdo. Lenin
+Moreno - Presidente de la República emite Decreto N. 1017. Artículo 1.en el que
+declara ESTADO DE EXCEPCIÓN por calamidad pública en todo el territorio
+nacional, mediante oficio Nro. MTOP-SDCT-20-127-OF de fecha 20 de marzo de
+2020, el Ing. Fernando Marcelo Alvear Calderón SUBSECRETARIO DE
+DELEGACIONES Y CONCESIONES DEL TRANSPORTE dispone lo que en razón
+del reciente decreto de ESTADO DE EXCEPCIÓN, el cual suspende el ejercicio del
+derecho libertad de tránsito, y de últimas cifras emitidas por el COE Nacional, las
+mismas que muestran una rápida propagación del COVID – 19 por las diferentes
+provincias a nivel nacional, nuestro peaje SUSPENDIO LA OPERACIÓN, el 20 de
+marzo de 2020, en apego a Resolución Administrativa N° GADPSDT-R-JNG-017 en
+el que resolvió “Art. 1 SUSPENDER, el cobro del peaje en todas sus categorías, desde
+las 23:59 del día 20 de marzo de 2020, hasta que dure el estado de emergencia
+sanitaria y se regularice la movilidad decretada en el estado de excepción por el
+Presidente de la República, mediante Decreto Presidencial N°1017, de fecha 16 de
+marzo de 2020”.
+Con el fin de determinar de forma más objetiva la cantidad de rollos para el ejercicio
+fiscal, se tomó el consumo de los últimos dos meses del presente año, conforme se
+detalla:
+
+5/12
+
+HISTÓRICO DE CONSUMO DE MESES ANTERIORES
+ROLLOS TÉRMICOS
+
+Febrero 2022
+
+Consumo
+promedio
+mensual
+500
+
+Marzo 2022
+
+300
+
+Período
+
+En razón del detalle antes descrito y toda vez que el bien (Rollos de papel térmico), que
+es producto de la presente adquisición es de vital importancia para el funcionamiento
+eficaz de las actividades del peaje, y una vez recibido el Memorando Nro. GADPSDT-G2022-0173-M, donde se informa un stock disponible de rollos térmicos de 300 unidades.
+
+7.- VIGENCIA DE LA OFERTA
+El tiempo de vigencia de la oferta para el presente procedimiento será de 90 días
+calendario, hasta la suscripción del contrato
+
+8.- PRODUCTOS ESPERADOS
+El oferente entregará rollos de papel térmico en base a las especificaciones técnicas
+descritas anteriormente y según muestra aprobada enviada conjuntamente con la oferta.
+Deberá asegurar que el producto sea capaz de mantenerse en el tiempo y las condiciones
+de trabajo estandarizadas.
+El proveedor objeto del contrato, debe entregar los bienes al Gobierno Autónomo
+Descentralizado Provincial de Santo Domingo de los Tsáchilas, acorde a los requerimientos
+institucionales y especificaciones técnicas de rollos para impresoras térmicas.
+
+9.- EQUIPO MÍNIMO
+No aplica.
+
+10.- PERSONAL TÉCNICO MÍNIMO
+No aplica.
+
+11.- EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO
+No aplica.
+
+12.- INFORMACIÓN FINANCIERA DE REFERENCIA
+Los índices regularmente aceptados son: Índice de Solvencia (mayor o igual a 1,0); Índice
+
+6/12
+
+de Endeudamiento (menor a 1,5), siendo estos índices y valores recomendados, pudiendo
+la entidad contratante modificarlos a su criterio Los factores para su cálculo estarán
+respaldados en la correspondiente declaración de impuesto a la renta del ejercicio fiscal
+correspondiente y/o los balances presentados al órgano de control respectivo.
+Indicador solicitado
+
+OBSERVACIONES
+
+Solvencia**
+
+>= 1
+
+Activo Corriente / Pasivo Corriente
+
+Endeudamiento**
+
+< 1,5
+
+Pasivo Total / Patrimonio
+
+Índice
+
+Patrimonio
+
+Patrimonio
+
+13.- FORMA DE PAGO:
+El pago se lo realizará contra entrega de los bienes, para lo cual será necesario:
+
+
+
+
+
+
+
+
+
+Ingreso de los bienes a la unidad respectiva (Guardalmacén), Acta de constatación
+física de bienes por parte de la unidad encargada del GAD Provincial de Santo
+Domingo de los Tsáchilas, detallando la cantidad y productos entregados;
+Entrega de garantías técnicas de los bienes;
+Informe de satisfacción del Administrador del proceso;
+Presentación de la factura de los bienes, la misma que entregará el proveedor una vez
+que se le notifique por parte de la unidad respectiva (Guardalmacén) acerca de la
+recepción del informe de satisfacción del Administrador del proceso;
+Acta de entrega – recepción de los bienes, realizada por la unidad respectiva
+(Guardalmacén).
+En la factura deberán constar los siguientes Datos:
+Cliente: Gobierno Autónomo Descentralizado Provincial de Santo Domingo de
+los Tsáchilas;
+RUC: 1768139620001;
+Dirección: Av. Monseñor Emilio Lorenzo Stehle S/N y Av. Esmeraldas;
+Teléfono: 022 762-949/ 022 760-663
+
+14.- PLAZO DE ENTREGA:
+El plazo para entrega de los bienes ofertados es de 10 días, previa suscripción del contrato,
+contados a partir del día siguiente de la aprobación de las artes por parte del
+Administrador de Contrato.
+En caso de incumplimiento en el plazo de entrega (para no incurrir en retrasos y
+aplicación de multas, se deben tener legalizadas las actas de entrega-recepción con la
+unidad de Guardalmacén del GAD Provincial de Santo Domingo de los Tsáchilas y cuya
+fecha como máximo debe constar el último día de plazo estipulado para la entrega; por lo
+que se recomienda que 5 días antes de la culminación del plazo, se notifique de la entrega
+de los bienes para la realización de una acta de constatación) se procederá a la aplicación
+
+7/12
+
+de multas en base al principio de trato justo.
+
+15.- MULTAS
+Multa equivalente al 1x1000 de contrato por cada día de retraso en el incumplimiento de
+la entrega de los bienes, así como por incumplimientos de las demás obligaciones
+contractuales, las que se determinarán por cada día de retardo; las multas se calcularán
+sobre el porcentaje de las obligaciones que se encuentran pendientes de ejecutarse
+conforme lo establecido en el contrato.
+Así también la multa equivalente al 1x1000 por cada día de retraso en el incumplimiento
+de la garantía técnica como también por mantenimientos; los mismos que se contabilizara
+a partir de la primera notificación, las multas se calcularán sobre el porcentaje de las
+obligaciones que se encuentran pendientes de ejecutarse conforme lo establecido en el
+contrato.
+En todos los casos, las multas serán impuestas por el administrador del contrato, o los
+cuales establecerán el incumplimiento, fechas y montos.
+Las multas impuestas al contratista pueden ser impugnadas en sede administrativa, a
+través de los respectivos recursos, o en sede judicial o arbitral
+Multas que se realizan en concordancia al Art.71 de la LOSNCP.
+
+16.- EXPERIENCIA GENERAL Y ESPECÍFICA MÍNIMA:
+EXPERIENCIA GENERAL
+La experiencia General podrá ser acreditada dentro de los últimos quince (15) años
+previos a la publicación del procedimiento de contratación; el oferente deberá
+demostrar la experiencia requerida en uno o varios contratos, actas entrega recepción
+definitiva, certificados otorgados por la Entidad Contratante (desde la máxima
+autoridad o por el administrador del contrato) y factura, en venta de “Materiales de
+impresión”, que sumados representen un monto mínimo de $ 3500,00 dólares, sin
+incluir IVA. El monto mínimo por cada contrato corresponderá a $ 175,00 dólares.
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados
+por el oferente para acreditar la experiencia mínima general o específica requerida,
+sino, al cumplimiento de estas condiciones en relación a los montos mínimos
+requeridos para cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima
+específica, el proveedor cumpliere el monto mínimo solicitado para la experiencia
+mínima general, este contrato o instrumento será considerado como válido para
+acreditar los dos tipos de experiencias.
+
+8/12
+
+NOTA: El número de contratos permitidos es referencial, ya que el proveedor puede
+presentar el número de contratos que considere; siempre y cuando los mismos cumplan
+con el monto mínimo requerido. Este parámetro no es sujeto de descalificación por
+parte de la entidad contratante. En cumplimiento a INSTRUCTIVO EXPERIENCIA
+GENERAL Y ESPECIFICA, dirigido a entidades contratantes y proveedores, del
+Servicio Nacional de Contratación Pública.
+
+EXPERIENCIA ESPECÍFICA
+La Experiencia Específica podrá ser acreditada dentro de los últimos cinco (5) años
+previos a la publicación del procedimiento de contratación; el oferente deberá
+demostrar la experiencia requerida en uno o varios contratos, actas entrega recepción
+definitiva, certificados otorgados por la Entidad Contratante (desde la máxima
+autoridad o por el administrador del contrato) y factura, en venta de “Rollos de papel
+térmico”, que sumados representen un monto mínimo de $ 1.750.00 dólares, sin incluir
+IVA. El monto mínimo por cada contrato corresponderá a $ 87,50 dólares.
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados
+por el oferente para acreditar la experiencia mínima general o específica requerida,
+sino, al cumplimiento de estas condiciones en relación a los montos mínimos
+requeridos para cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima
+específica, el proveedor cumpliere el monto mínimo solicitado para la experiencia
+mínima general, este contrato o instrumento será considerado como válido para
+acreditar los dos tipos de experiencias.
+NOTA: El número de contratos permitidos es referencial, ya que el proveedor puede
+presentar el número de contratos que considere; siempre y cuando los mismos cumplan
+con el monto mínimo requerido. Este parámetro no es sujeto de descalificación por
+parte de la entidad contratante. En cumplimiento a INSTRUCTIVO EXPERIENCIA
+GENERAL Y ESPECIFICA, dirigido a entidades contratantes y proveedores, del
+Servicio Nacional de Contratación Pública.
+
+17.- DOCUMENTOS EXIGIDOS EN FORMA OBLIGATORIA
+a) GARANTÍA DE CALIDAD:
+Deberá especificar validez de la garantía, misma que no podrá ser menor a 12 meses,
+vigencia, a partir de la suscripción del acta entrega recepción del bien, cobertura
+contra defectos de fábrica cumpliendo con las medidas descritas en las
+especificaciones técnicas de rollos de papel térmico y el tiempo de reposición máximo
+de 3 días, completa en su oferta.
+b) SOPORTE TÉCNICO:
+
+9/12
+
+Sin costo para la Entidad respecto a la carga y descarga de los bienes ofertados, se
+efectuará la entrega en las instalaciones de la institución (campamento del G.A.D
+Provincial) ubicado en la Av. Monseñor Emilio Lorenzo Stehle, detrás del Terminal
+Terrestre.
+c) CUMPLIMIENTO DE ESPECIFICACIONES TÉCNICAS
+Los oferentes deberán presentar la ficha técnica del producto, en el cual consten los
+atributos solicitados en las especificaciones técnicas.
+Presentar una muestra de rollo de papel térmico, incluido el eje de acuerdo a las
+especificaciones solicitadas, la impresión puede ser cualquier diseño que permita
+verificar la cuatricromía, así como el gramaje del papel, el tipo de corte, el metraje y
+el diámetro.
+Este rollo también se instalará en las impresoras de las cabinas del peaje para verificar
+que no se atasque durante la impresión y que visualice la impresión realizada.
+Si la muestra cumple con todas las condiciones solicitadas en las especificaciones
+técnicas, se calificará como cumple, caso contrario no cumple.
+d) FORMULARIOS SOLICITADOS POR EL SERCOP:
+FORMULARIOS SOLICITADOS COMO ANEXOS EN EL MFC (Versión
+SERCOP 2.1 del 09 de junio de 2017). - Mismos que corresponden a los modelos
+de formularios 1.1, 1.3 y 1.12 que se solicitan al amparo de las resoluciones
+vigentes y en concordancia al modelo de pliegos de la página institucional del
+SERCOP.
+NOTA: SE DEBERÁ ADJUNTAR CADA CERTIFICADO SOLICITADO EN
+FORMA INDIVIDUAL, CADA UNO SUSCRITO CON LA RESPECTIVA FIRMA
+ELECTRONICA, SEGUN SE SOLICITA EN EL NUMERAL 17 DOCUMENTOS
+EXIGIDOS EN FORMA OBLIGATORIA:
+del presente documento COMO
+REQUISITOS OBLIGATORIOS SU INCUMPLIMIENTO SERÁ MOTIVO DE
+DESCALIFICACION EN EL PRESENTE PROCESO.
+A fin de validar la veracidad de la información constante en las ofertas presentadas, se
+efectuará verificaciones, a través de diversos medios de la información que conforma la
+propuesta. A su vez se verificará que las certificaciones otorgados por la Entidad
+Contratante (desde la máxima autoridad o por el administrador del contrato) que validan
+la Experiencia del Oferente, estos deben contener: Nombre del proyecto, monto
+ejecutado, cantidad de bienes entregados, plazo, números telefónicos y direcciones.
+
+18.- EN CASO DE SER JURÍDICOS CUMPLIR CON EL PATRIMONIO
+La (entidad contratante) verificará que el patrimonio del oferente sea igual o superior a la
+relación que se determine con respecto del presupuesto referencial conforme las
+
+10/12
+
+regulaciones expedidas por el SERCOP.
+Presupuesto Referencial
+Fracción
+Básica
+
+Monto que debe cumplirse de Patrimonio USD
+Patrimonio exigido
+Sobre la fracción básica
+
+Patrimonio exigido sobre el
+Excedente de la fracción básica
+
+BIENES Y/O SERVICIOS
+0
+
+5% sobre el exceso de250.000
+
+Exceso hasta
+
+0
+
+500.000
+
+500.000,01
+
+1´000.000 incluido
+
+15.000
+
+10 %sobre el exceso de la
+fracción básica
+
+1´000.000,01
+
+5´000.000 incluido
+
+75.000
+
+12,5%sobre el exceso de la
+fracción básica
+
+5´000.000,01
+
+10´000.000 incluido
+
+625.000
+
+10´000.000,01
+
+En adelante
+
+1’500.000
+
+15%sobre el exceso de la
+fracción básica
+17,5%sobre el exceso de la
+fracción básica
+
+
+
+Aplicable a personas jurídicas
+
+19.- OBLIGACIONES DEL CONTRATISTA:
+Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano ofertado.
+Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con las
+especificaciones técnicas y condiciones del contrato.
+
+20.- OBLIGACIONES DE LA CONTRATANTE:
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del contrato,
+en un plazo 10 días contados a partir de la petición escrita formulada por el contratista.
+Suscribir las actas de entrega recepción de los productos recibidos, siempre que se haya
+cumplido con lo previsto en la ley para la entrega recepción; y, en general, cumplir con
+las obligaciones derivadas del contrato.
+NOTA: EL CPC 321991317 (BIENES), A SER USADO POR LA ENTIDAD NO INCURRE EN
+REQUERIMIENTOS DE TRANSFERENCIA DE TECNOLOGÍA PARA BIENES IMPORTADOS
+ADQUIRIDOS EN LA CONTRATACIÓN PÚBLICA POR CPC, CONFORME AL ANEXO No. 20 DE LA
+NORMATIVA VIGENTE
+
+ACCIÓN
+
+FUNCIONARIO
+
+FIRMAS
+
+Firmado electrónicamente por:
+
+Elaborado por:
+
+Abg. Johanna Mera
+SUPERVISORA
+
+JOHANNA YADIRA
+MERA ZAMBRANO
+
+11/12
+
+

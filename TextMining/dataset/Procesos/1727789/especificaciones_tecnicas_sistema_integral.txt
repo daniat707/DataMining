@@ -1,0 +1,4678 @@
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICIÓN DE SISTEMA INFORMÁTICO INTEGRADO ADMINISTRATIVOFINANCIERO-CATASTRO PARA LA EMPRESA PUBLICA METROPOLITANA MERCADO
+MAYORISTA DE QUITO”
+Quito, 21 de julio de 2022
+1. ANTECEDENTES. Un sistema integrado de información, permite unificar en un solo sistema de gestión, dos o más
+sistemas, permitiendo a una organización o empresa unificar varias áreas de la misma, logrando
+una reducción de costos, disminución de esfuerzo y maximización de resultados.
+Los sistemas integrados, marcan una nueva tendencia hacia la adquisición de aplicaciones
+estandarizadas en lugar de personalizadas según las necesidades específicas de la institución y
+logran una integración mucho mayor al utilizar una plataforma tecnológica única y concentrar
+toda la información de la empresa en una base de datos compartida por todas las áreas
+organizativas.
+El Mercado Mayorista de Quito EP es una Institución en la que la mayoría de procesos no se
+encuentran automatizados, y en los procesos que se encuentran automatizados se manejan
+varios sistemas para la gestión de la información administrativa como operativa los mismos que
+obsoletos y sin soporte técnico vigente por parte del proveedor, además los procesos de Talento
+Humano, Activos Fijos y Planificación no cuentan con ningún sistema informático y sus
+actividades las realizan manualmente.
+Según el estatuto orgánico de la MMQ-EP, La Jefatura de Desarrollo Tecnológico tiene como
+Misión “Art. 53. - Proveer servicios informáticos y tecnología para el procesamiento de datos y
+acceso a la información, mediante la implantación de una infraestructura tecnológica de punta y
+el suministro de sistemas y aplicaciones para coadyuvar al desarrollo integral de la Empresa”.
+Motivo por el cual, según el Informe Técnico Nro. MMQEP-F-GDO-2022-0005, se hace una
+solicitud por parte de la Jefatura Financiera a la Jefatura de Desarrollo Tecnológico la
+identificación de la necesidad para la “ADQUISICIÓN DE SISTEMA INFORMÁTICO
+INTEGRADO ADMINISTRATIVO-FINANCIERO-CATASTRO PARA LA EMPRESA PUBLICA
+METROPOLITANA MERCADO MAYORISTA DE QUITO”, también las áreas de Catastro,
+Talento Humano según informe técnico Nro. MMQEP-TH-GDO-2022-002 y Activos fijos según
+memorando Nro. MMQEP-A-GDO-2022-008 realizan las solicitudes de necesidad, las mismas
+que son adjuntadas a este documento.
+
+Página 1 de 70
+
+2. BASE LEGAL. –
+Mediante Ordenanza Metropolitana N° 0296, en sesión del 11 de octubre del 2012, el Concejo
+Metropolitano del Distrito Metropolitano de Quito crea la Empresa Pública Metropolitana del
+Mercado Mayorista de Quito, MMQ-EP.
+Se expide “El Estatuto Orgánico de la Empresa Pública Metropolitana del Mercado Mayorista de
+Quito, MMQ-EP” con fecha 22 de mayo del 2013, en tal estatuto se establecen los siguientes
+artículos que son bases para la presente adquisición:
+1) Art. 61.- Misión. - Planificar, operar, administrar y supervisar los procesos de comercialización,
+con la participación de los comerciantes organizados, facilitando un proceso de oferta y demanda
+que beneficie tanto a los comerciantes como a los consumidores. La misión la ejerce el Gerente
+de Operaciones.
+2) Art. 64.- Misión. - Elaborar, administrar y mantener el catastro comercial del MMQ-EP. La
+misión la ejercerá un Especialista de Catastros.
+3) Art. 65.- Atribuciones. - Son atribuciones del Catastro, las siguientes: a) Realizar anualmente
+la constancia física de espacios públicos, bodegas, comerciantes, asociaciones, cooperativas de
+transporte, prestadores de servicio, giros de negocio, asociaciones de venta de alimentos; b)
+Verificar la legalidad de su funcionamiento; c) Mantener un catastro actualizado de espacios
+públicos, bodegas, comerciantes, asociaciones, cooperativas de transporte, prestadores de
+servicio, giros de negocio, asociaciones de venta de alimentos; y d) Informar sobre la legalidad
+y consistencia de las variables.” 4) Art. 66.- Portafolio de Productos a) Catastro de espacios
+públicos, bodegas, comerciantes, asociaciones, cooperativa de transportes, prestadores de
+servicio, giro de negocio, asociaciones de venta de alimentos y; b) Informe de legalidad”
+Reglamento General Sustitutivo para la Administración, Utilización, Manejo y Control de Bienes
+e Inventarios del Sector Público. Art. 30.- Control. - Las adquisiciones y disminuciones de
+inventarios serán controladas y se registrarán observando lo siguiente: a) Los registros serán
+controlados por el departamento encargado de su manejo a través del sistema de inventarios
+permanente o perpetuo, utilizando como método de control el precio promedio ponderado. b) El
+Guardalmacén o quien hiciera sus veces, hará llegar periódicamente al departamento contable,
+la información y documentación relativa al movimiento de ingresos y egresos para la valoración,
+actualización y conciliación respectiva de forma semanal o mensual. c) El Custodio Administrativo
+de cada área llevará una hoja de control por inventarios, en la que constará: identificación y
+descripción de los inventarios, fecha, cantidad, nombre del Usuario Final y firma. Art. 39.Ubicación de los bienes y/o inventarios. - Los bienes y/o inventarios recibidos, aun aquellos que
+por sus características físicas deban ser ubicados directamente en el lugar correspondiente u
+
+Página 2 de 70
+
+otro espacio físico temporal, ingresarán a la bodega u otro espacio de almacenaje temporal que
+se adecué para la vigilancia y seguridad de los bienes antes de su utilización. El Guardalmacén,
+o quien haga sus veces, hará el registro correspondiente en el sistema para el control de bienes,
+con las especificaciones debidas y la información sobre su ubicación y el nombre del Usuario
+Final del bien.
+Recomendaciones de Contraloría a cumplir respecto a los Sistemas Utilizados en la Empresa
+Pública Metropolitana Mercado Mayorista.
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 2:
+“Dispondrá y supervisará que el Jefe de Desarrollo Tecnológico, realice en el módulo de catastro
+y recaudación del sistema informático, la parametrización de la identificación de local esto es
+nomenclatura, número de local y ubicación a la que pertenece; el área, los valores por metro
+cuadrado, los números de cédula y/o RUC validados; y, las condicionantes que permita a los
+usuarios del sistema; activar a los comerciantes que ocupan el espacio en la entidad e inactivar
+a quienes ya no hacen uso del mismo, obtener el valor del canon de arrendamiento real de
+acuerdo a los metrajes actualizados; y, generar la facturación sobre la base de los arrendatarios
+registrados, con el fin de que la información del catastro y la facturación sea consistente, integra,
+confiable y no exista duplicidad en las transacciones.”
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 9:
+Dispondrá y supervisará que el Gerente de Desarrollo Organizacional conjuntamente con la
+Tesorera, Recaudadora y el Asesor Jurídico ejecuten los procedimientos y las acciones legales
+para recuperar la cartera vencida y se registren contablemente los valores recuperados, que
+permita conciliar los datos reportados en el módulo de recaudación y contabilidad, a fin de
+generar los mayores auxiliares por cada comerciante, lo que permitirá disponer de la información
+oportuna, veraz y confiable, se sugiere que esta información sea emitida directamente del
+sistema y se evite realizarlo manualmente, se considerará las notificaciones automatizadas.
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 13:
+Dispondrá y supervisará al Jefe de Desarrollo Tecnológico que solicite a los proveedores del
+sistema Olympo incorporen y parametricen accesos, permisos y seguridades en la emisión
+secuencial de las facturas, notas de débito, notas de crédito, recibos de cobros y cierres de caja,
+a fin que no se utilicen ni se anule de estos documentos en fechas posteriores a su emisión
+original.
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 17:
+
+Página 3 de 70
+
+Implementará controles electrónicos y de validación para que no se generen saltos de secuencia
+tanto en facturación como notas de débito, recibos de cobro y cierres de caja, especialmente en
+el cuadre de la misma debido a fallas del sistema informático con la finalidad de que se procesen
+únicamente documentos cuyas fechas de emisión guarden relación con sus números de
+secuencia y que se implemente mantenimientos periódicos al sistema con el fin de evitar
+reprocesos o facturación manual.
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 18:
+Realizará una depuración integral, revisión del perfil asignado y permisos otorgados de los
+usuarios existentes, firmarán un acuerdo de confidencialidad, se implementará una política de
+renovación de claves en forma periódica; se deshabilitará a todos los usuarios que fueron
+desvinculados de la entidad; y, reportará a su inmediato superior en forma trimestral las acciones
+de gestión de usuarios ejecutadas, a fin de asegurar el buen uso del sistema y consecuentemente
+disponer de información integra y confiable, al igual que crear perfiles de acuerdo al cargo ya que
+el módulo de Tesorería no consta en el sistema.
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 23:
+Realizará en el sistema informático el registro permanente por auxiliares individualizados o por
+grupos, de los bienes, productos e insumo adquiridos debiendo verificar las característica,
+especificaciones y valores conforme al contrato, acta entrega recepción y facturas, generando
+los ingresos y los egresos de bodega con las actas de entrega a los usuarios finales, con el fin
+de que se mantenga un control y reportes actualizados de los bienes o productos entregados
+utilizados.
+Las Normas de Contraloría General del Estado disponen a la Jefatura Financiera:
+403-02 Constancia documental de la recaudación
+El Ministerio de Finanzas y toda entidad, organismo del sector público y persona jurídica de
+derecho privado que disponga de recursos públicos que recaude o reciba recursos financieros,
+en concepto de ingresos, consignaciones, depósitos y otros conceptos por los que el Estado sea
+responsable, otorgarán un comprobante de ingreso pre impreso y pre numerado. Por cada
+recaudación que realice una entidad u organismo del sector público, por cualquier concepto, se
+entregará al usuario el original del comprobante de ingreso pre impreso y pre numerado o una
+especie valorada; estos documentos cumplirán con los requisitos establecidos por el organismo
+rector en materia tributaria y respaldarán las transacciones realizadas, permitiendo el control
+sobre los recursos que ingresan al Tesoro Nacional. Diariamente se preparará, a modo de
+resumen, el reporte de los valores recaudados. Ninguna institución por ningún concepto, podrá
+
+Página 4 de 70
+
+cobrar tasa y/o tarifa alguna por la venta de bienes y servicios, sin que medie la comercialización
+de especies valoradas, factura, nota de venta y otros documentos autorizados por el organismo
+rector en materia tributaria. Las entidades públicas mantendrán un control interno estricto y
+permanente del uso y destino de los formularios para recaudación de recursos.
+En caso de especies valoradas o títulos de crédito, sus movimientos se justificarán
+documentadamente mediante controles administrativos.
+405-02 Organización del sistema de Contabilidad Gubernamental El sistema de contabilidad de
+las entidades públicas se sustentará en la normativa vigente para la contabilidad gubernamental
+y comprende, entre otros, la planificación y organización contables, objetivos, procedimientos,
+registros, reportes, estados financieros y demás información gerencial y los archivos de la
+documentación que sustentan las operaciones.
+El ente financiero del gobierno central y las demás entidades del sector público son responsables
+de establecer y mantener su sistema de contabilidad dentro de los parámetros señalados por las
+disposiciones legales pertinentes, el cual debe diseñarse para satisfacer las necesidades de
+información financiera de los distintos niveles de administración, así como proporcionar en forma
+oportuna, los reportes y estados financieros que se requieran para tomar decisiones sustentadas
+en el conocimiento real de sus operaciones.
+La eficiencia de la organización contable constituye un elemento de control interno, orientado a
+que:
+
+
+Las operaciones se efectúen de acuerdo con la organización establecida en la
+entidad.
+
+
+
+Las operaciones se contabilicen por el importe correcto en las cuentas apropiadas y
+en el período correspondiente.
+
+
+
+Se mantenga el control de los bienes de larga duración y de aquellos sujetos a control
+administrativo para su correspondiente registro y salvaguarda.
+
+
+
+Se conserve en forma actualizada el inventario de existencias.
+
+
+
+La información financiera se prepare de acuerdo con las políticas y prácticas
+contables determinadas por la profesión.
+
+
+
+Se produzcan los reportes y estados financieros requeridos por las regulaciones
+legales y por las necesidades gerenciales.
+
+Página 5 de 70
+
+405-03 Integración contable de las operaciones financieras La contabilidad constituirá una base
+de datos financieros actualizada y confiable para múltiples usuarios. La función de la contabilidad
+es proporcionar información financiera válida, confiable y oportuna, para la toma de decisiones
+de las servidoras y servidores que administran fondos públicos. La contabilidad es el elemento
+central del proceso financiero, porque integra y coordina las acciones que deben cumplir las
+unidades que integran el Sistema de Administración Financiera, ya que reciben las entradas de
+las transacciones de los subsistemas de presupuesto, contabilidad gubernamental, tesorería,
+nómina, control físico de bienes, deuda pública y convenios, los clasifica, sistematiza y ordena,
+conforme a los principios y normas técnicas que posibilitan el registro y control de los recursos
+públicos, permitiendo la producción de información financiera actualizada y confiable, para uso
+interno y externo. En cada unidad de contabilidad se reflejará la integración contable y
+presupuestaria de sus operaciones respecto del movimiento de fondos, bienes y otros.
+Con base a las recomendaciones de Contraloría, así como a su Normativa, e informes de
+necesidad de las áreas Financiera, Talento Humano, Activos Fijos y Catastro previamente
+citadas me permito señalar la necesidad de contar un sistema integral Administrativo-FinancieroCatastro requerido para la Empresa Pública Metropolitana Mercado Mayorista de Quito.
+
+3. OBJETIVOS. Objetivo General:
+Adquisición de un sistema informático integrado administrativo-financiero-catastro para la
+empresa pública metropolitano mercado mayorista de quito.
+Objetivos Específicos:
+
+
+Implementar el sistema de gestión administrativa-financiera-catastro logrando contar
+con un solo sistema de información, para agilizar los procesos, reducir costos y
+maximizar resultados.
+
+
+
+Mejorar el tiempo de respuesta de los diferentes sistemas del MMQEP.
+
+
+
+Facilitar las integraciones de nuevos sistemas implementados en el Mercado
+Mayorista de Quito EP.
+
+
+
+Reducir tiempos de gestión y costes de mantenimiento del sistema.
+
+
+
+Disponer de un sistema web que ingrese a los módulos en base al perfil asignado
+
+Página 6 de 70
+
+
+
+Evitar los sistemas cliente servidor, los cuales requieren de la instalación del
+aplicativo en cada computador y diferentes permisos de acuerdo al usuario.
+
+4. JUSTIFICACION. Las áreas en las que basa su gestión el MMQ-EP son: Gerencia Operativa (GO), Gerencia de
+Desarrollo Organizacional (GDO). La GDO en su Jefatura Financiera tiene en producción
+herramientas informáticas como Olympo V7 para la parte de facturación y recaudación, la cual
+al momento no cuenta con soporte técnico ya que la versión es obsoleta como lo determina el
+proveedor, Sistema SIG-AME para la parte contable el mismo que pertenece a la Asociación de
+manucipalidades del Ecuador (AME) la cual es software propietario y no se cuenta con un soporte
+técnico adecuado, unidades de Talento Humano y Activos Fijos (Bienes) no cuentan con un
+sistema informático y realizan sus actividades de forma manual, sin embargo, por la mejora
+continua en la que se encuentra inmerso el MMQEP demanda de soluciones ágiles y
+concentradas, que se ajusten a los nuevos requerimientos de la institución.
+Al momento el enfoque se encuentra en la Gerencia de Desarrollo Organizacional y en la
+Gerencia Operativa, con el objetivo no solo integrar los diferentes procesos en uno solo, sino
+también poder contar con un módulo para talento humano, Activos fijos (bienes y existencias),
+un módulo de catastro que se debe integrar al módulo financiero, integración con el biométrico,
+contar con un bitácora del personal donde se pueda contar con sus permisos, vacaciones,
+contratos, comisión de servicios, disponer de la hoja de vida del empleado, la utilización de la
+firma electrónica en los diferentes procesos. Esto permitirá racionalizar esfuerzo, recursos y
+costos destinados a la optimización de la gestión del MMQEP asegurando la calidad de cada uno
+de los procesos de las diferentes áreas. Es crucial que todos dentro de la institución trabajen con
+la misma información, y en la parte técnica se maneje una sola base de datos compartida,
+permitiendo un eficaz y eficiente mantenimiento del sistema.
+La información en el Sistema Integral en el módulo de Catastro, debe ser estructurado sobre una
+base de datos y presentarse de manera sencilla a través de una plataforma para acceso de los
+diferentes niveles de usuarios, con el objeto de contribuir a un catastro integrado con diferentes
+usos como: planificar, ejecutar, operar, administrar y supervisar los procesos de comercialización
+en el MMQ EP.
+Además, se debe considerar el Código Orgánico de la Economía Social de los Conocimientos,
+Creatividad e Innovación que dice en el Artículo 145.- Migración a software de fuente abierta. Las Instituciones del sector público deberán realizar una evaluación de factibilidad de migrar sus
+tecnologías digitales a tecnologías digitales libres con los criterios establecidos en el reglamento
+
+Página 7 de 70
+
+correspondiente. Se evaluará la criticidad del software, debiendo considerar los siguientes
+criterios:
+1. Sostenibilidad de la solución;
+2. Costo de oportunidad;
+3. Estándares de seguridad;
+4. Capacidad técnica que brinde el soporte necesario para el uso del software.
+Art. 148.- Prelación en la adquisición de software por parte del sector público. - Para la
+contratación pública relacionada a software, las entidades contratantes del sector público
+deberán seguir el siguiente orden de prelación:
+1. Software de código abierto que incluya servicios de desarrollo de código fuente,
+parametrización o implementación con un importante componente de valor agregado
+ecuatoriano;
+Por lo que existen aún sistemas en la institución de código cerrado que necesitan de
+licenciamiento tanto para el motor de base de datos como para el desarrollo de software. En
+nuestro caso puntual el actual sistema es de código cerrado y propietario por lo que se depende
+de un tercero para actualizaciones, mejoras o desarrollos. Con la implementación del sistema
+integral se estaría aplicando el Código Orgánico de la Economía Social de los Conocimientos,
+Creatividad e Innovación, antes mencionado en sus artículos más importantes. Al tener el código
+fuente del software de código abierto y los derechos del sistema de información a nombre del
+MMQEP la institución se encuentra facultada para ejecutar el software conforme a los propósitos
+institucionales, libertad para modificarlo y adaptarlo a nuestras necesidades cuando sus
+intereses lo requieran sin necesitar autorización o pago de licencias de uso.
+
+5. ALCANCE. La Empresa Publica Metropolitana Mercado Mayorista de Quito está en la obligación de brindar
+servicios de calidad a sus usuarios; por lo que la “ADQUISICIÓN DE SISTEMA INFORMÁTICO
+INTEGRADO ADMINISTRATIVO-FINANCIERO-CATASTRO PARA LA EMPRESA PUBLICA
+METROPOLITANA MERCADO MAYORISTA DE QUITO” servirá para mejorar la calidad de los
+servicios internos y externos, integración de datos, atención al contribuyente, obtener información
+rápida y confiable de sus usuarios además de proyectar una institución renovada.
+Este proyecto es esencial para el desarrollo del Mercado Mayorista de Quito EP, ya que no
+
+Página 8 de 70
+
+cuenta con sistemas informáticos que permita a los usuarios internos y externos realizar trámites
+en línea; es necesario indicar que la institución cuenta con sistemas y base de Datos obsoletas,
+esto ha motivado a las autoridades a revertir esta situación y apoyar el cambio tecnológico para
+el bienestar y calidad de servicios que debe brindar el MMQEP, a sus usuarios.
+Este proyecto debe tener un valor agregado ecuatoriano (VAE) mayor o igual 60% a partir del
+análisis de participación total de los autores desarrolladores, programadores y personal técnico
+ecuatoriano; en lo que se refiere a la base de datos y programas de desarrollo de ser de código
+abierto sin costo de licencia de uso.
+El proyecto contempla:
+
+
+Desarrollo. - Implementación de los módulos de Financiero, Talento Humano,
+Nomina, Activos Fijos, Catastro predial del mercado alfanumérico y gráfico,
+contribución especial de mejoras, módulo de planificación, servicios básicos, rentas,
+recaudación unificado publicación de resultados al ciudadano.
+
+
+
+Pruebas. - pruebas de funcionamiento de los módulos desarrollados.
+
+
+
+Instalación. - En coordinación con el personal de Tics del MMQ-EP.
+
+
+
+Capacitación Informática. - Para la instalación y configuración del sistema
+informático (Base de Datos, Aplicativo, Configuración en Red) y Respaldos de la
+Base de Datos y demás. Se incluirá además capacitación dedicada en cartografía y
+operaciones gráficas prediales al personal técnico de la Jefatura de Catastro.
+
+
+
+Capacitación Técnica. - Parametrización y configuración del sistema informático,
+registro y procesos de control integral de los componentes, administración en la
+creación de usuarios, administración de todos sus módulos, etc.
+
+
+
+Migración. - Migración de la información de los sistemas actuales de ser posible,
+migración del catastro urbano, rural y títulos de crédito desde las bases de datos
+actuales.
+
+
+
+Soporte. - Actualizaciones periódicas de software que sean vigentes con
+instituciones públicas y soporte técnico de acuerdo a las ordenanzas, Leyes y
+Acuerdos a fines, por parte de la empresa adjudicada durante 1 año, por ejemplo,
+actualizaciones del SRI, BANCO CENTRAL, MINISTERIO DE TRABAJO y más, sin
+costo alguno.
+
+
+
+Capacitación. - Se establecerá un cronograma de capacitación funcional y técnica
+
+Página 9 de 70
+
+con un periodo no menor a 30 horas.
+
+
+Entregables de los módulos. - Manuales de usuario (de Instalación y
+Configuración, que incluirá prerrequisitos, instalación del Backend y FrontEnd,
+entiéndase motor de base de datos y aplicativos, y el proceso de interconexión; de
+Uso del Sistema dividido por módulos y procesos; Manual técnico del sistema:
+Diagramas de Procesos, Base de datos, Diagrama E/R, Código Fuente,
+Configuración Personalizada Inicial de Datos); Instaladores y herramientas de
+aplicación. Entregables del módulo que incluya manuales de: Usuario, Diccionario
+de Datos, Manual Técnico. Capacitación del sistema.
+
+6. METODOLOGÍA DE TRABAJO. –
+La metodología de trabajo deberá contemplar las fases y actividades descritas a continuación:
+
+
+Fase1: Inicio del proyecto
+El objetivo principal es asegurar que se divulgue, revise y explique a los funcionarios y nivel
+directivo el alcance del sistema y su respectiva funcionalidad, así como dar a conocer el plan
+de trabajo y cronograma del proyecto por parte del proveedor. Por otro lado, se asigna
+formalmente roles y funciones que deberán asumir los funcionarios de la MMQEP; el
+proveedor deberá preparar el ambiente de trabajo (HW, SW, Ambientes de prueba,
+documentación entre otros).
+
+
+
+Fase2: Análisis funcional y diseño del sistema integral de gestión.
+Comprende la revisión de la información que complementa y detalla los procesos
+empresariales de la MMQEP a nivel de flujo de información y datos, obteniendo como
+resultado el detalle de la funcionalidad requerida en el sistema, según el alcance establecido
+y el posterior diseño del sistema a implementar; al menos se deben realizar las siguientes
+actividades:
+1.
+
+Recolección de requerimientos
+
+2.
+
+Análisis de requerimientos e identificación de las reglas de negocio
+
+3.
+
+Diagramas de interacciones, colaboraciones y flujo de datos
+
+Página 10 de 70
+
+4.
+
+Descripción de interfaces de usuario
+
+5.
+
+Detallar el análisis y el proceso de migración de datos (Extracción de datos,
+
+Proceso de calidad, reglas de negocio, carga de datos).
+6.
+
+Análisis de riesgos
+
+Se deberá definir el diseño del modelo de datos, arquitectura tecnológica, interfaces de
+usuarios y procedimientos.
+
+
+
+Fase3: Desarrollo y pruebas
+Es en esta etapa donde se realiza la construcción y programación del sistema, deberá
+trasladar las especificaciones de la fase anterior a código fuente ejecutable, cumpliendo con
+los requerimientos del negocio, especificaciones técnicas e implementación de las interfaces
+requeridas compatibles con las plataformas tecnológicas existentes.
+El sistema deberá cumplir con la arquitectura de referencia que sea establecida, tanto para
+aplicativos como para el desarrollo de bases de datos, mecanismos de arquitectura,
+estándares y mejoras prácticas de desarrollo definidas en la institución.
+En caso de que el proveedor recomiende variaciones en la arquitectura de referencia e
+integración de nuevos mecanismos de arquitectura que agreguen valor tecnológico a las
+soluciones informáticas desarrolladas para la MMQEP, estos serán evaluados para ser
+incluidos como parte del estándar, luego de su aprobación formal.
+En la etapa de pruebas dará inicio luego de que las diferentes unidades de diseño fueron
+desarrolladas y probadas en forma separada, el sistema se empleará de manera
+experimental para asegurarse que el software no falle y funcione según las especificaciones,
+se deberá detectar y levantar todas las anomalías que se pudieran presentar.
+Para evaluar el desenvolvimiento del sistema, se llevarán a cabo niveles de prueba:
+
+
+Funcional: según los requerimientos funcionales
+
+
+
+De sistema: según los niveles de calidad de sistema y desempeño
+
+
+
+De integración: de acuerdo a las interfaces
+
+Página 11 de 70
+
+
+
+De Carga y stress: para determinar y validar la respuesta de la aplicación cuando es
+sometida a una carga de usuarios y/o transacciones que se espera en el ambiente de
+producción
+
+
+
+De aceptación técnica: manejando condiciones extremas
+
+El producto final desplegado en producción se considerará estable si el 99.98% de las
+transacciones son ejecutadas sin defectos o errores.
+o
+
+Implementación en integración del sistema: comprende sucesivas pruebas de las
+funcionalidades del nuevo sistema de gestión administrativa – financiera - catastro.
+Igualmente, importante es la correcta implementación del mismo, enfatizando en el
+adecuado manejo de la transición sin sobresaltos o migración al nuevo sistema de
+gestión.
+Es importante mencionar que la implementación debe considerar un enfoque
+modular, es decir primero se probará la funcionalidad de los módulos de
+Configuración General. Posteriormente la integración de todos los módulos.
+
+o
+
+Puesta en marcha y capacitación: comprende el desarrollo de pruebas integrales
+y eventualmente algunos flujos de información específicos, así como el control de la
+ejecución de cambios. Considera la ejecución de un piloto considerando un número
+limitado de transacciones a fin de validar la funcionalidad implementada. Así también
+considera especial atención en las interfaces entre los módulos, etc.
+La capacitación estará dividida en dos tipos:
+
+o
+
+Capacitación técnica: el proveedor brindará la capacitación técnica al personal
+tecnológico donde se explicará sobre todos los detalles técnicos y se brindará
+manuales técnicos del sistema.
+
+o
+
+Capacitación a usuario final: el proveedor brindará capacitación al usuario operativo,
+para ello el proveedor proveerá los manuales de usuario final.
+
+
+
+Fase4: Cierre de proyecto e inicio de soporte post-implementación
+
+Si existirán errores en el producto entregado en la puesta en marcha, el proveedor solucionará
+el inconveniente sin que esto incurra en un costo adicional a la MMQEP.
+
+Página 12 de 70
+
+o
+
+Los entregables y documentación de respaldo deberán ser validados y suscritos por el
+Gerente de Proyectos o líder funcional designado.
+
+o
+
+Cada fase finalizada será evaluada por un comité multidisciplinario acorde a los módulos a
+evaluar, adicionalmente este comité siempre deberá contar con delegado de la unidad
+financiera, administrativa, catastro y de tecnología como miembros base del comité, esta
+evaluación se la realizara en un plazo no mayor a 5 días laborables, las observaciones
+presentadas deberán ser solucionadas sin afectar la continuidad del cronograma en un plazo
+no mayor a 5 días laborables o según lo determine el equipo conformado para el efecto.
+
+o
+
+La transferencia de conocimientos, asesoría técnica y supervisión especializada, deberán
+efectuarse necesaria y exclusivamente con presencia física del personal técnico y
+acompañado de un representante funcional de cada módulo asignado por la institución
+municipal. Debe incluir certificación técnica, por módulo, emitida al personal técnico y
+acompañante, que les permita a estos dar las soluciones tanto operativas como tecnológicas
+del mismo. Si los técnicos designados por la institución no cumplieran con el plan de
+capacitación o la aprobación del mismo, el oferente adjudicado no estará obligado a emitir la
+certificación.
+
+o
+
+El soporte Técnico deberá ser de 2 año a partir del acta entrega recepción definitiva sin costo
+adicional en lo que respecta al manejo del sistema y errores que este genere, para lo cual el
+proveedor deberá otorgarnos la solución inmediata ya sea por cualquier medio tecnológico
+(zoom, teamviewer, anydesk, teams), línea telefónica o presencial en un rango de tiempo de
+2 hasta 24 horas, siendo 24 como máximo en el tiempo que se demoren en brindar la
+solución al soporte requerido. Teniendo de esta manera la obligación del proveedor una vez
+culminado la implementación dejar sus contactos, dirección y correo para el soporte
+requerido.
+
+o
+
+Previa puesta en producción se deben realizar pruebas en paralelo (procesos claves) cuando
+aplique, su duración dependerá del impacto del proceso en la operación del MMQ-EP, en las
+pruebas deben participar personal de la Jefatura de Desarrollo Tecnológico conjuntamente
+con delegado afín del área dueña del proceso.
+
+o
+
+Entregar toda la documentación digital relevante al proyecto al igual que los videos tutoriales
+de los procesos con respectiva explicación.
+
+o
+
+Se deberá ocupar la metodología ágil SCRUM para la ejecución del proyecto.
+
+Página 13 de 70
+
+7. INFORMACIÓN QUE DISPONE LA ENTIDAD. o
+
+Características de los diferentes módulos de las herramientas informáticas existentes.
+
+o
+
+Know-How de los procesos de las diferentes áreas a integrar.
+
+o
+
+Ordenanzas competencias, tributarias y no tributarias.
+
+o
+
+Títulos de Crédito emitidos y pendientes de cobro.
+
+o
+
+Catastro del mercado.
+
+o
+
+Estatuto Orgánico MMQ-EP
+
+o
+
+Información (Base de Datos) de Sistemas que actualmente se utilizan.
+
+8. PRODUCTOS ESPERADOS O SERVICIOS. La solución propuesta debe estar orientada a largo plazo para el MMQEP, con el fin de que
+obtenga una constante agilidad en la definición de nuevos procesos y el uso de la infraestructura
+tecnológica.
+La contratista presentará un informe de la concurrencia en línea de al menos 100 usuarios sin
+afectar el óptimo funcionamiento del sistema en el que se indicará el ancho de banda mínimo a
+ser usado y especificaciones técnicas que se requiere para la implementación tanto insitu como
+en la nube.
+Las pruebas técnicas previa a la implantación serán en coordinación con el personal de las
+diferentes áreas involucradas destinadas para este proyecto en un ambiente controlado.
+La aplicación deberá obedecer a los procedimientos establecidos revisados y aprobados que son
+utilizados en las diferentes áreas del MMQEP (Administrativa Financiera, Planificación, Talento
+Humano, Catastro).
+La migración de datos se realizará en lo posible de todos los sistemas que tiene actualmente el
+MMQEP y que están dentro de la Implementación del sistema de información.
+Para la migración el MMQEP enviara la información en el formato Excel remitido al oferente.
+Se ha considerado que como parte de los Especificaciones Técnicas la Ingeniería del Sistema
+Integrado, el cual contiene los siguientes Requerimientos Funcionales y No Funcionales:
+
+8.1 MÓDULO FINANCIERO
+8.1.1.
+
+PRESUPUESTO
+
+Página 14 de 70
+
+Características:
+El sistema debe contemplar que el inicio de todo el proceso financiero es la planificación
+estratégica, concretándose en la planificación operativa institucional, en la cual se deben incluir
+los proyectos que cada uno de los departamentos desarrollan dentro de sus funciones.
+El módulo de Planificación y presupuesto debe incorporar a las etapas de Planificación Operativa
+y presupuesto con la vinculación natural de la Planificación Estratégica y respetando las
+funciones que se determinan para la empresa.
+El presupuesto debe ser una consecuencia natural de la planificación y debe contemplar sus
+diferentes etapas como son la Programación, Formulación, Aprobación, Ejecución, Reformas,
+Evaluación, Seguimiento y Liquidación, en donde su vinculación con los diferentes procesos está
+dada de acuerdo a las siguientes etapas:
+Programación presupuestaria
+
+
+Formulación y Proforma Presupuestaria con la Planificación Operativa Anual POA por
+Proyectos, Programas, Producto y Actividad.
+
+
+
+Emisión de Disponibilidades Presupuestarias
+
+
+
+Emisión de Certificaciones Presupuestarias.
+
+
+
+Liquidaciones Parciales o Restitución de Certificaciones Presupuestarias Parciales.
+
+
+
+Registro de Reformas Presupuestarias
+
+
+
+Emisión de Cédulas Presupuestarias por Programa, Proyecto, Producto o Actividad, al
+detalle (Presupuesto Inicial, Reformas, Codificado, Comprometido, Devengado,
+Ejecutado, Saldo por Ejecutar, Saldo por Comprometer, Saldo por devengar y
+porcentajes de Ejecución).
+
+
+
+Emisión de ejecución presupuestaria en formato Mi Ciudad.
+
+
+
+Informes de Ejecución Presupuestaria de Ingresos.
+
+
+
+Informes de Ejecución Presupuestaria de Egresos.
+
+
+
+Ejecución del Presupuesto con la Contabilidad y Tesorería.
+
+
+
+Reformas al Presupuesto con su respectiva reforma a la Planificación Operativa.
+
+
+
+Liquidación del Presupuesto con la Contabilidad y Tesorería.
+
+El módulo de presupuestos estará vinculado de manera directa con contabilidad; es decir, dentro
+de cada transacción contable se pueda registrar y visualizar la ejecución presupuestaria. El
+módulo estará parametrizado con las directrices técnicas del Ministerio de Finanzas. (Normativa,
+Techos, Ejecución).
+Cada uno de las programaciones presupuestarias anteriormente descritas debe llevar el
+
+Página 15 de 70
+
+respectivo control de sus transacciones durante la ejecución presupuestaria institucional.
+La estructura de la clave presupuestaria que hace operativo el presupuesto, debe ser flexible
+y estructurada, con la particularidad de permitir un cambio anual en función de las disposiciones
+que los órganos de control (Ministerio de finanzas, SENPLADES, Directorio de la empresa.)
+determinen sobre este tema, o que permita incluir las necesidades institucionales que sobre la
+materia sean requeridas, manejando criterios independientes para el Ingreso y para el Gasto.
+
+Submódulo de Mantenimiento:
+
+
+
+Clasificadores presupuestarios en forma de árbol definiendo su naturaleza (ingreso o gasto).
+
+
+
+Definición de proyectos, en varios niveles de agrupación (Proyecto, Programa, Subactividad,
+Actividad, Partida), posibilitando el registro del porcentaje de avance y las fechas de inicio y
+finalización de cada producto.
+
+Submódulo de Transacciones:
+
+
+
+Posibilidad de incorporar la asignación inicial desde archivos con formato definido. (No
+existen asientos contables en la asignación inicial de presupuestos)
+
+
+
+Cuadre por fuente de financiamiento y cierre de la asignación inicial.
+
+
+
+Reformas presupuestarias por: incrementos, decrementos y traslados.
+
+
+
+Certificaciones Presupuestarias, controlando los saldos disponibles en cada proyecto y
+partida respectiva. El saldo que se considera es la Asignación Inicial ± Reformas –
+Certificaciones Anteriores – Compromisos Presupuestarios
+
+
+
+Permitir el registro de una dirección operativa de la empresa la cual solicita la certificación.
+
+
+
+Compromisos Presupuestarios, permitiendo registrar el compromiso a uno o varios
+proveedores (fondo rotativo, caja chica), eligiendo solo de las certificaciones anteriormente
+generadas.
+
+
+
+Generación automática de certificaciones y compromisos presupuestarios de roles y
+provisiones sociales.
+
+Página 16 de 70
+
+
+
+El sistema debe permitir firmar electrónicamente utilizando el tipo de firma como mínimo
+archivo.
+
+Submódulo de Reportes:
+
+
+Asignaciones.
+
+
+
+Reformas.
+
+
+
+Certificaciones.
+
+
+
+Compromisos.
+
+
+
+Cedulas Presupuestarias (a diferentes niveles de consolidación)
+
+
+
+Ejecución Presupuestarias (Ingresos y Egresos).
+
+
+
+Emisión de ejecución presupuestaria en formato Mi Ciudad.
+
+
+
+POA.
+
+
+
+Presupuesto comparativo trimestral.
+
+
+
+Presupuesto comparativo anual.
+
+
+
+Partidas por mes.
+
+
+
+Flujo de caja.
+
+
+
+Generación de archivos para ESIGEF (cedula de ingresos y gastos, presupuesto inicial).
+
+8.1.2.
+
+TESORERIA
+
+Características:
+
+
+El módulo de Tesorería debe ser diseñado con el propósito de facilitar el trabajo a los
+responsables del mismo, con la finalidad que cumplan eficientemente las funciones de
+programación de caja, percepción de los recursos, realización efectiva de los pagos,
+disponibilidades y control de los saldos disponibles.
+
+
+
+La facturación correspondiente al servicio de autoparking deben ser emitidas de manera
+
+Página 17 de 70
+
+individual por cada transacción realizada, y el sistema enviará a autorizar electrónicamente
+de manera sincrónica y automática al ente de Control Servicio de Rentas Internas.
+
+
+Una vez emitida la factura, el sistema no debe permitir anular o modificar a ningún funcionario
+este documento. En el caso de requerir anulación o modificación debe generar una Nota de
+Crédito la cual debe ser aprobada y autorizada por el Tesorero.
+
+
+
+La facturación correspondiente al servicio de arrendamiento debe estar relacionada de
+manera directa con el módulo de catastros y generará en bloque de manera automática la
+facturación mensual, estos documentos serán autorizados por el Servicio de Rentas Internas
+de manera sincrónica a su emisión.
+
+
+
+Las facturas por arrendamiento deben reflejar al detalle los datos del arrendatario
+(Identificación del comerciante, Identificación del local y datos relevantes del contrato de
+arriendo), estos documentos deben enviarse de manera automática a los correos
+electrónicos que constan en la base de datos de los arrendatarios.
+
+
+
+Todos los movimientos generados dentro del módulo de tesorería (Facturas, Notas de
+Crédito, Notas de Débito, Convenios de Cobro, Abonos, Cobros, entre otros), deben estar
+atados directamente con el módulo de contabilidad y de manera automática cada movimiento
+tendrá una transacción contable, ocupando de manera correcta las cuentas contables.
+
+
+
+Al final de cada cierre de caja se deberá emitir automáticamente un reporte de facturas
+autorizadas por el Servicio de Rentas Internas, mismo que debe cuadrar con las facturas
+emitidas. De existir novedad sobre autorización, el sistema permitirá solventar los errores y
+solicitará una nueva autorización hasta 24 horas después de su emisión.
+
+
+
+El arqueo de caja debe ser emitido diariamente, por turno de caja y este no debe ser editable,
+la persona encargada de realizar este proceso es el Recaudador por supervisión del
+Tesorero. Adicionalmente, como medida de control interno el cajero no debe tener acceso a
+este cierre de caja. Los reportes de cierre deben ser generados por el Recaudador.
+
+
+
+El registro de intereses para la emisión de notas de débito, debe ser automático por parte
+del sistema. Se debe parametrizar de manera automática para que hasta el 11 de cada mes
+se actualice la tasa de interés según la Tasa Activa Referencial, que emite el Banco Central
+del Ecuador de manera mensual.
+
+
+
+El sistema permitirá generar y registrar convenios de cobro.
+
+
+
+Los Catastros deben estar atados directamente al sistema Financiero, para validar la correcta
+aplicación de la facturación, y ser activado cuando un espacio haya sido rentado, y se
+desactive el cobro una vez que el Contrato haya sido terminado automáticamente.
+
+
+
+Para el manejo de tarjetas, deben estar habilitadas directamente por el área de tecnología
+en el caso de estar caducadas o presenten irregularidades se debe desactivar
+automáticamente y el sistema debe generar un reporte semanal con el seguimiento de las
+tarjetas.
+
+Página 18 de 70
+
+Bancos:
+
+
+Dentro del módulo de tesorería se contará con el sub módulo de bancos, que estará integrado
+a contabilidad, y para todos los pagos permitirá generar de manera automática los archivos
+SPI en los formatos requeridos por el banco central.
+
+
+
+El Submódulo bancos permitirá realizar conciliaciones bancarias de manera mensual y
+emitirá los reportes de conciliación correspondientes.
+Retenciones:
+
+
+
+Dentro del módulo de tesorería se contará con el Submódulo de retenciones, que permitirá
+generar de manera automática y electrónica los comprobantes de retención por cada
+comprobante de compra registrado. El módulo permitirá configurar la retención de tributos
+acorde a la normativa tributaria vigente.
+Cartera:
+
+
+
+El Submódulo de cartera permitirá manejar de manera integral los saldos adeudados por los
+clientes, generando reportes de cartera dinámicos y al detalle.
+
+
+
+La cartera debe tener relación directa con contabilidad, por tal motivo el saldo abierto de
+cartera cuadrará en todo momento con los saldos contables.
+
+Submódulo de Mantenimiento:
+
+
+
+Definición de los bancos con que trabaja la institución.
+
+
+
+Especificación de los movimientos a utilizarse en tesorería.
+
+
+
+Registro de clientes que permitan registrar los ingresos de las empresas.
+
+
+
+Recaudación
+
+
+
+Facturación Electrónica (SPPAT, MSP, IESS)
+
+Sub Módulo de Transacciones:
+
+
+
+Egresos por anticipos de proveedores (previamente registrados sus garantías).
+
+
+
+Egresos por pago de obligaciones, considerando la posibilidad de pagar una o varias facturas
+en un mismo comprobante de egreso.
+
+Página 19 de 70
+
+
+
+Egresos de Fondo Rotativo (reembolso a nombre del empleado responsable).
+
+
+
+Egresos por Anticipos de empleados (una vez aprobados por la autoridad respectiva).
+
+
+
+Egresos por Roles de pago, identificando los desembolsos por cada empleado.
+
+
+
+Egresos por pago de Décimos (Tercero y Cuarto).
+
+
+
+Egresos para el pago de aportes, prestamos al IESS.
+
+
+
+Ingresos Operativos de Clientes con afectación presupuestaria y contable.
+
+
+
+Ingresos (pre cancelación) por abonos de anticipos de empleados.
+
+
+
+Movimientos Bancarios (notas de débito y crédito).
+
+
+
+Rebotes del BCE.
+
+
+
+Registro de pagos por el sistema SPI del banco Central.
+
+
+
+Registro de pagos por el sistema SPL del banco Central.
+
+
+
+Conciliaciones Bancarias.
+
+
+
+Notificación automática de pagos a proveedores
+
+
+
+Registro y control de garantías (notificación automática de vencimiento de garantías)
+
+
+
+Programación de caja (flujo de caja proyectado, flujo de caja real)
+
+Submódulo de Reportes:
+
+
+
+Comprobantes de Egreso.
+
+
+
+Movimientos de tesorería.
+
+
+
+Proveedores (archivo para el BCE).
+
+
+
+Abonos realizados.
+
+
+
+Vencimiento de garantías
+
+Página 20 de 70
+
+
+
+Cuentas por cobrar
+
+
+
+Cierre de caja diario
+
+8.1.3.
+
+CONTABILIDAD
+
+Características:
+Siendo la contabilidad, el principal módulo del Sistema de Información, se debe tomar en cuenta
+que su ejecución afecta directamente al presupuesto; a la recepción y control de la información
+de ingresos y egresos financieros institucionales; efectúa los procesos periódicos, que permiten
+suministrar información indispensable para el soporte de la toma de decisiones de la gestión
+institucional, por lo cual debe estar integrado con una relación dinámica respecto a sus
+módulos.
+Para la operatividad diaria se deben considerar los siguientes aspectos específicos:
+
+
+Que el sistema cumpla con todas las leyes, reglamentos y normas de contabilidad (NIC,
+NEC, NIIF, LRTI/R).
+
+
+
+Reportes y control financiero adaptado a las Normas NIIF's.
+
+
+
+Seguimiento y control de activos fijos Informes de Activos Fijos.
+
+
+
+Plan de Cuentas múltiples niveles.
+
+
+
+Registro y nómina de proveedores – clientes.
+
+
+
+Registro de Facturas de Compras, Notas de Crédito y lo Débito.
+
+El módulo de contabilidad es el principal módulo del sistema, pues consolida los movimientos y
+las acciones de los diferentes módulos, para lo cual manejará las siguientes características:
+
+
+Las Cuentas Contables deben estar atadas al Catálogo de Cuentas Aprobado por el
+Ministerio de Finanzas, no deben ser susceptibles de creación sino se encuentran
+aprobadas, para poder crear deben tener código presupuestario y contable.
+
+
+
+Los asientos Contables no deben tener la opción de modificaciones. Las cuentas contables
+deben tener mayores con niveles en donde se identifiquen y agrupen claramente las Cuentas
+por Cobrar, por Pagar y el Patrimonio.
+
+
+
+Los asientos contables deben estar parametrizados para realizar ajustes, bajas en
+incrementos que afecten a cuentas contables CXC, CXP, ACTIVOS Y EXISTENCIAS.
+
+
+
+Se debe contar con un Submódulo de impuestos, en el cual se encuentren codificados los
+tipos de retenciones de IVA, Fuente para que se pueda generar los impuestos, declaración
+
+Página 21 de 70
+
+de IVA, declaración de retenciones en la fuente, anexo bajo relación de dependencia y
+anexos transaccionales.
+
+
+Los reportes deben poder ser generados de todos los movimientos que se realizan y ser
+impresos, guardados en Excel, Pdf y Word.
+
+
+
+Reportes, el sistema debe permitir el generar los reportes necesarios para presentación de
+información interna, externa, y a entidades de control. Dentro de estos se debe considerar;
+Estado de Situación Financiera, Estado de Resultados, Balance de Comprobación, Flujo de
+Efectivo, Estado de Fuentes y Usos.
+
+
+
+Existirá un submódulo de cartera proveedores, el cual permitirá manejar de manera integral
+los saldos adeudados a proveedores, generando reportes de cartera dinámicos y al detalle.
+
+
+
+La cartera debe tener relación directa con contabilidad, por tal motivo el saldo abierto de
+cartera de proveedores cuadrará en todo momento con los saldos contables.
+
+Submódulo de Mantenimiento:
+
+
+Parametrización de:
+o
+
+Sucursales.
+
+o
+
+Puntos de emisión.
+
+o
+
+Bodegas.
+
+o
+
+Tipos de Asientos Contables.
+
+o
+
+Impuestos.
+
+o
+
+Retenciones.
+
+o
+
+Tipos de Documentos.
+
+Submódulo de Transacciones:
+
+
+
+Plan de cuentas, en estructura de árbol permitiendo obtener información en diversos niveles
+de consolidación. Especificación de cuentas que manejen auxiliares (proveedores,
+empleados, clientes), asociación con las partidas presupuestarias.
+
+
+
+Asientos contables manuales, permitiendo el registro de ajustes, re clasificaciones.
+
+
+
+Asientos tipos, definidos como mascaras para el ingreso de asientos contables predefinidos.
+
+Página 22 de 70
+
+
+
+Cierre mensual, controlando que estén registrados toda la información de los módulos
+(depreciaciones, roles de pago). Bloque el ingreso de información a un periodo cerrado.
+
+
+
+Cierre Anual, generando información de asientos de cierre y apertura para el nuevo ejercicio.
+
+
+
+Control de Amortizaciones de gastos.
+
+
+
+Registro automático de asientos contables de baja de bienes, donaciones entregadasrecibidas, chatarrización, venta de activos, consumo de existencias, depreciaciones.
+
+
+
+Asientos contables automáticos del módulo de recaudación y facturación
+
+
+
+Todos los registros contables deben tener afectación presupuestaria
+
+Submódulo de Reportes:
+
+
+Asientos Contables.
+
+
+
+Mayor analítico.
+
+
+
+Balances.
+
+
+
+Estados de Situación.
+
+
+
+Balance de comprobación.
+
+
+
+Saldos.
+
+
+
+Anexos de mayor.
+
+
+
+Diario resumen.
+
+
+
+Información para el ESIGEF (Saldos, movimientos).
+
+
+
+Balance de sumas y saldos.
+
+
+
+Balance mensual
+
+
+
+Estados Financieros comparativos
+
+
+
+Balance General.
+
+
+
+Diario General.
+
+Página 23 de 70
+
+
+
+Mayor por auxiliares.
+
+
+
+Detalle de análisis.
+
+
+
+Formularios de SRI (103, 104, 107, Gastos Personales).
+
+
+
+Generador de reportes financieros.
+
+Facturación
+
+
+Afectación presupuestaria automática (asiento contable y afectación presupuestaria)
+
+
+
+Reportes de facturación de todas las recaudaciones y con varios niveles de detalle por
+corredor y parada.
+
+
+
+Mecanismo que nos permita conocer si la factura fue recibida por el cliente.
+
+
+
+Contabilización automática de las facturas emitidas para cada uno de los clientes.
+
+
+
+Control de las facturas emitidas, para evitar facturas duplicadas.
+
+
+
+Reportes de facturación por servicios por periodo de tiempo y por cliente, otros.
+
+
+
+Emisión de las notas de crédito automáticas que permita dar de baja la factura asociada e
+implementar controles para no duplicar facturas.
+
+
+
+Registrar asientos contables por efectos de ajustes o reclasificaciones.
+
+
+
+Reporte de antigüedad de deuda por cliente.
+
+
+
+Establecer niveles de seguridad según usuarios para modificar datos, dejando en todo
+momento evidencia de quien realiza, modifica o borra cada asiento.
+
+Impuestos
+
+
+Retenciones
+
+
+
+Deducción Impuesto a la Renta
+
+
+
+Generación de Reporte de la facturación de ingresos como de gastos para cuadre de
+Impuestos. (De acuerdo a formato).
+
+
+
+Generación de Reporte de las retenciones efectuadas tanto en IVA como en Renta para
+cuadre de Impuestos. (De acuerdo a formato).
+
+
+
+Emisión automática de comprobantes de retención, en los porcentajes que emita el SRI y
+reglamentaciones en formato.
+
+
+
+Generación de información y reportes para el Servicio de Rentas Internas como:
+
+
+
+Generación Formulario 104 (Impuesto al Valor Agregado)
+
+Página 24 de 70
+
+
+
+Generación Formulario 103 (Retenciones en la Fuente)
+
+
+
+Generación Formulario 109 (Impuesto a la Salida de Divisas)
+
+
+
+Generación Formulario 101 (Impuesto a la Renta)
+
+
+
+Generación Formulario 107 (Impuestos a la Renta en Relación de Dependencia)
+
+
+
+Anexo Transaccional Simplificado (ATS)
+
+
+
+Anexo Relación de Dependencia (RDEP)
+
+
+
+Conciliación Tributaria
+
+
+
+Archivo XML del ATS.
+
+Cuentas por Cobrar
+
+
+Integración en línea a Contabilidad
+
+
+
+Administración de Cuentas por Cobrar, la cual deberá estar vinculada con los menús de
+ventas para que los datos se actualicen automáticamente.
+
+
+
+Reporte de Cuentas por Cobrar resumido y detallado
+
+
+
+Registro y control de anticipos y ejecución de Garantías de buen uso.
+
+
+
+Abonos y cancelaciones
+
+
+
+Control de Cartera activa y emisión de estados de cuenta.
+
+
+
+Generación de Estados de cuenta con cálculo de intereses, preparar informes de manera
+rápida realizando búsquedas por diferentes criterios RUC, número de factura, valor, fecha,
+entre otros, los cuales puedan ser exportados a Excel.
+
+
+
+Generación de notas de crédito y débito
+
+
+
+La fecha de vencimiento para cobros se asignará automáticamente según la fecha de la
+factura de venta
+
+
+
+Asignar términos de pago y números de rastreo para todas las ventas a crédito.
+
+
+
+Encontrar la factura de venta tiene pago parcial, está pendiente o atrasada.
+
+
+
+Permitir adjuntar archivos e insertar comentarios en el momento de registrar los documentos
+de un cliente y visualizar los diferentes documentos adjuntos.
+
+
+
+Gestión de clientes: mantener todos los datos de cada cliente, permitir definir listas de precios
+por cliente, así como límites de crédito, datos contables, En la misma pantalla de clientes se
+pueden ver las facturas totales, pendientes de cobro, morosas, y estadísticas de períodos
+medios de cobro.
+
+
+
+Gestión de cobros a clientes guardando historial de llamadas realizadas
+
+
+
+Conciliación con los clientes a través de estados de cuenta por correo electrónico.
+
+Página 25 de 70
+
+8.2.
+
+TALENTO HUMANO
+
+Características:
+El módulo de nómina, debe manejar al personal desde su perspectiva financiera, en todas las
+modalidades de contratación y en los diferentes regímenes laborales vigentes en el País.
+El módulo debe conservar las siguientes características específicas al respecto del manejo
+de personal y su retribución por el trabajo representada en la nómina institucional, para ello se
+debe contemplar las siguientes características específicas:
+
+
+Aplicación del escalafón vigente institucional, con la definición de cargos y puestos para
+personal.
+
+
+
+Distributivo de sueldos.
+
+
+
+Definición de rubros específicos de ingreso, descuento y aportes institucionales para cada
+uno de los conceptos que se aplican y que tienen su origen en la institución, el gobierno o
+del sector privado (terceros).
+
+
+
+El proceso de cálculo debe incorporar la aplicación de fórmulas para la ejecución de cada
+uno de los rubros y para cada una de las personas que trabajan en la institución y su
+remuneración la reciben a través del módulo de nómina, en las cuales se deben incluir
+impuesto a la renta, aportes al IESS, fondo de cesantía, horas extras, fondos de reserva,
+décimo tercero, décimo cuarto, encargado, subrogaciones.
+
+
+
+Detalles particulares de cada empleado que permitan su vínculo con las transferencias
+financieras en línea de sus remuneraciones y/o pagos adicionales.
+
+
+
+Cada transacción de dinero que se realice en la Nómina deberá contemplar su respectivo
+registro en el Proyecto o Centro de Costo con su respectiva integración en los módulos de
+Contabilidad, Tesorería y Presupuesto.
+
+
+
+En los casos de retiro o salida de personal, estos deben estar vinculados con el Módulo de
+suministros y activos fijos, para revisar si la entrega recepción final fue realizada a efectos de
+poder emitir la respectiva liquidación de haberes.
+
+
+
+Permitir el ingreso con cargas masivas de datos elaborados en otros sistemas externos a
+través de archivos planos parametrizables en longitud y concepto.
+
+
+
+Mantener control de información de personal vinculada con la nómina:
+o
+
+Contratos.
+
+o
+
+Acciones de personal
+
+o
+
+Sanciones y amonestaciones
+
+Página 26 de 70
+
+o
+
+Actas de finiquito (Liquidaciones).
+
+o
+
+Comisiones de servicios.
+
+o
+
+Permisos.
+
+o
+
+Vacaciones.
+
+o
+
+Servicios Institucionales (Solicitud de Viáticos, Subsistencias, alimentación y
+movilización)
+
+o
+
+El proceso de Solicitud de Servicios Institucionales (Solicitud de viáticos /
+subsistencias / alimentación / movilización) detalla las actividades que las
+personas realizan para dar cumplimiento del servicio institucional en el exterior
+o interior y el Informe de cumplimiento al regreso de los Servicios
+Institucionales.
+
+o
+
+El proceso de solicitud de movilización gestiona el requerimiento del vehículo
+y la orden de movilización para el cumplimiento de labores administrativas,
+oficiales y emergencias.
+
+o
+
+Horas extras.
+
+o
+
+Aportes previsionales a la seguridad social o Ingresos y reingresos.
+
+o
+
+Estados de permanencia de personal y puestos de trabajo con su
+respectiva aplicación con la nómina.
+
+
+
+Bitácora personal (contratos, acta de finiquito, comisiones de servicio, permisos,
+vacaciones, horas extras).
+
+
+
+Proceso de la entrega de anticipos individuales al personal, con la respectiva liquidación en
+nómina.
+
+
+
+Generación mensual
+
+de la Remuneración institucional, con la aplicación de sus
+
+respectivos rubros, cuidando que se cumplan los siguientes detalles:
+o
+
+Monto mínimo de pago US$ 0,00.
+
+o
+
+Valores de descuento que ocasionen montos negativos en nómina deberán
+trasladarse a la nómina del siguiente mes, dando la prioridad de descuento
+según previa parametrización.
+
+o
+
+Proceso de revisión preliminar de la nómina antes de su aprobación y
+
+Página 27 de 70
+
+afectación financiera.
+
+
+Generación automática de tablas de amortización de los anticipos y su respectiva
+afectación a la nómina, de créditos otorgados por la institución o por terceros (IESS) y que
+deban ser descontados a través de nómina, tomando en cuenta que estos podrían ser
+liquidados con anterioridad al término del plazo pactado para el crédito.
+
+
+
+Liquidación de Haberes
+
+
+
+Notificación de roles de pago a correo electrónico.
+
+
+
+Acciones de personal de subrogación, encargo, multas, sanciones que afecte a la nómina
+
+
+
+Control de asistencia y carga de información masiva de biométricos, el mismo debe
+integrarse o consumir los registros de marcaciones del nuevo sistema biométrico, así como
+atrasos, días libres, horarios definidos, rango de fecha de marcaciones para poder visualizar
+cuando han sido registradas
+
+
+
+El sistema debe permitir firmar electrónicamente utilizando el tipo de firma como mínimo
+archivo para los procesos de Talento Humano
+
+Submódulo de Mantenimiento:
+
+
+Registro del organigrama de la institución.
+
+
+
+Definición de los roles de empleados (dirección, supervisión, ejecución).
+
+
+
+Registro de las escalas de remuneración que maneja la institución.
+
+
+
+Definición de modalidades de contratación (especificando el régimen: LOSEP, Código de
+trabajo).
+
+
+
+Permitir la configuración de información adicional para el manejo del personal.
+
+
+
+Definición de tipos de permisos (Permisos, Permisos con cargo a horas y sin cargo a horas,
+Licencias, Vacaciones y permisos personales con carga a horas).
+
+
+
+Definición de tipos de sanciones a implementarse.
+
+
+
+Especificación de días festivos.
+
+Página 28 de 70
+
+Submódulo de Transacciones:
+
+
+Definición de cada Puesto disponible en la empresa, con requisitos y condiciones.
+
+
+
+Especificación de cada puesto dentro del organigrama de la empresa.
+
+
+
+Movimientos de los servidores que generan acciones de personal (considerar los casos en
+los cuales cambia la remuneración, suspensión de remuneración, encargos, subrogaciones,
+sanciones, multas)
+
+
+
+Cesación de funciones (liquidación, jubilación).
+
+
+
+Registro de sanciones a los empleados.
+
+
+
+Posibilidad de re ingresos a la institución.
+
+
+
+Aprobación de: Permisos, licencias, vacaciones.
+
+
+
+Legalización de permisos, licencias, vacaciones.
+
+Servidores:
+
+
+
+Registro de cada servidor, además de la información básica se debe permitir el ingreso del
+cargo a desempeñar, partida presupuestaria principal, proyecto asignado.
+
+
+
+Registro de la hoja de vida del empleado
+o
+
+Estudios.
+
+o
+
+Experiencia.
+
+o
+
+Cursos.
+
+o
+
+Habilidades.
+
+o
+
+Idiomas.
+
+o
+
+Recomendaciones.
+
+o
+
+Familiares.
+
+o
+
+Copiar de la ficha personal que actualmente tiene la institución.
+
+Página 29 de 70
+
+
+
+Para cada opción, permitir que se adjunte archivos que respalden la hoja de vida.
+
+Nomina:
+
+
+
+Definición de conceptos tanto para ingresos, egresos y provisiones sociales que afecten al
+rol de pagos. Se posibilita la formulación con el fin de realizar los cálculos automáticos.
+
+
+
+Definición de conceptos de acuerdo a cada cargo especifico.
+
+
+
+Conceptos por rangos (formulación de la tabla de impuesto a la renta).
+
+
+
+Ingreso de novedades por cada concepto definido.
+
+
+
+Ingreso de novedades por cada empleado.
+
+
+
+Especificación de horarios para empleados. (Control de Asistencia)
+
+
+
+Solicitud de anticipos a empleados. (FINANCIERO)
+
+
+
+Opción de pre nomina con el fin de revisión antes de la emisión definitiva.
+
+Submódulo de Reportes:
+
+
+Hoja de vida de cada servidor
+o
+
+Cursos.
+
+o
+
+Estudios.
+
+o
+
+Experiencia.
+
+o
+
+Familiares.
+
+o
+
+Referencias.
+
+o
+
+Idiomas
+
+
+
+Ficha Personal
+
+
+
+Sanciones por cada servidor.
+
+Página 30 de 70
+
+
+
+Distributivo del personal.
+
+
+
+Acciones de personal.
+
+
+
+Control de asistencia (por fecha, por servidor).
+
+
+
+Saldos de vacaciones actualizados
+
+
+
+Anticipos entregados a servidores.
+
+
+
+Roles de pago.
+
+
+
+Alertas de cumpleaños.
+
+
+
+Roles por rubros
+
+
+
+Información detallada de los servidores a ser presentados a entidades externas.
+
+8.2.1. Sistema de Fichas Médicas
+Características:
+
+
+Ingreso de los datos básicos de profesionales que atienden en el centro médico como
+médicos, enfermeras, asistentes: cédula de identidad, nombres, correo electrónico,
+especialidad, registro RMS, dirección, teléfonos.
+
+
+
+Ingreso de los servicios que brinda el centro médico. (servicios: medicina, odontología,
+psicología, fisioterapia, trabajo social, consulta externa, examen físico, evolución y
+prescripciones, evaluación periódica)
+
+
+
+Considerar los formularios de cada uno de los servicios que se brinda
+
+
+
+Horarios de atención tanto del centro médico como de los profesionales.
+
+
+
+Contiene las fichas del centro médico (ficha pre ocupacional, ocupacional, de retiro y/o
+cursos de ascenso y examen físico, atención al paciente, consulta externa).
+
+
+
+Ingreso de los datos básicos del paciente (Datos ingresados por Talento Humano en
+distributivo).
+
+
+
+Toma de citas médicas, modificación anulación, re agendamiento de las mismas, donde
+existan notificaciones vía correo electrónico.
+
+
+
+Manejo de Farmacia.
+
+Página 31 de 70
+
+
+
+El sistema debe permitir firmar electrónicamente utilizando el tipo de firma como mínimo
+archivo para recepción de la receta
+
+
+
+Manejo de bodegas virtuales sea identificado por medicamento o insumo
+
+
+
+Ingreso de exámenes de laboratorio
+
+
+
+Formato para carga de información con Excel
+
+
+
+Formatos solicitados para instituciones externas
+
+
+
+Formato de control diario de consulta externa
+
+Submódulo de Mantenimiento:
+
+
+Creación de centros médicos.
+
+
+
+Creación de Profesionales que atienden en el centro médico.
+
+
+
+Creación de los servicios que brinda el centro médico.
+
+
+
+Creación de horarios de atención del centro médico.
+
+
+
+Gestión de horarios de atención del profesional en centro médico.
+
+
+
+Creación de las fichas médicas para la atención al paciente.
+
+Submódulo de Transacciones:
+
+
+Creación y manejo de pacientes.
+
+
+
+Toma de citas médicas de acuerdo a la disponibilidad del profesional.
+
+
+
+Atención al paciente por parte del médico donde se maneja la evolución y las prescripciones
+del paciente.
+
+
+
+Manejo de farmacia.
+
+
+
+Emisión de receta médica.
+
+
+
+Entrega de medicamentos en la farmacia.
+
+Sub Módulo de Reportes:
+
+Página 32 de 70
+
+
+
+Emisión de certificados médicos.
+
+
+
+Ficha médica por paciente.
+
+
+
+Cambio temporal de funciones (paciente)
+
+
+
+Cambio definitivo de funciones (paciente)
+
+
+
+Certificado para uso de uniforme
+
+8.2.2. PERSONAL
+Características:
+Modulo desarrollado para que cada servidor pueda visualizar su información, actualizar su hoja
+de vida, solicitar y autorizar: permisos, vacaciones, suministros.
+
+Hoja de Vida:
+
+
+
+Permite el registro por cada servidor de toda la información de su hoja de vida, la misma que
+será verificado por Talento Humano antes de incorporar al manejo de la misma al del
+servidor.
+o
+
+Cursos.
+
+o
+
+Direcciones.
+
+o
+
+Experiencia.
+
+o
+
+Familiares.
+
+o
+
+Habilidades.
+
+o
+
+Recomendaciones.
+
+o
+
+Estudios.
+
+o
+
+Ficha Personal
+
+Solicitudes:
+
+Página 33 de 70
+
+
+
+
+
+
+
+
+
+El servidor podrá realizar las solicitudes de:
+o
+
+Permisos.
+
+o
+
+Licencias.
+
+o
+
+Vacaciones.
+
+o
+
+Certificados laborales
+
+o
+
+Certificado de Ingreso
+
+El director de cada área aprobará:
+o
+
+Permisos.
+
+o
+
+Licencias.
+
+o
+
+Vacaciones.
+
+o
+
+Solicitud de suministros.
+
+Para el manejo de suministros: (BODEGA)
+o
+
+Planificación anual.
+
+o
+
+Solicitud de despacho de suministros.
+
+Comisión de servicios al interior y exterior
+
+8.3.
+
+ACTIVOS FIJOS
+
+Características:
+En este módulo se maneja los activos institucionales con sus respectivos movimientos de
+ingresos y entregas, bajas y transferencias.
+Entre las principales características se contempla:
+Ingresos de bienes mediante factura, donación, o documento contable habilitante, las
+implicaciones que esta acción deben traer son:
+
+
+Acta entrega recepción del bien adquirido entre la institución y el proveedor.
+
+Página 34 de 70
+
+
+
+Registro contable del bien con sus respectivas características, donde se detalle el color,
+serie, modelo, marca, lote y costos o Acta entrega recepción entre la empresa y el custodio.
+
+
+
+Asignación del bien a la cuenta de la persona custodia en adición a bienes asignados
+anteriormente. (EGRESO)
+o
+
+Manejo de varias bodegas con información de stocks y ubicaciones
+
+o
+
+Manejo de transferencia entre bodegas
+
+o
+
+Manejo de Código de barras
+
+o
+
+Manejo de diferentes unidades de medida donde se maneje el sistema internacional de
+medida (Unidad, Kilo, Metro, Litro, el sistema debe permitir que las unidades de medida
+sean parametrizables.)
+
+o
+
+Auditoria completa de transacciones, donde se registre la mora, el nombre de la persona
+que realizó el proceso.
+
+o
+
+Edición de ítems con autorización de contraseña administrativa
+
+o
+
+El sistema debe permitir ingresar el inventario físico constatado con reporte de
+diferencias
+
+o
+
+Debe suministrar al menos 5 reportes que pueden verse por pantalla, imprimirse o
+exportarse a medios digitales como Excel, PDF, Texto, Gráficos.
+
+o
+
+Stocks disponibles por (fecha de compra, número de lote, proveedor).
+
+o
+
+Búsquedas de bienes por diferentes rangos (código, serie, descripción, clase, ubicación).
+
+o
+
+Clasificar los artículos por medio de familias, clase, categorías, departamentos.
+
+o
+
+Incluir otros movimientos al inventario (mermas, bajas, devoluciones, reposiciones).
+
+o
+
+Manejar un kárdex de movimientos para cada artículo
+
+o
+
+Inventario actual que tiene la institución en stocks y en valor
+
+o
+
+Inventario que se tuvo a cualquier fecha
+
+o
+
+Para ingresos o modificaciones masivas debería permitir la importación de información
+desde archivos de Excel
+
+o
+
+
+Manejar el reporte histórico del bien
+
+Baja de bienes, con la que se eliminará aquellos bienes que con autorización y mediante
+documentación de soporte se declaren en obsolescencia daño o pérdida, las implicaciones
+que esta acción deben traer son:
+o
+
+Impresión de Actas por cambios de Custodio, Ingresos de Bajas con numeración
+consecutivo por tipo de transacción.
+
+o
+
+En el acta de cambio de custodio indique origen y destino de la ubicación del bien
+
+o
+
+Acta de la baja de bienes, con el detalle de lo dado de baja.
+
+Página 35 de 70
+
+o
+
+
+Registro contable de la baja del activo.
+
+Transferencia de Bienes, entre custodios y las respectivas actas entrega recepción para cada
+involucrado, incluido solicitud de vehículo y orden de movilización.
+
+
+
+Depreciación mensual y anual de bienes, con apertura a la realización de depreciaciones
+con periodos variables por cambio de normativa, y la respectiva aplicación en la
+contabilidad institucional.
+
+
+
+Generación de código de barras para cada bien.
+
+Submódulo de Mantenimiento:
+
+
+Clasificación de los diferentes tipos, grupos y sub-grupos de activos, especificando cuentas
+contables, parámetros de depreciación, entre otros.
+
+
+
+Tipos de movimientos (ingresos y egresos) definibles por el usuario.
+
+
+
+Identificación de la ubicación geográfica de los activos, especificando los posibles lugares
+donde se encuentren los activos de la empresa, sean estos internos o externos.
+
+
+
+Definición de proceso de "Gestión automatizada de seguros de bienes" que permitirá
+registrar los datos del usuario que reporta el bien, del cual se encontraba como responsable
+y que fue objeto de perdida, robo, hurto, asalto, daño malicioso, pasando por etapas de
+validación de la documentación requerida, por parte de los Jefes inmediatos, Jefes distritales
+y/o Jefes de unidades y Directores, según sea el caso si es personal operativo o
+administrativo; hasta el cierre del proceso de la Unidad de Servicios Generales de la
+institución.
+
+8.3.1
+
+CONTROL DE BIENES:
+
+Características:
+
+
+
+Registro de cada activo fijo, con toda la información tanto financiera (fecha de alta, valor de
+alta) como administrativa (descripción detallada, marca, modelo, serie, color, estado,
+ubicación física, custodio, codificación, fotografía.).
+
+
+
+Permitir el manejo de componentes para activos fijos compuestos, siendo estos tratados
+independientemente.
+
+Página 36 de 70
+
+
+
+Cambios de custodio, cambios de ubicación física, estado.
+
+
+
+Inicio del proceso de bajas de activos.
+
+
+
+Toma física de activos fijos.
+
+
+
+Permitir el registro de activos de control.
+
+
+
+Inclusión y exclusión de activos de las pólizas de seguros.
+
+
+
+Información de reclamos a las empresas aseguradoras.
+
+
+
+Manejo de erogaciones capitalizables.
+
+
+
+Manejo de actas para las transacciones de activos fijos.
+
+Submódulo de Transacciones:
+
+
+Contabilización de Ingreso de activos.
+
+
+
+Procesos de depreciación.
+
+
+
+Reproceso de depreciaciones.
+
+
+
+Cambio de valor del activo.
+
+
+
+Cambio de vida útil.
+
+
+
+Contabilización de bajas de activos fijos.
+
+Submódulo de Reportes:
+
+
+
+Ficha del activo fijo.
+
+
+
+Movimientos de activos fijos.
+
+
+
+Activos por custodio.
+
+
+
+Eventos relacionados con los activos fijos.
+
+
+
+Depreciaciones.
+
+Página 37 de 70
+
+
+
+Activos fijos que cumplen su vida útil.
+
+
+
+Activos fijos por empleado.
+
+
+
+Vencimiento de pólizas.
+
+
+
+Impresión de códigos de barra.
+
+
+
+Activos fijos con custodios externos.
+
+
+
+Activos Asegurados.
+
+8.3.2
+
+EXISTENCIAS
+
+Características:
+
+
+Ingresos de compras mediante factura, donación o documento contable habilitante, las
+implicaciones que esta acción deben traer son:
+
+
+
+o
+
+Registro contable de los suministros con sus respectivas cantidades y costos.
+
+o
+
+Costo promedio actualizado después de confirmado cada ingreso.
+
+Registro y despacho de pedidos a bodega mediante control de requisiciones (Solicitud de
+abastecimiento).
+
+
+
+Egresos de bodega con el registro de nombre del solicitante, cantidad, fechas de pedido
+- entrega y costos de lo solicitado, las acciones que deben aplicarse para estos casos son:
+o
+
+Registro contable del egreso
+
+o
+
+Asignación del consumo al Proyecto o Centro de Costo solicitante. o Revisión de stock
+mínimo luego de entregas realizadas.
+
+
+
+Asignación de cupos de consumo anual para cada dirección, proyecto o Centro de Costo.
+
+
+
+Control de cupos de consumos y autorización a cambiarlos mediante una clave de
+supervisor del sistema.
+
+
+
+Catalogación de los productos de acuerdo a su naturaleza y uso flexibilizado a la
+codificación institucional.
+
+
+
+Debe estar enfocado en el control de bodegas.
+
+Página 38 de 70
+
+
+
+Que se puedan realizar los ingresos y egresos de inventarios a través de los documentos
+habilitantes (Facturas- Ingresos - Solicitudes de Abastecimiento - Egresos).
+Que permita realizar múltiples movimientos:
+o
+
+Ingresos
+
+o
+
+Egresos
+
+o
+
+Ingreso por canje.
+
+o
+
+Egreso por canje.
+
+o
+
+Ajuste de lotes en el caso de medicamentos e insumos médicos.
+
+o
+
+Ajuste de faltantes y sobrantes de inventario.
+
+o
+
+Transferencias, movimientos de baja.
+
+o
+
+Ingreso y egreso de medicamentos e insumos médicos se pueda realizar por lotes y
+fechas de caducidad.
+
+o
+
+Menor tiempo en el proceso de creación de partidas nuevas e ítems.
+
+o
+
+Creación de bodegas virtuales., múltiples bodegas con función para recibir,
+transferencia, realizar egresos al custodio final.
+
+o
+
+Obtener saldos actualizados a la fecha.
+
+o
+
+Presentar saldos actualizados.
+
+o
+
+Obtener saldos por Bodegas.
+
+o
+
+Alerta en la caducidad del producto.
+
+o
+
+Que el reporteador entregue la información necesaria de productos, bodegas, líneas, en
+el caso de medicamentos e insumos por lotes y fechas de caducidad, persona que
+recibe.
+
+o
+
+Reporte de máximos y mininos
+
+o
+
+Que el consumidor final pueda ver la disponibilidad de bodega.
+
+o
+
+Tener funciones logísticas para la creación de hojas de ruta, tiempos de entrega,
+trazabilidad, número de bultos.
+
+Submódulo de Mantenimiento:
+
+
+
+Definición de Tipos de Movimientos para el manejo de suministros.
+
+
+
+Suministros clasificados mediante familias y subfamilias.
+
+
+
+Registro de cada suministro.
+
+
+
+Múltiples unidades de medida para los suministros.
+
+Página 39 de 70
+
+Submódulo de Transacciones:
+
+
+
+Planificación anual por dirección de los suministros a ser utilizados.
+
+
+
+Consolidación de planificación a nivel de empresa para el análisis de compras
+cuatrimestrales.
+
+
+
+Elaboración de órdenes de compra a cada proveedor.
+
+
+
+Ingreso de suministros.
+
+
+
+Solicitud de suministros por parte del servidor enlace y autorización por el director respectivo.
+
+
+
+Aprobación de las solicitudes de materiales para su posterior despacho.
+
+
+
+Contabilización de los movimientos de suministros.
+Registro de la Toma física de suministros.
+
+Submódulo de Reportes:
+
+
+
+Planificación anual de compras.
+
+
+
+Toma Física de suministros.
+
+
+
+Kárdex de suministros.
+
+
+
+Stock por bodega.
+
+
+
+Saldos por bodegas.
+
+
+
+Saldos por productos.
+
+
+
+Sumas de suministros.
+
+
+
+Movimientos.
+
+
+
+Planificación por direcciones.
+
+Página 40 de 70
+
+8.4. MÓDULO DE CATASTROS PREDIALES URBANOS
+8.4.1 CATASTRO DE MERCADO
+Gestión de puesto del mercado (Contribuyentes):
+Registro y actualización de puestos de mercado. Se registrará la siguiente información:
+
+
+Clave catastral del puesto
+
+
+
+Datos del arrendatario: nombres, cédula/ruc, conyugue/representante legal, dirección, fecha
+de nacimiento, genero, teléfono, mail y otros.
+
+
+
+Tipo de arrendatario
+
+
+
+Giro de negocio
+
+
+
+Productos de comercializan
+
+
+
+Asociación
+
+
+
+Foto del puesto
+
+
+
+Foto del arrendatario
+
+
+
+Ubicación del puesto
+
+
+
+Seleccionar construcción: integración gráfica con el catastro.
+
+Trámites del puesto del mercado:
+
+
+Cambios de dominio
+
+
+
+Cambios de giro de negocio
+
+
+
+Actualización de la ficha catastral
+
+
+
+Historial de medicaciones y trámites
+
+Ficha del puesto del mercado:
+Plantilla personalizada del puesto, contendrá la siguiente información:
+
+Página 41 de 70
+
+
+
+Clave catastral del puesto
+
+
+
+Datos del arrendatario: nombres, cédula/ruc, conyugue/representante legal, dirección, fecha
+de nacimiento, genero, teléfono, mail y otros.
+
+
+
+Tipo de arrendatario
+
+
+
+Giro de negocio
+
+
+
+Productos de comercializan
+
+
+
+Asociación
+
+
+
+Foto del puesto
+
+
+
+Foto del arrendatario
+
+
+
+Ubicación del puesto
+
+
+
+Planimetría del puesto (Integración catastro)
+
+
+
+Foto del puesto
+
+Reportería:
+
+
+Reportes alfanuméricos
+
+
+
+Reportes gráficos
+
+
+
+Personalización de la ficha del mercado
+
+Configuración:
+
+
+Gestión de tributos y servicios
+
+
+
+Parametrización de interés
+
+
+
+Catastro de contribuyentes
+
+
+
+Descuentos y recargos
+
+
+
+Deducciones
+
+Página 42 de 70
+
+
+
+Puntos de emisión
+
+
+
+Establecimientos
+
+
+
+Variables globales
+
+
+
+Gestión de períodos
+
+
+
+Impuestos
+
+
+
+Configuración de títulos
+
+
+
+Registro de bancos y tarjetas
+
+
+
+Plantillas de títulos
+
+
+
+Ficha de la institución
+
+8.4.2 Rentas:
+
+
+Ingreso de hecho generador masivo e individual
+
+
+
+Clonar hechos generadores
+
+
+
+Creación de simulaciones
+
+
+
+Configuración de tasas
+
+
+
+Emisiones
+
+
+
+Exenciones
+
+
+
+Especies valoradas
+
+
+
+Reverso de emisiones
+
+
+
+Reportes generales
+
+8.4.2.1 Recaudación:
+
+
+Cobro de ingresos
+
+Página 43 de 70
+
+
+
+Distintas formas de pago
+
+
+
+Copias certificadas
+
+
+
+Cierre de caja
+
+
+
+Revertir cierre de caja
+
+
+
+Convenios de pago
+
+
+
+Activación de cajas
+
+
+
+Anulaciones
+
+
+
+Revertir cobros
+
+
+
+Notas de crédito
+
+
+
+Comprobantes electrónicos
+
+
+
+Facturación electrónica
+
+
+
+Prorrateo de convenios de pago
+
+
+
+Ingreso masivo de facturas o títulos
+
+
+
+Reportes generales
+
+
+
+Contar con indicadores de emisión, recaudación y catastro netamente gráficos de la
+información en tiempo real para la toma de decisiones.
+
+8.4.2.2 Coactivas:
+
+
+Notificaciones, seguimientos de cartera vencida.
+
+
+
+Reporte de recaudación mediante juicio de coactivas.
+
+
+
+Reporte de Citaciones.
+
+
+
+Reporte de Notificaciones.
+
+
+
+Registro de abogados.
+
+Administración de perfiles para todos los módulos, para administrador del sistema, Gerente, Jefe
+de área, Analista Financiero, Tesorero, Recaudador, Analista de Talento Humano, Analista de
+Planificación, Analista Jurídico, Guardalmacén, Jefe de catastro, administrador funcional y en
+
+Página 44 de 70
+
+donde se defina cada uno de estos perfiles.
+
+GENERALIDADES
+
+
+Los reportes deben poder ser extraídos por periodos de tiempo días, semanas, meses y año
+calendario.
+
+
+
+El sistema de manera general deberá funcionar en apego a las normas y directrices técnicas
+del Ministerio de Finanzas.
+
+
+
+Existirán validadores contables y presupuestarios en cada uno de los módulos que permitan
+corregir y alinear la información a los formatos E-SIGEF
+
+
+
+El sistema generará reportes necesarios para carga de información al E-SIGEF (Balances,
+transacciones, cédulas, transacciones recíprocas, saldo inicial, flujo de efectivo, entre otros).
+
+
+
+Se podrán cerrar los ciclos contables de manera mensual y anual.
+
+
+
+Se generarán asientos de cierre y apertura de ejercicio de manera automática en apego a
+las directrices del Ministerio de Finanzas.
+
+
+
+Todos los reportes del sistema se podrán extraer en formato Excel y en PDF.
+
+
+
+Los Módulos deben poder visualizarse según responsabilidad, creándose restricciones por
+tipo de usuario.
+
+
+
+Se debe recibir y probar la customización de los reportes entregados en Excel o impresos
+por la Empresa Pública Metropolitana Mercado Mayorista al proveedor antes de su puesta
+en marcha el sistema a adquirir, los reportes serán customizados según la necesidad de
+cada área.
+
+
+
+En el sistema no debe existir parámetros quemados, todos deben ser parametrizables
+
+
+
+Se debe sacar respaldos automáticos de la BASE DE DATOS desde la aplicación adquirida.
+
+
+
+El sistema integrado debe tener como un Submódulo de administración netamente del
+sistema que eso le ayudara al departamento de Tecnología administrar de la mejor manera
+los requerimientos de los usuarios como puede ser el % del IVA, formas de pagos, manejo
+de turnos, numero de impresiones, parametrizable con cualquier impresora.
+
+
+
+El sistema Integral se deberá enlazar a través de un web service o micro servicios,
+implementado por parte del proveedor, con el sistema de autoparking actual o a su vez el
+que será implementado paralelamente a este proceso.
+
+
+
+La reportaría del sistema y su customización deben poder bajarse o permitir guardar en
+algunos formatos como puede ser Excel, Word, pdf, html, txt, web.
+
+
+
+El número de decimales se debe permitir trabajar hasta con 6 dígitos.
+
+
+
+El proveedor deberá indicar cuál es el ancho de banda mínima que se necesita para que
+funcione correctamente el sistema.
+
+Página 45 de 70
+
+Los siguientes Módulos deberán estar integrados al sistema sin que generen algún valor
+adicional:
+
+Módulos de Seguridades:
+Se debe definir reglas de contraseña por usuario que incluirán:
+
+
+Longitud mínima
+
+
+
+Cantidad mínima de caracteres especiales
+
+
+
+Cantidad mínima de letras mayúsculas y minúsculas
+
+
+
+Cantidad mínima de caracteres numéricos
+
+
+
+Vigencias de contraseña
+
+
+
+Restricción de uso de contraseñas previas
+o
+
+Usuarios y Perfiles
+
+
+
+No debe poseer restricciones de cantidad de usuarios a definir para acceso al sistema
+
+
+
+Facilidad de definición de Perfiles
+
+
+
+Evitar tareas de configuración de permisos de acceso para cada usuario ya que en el sistema
+los permisos se deberán asignar por Perfil y de tal manera a cada usuario se asignará un
+perfil de acceso.
+o
+
+Registro de Auditoría / Historia
+
+Detalle de los movimientos realizados en los principales grupos de datos o entidades; de tal
+forma que le permita:
+
+
+Conocer qué datos se han registrado o modificado.
+
+
+
+Conocer el usuario, la fecha y la hora en que se modificó algún dato.
+o
+
+Reportes de Auditoría
+
+El sistema debe contar con reportes que permitan realizar el seguimiento de los aspectos de
+seguridad entre los cuales se encuentran:
+
+
+Reporte de permisos por roles y perfiles
+
+
+
+Reporte con las fechas de caducidad de claves
+Módulo de Parametrización y Administración del Sistema
+
+Página 46 de 70
+
+El presente modulo contendrá todos los parámetros iniciales que corresponde a la municipalidad
+como ejemplo: Rentas: Catalogo de Rubros, Catalogo de impuestos, tabla de interés acumulado,
+tabla de descuentos y multas.
+
+
+Recaudación: Cajeros, cajas, tipos de recaudación.
+
+
+
+Coactivas: Estados, notificaciones, citaciones, abogados.
+
+
+
+Especies: catálogos de especies valoradas.
+
+
+
+Usuarios: configuración de usuarios por perfiles.
+
+
+
+Opciones del Sistema: configuración de perfiles, accesos y opciones requeridos por la
+municipalidad.
+
+8.5 INTEGRACIÓN CATASTRO - RECAUDACIÓN – FINANCIERO
+Las integraciones de los módulos del sistema deben ser nativos, de tal manera que no haya
+manipulación de datos ni cargas extras de información mediante archivos Excel u otros.
+Emisión de facturas de arriendo de mercados, obteniendo información desde de catastros.
+Prerrequisitos:
+
+
+Ficha catastral de mercados actualizado
+
+
+
+Tarifas para cobros de arriendo parametrizadas
+
+
+
+Realizar simulaciones previo a la emisión de las facturas
+
+Proceso:
+
+
+Emisión automática de facturas mensuales basados en datos de la ficha y tarifas
+
+
+
+Generación de asientos contables de emisión
+
+
+
+Validación de la cedula de identidad del catastrado con el registro civil (DINARDAP).
+
+Contabilización automática de la emisión de facturas y la recaudación diaria.
+Prerrequisitos:
+
+
+Registro de las tasas de cobro
+
+
+
+Configuración de cuentas contables
+
+Proceso:
+
+
+Registrar el cobro de facturas emitidas
+
+
+
+Cierre de caja automático
+
+
+
+Generación de asientos contables de recaudación
+
+Indicadores:
+Este componente permitirá ver tanto la emisión como la recaudación desde diferentes
+
+Página 47 de 70
+
+perspectivas. Cada perspectiva puede mostrar información relevante cuya suma muestra el
+contexto general. La información que se visualizará es netamente gráfica y permite al usuario
+conocer de manera fácil, rápida y sencilla la información en tiempo real. Este es el insumo que
+tiene el usuario para tomar decisiones asertivas basadas en datos.
+
+8.6. PRODUCTOS QUE SE RECIBIRÁ. -
+
+Descripción del Bien
+
+Orden
+
+Modulo Administrativo - Financiero
+
+1
+
+Módulo de Talento Humano y Nomina
+
+2
+
+Módulo de Activos Fijos
+
+3
+
+Módulo de Recaudación, Rentas
+
+4
+
+Módulo de Catastro
+
+5
+
+Los módulos contendrán cada sub-módulo o sub-proceso antes detallados en el punto 8.
+El contratista deberá entregar los productos detallados a continuación, así como también la
+implementación y la transferencia del conocimiento al personal designado para el efecto por la
+MMQEP:
+
+8.6.1 Producto Fase 1 – Inicio de proyecto:
+Plan de trabajo detallado del proyecto a nivel de actividad indicando por lo menos fechas de
+cumplimiento, hitos de control y responsables por actividad. Tiempo 15 días.
+
+8.6.2 Producto Fase 2 – Análisis funcional y diseño del sistema integral de gestión:
+Informe que incluya:
+
+
+Los requerimientos funcionales y no funcionales que deben presentarse de acuerdo al
+formato proporcionado por la MMQEP.
+
+Página 48 de 70
+
+
+
+Análisis de requerimientos e identificación de las reglas de negocio.
+
+
+
+Diagramas de interacciones, colaboraciones y flujo de datos.
+
+
+
+Descripción de interfaces de usuario.
+
+
+
+Detallar el análisis y el proceso de migración de datos (Extracción de datos, Proceso de
+calidad, reglas de negocio, carga de datos).
+
+
+
+Análisis de riesgos
+
+El informe debe ser revisado, validado por el equipo multidisciplinario asignado para este fin y
+aprobado por el administrador de contrato. Esta actividad tiene un periodo de 30 días, posterior
+a la conclusión de la fase 1.
+
+8.6.3 Producto Fase 3 Desarrollo, Pruebas, Implementación e Integración:
+Para cada implementación se entregará lo siguiente:
+
+
+Arquitectura del sistema web.
+
+
+
+Código generado y versionado según estándares.
+
+
+
+Componentes y programas fuentes.
+
+
+
+Programas ejecutables
+
+
+
+Scripts shells necesarios para ejecutar tareas programadas
+
+
+
+Scripts de creación de los esquemas de bases de datos, scripts de inicialización de las
+bases de datos y de ser el caso, scripts de migración de la base de datos
+
+
+
+Modelos Entidad/Relación, modelos lógicos, físicos de datos y diccionario de datos
+(objetos nuevos o modificados).
+
+
+
+Modelo de navegación de las páginas generadas en los sistemas desarrolladas.
+
+
+
+“Plan de Implantación a Pruebas” que describa el procedimiento a seguir para ejecución
+en los ambientes de pruebas, especificando los scripts, ejecutables, configuración, etc.
+necesarios. Dicho documento debe estar acorde a los estándares y/o plantillas definidas
+por la MMQEP y aprobado por el Administrador de contrato.
+
+Página 49 de 70
+
+
+
+Informe de ejecución de las pruebas:
+
+
+
+Funcional: según los requerimientos funcionales
+
+
+
+De sistema: según los niveles de calidad de sistema y desempeño
+
+
+
+De integración: El sistema Integral se deberá enlazar a través de un web service o micro
+servicios, implementado por parte del proveedor, con el sistema de autoparking actual o
+a su vez el que será implementado paralelamente a este proceso.
+
+
+
+De aceptación técnica: manejando condiciones extremas
+
+
+
+Acta de validación y aceptación de las pruebas funcionales del sistema web y móvil,
+misma que debe estar suscrita por el equipo multidisciplinario.
+
+
+
+Acta de paso a producción aceptada por el especialista de tecnologías de la información
+designado para este fin.
+
+
+
+Manual de instalación y configuración del servidor (producción) de aplicaciones y base
+de datos aplicada en la MMQEP, en idioma español, en formato digital, que contemple:
+
+
+
+Todos los procedimientos que intervienen en la instalación, configuración, operación,
+integración, mantenimiento y soporte de la totalidad de componentes (hardware) y
+sistemas (software) que conforman los módulos web y aplicación móvil, deberán ser
+entregados a la MMQEP debidamente documentados, actualizados y licenciados.
+
+
+
+Certificado digital configurado e instalado con una vigencia de tres años contados a partir
+de la puesta en marcha de la solución implementada.
+
+
+
+Sistema y base de datos debidamente instalado y configurado en los servidores de la
+MMQEP.
+
+
+
+En caso de que los componentes de la solución requieran licenciamiento, se debe emitir
+las correspondientes licencias por al menos tres (3) años.
+
+
+
+Manual de administración y de usuario del módulo web aplicado en la MMQEP, en idioma
+español, en formato digital.
+
+
+
+Transferencia tecnológica, misma que deberá ser de al menos siento sesenta horas
+(160) horas para un mínimo de 4 funcionarios designados por la MMQEP. El Oferente
+deberá realizar el proceso de transferencia de conocimientos que permita al personal
+
+Página 50 de 70
+
+designado, entender en suficiente detalle el funcionamiento de todos los componentes
+de la solución implementada.
+
+
+Capacitación al personal de las diferentes áreas de la MMQEP respecto a la
+funcionalidad de cada uno de los módulos, la misma tendrá una duración de al menos
+ocho (8) horas por modulo.
+
+
+
+Certificados de las transferencias tecnológicas otorgadas por el oferente.
+
+
+
+Actas de registro de asistencia, transferencias tecnológicas y reuniones que se generen
+en todo el proyecto, debidamente firmadas por los involucrados.
+
+El sistema informático deberá contener como mínimo los siguientes requerimientos técnicos
+generales:
+
+
+Adecuación: Deberá poseer una interfaz gráfica amigable, adaptativa, de fácil uso,
+intuitiva y orientada en un entorno WEB.
+
+
+
+Entorno de usuario: Implementado en totalidad en idioma español. Funcionará bajo sus
+propias interfaces de presentación, sin tener que adquirir herramientas adicionales o de
+terceros.
+
+
+
+Centralizado: Todos los procesos o módulos serán administrados dentro del mismo
+sistema.
+
+
+
+Integrado: Deberá estar basado en procesos, por lo tanto, no estará limitado a cubrir
+funciones aisladas. Todo se integrará en una única solución-software que sincronizará
+las distintas estructuras, procesos y eventos, permitiendo obtener en todo momento la
+información necesaria y en línea, El sistema Integral se deberá enlazar a través de un
+web service o micro servicios, implementado por parte del proveedor, con el nuevo
+sistema de autoparking que será implementado paralelamente a este proceso.
+
+
+
+Accesibilidad: Se podrá acceder al sistema a través de la red local o internet en
+cualquier parte del mundo, mediante cualquier dispositivo electrónico que cuente con
+acceso a internet y un navegador WEB sin importar la plataforma utilizada.
+
+
+
+Colaboración: El sistema deberá ser capaz de mostrar y enviar notificaciones y alertas
+automáticas al usuario a través de correo electrónico de acuerdo a la configuración
+establecida.
+
+
+
+Auditable: Poseerá herramientas de auditoría propias
+
+Página 51 de 70
+
+
+
+Parametrizable: Todo el sistema deberá ser parametrizable: procesos, aplicaciones,
+códigos de transacción, pantallas, formularios, informes, reportes, consultas, etc. Ello
+obligará a que cualquier cambio en la normativa pública no obligue a la generación de
+una nueva versión.
+
+
+
+Explotación: Ofrecerá facilidades para manejar nuevos requisitos sin tener que cambiar
+la filosofía básica de la aplicación.
+
+
+
+Manuales: Estará provisto de documentación necesaria (manuales de usuario, manual
+de operación, documentación del sistema, etc).
+
+
+
+Interoperatibiliad: Deberá ser capaz de interoperar a través de lenguajes XML o
+Servicios WEB, para intercambiar información con los sistemas transaccionales
+existentes y con otras instituciones públicas (al menos SRI, Registro Civil).
+
+
+
+Escalabilidad: El diseño deberá contemplar el uso óptimo de recursos tales como
+conexiones a la base de datos y el crecimiento de usuarios.
+
+
+
+Disponibilidad: La disponibilidad del sistema será continua con un nivel de servicio para
+los usuarios 24/7. Así mismo permitirá la recuperación automática de información ante
+eventuales caídas, garantizando la integridad de las bases de datos.
+
+
+
+Desempeño: El sistema deberá ofrecer un excelente desempeño ante una alta
+demanda y presentar tiempos de respuesta óptimo sobre operaciones transaccionales
+desde que se procesan y responden en el servidor.
+
+
+
+Control
+
+transaccional:
+
+Generará
+
+alertas
+
+automáticas
+
+para
+
+eventos
+
+críticos
+
+predefinidos, campos obligatorios, manejo de bloqueos, alto flujo de peticiones, etc.
+
+
+Compatibilidad con base de datos: El sistema deberá ser compatible con bases de
+datos
+
+
+
+Encriptación de datos: El sistema deberá manejar método de encriptación de datos y
+que pudieran ser transmitidos a través de la red local o internet a fin de velar por su
+seguridad.
+
+
+
+Trazabilidad: El sistema deberá registrar e integrar de manera completa, las distintas
+transacciones que en él se generen.
+
+Página 52 de 70
+
+
+
+Seguridad: El sistema deberá contar con un método de autenticación y autorización de
+usuarios propio y adicional deberá permitir la autenticación y autorización mediante
+active directory, esto en base a roles y perfiles de usuario.
+
+8.6.4 Producto Fase 4 Cierre de proyecto e inicio de soporte pos-implementación:
+Una vez que el sistema entre en producción el oferente deberá tener en cuenta lo siguiente:
+
+
+El oferente deberá mantener personal en las oficinas de la MMQEP, para brindar
+solución a cualquier requerimiento generado por los usuarios, por un periodo de al menos
+4 meses, hasta que la solución este estable.
+
+
+
+El oferente deberá generar una estructura de soporte con personal especializado para
+resolver cualquier requerimiento solicitado por el administrador o personal técnico
+asignado a la plataforma informática. El tiempo de respuesta será de acuerdo al SLA
+establecido en la cláusula de “Vigencia Tecnológica”.
+
+9. PLAZO DE EJECUCIÓN. 240 días calendario desde la fecha de notificación que el anticipo se encuentre disponible.
+
+10. METODOLOGIA DE EVALUACIÓN. –
+El Art. 27 de la Ley Orgánica del Sistema Nacional de Contratación Pública establece: “Art. 27.Modelos Obligatorios.-
+
+Serán obligatorios los modelos y formatos de documentos
+
+precontractuales, y la documentación mínima requerida para la realización de un procedimiento
+precontractual y contractual, que serán elaborados y oficializados por el Servicio Nacional de
+Contratación Pública, para lo cual podrá contar con la asesoría de la Procuraduría General del
+Estado y de la Contraloría General del Estado”.
+La sección II de las Condiciones Generales del MODELO DE PLIEGO DE LOS
+PROCEDIMIENTOS DE CONTRATACIÓN DE SEGUROS Versión SERCOP 1.0 (23 de
+septiembre de 2021), señala lo siguiente: “(…)
+2.1 Metodología de evaluación de las ofertas: La evaluación de las ofertas se encaminará a
+proporcionar una información imparcial sobre si una oferta debe ser rechazada y cuál de ellas
+cumple con el concepto de mejor costo en los términos establecidos en el número 18 del artículo
+
+Página 53 de 70
+
+6 de la LOSNCP.
+Se establecen de manera general para ello dos etapas: la primera, bajo metodología “Cumple /
+No Cumple”, en la que se analizan los documentos exigidos cuya presentación permite habilitar
+las propuestas (integridad de la oferta), y la verificación del cumplimiento de capacidades
+mínimas; y la segunda, en la que se evaluarán, mediante parámetros cuantitativos o valorados,
+las mayores capacidades de entre los oferentes que habiendo cumplido la etapa anterior, se
+encuentren aptos para esta calificación.
+2.2 Parámetros de Evaluación: Las entidades contratantes deberán acoger los parámetros de
+evaluación previstos por el SERCOP, pudiendo escoger adicionalmente otros que respondan a
+la necesidad, naturaleza y objeto de cada procedimiento de contratación; los que serán
+analizados y evaluados al momento de la calificación de las ofertas.
+La entidad contratante, bajo su responsabilidad, deberá asegurar que los parámetros de
+evaluación publicados en el Portal COMPRASPÚBLICAS sean los que realmente se utilizarán
+en el procedimiento.
+2.3 De la evaluación: Las capacidades requeridas a través de los parámetros de evaluación serán
+analizadas utilizando las dos etapas de evaluación señaladas en el numeral 2.1.
+La primera, bajo la metodología “Cumple / No Cumple” y posteriormente, solo con los oferentes
+calificados, la segunda que será “Por Puntaje” a través del Portal COMPRASPÚBLICAS.
+Los índices financieros previstos en el pliego, en caso de ser considerados, no constituirán un
+requisito mínimo de obligatorio cumplimiento y en consecuencia tendrán un carácter informativo.
+Se estará a la metodología “Por Puntaje” cuando el objetivo sea el establecimiento de mejores
+condiciones o capacidades de entre los oferentes que han acreditado previamente una condición
+o capacidad mínima requerida. (…)”
+Por lo tanto, el método de evaluación se realizará en una etapa Metodología de Evaluación
+Cumple/No Cumple.
+Bajo la metodología “Cumple / No Cumple”, en la cual se verificará la integridad de la oferta, y el
+cumplimiento de las capacidades mínimas requeridas.
+
+Página 54 de 70
+
+PARÁMETRO
+
+CUMPLE
+
+NO CUMPLE
+
+OBSERVACIONES
+
+Integridad de la Oferta (Formulario único de la oferta)
+Experiencia mínima personal técnico clave
+Experiencia específica mínima
+Experiencia general mínima
+Metodología y cronograma de ejecución
+Metodología y herramientas de desarrollo
+Personal técnico mínimo clave
+Transferencia Tecnológica
+Garantía Técnica
+
+Presentación de la Oferta. - El oferente deberá presentar su oferta, considerando lo siguiente:
+
+
+Incluirá un índice de contenidos;
+
+
+
+La oferta íntegra deberá estar firmada electrónicamente por el Representante Legal (cuando
+se trata de personas jurídicas) o por el contratista (cuando se trata de personas naturales);
+
+
+
+Presentar los documentos de conformidad a lo requerido en los Especificaciones Técnicas ;
+
+
+
+Los oferentes deberán revisar cuidadosamente los pliegos y cumplir con todos los requisitos
+solicitados en ellos. La omisión o descuido del oferente al revisar los documentos no le
+relevará de sus obligaciones con relación a su oferta.
+
+11.1 CONSIDERACIÓN IMPORTANTE PARA LA PRESENTACIÓN DE OFERTAS:
+La Codificación de Resoluciones del Servicio Nacional De Contratación Pública dispone en su
+artículo 24.1: “(…)
+
+Es responsabilidad del proveedor registrado en el RUP, mantener vigente
+
+su certificado de firma electrónica.
+Las ofertas presentadas, dependiendo del procedimiento de contratación pública, serán válidas
+únicamente si tienen una firma electrónica, a excepción de los procedimientos de contratación
+pública efectuados por medio de Ferias Inclusivas, en los cuales la firma de la oferta podrá
+también ser manuscrita. El sistema oficial de validación de documentos firmados
+electrónicamente será el sistema FIRMA EC, provisto por el Ministerio de Telecomunicaciones y
+
+Página 55 de 70
+
+de la Sociedad de la Información.
+Para los casos de las ofertas, bastará con la firma electrónica en los formularios que requiere su
+suscripción en concordancia con el Módulo Facilitador de Contratación - MFC y el modelo de
+pliegos en caso de requerir el formulario como anexo.
+En los casos de los anexos o documentación de respaldo que se adjunte a la oferta, deberá ser
+digitalizado y bastará con la firma electrónica por el oferente en el último documento que sea
+parte del archivo digital, se aplicará también para los casos que hayan sido suscritos o emitidos
+por un tercero con firma manuscrita, Esta firma implicará la declaración de que todos los
+documentos presentados son auténticos, exactos y veraces, y que el oferente se hace
+responsable de los mismos (...).”
+11.2 INTEGRIDAD DE LA OFERTA:
+Documentos que deben forman parte de la oferta, la falta de uno de ellos es causal de
+incumplimiento.
+
+11.2.1 Experiencia General Mínima del Oferente:
+
+MONTO DE
+EXPERIENCIA
+DESCRIPCIÓN DE LA
+EXPERIENCIA ADQUIRIDA
+
+GENERAL MÍNIMA
+TEMPORALIDAD
+
+REQUERIDA EN
+RELACIÓN AL
+PRESUPUESTO
+REFERENCIAL
+
+MONTO MÍNIMO
+REQUERIDO POR
+CADA CONTRATO
+EN RELACIÓN AL
+
+CONTRATOS
+
+MONTO
+
+PERMITIDOS
+
+DETERMINADO EN
+LA EXPERIENCIA
+
+(REFERENCIA)
+
+MÍNIMA GENERAL
+
+El Oferente deberá acreditar
+experiencia general en
+prestación de servicios de
+
+15 años previos a la
+
+desarrollo de software en
+entidades públicas y/o
+privadas a nivel nacional o
+
+publicación del
+procedimiento de
+
+USD. 26.000,00
+
+USD. 2.600,00
+
+10
+
+(No mayor a 20 %)
+
+contratación.
+
+internacional
+
+Nota: El número de contratos permitidos es un número referencial ya que el oferente podrá
+presentar el número de contratos que considere, siempre y cuando los mismos cumplan con el
+monto mínimo requerido.
+Fuente o medio de verificación: Para que la experiencia acreditada sea válida se debe realizar
+
+Página 56 de 70
+
+la presentación de certificados y/o copia de factura, actas definitivas, de conformidad con las
+Condiciones Generales del MODELO DE PLIEGO DE LOS PROCEDIMIENTOS DE
+CONTRATACIÓN Versión SERCOP 1.0 (23 de septiembre de 2021)., dentro de los 15 años
+previos a la publicación del procedimiento de contratación.
+NOTAS ACLARATORIAS:
+La entidad contratante se reserva el derecho de verificar la información proporcionada por los
+oferentes.
+
+11.2.2 Experiencia Específica Mínima del Oferente
+
+MONTO DE
+EXPERIENCIA
+DESCRIPCIÓN DE LA
+EXPERIENCIA
+
+ESPECÍFICA
+TEMPORALIDAD
+
+ADQUIRIDA
+
+REQUERIDA EN
+RELACIÓN AL
+PRESUPUESTO
+REFERENCIAL
+
+MONTO MÍNIMO
+REQUERIDO POR
+CADA CONTRATO EN
+
+CONTRATOS
+
+RELACIÓN AL
+
+PERMITIDOS
+
+MONTO
+DETERMINADO EN
+
+(REFERENCIAL)
+
+LA EXPERIENCIA
+MÍNIMA GENERAL
+
+El oferente deberá
+acreditar experiencia
+específica en prestación
+de servicios de desarrollo
+e implementación de
+sistemas referentes a
+
+5 años previos a la
+
+financiero, talento
+
+publicación del
+
+humano, catastros,
+
+procedimiento de
+
+planificación territorial,
+
+contratación.
+
+USD. 13.000,00
+
+USD. 1.300,00
+
+10
+
+(No mayor a 10 %)
+
+avalúos, servicios
+públicos, rentas,
+recaudación en empresas
+públicas o privadas a nivel
+nacional o internacional
+
+Nota: El número de contratos permitidos es un número referencial ya que el oferente podrá
+presentar el número de contratos que considere, siempre y cuando los mismos cumplan con el
+monto mínimo requerido.
+Fuente o medio de verificación: Para que la experiencia acreditada sea válida se debe realizar
+
+Página 57 de 70
+
+la presentación de certificados y/o copia de factura, actas definitivas, de conformidad con las
+Condiciones Generales del MODELO DE PLIEGO DE LOS PROCEDIMIENTOS DE
+CONTRATACIÓN Versión SERCOP 1.0 (23 de septiembre de 2021)., dentro de los 5 años previos
+a la publicación del procedimiento de contratación.
+NOTAS ACLARATORIAS:
+La entidad contratante se reserva el derecho de verificar la información proporcionada por los
+oferentes.
+
+11.2.3 Personal Técnico Mínimo
+El oferente debe disponer del personal técnico capacitado y calificado, debiendo certificar su
+conocimiento y experiencia adjuntando hoja de vida, con las copias de los certificados y/o
+documentos que avalen lo declarado en la hoja de vida.
+Función
+
+Nivel de estudio
+
+Cantidad
+
+Profesionales de Tercer Nivel: Ingeniero en
+
+Líder de
+proyecto
+
+Titulación Académica
+
+Tercer Nivel con
+
+Sistemas Informáticos
+
+título
+
+(Presentar Hoja de Vida y Copia de Título tercer
+
+1
+nivel debidamente registrado en la Senescyt
+Profesionales de Tercer Nivel: Ingeniero en
+Sistemas Informáticos,
+
+Especialista
+en Base de
+datos
+
+Tercer Nivel con
+
+Especialista en Base de datos / Inteligencia de
+
+Título
+
+negocios
+
+1
+
+(Presentar Hoja de Vida y Copia de Título tercer
+nivel debidamente registrado en la Senescyt)
+Especialista
+en Desarrollo
+de software
+
+Profesionales de Tercer Nivel: Ingeniero en
+Tercer Nivel con
+
+Sistemas Informáticos,
+
+Título
+
+(Presentar Hoja de Vida y Copia de Título tercer
+
+2
+nivel debidamente registrado en la Senescyt)
+
+Página 58 de 70
+
+11.2.3.1 Experiencia mínima del Personal técnico:
+EXPERIENCIA ESPECÍFICA
+Personal técnico:
+Nro.
+
+tipo
+
+DESCRIPCIÓN
+
+Tiempo mínimo
+
+Número de
+
+experiencia
+
+Proyectos
+
+5 años
+
+2
+
+5 años
+
+2
+
+4 años
+
+1
+
+El profesional deberá presentar mínimo 2 certificados que
+acrediten su experiencia en proyectos similares en desarrollo
+Líder de proyecto
+Profesionales de
+1
+
+Tercer Nivel:
+Ingeniero en Sistemas
+Informáticos
+
+de software o implementación de sistemas informáticos, con
+referencia a catastro, planificación territorial, avalúos, agua,
+rentas, recaudación, manejo de servicios públicos.
+Manejo de metodología ágil SCRUM, se deberá presentar
+certificado que acredite el conocimiento deberá adjuntar
+documentos
+
+que
+
+respalden
+
+su
+
+experiencia
+
+mínima
+
+(certificados o actas que comprueben la experiencia en la
+Arquitectura de Integración de Sistemas Informáticos
+
+Especialista en Base
+de datos
+Profesionales de
+Tercer Nivel:
+1
+
+Ingeniero en Sistemas
+Informáticos,
+
+El profesional deberá presentar mínimo 2 certificados que
+acrediten su experiencia en proyectos similares en desarrollo
+de software o migraciones de datos o inteligencia de negocios.
+Manejo de metodología ágil SCRUM, se deberá presentar
+certificado que acredite el conocimiento.
+
+Especialista en Base
+de datos / Inteligencia
+de negocios
+Especialista en
+Desarrollo de
+
+El profesional deberá presentar mínimo 2 certificados que
+
+software
+
+acrediten su experiencia en el manejo de las herramientas
+POSTGRES SQL, EJB, GLASSFISH, ICE FACES o JAVA y
+(certificados o actas entrega o contratos) que comprueben la
+
+2
+
+Profesionales de
+
+experiencia en proyectos similares en desarrollo de sistemas
+
+tercer Nivel:
+Ingeniero en sistema
+
+Página 59 de 70
+
+11.2.3.2 Equipo Mínimo
+Recursos y tecnología
+Detalle
+
+Cantidad
+
+Unidad de medida
+
+Computador de 11va. Generación
+
+3
+
+Unidad
+
+Impresora multifunción
+
+1
+
+Unidad
+
+1
+
+Unidad
+
+Servidores - (ambiente) de desarrollo y
+pruebas
+
+11.2.3.3 Herramientas para Desarrollo y Aplicación
+El sistema deberá ser desarrollado en Software Libre; así como las herramientas para aplicación:
+HERRAMIENTAS PARA DISEÑO Y DESARROLLO
+DEFINICIÓN
+
+HERRAMIENTA
+
+Programación Java UML
+
+OPENJDK14 - POWER DESIGNER
+
+IDE
+
+NETBEANS
+
+Reportes
+
+HTML
+
+Servidor de Aplicaciones
+
+WILDFLY
+
+Base de Datos
+
+POSTGRES
+
+Servidor de Versiones
+
+GIT
+
+Sistema Operativo Servidores
+
+WINDOWS SERVER - CENTOS 7
+
+Sistema Operativo Desarrollo
+
+WINDOWS 10
+FIREBUG, JMETER, PRUEBAS EN
+
+Pruebas
+
+SITIO
+
+Capacitación
+
+EN SITIO
+
+Página 60 de 70
+
+Arquitectura por tecnologías
+ESTANDARES
+
+Estándares de Programación de Aplicaciones Java, el mismo que contempla
+temas de notación, documentación y patrones de diseño.
+
+ARQUITECTURA
+
+PRESENTACION
+
+JSF (Microsoft Edge, Firefox, Chrome, Opera, Safari)
+
+DE TECNOLOGÍA
+GOOGLE CHARTS, AJAX, PRIMEFACES, TEMPLATES
+CSS.
+SERVICIOS
+
+WEB SERVICE: REST, APLINFO API
+
+NEGOCIO
+
+EJB 3.X,
+
+ACCESO
+
+JPA HIBERNATE
+
+DATOS
+
+POSTGRESQL
+
+HERRAMIENTAS
+
+SOFTWARE
+
+DE DESARROLLO
+
+LIBRE
+
+JDK última versión estable
+Netbeans, última versión estable definida por oferente.
+
+La compilación y creación de jar y wars serán efectuada
+mediante Maven
+
+VISTA PROYECTO
+
+WEB
+
+Navegadores
+
+11. INDICES FINANCIEROS
+Índice
+
+Indicador
+
+Observaciones (Adjuntar documentos de respaldo)
+
+solicitado
+Solvencia*
+
+>=1.0
+
+Endeudamiento*
+
+<1.5
+
+12. FORMA Y CONDICIONES DE PAGO. 30% como anticipo a partir de la suscripción del contrato.
+70% a la firma del acta de entrega recepción definitiva de los productos esperados y presentación
+
+Página 61 de 70
+
+del informe técnico tanto del oferente y del administrador y factura.
+
+13. VIGENCIA DE LA OFERTA
+Las ofertas tendrás una vigencia de 60 días calendario.
+
+14. COSTO DE LEVANTAMIENTO DE TEXTO, REPRODUCCIÓN Y EDICIÓN DE
+PLIEGOS
+Para el “Adquisición de Sistema Informático Integrado Administrativo-Financiero-Catastro para
+la Empresa Publica Metropolitana Mercado Mayorista de Quito”, el MMQEP cobrará el valor de
+0 (cero) por costos.
+
+15. PRESUPUESTO REFERENCIAL. El presupuesto referencial está determinado en base al estudio del mercado.
+
+16. LUGAR Y FORMA DE ENTREGA
+El lugar de entrega del servicio será en las instalaciones de la Empresa Pública Metropolitana
+Mercado Mayorista de Quito MMQEP, ubicado en la Avenida Teniente Hugo Ortiz y Ayapamba
+S/N, provincia de Pichincha, Cantón Quito.
+
+17. GARANTÍA TÉCNICA. -
+
+Condicionante: El Oferente presentará una Garantía Técnica de tres años de vigencia.
+Esta garantía deberá señalar que los errores de gestión, resoluciones de errores del sistema y
+cálculo le son atribuibles al oferente y consecuentemente serán corregidos en un plazo no mayor
+a 5 días laborables una vez detectado el inconveniente y sin costo adicional mientras dure la
+garantía técnica del sistema.
+El adjudicatario, previo, antes o al momento de la firma del contrato, presentará a favor de la
+entidad contratante una garantía de fiel cumplimiento del contrato, si la cuantía del mismo es
+mayor al valor que resulte de multiplicar el coeficiente 0.000002 por el presupuesto inicial del
+Estado de correspondiente ejercicio económico. Esta garantía se rendirá por un valor igual al 5%
+
+Página 62 de 70
+
+del monto total de la orden de compra.
+Las garantías serán entregadas a través de cualquier forma prevista en el artículo 73 de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, y serán devueltas conforme lo dispuesto
+en el artículo 77 de la misma ley.
+
+15.1
+
+Vigencia Tecnológica.
+
+Con el fin de emitir la certificación de aceptación de los productos se realizarán las siguientes
+pruebas de acuerdo a la criticidad:
+
+
+Ejecutar Pruebas Unitarias. - mismas que permiten verificar la funcionalidad y estructura de
+cada componente individualmente del sistema una vez que ha sido codificado. Estas pruebas
+se ejecutarán en funcionalidades críticas definidas por el Administrador de contrato.
+
+
+
+Ejecutar Pruebas de Integración. - mismas que permiten verificar el correcto ensamblaje
+entre los distintos módulos que componen el sistema desarrollado, así como también con el
+sistema de Autoparking actual o nueva implementación.
+
+
+
+Ejecutar Pruebas de Sistema. - mismas que buscan diferencias entre la solución desarrollada
+y los requerimientos, con el fin de identificar errores que se puedan generar entre la
+especificación funcional y el diseño del sistema. Estas pruebas serán ejecutadas por los
+analistas o administradores funcionales de la MMQEP, quienes reportarán los resultados de
+las pruebas al gerente del proyecto, y éste a su vez al oferente.
+
+
+
+En caso de ser requerido, la empresa oferente deberá ejecutar lo siguiente:
+o Pruebas de Carga. - mismas que validan aquellos volúmenes de datos máximos
+especificados en los requerimientos no Funcionales.
+o Pruebas de Volumen. - mismas que someten al software a grandes cantidades
+de datos para determinar si se alcanzan límites que causen la falla del software.
+o Pruebas de Estrés. - mismas que validan aquellos volúmenes de datos máximos
+que resiste el sistema antes de que presenten errores.
+
+
+
+En todos los casos el proveedor debe entregar la documentación respectiva.
+
+La siguiente es una lista de requerimientos que el Proveedor debe cumplir una vez que, por un
+lado, el módulo/componente/producto de software se encuentre en operación y por otro, haya
+sido aceptado por el Administrador de contrato asignado por la MMQEP:
+
+
+Entregar un período de 3 años de vigencia para la garantía contra defectos de desarrollo,
+contados a partir de la fecha de suscripción del Acta de Entrega Recepción. La garantía de
+los productos desarrollados deberá incluir arreglos de:
+
+Página 63 de 70
+
+o
+
+Defectos de programación o instalación, propios de las implementaciones realizadas
+por el proveedor.
+
+o
+
+Problemas de desempeño al verificar algún error en el código implementado por el
+proveedor.
+
+Por lo tanto, el Proveedor deberá afinar y ajustar componentes del software en función del error
+que reporte el Administrador de contrato a través del Administrador de Contrato sin costo
+adicional.
+
+
+El técnico provisto por el proveedor que brinde mantenimiento a un módulo y/o componente
+(por cuestión de garantía), acompañará de manera presencial durante la etapa de
+optimización o desarrollo e indirectamente hasta su estabilización, considerando que si hay
+errores de programación estos deben ser cubiertos dentro de la garantía.
+
+
+
+El Acuerdo de Nivel de Servicio (SLA) con el Proveedor será el siguiente, a menos que se
+genere uno de común acuerdo, pero que considere estos lineamientos:
+o
+
+Errores Críticos (No permiten continuar con el trabajo, o existe pérdida o duplicidad
+de información trascendental para el subsistema): El proveedor deberá solucionar el
+inconveniente en un tiempo máximo de 4 horas de reportado el error.
+
+o
+
+Incidentes de Nivel Alto (No permiten continuar con el trabajo de una parte del
+sistema, sin que exista pérdida o duplicidad de información trascendental): El
+proveedor deberá solucionar el inconveniente en un periodo máximo de 1 día
+después de reportado el error.
+
+o
+
+Incidentes de Nivel Medio (Puede salir el proceso como está y se puede corregir
+sobre la marcha): El proveedor deberá solucionar el inconveniente en un periodo
+máximo de 2 días después de reportado el error.
+
+o
+
+Errores Bajos (Problemas que no afectan el funcionamiento del sistema y se puede
+seguir trabajando con normalidad): El proveedor deberá solucionar el inconveniente
+en un periodo máximo de 5 días después de reportado el error.
+
+o
+
+El proveedor en acuerdo con la EMPTPQ deberá definir: el mecanismo que se use
+para el reporte, escalamiento de errores, persona de contacto y de ser el caso
+cuando aplica, visita en sitio.
+
+18. MULTAS. –
+
+Se aplicará la multa del cinco por mil (1 x 1000) de las obligaciones que se encuentran pendientes
+de ejecutarse conforme lo establecido en el contrato.
+
+Página 64 de 70
+
+Si los valores de las multas alcanzan el 5% del valor total del contrato, el Contratante podrá
+declarar la terminación unilateral y anticipada del contrato de pleno derecho, reservándose
+además del cobro de las multas, el ejercicio de las acciones legales por daños y perjuicios, por
+incumplimiento del contrato:
+
+
+Por retraso en cada una de las condiciones y obligaciones establecidas en las
+especificaciones técnicas, pliegos, oferta y contrato.
+
+
+
+Por cada día de retraso en la presentación de productos por parte del Oferente.
+
+
+
+Por cada día de retraso en el cumplimiento de la ejecución del plazo contractual, productos,
+condiciones y demás obligaciones establecidas en las Especificaciones Técnicas y contrato.
+Si no dispone del personal técnico, administrativo u operacional o del equipo del Oferente de
+acuerdo a las necesidades que se presenten en el transcurso de la ejecución.
+
+
+
+Si el Oferente no observare o incumpliere las instrucciones impartidas por el Administrador
+del Contrato.
+
+
+
+Si el Oferente incumpliere con las reglas, condiciones de presentación de informes y trabajo,
+detalladas en las Especificaciones Técnicas y el Contrato.
+
+19. OBLIGACIONES DEL CONTRATISTA: EL CONTRATISTA SE OBLIGA A. 
+
+El oferente brindará el servicio en las instalaciones de la MMQEP. Por excepción y en caso
+de requerir trabajar remotamente o en otro lugar temporalmente esto deberá ser analizado y
+autorizado por el Administrador de Contrato.
+
+
+
+El oferente deberá presentar informes quincenales de avance de los productos señalados en
+el numeral ocho (8) del presente documento, mismos que deberán ser revisados, validados,
+y aprobados por la MMQEP a través de la Comisión Técnica designada para tal efecto y por
+el Administrador de Contrato. En caso de existir observaciones en cuanto al avance de
+productos y/o entrega de productos contratados por parte de la MMQEP, el contratista
+deberá solventarlos en un plazo máximo de 7 días calendario, sin que ello implique
+ampliación de plazo contractual.
+
+
+
+Los servicios ofertados no podrán ser alterados, modificados, ni sustituidos durante la
+vigencia del contrato.
+
+
+
+Asistencia Técnica: Tres (3) años de asistencia técnica contra defectos del software, para lo
+cual se debe tener un especialista de desarrollo señor en sitio por un periodo de 4 meses y
+el resto de tiempo de la vigencia tecnológica (2 años con 4 meses) la empresa deberá cumplir
+el SLA establecido en la cláusula de vigencia tecnológica.
+
+Página 65 de 70
+
+
+
+El talento humano asignado al proyecto estará a cargo del proveedor, por lo tanto, todo lo
+concerniente a relación laboral o remuneraciones con dicho personal será de entera
+responsabilidad de la empresa adjudicada.
+
+
+
+Se deberá realizar todas las actualizaciones y mejoras sobre el sistema o software por lo
+menos una vez al año en los servidores de la MMQEP, sin que esto implique costo adicional
+para la empresa.
+
+
+
+Asesoría en las diferentes áreas o problemas referentes al sistema que pudieren presentarse
+durante la implementación del sistema.
+
+
+
+El oferente concederá los derechos de propiedad intelectual a la MMQEP sobre todo el
+desarrollo y documentación generada, cediendo cualquier derecho de explotación
+(reducción, distribución, comunicación y transformación) y propiedad de los mismos. El
+proveedor no podrá utilizar, reproducir, modificar, adaptar, publicar, comercializar, presentar
+o traducir digitalmente, crear trabajos derivados y distribuir dichos materiales o incorporarlos
+a cualquier forma, medio o tecnología conocida o por conocer, los productos revisados y/o
+aprobados que fueron entregados.
+
+
+
+El oferente deberá dar autorización formal para que la MMQEP pueda realizar auditorías de
+seguridad sobre el servicio y la aplicación ofertada.
+
+
+
+Migración de datos conforme al análisis y proceso definido en la fase dos.
+
+
+
+El oferente deberá contar con toda la infraestructura tecnología y el recurso humano
+necesario para el análisis, diseño, desarrollo y pruebas de la solución ofertada.
+
+
+
+Los equipos y herramientas a usar serán provistas por el Proveedor; esto es, computadores,
+software, cables de red y de requerirse switches, impresora y supresores o aquellos
+suministros que consideren necesarios.
+
+
+
+Una vez que el sistema esté listo y aprobado mediante acta suscrita por la comisión técnica
+y el administrador de contrato, este deberá ser puesto en producción en la infraestructura
+facilitada por la MMQEP.
+
+
+
+La implementación y puesta en marcha del sistema deberán regirse a las políticas
+establecidas por la Jefatura de Desarrollo Tecnológico de la MMQEP.
+
+
+
+Todo el software necesario para realizar pruebas de carga, pruebas de estrés, licencias para
+ambiente de pruebas y ambiente de producción, lo deberá proveer el proveedor.
+
+
+
+El proveedor tiene la obligación de proveer todas las licencias, para ambiente de pruebas,
+ambiente de desarrollo y producción.
+
+
+
+El proveedor tiene la obligación de proveer el hardware (computadora, switch, cables…) y
+software necesario a su equipo de trabajo.
+
+
+
+Suscribirá un acuerdo de confidencialidad respecto del uso de credenciales de identificación,
+del manejo de la información existente.
+
+Página 66 de 70
+
+
+
+Se obliga a cumplir el objeto contractual de acuerdo con las disposiciones aquí contenidas y
+de conformidad con lo ofrecido en su oferta y lo dispuesto en este documento.
+
+
+
+Cumplirá los requerimientos que durante el desarrollo del contrato el Mercado Mayorista le
+imparta a través del administrador del contrato y de manera general obrará con la lealtad y
+buena fe en las distintas etapas contractuales, evitando las dilaciones e inconvenientes que
+pudieran presentarse.
+
+
+
+Deberá cumplir con la entrega efectiva de los productos que se contratan, así como cumplir
+con los informes que se solicitan en base a la forma de pago.
+
+
+
+Los documentos deberán ser entregados de manera física (papel) y digital por productos de
+acuerdo a la Oferta Técnica presentada por el contratista y debidamente respaldada por el
+Cronograma de ejecución de actividades.
+
+
+
+Capacitar al personal de las diferentes Direcciones que se encuentren inmersos en la
+presente contratación, de tal forma que puedan desempeñarse independientemente en las
+diferentes actividades una vez terminado el contrato.
+
+
+
+Socializar los productos entregados a todas las direcciones que se encuentren inmersos en
+dicha contratación.
+
+
+
+Entregar el código fuente, manuales de usuarios, manuales técnicos y diccionario de datos.
+
+
+
+El oferente coordinará con la Unidad de TIC’s las acciones necesarias para garantizar la
+seguridad e integridad de la información a ser publicada en la Web.
+
+20. OBLIGACIONES DEL CONTRATANTE: LA CONTRATANTE SE OBLIGA A. 
+
+Facilitar el uso del archivo digital y alfanumérico existente en la institución, además de toda
+la documentación e información que sea necesaria para que el contratista ejecute
+adecuadamente el trabajo.
+
+
+
+Designar un administrador de contrato.
+
+
+
+Adoptar las acciones necesarias para evitar retrasos injustificados.
+
+
+
+Imponer multas y sanciones en el caso que exista.
+
+
+
+Verificar el cumplimiento del contrato en relación con la oferta y las especificaciones técnicas.
+
+
+
+Informar oportunamente a las autoridades en caso de retrasos justificados.
+
+
+
+Responder cuanta petición se produzca producto de la ejecución del contrato
+
+
+
+Solicitar los pagos de conformidad a lo estipulado en el contrato, una vez cumplidas las
+condiciones adjuntando la documentación de soporte.
+
+
+
+En caso de terminación unilateral del contrato, elaborará informes técnicos y económicos,
+mismos que serán puestos en conocimiento del contratista previo a la elaboración de la
+resolución de terminación unilateral.
+
+Página 67 de 70
+
+
+
+Solicitar a la máxima autoridad la designación del técnico que no ha intervenido en la
+contratación para la suscripción del acta entrega recepción definitiva.
+
+
+
+Aprobar el informe final definitivo entregado por el contratista.
+
+
+
+Elaborar y suscribir el acta de entrega de recepción del trabajo junto con el técnico afín de la
+contratación y el contratista.
+
+21. ADMINISTRADOR DEL CONTRATO. Se recomienda al Jefe de Desarrollo Tecnológico ya que tiene todo el conocimiento para ejercer
+ésta designación y cumplir conforme lo determina la RESOLUCIÓN No. RE-SERCOP-2021-0112
+en su Art.530.10.- Atribuciones comunes del administrador del contrato. - A más de las
+establecidas en la Ley y en el respectivo instrumento contractual, son funciones comunes del
+administrador del contrato las siguientes:
+1. Coordinar todas las acciones que sean necesarias para garantizar la debida ejecución del
+contrato.
+2. Cumplir y hacer cumplir todas y cada de una de las obligaciones derivadas del contrato y los
+documentos que lo componen.
+3. Adoptar las acciones que sean necesarias para evitar retrasos injustificados, ya sea en las
+entregas parciales o totales, incluso evitará retrasos al cronograma valorado de trabajos, si el
+objeto es de obras.
+4. Imponer las multas a que hubiere lugar, las cuales deberán estar tipificadas en el contrato
+administrativo, para lo cual se deberá respetar el debido proceso.
+5. Administrar las garantías correspondientes, de conformidad con las normas que la regulan y
+en los casos que apliquen, esta obligación persistirá durante todo el periodo de vigencia del
+contrato, sin perjuicio que esta actividad sea coordinada con el tesorero de la entidad contratante
+o quien haga sus veces, a la que le corresponde el control y custodia de las garantías. En todo
+caso la responsabilidad por la gestión de las garantías será solidaria entre el administrador del
+contrato y el tesorero.
+6. Reportar a la máxima autoridad de la entidad contratante o su delegado, cualquier aspecto
+operativo, técnico, económico y de cualquier naturaleza que pudieren afectar al cumplimiento del
+contrato.
+
+Página 68 de 70
+
+7. Coordinar con los demás órganos y profesionales de la entidad contratante, que, por su
+competencia, conocimientos y perfil, sea indispensable su intervención, para garantizar la debida
+ejecución del contrato.
+8. Notificar la disponibilidad del anticipo cuando este sea contemplado en el contrato como forma
+de pago, para lo cual deberá coordinar con el área financiera de la entidad contratante.
+9.Verificar que los movimientos de la cuenta del contratista correspondan estrictamente al
+procedimiento de devengamiento del anticipo y su ejecución contractual.
+10. Proporcionar al contratista todas las instrucciones que sean necesarias para garantizar el
+debido cumplimiento del contrato.
+11. Emitir instrucciones adicionales respecto del cumplimiento de especificaciones técnicas, en
+caso de que cualquier dato o información no hubieren sido establecidos o el contratista no
+pudiere obtenerla directamente, en ningún caso dichas instrucciones modificarán las
+especificaciones técnicas.
+12. Requerir motivadamente al contratista, la sustitución de cualquier integrante de su personal
+cuando lo considere incompetente o negligente en su oficio, se negare a cumplir las
+estipulaciones del contrato y los documentos anexos, o cuando presente una conducta
+incompatible con sus obligaciones. El personal con el que se sustituya deberá acreditar la misma
+o mejor capacidad, experiencia y demás exigencias establecidas en los pliegos.
+13. Autorizar o negar el cambio del personal asignado a la ejecución del contrato, para ello
+deberá cerciorarse que el personal que el contratista pretende sustituir al inicialmente propuesto,
+a más de acreditar la misma o mejor capacidad, experiencia y demás exigencias establecidas en
+los pliegos, desarrolle adecuadamente las funciones encomendadas.
+14. Verificar de acuerdo con la naturaleza del objeto de contratación, que el contratista cuente o
+disponga de todos los permisos y autorizaciones que le habiliten para el ejercicio de su actividad,
+especialmente al cumplimiento de legislación ambiental, seguridad industrial y salud ocupacional,
+legislación laboral, y aquellos términos o condiciones adicionales que se hayan establecidos en
+el contrato.
+15. Reportar a las autoridades de control, cuando tenga conocimiento que el contratista no
+cumpla con sus obligaciones laborales y patronales conforme a la ley.
+16. Verificar permanentemente y en los casos que sea aplicable, el cumplimiento de Valor de
+Agregado Ecuatoriano, desagregación y transferencia tecnológica, así como el cumplimiento de
+
+Página 69 de 70
+
+cualquier otra figura legalmente exigible y que se encuentre prevista en el contrato o que por la
+naturaleza del objeto y el procedimiento de contratación sean imputables al contratista.
+17. Elaborar e intervenir en las actas de entrega recepción a las que hace referencia el artículo
+81 de la Ley Orgánica del Sistema Nacional de Contratación Pública; así como coordinar con el
+contratista y el técnico que no intervino durante la ejecución del contrato, la recepción del
+contrato.
+22. FIRMA DE RESPONSABILIDAD. Elaborado por
+
+Elaborado por
+
+Firmado digitalmente
+CARLOS
+por CARLOS
+MAURICIO MAURICIO
+QUILACHAMIN
+QUILACHAM SIMBAÑA
+Fecha: 2022.07.21
+IN SIMBAÑA 10:39:04 -05'00'
+
+Firmado
+TANIA
+digitalmente por
+GABRIELA
+GABRIELA TANIA
+CADENA
+CADENA GONZALEZ
+Fecha: 2022.07.21
+GONZALEZ 10:43:35 -05'00'
+
+Ing. Mauricio Quilachamín
+
+Ing. Tania Cadena
+
+Jefe de Desarrollo Tecnológico
+
+Especialista de Talento Humano
+
+Elaborado por
+
+Elaborado por
+
+Firmado
+PABLO
+digitalmente por
+PABLO DANILO
+DANILO
+ESTRELLA
+ESTRELLA CALDERON
+2022.07.21
+CALDERON Fecha:
+10:47:26 -05'00'
+
+SEBASTIAN Firmado
+digitalmente por
+RICARDO SEBASTIAN
+RICARDO ARICO
+ORTIZ
+ARICO
+Fecha: 2022.07.21
+ORTIZ
+10:56:27 -05'00'
+
+Tlgo. Pablo Estrella
+
+Ing. Sebastián Arico
+
+Guardalmacén
+
+Jefe de Catastro, Subrogante
+Revisado y Aprobado por
+
+JUAN
+GABRIEL
+JARRIN
+PEREIRA
+
+Firmado
+digitalmente por
+JUAN GABRIEL
+JARRIN PEREIRA
+Fecha: 2022.07.21
+11:04:12 -05'00'
+
+Mgs. Juan Gabriel Jarrín
+Gerente de Desarrollo Organizacional
+
+Página 70 de 70
+
+

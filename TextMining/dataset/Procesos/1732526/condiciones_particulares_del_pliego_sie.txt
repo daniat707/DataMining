@@ -1,0 +1,1111 @@
+
+|MODELO DE PLIEGO DE SUBASTA INVERSA ELECTRÓNICA DE BIENES Y/O      |
+|SERVICIOS                                                          |
+|Versión SERCOP 2.1 (09 de junio de 2017)                           |
+
+                                   ÍNDICE
+
+
+   I. CONDICIONES PARTICULARES DEL PLIEGO PROCEDIMIENTO DE SUBASTA INVERSA
+                     ELECTRÓNICA DE BIENES Y/O SERVICIOS
+
+
+|                |                                                  |
+|SECCIÓN I       |CONVOCATORIA                                      |
+|                |OBJETO DE LA CONTRATACIÓN, PRESUPUESTO            |
+|SECCIÓN II      |REFERENCIAL, ESPECIFICACIONES TÉCNICAS  O TÉRMINOS|
+|                |DE REFERENCIA                                     |
+|                |                                                  |
+|                |Objeto de contratación                            |
+|                |Presupuesto referencial                           |
+|                |Especificaciones técnicas o términos de referencia|
+|                |CONDICIONES DEL PROCEDIMIENTO                     |
+|SECCIÓN III     |                                                  |
+|                |3.1 Cronograma del procedimiento                  |
+|                |3.2 Vigencia de la oferta                         |
+|                |3.3 Precio de la Oferta                           |
+|                |3.4 Forma de presentar la oferta                  |
+|                |3.5 Plazo de ejecución                            |
+|                |3.6 Forma de Pago                                 |
+|                |3.6.1 Anticipo                                    |
+|                |3.6.2 Valor restante                              |
+|                |VERIFICACIÓN Y EVALUACIÓN DE LAS OFERTAS TECNICAS |
+|SECCIÓN IV      |                                                  |
+|                |4.1    Verificación de las ofertas                |
+|                |4.1.1 Integridad de las ofertas                   |
+|                |4.1.2 Equipo mínimo                               |
+|                |4.1.3 Personal técnico mínimo                     |
+|                |4.1.4 Experiencia general y específica mínima     |
+|                |4.1.5 Experiencia mínima del personal técnico     |
+|                |4.1.6 Especificaciones técnicas o términos de     |
+|                |referencia                                        |
+|                |4.1.7 Patrimonio (Aplicable a personas jurídicas):|
+|                |                                                  |
+|                |4.1.8 Verificación de cumplimiento de integridad y|
+|                |requisitos mínimos de la oferta                   |
+|                |4.1.9 Información Financiera de Referencia        |
+|SECCIÓN V       |PUJA                                              |
+|                |                                                  |
+|                |5.1 Oferta económica inicial                      |
+|                |5.2 Puja                                          |
+|                |5.3 Negociación única                             |
+|                |5.4 Porcentaje de Valor Agregado Ecuatoriano      |
+|                |Mínimo                                            |
+|                |OBLIGACIONES DE LAS PARTES                        |
+|SECCIÓN VI      |                                                  |
+|                |6.1 Obligaciones del adjudicatario en la          |
+|                |aplicación de transferencia de tecnología         |
+|                |6.2 Obligaciones del contratista                  |
+|                |6.3 Obligaciones de la contratante                |
+|                |6.3.1 Obligaciones del contratante en la          |
+|                |aplicación de transferencia de tecnología         |
+
+Nota: Edición del modelo de pliego.- El presente modelo de pliego es de  uso
+obligatorio  para  las   entidades   contratantes,   éstas   señalarán   las
+condiciones particulares del procedimiento de Subasta  Inversa  Electrónica,
+así como las especificidades del procedimiento  al  que  convocan.  Para  el
+efecto  detallarán   e   individualizarán   las   condiciones   del   mismo,
+considerando la normativa vigente aplicable. En consecuencia, las  entidades
+contratantes asumen la responsabilidad por los  ajustes  y/o  modificaciones
+realizadas a las
+condiciones particulares del  presente  pliego,  así  como  también  por  la
+determinación y aplicabilidad de los formularios previstos para el  presente
+procedimiento,  y  finalmente,  reemplazarán  todo  texto  que   conste   en
+paréntesis por el contenido pertinente.
+
+Aquellas disposiciones  del  presente  pliego  que  obedezcan  a  una  nueva
+implementación en la funcionalidad de la herramienta, serán  aplicables  una
+vez que el Servicio Nacional de Contratación Pública comunique a  través  de
+su Portal Institucional dichas adecuaciones a  la  herramienta  informática,
+en tal razón, es responsabilidad de la entidad contratante y  del  proveedor
+descargar y mantener actualizado el Módulo Facilitador Pliegos y  Oferta,  a
+fin de contar con las versiones actualizadas en el  marco  de  la  normativa
+vigente y de conformidad a la funcionalidad de la  herramienta  informática,
+según el procedimiento de contratación pública.
+
+
+                         SUBASTA INVERSA ELECTRONICA
+                          (CÓDIGO DEL PROCEDIMIENTO)
+
+     I. CONDICIONES PARTICULARES DEL PLIEGO  SUBASTA INVERSA ELECTRÓNICA
+
+                                  SECCIÓN I
+
+                                CONVOCATORIA
+
+Se convoca a las personas naturales o jurídicas, nacionales  o  extranjeras,
+asociaciones de éstas o consorcios  o  compromisos  de  asociación,  que  se
+encuentren habilitadas en  el  Registro  Único  de  Proveedores,  legalmente
+capaces para contratar, a que presenten sus  ofertas  para  (describir  bien
+y/o servicio normalizado /Objeto Contractual).
+
+Aquellos proveedores que no hayan sido invitados  automáticamente  a  través
+del Portal Institucional del  Servicio  Nacional  de  Contratación  Pública,
+siempre  que  estén  registrados  en  la  categoría   del   producto,   CPC,
+correspondiente, para participar en el procedimiento podrán auto  invitarse,
+hasta antes de la fecha límite para la presentación  de  ofertas.  El  plazo
+estimado para la ejecución del contrato es de (días), contado  a  partir  de
+(establecer si desde la fecha de  la  suscripción  del  contrato,  desde  la
+fecha de notificación de que el anticipo se encuentra  disponible,  o  desde
+cualquier otra condición, de acuerdo a la naturaleza del contrato).
+
+Las condiciones generales de esta convocatoria son las siguientes:
+
+
+1. El pliego está disponible, sin ningún costo, en el Portal  Institucional
+   del Servicio Nacional de Contratación Pública,  únicamente  el  oferente
+   que  resulte  adjudicado,  una  vez  recibida  la  notificación  de   la
+   adjudicación, pagará a la (entidad contratante) el valor  de  (valor  en
+   números y letras), de conformidad con lo previsto en  el  inciso  4  del
+   artículo 31 de la Ley Orgánica  del  Sistema  Nacional  de  Contratación
+   Pública.
+
+
+   2. Los interesados podrán  formular  preguntas,  para  lo  cual  deberán
+      observar  los  términos  establecidos  para  cada  procedimiento   de
+      contratación conforme a la normativa emitida por el Servicio Nacional
+      de Contratación Pública para  el  efecto.  La  Comisión  Técnica  y/o
+      máxima autoridad o su delegado absolverá obligatoriamente  todas  las
+      preguntas y realizará las aclaraciones necesarias, en un  término  de
+      (mínimo de 3 y máximo de 6 días) subsiguientes a  la  conclusión  del
+      período establecido para formular preguntas y aclaraciones.
+
+
+3. La oferta se presentará  de  forma  física  en  (nombre  de  la  entidad
+   contratante), ubicada en (dirección de la  entidad  contratante);  y,  a
+   través del Portal Institucional del Servicio  Nacional  de  Contratación
+   Pública; hasta las (hora a definir por la entidad) del día (fecha).
+
+   Los oferentes deberán tener en cuenta que, de ser  el  caso,  la  oferta
+   económica registrada en el mencionado Portal  deberá  coincidir  con  la
+   oferta económica entregada en forma física. De existir diferencia en  el
+   monto que consta en la oferta física y el  registrado  electrónicamente,
+   la entidad contratante remitirá al  Servicio  Nacional  de  Contratación
+   Pública la petición de ajuste debidamente sustentada.
+
+
+   En caso de que la oferta se presente a través del  Portal  Institucional
+   del  Servicio  Nacional  de  Contratación  Pública,  y  contenga   firma
+   electrónica, no será necesaria la presentación de  la  oferta  en  forma
+   física. La entidad contratante será  responsable  de  la  validación  de
+   dicha firma electrónica, de conformidad a la normativa aplicable.
+
+   4. El acto de apertura  de  ofertas  será  público  y  se  efectuará  en
+      (señalar dirección).
+
+5. Si la calificación realizada por  la  (entidad  contratante  o  Comisión
+   Técnica, según corresponda) ha sido aceptada por la máxima  autoridad  o
+   su delegado, se dispondrá que los oferentes  habilitados  presenten  sus
+   ofertas económicas iniciales  a  través  del  Portal  Institucional  del
+   Servicio Nacional de Contratación Pública, las mismas  que  deberán  ser
+   inferiores al presupuesto referencial del procedimiento.
+
+
+   Para  poder  participar  del  mecanismo   electrónico   en   el   Portal
+   Institucional del Servicio Nacional de Contratación Pública, al  momento
+   de realizarse la puja, los  oferentes  interesados  deberán  encontrarse
+   habilitados en el Registro Único de Proveedores.
+
+
+   6. En el día y hora señalados en la convocatoria, se realizará  la  puja
+      hacia la baja a través del Portal Institucional del Servicio Nacional
+      de Contratación Pública.
+
+
+   7. La fecha estimada de adjudicación se encuentra publicada en el Portal
+      Institucional del Servicio Nacional de Contratación Pública, y en  el
+      cronograma del presente pliego.
+
+   8. Los pagos del contrato se realizarán con cargo a los  fondos  propios
+      provenientes del presupuesto de la entidad  contratante  relacionados
+      con la (s) partida  (s)   presupuestaria  (s)  (nombre,  número).  La
+      partida presupuestaria deberá certificarse por  la  totalidad  de  la
+      contratación incluyéndose el IVA. Se otorgará un anticipo del (Si  la
+      entidad contratante considera necesario el pago de un anticipo, se lo
+      establecerá el  particular  en  este  espacio,  pudiendo  otorgárselo
+      hasta el 50%); o en su  defecto,  los  pagos  se  realizarán  (contra
+      entrega total o parcial de los  bienes  o  la  prestación  total  del
+      servicio).
+
+   9. El procedimiento se ceñirá a las disposiciones de la Ley Orgánica del
+      Sistema Nacional de Contratación Pública, su Reglamento  General,  la
+      normativa expedida  por el Servicio Nacional de Contratación  Pública
+      y el presente pliego.
+
+  10. La (entidad contratante) se reserva el derecho de cancelar o declarar
+      desierto el procedimiento de contratación, situación  en  la  que  no
+      habrá lugar a pago de indemnización alguna.
+
+
+(Ciudad y fecha)
+
+
+
+
+   FIRMA DE LA MÁXIMA AUTORIDAD DE LA ENTIDAD CONTRATANTE (o su delegado)
+                      NOMBRE DE LA ENTIDAD CONTRATANTE
+
+                                 SECCIÓN II
+
+    OBJETO DE LA CONTRATACIÓN, PRESUPUESTO REFERENCIAL, ESPECIFICACIONES
+                     TÉCNICAS O TÉRMINOS DE REFERENCIA.
+
+2.1   Objeto de contratación: Este procedimiento precontractual  tiene  como
+propósito seleccionar a la oferta  de origen ecuatoriano de mejor costo,  en
+los términos del numeral 17 del artículo 6 de la Ley  Orgánica  del  Sistema
+Nacional de  Contratación  Pública,  para  la  (adquisición  de  bienes  y/o
+prestación de servicios normalizados objeto de la contratación)
+
+Si  en  el  procedimiento  de  contratación  no  hubiere  oferta  u  ofertas
+consideradas de origen ecuatoriano, se considerará y analizará  las  ofertas
+que no se consideren ecuatorianas que se hubieren presentado.
+
+2.2 Presupuesto referencial:
+
+El presupuesto referencial,  de  conformidad  al  art.  130  numeral  5  del
+Reglamento General a la Ley Orgánica del Sistema  Nacional  de  Contratación
+Pública, establece que toda subasta inversa será visible.
+
+2.3   Especificaciones   técnicas   o   términos    de    referencia:    Las
+especificaciones  técnicas  o  términos  de  referencia  para  la   presente
+contratación se detallan a continuación:
+
+(Se incluirán las especificaciones técnicas  o  términos  de  referencia  de
+cada uno de los bienes y/o servicios a contratarse, considerando  todos  los
+rubros de existir los estudios y diseños previos, completos,  definitivos  y
+actualizados  correspondientes;  y,  de  ser  el  caso,  los   estudios   de
+prevención/mitigación de impactos  ambientales,  para  lo  cual  la  entidad
+deberá  cumplir  la   normativa   ambiental   aplicable   respecto   de   la
+contratación).
+
+(Establecer las especificaciones técnicas o términos de referencia  de  cada
+uno de los bienes y/o servicios)
+
+
+
+
+
+
+
+
+                                 SECCIÓN III
+
+                        CONDICIONES DEL PROCEDIMIENTO
+
+3.1    Cronograma  del  procedimiento:   El   cronograma   que   regirá   el
+procedimiento será el siguiente:
+
+(Este cronograma constará en el Portal Institucional del  Servicio  Nacional
+de Contratación Pública)
+
+|No.|Concepto                  |Tiempo |Tiempo  |Se calcula|Día |Hora |
+|   |                          |mínimo |máximo  |desde     |    |     |
+|   |                          |       |        |columna   |    |     |
+|   |                          |       |        |concepto  |    |     |
+|2  |Fecha límite para efectuar|1 días |3 días  |1         |    |     |
+|   |preguntas                 |       |        |          |    |     |
+|3  |Fecha límite para emitir  |1 días |3 días  |2         |    |     |
+|   |respuestas y aclaraciones |       |        |          |    |     |
+|4  |Fecha límite recepción    |…      |…       |3         |    |     |
+|   |ofertas técnica           |       |        |          |    |     |
+|5  |Fecha de apertura de      |…      |…       |4         |    |     |
+|   |ofertas                   |       |        |          |    |     |
+|10 |Fecha limite para         |…      |…       |5         |    |     |
+|   |solicitar convalidación de|       |        |          |    |     |
+|   |errores                   |       |        |          |    |     |
+|11 |Fecha límite para         |2 días |5 días  |10        |    |     |
+|   |convalidación de errores  |       |        |          |    |     |
+|12 |Fecha límite calificación |…      |…       |11        |    |     |
+|   |técnica de participantes  |       |        |          |    |     |
+|13 |Fecha inicio de puja      |7 días |…       |1         |    |     |
+|14 |Fecha fin de puja         |15     |60      |13        |    |     |
+|   |                          |minutos|minutos |          |    |     |
+|15 |Fecha estimada de         |…      |…       |14        |    |     |
+|   |adjudicación              |       |        |          |    |     |
+
+3.2   Vigencia de la  oferta:  Las  ofertas  se  entenderán  vigentes  hasta
+(determinar vigencia en días calendario). En caso de que no  se  señale  una
+fecha estarán vigentes hasta la celebración del contrato, de  acuerdo  a  lo
+establecido en el artículo 30 de la Ley Orgánica  del  Sistema  Nacional  de
+Contratación Pública.
+
+3.3   Precio de la Oferta: El precio de la oferta se formulará a  través  de
+la  herramienta  del  Portal  Institucional   del   Servicio   Nacional   de
+Contratación Pública y será visible.
+
+Los  precios   presentados   por   el   oferente   son   de   su   exclusiva
+responsabilidad.   Cualquier  omisión  se  interpretará  como  voluntaria  y
+tendiente a conseguir precios que  le  permitan  presentar  una  oferta  más
+ventajosa.
+
+(Para el caso de bienes: La entidad contratante  requiere  la  provisión  de
+(nombre   de   bien/objeto   contractual)   que   cumpla   con   todas   las
+especificaciones y características establecidas en el pliego, a fin  de  que
+la entrega se realice a plena satisfacción de la entidad contratante).
+
+(Para el caso de prestación de servicios: El  precio  de  la  oferta  deberá
+cubrir todas las actividades  y  costos  necesarios  para  que  el  oferente
+preste los servicios objeto  de  la  contratación  en  cumplimiento  de  los
+términos de  referencia  correspondientes  y  a  plena  satisfacción  de  la
+entidad contratante).
+
+(En este espacio se deberán establecer condiciones adicionales  relacionadas
+con el precio, si se requiere que el  mismo  incluya:  transporte  hasta  el
+sitio de entrega, costo del seguro correspondiente,  instalación  y  montaje
+respectivo, costo de los materiales necesarios, costo de las pruebas,  costo
+de la capacitación).
+
+3.4   Forma de presentar la oferta: La oferta se deberá presentar  a  través
+del Portal Institucional del Servicio Nacional de Contratación  Pública;  y,
+en forma física. Para este segundo caso, se presentará  un  sobre  único  el
+cual contendrá la siguiente ilustración:
+
+
+                         SUBASTA INVERSA ELECTRÓNICA
+
+
+                      “CÓDIGO DEL PROCEDIMIENTO: (………)”
+                                SOBRE  ÚNICO
+
+
+Señor
+Máxima Autoridad o su delegado
+(Nombre de la entidad contratante)
+Presente
+
+
+PRESENTADA POR: ____________________________________
+
+
+
+
+No se tomarán en cuenta las ofertas entregadas en otro lugar o después  del
+día y hora fijados para su entrega-recepción.
+
+
+La  (entidad  contratante)  recibirá   las   ofertas   técnicas,   conferirá
+comprobantes de recepción por cada oferta entregada y anotará, tanto en  los
+recibos como en el sobre de la oferta, la fecha y hora de recepción.
+
+No se exigirá a los oferentes la entrega  de  documentos  que  previamente
+hayan sido entregados para efectos de habilitarse en el Registro Único  de
+Proveedores. Tampoco se exigirá que la documentación  presentada  por  los
+oferentes sea  notariada;  únicamente  el  oferente  adjudicatario  deberá
+cumplir con la entrega notariada de documentos  para  la  suscripción  del
+contrato, (de ser el caso).
+
+3.5   Plazo de ejecución: El plazo de entrega de los bienes y/o  prestación
+de los servicios normalizados es de (días), contado a partir (establecer si
+desde la fecha de la firma del contrato, desde la fecha de notificación  de
+que el anticipo se encuentra disponible, o desde cualquier otra  condición,
+de acuerdo a la naturaleza de la contratación).
+
+3.6   Forma de Pago: Los pagos se realizarán de la manera  prevista  en  el
+pliego y en el contrato.
+
+  3.6.1    Anticipo: (Establecer un porcentaje no mayor  al  cincuenta  por
+  ciento-(50%), en caso de pactarse anticipo).
+
+
+  3.6.2 Valor restante: (Establecer el porcentaje de la forma de  pago  del
+  valor restante del anticipo)
+
+                                 SECCIÓN IV
+
+              VERIFICACIÓN Y EVALUACIÓN DE LAS OFERTAS TÉCNICAS
+
+4.1 Verificación de las ofertas:
+4.1.1 Integridad de las ofertas: La integridad de la oferta consiste  en  la
+verificación de la presentación de  los  formularios  y  requisitos  mínimos
+previstos en el pliego.
+
+Luego de esta verificación la entidad contratante determinará  si  ejecutará
+la etapa de convalidación de errores.
+
+
+
+     I. Formulario Único de la Oferta:
+
+
+  1.1 Presentación y compromiso;
+  1.2 Datos generales del oferente;
+  1.3 Nómina de socio(s),  accionista(s)  o  partícipe(s)  mayoritarios  de
+  personas jurídicas, y disposiciones específicas para personas  naturales,
+  oferentes.
+  1.4 Situación financiera del oferente;
+  1.5 Tabla de cantidades y precios;
+  1.6 Componente de los bienes y servicios ofertados;
+  1.7 Experiencia del oferente. (Detalle en caso de ser específico)
+  (Soporte técnico en caso de haber sido exigido)
+  1.8 Personal técnico propuesto para el proyecto. (En caso que la  entidad
+  contratante requiera para la prestación de servicio).
+  1.9 Equipo mínimo requerido (En caso que la entidad contratante  requiera
+  para la prestación de servicio)
+  1.10 Declaración de Valor Agregado Ecuatoriano de la oferta
+  1.1  Otros  parámetros  de  calificación  propuestos   por   la   entidad
+  contratante
+
+
+    II. Formulario de compromiso de asociación o consorcio (de ser
+        procedente)
+
+
+  4.1.2 Equipo mínimo:
+
+
+El listado del equipo mínimo detallado por  la  entidad  contratante  en  el
+pliego, deberá ser definido en función de su  tipología  (sin  determinación
+de marcas) y utilizando especificaciones técnicas no  direccionadas;  no  se
+fijarán  condiciones  que  carezcan  de  soporte  legal  o  que   resultaren
+excesivas para el tipo de objeto a ejecutar.
+
+
+   a. Se considerará exclusivamente el equipo necesario para que el oferente
+      cumpla con las condiciones establecidas en la adquisición o, preste el
+      servicio, y en consecuencia, si fuere del caso, se deberá  fundamentar
+      debidamente la necesidad de contar con equipamientos especiales.
+
+
+   b. En todos los casos, se evaluará la disponibilidad  del  equipo  mínimo
+      solicitado, y no su propiedad. En esta lógica, bajo ningún concepto se
+      considerará como criterio de  admisibilidad  de  las  ofertas  o  como
+      parámetro de calificación, el establecimiento de porcentaje alguno  de
+      equipo mínimo de propiedad del oferente. La propiedad  del  equipo  no
+      será condición a calificar ni tampoco  se  construirán  parámetros  en
+      función de esa condición.
+
+   c. De ser el caso, se presentará las matrículas del equipo propuesto  por
+      parte de los oferentes, sea que el equipo  sea  de  su  propiedad,  se
+      ofrezca bajo arriendo o compromiso  de  arrendamiento,  compromiso  de
+      compraventa o en general de cualquier forma de disponibilidad.
+
+
+  4.1.3 Personal técnico mínimo:
+
+
+  A efectos de  evaluar  este  parámetro,  la  entidad  contratante  deberá
+  definir el listado del personal técnico necesario para  que  el  oferente
+  cumpla con las condiciones establecidas en la adquisición  o,  preste  el
+  servicio, las funciones que  cumplirá  o  la  posición  que  ocupará,  la
+  formación profesional que deberá acreditar y el instrumento por el que se
+  comprometerá  su  participación.  De  ser  el   caso   podrá   establecer
+  condiciones de experiencia mínima a ser acreditadas por cada uno  de  los
+  miembros del equipo, en concordancia con la naturaleza  y  dimensión  del
+  proyecto a contratar.
+
+  4.1.4 Experiencia general y específica mínima:
+
+
+   a. La entidad contratante definirá con precisión cuál es  la  experiencia
+      mínima que deberá acreditar el oferente, ya sea en número o  dimensión
+      de  proyectos  similares,  o   montos   contractuales;   se   definirá
+      exactamente  qué  tipo  de  contratos  ejecutados  se  aceptarán  como
+      experiencia general y cuales como experiencia específica; así como  el
+      instrumento por el que se la demostrará.
+
+
+   b. Para la determinación del cumplimiento de  la  experiencia  general  y
+      específica mínima se estará a lo establecido, respecto de  las  reglas
+      de participación, expedidas por el Servicio Nacional  de  Contratación
+      Pública para los procedimientos de contratación.
+
+
+   c. La experiencia específica mínima deberá estar directamente relacionada
+      con el objeto de la contratación.
+
+   d.  La  entidad  contratante  obligatoriamente  deberá  dimensionar   los
+      parámetros de calificación de experiencia general y específica  mínima
+      requerida de conformidad con el contenido de la siguiente tabla  y  en
+      función del presupuesto referencial del procedimiento de contratación:
+
+
+
+|Experiencia general y especifica mínima requerida para procedimientos de            |
+|contratación pública                                                                |
+|Coeficiente respecto  |Monto de      |Monto de         |Monto mínimo |Tiempo durante|
+|al presupuesto inicial|experiencia   |experiencia      |requerido por|el cual se    |
+|del Estado            |general mínima|específica mínima|cada contrato|podrá         |
+|                      |requerida en  |requerida en     |en relación  |acreditar la  |
+|                      |relación al   |relación al      |al monto     |experiencia   |
+|                      |presupuesto   |presupuesto      |determinado  |específica    |
+|                      |referencial   |referencial      |en la        |(años)        |
+|                      |              |                 |experiencia  |              |
+|                      |              |                 |mínima       |              |
+|                      |              |                 |general o    |              |
+|                      |              |                 |específica,  |              |
+|                      |              |                 |según        |              |
+|                      |              |                 |corresponda. |              |
+|Mayor a      |Hasta   |              |                 |             |              |
+|0            |0,000002|No mayor a 10 |No mayor a 5 %   |No mayor a   |Durante los   |
+|             |        |%             |                 |5%           |últimos 5 años|
+|             |        |              |                 |             |previos a la  |
+|             |        |              |                 |             |publicación   |
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|0,000002     |0,000007|No mayor a 20 |No mayor a 10 %  |No mayor a 10|Durante los   |
+|             |        |%             |                 |%            |últimos 5 años|
+|             |        |              |                 |             |previos a la  |
+|             |        |              |                 |             |publicación   |
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|0,000007     |0,000015|No mayor a 30 |No mayor a 15 %  |No mayor a 15|Durante los   |
+|             |        |%             |                 |%            |últimos 5 años|
+|             |        |              |                 |             |previos a la  |
+|             |        |              |                 |             |publicación   |
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|0,000015     |0,00003 |No mayor a 40 |No mayor a 20 %  |No mayor a 20|Durante los   |
+|             |        |%             |                 |%            |últimos 5 años|
+|             |        |              |                 |             |previos a la  |
+|             |        |              |                 |             |publicación   |
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|0,00003      |0,0002  |No mayor a 50 |No mayor a 25 %  |No mayor a 25|Durante los   |
+|             |        |%             |                 |%            |últimos 5 años|
+|             |        |              |                 |             |previos a la  |
+|             |        |              |                 |             |publicación   |
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|0,0002       |0,0004  |No mayor a 60 |No mayor a 30 %  |No mayor a 30|Durante los   |
+|             |        |%             |                 |%            |últimos 7 años|
+|             |        |              |                 |             |previos a la  |
+|             |        |              |                 |             |publicación   |
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|0,0004       |0,0007  |No mayor a 70 |No mayor a 40 %  |No mayor a 30|Durante los   |
+|             |        |%             |                 |%            |últimos 10    |
+|             |        |              |                 |             |años previos a|
+|             |        |              |                 |             |la publicación|
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+|Mayor a      |0,0007  |No mayor a 75 |No mayor a 60 %  |No mayor a 50|Durante los   |
+|             |        |%             |                 |%            |últimos 10    |
+|             |        |              |                 |             |años previos a|
+|             |        |              |                 |             |la publicación|
+|             |        |              |                 |             |del           |
+|             |        |              |                 |             |procedimiento |
+
+  Estas  condiciones  no  estarán  sujetas  al  número   de   contratos   o
+  instrumentos presentados por el oferente para  acreditar  la  experiencia
+  mínima general o específica requerida, sino,  al  cumplimiento  de  estas
+  condiciones en relación a los montos mínimos requeridos para cada tipo de
+  experiencia.
+
+  Si con la presentación de un  contrato  o  instrumento  que  acredite  la
+  experiencia mínima específica, el proveedor  cumpliere  el  monto  mínimo
+  solicitado  para  la  experiencia  mínima  general,   este   contrato   o
+  instrumento será considerado como válido para acreditar los dos tipos  de
+  experiencias.
+
+  La entidad contratante deberá solicitar como temporalidad de  experiencia
+  general  15  años  previos  a  la  publicación   del   procedimiento   de
+  contratación. Por tanto, el contratista podrá  acreditar  la  experiencia
+  general dentro de dicho período.
+
+   e. La experiencia presentada por el oferente será acreditable y aceptada,
+      siempre  que  se  haya  ejecutado  legalmente  dentro  del  límite  de
+      cualquier jurisdicción  ecuatoriana.  Únicamente,  cuando  la  entidad
+      contratante  con  la  debida  motivación  técnica  y  legal   así   lo
+      justifique, en la que  compruebe  que  no  existe  experiencia  previa
+      suficiente obtenida por ningún oferente ecuatoriano dentro del  límite
+      de cualquier jurisdicción ecuatoriana, de conformidad a los requisitos
+      del procedimiento de contratación, y, previa autorización de la máxima
+      autoridad o su delegado, se  podrá  aceptar  y  acreditar  experiencia
+      legalmente obtenida en el extranjero. Sin perjuicio  de  lo  anterior,
+      cuando  un  consorcio  o  asociación  o  compromiso  de  asociación  o
+      consorcio conformado por una persona natural o jurídica ecuatoriana  y
+      una persona natural o jurídica extranjera que provea el financiamiento
+      para la ejecución de una obra en un porcentaje  superior  al  60%  del
+      valor  del  objeto  contractual,  la  experiencia  que   acredite   el
+      integrante extranjero del consorcio en el exterior, será acreditada.
+
+  4.1.5 Experiencia mínima del personal técnico:
+
+
+   a. De utilizarse, la  entidad  contratante  deberá  definir  cuál  es  la
+      experiencia que cada uno de los miembros del personal  técnico  mínimo
+      deberá acreditar como mínimo, ya  sea  en  años,  número  o  monto  de
+      proyectos en los que haya participado.
+
+
+   b. Se reconocerá la experiencia adquirida en relación de dependencia,  si
+      el certificado emitido por el  empleador  demuestra  su  participación
+      efectiva, en la ejecución de determinado objeto contractual.
+
+
+   c. Para cada caso ha de establecerse el instrumento o medio por el que se
+      comprobará la experiencia adquirida.
+
+
+
+
+  4.1.6 Especificaciones técnicas o términos de referencia:
+
+
+  La entidad contratante deberá verificar que cada oferente  en  la  oferta
+  que  ha  presentado,  de   cumplimiento   expreso   y   puntual   a   las
+  especificaciones técnicas o términos de  referencia  de  los  bienes  y/o
+  servicios que se pretende adquirir o contratar,  de  conformidad  con  lo
+  detallado en el pliego.
+
+
+  4.1.7 Patrimonio: (Aplicable a personas jurídicas):
+
+
+  En el caso de personas jurídicas, la (entidad contratante) verificará que
+  el patrimonio  cumpla  con  la  normativa  establecida  por  el  Servicio
+  Nacional de Contratación Pública  para el efecto.
+
+
+  Para este procedimiento el monto mínimo de  patrimonio  que  el  oferente
+  debe justificar es de: (Establecer monto de  Patrimonio  con  relación  a
+  Presupuesto Referencial).
+
+
+  Otro(s) parámetro(s) resuelto(o por la entidad contratante: (establecer
+  parámetros de evaluación en caso de requerirlo).
+
+
+  4.1.8 Verificación de cumplimiento de integridad y requisitos mínimos de
+  la oferta:
+
+
+  |Parámetro                    |Cumple     |No Cumple |Observaciones   |
+|Integridad de la Oferta      |           |          |                |
+|Equipo mínimo                |           |          |                |
+|Personal técnico mínimo      |           |          |                |
+|Experiencia general mínima   |           |          |                |
+|Experiencia específica mínima|           |          |                |
+|Experiencia mínima del       |           |          |                |
+|personal técnico             |           |          |                |
+|Especificaciones técnicas  / |           |          |                |
+|Términos de referencia       |           |          |                |
+|Patrimonio (Personas         |           |          |                |
+|Jurídicas)                   |           |          |                |
+|Otro(s) parámetro(s) resuelto|           |          |                |
+|por la entidad contratante   |           |          |                |
+
+
+  El patrimonio del oferente, como parámetro  de  evaluación,  se  aplicará
+  conforme a lo establecido en la normativa que expida el Servicio Nacional
+  de Contratación Pública para el efecto.
+
+
+  Únicamente aquellas ofertas que cumplan integralmente con los  parámetros
+  mínimos requeridos por la (entidad contratante), se habilitarán a fin  de
+  que los oferentes envíen sus ofertas económicas iniciales  a  través  del
+  Portal Institucional del Servicio Nacional de Contratación  Pública  para
+  participar en la puja.
+
+  4.1.9 Información Financiera de Referencia:
+
+
+  Análisis  de  los  Índices  Financieros:   Las   entidades   contratantes
+  especificarán y determinarán cuál (es)  es  (son)  el  (los)  índice  (s)
+  financieros y, cuál es  el  valor  mínimo/máximo  aceptable  respecto  de
+  éstos.
+
+
+  Los índices regularmente aceptados son:  Índice  de  Solvencia  (mayor  o
+  igual a 1,0); Índice de Endeudamiento (menor a 1,5), siendo estos índices
+  y valores recomendados, pudiendo la entidad contratante modificarlos a su
+  criterio   Los  factores  para  su  cálculo  estarán  respaldados  en  la
+  correspondiente declaración de impuesto a la renta del  ejercicio  fiscal
+  correspondiente  y/o  los  balances  presentados  al  órgano  de  control
+  respectivo.
+
+
+  Los índices financieros constituirán información de  referencia  respecto
+  de los participantes en el procedimiento y en tal medida, su análisis  se
+  registrará conforme el detalle a continuación:
+
+
+  |Índice                |Indicador solicitado |Observaciones    |
+|Solvencia*            |                     |                 |
+|Endeudamiento*        |                     |                 |
+|Otro índice resuelto  |                     |                 |
+|por la entidad        |                     |                 |
+|contratante *         |                     |                 |
+
+
+  *Los índices son referenciales; la entidad contratante podrá escoger  los
+  señalados o aquel (aquellos) que considere pertinente(s).
+
+
+
+                                  SECCIÓN V
+
+                                    PUJA
+
+5.1  Oferta  económica  inicial:  Los  proveedores  cuya  oferta  haya  sido
+calificada y habilitada,  deberán  enviar  la  oferta  económica  inicial  a
+través del  Portal  Institucional  del  Servicio  Nacional  de  Contratación
+Pública fin de participar en la puja.
+
+Las  ofertas  económicas  iniciales  presentadas   a   través   del   Portal
+Institucional del Servicio Nacional  de  Contratación  Pública,  obligan  al
+oferente a cumplir las condiciones técnicas y  económicas  ofertadas  en  el
+caso de resultar adjudicado, aun cuando no participare  en  el  acto  de  la
+puja.
+
+El oferente deberá presentar en la oferta, el formulario -Oferta  Económica
+Inicial- con los precios unitarios inicialmente propuestos de los bienes  y
+servicios a suministrar, cuyo valor total será subido por  el  oferente  al
+Portal Institucional como oferta económica inicial,  en  caso  de  resultar
+habilitado. Concluida la puja o negociación, en caso  de  que  el  oferente
+resulte adjudicado, el valor resultante de la  puja  o  negociación  deberá
+adecuarse a lo previsto en el  cuadro  del  formulario  indicado,  con  los
+precios unitarios que justifican el monto final adjudicado, información que
+se trasladará al contrato.
+
+5.2 Puja: En el día y hora señalados en la  convocatoria,  se  realizará  la
+puja hacia la baja a través del Portal Institucional del  Servicio  Nacional
+de Contratación Pública, en la cual participarán únicamente los  proveedores
+que hayan enviado  su  oferta  económica  inicial,  la  cual  obliga  a  los
+oferentes a participar en la fase de la puja.
+
+Las condiciones de la puja se realizarán de conformidad a lo establecido  en
+la normativa que expida el Servicio Nacional de  Contratación  Pública  para
+el  efecto,  para  lo  cual  la  entidad  contratante  deberá  observar  las
+condiciones de puja vigentes.
+
+El porcentaje de variación mínimo durante la  puja  será  del:  (la  entidad
+contratante determinará el porcentaje (%) de variación mínima de la puja).
+
+5.3 Negociación única: De existir una sola oferta calificada, o si una  sola
+oferta resultare  habilitada,  o  un  solo  oferente  presentare  su  oferta
+económica inicial, se realizará una sesión de negociación de  acuerdo  a  lo
+establecido en el tercer inciso del artículo  47  de  la  Ley  Orgánica  del
+Sistema Nacional de Contratación Pública, 47 del  Reglamento  General  y  la
+normativa expedida por el Servicio Nacional de Contratación Pública para  el
+efecto.
+
+Cuando  un  procedimiento  de  Subasta  Inversa   Electrónica   termine   en
+negociación, la entidad contratante será  sujeta  de  supervisión  inmediata
+por parte del Servicio Nacional de Contratación Pública en coordinación  con
+los organismos de control del Estado dentro del marco de sus atribuciones.
+
+
+
+5.4 Porcentaje de Valor Agregado Ecuatoriano Mínimo:
+
+
+Se deberá aplicar obligatoriamente la metodología definida por  el  Servicio
+Nacional de Contratación Pública para la  determinación  de  Valor  Agregado
+Ecuatoriano en la adquisición de bienes y/o prestación de  servicios,  según
+corresponda, que  será  considerado  como  uno  de  los  criterios  para  la
+adjudicación.
+
+
+Para  que  una  oferta  sea  considerada  ecuatoriana  el   Valor   Agregado
+Ecuatoriano de la misma deberá ser igual o  superior  al  umbral  del  Valor
+Agregado Ecuatoriano del procedimiento de  contratación  pública,  publicado
+por la entidad contratante conforme lo establecido por  el  Sistema  Oficial
+de Contratación del Estado -SOCE.
+
+Únicamente en el caso de que   la  oferta  presentada  no  acreditare  Valor
+Agregado  Ecuatoriano, se considerará las ofertas de origen  extranjero  que
+se hubieren presentado.
+
+                                 SECCIÓN VI
+
+                         OBLIGACIONES DE LAS PARTES
+
+6.1 Obligaciones del adjudicatario en  la  aplicación  de  transferencia  de
+tecnología:
+
+En relación con los  bienes  que  se  encuentran  publicados  en  el  Portal
+Institucional del Servicio Nacional de Contratación Pública  y  que  constan
+en el Anexo 20 de la Codificación de Resoluciones del Servicio  Nacional  de
+Contratación Pública, es obligación del proveedor adjudicado,  previo  a  la
+suscripción del respectivo contrato, entregar a la entidad  contratante,  en
+calidad de documento habilitante, y dentro del término que establece la  Ley
+Orgánica del Sistema Nacional de Contratación Pública para  el  efecto,  los
+requerimientos  que  se  indican  a  continuación,   según   el   nivel   de
+transferencia de tecnología:
+
+Nivel de transferencia de tecnología TT 1:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología  nivel  1  “bienes   primarios,   bienes   de   baja   intensidad
+tecnológica, y bienes de media-baja intensidad tecnológica” que consta  como
+Anexo 20 de la Codificación y Actualización de Resoluciones emitidas por  el
+SERCOP,  mismos  que  podrán  ser  actualizados  o  modificados   según   la
+metodología definida por el Servicio Nacional de Contratación Pública,  para
+lo cual bastará su notificación y publicación  en  el  Portal  Institucional
+del Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Manual de uso y manejo de producto, en formato  digital  y  en  físico
+      (Para el repositorio del Servicio  Nacional  de  Contratación  Pública
+      bastará en formato digital);
+    • CD o información en línea  donde  se  dé  a  conocer  información  del
+      producto, procedencia  de  materias  primas,  fechas  y  registros  de
+      producción;
+    • Certificados de calidad o normativa (escaneados) bajo los  cual  fuere
+      desarrollado el producto (en caso que existiesen);
+    • Certificados de calibración del producto, dependiendo del caso; o,
+    • Cualquier otra información sobre estándares industriales  de  medidas,
+      pruebas y control de calidad.
+
+En caso que el proveedor adjudicado, dentro del término  para  suscribir  el
+respectivo contrato no presente los  requerimientos  correspondientes  a  la
+Transferencia de Tecnología  Nivel  1,  será  causal  para  que  la  entidad
+contratante lo declare adjudicatario fallido.
+
+Así mismo, en caso de que  el  Servicio  Nacional  de  Contratación  Pública
+identifique  el  incumplimiento  de  la  entrega   de   los   requerimientos
+correspondientes a la Transferencia  de  Tecnología  Nivel  1,  aplicará  el
+procedimiento establecido en los artículos 107 y 108 de la Ley Orgánica  del
+Sistema  Nacional  de  Contratación  Pública,  por  haberse  configurado  la
+infracción establecida en el literal d) del  artículo  106  de  la  referida
+Ley, y  notificará  a  la  entidad  contratante  para  que  proceda  con  la
+declaratoria  de  adjudicatario  fallido  o  contratista  incumplido,  según
+corresponda.
+
+Nivel de transferencia de tecnología TT 2:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 2 “bienes de  baja  intensidad  tecnológica,  y  bienes  de
+media-baja  intensidad  tecnológica”,  que  consta  como  Anexo  20  de   la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP,  mismos
+que podrán ser actualizados o modificados según la metodología definida  por
+el Servicio Nacional de  Contratación  Pública,  para  lo  cual  bastará  su
+notificación y publicación en el Portal Institucional del Servicio  Nacional
+de Contratación Pública.
+
+Requerimientos:
+
+    • Cronograma del  taller  o  curso  de  capacitación   para  conocer  el
+      correcto uso o manejo del producto; o,
+    • CD donde se exponga el curso o taller de capacitación que fue  dado  a
+      personal ecuatoriano.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1.
+
+En caso que el proveedor adjudicado, dentro del término  para  suscribir  el
+respectivo contrato, no presente los requerimientos  correspondientes  a  la
+Transferencia de Tecnología  Nivel  2,  será  causal  para  que  la  entidad
+contratante lo declare adjudicatario fallido.
+
+Así mismo, en caso de que  el  Servicio  Nacional  de  Contratación  Pública
+identifique  el  incumplimiento  de  la  entrega   de   los   requerimientos
+correspondientes a la Transferencia  de  Tecnología  Nivel  2,  aplicará  el
+procedimiento establecido en los artículos 107 y 108 de la Ley Orgánica  del
+Sistema  Nacional  de  Contratación  Pública,  por  haberse  configurado  la
+infracción establecida en el literal d) del  artículo  106  de  la  referida
+Ley, y  notificará  a  la  entidad  contratante  para  que  proceda  con  la
+declaratoria  de  adjudicatario  fallido  o  contratista  incumplido,  según
+corresponda.
+
+Nivel de transferencia de tecnología TT 3:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 3 “bienes de media-alta intensidad  tecnológica,  y  bienes
+de  alta  intensidad  tecnológica”,  que  consta  como  Anexo   20   de   la
+Codificación y Actualización de Resoluciones emitidas  por  el  SERCOP,  los
+mismos que podrán  ser  actualizados  o  modificados  según  la  metodología
+definida por el Servicio Nacional de  Contratación  Pública,  para  lo  cual
+bastará su  notificación  y  publicación  en  el  Portal  Institucional  del
+Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Compromisos para alcanzar mantenimiento preventivo en el país,  sea  a
+      través: de alianzas estratégicas para contar con  centros  autorizados
+      nacionales,  capacitación a empresas  locales,  o  capacitación  a  la
+      entidad requirente;
+    • Compromisos para alcanzar mantenimiento correctivo en el país,  sea  a
+      través de: alianzas estratégicas para contar con  centros  autorizados
+      nacionales,  capacitación a empresas  locales,  o  capacitación  a  la
+      entidad requirente; o,
+    • Cronograma para proveer de capacitación y entrenamiento especializado,
+      en los  talleres  o  centros   autorizados  conseguidos  con  el  ítem
+      anterior, para el personal universitario y de institutos técnicos.  El
+      objeto  es  involucrar  tanto  a  la  academia  como  a  los  técnicos
+      institucionales con la tecnología adquirida,  y  así,  difundir  dicho
+      conocimiento sin perjuicio de cumplir con los ítems anteriores.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1 y TT2.
+
+En el caso que, el proveedor adjudicado, dentro del término  para  suscribir
+el respectivo contrato no presente los requerimientos correspondientes a  la
+Transferencia de Tecnología  Nivel  3,  será  causal  para  que  la  entidad
+contratante lo declare adjudicatario fallido.
+
+Así mismo, en el caso que, el  Servicio  Nacional  de  Contratación  Pública
+identifique  el  incumplimiento  de  la  entrega   de   los   requerimientos
+correspondientes a la Transferencia  de  Tecnología  Nivel  3,  aplicará  el
+procedimiento establecido en los artículos 107 y 108 de la Ley Orgánica  del
+Sistema  Nacional  de  Contratación  Pública,  por  haberse  configurado  la
+infracción establecida en el literal d) del  artículo  106  de  la  referida
+Ley, y  notificará  a  la  entidad  contratante  para  que  proceda  con  la
+declaratoria  de  adjudicatario  fallido  o  contratista  incumplido,  según
+corresponda
+
+
+6.2   Obligaciones del contratista:
+
+    ▪ Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano.
+
+    ▪ Dar cumplimiento cabal a lo  establecido  en  el  presente  pliego  de
+      acuerdo con los términos y condiciones del contrato.
+
+(Acorde con la naturaleza de la contratación la  entidad  contratante  podrá
+establecer condiciones adicionales que considere pertinentes.)
+
+3.       Obligaciones de la contratante:
+
+    ▪ Designar al administrador del contrato.
+
+
+    ▪ Dar solución a las peticiones y problemas que  se  presentaren  en  la
+      ejecución del contrato, en un plazo no  mayor  a  5  días  contados  a
+      partir de la petición escrita formulada por el contratista.
+
+    ▪ Para el caso de servicios, de ser necesario, previo el  trámite  legal
+      y administrativo respectivo, celebrar los contratos complementarios en
+      un plazo (número de días) contados a  partir  de  la  decisión  de  la
+      máxima autoridad.
+
+    ▪ Suscribir las actas de entrega recepción de  los  trabajos  recibidos,
+      siempre que se haya cumplido con lo previsto en la ley para la entrega
+      recepción; y, en general, cumplir con las obligaciones  derivadas  del
+      contrato.
+
+(Acorde con la naturaleza de la contratación la  entidad  contratante  podrá
+establecer las condiciones adicionales que considere pertinentes.)
+
+
+6.3.1 Obligaciones del contratante en  la  aplicación  de  transferencia  de
+tecnología:
+
+La entidad contratante, para los bienes que  apliquen  la  transferencia  de
+tecnología, mismos que se encuentran publicados en el  Portal  Institucional
+del Servicio Nacional de Contratación Pública y que constan en el  Anexo  20
+de la Codificación de Resoluciones del  Servicio  Nacional  de  Contratación
+Pública, exigirá previo a la firma del contrato, de manera  obligatoria,  la
+entrega de los requerimientos determinados para cada nivel de  transferencia
+tecnológica, según corresponda.
+
+Para los bienes correspondientes a los CPCs que corresponden  a  la  entrega
+de transferencia de tecnología de niveles 1  y  2,  la  entidad  contratante
+exigirá, de manera obligatoria al proveedor,  en  calidad  de  documentación
+habilitante para  la  suscripción  del  respectivo  contrato  y  dentro  del
+término  que  dispuesto  por  la  Ley  Orgánica  del  Sistema  Nacional   de
+Contratación Pública, los requerimientos que se indican a continuación:
+
+Nivel de transferencia de tecnología TT 1:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología  nivel  1  “bienes   primarios,   bienes   de   baja   intensidad
+tecnológica, y bienes de  media-baja  intensidad  tecnológica”,  que  consta
+como Anexo 20 de la Codificación y Actualización  de  Resoluciones  emitidas
+por el SERCOP, mismos que podrán ser actualizados  o  modificados  según  la
+metodología definida por el Servicio Nacional de Contratación Pública,  para
+lo cual bastará su notificación y publicación  en  el  Portal  Institucional
+del Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Manual de uso y manejo de producto, en formato  digital  y  en  físico
+      (Para el repositorio del Servicio  Nacional  de  Contratación  Pública
+      bastará en formato digital);
+    • CD o información en línea  donde  se  dé  a  conocer  información  del
+      producto, procedencia  de  materias  primas,  fechas  y  registros  de
+      producción;
+    • Certificados de calidad o normativa (escaneados) bajo los  cual  fuere
+      desarrollado el producto (en caso que existiesen);
+    • Certificados de calibración del producto, dependiendo del caso; o,
+    • Cualquier otra información sobre estándares industriales  de  medidas,
+      pruebas y control de calidad.
+
+La  entidad  contratante,  en  los  bienes  relacionados  a  los  CPCs   que
+corresponden a la entrega de transferencia de tecnología de nivel 1:
+
+    - Deberá, previo a la suscripción del contrato, exigir y  verificar  que
+      el adjudicatario haya publicado en el Repositorio de Transferencia  de
+      Tecnología  del  Portal  Institucional  del   Servicio   Nacional   de
+      Contratación Pública, los requerimientos correspondientes.
+
+
+    - En el caso que, la entidad contratante verifique que el  adjudicatario
+      no cumpla con estas  condiciones  y  requerimientos  de  transferencia
+      tecnológica nivel 1 para la suscripción del respectivo contrato,  esta
+      declarará al proveedor como adjudicatario fallido.
+
+Es importante señalar  que,  de  evidenciarse  el  incumplimiento  de  estos
+requerimientos por parte de la entidad  contratante  a  la  suscripción  del
+contrato, el Servicio Nacional  de  Contratación  Pública,  en  base  a  sus
+atribuciones de control y supervisión, dispondrá la  terminación  unilateral
+y anticipada del contrato, además, notificará a la Contraloría  General  del
+Estado para que ejerza las respectivas acciones de control en el  ámbito  de
+sus competencias, y de ser el caso, determine las  responsabilidades  a  los
+funcionarios  de  la  entidad  contratante  que  omitieron  la  exigencia  y
+presentación de dichos requerimientos.
+
+Nivel de transferencia de tecnología TT 2:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 2 “bienes de  baja  intensidad  tecnológica,  y  bienes  de
+media-baja  intensidad  tecnológica”,  que  consta  como  Anexo  20  de   la
+Codificación y Actualización de Resoluciones emitidas  por  el  SERCOP,  los
+mismos que podrán  ser  actualizados  o  modificados  según  la  metodología
+definida por el Servicio Nacional de  Contratación  Pública,  para  lo  cual
+bastará su  notificación  y  publicación  en  el  Portal  Institucional  del
+Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Cronograma del  taller  o  curso  de  capacitación   para  conocer  el
+      correcto uso o manejo del producto; o,
+    • CD donde se exponga el curso o taller de capacitación que fue  dado  a
+      personal ecuatoriano.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1.
+
+La  entidad  contratante,  en  los  bienes  relacionados  a  los  CPCs   que
+corresponden a la entrega de transferencia de tecnología de nivel 2:
+
+    - Deberá, previo a la firma de  contrato,  exigir  y  verificar  que  el
+      adjudicatario  haya  publicado  en  su  totalidad  los  requerimientos
+      correspondientes, en el Repositorio de Transferencia de Tecnología del
+      Portal Institucional del Servicio Nacional de Contratación Pública.
+
+
+    - En el caso que, la entidad contratante verifique que el  adjudicatario
+      no cumpliere con estas condiciones y requerimientos  de  transferencia
+      tecnológica nivel 2 para la suscripción del respectivo contrato,  esta
+      declarará al proveedor como adjudicatario fallido.
+
+Es  importante  señalar  que,  de  evidenciarse  el  incumplimiento  de   la
+exigencia de estos requerimientos por parte de la entidad contratante  a  la
+firma del contrato, el Servicio Nacional de Contratación Pública, en base  a
+sus  atribuciones  de  control  y  supervisión  dispondrá   la   terminación
+unilateral y anticipada del contrato, además, notificará  a  la  Contraloría
+General del Estado para que ejerza las acciones de control en el  ámbito  de
+sus  competencias,  y  de  ser  el  caso,  determine  las  responsabilidades
+respectivas a los funcionarios de la entidad contratante  que  omitieron  la
+exigencia y presentación de dichos requerimientos.
+
+Nivel de transferencia de tecnología TT 3:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 3 “bienes de media-alta intensidad  tecnológica,  y  bienes
+de  alta  intensidad  tecnológica”,  que  consta  como  Anexo   20   de   la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP,  mismos
+que podrán ser actualizados o modificados según la metodología definida  por
+el Servicio Nacional de  Contratación  Pública,  para  lo  cual  bastará  su
+notificación y publicación en el Portal Institucional del Servicio  Nacional
+de Contratación Pública.
+
+Requerimientos
+
+    • Compromisos para alcanzar mantenimiento preventivo en el país,  sea  a
+      través de: alianzas estratégicas para contar con  centros  autorizados
+      nacionales, capacitación a  empresas  locales,  o  capacitación  a  la
+      entidad requirente;
+    • Compromisos para alcanzar mantenimiento correctivo en el país,  sea  a
+      través de: alianzas estratégicas para contar con  centros  autorizados
+      nacionales, capacitación a  empresas  locales,  o  capacitación  a  la
+      entidad requirente; o,
+    • Cronograma para proveer de capacitación y entrenamiento especializado,
+      en los  talleres  o  centros   autorizados  conseguidos  con  el  ítem
+      anterior, para el personal universitario y de institutos técnicos.  El
+      objeto  es  involucrar  tanto  a  la  academia  como  a  los  técnicos
+      institucionales con la tecnología adquirida,  y  así,  difundir  dicho
+      conocimiento sin perjuicio de cumplir con los ítems anteriores.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1 y TT2.
+
+Para cumplir con  estos  compromisos,  la  entidad  contratante  exigirá  la
+presentación  obligatoria   del   documento   que   permita   verificar   la
+formalización del acuerdo o alianza  estratégica  al  que  el  proveedor  ha
+llegado  con  una  universidad,  centro  de   transferencia   y   desarrollo
+tecnológico,  instituto  tecnológico,  empresa  pública  o  privada  u  otra
+organización  ecuatoriana,  que  permitan  garantizar  el  cumplimiento  del
+mantenimiento  preventivo,  correctivo;  y,  capacitación  y   entrenamiento
+especializados, que se realicen dentro del territorio ecuatoriano.
+
+La  ejecución   de   estos   compromisos,   capacitación   y   entrenamiento
+especializados, deberán  cumplirse  en  un  plazo  no  mayor  a  seis  meses
+contados desde la suscripción del contrato con la entidad contratante.
+
+Es  importante  señalar  que,  de  evidenciarse  el  incumplimiento  de   la
+exigencia de estos requerimientos por parte de la entidad contratante  a  la
+firma del contrato o su ejecución,  el  Servicio  Nacional  de  Contratación
+Pública, en base a sus atribuciones de control y  supervisión  dispondrá  la
+terminación unilateral y anticipada del contrato, además,  notificará  a  la
+Contraloría General del Estado para que ejerza las acciones  de  control  en
+el  ámbito  de  sus  competencias,  y  de  ser  el   caso,   determine   las
+responsabilidades respectivas a los funcionarios de la  entidad  contratante
+que  omitieron  la  exigencia,  presentación  y   cumplimiento   de   dichos
+requerimientos.
+
+
+

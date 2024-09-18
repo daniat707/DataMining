@@ -1,0 +1,1127 @@
+2022
+
+“CEPILLOS, PATINES Y GOMAS PARA BARREDORA”
+
+TÉRMINOS DE REFERENCIA
+
+Página 1 de 13
+
+TÉRMINOS DE REFERENCIA
+FECHA:
+
+Sangolquí, 04 de octubre de 2022
+
+ASUNTO:
+
+Especificaciones Técnicas para la “CEPILLOS, PATINES Y GOMAS PARA
+BARREDORA”.
+
+1. ANTECEDENTES.
+
+1.1. Creación De La Empresa Pública Municipal De Residuos Sólidos Rumiñahui Aseo – EPM:
+Mediante Ordenanza Municipal No. 18-2010 de fecha 17 de diciembre del 2010, publicada en
+el Registro Oficial No. 352 de 30 de diciembre del mismo año, se crea la Empresa Pública
+Municipal de Residuos Sólidos Rumiñahui-Aseo EPAR(EPM), cuyo objeto principal es la gestión
+integral de residuos sólidos, para lo cual intervendrá en todas las fases de la gestión de residuos
+sólidos, siempre bajo condiciones de preservación ambiental.
+La EPAR, entre sus principales actividades para la prestación de servicios está: la recolección
+de residuos sólidos urbanos con sistema contenerizado, recolección tradicional a pie de
+vereda, recolección de residuos de industrias, almacenamiento temporal de residuos,
+transporte, barrido, recolección de islas ecológicas, hidro lavado de calles y disposición final.
+De acuerdo con el Estatuto Orgánico de Gestión por Procesos de la EPAR emitido mediante
+Resolución Administrativa No. EPAR-GG-2021-009 de 1 de julio de 2021, la Gerencia de
+Operaciones tiene como misión: “Planificar, ejecutar, controlar y evaluar la prestación de los
+servicios de aseo, transporte y disposición final de los residuos sólidos del cantón, en forma
+eficiente, ambientalmente sostenible, fomentado el reciclaje, aprovechamiento de los residuos
+y la corresponsabilidad ciudadana”.
+Actualmente, la flota de vehículos y maquinaria de la EPAR se encuentra conformada por 4
+recolectores de carga lateral, 3 recolectores de carga posterior, 1 recolector de carga frontal,
+1 camión lavacontenedores, 1 camión de reciclaje, 2 volquetas, 1 camión tanquero, 1 camión
+gancho y 1 camión para mantenimiento de contenedores; también dispone de 5 vehículos
+livianos que realizan actividades de supervisión y movilización de personal. Además, posee dos
+minicargadoras, dos barredoras, tres cajas autocompactadoras y dos camiones satélites.
+Para el barrido mecánico de las diferentes calles y avenidas del cantón Rumiñahui, la EPAR
+cuenta con una Barredora mecánica, marca Dulevo, modelo 5000, con código interno 30-01,
+con mecanismos automatizados para el barrido y almacenamiento temporal de los residuos,
+que se recogen durante la operación en ruta.
+Mediante Certificación nro. 041 del 28 de septiembre de 2022 la Auxiliar de Bodega Eco. Lorena
+Toapanta indica que la EPAR no dispone de existencia de cepillo, patines o gomas para la
+barredora mecánica, marca Dulevo, modelo 5000.
+
+1.2. GENERALIDADES DEL SERVICIO
+La Empresa Pública Municipal de Residuos Sólidos de Aseo Rumiñahui Aseo, EPM EPAR, presta
+sus servicios las 24 horas del día, los 365 días del año, el servicio se realiza de manera directa,
+
+Página 2 de 13
+
+con maquinaria y personal propio, el 90 % del servicio, es realizado a través de la recolección
+contenerizada de residuos sólidos urbanos.
+La EPAR, actualmente proporciona 11 servicios para la recolección de residuos sólidos los
+mismos que han sido identificados y son gestionados a través de su sistema de gestión, integral
+se encuentran definidos de la siguiente manera:
+1. Recolección contenerizada
+2. Recolección tradicional.
+3. Barrido manual de calles.
+4. Barrido mecánico de calles.
+5. Limpieza y recolección en eventos y espectáculos públicos.
+6. Recolección de desechos hospitalarios
+7. Recolección en industrias, mercados y centros comerciales
+8. Hidrolavado y Limpieza de calles y plazas.
+9. Recolección diferenciada de residuos sólidos.
+10. Recolección de papeleras.
+11. Muebles y Tereques.
+Para la prestación de los servicios antes mencionados la (EPAR) a través de la Gerencia de
+Operaciones realiza la coordinación, planificación y su ejecución para la prestación del servicio
+de aseo y recolección de residuos sólidos urbanos, en el cantón Rumiñahui; a continuación, se
+muestra los vehículos, maquinaria y equipos menores que dispone la EPAR para el cumplimiento
+de los servicios de aseo y recolección que brinda.
+#
+
+COD
+
+DESCRIPCIÓN
+
+MARCA
+
+AÑO
+
+1 52-01
+
+Recolector carga lateral Daf Translift 52-01
+
+DAF/Translift
+
+2016
+
+2 52-02
+
+Recolector carga lateral Daf Translift 52-02
+
+DAF/Translift
+
+2018
+
+3 52-03
+
+Recolector carga lateral Daf Translift 52-03
+
+DAF/Translift
+
+2018
+
+4 52-04
+
+Recolector carga lateral Daf OMB 52-04
+
+DAF/OMB
+
+2020
+
+5 33-01
+
+Lavacontenedor carga lateral Daf Translift 33-01
+
+DAF /Translift
+
+2016
+
+6 54-01
+
+Recolector de reciclaje Hino 54-01
+
+Hino
+
+2013
+
+7 22-01
+
+Camión taller Hino serie 300 616 22-01
+
+Hino
+
+2020
+
+8 51-01
+
+Recolector carga frontal Daf Faun 51-01
+
+DAF
+
+2016
+
+9 53-02
+
+Recolector carga posterior International Heil 53-02
+
+International
+
+2003
+
+10 53-04
+
+Recolector carga posterior Kenworth Mcnielus 53-04
+
+Kenworth
+
+2014
+
+11 53-03
+
+Recolector carga posterior International Heil 53-03
+
+International
+
+2003
+
+12 30-01
+
+Barredora Dulevo 5000 Evolution 30-01
+
+Dulevo
+
+2012
+
+13 30-02
+
+Barredora Tenax Electra 30-02
+
+Tenax
+
+2022
+
+14 31-01
+
+Caja autocompactadora Geesinknorba 31-01
+
+Geesinknorba
+
+2018
+
+15 31-02
+
+Caja autocompactadora Geesinknorba 31-02
+
+Geesinknorba
+
+2018
+
+16 31-03
+
+Caja autocompactadora OMB 31-03
+
+OMB
+
+2020
+
+17 32-01
+
+Hidrolavadora International Kholer 32-01
+
+International
+
+1995
+
+18 34-01
+
+Minicargadora JCB 34-01
+
+JCB
+
+2012
+
+19 34-02
+
+Minicargadora New Holland 34-02
+
+New Holand
+
+2019
+
+20 50-01
+
+Ampliroll Daf cayvol 50-01
+
+DAF
+
+2018
+
+Página 3 de 13
+
+21 20-01
+
+Camioneta Chevrolet Luv D-max 3.5 4x4 20-01
+
+Chevrolet
+
+2012
+
+22 20-02
+
+Camioneta Chevrolet Luv D-max 3.0 4x2 diesel 20-02
+
+Chevrolet
+
+2014
+
+23 20-03
+
+Camioneta Chevrolet Luv D-max 3.0 4x4 diesel 20-03
+
+Chevrolet
+
+2019
+
+24 20-04
+
+Camioneta Chevrolet Luv D-max 3.0 4x2 diesel 20-04
+
+Chevrolet
+
+2019
+
+25 21-01
+
+Jeep Chevrolet sz next 4x2 21-01
+
+Chevrolet
+
+2015
+
+26 55-01
+
+Volqueta Chevrolet Kodiac 7500 55-01
+
+Chevrolet
+
+2003
+
+27 55-02
+
+Volqueta Iveco 55-02
+
+Iveco
+
+2022
+
+28 56-01
+
+Recolector satélite OMB 7m3 56-01
+
+Chevrolet/OMB
+
+2022
+
+29 56-02
+
+Recolector satélite OMB 7m3 56-02
+
+Chevrolet/OMB
+
+2022
+
+2. OBJETIVOS:
+
+2.1. OBJETIVO GENERAL:
+Contar con cepillos, patines y gomas para la barredora 30-01 de propiedad de la EPAR con el
+fin de garantizar su funcionamiento y operatividad.
+
+2.2. OBJETIVOS ESPECÍFICOS:
+•
+•
+•
+•
+
+Garantizar el buen estado y funcionamiento de la barredora 30-01.
+Mantener un servicio de barrido mecánico oportuno, permanente y completo.
+Precautelar y mantener el buen uso de los bienes de la EPAR durante sus actividades
+operativas.
+Cumplir con la normativa correspondiente al mantenimiento y buen uso de los bienes
+del sector público; y, normas de control interno.
+
+3. JUSTIFICACIÓN.
+
+3.1. Base Legal
+De acuerdo al Reglamento General Sustitutivo para la Administración, Utilización, Manejo y
+Control de los Bienes e Inventarios del Sector Público, establece en el artículo 162 establece
+que “Mantenimiento de bienes.- Las entidades y organismos comprendidos en el artículo 1 del
+presente Reglamento, velarán de forma constante por el mantenimiento preventivo y
+correctivo de los bienes, a fin de conservar su estado óptimo de funcionamiento y prolongar su
+vida útil. Para el efecto diseñarán y ejecutarán programas de mantenimiento preventivo y
+correctivo, a fin de no afectar la gestión operativa de la entidad u organismo. Los
+mantenimientos preventivos serán dados por las unidades técnicas si existieren, de acuerdo a
+la naturaleza de los bienes.
+Así mismo, en el artículo 167 del Reglamento General Sustitutivo para la Administración,
+Utilización, Manejo y Control de los Bienes e Inventarios del Sector Público, señala las clases de
+mantenimiento “El mantenimiento puede ser: a) Mantenimiento correctivo o no programado:
+es el conjunto de procedimientos utilizados para un bien ya deteriorado. Mediante el
+mantenimiento correctivo no solo se repara el bien ya deteriorado, sino que se realizan ajustes
+necesarios por fallas evidenciadas. b) Mantenimiento preventivo o programado: es la
+inspección periódica de los demás bienes con el objetivo de evaluar su estado de
+funcionamiento, identificar fallas, prevenir y poner en condiciones el bien para su óptimo
+funcionamiento, limpieza, lubricación y ajuste. Es también en este tipo de mantenimiento en el
+
+Página 4 de 13
+
+que se reemplazan piezas para las cuales el fabricante, o su representante, ha identificado que
+tiene un número específico de horas de servicio.
+De acuerdo al Estatuto Orgánico por Procesos de la Empresa Pública Municipal de Residuos
+Sólidos Rumiñahui – ASEO, emitido mediante Resolución Administrativa No. EPAR-GG-2021-009
+de 1 de julio de 2021, establece en el literal C entre varias atribuciones y responsabilidades de
+la Gerencia de Operaciones, las siguientes: “2. Administrar y gestionar los recursos necesarios
+para la prestación, directa o por terceros, de la gestión integral de residuos sólidos”; ”7. Ejecutar
+y controlar el cumplimiento de los servicios de aseo planificados” y “10: ¨Ejecutar el presupuesto
+para los servicios de mantenimiento y compra de materiales, repuestos y adquisición de bienes
+y servicios¨
+
+3.2. Justificación Técnica de la determinación de la necesidad:
+La EPAR brinda diferentes servicios para la ciudadanía, para el cumplimiento de sus servicios,
+dispone de equipos, de maquinaria, de mobiliario y de recursos propios que le permiten
+mantener un servicio permanente los 365 días de año.
+Para el cumplimiento del servicio de barrido mecánico, la EPAR cuenta con una Barredora
+mecánica, marca Dulevo, modelo 5000, con código interno 30-01, la misma dispone de un
+mecanismo automatizado con componentes que permiten que los residuos sean recogidos a
+la parte central de la barredora para posteriormente ser levantados de la calzada y por medio
+del sistema de transportación se almacenan los residuos para su posterior descarga.
+El mecanismo de la Barredora 30-01 cuenta con diferentes componentes de desgaste como
+son los cepillos (central, laterales y frontal) que giran permanentemente en contacto con la
+calzado, lo que provoca que el material de sus cerdas se desgaste paulatinamente durante el
+barrido; los patines son elementos metálicos que de la misma manera están en contacto
+permanente con la calzada, desgastándose por el rozamiento durante el avance de la
+barredora; y, se cuenta con gomas laterales que permiten la sujeción de los patines, la
+absorción de impactos y deformaciones de la calzada, por lo que, al ser de goma se fisuran o
+rompen durante la operación normal.
+Para garantizar el funcionamiento de la barredora es necesario realizar el cambio de los
+componentes mencionados que pueden ser realizados en las instalaciones de la EPAR por el
+personal de mantenimiento ya que corresponde a una actividad de mantenimiento correctivo
+menor.
+Por lo mencionado, para mantener el servicio de barrido mecánico de la EPAR es necesario
+disponer el stock de cepillos, patines y gomas laterales; componentes necesarios para la
+barredora 30-01, y cambiarlos inmediatamente, una vez que hayan cumplido su límite de
+desgaste por el uso durante la operación.
+
+Página 5 de 13
+
+#
+1
+2
+3
+4
+5
+6
+
+Descripción
+Cepillo lateral
+(remanufacturado)
+Cepillo central
+(remanufacturado)
+Patín de arrastre RH
+Patín de arrastre LH
+Goma lateral RH
+Goma lateral LH
+
+Horas trabajadas
+SEP-2020/SEP2022
+
+3678
+
+Rendim
+iento
+(Horas)
+
+Cantidad
+requerida
+
+Stock
+disponible
+en la EPAR
+
+Cantidad a
+adquirir
+
+350
+
+12
+
+0
+
+12
+
+700
+
+6
+
+0
+
+6
+
+1400
+1400
+1000
+1000
+
+3
+3
+4
+4
+
+0
+0
+0
+0
+
+3
+3
+4
+4
+
+4. ALCANCE.
+El presente procedimiento tiene como alcance la adquisición de cepillos, patines y gomas para
+la barredora Dulevo 30-01 para garantizar su funcionamiento y la continuidad del servicio de
+barrido mecánico.
+5. OBJETO DE LA CONTRATACIÓN
+Línea POA
+PROGRAMA
+COD_SUBP
+SUBPROGRAMA
+PROYECTO
+PRODUCTO
+ACTIVIDAD
+COD PROCESO
+PROCESO
+COD PARTIDA
+PARTIDA
+
+GESTIÓN INTEGRAL DE RESIDUOS Y DESECHOS SOLIDOS NO PELIGROSOS
+0201
+GESTIÓN DE OPERACIONES
+CANTÓN LIMPIO Y PROVISIÓN DE SERVICIO OPORTUNO CONTINUO Y
+COMPLETO
+VEHÍCULOS Y MAQUINARIA
+MANTENIMIENTO INFRAESTRUCTURA, MAQUINARIA Y EQUIPO OPERACION
+076010
+CEPILLOS, PATINES Y GOMAS PARA BARREDORA
+630405
+630813
+VEHÍCULOS (INSTALACIÓN,
+REPUESTOS Y ACCESORIOS
+MANTENIMIENTO Y REPARACIONES)
+9.668,00
+4.624,00
+0,00
+0,00
+9.668,00
+4.624,00
+
+VALOR INICIAL
+VALOR REFORMA
+CODIFICADO
+Línea PAC
+AÑO
+PARTIDA PRESUPUESTARIA / CUENTA CONTABLE
+CÓDIGO CATEGORÍA CPC A NIVEL 9
+TIPO COMPRA (Bien, obras, servicio o consultoría
+DETALLE DEL PRODUCTO (Descripción de la
+contratación)
+CANTIDAD ANUAL
+UNIDAD (metro, litro etc.)
+COSTO UNITARIO (dólares)
+Costo Total
+TIPO DE PRODUCTO (normalizado / no
+normalizado)
+CATALOGO ELECTRONICO (si/no)
+
+2022
+630405 / 630813
+871430014
+SERVICIO
+“CEPILLOS, PATINES
+BARREDORA”
+1
+UNIDAD
+$ 14.292,00
+$ 14.292,00
+
+Y
+
+GOMAS
+
+PARA
+
+NORMALIZADO
+NO
+
+Página 6 de 13
+
+PROCEDIMIENTO
+SUGERIDO
+(son
+los
+procedimientos de contratación)
+FONDOS BID (si/no)
+TIPO DE REGIMEN (común, especial)
+TIPO DE PRESUPUESTO (proyecto de inversión,
+gasto corriente)
+CERTIFICACION FUTURA
+6. INFORMACIÓN QUE DISPONE LA ENTIDAD
+
+SUBASTA INVERSA ELECTRÓNICA
+NO
+RÉGIMEN COMÚN
+GASTO CORRIENTE
+0,00
+
+6.1. Características de la barredora mecánica 30-01
+
+Página 7 de 13
+
+7. LUGAR DE PRESTACIÓN DEL SERVICIO
+El servicio debe entregado en las instalaciones de la Empresa Pública de Aseo-Rumiñahui
+(EPAR) en la Av. Gral. Enríquez s/n, vía Cotogchoa, dentro del tiempo establecido.
+8. PRODUCTOS O SERVCIOS ESPERADOS
+La Barredora 30-01 cuenta con cepillos, patines y gomas para su correcta operación de tal
+manera se requiere las siguientes cantidades necesarios en el siguiente cuadro:
+Ítem
+
+CPC
+(A
+nivel 9)
+
+Descripción
+Producto
+
+del
+
+1
+
+871430014
+
+Cepillo
+lateral
+(remanufacturado)
+
+2
+
+871430014
+
+Cepillo
+central
+(remanufacturado)
+
+3
+
+491290517
+
+Patín de arrastre RH
+
+4
+
+491290517
+
+Patín de arrastre LH
+
+5
+6
+
+491290517
+491290517
+
+Goma lateral RH
+Goma lateral LH
+
+Especificaciones Técnicas o
+características
+-Los cepillos deben estar
+compuestos por materiales
+adecuados para el barrido
+mecánico.
+-El filamento de polipropileno
+debe tener entre 2 a 2.5 mm
+de diámetro y longitud entre
+620 a 660mm.
+-La Lámina de acero al
+carbono debe tener un
+espesor entre 0.75 a 0.85 mm
+y longitud entre 620 a 660mm.
+-Los cepillos deben estar
+compuestos por materiales
+adecuados para el barrido
+mecánico.
+-El filamento de polipropileno
+de tener entre 2 a 2.5 mm de
+diametro y longitud entre 620
+a 660mm.
+Acero
+antiabracivo
+de
+mínimo 400 grados brinel de
+20mm de espesor
+Acero
+antiabracivo
+de
+mínimo 400 grados brinel de
+20mm de espesor
+Material: caucho
+Material: caucho
+
+Unidad
+
+Cantidad
+
+unidad
+
+12
+
+unidad
+
+6
+
+unidad
+
+3
+
+unidad
+
+3
+
+unidad
+unidad
+
+4
+4
+
+9. METODOLOGÍA
+Para el presente proceso se establece la siguiente metodología:
+1.- El administrador del contrato, dispondrá de 3 días contados a partir del siguiente día de
+suscripción de contrato para la entrega de las bases de cepillos, a ser remanufacturados, al
+contratista.
+2.- El contratista una vez recibido las bases deberá entregar los bienes objeto de la presente
+contratación en el plazo máximo especificado en el contrato.
+
+Página 8 de 13
+
+El contratista deberá garantizar el funcionamiento de los cepillos remanufacturados, en este
+sentido deberá realizar las correcciones que sean necesarias en las bases o su reemplazo,
+sin ningún costo adicional para la entidad contratante.
+10. METODOLOGÍA DE CALIFICACIÓN (CUMPLE / NO CUMPLE)
+La evaluación de las ofertas estará sujeta a la metodología Cumple/no cumple, en la cual
+todo lo solicitado se convierte en requisitos mínimos.
+PARÁMETRO
+Integridad de la oferta
+Cumplimiento de términos de
+referencia
+Personal Técnico Mínimo
+Experiencia del personal Técnico
+Mínimo
+Experiencia Específica del Oferente
+Cumplimiento VAE
+Otros parámetros resueltos por la
+entidad
+
+CUMPLE
+
+NO CUMPLE
+
+OBSERVACIONES
+
+10.1.
+
+Integridad de la oferta: Se evaluará considerando la presentación de los formularios y
+requisitos mínimos previstos en el pliego, el oferente deberá presentar todos los formularios
+solicitados en los pliegos en caso de existir formulario que por la naturaleza del oferente no
+sean obligatorios; serán presentados con la frase “No aplica”.
+
+10.2.
+
+Cumplimiento de Términos de Referencia: El oferente deberá cumplir con los
+Términos de Referencia o características requeridas por la EPAR, por lo que, incluirá a
+su oferta un documento en el cual detalle el servicio ofertado y sus características, con
+el detalle de cantidades y precios.
+
+10.3.
+
+Cumplimiento VAE: El oferente invitado deberá presentar el VAE según la
+metodología para la definición de una oferta como ecuatoriana, señalada en la
+Codificación de las Resoluciones del SERCOP en el Art. 75, completando el formulario
+dispuesto en el modelo de pliego del proceso.
+
+10.4.
+
+PERSONAL TÉCNICO
+
+La EPAR verificará que el oferente en la oferta presentada incluya al personal técnico
+requerido para el presente proceso.
+
+FUNCIÓN
+
+NIVEL DE ESTUDIO
+
+CANTIDAD
+
+OPERADOR
+
+Mínimo Bachiller
+
+1
+
+Página 9 de 13
+
+10.5.
+
+EXPERIECIA MÍNIMA DEL PERSONAL TÉCNICO
+
+La EPAR verificará que el oferente en la oferta presentada incluya la experiencia del
+personal técnico requerido para el presente proceso.
+FUNCIÓN
+
+CANT.
+
+OPERADOR
+
+1
+
+INSTRUCCIÓN EXPERIENCIA
+
+Bachiller
+
+MEDIOS DE VERIFICACIÓN
+Deberá presentar:
+-Hoja de vida.
+Mínimo 1
+-Título o certificado de registro en el
+año
+ministerio de Educación
+acumulado
+-Mínimo un certificado de trabajo o
+en
+contrato, con entidades públicas o
+remanufacprivadas que demuestre la experiencia
+turación de
+solicitada. En caso de que se presente
+cepillos.
+más de un documento, se sumarán los
+tiempos hasta cumplir lo requerido.
+
+EXPERIENCIA ESPECIFICA DEL OFERENTE
+#
+
+1
+
+Tipo de
+experiencia
+
+Descripción
+
+Temporali
+dad
+
+Específica
+
+Demostrar experiencia
+en la provisión y/o
+remanufacturación de
+cepillos para barredoras
+mecánicas
+
+En los
+últimos 5
+años
+
+10.6.
+
+Monto sin
+IVA (USD)
+
+Medio de
+verificación
+
+500,00
+
+Actas
+entrega
+recepción definitiva
+y/o facturas con sus
+respectivas
+retenciones
+
+OTROS PARÁMETROS
+
+Carta de compromiso: El oferente deberá entregar una carta compromiso en el cual se
+indique su compromiso de que cepillos, patines y gomas a entregar son compatibles con la
+barredora 30-01 que dispone la EPAR.
+11. INDICES FINANCIEROS
+No constituyen causal de descalificación de la oferta los índices financieros constituirán
+información de referencia respecto de los participantes en el procedimiento y en tal
+medida, su análisis se registrará conforme el detalle a continuación:
+Índice de solvencia: Igual o mayor a 1.00, el oferente debe presentar una copia simple de
+la última declaración del impuesto a la renta del ejercicio fiscal último, presentada al SRI, o
+los balances presentados al órgano de control correspondiente.
+Índice de endeudamiento: Menores a 1.5, el oferente debe presentar una copia simple de
+la última declaración del impuesto a la renta del ejercicio fiscal último, presentada al SRI, o
+los balances presentados al órgano de control correspondiente.
+El incumplimiento de los índices financieros no constituirá descalificación de la oferta.
+
+Página 10 de 13
+
+12. PATRIMONIO
+Patrimonio no requerido de acuerdo con el presupuesto referencial.
+13.OBLIGACIONES DE LAS PARTES.
+El contratista se obliga a:
+•
+•
+
+Entregar todos los bienes solicitados, a satisfacción, en las instalaciones de la EPAR y cumplir
+los plazos establecidos en la metodología del presente documento.
+Cumplir con las condiciones establecidas en el pliego, para la correcta ejecución del
+contrato. La omisión o descuido del Contratista al revisar el pliego, no lo relevará de sus
+obligaciones con relación al contrato suscrito.
+El contratante se obliga a:
+
+•
+•
+•
+•
+•
+•
+
+Designar un administrador del contrato y la comisión de recepción.
+Elaborar y suscribir las actas de entrega recepción respectiva.
+Tramitar y cancelar las facturas entregadas por el proveedor.
+Las demás establecidas en la Ley.
+Término para la atención o solución de peticiones o problemas: 5 días.
+Para el caso de servicios, de ser necesario, previo el trámite legal y administrativo respectivo,
+celebrar los contratos complementarios en un plazo 15 días contados a partir de la decisión
+de la máxima autoridad.
+
+14. FORMA DE PAGO.
+La forma de pago será 100% contra entrega del servicio recibido según lo establecido en la
+metodología, previa entrega de factura, informe del administrador y acta de entregarecepción única definitiva.
+15. MODALIDAD DE LA CONTRATACIÓN
+La presente contratación se enmarca en servicios normalizados, el servicio del presente
+proceso no consta en el Catálogo Electrónico, por tal motivo, de conformidad al
+presupuesto referencial constante en el numeral 17 de este documento, se determina como
+modalidad de la contratación la Subasta Inversa Electrónica, de acuerdo con lo establecido
+en el artículo 47 de la Ley Orgánica del Sistema Nacional de Contratación Pública, así como
+a los artículos 129 al 138 de su Reglamento General.
+16. PLAZO DE ENTREGA
+El plazo para la entrega de los cepillos, patines y gomas, objeto del presente contrato, es de
+treinta días (30) días, contados a partir del siguiente día de la entrega de las bases por parte
+del administrador de contrato.
+
+Página 11 de 13
+
+17.PRESUPUESTO REFERENCIAL.
+El presupuesto referencial para el proceso denominado “CEPILLOS, PATINES Y GOMAS PARA
+BARREDORA” es de DIEZ MIL OCHOCIENTOS OCHENTA CON 00/100 (USD 10.880,00) este valor
+no incluye IVA y DOCE MIL CIENTO OCHENTA Y CINCO CON 60/100 (USD. 12.185,60) incluido
+el IVA.
+
+ITEM
+
+DESCRIPCIÓN /
+ARTÍCULO
+
+1
+
+“CEPILLOS,
+PATINES Y
+GOMAS PARA
+BARREDORA”
+
+PRECIO
+UNITARIO
+(USD)
+
+PRECIO TOTAL
+SIN IVA (USD)
+
+CPC
+
+PARTIDA
+
+CANTIDAD
+
+871430014
+
+630405
+
+1
+
+6.600,00
+
+6.600,00
+
+491290517
+
+630813
+
+1
+
+4.280,00
+
+4.280,00
+
+PRESUPUESTO REFERENCIAL
+
+10.880,00
+
+Valores no incluyen IVA
+El cálculo del presupuesto fue determinado de acuerdo con lo dispuesto en la Codificación de
+Resoluciones emitida por el SERCOP, vigente a la fecha, que establece las consideraciones
+mínimas del estudio de mercado para la definición del presupuesto referencial a ser
+presentados en los procedimientos de contratación pública de bienes o servicios, los cuales se
+presentan en el “ESTUDIO PARA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL”, adjunto.
+18. CONDICIONES ADICIONALES DEL PRECIO DE LA OFERTA
+El precio del servicio ofertado deberá incluir la entrega de los bienes en las instalaciones de la
+EPAR.
+19.
+
+GARANTÍAS.
+
+19.1.
+
+Garantía Técnica. - El contratista emitirá una garantía técnica de los bienes objeto de
+la presente contratación de 6 meses mínimo, esta garantía aplica en caso de presentarse
+defectos de fabricación de materiales y/o por defectos de ensamblaje.
+El plazo de la garantía se contabilizará a partir de la suscripción del acta entrega recepción del
+servicio objeto del contrato.
+20. REAJUSTES DE PRECIOS
+Por la naturaleza de la contratación no existirán reajustes de precios.
+21. MULTAS
+Se aplicará la multa de 1 por 1.000 sobre el porcentaje de las obligaciones que se encuentren
+pendientes a ejecutarse conforme los establecido en contrato, por incumplimiento de las
+obligaciones contractuales y por cada día de retraso en la entrega de los bienes, de conformidad
+con los establecido en el Art. 71 de la ley Orgánica del Sistema Nacional de contratación pública.
+
+Página 12 de 13
+
+22. DEDUCCIÓN DEL CPC Y CÁLCULO DEL VAE
+Acorde a los estipulado en la Codificación de las Resoluciones emitidas por el SERCOP, vigente
+a la fecha, al uso de la herramienta clasificador central de productos del Servicio Nacional de
+Contratación Pública, y conforme a los criterios y metodología de la presente documentación,
+se detalla el siguiente análisis:
+Lote Nivel 5
+CPC
+87143
+1
+87143
+49129
+49129
+2
+49129
+49129
+
+Detalle de bien/ servicio
+Cepillo laterale (remanofacturado)
+Cepillo central (remanofacturado)
+Patín de arrastre RH
+Patín de arrastre LH
+Goma lateral RH
+Goma lateral LH
+
+UMBRAL DE
+VAE DEL
+LOTE
+LOTE
+(a)
+1
+87143
+36,32%
+2
+49129
+40,00%
+PRESUPUESTO REFERENCIAL
+REFERENCIA
+CPC LOTE
+
+Qty
+
+P. Uni
+
+12
+6
+3
+3
+4
+4
+
+290,00
+520,00
+380,00
+380,00
+250,00
+250,00
+
+P.
+total
+3480,00
+3120,00
+1140,00
+1140,00
+1000,00
+1000,00
+
+T. por
+lote
+6.600,00
+
+4.280,00
+
+PRPPi (Peso
+VAE
+Relativo
+Ponderado el
+del lote)
+Procedimiento
+c=(bi/∑bi)
+d= (a*c)
+60.66%
+22,03%
+39.34%
+15.74%
+
+PRESUPUESTO
+REFERENCIAL
+DEL LOTE (bi)
+6.600,00
+4.280,00
+10.880,00
+
+UMBRAL
+VAE
+∑d
+37,77%
+
+La presente contratación se realizará considerando el CPC a nivel 9 que tiene una mayor
+cuantía económica en relación con el monto total del presupuesto referencial es 871430014
+denominado “SERVICIOS DE MANTENIMIENTO Y REPARACION DE OTROS VEHICULOS DE MOTOR
+N.C.P.”
+23. APLICACIÓN DE TRANSFERENCIA DE TECNOLOGÍA
+No aplica.
+24. VIGENCIA DE LA OFERTA
+La oferta se entenderá vigente hasta 60 días calendario o conforme lo establece el art. 30 de
+la LOSNCP.
+Elaborado por:
+
+Revisado y Aprobado por:
+
+Firmado electrónicamente por:
+
+LUIS ENRIQUE
+GALARZA
+VILLAFUERTE
+
+Ing. Luis Enrique Galarza Villafuerte
+ANALISTA DE EJECUCIÓN DE SERVICIOS DE
+ASEO 2
+
+Firmado electrónicamente por:
+
+PABLO FERNANDO
+MORENO ROBLES
+
+Ing. Pablo Fernando Moreno Robles, MBA.
+GERENTE DE OPERACIONES
+
+Página 13 de 13
+
+

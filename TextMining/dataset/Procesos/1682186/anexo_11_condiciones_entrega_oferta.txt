@@ -1,0 +1,34 @@
+ANEXO 11
+Consideraciones para entrega de oferta
+Cumpliendo con lo indicado en el Oficio Circular Nro. SERCOP-SERCOP-2020-0022-C de 27 de
+octubre de 2020; y, en concordancia con el artículo 10.1 “Documentos firmados
+electrónicamente” de la Resolución RE-SERCOP-2016-0000072.
+Las ofertas deben ser suscritas electrónicamente bajo el sistema oficial FIRMA EC, y publicados
+en el portal de compras públicas; en el caso de su entrega de forma física, mediante cd que
+contenga la oferta suscrita electrónicamente con los respectivos anexos y/o documentación de
+respaldo y verificaciones en FirmaEC, en la Dirección Nacional Administrativa y Servicios de la
+Contraloría General del Estado, ubicada provisionalmente en el noveno piso, torre azul, del
+Edificio de la Plataforma Gubernamental Norte, situado en la ciudad de Quito, Av. Río Amazonas
+y Alfonso Pereira; y, a través del Portal Institucional del Servicio Nacional de Contratación
+Pública; hasta las 12:00 del día 09 de marzo del 2022. El precio de la misma siempre deberá
+subirse a través del Portal Institucional del Servicio Nacional de Contratación Pública, hasta la
+fecha en que se cierre el plazo para la presentación de la oferta. La falta de ingreso del precio
+de la propuesta en el referido Portal, será causa de descalificación de la oferta.
+En el caso que deseen entregar de manera física la oferta (entendiéndose esta oferta
+electrónica) podrá realizarlo mediante wetransfer.com/ del correo electrónico que el proveedor
+tiene registrado en el SOCE., cuyo link deberá ser remitido al correo electrónico
+kgarces@contraloria.gob.ec; sin embargo, es importante mencionare que la plataforma de
+análisis de correos basuras (spam) y malware Symantec Messenger Gateway, que analiza los
+mails que ingresan pueden categorizarlos como spam (adjuntos maliciosos), y si el dominio del
+remitente se encuentra en listas negras categorizadas con mala reputación, las políticas de
+seguridad de la Contraloría General del Estado evitan el ingreso de ese tipo de amenazas.
+Es importante que los oferentes, consideren para los anexos lo dispuesto en el artículo 24.1 “Del
+certificado de firma electrónica” de la Resolución RE-SERCOP-2016-0000072, en el que señala:
+“En los casos de los anexos o documentación de respaldo que se adjunte a la oferta, deberá ser
+digitalizado y bastará con la firma electrónica por el oferente en el último documento que sea
+parte del archivo digital, se aplicará también para los casos que hayan sido suscritos o emitidos
+por un tercero con firma manuscrita, Esta firma implicará la declaración de que todos los
+documentos presentados son auténticos, exactos y veraces, y que el oferente se hace
+responsable de los mismos dentro de los controles posteriores que se pueda realizar.”
+
+

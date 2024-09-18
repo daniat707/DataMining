@@ -1,0 +1,1863 @@
+TERMINOS DE REFERENCIA Y/O ESPECIFICACIONES TÉCNICAS
+
+TIPO DE PRODUCTO:
+
+BIEN
+
+X
+
+SERVICIO
+
+
+
+OBRA
+
+
+
+CONSULTORIA
+
+
+
+		
+
+		FECHA:  27-06-2022
+
+		CONSTANCIA LINEA DE PAC: SI
+
+		Adjuntar print de línea de PAC
+
+		
+
+		Justificación (si no se en encuentra en PAC justifique) 
+
+		
+
+OBJETO DE CONTRATACIÓN
+
+Utilizar correctamente el lenguaje: Adquisición (para bienes) / Contratación (para servicios, consultorías y construcción de obras)
+
+		ADQUISICIÓN DEL SISTEMA DE GESTIÓN DOCUMENTAL PARA LA EPM REGISTRO DE LA PROPIEDAD DE GUAYAQUIL
+
+Clasificador Central de Producto (CPC) Y Nombres de CPC
+
+Identificar el CPC por cada producto o servicio requerido
+
+		CPC
+
+		Nombre
+
+	845200014
+
+		SERVICIOS DE CONSERVACION DE ARCHIVOS PUBLICOS
+
+		
+
+		AREA REQUIRENTE
+
+		Área que motiva el requerimiento.
+
+Sistemas Informáticos – Dirección de Mejora Continua y Tecnologías de la Información
+
+		RESPONSABLE DEL AREA REQUIRENTE ASIGNADO Y CARGO
+
+		Observar la NCI 200-06 (un técnico afín al objeto de contratación deberá elaborar el presente requerimiento junto con los estudios previos a los que hace referencia el Art. 23 LOOSNCP).:
+
+		Ing. Esteban Serrano – Jefe de Sistema
+
+		¿Quién generó la necesidad? 
+
+		Se deberá indicar con precisión de donde surgió la necesidad de contratación, pueden ser las mismas áreas de la institución o incluso áreas externas de la institución.
+
+		Fernando Mosquera– Gestor de Sistemas, con la finalidad proveer y salvaguardar la información generada en las diferentes áreas de la EPM. Registro de la Propiedad de Guayaquil se ve la necesidad de adquirir el sistema de Gestión Documental para la conservación de toda la información de manera digitalizada de esta entidad. 
+
+		PARTIDA PRESUPUESTARIA Y DESCRIPCION
+
+		Partida Presupuestaria
+
+		Descripción
+
+		8.4.01.07
+
+	Equipos, Sistemas y Paquetes Informáticos
+
+		
+
+		PRESUPUESTO REFERENCIAL
+
+		
+
+		FUENTE Y MECANISMO PARA ESTABLECER EL PRESUPUESTO REFERENCIAL (Justificación del presupuesto referencial: estudio de mercado) 
+
+		Art. 2 de la Res. RE-SERCOP-2021-0112, R.O. 388-S, 09-II-2021. Anexo Estudio de Mercado.
+
+Se adjunta Anexo Estudio de Mercado. 
+
+		
+
+		
+
+		ANTECEDENTES: 
+
+		Se deberá redactar los antecedentes de la entidad contratante indicando las normas jurídicas que regulan su actividad institucional, así como un breve resumen de la necesidad imperante de adquirir o contratar el objeto de contratación.
+
+La Empresa Pública Municipal Registro de la Propiedad de Guayaquil como entidad de servicio público tiene como misión brindar seguridad jurídica a través de la información de las propiedades inmobiliarias en los servicios registrales, realizando de manera transparente, eficiente y eficaz su delicada labor respecto a los procesos en ejecución como el servicio de certificado y de inscripción inmobiliaria.
+
+La Gerencia General de la EPM Registro de la Propiedad de Guayaquil se ha propuesto innovar el modelo de servicios de la entidad, para lograr un nuevo nivel de eficiencia, valor agregado y confiabilidad de su respuesta.  Para lograr este objetivo, la transformación organizacional con base en la digitalización total de la entidad será la característica visible en los servicios y procesos externos e internos.
+
+La Ordenanza sustitutiva para la administración del Registro de la Propiedad del cantón Guayaquil y el ejercicio de la competencia registral a través de la Empresa Pública Municipal Registro de la Propiedad de Guayaquil, publicada en la Gaceta Municipal No. 26 del 18 de septiembre de 2020, en el artículo tercero y las disposiciones transitorias segunda y tercera, ordenan lo siguiente:
+
+ARTÍCULO TERCERO.- OBJETO.- La Empresa Pública Municipal Registro de la Propiedad de Guayaquil tiene como objeto llevar a cabo la administración y gestión de la parte organizacional, presupuestaria, financiera, económica, de tecnología de la información  e innovación, del talento humano y de los procesos dirigidos a atender los servicios de inscripción  y certificación propios de la función registral  que permitan ofrecer a los requirentes un servicio público de excelencia, en el marco de las disposiciones constitucionales y legales, así como ejecutar las directrices y políticas públicas emitidas por el organismo nacional competente en materia registral.
+
+La Empresa deberá cumplir las acciones y gestiones que se estilan para el tipo de negocio que administra y adopta todas las medidas y resoluciones que sean razonablemente necesarias para el cumplimiento de su objeto de conformidad con el ordenamiento jurídico de la República, en lo pertinente.
+
+El cumplimiento del objeto de la Empresa es irrenunciable.
+
+DISPOSICIONES TRANSITORIAS:
+
+SEGUNDA. - SERVICIO REGISTRAL ELECTRÓNICO. - Considerando la política de -ciudad digital- auspiciada por el Gobierno Autónomo Descentralizado Municipal de Guayaquil y las directrices dadas por el organismo nacional competente en materia registral, que se enmarcan dentro del gobierno electrónico, se ratifica la instauración del servicio registral electrónico que está destinado a brindar un servicio público registral eficiente, eficaz y con total seguridad jurídica.
+
+TERCERA. - TRABAJO PRESENCIAL Y TELETRABAJO. - Por aplicación de los avances tecnológicos bajo responsabilidad de la Empresa es posible cumplir las actividades laborales en forma presencial o por la modalidad de teletrabajo, priorizando esta última, de acuerdo con el ordenamiento jurídico aplicable y las circunstancias actuales que vive el país.
+
+Considerando la política de Ciudad Digital auspiciada por el GAD Municipal de Guayaquil; que la ordenanza que nos rige establece como objeto de la empresa llevar a cabo la administración y gestión  de tecnologías de la información e innovación, que el teletrabajo emergente por la pandemia del COVID19, nos ha impulsado siempre a ir un paso más adelante, en la digitalización de la empresa, no solo del servicio registral, sino también la modernización en el trabajo diario, se hace necesario contar con un sistema que nos permita seguir en este proceso de modernización y digitalización de la empresa y del servicio registral.
+
+El presente documento define los términos de referencia para la adquisición del Sistema de Gestión Documental (SGD) para lograr este objetivo en todas las áreas de la institución.  Para ello, presenta objetivos, alcance, metodologías, documentos entregables, plazos y requerimientos necesarios.
+
+SITUACIÓN ACTUAL / JUSTIFICACIÓN TÉCNICA DEL REQUERIMIENTO 
+
+(Se deberá indicar con precisión las razones por las cuales la entidad contratante debe invertir con recursos públicos la adquisición de un determinado bien, o la contratación de una construcción de obra, prestación de servicios o consultorías. 
+
+.- En el caso de bienes se deberá justificar la inexistencia del bien en bodega, adjunto correo de disponibilidad
+
+		.- En el caso de arrendamiento de bienes se deberá justificar el beneficio institucional frente a la alternativa de adquisición.
+
+En virtud del informe emitido mediante MEMO:EPMRPG-USIS-2021-00314, de fecha 19 de octubre de 2021, suscrito por el Gestor de Sistemas-Fernando Mosquera, en que indica que la Empresa Pública Municipal Registro de la Propiedad de Guayaquil, cuenta con un sistema de digitalización, el mismo que en la actualidad ya no cuenta con soporte o respaldo por parte de la empresa que lo desarrollo, razón por la cual es necesario programar e iniciar el proceso de adquisición de un nuevo sistema de Gestión Documental.
+
+Con fecha 26 de octubre de 2012, se firmó el CONTRATO NO. 0020 DE ADQUISICIÓN ENTRE LA EMPRESA PÚBLICA MUNICIPAL REGISTRO DE LA PROPIEDAD DE GUAYAQUIL Y LA CÍA. TECHNODIGITAL S.A. cuyo objeto de contratación era: “suministrar, instalar y entregar debidamente funcionando el software de digitalización para los documentos que ingresan diariamente al Registro de la Propiedad”. El sistema provisto por la compañía TECHNODIGITAL S.A. fue el Software de Administración Documental SAND, el cual, según la propuesta remitida por dicha compañía fue una creación propia, es decir un producto de desarrollo 100% nacional.
+
+Según información de la Superintendencia de Compañías, la compañía TECHNODIGITAL entro en liquidación con fecha 6 de agosto de 2019, por lo que, al momento, el Software de Administración Documental SAND, al ser un desarrollo local, fue descontinuada por el fabricante y no cuenta con el respaldo ni soporte requerido para su correcto funcionamiento.
+
+Dentro de la planificación de los proyectos a ejecutarse en el área de Sistemas se encuentra la actualización de la plataforma de gestión documental de la parte operativa, debido a que, el sistema actual no cuenta con el soporte requerido; así como la implementación de una plataforma que permita gestionar de forma automatizada los flujos documentales de procesos de las distintas áreas en un esquema integrado. 
+
+Con este antecedente, se hace imperativo buscar una solución que permita realizar una estrategia de actualización tecnológica de la plataforma de manejo documental en la que actualmente se soporta toda la operación registral.
+
+
+
+		DISPONIBILIDAD EN BODEGAS, aplica en bienes
+
+		Realizar la verificación en bodega según el procedimiento e indicar aquí si hay o no disponibilidad y en que cantidades
+
+		Se adjunta correo en que se indica que no hay disponibilidad de bodega.
+
+		DETALLE DEL REQUERIMIENTO
+
+		Detallar con precisión los ítems del objeto de contratación, no se necesita dar especificaciones técnicas. 
+
+Ítem
+
+Detalle del producto
+
+Unidad 
+
+Cantidad 
+
+Costo Unit.
+
+COSTO TOTAL
+
+1
+
+Licenciamiento perpetuo de Software de Gestión Documental y captura de documentos, mínimo 150 usuarios (un
+
+solo pago)
+
+Unidad
+
+1
+
+
+
+
+
+2
+
+Implementación de solución (instalación y capacitación), incluye migración de imágenes y datos de base de datos actual (SQL) a la base de datos del nuevo sistema (3 TB). (un solo pago) INCLUYE: - Servicio de Implementación- Migración bases de datos (Un solo pago)
+
+Unidad
+
+1
+
+
+
+
+
+3
+
+Mantenimientos, soportes y actualizaciones del software vigente por 12 meses desde la suscripción de contrato (pagos mensuales)
+
+Meses
+
+12
+
+
+
+
+
+4
+
+Conversión de documentos multi-TIFF a PDF/A, incluye firmado electrónico y sellado de tiempo paquete 2,5 millones de documentos. (un solo pago)
+
+Unidad
+
+2.5 millones
+
+
+
+
+
+5
+
+Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados de mediana complejidad. (un solo pago)
+
+Unidad
+
+1
+
+
+
+
+
+…
+
+En caso de requerir mayor cantidad de ítems se deberá anexar en documento aparte el numeral 3 de este formulario, con todos los productos que requiera la entidad contratante.
+
+TOTAL
+
+
+
+
+
+
+
+		
+
+		GARANTÍAS
+
+		Revisar los Arts. 74, 75 y 76 de la Ley Orgánica del Sistema Nacional de Contratación Pública -LOSNCP-:
+
+ a) Anticipo
+
+
+
+b) Técnica
+
+X
+
+c) Fiel cumplimiento
+
+
+
+Observaciones sobre 
+
+las garantías:
+
+
+
+Forma de Garantía: 
+
+(Revisar Art. 73 de la LOSNCP y Art.117 del Reglamento General)
+
+En forma previa a la suscripción del contrato derivados del presente procedimiento se deberán presentar las garantías que fueren aplicables de acuerdo con lo previsto en los artículos 74, 75 y 76 de la LOSNCP, en cualquiera de las formas contempladas en articulo 73 ibidem.
+
+
+
+La contratista debe presentar la garantía de fiel cumplimiento del contrato, se rendirá por valor igual al cinco (5%) del monto total del mismo en una de las formas establecidas en el artículo 73 de la LOSNCP, la que deberá ser presentaba previo a la suscripción del contrato. No se exigirá en los contratos cuya cuantía sea menor al multiplicar el coeficiente 0.000002 por el presupuesto inicial del Estado correspondiente al ejercicio económico.
+
+
+
+La contratista debe presentar el Acuerdo de Nivel de Servicios ANS.
+
+Garantía de asesoramiento
+
+(Aplica exclusivamente para la contratación de consultoría de estudios previos en obras). Considerar: NCI 408-34 y Arts. 284 al 295 de la codificación de las resoluciones. 
+
+NO APLICA
+
+
+
+		
+
+	ESPECIFICACIONES TÉCNICAS
+
+	Aplica cuando el objeto de requerimiento es de bienes
+
+		Se adjunta anexo.
+
+		
+
+		ESPECIFICACIONES TÉCNICAS Y/O TÉRMINOS DE REFERENCIA (TDR)
+
+		
+
+		OBJETIVOS (General y Específico)
+
+		
+
+Objetivo General
+
+Contar con la “ADQUISICIÓN DEL SISTEMA DE GESTIÓN DOCUMENTAL PARA LA EPM REGISTRO DE LA PROPIEDAD DE GUAYAQUIL”. Lo que permita la creación, digitalización, indexación, archivado de los documentos, así como la gestión de los flujos documentales de proceso de las distintas áreas del Registro de la Propiedad, que permita implantar en todas sus fases un modelo de gestión documental que permita llevar a la EPM Registro de la Propiedad de Guayaquil a cumplir la visión de ser una institución 100% digital, en la que se tienda a que todos sus procesos se administren con Cero Papeles.
+
+ Objetivo Especifico
+
+Identificar con detalle la línea de base de siete (7) procesos y servicios de las distintas áreas del Registro de la Propiedad del cantón Guayaquil que son susceptibles a la digitalización.
+
+Diseñar e implementar los flujos documentales de proceso personalizados que se definan según el punto anterior, por medio del Sistema de Gestión Documental (SGD) provisto.
+
+Establecer la forma y la estructura en que los documentos se deberían crear e incorporar al sistema, y las tecnologías que deberían usarse.
+
+Determinar los metadatos que deberían crearse junto al documento y a lo largo de los procesos relacionados con el mismo, y como se vincularán y gestionarán dichos metadatos a lo largo del tiempo.
+
+Establecer los requisitos para recuperar, usar y trasmitir documentos durante los procesos de negocio o por otros posibles usuarios y los plazos de conservación necesarios para cumplirlos.
+
+Diseñar esquemas de cómo organizar los documentos de manera que se cumplan los requisitos necesarios para su uso.
+
+Instaurar esquemas de cómo conservar los documentos y permitir el acceso a los mismos a lo largo del tiempo, con objeto de satisfacer las necesidades de la organización y las expectativas de la sociedad.
+
+Cumplir los requisitos legales y reglamentarios, las normas aplicables y la política de la organización en cuanto al manejo documental.
+
+Garantizar que los documentos se conserven en un entorno seguro
+
+Identificar y evaluar las oportunidades para mejorar la eficacia, eficiencia o calidad de los procesos, las decisiones y las acciones que puedan derivarse de una mejor creación o gestión de los documentos.
+
+Proporcionar el soporte técnico, los mantenimientos y actualizaciones respectivos al sistema por el tiempo contratado.
+
+Brindar la capacitación necesaria para el personal definido por EPM Registro de la Propiedad, impartida por personal certificado por el fabricante.
+
+
+
+		ALCANCE
+
+		
+
+El Sistema de Gestión Documental (SGD) debe soportar toda la información registral, desde el archivo de documentos registrales digitalizado, hasta los documentos generados a diario en los diferentes procesos de las distintas áreas de la institución, de una forma ágil, confiable y brindando todas las seguridades lógicas que en la actualidad son necesarias para el mejoramiento del servicio registral, aumentando la capacidad tecnológica de nuestros funcionarios y brindando rapidez y eficiencia a todos nuestros usuarios externos.
+
+
+
+Adicionalmente, como parte del alcance de este proceso, se deberán cubrir los siguientes puntos:
+
+
+
+Suministrar, instalar y entregar debidamente funcionando el sistema de gestión documental (SGD) con licenciamiento perpetuo, que cumpla con todos los parámetros requeridos.
+
+Implementación de solución (instalación y capacitación) para 150 usuarios.
+
+Migración de imágenes y datos de base de datos actual a la base de datos del nuevo sistema (3 TB).
+
+Conversión de 2.5 millones de documentos de formato multi-TIFF a formato PDF/A incluido el Firmado Electrónico y Sellado de Tiempo (por una entidad certificada).
+
+Levantar y configurar los flujos documentales que deberían ser creados en cada proceso de negocio definido previamente (7) y la información que sería necesario incluir en dichos flujos.
+
+		
+
+		METODOLOGÍA DE TRABAJO
+
+		
+
+El contratista, así como la EPM Registro de la Propiedad de Guayaquil a través del administrador de contrato, se sujetarán a lo determinado en los pliegos, objeto del contrato y deberá cumplir a entera satisfacción el mismo, comprometiéndose a cumplir las actividades especificadas en la documentación relativa al proceso
+
+
+
+Además, el contratista deberá contemplar en su metodología lo siguiente:
+
+
+
+Los productos ofertados serán única y exclusivamente los requeridos mediante este TDR.
+
+Establecer equipo de trabajo, responsabilidades, entregables entre otros.
+
+Entrega de la documentación final y firmas de aceptación.
+
+
+
+El contratista dará cumplimiento a los mantenimientos requeridos previa coordinación con el Administrador de Contrato.
+
+	
+
+		INFORMACIÓN QUE DISPONE LA ENTIDAD
+
+		
+
+La EPM Registro de la Propiedad de Guayaquil, facilitará a la Contratista, los accesos requeridos, a fin de que se realice la habilitación de las suscripciones adquiridas y configuración del licenciamiento objeto de la contratación.
+
+		
+
+		PRODUCTOS O SERVICIOS ESPERADOS
+
+		
+
+Requisitos de Hardware
+
+
+
+La infraestructura física sobre la cual se alojará el SGD será provista por la EPM Registro de la Propiedad de Guayaquil en un ambiente virtualizado de acuerdo con el requerimiento del contratista y los recursos de los que disponga la empresa al momento de la implementación.
+
+	
+
+	Licenciamiento
+
+	
+
+	Licenciamiento perpetuo del Software de Gestión Documental, mínimo 150 usuarios, con instalación y parametrizaciones definidas en el alcance.
+
+		
+
+		ESPECIFICACIONES TÉCNICAS
+
+		
+
+Plataforma. -
+
+
+
+El sistema y todos sus componentes deben ser compatibles e interactuar con las plataformas actuales o futuras de la entidad mediante una API que permita integrar funcionalidad del SGD a nuestra plataforma web.
+
+El Front End de la aplicación debe estar construido con lenguajes de última generación en su última versión (Ejemplo: HTML, CSS, JavaScript)
+
+Debe implementar arquitectura de capas, en dónde se diferencie la capa de acceso a datos, la capa de lógica de negocios y un web api para poder integrarse de manera fácil a los demás sistemas.
+
+Debe incorporar un Visor de Imágenes que podrá ser invocado, mediante una API, desde los sistemas registrales a través de un botón específico dentro de los módulos del sistema registral sin necesidad de abrir toda la interfaz del SGD, para el uso de los servidores registrales, el mismo que deberá tener todas las herramientas básicas de anotaciones sobre imágenes sin que estas modifiquen o alteren la imagen original, tales como: subrayados, marcados con resaltador, ampliación, reducción, edición de texto y etiquetas, impresión para usuarios autorizados, etc.
+
+Debe permitir transmitir información entre las diferentes capas mencionadas anteriormente como por ejemplo flujos de trabajos automatizados conectados a base de datos y esquemas con reglas de negocios.
+
+Para el proceso de OCR o el proceso de visión artificial el sistema debe utilizar tecnologías que demuestren su eficacia.
+
+El sistema debe permitir el almacenamiento de archivos de imágenes en formatos comunes estándar como: tiff, Multi-tiff, jpeg, pdf, pdf/a, y cualquier otro formato de contenido.
+
+El sistema debe manejar un proceso de compresión de archivos que optimice el tamaño de la data que se almacenen en su base.
+
+Debe permitir la rasterización de documentos digitalizados en diferentes formatos (Multi-tiff, pdf) 
+
+Debe permitir el uso del formato OpenXML o cualquier otro compatible, con el objetivo de cargar documentos de Office y detectar los campos de datos.
+
+Las interfaces de la solución ofrecida deben ser responsive o adaptativo, es decir, se deben poder visualizar de manera correcta tanto en computadores como en dispositivos móviles ajustando su diseño de acuerdo con el tamaño de la pantalla. 
+
+El sistema debe proporcionar un visor que genere una marca de agua con el nombre del usuario que está visualizando el documento con el propósito de impedir capturas del documento mediante fotografía. 
+
+La instalación central del sistema debe funcionar en los sistemas operativos en sus últimas versiones y el proveedor deberá suministrar el licenciamiento requerido.
+
+La solución ofrecida debe operar sobre Base de datos SQL Server en sus últimas versiones, el proveedor debe suministrar el licenciamiento requerido.
+
+El sistema deberá permitir exponer servicios web y el consumo de servicios web de otros sistemas.  
+
+El sistema debe poder integrarse con el servidor de correo exchange para enviar alarmas, notificaciones y mensajes.
+
+La solución debe permitir la Integración con las herramientas de Microsoft Office. 
+
+El proveedor deberá desarrollar todo el proyecto bajo metodologías de gestión de proyectos informáticos.
+
+Las personalizaciones de los procesos automatizados y desarrollos propios serán de propiedad de la entidad.
+
+La solución ofrecida debe ser escalable en funcionalidad y número de usuarios, sin degradar la calidad del servicio.
+
+El sistema debe ofrecer tiempos de búsqueda optimizados, dependiendo los criterios de búsqueda. 
+
+El sistema debe manejar la indexación de documentos con métodos de búsqueda integrales.
+
+Consultas transversales de los documentos digitalizados en relación con los tipos de documentos, y acceso a la información ingresada por los participantes que tomaron acciones en el proceso.
+
+El sistema debe permitir la carga masiva de documentos digitalizados con sus respectivos metadatos.
+
+La solución debe cumplir con las normas locales aplicables para la administración legal y el peso probatorio de los registros electrónicos.
+
+El sistema debe poseer mecanismo de seguridad para restricción de copia e impresión de documentos.
+
+La solución debe permitir el control de check-in y check-out para garantizar que un mismo documento no sea editado simultáneamente por varias personas.
+
+Todas las ayudas, herramientas y documentación de la solución y sus interfaces, deben operar y entregarse en idioma español, en todo caso el multilenguaje debe estar soportado por la solución y se podrá configurar por usuario, acorde a las necesidades de idioma de este.
+
+Todos los objetos, servicios e imágenes que se incluyan en la solución deberán ser de libre utilización o contar con su correspondiente licencia de uso a nombre de la entidad.
+
+		
+
+CARACTERÍSTICAS FUNCIONALES:
+
+		
+
+		GESTIÓN DE USUARIOS
+
+		
+
+		El sistema debe disponer de un módulo de gestión de usuarios, roles y perfiles.
+
+		El sistema debe permitir la creación de N clientes, sobre la misma instalación. (multi-tenant). 
+
+		El sistema debe gestionar la creación de usuarios con asignación de roles.
+
+		La Administración del Sistema debe integrarse con el Directorio Activo de la entidad y permitir la creación de Perfiles y usuarios propios del sistema. 
+
+		El sistema debe permitir la parametrización de la interfaz de usuario en función de su perfil. 
+
+		El sistema debe permitir al usuario administrador consultar los roles existentes en el sistema. 
+
+		El sistema debe permitir al usuario administrador crear y editar un perfil mediante el uso de roles disponibles. 
+
+		El sistema debe permitir al usuario administrador crear los perfiles requeridos de acuerdo con la necesidad de la organización, sin la necesidad de un desarrollo adicional. 
+
+		El sistema debe permitir al usuario administrador activar usuarios que se encuentran en el directorio activo, para asignar la dependencia a la que pertenecen y su perfil. 
+
+		El sistema debe permitir desactivar, modificar y trasladar a los usuarios del sistema de un área a otra.
+
+		La aplicación debe tener una pantalla de acceso con usuario (Login), clave y autenticar con el directorio activo de la entidad (Microsoft LDAP). 
+
+		El menú debe presentar las opciones a las que tiene acceso según el perfil asignado. 
+
+		Permitir reportes de seguridad (log de seguridad de actividad de usuarios)
+
+		
+
+		FIRMA ELECTRONICA
+
+		
+
+		El sistema debe permitir asociar firma digital o electrónica para la firma de documentos electrónicos a cada uno de los usuarios autorizados para firmar.
+
+		El sistema debe permitir múltiples firmas electrónicas o digitales en los documentos electrónicos generados.
+
+		El sistema debe permitir que se integren las firmas electrónicas, digitales y el estampado cronológico.
+
+		Los certificados digitales deben integrarse en cualquier proceso que la entidad requiera dentro de la solución. 
+
+		El sistema debe permitir elegir los usuarios autorizados para firmar documentos. 
+
+		El sistema debe contar con funciones que mantengan la integridad de los documentos y sus firmas.
+
+		El sistema debe almacenar junto con los documentos electrónicos la firma o firmas asociadas a tal documento.
+
+		El sistema debe almacenar junto con los documentos electrónicos el certificado o certificados digitales que validan la firma.
+
+		
+
+		ADMINISTRACIÓN
+
+		
+
+		La gestión de todos los componentes del sistema deberá ser a través de un módulo de Administración.
+
+		El sistema debe permitir la configuración de la estructura organizacional o categorías administrativas (áreas, grupos y cargos).
+
+		El sistema debe llevar un log donde se registren todos los accesos.
+
+		El sistema debe permitir que los administradores de forma fácil y controlada recuperen, visualicen y reconfiguren parámetros del sistema y opciones escogidas en el momento de la configuración, como los elementos que se indexan, así como la asignación de usuarios y funciones a otros perfiles de usuarios.
+
+		El sistema debe permitir exportar la configuración de todas las parametrizaciones e importarlas en caso de requerirse.
+
+		El sistema debe permitir que los administradores realicen cambios masivos en la estructura de clasificación, incluyendo la completa manipulación de todos los metadatos y dejando el respectivo log de auditoría.
+
+		El sistema debe permitir la Gestión de Procesos.
+
+		La solución debe tener integrada nativamente una herramienta de diseño y modelamiento de procesos. 
+
+		La solución debe gestionar metadatos e índices electrónicos personalizados y asociarlos a los documentos digitalizados, Agrupación por Carpetas y Clasificación de Documentos, Gestión de Cuadros de Clasificación, Tablas de Retención, Series, Subseries y Tipos Documentales, Búsquedas de documentos.
+
+		La solución debe permitir configurar el acceso a los expedientes por usuario.
+
+		La solución debe tener un módulo de gestión de correspondencia
+
+		La solución debe permitir la consulta y creación de múltiples reportes e informes.  
+
+		La solución debe permitir el proceso de gestión y trámite de un expediente electrónico y la trazabilidad de documentos.
+
+		La solución debe tener un módulo de Digitalización.  
+
+		
+
+		MODULOS:
+
+		
+
+		Gestión y Trámite
+
+		
+
+		Permitir la gestión de las radicaciones (Entrada, Salida e Interna) de la documentación
+
+		Debe generar la referencia cruzada para cada radicación de entrada de tal manera que sea posible asociarla al expediente físico existente en la EPM Registro de la Propiedad de Guayaquil, al cual corresponda el documento recibido.
+
+		Permitir cargar los tipos de formato más comunes (ejemp: Multi-tiff, pdf/a, Word, etc.) y asociarlo a una radicación o tramite.
+
+		El sistema de administración de imágenes debe permitir combinar en un solo registro los múltiples formatos en que pudieran estar los documentos registrales (Multi-tiff, pdf, jpg, etc.)
+
+		Vincular una radicación a otra u otras cuando correspondan al mismo asunto y remitente.
+
+		El sistema debe permitir enviar documentos a usuarios y estos puedan abrirlos y editarlos; cuyos cambios deben ser registrados directamente sobre el documento. En todo caso debe gestionarse una sola versión del documento.
+
+		Llevar una completa trazabilidad de un trámite y presentar de una manera amigable el estado del trámite con todas sus modificaciones.
+
+		Enviar alertas para mantener informado sobre el estado de los trámites y posibles retrasos de acuerdo con los pasos estimados en los procesos y procedimientos.
+
+		Gestionar un trámite de acuerdo con el flujo preestablecido y agregar comentario o adicionar documentos al mismo.
+
+		Asignar un trámite a otro usuario con su respectiva auditoria y trazabilidad.
+
+		Gestionar los flujos de trabajo de los documentos.
+
+		
+
+		Expedientes
+
+		
+
+		Crear cuantos descriptores sean necesarios para cada expediente.
+
+		Permitir la descripción de un expediente en cualquier etapa del trámite (radicación o tramite).
+
+		Debe permitir la creación de expedientes electrónicos de acuerdo con la estructura de las tablas de Retención (TRD) y generar el índice electrónico para cada uno.
+
+		Debe permitir la creación y generación de la hoja de control para cada carpeta de cada expediente según formato definido por la EPM Registro de la Propiedad de Guayaquil.
+
+		Debe permitir generar el Formato Único de Inventario (FUID) para cada expediente según formato definido por la EPM Registro de la Propiedad de Guayaquil.
+
+		Debe permitir archivar, desarchivar o cambiar de estado un expediente de acuerdo a los roles del usuario.
+
+		Debe permitir crear expedientes por documentos pendientes conectados a un flujo de trabajo por usuario/ proceso.
+
+		Debe permitir la creación de expediente por tipo documental de manera automática
+
+		El sistema debe permitir que el índice electrónico del expediente sea firmado al momento del cierre del expediente, esta firma electrónica garantizará la autenticidad e integridad del contenido del índice, y por extensión, de los documentos que conforman el expediente electrónico, así como de su estructura.
+
+		
+
+		Plantillas
+
+		
+
+		Debe permitir la creación de formatos electrónicos y campos de descripción, de manera dinámica a partir de plantillas elaboradas en Office.
+
+		Permitir la creación de documentos PDF firmados digital o electrónicamente a partir de plantillas previamente creadas en el sistema.
+
+		
+
+		Transferencias Documentales
+
+		
+
+		Realizar las transferencias documentales de acuerdo con la configuración de la Tabla de Retención Documental.
+
+		Adicionar descriptores a los expedientes que han sido clasificados como históricos para mejorar su descripción y búsqueda.
+
+		Generar el cronograma anual de transferencias documentales a partir de los inventarios documentales y las TRD por dependencia
+
+		Informar sobre los expedientes que están listos para ser transferidos.
+
+		
+
+		
+
+		Digitalización
+
+		
+
+		El software debe ser compatible con escáneres de libros y escáneres de planos, así como con cualquier escáner de alta producción, es decir, que no sea dependiente de un solo modelo o marca de escáner. 
+
+		Debe permitir que durante la digitalización de los documentos se pueda editar las imágenes borrando impurezas, eliminación de las páginas en blanco y enderezamiento de páginas, es decir hacer correcciones en la calidad de la imagen para su optimización.
+
+		Debe permitir la creación de expedientes a partir de documentos digitalizados.
+
+		Debe permitir asociar documentos cargados a la digitalización a un tipo documental.
+
+		Debe permitir reordenar documentos digitalizados.
+
+		Debe permitir la carga masiva de documentos con sus respectivos metadatos.
+
+		
+
+		Inventarios Documentales
+
+		
+
+		Debe permitir controlar la ubicación de cada uno de los expedientes almacenados en cada uno de los depósitos de archivo (ejemp: gestión, central, histórico)
+
+		Debe permitir crear cada uno de los expedientes dentro de la correspondiente unidad de conservación y ubicación.
+
+		Permitir la creación de unidades de almacenamiento, ubicaciones y depósitos.
+
+		
+
+		Descarte Documental
+
+		
+
+		Generar un acta de disposición final con todos los expedientes que ya cumplieron su ciclo de vida de acuerdo con lo establecido en la tabla de retención documental.
+
+		Asociar el formato de acta de disposición final para su creación automática.
+
+		
+
+		Clasificación y Retención
+
+		
+
+		El sistema debe permitir crear y actualizar el Cuadro de Clasificación Documental (CCD).
+
+		El sistema debe permitir que el CCD obedezca a la estructura orgánica de la entidad, establecida normativamente.
+
+		El sistema debe permitir que el CCD contenga el área, serie/subseries documentales, el procedimiento y/o la normativa.
+
+		El sistema debe permitir la navegación y exploración de los expedientes y de la estructura del Cuadro de Clasificación Documental (CCD), así como la selección, la recuperación y la presentación de los expedientes electrónicos y su contenido.
+
+		El sistema debe permitir que las Tablas de Retención Documental (TRD) configuradas cuenten con la estructura de código de dependencia, nombre de la dependencia, códigos de serie, nombre de la serie, código de la subserie, nombre de las subseries, tipos documentales, tiempos de retención en archivo y observaciones. 
+
+		Las TDR que se configuren en el sistema, deben contar con la estructura establecida por la EPM Registro de la Propiedad de Guayaquil, es decir códigos, serie, subserie, tipos documentales, tiempos de retención, disposición final, niveles de acceso y observaciones.
+
+		Un expediente puede tener uno o varios usuarios o dependencias con permisos para actualizar y consultar el expediente, con base en la configuración dada desde las TRD. Esta opción debe ser totalmente parametrizable.
+
+		Con la finalidad de cumplir con el ciclo vital de documentos, el sistema, debe cubrir en su totalidad el ciclo de vida de los documentos, desde su creación hasta su disposición final.
+
+		El sistema debe evitar en todo momento que se elimine un expediente o cualquier parte de su contenido, salvo en caso de: destrucción conforme a las disposiciones de conservación o eliminación llevada a cabo por un administrador como parte de un procedimiento auditado.
+
+		El sistema debe ser capaz de rastrear de forma automática los períodos de conservación asignados al expediente conforme la Tabla de Retención Documental, tomando como fecha final la del documento incorporado más reciente.
+
+		El sistema debe permitir que los expedientes preserven la clasificación de la TRD con la cual fueron creados.
+
+		El sistema no debe permitir que, una vez la TRD haya sido versionada, los usuarios puedan crear expedientes con las series/subseries de la TRD anterior.
+
+		
+
+		Búsqueda y Consulta
+
+		
+
+		El sistema debe ser capaz de buscar, recuperar y presentar un expediente electrónico a partir de múltiples filtros, entre los que se incluyen: nombre, número del expediente, fechas, ubicación, identificador del expediente entre otros, que actúen sobre los metadatos asociados y en el contenido contextual de los documentos de archivo, expedientes.
+
+		El sistema debe mostrar el número total de resultados de una búsqueda en la pantalla del usuario y permitir que éste visualice dichos resultados o bien le permita mejorar sus criterios de búsqueda.
+
+		El sistema debe permitir que los documentos y expedientes electrónicos sean consultados en lista de resultados, para ser seleccionados, abiertos o solicitados (tras superar los controles de acceso) con un simple clic o bien pulsando una tecla.
+
+		Recuperar un expediente completo o parte de su contenido. Presentar el número total de resultados de una búsqueda
+
+		El sistema debe mostrar los resultados de la búsqueda ordenados de acuerdo con el grado de pertinencia o el criterio establecido por el usuario (fecha, numero, ubicación, estado, etc.).
+
+		El sistema debe presentar al usuario la cantidad de resultados y de ser posible el tiempo requerido por el sistema para realizar la búsqueda.
+
+		Presentar los documentos de archivo que se hayan recuperado de una consulta.
+
+		
+
+		SEGURIDAD Y AUDITORIA
+
+		
+
+		El sistema debe permitir la asignación de niveles de seguridad a los documentos de archivo según definición y requerimiento de la EPM Registro de la Propiedad de Guayaquil.
+
+		El sistema debe permitir la asignación a los usuarios de habilitaciones de seguridad acordes con la jerarquía de las áreas y permisos.
+
+		El sistema debe permitir configurar diferentes niveles de seguridad, de manera que cuando es creado un expediente, éste hereda las propiedades asignadas por el administrador.
+
+		La información confidencial y reservada solo puede ser consultada por los perfiles autorizados e igualmente restringir documentos de consulta por áreas.
+
+		El sistema debe permitir seleccionar uno o varias áreas que pueden actualizar o consultar un mismo expediente.
+
+		El sistema debe permitir seleccionar uno o varios usuarios que pueden actualizar o consultar un mismo expediente.
+
+		El sistema debe permitir que el administrador asocie al perfil del usuario ciertos atributos que determinarán las funciones, los campos de metadatos, los documentos de archivo y los expedientes a los que el usuario tendrá acceso.
+
+		El sistema debe proporcionar las mismas funciones de control para los perfiles y para los usuarios.
+
+		La solución debe contar con herramientas y controles de desconexión automática de sesiones de usuario por inactividad.
+
+		El sistema debe ser capaz de establecer grupos de usuarios asociados a un expediente, conjunto de expedientes o documentos de archivo.
+
+		El sistema debe permitir que un usuario pertenezca a más de un grupo.
+
+		El sistema debe reservar a los administradores la capacidad de establecer perfiles de usuarios y asignar usuarios a los grupos.
+
+		El sistema debe permitir la asignación de permisos de acceso (Uno a uno, uno a muchos). Sin embargo, la asignación de esta función al usuario correspondería al administrador, según las directrices de la organización.
+
+		El sistema debe reservar a los administradores la capacidad de modificar los atributos de seguridad de los grupos o los usuarios (como los derechos de acceso, el nivel de seguridad y la asignación y gestión de contraseñas).
+
+		Si un usuario lleva a cabo una búsqueda de texto íntegro, el sistema nunca debe incluir en los resultados documentos de archivo a los que el usuario no tenga derecho a acceder.
+
+		El sistema debe impedir el acceso de los usuarios a expedientes, volúmenes o documentos de archivo a los que no tenga la autorización debida, de todo intento debe quedar constancia en el log de auditoría.
+
+		El sistema debe tener un módulo de auditoría.
+
+		El sistema debe permitir que en la configuración de TRD, se registre la creación, modificación y el histórico de versiones.
+
+		El sistema debe permitir almacenar de manera automática la trazabilidad de revisiones y aprobaciones.
+
+		El sistema debe generar registros de auditoría de reemplazo de documentos, evidenciando la trazabilidad de los cambios de usuario, fecha, hora, entre otros.
+
+		La solución debe ofrecer un log detallado que permita establecer las acciones efectuadas por los usuarios a nivel de administración de seguridad.
+
+		La solución debe contar con un módulo de consulta de los registros de seguridad. Este módulo debe facilitar la visualización por pantalla y la generación de reportes impresos, mediante la aplicación de filtros por cada uno de los campos que componen dichos registros.
+
+		Todas las actividades de administración tales como mantenimiento de usuarios y cambio de parámetros del sistema, deben quedar registradas en un archivo de log que permita hacer seguimiento a dichas actividades.
+
+		Todas las operaciones o transacciones deben poder ser monitoreadas y controladas para garantizar su integridad de manera que puedan ser identificadas posibles modificaciones no autorizadas, con o sin intención.
+
+		El sistema debe ser capaz de rastrear sin intervención manual alguna, todas las acciones y de almacenar en el log de auditoría la información sobre ellas.
+
+		El sistema debe mantener el log de auditoría durante el tiempo necesario, que al menos abarcará el ciclo de vida de los documentos de archivo o expedientes electrónicos a los que hace referencia.
+
+		Permitir trasladar radicados de un expediente electrónico a otro con las respectivas pistas de auditorías y autorizado por el administrador del sistema.
+
+		El sistema debe permitir visualizar la cantidad de veces que un expediente ha sido consultado, quién lo ha consultado, la hora y fecha en que se ha consultado, si el documento ha sido leído.
+
+		
+
+		El sistema debe permitir consignar en el log de auditoría todas las modificaciones que afecten a:
+
+		
+
+		Grupos de expedientes electrónicos;
+
+		Expedientes electrónicos individuales;
+
+		Volúmenes electrónicos;
+
+		Documentos electrónicos de archivo;
+
+		Documentos electrónicos;
+
+		Metadatos relativos a cualquiera de los elementos anteriores;
+
+		
+
+		El sistema debe ser capaz de capturar y almacenar en el log de auditoría datos sobre las siguientes acciones:
+
+		
+
+		La fecha y la hora de la captura de todos los documentos electrónicos de archivo;
+
+		La reclasificación de un documento electrónico de archivo en otro volumen;
+
+		La reclasificación de un expediente electrónico dentro del cuadro de clasificación 
+
+		Cualquier modificación de la norma de conservación de un expediente electrónico;
+
+		Cualquier modificación realizada en los metadatos asociados a las clases, los expedientes o los documentos electrónicos de archivo;
+
+		La fecha y la hora de creación, modificación y eliminación de los metadatos;
+
+		Los cambios realizados en los privilegios de acceso relativos a un expediente o documento electrónico de archivo o referentes a un usuario;
+
+		Las acciones de exportación o transferencia de un expediente electrónico;
+
+		La fecha y la hora de presentación;
+
+		La eliminación o destrucción de expedientes o documentos de archivo electrónicos;
+
+		
+
+		El sistema debe permitir el examen, previa solicitud, del log de auditoría, de modo que sea posible identificar una acción concreta y acceder a todos los datos relacionados con ella. Este procedimiento ha de poder ser utilizado por personal externo autorizado poco familiarizado con el sistema o que lo desconozca completamente.
+
+		El sistema debe ser capaz de exportar el log de auditoría de determinados documentos de archivo y expedientes electrónicos y también de grupos de expedientes.
+
+		El sistema debe poder capturar y guardar los intentos de los usuarios de acceder a un documento de archivo, volumen o expediente sin tener la debida autorización, y de los intentos de violación de los mecanismos de control de acceso.
+
+		
+
+		COPIAS DE SEGURIDAD Y RECUPERACIÓN
+
+		
+
+		El sistema debe estar dotado de procedimientos automáticos de copia de seguridad y restauración que permitan realizar copias periódicas de seguridad de todas las clases, los expedientes, los documentos de archivo, los metadatos y los atributos administrativos del repositorio del sistema o de algunos de ellos.
+
+		
+
+		El sistema debe permitir al administrador programar rutinas de copias de seguridad en las que pueda:
+
+		
+
+		Especificar la frecuencia de la copia de seguridad;
+
+		Escoger las clases, expedientes o documentos de archivo de los que se hará una copia de seguridad;
+
+		Seleccionar un soporte de almacenamiento, un sistema o un emplazamiento para la copia de seguridad (por ejemplo, un almacenamiento fuera de línea, en otro sistema o en un emplazamiento remoto).
+
+		
+
+		El sistema debe reservar al administrador la capacidad de restaurar las copias de seguridad. La integridad de los datos no se debe ver afectada en modo alguno por esa restauración.
+
+		El sistema debe ser capaz de notificar a los usuarios, en el caso que se haya realizado una recuperación incompleta.
+
+		
+
+		GESTIÓN METADATOS
+
+		
+
+		El sistema debe permitir la parametrización de los metadatos definidos por la Entidad de acuerdo con sus necesidades.
+
+		En el marco de la organización y proceso, procedimiento o trámite, al que corresponda, los metadatos que el sistema debe manejar de forma obligatoria deben describir el contexto, el contenido y la estructura de los documentos del archivo y su gestión a lo largo del tiempo, así, por ejemplo:
+
+		
+
+		Metadatos de información
+
+		Metadatos geográficos
+
+		Metadatos de gestión 
+
+		Metadatos de seguridad
+
+		Metadatos de trazabilidad
+
+		Metadatos de firma
+
+		Metadatos de estampado cronológico
+
+		
+
+		El sistema debe permitir la creación, al menos, los siguientes formatos de elementos de metadatos: alfabético; alfanumérico; numérico; de fecha; lógico (esto es, SÍ/NO, VERDADERO/FALSO).
+
+		El sistema debe permitir que los valores de los metadatos se hereden automáticamente de forma predeterminada desde el nivel inmediatamente superior en la jerarquía de clasificación.
+
+		
+
+		PLAZO DE EJECUCIÓN
+
+		
+
+El plazo de ejecución del contrato será de 385 días, contados a partir del día siguiente de la suscripción del contrato. El plazo se desglosa de la siguiente forma:
+
+
+
+
+
+
+
+
+
+
+
+
+
+FASES
+
+PRODUCTOS A ENTREGAR
+
+INICIO DE PLAZO
+
+ENTREGABLE
+
+PLAZO EJECUCION
+
+1
+
+Instalación de la solución, configuración y parametrización inicial de sistema de gestión de archivos documentales e integración de firma electrónica, incluye migración completa de imágenes y datos de base de datos actual (SQL) a la base de datos del nuevo sistema (3 TB).
+
+contados a partir del día siguiente de suscripción del respectivo contrato
+
+Acta de implementación a satisfacción aprobada por RPG, Certificado de propiedad de Software de Gestión Documental
+
+20 días
+
+2
+
+Conversión de documentos de formato multi-TIFF a PDF/A incluye Firmado Electrónico y Sellado de Tiempo, paquete 2.5 millones de documentos. 
+
+contados a partir del día siguiente de terminación de la fase 1 de instalación de la solución
+
+Acta de recepción de servicio a satisfacción aprobada por RPG
+
+10 días
+
+3
+
+Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados.
+
+contados a partir del día siguiente de terminación de la fase 2 de conversión de documentos
+
+Acta de entrega recepción de flujos documentales, Instructivo de Flujos implementados
+
+60 días
+
+4
+
+Mantenimientos, soportes y actualizaciones del software 12 meses
+
+contados a partir del día siguiente de terminación de la fase 1 de instalación de la solución
+
+Informes de Mantenimientos, Soporte y Actualizaciones
+
+365 días
+
+		
+
+		
+
+		FORMA Y CONDICIONES DE PAGO
+
+		
+
+Se cancelará por medio de 14 desembolsos contra entrega de los productos recibidos y suscripción de actas de entrega recepción respectiva, según las fases especificadas e informe favorable por parte del administrador del contrato, como se detalla a continuación y en las condiciones establecidas en el plazo de ejecución del contrato.
+
+
+
+Detallados de la siguiente manera:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Implementación
+
+		
+
+Fase
+
+Detalle 
+
+Entregable
+
+Porcentaje
+
+1
+
+Instalación e implementación de la solución, configuración y parametrización inicial de sistema de gestión de archivos documentales e integración de firma electrónica, incluye migración completa de imágenes y datos de base de datos actual (SQL) a la base de datos del nuevo sistema (3 TB).
+
+Acta de implementación a satisfacción aprobada por RPG, Certificado de propiedad de Software de Gestión Documental
+
+50%
+
+2
+
+Conversión de documentos de formato multi-TIFF a PDF/A incluye Firmado Electrónico y Sellado de Tiempo, paquete 2.5 millones de documentos.
+
+Acta de recepción de servicio a satisfacción aprobada por RPG
+
+50%
+
+
+
+Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados.
+
+Acta de entrega recepción de flujos documentales, Instructivo de Flujos implementados
+
+
+
+
+
+		Mantenimiento y Soporte
+
+		
+
+Fase
+
+Detalle 
+
+Entregable
+
+Porcentaje
+
+3
+
+Mantenimientos, soportes y actualizaciones por 12 meses.  
+
+Informe de Mantenimientos, Soporte y Actualizaciones
+
+100%
+
+		
+
+		
+
+		
+
+		LUGAR Y FORMA DE ENTREGA
+
+
+
+Los productos esperados, serán entregados a la EPM Registro de la Propiedad de Guayaquil, en un plazo no mayor a 20 días entre la instalación de los recursos y despliegue de los servicios (Conversión de documentos de formato multi-TIFF a PDF/A incluye Firmado Electrónico y Sellado de Tiempo, paquete 2.5 millones de documentos y el Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados) contados a partir del día siguiente de suscripción del respectivo contrato. Adicionalmente se contará con soporte y mantenimiento de la solución por un plazo de 365 días contados a partir del día siguiente de la instalación de la solución (fase 1).
+
+		
+
+PROVINCIA
+
+CANTÓN
+
+DIRECCIÓN
+
+ÁREA
+
+Guayas
+
+Guayaquil
+
+Edificio de Parqueos Continental, Córdova 918 entre P. Icaza y Víctor Manuel Rendón, Empresa Pública Municipal Registro de la Propiedad de Guayaquil.
+
+Jefatura de Sistemas
+
+		
+
+PRESUPUESTO REFERENCIAL
+
+El presupuesto referencial ha sido obtenido en base al estudio de mercado adjunto con las consideraciones de valores cotizados del mercado, se consideró el menor valor de entre las tres cotizaciones recibidas, por lo tanto, el presupuesto referencial óptimo para el presente proceso de contratación es de un valor total de…
+
+
+
+El presupuesto referencial está tomado en base al menor valor entre las cotizaciones recibidas. Las mismas que están vigentes y cumplen con los términos de referencia requeridos.
+
+
+
+ITEM
+
+Requerimiento
+
+Valor Total
+
+1
+
+Licenciamiento perpetuo de Software de Gestión Documental y captura de documentos, mínimo 150 usuarios,  (un solo pago)
+
+
+
+2
+
+Implementación de solución (instalación y capacitación), incluye migración de imágenes y datos de base de datos actual (SQL) a la base de datos del nuevo sistema (3 TB). (un solo pago)
+
+
+
+3
+
+Mantenimientos, soportes y actualizaciones del software por 12 meses (pagos mensuales) 
+
+
+
+4
+
+Conversión de documentos multi-TIFF a PDF/A incluye firmado electrónico y sellado de tiempo, paquete 2.5 millones de documentos. (un solo pago)
+
+
+
+5
+
+Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados. (un solo pago)
+
+
+
+ 
+
+Costo Total
+
+
+
+
+
+
+
+		GARANTÍAS
+
+		
+
+La oferente deberá cumplir con lo establecido en los Artículos73, 74 y 76 de la Ley Orgánica del Sistema Nacional de Contratación pública y su Reglamento de aplicación, en lo referente a garantías de prestación de servicios.
+
+
+
+La contratista debe presentar la garantía de fiel cumplimiento del contrato.
+
+
+
+		
+
+		ENTREGABLES
+
+		
+
+Garantía de Fiel Cumplimiento de Contrato (esto es a la firma del contrato)
+
+Acta de Implementación a Satisfacción de la Solución
+
+Certificado de Propiedad de Software de Gestión Documental (A perpetuidad)
+
+Acta de Recepción de Servicio a Satisfacción emitido por el Administrador del contrato
+
+Acta de Entrega Recepción de Flujos Documentales
+
+Instructivo de Flujos implementados
+
+Acta de Entrega Recepción Final
+
+Informe de Mantenimientos, Soporte y Actualizaciones
+
+Factura entregada dentro de los 20 primeros días posteriores a la firma del acta de implementación a satisfacción de acuerdo con la forma y condiciones de pago establecidas
+
+Se deberá realizar la debida transferencia de conocimientos a los técnicos que designe el Administrador del Contrato, sobre las configuraciones y administración de la solución de gestión documental por un mínimo de 40 Horas para un máximo de 5 personas.
+
+Brindar la capacitación necesaria para el personal definido por EPM Registro de la Propiedad, impartida por personal certificado por el fabricante (máximo 150 usuarios).
+
+Servicio de soporte con nivel de disponibilidad de 8x7 por 12 meses contados a partir de la firma del Acta de implementación a satisfacción de la fase 1.
+
+El oferente debe tener una organización operativa que cuente con todos los recursos de infraestructura, servicios profesionales y técnicos, administrativos y logísticos necesarios para cumplir con las condiciones mínimas establecidas en los presentes Términos de Referencia. Cualquier servicio que se pretenda tercerizar o brindar a través del esquema de “soporte externo” ofertado por terceros, deberá ser presentado en la propuesta y deberá ser aceptado por el administrador del contrato. 
+
+
+
+TIPO DE CONTRATACIÓN 
+
+Subasta Inversa Electrónica
+
+		
+
+PERSONAL REQUERIDO PARA LA EJECUCIÓN 
+
+- Indica personal técnico mínimo (experiencia: Descripción/ tiempo/ número de proyectos/monto de proyectos)
+
+No.
+
+Descripción
+
+Nivel de estudio 
+
+Titulación académica 
+
+Experiencia
+
+Cantidad
+
+1
+
+Técnico líder, con experiencia en implementaciones similares.
+
+Tercer nivel con título.
+
+Tecnólogo o ingeniero en sistemas, electrónica, telecomunicaciones o afín.
+
+ 5 años
+
+1
+
+2
+
+Técnico de soporte con experiencia en implementaciones similares.
+
+Tercer nivel con título
+
+Tecnólogo o ingeniero en sistemas, electrónica, telecomunicaciones o afín.
+
+3 años
+
+1
+
+
+
+Nota:
+
+
+
+Se deberá adjuntar documentos que acrediten la experiencia mínima y hojas de vida del personal técnico que implementará la solución conforme a los siguientes ítems:
+
+
+
+El técnico debe estar certificado por el fabricante en el despliegue o soporte de la solución a implementar. Presentar al menos un (1) certificado.
+
+
+
+
+
+
+
+
+
+PLAZO DE EJECUCIÓN/ENTREGAS Y FORMAS DE PAGO 
+
+Determinar si el objeto de contratación es divisible y susceptible de recepciones parciales
+
+Plazo de ejecución: 
+
+385 días Calendario
+
+Tipo de plazo de ejecución:
+
+
+
+Parcial
+
+Condiciones del Plazo de Ejecución
+
+El plazo de ejecución del contrato será de 385 días, contados a partir del día siguiente al de la suscripción del contrato. Desglosado de la siguiente forma:
+
+FASES
+
+PRODUCTOS PARA ENTREGAR
+
+INICIO DE PLAZO
+
+ENTREGABLE
+
+PLAZO EJECUCION
+
+1
+
+Instalación de la solución, configuración y parametrización inicial de sistema de gestión de archivos documentales e integración de firma electrónica, incluye migración completa de imágenes y datos de base de datos actual (SQL) a la base de datos del nuevo sistema (3 TB).
+
+contados a partir del día siguiente de suscripción del respectivo contrato
+
+Acta de implementación a satisfacción aprobada por RPG, Certificado de propiedad de Software de Gestión Documental
+
+20 días
+
+2
+
+Conversión de documentos de formato multi-TIFF a PDF/A incluye Firmado Electrónico y Sellado de Tiempo, paquete 2.5 millones de documentos. 
+
+contados a partir del día siguiente de terminación de la fase 1 de instalación de la solución
+
+Acta de recepción de servicio a satisfacción aprobada por RPG
+
+10 días
+
+3
+
+Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados.
+
+contados a partir del día siguiente de terminación de la fase 2 de conversión de documentos
+
+Acta de entrega recepción de flujos documentales, Instructivo de Flujos implementados
+
+60 días
+
+4
+
+Mantenimientos, soportes y actualizaciones por 12 meses
+
+contados a partir del día siguiente de terminación de la fase 1 de instalación de la solución
+
+Informe de Mantenimientos, Soporte y Actualizaciones
+
+365 días
+
+	
+
+Inicio de Contrato:
+
+El día siguiente al de la suscripción del contrato.
+
+Descripción de otra condición de acuerdo con la naturaleza del contrato:
+
+
+
+
+
+Vigencia de la Oferta
+
+# 90 días
+
+Tipo de Adjudicación
+
+Total
+
+Variación mínima de la oferta:
+
+1 %
+
+Lugar de entrega del bien y/o ejecución del servicio:
+
+
+
+		La entrega se realizará en:
+
+PROVINCIA
+
+CANTÓN
+
+DIRECCIÓN
+
+ÁREA
+
+Guayas
+
+Guayaquil
+
+Edificio Parqueos Continental, General Córdova # 918 entre P. Icaza y Víctor Manuel Rendón, y en los domicilios de cada uno de los servidores de la entidad  
+
+Jefatura de Sistemas
+
+		
+
+
+
+Total: 
+
+Parcial: Se suscribirá Acta de entrega recepción parcial de acuerdo al detalle de ejecución establecida en Forma y Condiciones de Pago. 
+
+
+
+
+
+Recepción provisional:
+
+(Art. 123 del Reglamento General de la LOSNCP)
+
+NO APLICA
+
+Recepción definitiva:
+
+(art. 124 Rglto. Gral. LOSNCP)
+
+Se suscribirá Acta de entrega recepción parcial de acuerdo al detalle de ejecución establecida en Forma y Condiciones de Pago.
+
+Anticipo:
+
+		NO APLICA
+
+Forma de Pago:
+
+		Otra	
+
+Condiciones de pago:
+
+Se cancelará por medio de 14 desembolsos contra entrega de los productos recibidos y suscripción de actas de entrega recepción respectiva, según las fases especificadas e informe favorable por parte del administrador del contrato, como se detalla a continuación y en las condiciones establecidas en el plazo de ejecución del contrato.
+
+
+
+Implementación
+
+		
+
+Fase
+
+Detalle 
+
+Entregable
+
+Porcentaje
+
+1
+
+Instalación e implementación de la solución, configuración y parametrización inicial de sistema de gestión de archivos documentales e integración de firma electrónica, incluye migración completa de imágenes y datos de base de datos actual (SQL) a la base de datos del nuevo sistema (3 TB).
+
+Acta de implementación a satisfacción aprobada por RPG, Certificado de propiedad de Software de Gestión Documental
+
+50%
+
+2
+
+Conversión de documentos de formato multi-TIFF a PDF/A incluye Firmado Electrónico y Sellado de Tiempo, paquete 2.5 millones de documentos.
+
+Acta de recepción de servicio a satisfacción aprobada por RPG
+
+50%
+
+
+
+Diseño, definición e implementación de siete (7) flujos documentales de proceso personalizados.
+
+Acta de entrega recepción de flujos documentales, Instructivo de Flujos implementados
+
+
+
+		
+
+		Mantenimiento y Soporte
+
+		
+
+Fase
+
+Detalle 
+
+Entregable
+
+Porcentaje
+
+3
+
+Mantenimientos, soportes y actualizaciones por 12 meses.  
+
+Informe de Mantenimientos, Soporte y Actualizaciones
+
+100%
+
+		
+
+		
+
+
+
+		
+
+Multas: Las multas deben aplicarse de conformidad con el 2do y 3er  inciso del art. 71  LOSNCP (Las multas se impondrán por retardo en la ejecución de las obligaciones contractuales conforme al cronograma valorado, así como por incumplimientos de las demás obligaciones contractuales, las que se determinarán por cada día de retardo; las multas se calcularán sobre el porcentaje de las obligaciones que se encuentran pendientes de ejecutarse conforme lo establecido en el contrato.) en concordancia con el principio de proporcionalidad establecido en el numeral 6 del Art. 76 de la Constitución de la República del Ecuador.
+
+a) Retraso injustificado porcentaje diario: 
+
+1 x 1000 (sugerido*) que se calculará sobre el porcentaje de las obligaciones que se encuentran pendientes de ejecutarse
+
+b) justificación: 
+
+Es un porcentaje prudente de acuerdo nivel de gravedad del incumplimiento.
+
+Otras causas: (Determine todas las causas que puedan ocasionar daño a la Administración Pública por cualquier clase de incumplimiento por parte del contratista y que ameriten la aplicación de una multa; se deberá tipificar la conducta y la multa correspondiente en cada caso)
+
+De conformidad a lo establecido en el artículo 74 de la Ley Orgánica del Sistema Nacional de Contratación Pública, por cada día de retraso en el cumplimiento de las obligaciones contractuales por parte de la contratista, se aplicará la multa del 1 x 1000 diario del valor de las obligaciones contractuales que se encuentren pendientes de ejecutar, excepto en el evento de caso fortuito o fuerza mayor, conforme a lo dispuesto en el Artículo 30 de la Codificación del Código Civil, debidamente comprobado y aceptado por el REGISTRO DE LA PROPIEDAD DE GUAYAQUIL, EPM, para lo cual se notificará a la entidad dentro de las 72 horas subsiguientes de ocurridos los hechos. Transcurrido este término y de no mediar dicha notificación, se entenderá como no ocurridos los hechos que alegue el contratista como causa para la no entrega de los servicios a la cual está obligada, y se le impondrá la multa anteriormente expuesta. Dichas multas no serán devueltas por ningún concepto.
+
+
+
+Las multas se impondrán por retraso diario en la ejecución de las obligaciones contractuales conforme a los plazos establecidos en el proceso, así como por incumplimientos de las demás obligaciones contractuales, así como en los siguientes casos:
+
+
+
+Retraso en el cumplimiento de los tiempos de implementación especificados.
+
+No cumplir con los soportes requeridos en un tiempo máximo de 24 horas, una vez que sea solicitado por el administrador de contrato. 
+
+Incumplir con el tiempo solicitado para la transferencia de conocimiento a los servidores mencionados por el administrador del contrato.
+
+
+
+Si el valor de las multas impuestas llegare a superar el 5% del monto total del contrato, el REGISTRO DE LA PROPIEDAD DE GUAYAQUIL, EPM podrá declarar, anticipada y unilateralmente, la terminación del contrato, conforme a lo dispuesto en el Articulo 94 numeral 3 de la LOSNCP.
+
+
+
+NOTA. - No habrá lugar a la imposición de multa, cuando hubiere sido por fuerza mayor, caso fortuito o hecho imputable a la EPMRPG. En tales casos, dentro de un término dos (2) días contados a partir del hecho producido, el Contratista comunicará a la EPMRPG, la causa por la que se ha incumplido con los requerimientos de la Institución, y ésta a su vez, tendrá un término de cinco (5) días contados a partir de la recepción de la comunicación, para aceptar o no los argumentos alegados. 
+
+Las multas serán impuestas por el Administrador del contrato, quien establecerá en su informe el incumplimiento, fechas y montos.
+
+		
+
+		OBLIGACIONES DE LAS PARTES
+
+		Obligaciones del Contratista:
+
+El contratista deberá proveer el personal técnico especializado para brindar satisfactoriamente los servicios a contratar. 
+
+Suscribir las Actas especificadas en los entregables.
+
+Presentar documentación habilitante mínimo de 6 meses de actualización: RUC, Certificado Bancario, Copia de Cédula y nombramiento de representante legal, en caso de persona jurídica.
+
+El contratista es responsable de todos los costos directos e indirectos que fueren necesarios para la total ejecución del contrato, tal como está descrito en las especificaciones técnicas, las condiciones generales y específicas y los demás documentos contractuales.
+
+Revisar detenidamente los pliegos y especificaciones técnicas a fin de cumplir con todos los requisitos solicitados en éstos.
+
+Se deberá realizar la debida transferencia de conocimientos a los técnicos que designe el Administrador del Contrato, sobre las configuraciones y administración de la solución de gestión documental por un mínimo de 40 Horas para un máximo de 5 personas.
+
+Brindar la capacitación necesaria para el personal definido por EPM Registro de la Propiedad, impartida por personal certificado por el fabricante (máximo 150 usuarios).
+
+Servicio de soporte con nivel de disponibilidad de 8x7 por 12 meses contados a partir de la firma del Acta de implementación a satisfacción de la fase 1.
+
+El oferente debe tener una organización operativa que cuente con todos los recursos de infraestructura, servicios profesionales y técnicos, administrativos y logísticos necesarios para cumplir con las condiciones mínimas establecidas en los presentes Términos de Referencia. Cualquier servicio que se pretenda tercerizar o brindar a través del esquema de “soporte externo” ofertado por terceros, deberá ser presentado en la propuesta y deberá ser aceptado por el administrador del contrato.
+
+
+
+		Obligaciones del Contratante:
+
+Nombrar un Administrador de Contrato, para que vele por la correcta ejecución de los productos a recibir.
+
+Suscribir las Actas de entrega recepción de Implementación acorde al cronograma de plazos de ejecución.
+
+Dar solución a las peticiones y problemas que se presenten en la ejecución del contrato, en el plazo máximo de 5 días contados a partir de la petición escrita formulada por el contratista
+
+Revisar y dar fe del buen estado del bien a ser adquirido.
+
+Verificar que el bien sea acorde a lo estipulado en el contrato.
+
+Revisar documentación habilitante y factura recibida dentro de los primeros 20 días una vez recibido el bien adquirido.
+
+Aplicar multas en caso de ser necesario.
+
+REQUISITOS MÍNIMOS: (metodología cumple / no cumple)
+
+Describir los otros parámetros que se calificarán en la oferta, los indicados son ejemplos.
+
+No.
+
+Tipo de requisito mínimo:
+
+Detalle
+
+1
+
+Experiencia General:
+
+Considerar Art. 65 de la Codificación de las Resoluciones del SERCOP. 
+
+Considerar: Resoluciones 077-2017 y 078-2017
+
+Corresponde al 20% del presupuesto referencial
+
+
+
+Justificación:
+
+De acuerdo a los montos solicitados por el SERCOP 
+
+
+
+¿Cómo debe ser justificada? 
+
+(Detallar los documentos con los cuales debe acreditar la experiencia)
+
+
+
+
+
+El oferente deberá presentar el número que estime conveniente de certificados de cumplimiento de contratos u órdenes de trabajo y/o actas de entrega definitiva que cumplan los requisitos del art. 124 del Rglto. Gral. Ley Orgánica del Sistema Nacional de Contratación Pública, a las que podrá anexar facturas y/o demás instrumentos para acreditar la experiencia GENERAL, que sumados deberán dar el valor correspondiente al 20% del presupuesto referencial objeto de esta contratación, por concepto de experiencia, dentro de los últimos (15) años.
+
+
+
+En caso de experiencia en el sector privado, deberá presentar certificados de cumplimiento de contratos, a lo que deberá adjuntar la factura o contrato respectivo. 
+
+
+
+Los certificados deberán contener al menos lo siguiente: nombres, apellidos y cargo de quien suscribe, especificar el objeto del contrato, monto y plazo.
+
+2
+
+Experiencia Específica:
+
+Considerar: Resoluciones 077-2017 y 078-2017
+
+ NO APLICA
+
+
+
+Justificación:
+
+NO APLICA
+
+
+
+¿Cómo debe ser justificada? 
+
+(Detallar los documentos con los cuales debe acreditar la experiencia)
+
+NO APLICA
+
+3
+
+Herramientas de trabajo:
+
+NO APLICA
+
+4
+
+Equipo o maquinaria mínimos:
+
+NO APLICA
+
+5
+
+Documentos habilitantes de la oferta:
+
+NO APLICA
+
+6
+
+Servicio posventa: 
+
+NO APLICA
+
+PARÁMETROS DE CALIFICACIÓN POR PUNTAJE 
+
+(Aplica exclusivamente cuando la evaluación de la oferta es por puntaje)
+
+No.
+
+Tipo de parámetro:
+
+Detalle
+
+1
+
+Oferta económica:
+
+NO APLICA
+
+2
+
+Plazo propuesto:
+
+NO APLICA
+
+3
+
+Experiencia General adicional:
+
+NO APLICA
+
+4
+
+Experiencia Específica adicional:
+
+NO APLICA
+
+5
+
+Experiencia del personal técnico adicional:
+
+NO APLICA
+
+
+
+ANEXOS
+
+Detallar los documentos anexos que forman parte integrante del presente formulario de requerimiento, indicando la cantidad de hojas:
+
+
+
+No.
+
+Tipo de documento 
+
+(Ej. planos, ET, TDRs, cálculos, proyectos, memos, permisos, etc.)
+
+No. hojas
+
+1
+
+MEMO: EPMRPG-USIS-2021-00314, de Requerimiento para la contratación del “ADQUISICIÓN DEL SISTEMA DE GESTIÓN DOCUMENTAL PARA LA EPM REGISTRO DE LA PROPIEDAD DE GUAYAQUIL.”, emitido por Fernando Mosquera Gestor de Sistemas
+
+4
+
+R
+
+03-Anexo 1. Requerimiento para autorización de inicio de proceso 
+
+16
+
+3
+
+Cotización del Servicio requerido
+
+3 
+
+4
+
+Correo emitido por la Dirección Financiera con la afectación al código de partida presupuestaria
+
+1
+
+5
+
+Estudio de Mercado
+
+16
+
+6
+
+Anexo Especificaciones Técnicas
+
+1
+
+7
+
+Correo de recepción de proformas 
+
+3
+
+8
+
+TDR
+
+20
+
+TOTAL
+
+61
+
+
+
+Elaborado:
+
+Aprobado:
+
+Autorizado - Firma
+
+Recibido:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nombre: Ing. Esteban Serrano B.
+
+Ing. Soledad Icaza C.
+
+Ab. Maria Jose Castelblanco
+
+
+
+Jefe del Área Requirente
+
+Director del Área Requirente
+
+Gerente General
+
+Adquisiciones
+
+Fecha requerimiento: 27/06/2022
+
+Fecha revisión:27/06/2022
+
+Fecha de autorización:27/06/2022
+
+Fecha de recibido:27/06/2022
+
+
+
+REVISIÓN DE ETAPA PREPARATORIA: (exclusivo para la Unidad de Compras Públicas)
+
+(Uno de los técnicos del área de Compras Públicas junto con el titular del área, deberán revisar que toda la documentación de la etapa preparatoria, con la finalidad que la misma esté acorde a las normas del Sistema Nacional de Contratación Pública. Se aclara que la revisión será sobre aspectos de forma de los documentos (Ej. Estructura y puntos de un TDR), y no por el fondo (parte técnica) cuya responsabilidad recae exclusivamente sobre el autor de los estudios previos o Área Requirente.
+
+
+
+
+
+REVISIÓN DE ETAPA PREPARATORIA: (exclusivo para la Unidad de Compras Públicas)
+
+(Uno de los técnicos del área de Compras Públicas junto con el titular del área, deberán revisar que toda la documentación de la etapa preparatoria, con la finalidad que la misma esté acorde a las normas del Sistema Nacional de Contratación Pública. Se aclara que la revisión será sobre aspectos de forma de los documentos (Ej. Estructura y puntos de un TDR), y no por el fondo (parte técnica) cuya responsabilidad recae exclusivamente sobre el autor de los estudios previos o Área Requirente.

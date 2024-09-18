@@ -1,0 +1,1058 @@
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+A. OBJETO DE LA CONTRATACIÓN
+El objeto del presente contrato lo constituye el proceso de contratación para la
+“ADQUISICIÓN DE MOTOSOLDADORA MULTIPROCESOS PORTÁTIL CON
+ACCESORIOS PARA EL PROYECTO AMAZONIA VIVA”.
+B. ANTECEDENTES
+Con fecha 01 de julio de 2013, el Directorio de PETROAMAZONAS EP resolvió la
+creación de la Gerencia del “Proyecto Amazonía Limpia” en el orgánico funcional de
+PETROAMAZONAS EP, actualmente denominado “Proyecto Amazonia Viva”, que tiene
+a su cargo la limpieza, remediación, reconformación y reforestación de áreas de
+operación asumidas por PETROAMAZONAS EP, en virtud del Decreto Ejecutivo 1351A, publicado en el segundo suplemento del Registro Oficial N° 860, de 2 de enero de
+2013, áreas donde se encuentran fuentes de contaminación derivadas de actividades
+hidrocarburíferas anteriores a PETROAMAZONAS EP.
+Dentro de las actividades asignadas al Proyecto Amazonía Viva de la EP
+PETROECUADOR se encuentran la eliminación de las fuentes de contaminación y la
+remediación de suelos contaminados, identificadas e inventariadas por el Ministerio del
+Ambiente.
+De la base de datos del Proyecto Amazonia Viva se desprenden alrededor de 2,535
+fuentes de contaminación a eliminar y un volumen estimado de 5´317.807,42 m3 de
+suelo a remediar, actividades que se llevan a cabo en los diferentes frentes de trabajo
+ubicados en los campos Cuyabeno, Libertador, Lago Agrio, Marginal Bermejo,
+Shushufindi, Sacha y Auca.
+Con fecha 07 de enero de 2021, mediante Decreto Ejecutivo No. 1221, el Presidente
+Constitucional de la República del Ecuador, decretó: “Artículo 1.- Fusiónese por
+absorción la Empresa Pública de Exploración y Explotación de Hidrocarburos,
+Petroamazonas EP, a la Empresa Pública de Hidrocarburos del Ecuador, EP
+PETROECUADOR.”
+C. JUSTIFICACIÓN
+Entre los equipos con los que cuenta el Proyecto Amazonía Viva (PAV) consta un equipo
+portátil de suelda que es utilizado para realizar trabajos en el área civil, mecánica y
+apoyo en la reparación de partes y piezas del equipo pesado en los campos de la región
+amazónica donde opera el PAV.
+Debido al tiempo transcurrido desde su fabricación (año 2006 aproximadamente) y el
+constate uso este equipo se encuentra obsoleto presentando constantes paralizaciones,
+adicionalmente no presta las garantías y seguridades necesarias para el personal que
+la opera.
+Como parte de las actividades asociadas a la eliminación de fuentes de contaminación
+y remediación de suelos contaminados, el PAV requiere de manera permanente la
+fabricación de estructuras secundarias, corrección de elementos metálicos, fabricación
+de esterillas, reparaciones menores de tolvas, uñas de excavadora, escapes, pisos, etc.,
+bajo los requerimientos antes descritos es necesario contar con un equipo de suelda
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 1 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+portátil que garantice la atención de trabajos menores y atienda requerimientos
+asociados a procesos de montajes, adecuaciones, reparaciones y fabricación de
+insumos requeridos para los equipos móviles, pesados así como la implementación de
+facilidades requeridas en las diferentes fases aprobadas en el Plan de Remediación por
+parte del Ministerio del Ambiente, para el efecto es necesario contar con un equipo de
+soldadura multiprocesos que brinde las facilidades y versatilidad para ejecución y
+garantice una operación segura y de calidad de los trabajos requeridos que brindan un
+adecuado soporte en las diferentes actividades.
+D. OBJETIVOS
+General
+Contratar la “COMPRA DE MOTOSOLDADORA MULTIPROCESOS PORTÁTIL
+CON ACCESORIOS PARA EL PROYECTO AMAZONÍA VIVA”, garantizando las
+actividades múltiples del equipo de suelda en los diferentes procesos que soportan
+las operaciones del Proyecto Amazonía Viva.
+Especifico
+Contar con un equipo versátil para los diferentes procesos de soldadura que permita
+soportar las diferentes actividades asociadas a la operación del PAV para la eliminación
+de fuentes de contaminación y remediación de suelos contaminados.
+E.
+
+ALCANCE
+
+El Proyecto Amazonía Viva de la EP PETROECUADOR como parte de sus operaciones
+requiere del soporte de un equipo de suelda multiprocesos, que permita atender sus
+requerimientos de montajes, adecuaciones, reparación y fabricación de insumos que
+son esenciales para sus operaciones en los diferentes campos:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+F.
+
+Cuyabeno
+Libertador
+Lago Agrio
+Bermejo
+Shushufindi
+Sacha
+Auca
+
+METODOLOGÍA DE TRABAJO
+
+No Aplica.
+G. INFORMACIÓN QUE DISPONE LA ENTIDAD
+El Proyecto Amazonía Viva, requiere el soporte de un equipo de suelda, que atienda
+los requerimientos asociados a procesos de montajes, adecuaciones, reparaciones y
+fabricación de insumos requeridos en las diferentes fases aprobadas en el Plan de
+Remediación por parte del Ministerio del Ambiente, para el efecto es necesario contar
+con un equipo de soldadura multiprocesos que brinde las facilidades y versatilidad
+para ejecución de los trabajos requeridos que brindan un adecuado soporte en las
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 2 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+diferentes actividades en los diferentes bloques en los que el PAV mantiene sus
+operaciones (Cuyabeno, Libertador, Lago Agrio-Bermejo, Shushufindi, Sacha y
+Auca).
+H. PRODUCTOS O SERVICIOS ESPERADOS
+La Motosoldadora a adquirir deberá cumplir estrictamente (o en más) con las
+especificaciones descritas a continuación:
+ESPECIFICACIONES TÉCNICAS – MOTOSOLDADORA
+ESPECIFICACIONES TÉCNICAS
+REQUERIDAS
+
+PARÁMETROS TÉCNICOS
+I.- General
+Cantidad a Adquirir:
+1.- Marca
+2.- Modelo
+3.- Año de fabricación
+4.- Procedencia
+
+1 unidad
+Especificar
+Especificar
+2022
+Especificar
+
+5. Carcasa
+
+Inoxidable IP23
+
+II.- Equipo
+6. Nombre del Producto
+7. Código del Producto
+
+Especificar
+Especificar
+
+8. Procesos
+
+SMAW (Stick), FCAW (Flux-Cored), GMAW (MIG)
+GMAW (TIG), CAC-A (Arc Gouging), con Selector
+de Programa Digital.
+
+9. Amperaje
+
+Rango de 30-400 Amperios
+
+10. Generador de CA Auxiliar
+
+11. Salida Nominal
+
+CA de 3 fases
+Rango de 12.5kW Pico - 11kW contínuos
+CA de 1 fase
+Rango de 11.5kW pico - 10kW contínuos
+Desde 325A / 33V / 100%
+Hasta 400A / 26V / 60%
+SMAW
+STICK / PIPE
+Rango de 30-400 Amp
+GTAW
+DC-TIG
+
+12. Rangos de Salida
+
+Rango de 5-400 Amp
+MIG-FCAW
+Rango de10-45 Volts
+CAC-A
+Arc Gouging
+
+13. Voltaje de Circuito Abierto
+
+Rango de 60-400 Amp
+Máximo Voltaje de Circuirto Abierto
+Mayor o igual a 71V OCV @ 1800 RPM
+
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 3 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+NEMA 5-20R
+(120V / 20A / 1 fase)
+14. Generador de CA
+
+NEMA 14-50R
+(120/240V / 50A / 1 fase)
+NEMA 15-50R
+(240V / 50A / 3 fases)
+
+15. Peso Neto
+
+Especificar
+
+16. Dimensiones
+
+Especificar
+
+III.- Motor
+1.- Marca
+2.- # Cilindros
+3.- Sistema de Enfriamiento
+4.- Tipo de Combustible
+5.- Encendido Eléctrico
+6.- Limpiador de Aire
+7.- Filtro de Combustible
+8.- Gobernador
+9.- Potencia
+10.- Cilindraje
+CAPACIDADES
+11. Combustible
+12. Aceite
+13. Refrigerante
+VELOCIDADES DE OPERACIÓN
+14. Plena carga 400A
+15. Gobernador Alto
+16. Gobernador Bajo
+CONSUMO DE COMBUSTIBLE
+17. Plena carga 400A
+18. Gobernador Alto
+
+Especificar
+Mínimo 3 TURBO CARGADO
+Por agua con turbocompresor
+Diesel
+De 12 Voltios
+Tipo Seco
+Con Separador de Agua
+Electrónico
+Mínimo 24 HP
+Mínimo 1.5 litros
+
+19. Gobernador Bajo
+
+Máximo 1.1 lts/hora
+
+Mínimo 70 litros
+Mínimo 6 litros
+Mínimo 6 litros
+Hasta 1800 RPM
+Hasta 1800 RPM
+Máximo 1500 RPM
+Máximo 4.5 lts/hora
+Máximo 1.5 lts/hora
+
+IV.- Accesorios
+Kit de Juego de Filtros para un año
+
+1. Varios
+
+Cable de soldar 2/0 de 50 metros
+Pinza de Tierra 500 AMP
+Pinza de Tierra 500 AMP, Portalectrodos 500
+AMP
+Equipo TIG PTA-26VF REG
+Terminales de Cable ojo 1/0 - 2/0
+
+V. OTROS PARÁMETROS
+1.- Garantía Técnica del Equipo Ofertado
+
+Al menos 3 años, vinculante con el proveedor
+
+2.- Manuales de Operación
+
+Digitales en Inglés y Español
+El proveedor deberá brindar dos capacitaciones
+referentes a la operación y mantenimiento de la
+motosoldadora, mismo que será impartido a los
+dos equipos de trabajo definidos para su
+operación.
+
+3.- Capacitación
+
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 4 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+Los costos de transporte hacia las bodegas de la EP PETROECUADOR, estarán a
+cargo del oferente que resultare adjudicado del presente proceso de contratación.
+I.
+
+CÓDIGO CPC
+
+El código CPC para la presente contratación es el siguiente:
+
+J.
+
+Código CPC
+
+Tipo de Compra
+
+Detalle del Producto
+
+442400011
+
+BIEN
+
+ADQUISICIÓN
+DE
+MOTOSOLDADORA
+MULTIPROCESOS PORTÁTIL CON ACCESORIOS
+PARA EL PROYECTO AMAZONIA VIVA
+
+LUGAR DE EJECUCIÓN DEL CONTRATO
+
+El lugar de recepción de los bienes, se realizará en las instalaciones de EP
+PETROECUADOR, Bloque 60 - Sacha, almacén WSC-Sacha. Provincia de Orellana,
+Cantón La Joya de los Sachas, Parroquia La Joya de los Sachas, Sector La Parker
+vía Sacha-Coca km. 4 ½, Bloque 60, Campamento de EP Petroecuador, Proyecto
+Amazonia Viva.
+K. PLAZO DE ENTREGA Y/O CRONOGRAMAS
+El plazo de entrega de la motosoldadora será en una única entrega de 45 días
+calendario.
+El Proveedor deberá brindar dos capacitaciones referentes a la operación y
+mantenimiento de la motosoldadora, mismo que será impartido a los dos equipos de
+trabajo definidos para su operación, misma que se impartirá una al momento de la
+entrega de la unidad y la siguiente en acuerdo con personal de la EP
+PETROECUADOR, en función de las jornadas de trabajo del personal que operará
+el equipo. Se deberá evidenciar las dos sesiones de capacitación mediante los
+medios de verificación que el Administrador considere pertinentes.
+El tiempo establecido para la entrega será considerado a partir de la suscripción del
+Contrato.
+L.
+
+PERSONAL TÉCNICO / EQUIPO DE TRABAJO / RECURSOS
+
+Personal Técnico:
+No Aplica.
+Equipo Mínimo:
+No Aplica.
+M. FORMA DE PAGO
+EP PETROECUADOR realizará el pago dentro de 30 días de entregado los bienes a
+entera satisfacción y previa la presentación de la factura y documentación habilitante
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 5 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+para el mismo.
+Los pagos se efectuarán mediante el Sistema de Pagos Interbancarios (“SPI”) del
+Banco Central del Ecuador, a través de transferencia a la cuenta de la
+CONTRATISTA, y se realizará contra presentación de facturas elaboradas por la
+CONTRATISTA, verificadas por EP PETROECUADOR, por los bienes entregados a
+entera satisfacción de la EP PETROECUADOR.
+Cuando la EP PETROECUADOR lo requiera, previo al pago de facturas, la
+CONTRATISTA presentará la certificación que acredite estar al día en el pago de
+aportes, fondos de reserva y descuentos al IESS, por el personal a su cargo.
+Las actas de entregas parciales y/o definitivas emitidas por el Administrador del
+Contrato contendrán los antecedentes, objeto de contratación, condiciones generales
+de ejecución, liquidación económica, liquidación de plazos, constancia de la
+recepción, cumplimiento de las obligaciones contractuales, y cualquier otro aspecto
+que se estime necesario. Es importante recalcar que no se contempla reajuste de
+precios, por lo que durante la vigencia del contrato los precios determinados en la
+suscripción del contrato no podrán ser modificados.
+Pagos indebidos:
+En caso de detectar pagos indebidos o pagos en exceso, la EP PETROECUADOR
+se reserva el derecho de exigir a la CONTRATISTA la devolución de dichos valores,
+con los correspondientes intereses, calculados a la tasa máxima de interés
+convencional dispuesta por el Directorio del Banco Central del Ecuador desde la
+fecha en la que se efectuó el pago indebido hasta la recuperación del monto
+correspondiente, autorizando la CONTRATISTA el descuento automático de
+cualquier valor que se le adeudare a la EP PETROECUADOR; de recuperar tales
+valores a través de las facturas pendientes de pago, acciones judiciales pertinentes,
+o por medio de la jurisdicción coactiva.
+N. TIPO DE ADJUDICACIÓN
+La adjudicación del presente proceso será total.
+O. MULTAS
+Por cada día de retraso en Ia entrega de los ítems especificados en los pliegos, términos
+de referencia y oferta o por el incumplimiento de cualquier obligación contractual por
+parte de Ia CONTRATISTA, el Administrador del Contrato aplicara Ia multa del uno por
+mil (1x1000) sobre el porcentaje de las obligaciones que se encuentren pendientes de
+ejecutarse; excepto en caso fortuito o fuerza mayor calificado por Ia CONTRATANTE
+conforme lo dispuesto en el Art. 30 de Ia Codificación del Código Civil, debidamente
+comprobado y aceptado por la EP PETROECUADOR.
+Si el valor de las multas impuestas supera el monto equivalente al cinco por ciento (5%)
+del precio el contrato sin el valor del IVA, la EP PETROECUADOR podrá terminar el
+contrato de manera unilateral de acuerdo a lo establecido en el artículo 94, numeral 3
+de Ia LOSNCP.
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 6 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+Aplicación de las Multas
+Las multas arriba indicadas serán aplicadas por EP PETROECUADOR, a través del
+Administrador del contrato previo informe motivado.
+Previa aplicación de una multa, el Administrador de contrato notificará por escrito el
+hecho a la CONTRATISTA, adjuntando una copia del FORMULARIO DE APLICACIÓN
+DE MULTAS, en un plazo máximo de quince (15) días calendario de evidenciado un
+incumplimiento.
+La CONTRATISTA tendrá un plazo de cinco (5) días calendario a partir de la notificación,
+para justificar el hecho motivo del incumplimiento, luego de lo cual el Administrado del
+contrato aplicará o dejará sin efecto la multa, hecho que será puesto en conocimiento
+de la CONTRATISTA por escrito.
+El cobro de las multas no excluye el derecho de EP PETROECUADOR para exigir el
+cumplimiento del contrato o para demandar la terminación unilateral, según
+corresponda; y en cualquiera de los casos requerir además el resarcimiento y pago de
+daños y perjuicios de conformidad con la ley.
+No se aplicarán multas cuando el incumplimiento sea consecuencia de circunstancias
+provenientes de fuerza mayor o caso fortuito; o, por causas justificadas por la
+CONTRATISTA y aceptadas por EP PETROECUADOR a través del Administrador de
+contrato.
+EP PETROECUADOR podrá recuperar los valores por multas aplicadas a la
+CONTRATISTA, de las facturas pendientes de pago o por cualquier otra vía judicial o
+extrajudicial.
+Si el valor de las multas excede del 5% del monto total del contrato, LA ENTIDAD
+CONTRATANTE, podrá darlo por terminada anticipada y unilateralmente, conforme lo
+dispuesto en el Art. 94 de la LOSNCP. Las multas impuestas no serán revisadas, ni
+devueltas por ningún concepto.
+P.
+
+GARANTÍAS
+
+El oferente que resulte adjudicado deberá presentar las siguientes garantías:
+SI
+EXISTE GARANTÍA
+
+X
+
+NO
+
+TIPO
+
+OBSERVACIONES
+
+Técnica
+
+Acorde a lo indicado en el texto
+
+Técnica
+LEY ORGANICA DEL SISTEMA NACIONAL DE CONTRATACIÓN PÚBLICA Art. 76.Garantía Técnica para ciertos Bienes.- En los contratos de adquisición, provisión o
+instalación de equipos, maquinaria o vehículos, o de obras que contemplen aquella
+provisión o instalación, para asegurar la calidad y buen funcionamiento de los mismos,
+se exigirá, además, al momento de la suscripción del contrato y como parte integrante
+del mismo, una garantía del fabricante, representante, distribuidor o vendedor
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 7 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+autorizado, la que se mantendrá vigente de acuerdo con las estipulaciones establecidas
+en el contrato.
+Estas garantías son independientes y subsistirán luego de cumplida la obligación
+principal.
+De no presentarse esta garantía, el contratista entregará una de las previstas en esta
+Ley por igual valor del bien a suministrarse, de conformidad con lo establecido en los
+pliegos y en el contrato.
+Observaciones:
+Para asegurar la óptima calidad, buen funcionamiento de los bienes objeto del presente
+proceso de contratación, previo a la suscripción del contrato y como parte integrante del
+mismo; el Adjudicatario entregará una garantía técnica como lo determinan los artículos
+76 de la Ley Orgánica del Sistema Nacional de Contratación Pública y 117 de su
+Reglamento General, se deberá también garantizar que la motosoldadora entregada por
+el oferente, deberá estar en perfecto estado y lista para su uso y de acuerdo a las
+especificaciones técnicas solicitadas, de no cumplir con esto se procederá al reemplazo
+de la motosoldadora por otras de las mismas o mejores características sin costo alguno
+para la EP PETROECUADOR. Vigencia de la Garantía Técnica de 3 años contados a
+partir de la entrega recepción del bien directamente con el proveedor.
+Q. PÓLIZAS
+No Aplica.
+R. OBLIGACIONES DE EP PETROECUADOR Y LA CONTRATISTA
+Obligaciones de la Contratista
+La CONTRATISTA tendrá las siguientes obligaciones:
+a) Ejecutar el contrato derivado del procedimiento de contratación tramitado, sobre
+la base de las especificaciones técnicas elaborados por la entidad contratante y
+que fueron conocidos en la etapa precontractual; y en tal virtud, no podrá aducir
+error, falencia o cualquier inconformidad con los mismos, como causal para
+solicitar ampliación del plazo, o contratos complementarios.
+b) Garantizar el cumplimiento de porcentaje de Valor Agregado Ecuatoriano
+ofertado.
+c) La CONTRATISTA se compromete durante la ejecución del contrato, a facilitar
+a las personas designadas por la entidad contratante, toda la información y
+documentación que éstas soliciten para disponer de un pleno conocimiento
+técnico relacionado con la ejecución del contrato, así como de los eventuales
+problemas técnicos que puedan plantearse y de las tecnologías, métodos y
+herramientas utilizadas para resolverlos. Los delegados o responsables técnicos
+de la entidad contratante, como el administrador del contrato, deberán tener el
+conocimiento suficiente de la ejecución del contrato, así como la eventual
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 8 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+realización de ulteriores desarrollos. Para el efecto, el contratista se compromete
+durante el tiempo de ejecución contractual, a facilitar a las personas designadas
+por la entidad contratante toda la información y documentación que le sea
+requerida, relacionada y/o atinente al desarrollo y ejecución del contrato.
+d) La CONTRATISTA está obligado a cumplir con cualquiera otra que se derive
+natural y legalmente del objeto del contrato y sea exigible por constar en
+cualquier documento del mismo o en norma legal específicamente aplicable.
+Mantener un solo canal de comunicación oficial con la EP PETROECUADOR por
+intermedio del administrador del contrato, a quien deberá facilitarle toda Ia
+información y documentación que le sea solicitada para disponer de un pleno
+conocimiento técnico relacionado con Ia ejecución del contrato, así como de los
+eventuales problemas técnicos que puedan plantearse y de las tecnologías,
+métodos y herramientas utilizadas para resolverlos.
+e) La CONTRATISTA se obliga al cumplimiento de lo exigido en el pliego, a lo
+previsto en su oferta y a lo establecido en la legislación ambiental, de seguridad
+industrial y salud ocupacional, seguridad social, laboral, etc.
+f)
+
+La CONTRATISTA se obliga al cumplimiento de las disposiciones establecidas
+en el Código del Trabajo y en la Ley del Seguro Social Obligatorio, adquiriendo,
+respecto de sus trabajadores, la calidad de patrono, sin que la contratante tenga
+responsabilidad alguna por tales cargas, ni relación con el personal que labore
+en la ejecución del contrato, ni con el personal de la subcontratista, si fuera el
+caso.
+
+g) La CONTRATISTA se obliga a que los sueldos y salarios de su personal no sean
+inferiores a los mínimos legales vigentes.
+h) La CONTRATISTA se obliga a pagar los sueldos, salarios y remuneraciones a
+su personal sin descuentos adicionales a los autorizados por la ley y en total
+conformidad con las leyes vigentes. Los contratos de trabajo deberán ceñirse
+estrictamente a las leyes laborales del Ecuador.
+i)
+
+La CONTRATISTA se obliga a no contratar a personas menores de edad para
+realizar actividad alguna durante la ejecución contractual; y que, en caso que las
+autoridades del ramo determinaren o descubrieren tal práctica, se someterá y
+aceptará las sanciones que de aquella puedan derivarse, incluso la terminación
+unilateral y anticipada del contrato, con las consecuencias legales y
+reglamentarias pertinentes.
+
+j)
+
+La CONTRATISTA deberá cumplir lo dispuesto en el artículo 41 de la Ley
+Orgánica para la Planificación Integral de la Circunscripción Territorial Especial
+Amazónica.
+
+k) Si el lugar donde se va a ejecutar la obra o se destinarán los bienes y servicios
+objeto de la contratación pertenece al ambiento territorial determinado en el
+artículo 2 de la Ley Orgánica para la Planificación Integral de la Circunscripción
+Territorial Especial Amazónica, la CONTRATISTA en la ejecución del contrato
+contará con al menos el 70% de servicios y/o mano de obra de residentes de
+esa Circunscripción, con excepción de aquellas actividades para las que no
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 9 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+exista personal calificado o que el bien sea de imposible manufacturación en esa
+Circunscripción.
+l)
+
+La CONTRATISTA se obliga a estar al día en los pagos con sus subcontratistas.
+
+m) En caso de cambio de representante legal, la CONTRATISTA notificará
+oportunamente a la EP PETROECUADOR respecto de tal hecho, acompañando
+el documento que acredite la nueva designación.
+El Contratista deberá dar cumplimiento a las políticas y procedimientos en el uso
+de los sistemas tecnológicos dentro de las instalaciones de la EP
+PETROECUADOR, conforme el anexo “Responsabilidad sobre uso de sistemas
+de computación”.
+n) A más de las obligaciones ya establecidas en el presente documento que rige el
+proceso de contratación, LA CONTRATISTA está obligada a cumplir con
+cualquiera otra que se derive de Ia naturaleza del objeto del contrato.
+Obligaciones de la EP PETROECUADOR
+a) Designar un(a) Administrador(a) del Contrato, para el adecuado control de su
+ejecución, quien velara por el cabal y oportuno cumplimiento de todas y cada una de
+las obligaciones derivadas del mismo, para lo que adoptara las acciones que sean
+necesarias para evitar retrasos injustificados.
+b) Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, a través del Administrador de Contrato en un plazo quince (15) días,
+contados a partir de la petición escrita formulada por el contratista al Administrador del
+Contrato.
+c) Por intermedio del Administrador del Contrato, adoptar las medidas necesarias para
+el normal cumplimiento del contrato.
+d) Verificar a través del Administrador del Contrato que los bienes objeto del contrato, se
+entreguen de acuerdo a los requerimientos técnicos establecidos por la EP
+PETROECUADOR y a entera satisfacción.
+e) Suscribir las actas de entrega recepción de los bienes recibidos, siempre que hayan
+cumplido con lo previsto en la ley para la entrega recepción; y, en general, cumplir con
+las obligaciones derivadas del contrato.
+f)
+
+Realizar los pagos conforme lo estipulado en la cláusula de FORMA DE PAGO.
+
+g) Sujetarse a todas las disposiciones contenidas en la LOSNCP, Reglamento de
+Aplicación y Resoluciones Vigentes.
+S.
+
+METODOLOGÍA Y PARÁMETROS DE EVALUACIÓN
+
+La Comisión designada analizará y verificará que, en cada oferta técnica presentada,
+se cumplan expresa y puntualmente los términos de referencia, formularios y demás
+requisitos establecidos en este documento, mediante la aplicación de la metodología
+“Cumple” o “No cumple” (check list).
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 10 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+La integridad de las ofertas técnicas se evaluará considerando la presentación de los
+formularios de la Oferta y la documentación adicional que requiere EP
+PETROECUADOR.
+Verificación de Ofertas
+Requisitos Mínimos:
+La integridad de la oferta consiste en la verificación de la presentación de los formularios
+y requisitos mínimos previstos en el pliego.
+Luego de esta verificación la entidad contratante determinará si ejecutará la etapa de
+convalidación de errores.
+PARÁMETRO
+Integridad de la oferta
+Especificaciones
+técnicas
+Términos de referencia
+
+CUMPLE
+
+NO CUMPLE
+
+OBSERVACIONES
+
+o
+
+Experiencia General Mínima
+Experiencia General Específica
+Patrimonio (Personas Jurídicas)
+Garantía Técnica (Con proveedor)
+
+Integridad de la oferta
+La integridad de las ofertas se evaluará considerando la presentación del Formulario de
+la oferta completa y requisitos mínimos previstos según la LOSNCP. (LEY ORGÁNICA
+DEL SISTEMA NACIONAL DE CONTRATACIÓN PÚBLICA)
+Especificaciones técnicas
+La EP PETROECUADOR verificará que cada oferente en la oferta que ha presentado,
+de cumplimiento expreso y puntual a las especificaciones técnicas detalladas en la tabla
+expuesta en el numeral H del presente documento, que se pretende contratar.
+Experiencia General Mínima Del Oferente
+No.
+1
+
+Tipo
+
+Descripción
+
+Temporalidad
+
+Experiencia
+General
+
+Comercialización de
+equipos industriales
+
+15 años
+
+Valor del monto
+mínimo
+$ 3,000.00
+
+El Oferente deberá acreditar experiencia, durante los últimos 15 años en relación a la
+fecha de publicación de este proceso de contratación, en comercialización de equipos
+industriales. Por lo que el oferente deberá presentar en su oferta técnica copias de Actas
+de Entrega-Recepción definitivas y/o facturas y retenciones a la fuente, expedidas por
+la empresa, instituciones, entidades donde se ejecutó el contrato.
+El monto individual o sumado de las Actas de Entrega-Recepción definitivas y/o facturas
+y retenciones a la fuente que acrediten la experiencia debe ser una suma acumulada
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 11 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+igual o superior a USD$ 3,000.00 (Tres mil dólares de los Estados Unidos de América
+con 00/100) sin incluir IVA.
+Estas condiciones no estarán sujetas al número de contratos o instrumentos
+presentados por el oferente para acreditar la experiencia mínima general, sino, al
+cumplimiento de estas condiciones en relación al monto mínimo requerido.
+Experiencia Específica Mínima
+No.
+1
+
+Tipo
+
+Descripción
+
+Temporalidad
+
+Experiencia
+Específica
+
+Provisión de
+máquinas para soldar
+
+5 años
+
+Valor del monto
+mínimo
+$ 1,500.00
+
+El Oferente deberá acreditar experiencia, durante los últimos 5 años, en relación a la
+fecha de publicación de este proceso de contratación, en Comercialización y/o
+instalación de equipos industriales en el sector hidrocarburífero, centrales de
+generación, sistemas de manejo de gas. Por lo que el oferente deberá presentar en su
+oferta técnica copias de Actas de Entrega-Recepción definitivas y/o facturas y
+retenciones a la fuente, expedidas por la empresa, instituciones, entidades donde se
+ejecutó el contrato.
+El monto individual o sumado de las Actas de Entrega-Recepción definitivas y/o facturas
+y retenciones a la fuente que acrediten la experiencia debe ser una suma acumulada
+igual o superior a USD$ 1,500.00 (Mil quinientos dólares de los Estados Unidos de
+América con 00/100) sin incluir IVA.
+Estas condiciones no estarán sujetas al número de contratos o instrumentos
+presentados por el oferente para acreditar la experiencia mínima general, sino, al
+cumplimiento de estas condiciones en relación al monto mínimo requerido.
+Patrimonio (Personas Jurídicas)
+En el caso de personas jurídicas, la entidad contratante verificará que el patrimonio sea
+igual o superior a la relación con el presupuesto referencial del procedimiento de
+contratación, de conformidad con el contenido de la siguiente tabla y en función del tipo
+de contratación que vaya a realizarse:
+Presupuesto Referencial
+Fracción Básica
+
+Monto que debe cumplirse de Patrimonio USD
+
+Exceso hasta
+
+Patrimonio exigido
+sobre la fracción
+básica
+
+Patrimonio exigido sobre el
+excedente de la fracción básica
+
+BIENES Y/O SERVICIOS, INCLUIDOS CONSULTORÍA
+0
+
+500.000 incluido
+
+0
+
+5% sobre el exceso de 250.000 incluido
+
+500.000,01
+
+1´000.000 incluido
+
+15.000
+
+10 % sobre el exceso de la fracción básica
+
+1´000.000,01
+
+5´000.000 incluido
+
+75.000
+
+12,5% sobre el exceso de la fracción básica
+
+5´000.000,01
+
+10´000.000 incluido
+
+625.000
+
+15% sobre el exceso de la fracción básica
+
+10´ 000.000,01
+
+En adelante
+
+1’500.000
+
+17,5% sobre el exceso de la fracción básica
+
+CONSTRUCCIÓN DE OBRAS
+0
+
+200.000 incluido
+
+NO APLICA
+
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 12 de 13
+
+ESPECIFICACIONES TÉCNICAS Y
+TÉRMINOS DE REFERENCIA
+
+Código:
+ABS.05.DR.03.F0.01
+Fecha del
+versionamiento:
+
+ÁREA REQUIRENTE
+
+Septiembre 2022
+Versión: 02
+
+200.000,01
+
+500.000 incluido
+
+3.000
+
+5% sobre el exceso de la fracción básica
+
+500.000,01
+
+1´000.000 incluido
+
+15.000
+
+10 % sobre el exceso de la fracción básica
+
+1´000.000,01
+
+5´000.000 incluido
+
+75.000
+
+12,5% sobre el exceso de la fracción básica
+
+5´000.000,01
+
+10´000.000 incluido
+
+625.000
+
+15% sobre el exceso de la fracción básica
+
+10´ 000.000,01 en
+adelante
+
+En adelante
+
+1’500.000
+
+17,5% sobre el exceso de la fracción básica
+
+El patrimonio establecido en el cuadro precedente se podrá verificar a través de la
+declaración del impuesto a la renta del último ejercicio fiscal realizado ante el Servicio
+de Rentas Internas, o por el documento equivalente en el país de origen para aquellas
+ofertas extranjeras, el mismo que deberá ser apostillado y traducido al idioma español.
+EP PETROECUADOR en la evaluación de las ofertas, aplicará lo referente a las Reglas
+de participación sobre experiencia, existencia legal y patrimonio, conforme lo
+establecido en la Resolución RE-SERCOP-2016-0000072 y sus resoluciones.
+Información Financiera Requerida
+Se solicitará que el CONTRATISTA presente y sustente los siguientes índices
+Índice
+
+Indicador solicitado
+
+Solvencia
+
+Mayor o igual a 1
+
+Endeudamiento
+
+Menor a 1.5
+
+ELABORADO POR:
+
+Observaciones
+
+REVISADO POR:
+
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+SANTIAGO FERNANDO
+CASTILLO CASTRO
+
+LUIS ARMANDO
+RUIZ ALMEIDA
+
+Nombre: Santiago Castillo
+Cargo: Coordinador de
+Movimiento de Pasivos
+
+Nombre: Armando Ruiz
+Cargo: Coordinador
+General PAV
+
+AUTORIZADO POR:
+
+Nombre: Cesar Jiménez
+Cargo: Subgerente SSA
+
+CLASIFICACIÓN: RESTRINGIDO
+“Este documento es de propiedad exclusiva de EP PETROECUADOR. Se prohíbe su uso no autorizado.”
+Formato: PCA.10.04.FO.08 (V04) - abril/2022
+
+Página 13 de 13
+
+

@@ -1,0 +1,1663 @@
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:1 de 40
+
+DESCRIPCIÓN GENERAL
+Objeto de la contratación
+
+ADQUISICIÓN DEL PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B, APROBADOS EN EL PAC 2022 DEL CENTRO
+CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA NORTE
+TARQUI
+
+Unidad requirente
+
+Farmacia del Centro Clínico Quirúrgico Ambulatorio Hospital del Día
+Norte Tarqui.
+
+Número de Certificación
+
+NO DISPONIBLE
+
+Número Certificación
+Catálogo Electrónico
+
+CATE-011-2022
+
+Número Certificación PAC
+
+No disponible
+
+Fecha
+
+25 de Marzo de 2022
+
+1
+
+Antecedentes
+
+El artículo 3 de la Constitución de La Republica del Ecuador establece: “Son deberes primordiales del Estado:
+Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la Constitución y en los
+instrumentos internacionales, en particular la educación, la salud, la alimentación, la seguridad Social y el
+agua para sus habitantes”;
+El artículo 32 de la Constitución de La Republica del Ecuador establece: “La salud es un derecho que
+garantiza el Estado, cuya realización se vincula al ejercicio de otros derechos, entre ellos el derecho al agua,
+la alimentación, la educación, la cultura física, el trabajo, la seguridad social, los ambientes sanos y otros
+que sustentan el buen vivir. El Estado garantizará este derecho mediante políticas económicas, sociales,
+culturales, educativas y ambientales; y el acceso permanente, oportuno y sin exclusión a programas,
+acciones y servicios de promoción y atención integral de salud, salud sexual y salud reproductiva. La
+prestación de los servicios de salud se regirá por los principios de equidad, universalidad, solidaridad,
+interculturalidad, calidad, eficiencia, eficacia, precaución y bioética, con enfoque de género y generacional”;
+De conformidad al artículo 362 de la Constitución de La Republica del Ecuador se establece que: “La
+atención de salud como servicio público se prestará a través de las entidades estatales, privadas, autónomas,
+comunitarias y aquellas que ejerzan las medicinas ancestrales alternativas y complementarias. Los servicios
+de salud serán seguros, de calidad y calidez, y garantizarán el consentimiento informado, el acceso a la
+información y la confidencialidad de la información de los pacientes. Los servicios públicos estatales de salud
+serán universales y gratuitos en todos los niveles de atención y comprenderán los procedimientos de
+diagnóstico, tratamiento, medicamentos y dispositivos médicos y rehabilitación necesarios”;
+El artículo 363, numeral 7 de la Constitución de La República del Ecuador establece que: “El Estado será
+responsable de: (…) 7. Garantizar la disponibilidad y acceso a medicamentos y dispositivos médicos de
+calidad, seguros y eficaces, regular su comercialización y promover la producción nacional y la utilización de
+medicamentos y dispositivos médicos genéricos que respondan a las necesidades epidemiológicas de la
+población. En el acceso a medicamentos y dispositivos médicos, los intereses de la salud pública
+prevalecerán sobre los económicos y comerciales”;
+El artículo 9 de la Ley Orgánica de Salud establece que: “Corresponde al Estado garantizar el derecho a la
+salud de las personas, para lo cual tiene, entre otras, las siguientes responsabilidades: (…) c) Priorizar la
+salud pública sobre los intereses comerciales y económicos”;
+1
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:2 de 40
+
+Mediante memorando Nro. IESS-SDNPSS-2021-1436-M, suscrito el 04 de noviembre de 2021,
+por Dra. Carmen Isabel Bravo Ávila, Subdirectora Nacional de Provisión de Servicios de Salud,
+Encargada, a la fecha, socializa la Validación de Programación de Medicamentos 2022 del
+Hospital de Especialidades Norte Tarqui una vez que el equipo técnico de la Coordinación
+Nacional de Medicamentos realizó la revisión técnica de la información remitida por el
+Establecimiento de Salud;
+Mediante memorando Nro. IESS-HD-NT-DF-2022-0041-M, suscrito el 17 de enero de 2022, por
+el RESPONSABLE FINANCIERO DEL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL
+DEL DÍA NORTE TARQUI, ENCARGADO, a la fecha, traslada las asignaciones Presupuestarias
+que constan en el Sistema Integrado de Gestión Financiera e-Sigef a ser utilizado en el
+presente ejercicio económico del Hospital de Especialidades Norte Tarqui;
+Mediante memorando Nro. IESS-HD-NT-2022-0166-M, de fecha 18 de enero de 2022, suscrito
+por el Ing. Fausto Baquerizo De La A, Director Administrativo del CCQA Hospital del Día Norte
+Tarqui, informa a los responsables de área la carga del PAC Institucional al Sistema Oficial de
+Contratación Pública (SOCE), con la finalidad de que se realicen los requerimientos conforme a
+lo planificado;
+Mediante memorando Nro. IESS-HD-NT-DM-2022-0201-M, de 20 de enero de 2022, suscrito
+por el Espc. Pedro Mariano Barberan Vera, Director Médico de éste Centro de Salud, realiza la
+Convocatoria a la reunión ordinaria al Comité de Farmacología, cuyo tema a tratar fue: “Primer
+Requerimiento de medicamentos de la Programación Anual de Contratación 2022;
+Mediante memorando Nro. IESS-HD-NT-F-2022-0044-M, de fecha 26 de enero de 2022,
+suscrito por el QF. Juan José Jiménez Jiménez, Responsable de Farmacia de éste Centro de
+Salud, a la fecha, remite el Acta del Comité de Farmacología de fecha 26 de enero de 2022 , en
+la misma que se determinó aprobar el requerimiento de fármacos para el primer semestre del
+año 2022;
+Mediante correo electrónico de fecha 04 de febrero de 2022, el Responsable de Farmacia, Q.F
+José Layana Rodríguez, realiza la solicitud de certificado de bodega a la Responsable de Bodega
+General, Ing. Gladis Esmeraldas Chauca Cajo, para la adquisición de los medicamentos NO
+CATALOGADOS de la programación 2022 para CCQA Hospital del Día Norte Tarqui;
+Mediante correo electrónico de fecha 07 de febrero de 2022, la Ing. Gladis Esmeraldas Chauca
+Cajo, Responsable de Bodega General, adjunta el certificado de bodega Nº 001 NO
+CATALOGADOS en donde se evidencia el stock cero y los medicamentos en stock crítico en la
+bodega General de Fármacos.
+Mediante correo institucional de fecha 15 de febrero de 2022, el Q.F José Layana Rodríguez,
+Responsable de Farmacia, solicita al área de Adquisiciones se revise el Informe de Justificación
+de necesidad para el proceso del "Primer Requerimiento de medicamentos de la Programación
+Anual de Contratación 2022”;
+Mediante documento No. CATE-011-2022 de fecha 16 de febrero 2022, la Ing. Andrea Macías Pereira,
+
+2
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:3 de 40
+
+Oficinista de Adquisiciones, actualiza la información constante el catalogo electrónico de medicamentos y
+certifica los ítems que se encuentran disponible en el repertorio de medicamentos del SERCOP;
+
+2
+
+Justificación
+
+El presente requerimiento de fármacos NO catalogados - Programación 2022, se realiza en virtud del “Acta
+del Comité de Farmacología” 25 de enero de 2022, la cual fue remitida por el Q.F. Juan Jiménez Jiménez,
+Responsable de Farmacia, al Espc. Pedro Barberán Vera, Director Médico del CCQAHD Norte Tarqui, el 26
+de enero de 2022 a través de memorando Nro. IESS-HD-NT-F-2022-0044-M.
+
+3
+
+Objetivos
+
+3.1.
+
+Objetivo general
+
+El objetivo de estas especificaciones técnicas es la ADQUISICIÓN DEL PRIMER REQUERIMIENTO DE
+FÁRMACOS NO CATALOGADOS APROBADOS EN EL PAC 2022 DEL CENTRO CLÍNICO QUIRÚRGICO
+AMBULATORIO HOSPITAL DEL DÍA NORTE TARQUI, teniendo como finalidad incrementar la eficiencia y
+efectividad de la prestación de servicio de salud a la población adscrita, mediante los diferentes tipos de
+procesos de contratación pública permitidos por la LOSNCP.
+
+3.2
+
+Objetivo específico
+
+
+
+
+4
+
+Abastecer la farmacia del CCQA Hospital del Día Norte Tarqui de los medicamentos que se
+encuentran en stock cero y stock crítico.
+Contar con un porcentaje adecuado de medicamentos en estado “abastecido”.
+Realizar el seguimiento oportuno, con la finalidad de que se genere la compra de cada
+medicamento y a su vez estos sean entregados dentro del plazo establecido por parte de la entidad
+contratante.
+
+Alcance
+
+La adquisición de medicamentos NO catalogados para el área de Farmacia, corresponden a la programación
+de fármacos aprobada para el año 2022 del Centro Clínico Quirúrgico Ambulatorio Hospital del Día Norte
+Tarqui, misma que tiene como alcance abastecernos por un lapso de 6 meses, para brindar una atención
+oportuna y efectiva a la población adscrita a nuestra casa de salud.
+
+5
+
+Naturaleza del objeto de la contratación y sugerencia de procedimiento
+
+Los bienes requeridos (fármacos) son de tipo NORMALIZADO según lo establecido en el numeral 2 del artículo
+6 de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+El procedimiento de contratación que se utilizará, será determinado por el área de Adquisiciones del CCQA
+Hospital del Día Norte Tarqui, en base a la Ley Orgánica de Contratación Pública, Reglamento General y
+Resoluciones relacionadas a la compra de bienes y servicios.
+
+3
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+6
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:4 de 40
+
+Código CPC
+
+GRUPO B: SANGRE Y ÓRGANOS FORMADORES DE SANGRE
+
+7
+
+NO.
+
+CÓDIGO CPC
+NUEVO
+
+DESCRIPCIÓN
+
+1
+
+35260301012
+
+ÁCIDO ACETIL SALICILICO
+
+2
+
+35260631197
+
+3
+
+FORMA
+FARMACÉUTICA
+
+CONCENTRACIÓN
+
+PRESENTACIÓN
+
+REQUERIMIENTO
+ACTUAL DEL COMITE
+
+SOLIDO ORAL
+
+100 mg
+
+n/r
+
+15.900
+
+CLOPIDOGREL
+
+SOLIDO ORAL
+
+75 mg
+
+n/r
+
+32.400
+
+35260741213
+
+CLORURO DE SODIO
+
+LIQUIDO PARENTERAL
+
+0,90%
+
+funda x 1.000 ml
+
+3.290
+
+4
+
+35260741304
+
+ELECTROLITOS
+CON
+CARBOHIDRATOS (DEXTROSA EN
+SOLUCIÓN SALINA)
+
+LIQUIDO PARENTERAL
+
+5 % + 0,9 %
+
+funda x 1.000 ml
+
+150
+
+5
+
+35260651313
+
+ENOXAPARINA
+
+LIQUIDO PARENTERAL
+
+6.000 ui (60 mg)
+
+jeringuilla pre llenada
+x 0,6 ml
+
+11
+
+6
+
+35260641328
+
+ERITROPOYETINA
+
+LIQUIDO O
+PARENTERAL
+
+4.000 ui
+
+n/r
+
+6.340
+
+7
+
+35260641429
+
+HIERRO SACARATADO, OXIDO DE
+LÍQUIDO PARENTERAL
+
+LIQUIDO PARENTERAL
+
+100 mg
+
+amp x 5 ml
+
+7
+
+8
+
+3,52607E+11
+
+HEPARINA (NO FRACCIONADA)
+LIQUIDO PARENTERAL
+
+5.000 ui/ml
+
+amp x 10 ml
+
+8
+
+9
+
+35260641366
+
+FERROSO
+SULFATO
+(EQUIVALENTE
+HIERRO ELEMENTAL)
+
+50 mg/5 ml
+
+n/r
+
+400
+
+SOLIDO
+
+LIQUIDO PARENTERAL
+
+A
+
+LIQUIDO ORAL
+
+Metodología de trabajo.
+
+Los proveedores que participen en este proceso de contratación deberán cumplir con la entrega de los
+fármacos solicitados, ofertando el bien de manera clara y precisa cumpliendo los principios que determina
+la Ley del Sistema Nacional de Contratación Pública, como son legalidad trato justo, igualdad, calidad,
+vigencia tecnológica, oportunidad, concurrencia, transparencia, publicidad y participación nacional.
+Es importante mencionar que una vez realizada la entrega de los medicamentos que se detallan en el
+presente documento, el proveedor previa notificación del canje del mismo deberá cumplir con lo estipulado
+en el Reglamento de Canje de Medicamentos en General próximos a caducar Acuerdo Ministerial 15 R.O. 30
+de 02 de septiembre de 2019 Capitulo V.- De las excepciones.- Art. 15 Para el caso de los productos objeto
+de este Reglamento considerados vitales, el proveedor deberá aceptar los canjes que sean necesarios, sin
+considerar el porcentaje de medicamento a canjear.
+Cada establecimiento de salud definirá su lista de medicamentos vitales, a través del Comité de
+Farmacoterapia o quien haga sus veces.
+Asimismo, cuando se trate de medicamentos de difícil acceso para enfermedades raras y huérfanas, el
+proveedor aceptará los canjes que sean necesarios, sin considerar el porcentaje de medicamento a canjear.
+
+4
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+8
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:5 de 40
+
+Información que dispone la entidad
+
+El Centro Clínico Quirúrgico Ambulatorio Hospital del Día Norte Tarqui, dispone de la matriz de Fármacos
+aprobados en el PAC 2022, y además se cuenta con la siguiente documentación:
+
+
+
+
+
+9
+
+Acta del comité de farmacología No. CCQAHDNT-FAR-001-2022
+Consumo promedio mensual del medicamento.
+Stock de bodega y farmacia del medicamento.
+Informe de justificación de la necesidad.
+
+Especificaciones Técnicas de los bienes.
+
+Con la “ADQUISICIÓN DEL PRIMER REQUERIMIENTO DE FÁRMACOS NO CATALOGADOS APROBADOS EN EL
+PAC 2022 DEL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA NORTE TARQUI",
+aspiramos evitar la paralización de las diferentes especialidades que brinda esta Unidad Médica, por lo que,
+es de vital importancia que el oferente cumpla con la entrega-recepción de los fármacos en el plazo
+estipulado por la entidad contratante y de conformidad al siguiente detalle:
+
+GRUPO B: SANGRE Y ÓRGANOS FORMADORES DE SANGRE
+
+NO.
+
+CÓDIGO CPC
+NUEVO
+
+DESCRIPCIÓN
+
+1
+
+35260301012
+
+ÁCIDO ACETIL SALICILICO
+
+2
+
+35260631197
+
+3
+
+FORMA
+FARMACÉUTICA
+
+CONCENTRACIÓN
+
+PRESENTACIÓN
+
+REQUERIMIENTO
+ACTUAL DEL COMITE
+
+SOLIDO ORAL
+
+100 mg
+
+n/r
+
+15.900
+
+CLOPIDOGREL
+
+SOLIDO ORAL
+
+75 mg
+
+n/r
+
+32.400
+
+35260741213
+
+CLORURO DE SODIO
+
+LIQUIDO PARENTERAL
+
+0,90%
+
+funda x 1.000 ml
+
+3.290
+
+4
+
+35260741304
+
+ELECTROLITOS
+CON
+CARBOHIDRATOS (DEXTROSA EN
+SOLUCIÓN SALINA)
+
+LIQUIDO PARENTERAL
+
+5 % + 0,9 %
+
+funda x 1.000 ml
+
+150
+
+5
+
+35260651313
+
+ENOXAPARINA
+
+LIQUIDO PARENTERAL
+
+6.000 ui (60 mg)
+
+jeringuilla pre llenada
+x 0,6 ml
+
+11
+
+6
+
+35260641328
+
+ERITROPOYETINA
+
+LIQUIDO O
+PARENTERAL
+
+4.000 ui
+
+n/r
+
+6.340
+
+7
+
+35260641429
+
+HIERRO SACARATADO, OXIDO DE
+LÍQUIDO PARENTERAL
+
+LIQUIDO PARENTERAL
+
+100 mg
+
+amp x 5 ml
+
+7
+
+SOLIDO
+
+LUGAR DE LA
+ENTREGA
+
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+
+5
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:6 de 40
+
+NORTE TARQUI
+8
+
+3,52607E+11
+
+HEPARINA (NO FRACCIONADA)
+LIQUIDO PARENTERAL
+
+9
+
+35260641366
+
+FERROSO
+SULFATO
+(EQUIVALENTE
+HIERRO ELEMENTAL)
+
+10.
+
+LIQUIDO PARENTERAL
+
+A
+
+LIQUIDO ORAL
+
+5.000 ui/ml
+
+amp x 10 ml
+
+8
+
+50 mg/5 ml
+
+n/r
+
+400
+
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+BODEGA GENERAL
+DEL CCQA
+HOSPITAL DEL DÍA
+NORTE TARQUI
+
+Informes de validación
+
+El presente requerimiento no requiere informe de validación.
+
+11. Plazo de ejecución: parciales y/o total
+El plazo de ejecución para la entrega de los fármacos que forman parte del objeto de contratación
+“ADQUISICIÓN DEL PRIMER REQUERIMIENTO DE FÁRMACOS NO CATALOGADOS APROBADOS EN EL
+PAC 2022 DEL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA NORTE TARQUI”, será
+de 10 días contados de a partir de la suscripción del contrato.
+
+12. Evaluación de la oferta
+La evaluación de las ofertas se encaminará a proporcionar una información imparcial sobre si una oferta
+debe ser rechazada y cuál de ellas cumple con el concepto de mejor costo en los términos establecidos en
+el artículo 6, numeral 17 de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+Se establecen de manera general para ello dos etapas: la primera, bajo metodología “Cumple / No
+Cumple”, en la que se analizan los documentos exigidos cuya presentación permite habilitar las
+propuestas (integridad de la oferta), y la verificación del cumplimiento de capacidades mínimas; y la
+segunda, en la que se evaluarán, mediante parámetros cuantitativos o valorados, las mayores capacidades
+de entre los oferentes que habiendo cumplido la etapa anterior, se encuentren aptos para esta
+calificación. Únicamente en los procedimientos de Subasta Inversa Electrónica y Menor Cuantía no se
+cumplirá la etapa de evaluación valorada, pues de entre los participantes que, habiendo presentado su
+manifestación de interés, cumplieran con las capacidades mínimas, las especificaciones técnicas del bien
+y/o servicio, se invitará a uno solo de ellos para presentar su oferta.
+Integridad de las ofertas: La integridad de la oferta consiste en la verificación de la presentación de los
+formularios y requisitos mínimos previstos en el pliego.
+Luego de esta verificación la entidad contratante determinará si ejecutará la etapa de convalidación de
+errores.
+Formulario Único de la Oferta:
+1.1 Presentación y compromiso;
+1.2 Datos generales del oferente;
+1.3 Nómina de socio(s), accionista(s) o partícipe(s) mayoritarios de personas jurídicas, y disposiciones
+
+6
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:7 de 40
+
+específicas para personas naturales, oferentes.
+1.4 Situación financiera del oferente;
+1.5 Tabla de cantidades y precios (Deberá detallarse las cantidades y precios ofertados por cada uno de
+los ítems requeridos);
+1.6 Componente de los bienes y servicios ofertados;
+1.7 Experiencia del oferente. (Detalle en caso de ser específico)
+(Soporte técnico en caso de haber sido exigido)
+1.8 Personal técnico propuesto para el proyecto. (En caso que la entidad contratante requiera para la
+prestación de servicio).
+1.9 Equipo mínimo requerido (En caso que la entidad contratante requiera para la prestación de servicio)
+1.10 Declaración de Valor Agregado Ecuatoriano de la oferta
+1.1 Otros parámetros de calificación propuestos por la entidad contratante
+Formulario de compromiso de asociación o consorcio (de ser procedente)
+
+METODOLOGÍA DE EVALUACIÓN CUMPLE/ NO CUMPLE
+Requisitos mínimos
+12.1 Integridad de la oferta
+a)
+
+Se dará estricto cumplimiento a las disposiciones establecidas en la circular No.
+SERCOPSERCOP-2020-0022-C de fecha 27 de octubre de 2020, suscrito por la Econ. Laura
+Vallejo Páez, Directora General del SERCOP y Resolución No. RE-SERCOP-2021-0112 emitida
+el 15 de enero de 2021.
+
+b)
+
+La oferta se presentará en formato digital (.pdf) a través de unidad de almacenamiento (cd o
+pen drive) en el departamento de adquisiciones del CCQAHD Norte Tarqui y a través de
+correo electrónico, a fausto.baquerizo@iess.gob.ec, siguiendo los lineamientos establecidos
+en la circular No. SERCOP-SERCOP-2020-0022-C de fecha 27 de octubre de 2020, suscrito por
+la Econ. Laura Vallejo Páez, Directora General del SERCOP. En el caso de exceder el tamaño
+de capacidad de envió, las ofertas deberán remitirse por un canal digital que la Entidad
+Contratante habilite o lo defina, como por ejemplo: www.wetransfer.com,
+transfer.pcloud.com o cualquier otro medio similar.
+
+c)
+
+La carpeta digital a entregarse de forma física deberá contener lo siguiente:
+ La oferta (índice, formularios y anexos) en un archivo compacto, con hojas membretadas
+
+y numeradas. Los anexos deberán seguir el mismo orden establecido en los formularios
+lo cual permitirá una fácil y rápida lectura por parte del o los revisores.
+ De forma separada todos los archivos que contengan firma electrónica para su
+verificación.
+ Propuesta Subastas Inversa Electrónica (documento generado en la página del SERCOP
+con el detalle del plazo de entrega, tiempo de garantía y valor económico ofertado)
+d)
+
+Será motivo de descalificación el que incumpla a los siguientes con los artículos 10.1 y
+424.37 de la Resolución RE-SERCOP-2016-0072, así como la disposición transitoria vigésima
+segunda ibídem.
+
+7
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:8 de 40
+
+e)
+
+Todos los documentos solicitados deberán ser presentados en copias absolutamente
+legibles y las cartas compromiso deberán estar suscritas por el Representante Legal,
+determinándose como no válida la documentación que no cumpla con este parámetro.
+
+f)
+
+Para dar cumplimiento con la integridad de la oferta, los oferentes deberán reemplazar y
+actualizar el formulario 1.1 “Presentación y compromiso“, del formulario de la oferta y el
+formulario 1,3 “Nomina de socio(s) o participante(s) mayoritarios de personas jurídicas
+oferentes“, del formulario de la oferta, en concordancia con la Resolución No. RE-SERCOP2020-0110 del 21 de septiembre de 2020 y Resolución RE-SERCOP-2020-0111 del 23 de
+septiembre de 2020. El no cumplimiento de estas disposiciones será causal de
+descalificación de la oferta.
+
+12.2
+
+Personal técnico mínimo
+
+No aplica.
+
+12.3
+No aplica.
+
+12.4
+
+Experiencia mínima del personal técnico
+Equipo mínimo
+
+No aplica.
+
+12.5
+
+Experiencia general y específica mínima
+
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados por el oferente
+para acreditar la experiencia mínima general o específica requerida, sino, al cumplimiento de estas
+condiciones en relación a los montos mínimos requeridos para cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima específica, el
+proveedor cumpliere el monto mínimo solicitado para la experiencia mínima general, este contrato o
+instrumento será considerado como válido para acreditar los dos tipos de experiencias.
+
+12.5.1
+
+Experiencia general
+
+Para el caso del procedimiento de Subasta Inversa Electrónica, la entidad contratante solicitará como
+temporalidad de experiencia general en los últimos 15 años, previo a la publicación del procedimiento de
+contratación.
+
+8
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+DESCRIPCIÓN
+
+El oferente
+deberá
+presentar
+documentos
+que acrediten
+su experiencia
+en el mercado
+en venta de
+medicamentos
+en el sector
+privado o
+público
+
+12.5.2
+
+FUENTE O MEDIO DE
+VERIFICACIÓN
+
+TEMPORALIDAD
+
+MONTO DE
+EXPERIENCIA
+MÍNIMA
+REQUERIDA EN
+RELACIÓN AL
+PRESUPUESTO
+REFERENCIAL
+
+La información proporcionada
+deberá estar respaldada con
+copias legibles de contratos,
+con sus respectivas facturas y
+acta entrega recepción sin
+ningún tipo de multa por
+retraso en la ejecución.
+
+Se dará
+cumplimiento con
+lo establecido en el
+numeral 4.1.4. de
+15 años previos a
+En la documentación
+las Condiciones
+la publicación del
+presentada deberá constar
+particulares del
+procedimiento
+pliego
+fecha de ejecución y monto de
+de contratación.
+contratación. Se considerarán
+procedimiento de
+Subasta Inversa
+los contratos, facturas y actas
+Electrónica de
+emitidas por un periodo
+dentro de los últimos 15 años
+bienes y/o servicios.
+atrás contados desde la fecha
+de publicación en el portal de
+compras públicas del presente
+procedimiento.
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:9 de 40
+
+MONTO
+MÍNIMO
+REQUERIDO
+POR CADA
+PROYECTO EN
+RELACIÓN AL
+MONTO
+MÍNIMO
+REQUERIDO
+
+NÚMERO DE PROYECTOS
+
+-
+
+No se colocará número de
+proyectos considerando lo
+previsto en la normativa
+legal vigente que prevé que
+estas condiciones no
+estarán sujetas al número
+de contratos o
+instrumentos presentados
+por el oferente para
+acreditar la experiencia
+mínima general o
+específica requerida, sino,
+al cumplimiento de estas
+condiciones en relación a
+los montos mínimos
+requeridos para cada tipo
+de experiencia.
+
+Experiencia específica
+
+No solicitada.
+
+12.6
+
+Cumplimiento de Especificaciones Técnicas.
+
+La entidad contratante deberá verificar que cada oferente en la oferta que ha presentado, dé
+cumplimiento expreso y puntual a las especificaciones técnicas detalladas en el numeral 9 del presente
+documento.
+
+12.7
+
+Patrimonio:
+
+En el caso de personas jurídicas, se verificará que el patrimonio cumpla con la normativa establecida por
+el Servicio Nacional de Contratación Pública para el efecto.
+El monto mínimo de patrimonio que el oferente deberá justificar, será el establecido automáticamente
+por el Módulo Facilitador de la Contratación Pública en relación al presupuesto referencial.
+
+12.8
+
+Existencia Legal
+
+En armonía con el numeral 2 del Art. 65 de las Reglas de Participación, de la Codificación y Actualización
+de Resoluciones del SERCOP, para los procedimientos de contratación cuyo presupuesto referencial sea
+igual o inferior a USD$ 500.000,00 (Quinientos mil dólares de los Estados Unidos de América con 00/100),
+no habrá tiempo de existencia legal mínima requerida. Para los procedimientos de contratación que
+sobrepasen el monto del presupuesto referencial antes mencionado el tiempo de existencia legal será
+mínimo de tres (3) años.
+
+9
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+12.9
+
+VERSIÓN: 1.2
+
+PÁG:10 de 40
+
+Metodología y cronograma de ejecución del proyecto
+
+No Aplica.
+
+12.10
+
+Porcentaje de Valor Agregado Ecuatoriano Mínimo
+
+Para que una oferta sea considerada ecuatoriana el Valor Agregado Ecuatoriano de la misma deberá ser
+igual o superior al umbral del Valor Agregado Ecuatoriano del procedimiento de contratación pública,
+publicado por la entidad contratante conforme lo establecido por el Sistema Oficial de Contratación del
+Estado - SOCE.
+La entidad contratante deberá verificar si el oferente acredita Valor Agregado Ecuatoriano de los bienes
+y/o servicios propuestos, conforme la normativa expedida por el Servicio Nacional de Contratación
+Pública.
+Únicamente en el caso de que la oferta presentada no acreditare Valor Agregado Ecuatoriano, la entidad
+contratante considerará y analizará la oferta de origen extranjero que se hubieren presentado.
+
+Porcentaje de participación ecuatoriana mínima:
+Se verificará si los oferentes cumplen con el porcentaje de participación ecuatoriana mínima proveniente
+de los estudios de desagregación tecnológica. Sólo el o los participantes que cumplen con el porcentaje de
+participación ecuatoriana mínimo continuarán en el procedimiento.
+
+GRUPO B: SANGRE Y ÓRGANOS FORMADORES DE SANGRE
+NO.
+
+CÓDIGO CPC
+NUEVO
+
+DESCRIPCIÓN
+
+1
+
+35260301012
+
+ÁCIDO ACETIL SALICILICO
+
+2
+
+35260631197
+
+3
+
+FORMA
+FARMACÉUTICA
+
+CONCENTRACIÓN
+
+PRESENTACIÓN
+
+REQUERIMIENTO
+ACTUAL DEL COMITE
+
+VAE*
+
+SOLIDO ORAL
+
+100 mg
+
+n/r
+
+15.900
+
+20,18%
+
+CLOPIDOGREL
+
+SOLIDO ORAL
+
+75 mg
+
+n/r
+
+32.400
+
+20,18
+
+35260741213
+
+CLORURO DE SODIO
+
+LIQUIDO PARENTERAL
+
+0,90%
+
+funda x 1.000 ml
+
+3.290
+
+20,18%
+
+4
+
+35260741304
+
+ELECTROLITOS
+CON
+CARBOHIDRATOS (DEXTROSA EN
+SOLUCIÓN SALINA)
+
+LIQUIDO PARENTERAL
+
+5 % + 0,9 %
+
+funda x 1.000 ml
+
+150
+
+5
+
+35260651313
+
+ENOXAPARINA
+
+LIQUIDO PARENTERAL
+
+6.000 ui (60 mg)
+
+jeringuilla pre llenada
+x 0,6 ml
+
+11
+
+20,18%
+
+6
+
+35260641328
+
+ERITROPOYETINA
+
+LIQUIDO O
+PARENTERAL
+
+4.000 ui
+
+n/r
+
+6.340
+
+20,18%
+
+7
+
+35260641429
+
+HIERRO SACARATADO, OXIDO DE
+LÍQUIDO PARENTERAL
+
+LIQUIDO PARENTERAL
+
+100 mg
+
+amp x 5 ml
+
+7
+
+20,18%
+
+8
+
+3,52607E+11
+
+HEPARINA (NO FRACCIONADA)
+LIQUIDO PARENTERAL
+
+5.000 ui/ml
+
+amp x 10 ml
+
+8
+
+9
+
+35260641366
+
+FERROSO
+SULFATO
+(EQUIVALENTE
+HIERRO ELEMENTAL)
+
+50 mg/5 ml
+
+n/r
+
+400
+
+SOLIDO
+
+LIQUIDO PARENTERAL
+
+A
+
+LIQUIDO ORAL
+
+20,18%
+
+20,18%
+20,18%
+
+10
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:11 de 40
+
+*Información de umbrales VAE por producto disponible en el SERCOP.
+Aplicando la metodología para la determinación del Valor Agregado Ecuatoriano establecida por el
+SERCOP, se obtiene como resultado el 20.18% de VAE para el presente proceso de contratación.
+
+12.11
+ORD
+
+Otros parámetros
+
+DESCRIPCIÓN
+
+1
+
+Garantía Técnica
+
+2
+
+Carta de Compromiso
+de Canje en caso de
+caducidad
+
+3
+
+Certificado de Buenas
+Prácticas de
+Manufactura
+
+DIMENSIÓN
+El oferente deberá entregar una carta de compromiso de garantía técnica con una duración mínima
+de DOCE (12) MESES, contados a partir de la recepción definitiva en bodega (período de expiración
+del medicamento entregado no podrá ser menos a doce meses de vida útil)
+El oferente deberá entregar una carta de compromiso de canje en caso de caducidad; debidamente
+suscrita por el oferente o su representante legal de ser el caso, en estricto cumplimiento a lo
+previsto en el Reglamento de Canje de Medicamentos en General próximos a caducar Acuerdo
+Ministerial15 R.O. 30 de 02 de septiembre de 2019 Capitulo V.- De las excepciones.- Art. 15 Para el
+caso de los productos objeto de este Reglamento considerados vitales, el proveedor deberá aceptar
+los canjes que sean necesarios, sin considerar el porcentaje de medicamento a canjear.
+Cada establecimiento de salud definirá su lista de medicamentos vitales, a través del Comité de
+Farmacoterapia o quien haga sus veces.
+Asimismo, cuando se trate de medicamentos de difícil acceso para enfermedades raras y huérfanas,
+el proveedor aceptará los canjes que sean necesarios, sin considerar el porcentaje de medicamento
+a canjear
+El oferente deberá entregar un certificado de buenas prácticas de manufactura emitida por el
+fabricante por cada fármaco ofertado.
+
+4
+
+Ficha técnica y
+catálogo de los bienes
+ofertados
+
+El oferente deberá presentar catálogos o folletos indicando detalladamente las características de lo
+ofertado, las imágenes deberán ser verídicas en cuanto a lo ofertado de forma impresa. Esta
+información será evaluada por la comisión, misma que permitirá la constatación del cumplimiento
+de las especificaciones técnicas. Dichos folletos, catálogos, manuales deben contener fotos claras y
+demás detalles como marca, presentación, procedencia y aspectos técnicos de los medicamentos
+requeridos. Esta información será primordial para la evaluación de la oferta. Si la misma no está
+justificada con documentación de respaldo se entenderá como no valida.
+
+5
+
+Registros Sanitarios
+Actualizados y
+Vigentes
+
+Deberá adjuntar copia del certificado de registro sanitario vigente, cuando aplique por cada
+medicamento ofertado, la presentación de documentación caducada invalidará la oferta.
+
+6
+
+7
+
+8
+
+9
+10
+
+Deberá presentar una carta de compromiso de que los envases en los que se entregarán los
+productos garanticen su calidad y protección, asegurando una adecuada manipulación cuyo
+etiquetado o rotulado de los envases primarios y secundarios deberán estar escritos en idioma
+Carta Compromiso castellano e impresos en caracteres claramente legibles e indelebles con la información mínima de
+Envase
+conformidad con las exigencias técnicas requeridas para la obtención del Registro Sanitario (cuando
+el caso lo amerite). Los productos deberán contener la leyenda “IESS PROHIBIDA SU VENTA” Y/O
+“MEDICAMENTO GRATUITO PROHIBIDA SU VENTA” serigrafiado / inkjet. No debe estar impreso el
+precio de venta al público (P.V.P).
+Deberá presentar una carta de compromiso de que en caso que los productos presenten fallas
+imputables al transporte, estos serán reemplazados con cargo al proveedor, igualmente aquellos
+Carta Compromiso –
+productos que sin causa justificable presenten alteraciones o modificaciones de su aspecto físico o
+Cambio por fallas
+forma de presentación, deberán ser canjeados por otro de manera inmediata, por cuenta del
+proveedor.
+El Oferente deberá incluir en su oferta documento que certifique que sin costo alguno para la
+Institución se incluirá el transporte y descarga de los medicamentos hasta el sitio de entrega en la
+Transporte y descarga
+Bodega General del CCQAHD Norte Tarqui ubicada en la ciudad de Guayaquil, Av. Juan Tanca
+de productos
+Marengo 6.5 km y Av. Cano. Por lo que el precio de la oferta deberá incluir: Transporte hasta el sitio
+de entrega y el costo del seguro correspondiente.
+El oferente deberá presentar el listado de los medicamentos requeridos, detallando sus
+Productos Ofertados
+especificaciones técnicas, presentación, marca, procedencia y número de registro sanitario vigente.
+Carta Compromiso –
+
+Deberá presentar una carta de compromiso que garantice la entrega de los respectivos análisis de
+
+11
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:12 de 40
+
+Análisis de Lote
+
+lote por cada medicamento ofertado.
+
+11
+
+Carta Compromiso –
+Fecha Expiración
+
+Deberá presentar una carta de compromiso que garantice la entrega de productos con una fecha de
+expiración mínima de un (1) año contados a partir de la recepción de los mismos.
+
+12
+
+Certificado De
+Distribuidor
+Autorizado
+
+13
+
+Certificado de Buenas
+Practicas de
+Almacenamiento,
+distribución y
+transporte
+
+Certificado de Distribuidor Autorizado de cada medicamento, el mismo que indicará que el oferente
+es Distribuidor Autorizado y deberá estar vigente, con fecha actual. LOS CERTIFICADOS DEBERÁN
+CONTENER NÚMERO TELEFÓNICOS DE CONTACTO, FECHA DE EMISIÓN; Y, DIRECCIÓN. EL IESS SE
+RESERVA EL DERECHO DE VERIFICAR LA VERACIDAD DE LOS DOCUMENTOS ENTREGADOS.
+
+14
+
+Permiso de
+funcionamiento del
+establecimiento
+
+12.12
+
+Deberá presentar el Certificado de Buenas Prácticas de Almacenamiento, distribución y transporte,
+cumpliendo con lo dispuesto en el Oficio Nro. MSP-MSP-2018-2406-O de fecha 17 de octubre de
+2018, suscrito por el Dr. Itamar Rodríguez Bermúdez, Ministro de Salud Pública, Subrogante.
+Deberá presentar el Permiso de funcionamiento del establecimiento emitido por el ARCSA vigente,
+en cumplimiento al Acuerdo Ministerial No. 4872 de 27 de mayo del 2014.
+
+Verificación del cumplimiento de integridad y requisitos mínimos de la oferta
+
+PARÁMETROS
+Integridad de la Oferta
+Equipo Mínimo (No aplica)
+Personal Técnico Mínimo (No aplica)
+Experiencia General
+Experiencia Específica (No aplica)
+Especificaciones Técnicas
+Patrimonio (Personas Jurídicas)
+Porcentaje de Valor Agregado Ecuatoriano
+Garantía Técnica
+
+CUMPLE
+
+NO CUMPLE
+
+Carta de Compromiso de Canje en caso de caducidad
+Certificado de Buenas Prácticas de Manufactura
+Ficha técnica y catálogo de los bienes ofertados
+Registros Sanitarios Actualizados y Vigentes
+Carta Compromiso - Envase
+Carta Compromiso – Cambio por fallas
+Transporte y descarga de productos
+Productos Ofertados
+Carta Compromiso – Análisis de Lote
+Carta Compromiso – Fecha Expiración
+Certificado De Distribuidor Autorizado
+Certificado de Buenas Practicas de Almacenamiento,
+distribución y transporte
+Permiso de funcionamiento del establecimiento
+
+12
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+12.13
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:13 de 40
+
+Información Financiera de Referencia
+
+Los índices financieros constituirán información de referencia respecto de los participantes en el
+procedimiento y en tal medida, su análisis se registrará conforme el detalle a continuación:
+TIPO DE INDICE: INDICE DE SOLVENCIA
+INDICADOR: 1.0
+OBSERVACION: Mayor o Igual a 1.0
+Formula: Activo Corriente / Pasivo corriente, indica una situación financiera sana.
+TIPO DE INDICE: INDICE DE ENDEUDAMIENTO
+INDICADOR: 1.5
+OBSERVACION: Menor a 1.5
+Formula: Pasivo Total/Activo Total. Mide Porcentaje de Financiamiento utilizado por la empresa.
+Los factores para su cálculo estarán respaldados en la correspondiente declaración de impuesto a la renta
+del ejercicio fiscal correspondiente y/o los balances presentados al órgano de control respectivo.
+*El incumplimiento de los valores de los índices financieros establecidos por la entidad contratante no
+será causal de rechazo de la oferta, por no ser éstos requisitos mínimos de obligatorio cumplimiento.
+
+13. Presupuesto referencial
+El cálculo del presupuesto referencial se lo realiza según lo dispuesto en la RESOLUCIÓN RESERCOP-20160000072 y a la Reformatoria de la misma mediante documento signado con el número RE-SERCOP-20180000088.
+El valor del presente proceso contempla todas las características requeridas en los términos de referencia,
+así como todos los valores que resultaren de las actividades inherentes al servicio requerido.
+En el caso de procesos realizados a través del procedimiento de Subasta Inversa Electrónica, el
+presupuesto referencial es: NO DISPONIBLE.
+
+14. Forma y condiciones de pago
+Forma de pago: El pago se realizará por cada entrega realizada, previa presentación de la siguiente
+documentación:
+ Factura (original).
+ RUC (copia).
+ Cedula del representante legal (copia).
+ Certificado bancario (copia).
+ Garantía técnica (original).
+ Carta de compromiso de canje (original)
+13
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:14 de 40
+
+ Acta de entrega-recepción definitiva (original).
+ Nota de entrega. (original)
+ Certificado de registro sanitario (copia).
+ Certificado de análisis de lote (copia).
+ Certificado de buenas prácticas de manufactura (copia).
+ Certificado de buenas prácticas de almacenamiento distribución y transporte (copia).
+ Permiso de funcionamiento (copia).
+ Informe de conformidad emitido por el funcionario responsable de la
+administración del contrato.
+Será necesaria la suscripción del acta de entrega recepción definitiva conforme lo dispuesto en los
+artículos 124 y 125 del Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+15. Lugar y forma de entrega
+El medicamento deberá ser entregado en la Bodega General del CCQA Hospital del Día Norte Tarqui,
+ubicada en la Av. Juan Tanca Marengo km 6.5 y Av. 38 Cano de la ciudad de Guayaquil, previa
+coordinación para la entrega mediante oficio formal dirigido a la máxima autoridad de esta Unidad
+Médica, quien a su vez convocará a los funcionarios que deberán participar en dicha recepción. El horario
+para la entrega recepción será de lunes a viernes; teniendo presente que en caso excepcionales se
+coordinará con las áreas intervinientes la logística para la entrega, de igual manera los horarios para la
+entrega de los bienes de acuerdo a la necesidad de la Institución.
+Es importante considerar que existe un tiempo prudencial de máximo dos días para realizar cualquier
+trámite administrativo correspondiente a la entrega recepción de los bienes por parte de la entidad
+contratante. Por tal motivo, la contratista deberá remitir el oficio dirigido a la máxima autoridad de esta
+Unidad Médica, solicitando asignación de fecha y hora para la entrega recepción de los bienes, hasta dos
+días antes de que culmine el plazo contractual. En caso de multa, ésta será considerada hasta el día de la
+entrega recepción del objeto de contratación
+
+16. Garantías
+De acuerdo al objeto de la contratación y a lo establecido en los artículos 74, 75, 76 LOSNCP, el proveedor
+deberá presentar las siguientes garantías:
+Garantía técnica.- El contratista para asegurar la calidad del objeto de esta contratación, deberá
+al momento de la suscripción del contrato como parte integrante del mismo, presentar una
+Garantía Técnica, con vigencia mínima de DOCE (12) meses a partir de la fecha de entrega
+recepción de los bienes objeto de contratación por parte de la entidad contratante.
+Garantía de fiel cumplimiento.- Para seguridad del cumplimiento del contrato y para responder
+por las obligaciones que contrajeren a favor de terceros, relacionadas con el contrato, el
+adjudicatario, antes o al momento de la firma del contrato, rendirá garantías por un monto
+equivalente al cinco (5%) por ciento del valor de aquel. (En caso de que aplique).
+
+14
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:15 de 40
+
+17. Multas
+Por cada día de retraso en la ejecución o incumplimiento de las obligaciones contratadas, se le aplicará
+una multa diaria del 2 x 1000 sobre el porcentaje de las obligaciones que se encuentran pendientes de
+ejecutarse conforme lo establecido en la orden de compra/trabajo o contrato; salvo casos de fuerza
+mayor o caso fortuito debidamente comunicados y justificados dentro de las 48 horas hábiles de
+producido el incidente, y que sean aceptados por la contratante.
+Se aplicará lo establecido en el artículo 71 de la LOSNCP, segundo inciso “(…) Las multas se impondrán por
+retardo en la ejecución de las obligaciones contractuales conforme al cronograma valorado, así como por
+incumplimientos de las demás obligaciones contractuales, las que se determinarán por cada día de
+retardo; las multas se calcularán sobre el porcentaje de las obligaciones que se encuentran pendientes de
+ejecutarse conforme lo establecido en el contrato (…)”
+
+18. Vigencia de la oferta
+Las ofertas se entenderán vigentes de acuerdo a lo establecido en el artículo 30 de la LOSNCP, esdecir, 90
+días.
+
+19. Administrador del contrato
+La máxima autoridad del CCQAHD Norte Tarqui designará el administrador del contrato, quien deberá
+velar por el fiel cumplimiento de las obligaciones, cumplimiento de la normativa y además será el
+responsable de suscribir el acta de entrega recepción e informe de satisfacción conforme los artículos 70 y
+80 de la LOSNCP; y, artículos 121 y 124 del Reglamento General a la LOSNCP.
+
+20.
+
+Sugerencia de designación de comisión técnica o Delegado Responsable de la
+Ejecución Precontractual.
+
+La máxima autoridad del CCQAHD Norte Tarqui designará la comisión técnica o delegado para la fase
+precontractual de conformidad con el monto establecido para la presente contratación, en estricto
+cumplimiento con el art. 18 del Reglamento General a la LOSNCP.
+
+21.
+
+Variación mínima de la puja
+
+El porcentaje de variación mínimo durante la puja será del: 1%
+La duración de la puja será de: 15 minutos.
+
+22.
+
+Obligaciones del contratista
+
+Cumplir a cabalidad con lo establecido en el presente documento de acuerdo a los
+términos y condiciones del contrato.
+Entregar oportunamente los bienes, según lo contemplado en las especificaciones
+
+técnicas, sin costo adicional a los establecidos.
+
+Facilitar al CCQA Hospital del Día Norte Tarqui, toda la información y documentación
+que se necesite para disponer de un pleno conocimiento técnico relacionado con la ejecución del
+contrato.
+
+Serán también de cuenta del proveedor y a su costo, todas las obligaciones a las que
+está sujeto según las leyes, normas y reglamentos relativos a la seguridad social.
+
+
+
+15
+
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL
+CCQA. HOSPITAL DEL DIA NORTE TARQUI
+
+ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DEL
+PRIMER REQUERIMIENTO DE FÁRMACOS NO
+CATALOGADOS GRUPO B APROBADOS EN EL PAC 2022
+
+CÓD: GAD-P03-S01-F06
+FECHA: 16/03/2022
+VERSIÓN: 1.2
+
+PÁG:16 de 40
+
+El proveedor está obligado a cumplir con cualquiera otra obligación que se derive
+natural o legalmente del objeto de contratación y sea exigible en cualquier momento del mismo
+o en norma legal específicamente aplicable.
+
+El contratista, a la firma del contrato, suscribirá un documento titulado “Compromiso
+de Confidencialidad de la Información”, mediante el cual se compromete a guardar
+confidencialidad respecto al uso, custodia y acceso a la información institucional; en
+cumplimiento con lo dispuesto por la Dirección General del IESS, a través de la Resolución No.
+IESS-DG-2018-0030-RFDQ, artículo 3: “Las unidades requirentes en la documentación de las
+etapas preparatoria y precontractual de los procesos de contratación pública, deberán establecer
+como una obligación del contratista/consultor el presentar los compromisos individuales de
+confidencialidad del personal que intervenga en la ejecución de objeto contractual (…)”
+
+
+
+23.
+
+Obligaciones del contratante
+
+
+
+
+
+
+
+
+
+Designar al funcionario responsable de la administración del contrato.
+Notificar al proveedor la caducidad del medicamento de conformidad a lo indicado en el
+artículo 175 de la Ley Orgánica de Salud.
+Verificar el cumplimiento de las cantidades y especificaciones técnicas de cada
+medicamento (certificados de análisis de control de calidad del lote o lotes entregados,
+requisitos del envase primario, envase secundario, terciario, rotulación y embalaje), y la
+revisar la demás documentación solicitada al oferente.
+Dar solución a las peticiones y problemas que se presentaren en la ejecución de la orden
+de compra, en un plazo de 3 días contados a partir de la petición escrita formulada por el
+contratista.
+Suscribir las actas de entrega recepción de los medicamentos recibidos, siempre que se
+haya cumplido con lo previsto en la entrega recepción.
+Otorgar al proveedor las facilidades necesarias para la recepción de los medicamentos.
+
+FIRMAS DE RESPONSABILIDAD:
+Firmado electrónicamente por:
+Firmado electrónicamente por:
+
+PEDRO MARIANO
+BARBERAN VERA
+
+JOSE JULIAN
+LAYANA
+RODRIGUEZ
+
+Elaborado por:
+QF. José Layana Rodríguez
+Responsable de Farmacia del CCQAHDNT.
+
+Revisado por:
+Espc. Pedro Barberan Vera
+Director Médico del CCQAHDNT.
+
+FIRMA DE APROBACIÓN:
+
+Firmado electrónicamente por:
+
+FAUSTO ENRIQUE
+BAQUERIZO DE LA
+A
+
+Ing. Fausto Enrique Baquerizo de La A
+Director Administrativo del CCQAHDNT.
+
+16
+
+

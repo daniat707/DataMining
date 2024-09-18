@@ -1,0 +1,198 @@
+FICHA TÉCNICA DE EQUIPO MÉDICO - MOBILIARIO CLÍNICO
+
+COORDINACIÓN NACIONAL DE EQUIPAMIENTO SANITARIO
+TOR-03 Rev-03
+
+Ficha Técnica:
+Código:
+Revisión:
+Mes-Año:
+Vigencia:
+Tipo:
+Nombre:
+ATRIBUTO
+
+TOR-03
+Rev-03
+Diciembre - 2020
+Desde: 01-01-2021
+Hasta: 31-12-2022
+Equipo médico
+DATOS GENERALES
+TORRE DE VIDEO - LAPAROSCOPIA
+
+ITEM
+
+VALOR
+
+CARACTERÍSTICAS TÉCNICAS MÍNIMAS REQUERIDAS:
+
+Sistema de Visualización
+
+Procesador de video
+
+Cabezal de cámara.
+
+Fuente de luz.
+
+Sistema grabador de video
+
+Insuflador
+
+Características generales
+1.01 Mínimo un monitor Full HD o 4K/UHD a Color LCD o LED, Grado Médico
+1.02 Tamaño mínimo 26", con resolución mínima de 1920x1080
+Puertos de entrada: Mínimo DVI o HDMI y opcional (RGB y/o VGA y/o Super Video y/o
+1.03
+Video compuesto)
+2.01 Captura de imagen y de video Full HD o 4K/UHD
+2.02 Puerto mínimo: USB
+2.03 Puertos de salida de video Full HD o 4K/UHD: Mínimo DVI o HDMI.
+3.01 Funcionamiento mediante 3 chips CCD o CMOS.
+3.02 Autoclavable o mediante limpieza manual
+3.03 Resolución: Soporta Full HD o 4K/UHD mínimo de 1920x1080
+3.04 Con acople estándar o universal
+3.05 Zoom óptico: mínimo de 1,5x veces o superior o su equivalente en mm
+3.06 Botones de control ≥ 2 botones.
+4.01 Lámpara de xenón o LED.
+4.02 Temperatura de color: Entre 5000 °K a 7000 °k.
+4.03 Control de intensidad: De forma manual y/o automático o progresiva
+Puerto de entrada mínimo DVI o HDMI que incluye adaptador para DVI, en caso de
+5.01
+requerirse
+Puertos de salida mínimo DVI o HDMI que incluye adaptador para DVI, en caso de
+5.02
+requerirse
+Captura y almacenamiento de video e imágenes en unidades de memoria USB o Disco
+5.03
+duro externo, con memoria interna de al menos 320GB
+Grabador de video e imágenes de alta definición Full HD o 4K/UHD, mínimo de
+5.04
+1920x1080 (1080p)
+6.01 Gas de insuflación mediante CO2
+6.02 Flujo regulable que al menos cubra el rango de 2 a 30 l/min
+6.03 Presión regulable que al menos cubra el rango de 3 a 25 mmHg.
+6.04 Pantalla para visualización de parámetros
+6.05 Manejo de parámetros mediante pantalla táctil y/o teclado.
+6.06 Seguridad de paciente control de sobrepresión.
+Accesorios
+Un (1) Carro de transporte de grado médico para la ubicación de los componentes del
+equipo médico: con montaje estético para el monitor, al menos dos ruedas bloqueables
+
+Coche de transporte
+
+7.01
+
+Cobertor del equipo
+Disco duro externo de
+expansión
+Energía de respaldo
+
+7.02 Uno (1) para el equipo.
+
+Catálogo CNES
+
+7.03 Uno (1) compatible con el grabador de video de mínimo 8TB.
+7.04 Un (1) UPS de acuerdo a la potencia del equipo
+
+1/2
+
+Cable de fibra óptica
+
+7.05 Dos (2) compatibles con el equipo de mínimo 2,5 m.
+
+Manguera neumática
+
+7.06
+
+Manguera de paciente
+Filtro para insuflador
+Recipiente de
+esterilización cabezal
+Recipiente de
+esterilización
+Memoria USB
+
+Una (1) compatible con el insuflador y conector para el tanque de gas o toma de pared,
+acorde a lo requerido por el Establecimiento de Salud.
+7.07 Cuatro (4) reutilizables compatibles con el insuflador.
+7.08 Veinte (20) descartables.
+7.09 Uno (1) requerido
+7.10 Tres (3) Recipientes para esterilización del instrumental
+7.11 Uno (1) propia del equipo para extracción de información.
+
+Instrumental
+Telescopio de 30⁰
+
+8.01 Uno (1) de 10 mm reutilizable, incluye trocar reutilizable y contenedor de esterilización
+
+Telescopio de 30⁰
+
+8.02
+
+Telescopio de 0⁰
+
+8.03 Uno (1) de 10 mm reutilizable, incluye trocar reutilizable y contenedor de esterilización
+
+Telescopio de 0⁰
+
+8.04
+
+Uno (1) en el rango de 5m a 5,5 mm reutilizable, incluye trocar reutilizable y contenedor
+de esterilización
+
+Uno (1) en el rango de 5m a 5,5 mm reutilizable, incluye trocar reutilizable y contenedor
+de esterilización
+OTRAS ESPECIFICACIONES:
+
+Energía/alimentación
+
+9.01 Vac: Dentro del rango de 110 V a 127 V, 60 Hz. Con conector de grado hospitalario
+
+Certificación
+
+9.02 Certificaciones FDA y/o CE y/o ISO 13485 o similar.
+
+Garantía de repuestos,
+piezas y accesorios
+
+Durante el tiempo de vida útil del equipo. En los dos primeros años de vida útil, los
+repuestos, piezas y mantenimiento (preventivo y/o correctivo) que requiera el equipo
+9.03
+deben ser cubiertos por el proveedor, sin ningún costo para la entidad contratante
+durante este período.
+Durante la vida útil el proveedor garantizará la disponibilidad de repuestos, piezas y
+9.04
+accesorios que requiera el equipo.
+
+Mantenimiento
+
+Durante la vida útil, cada 4 meses el proveedor deberá dar mantenimiento preventivo,
+incluyendo dentro del mantenimiento el ajuste y revisión de los parámetros de
+funcionamiento; sin costo para la entidad contratante durante los dos primeros años de
+9.05
+garantía técnica. Si el fabricante del equipo médico recomienda más visitas de
+mantenimiento preventivo al año, estas serán cubiertas por el proveedor sin costo
+adicional para la entidad contratante.
+
+Garantía técnica
+
+Requerimientos
+adicionales
+Vida útil
+
+Catálogo CNES
+
+Garantía del servicio técnico (mano de obra) hasta la siguiente visita de mantenimiento
+preventivo, es decir, de suscitarse eventos que requieran de visitas de mantenimiento
+9.06 correctivo, estas serán cubiertas por el proveedor sin costo alguno para la entidad
+contratante. Esta garantía no incluye la provisión de repuestos, accesorios o consumibles
+(después de los dos primeros años)
+Al momento de la entrega-recepción del equipo médico, se debe entregar el respectivo
+9.07 catálogo/datasheet y manual de usuario, emitidos por el fabricante. (En formato físico y
+digital: CD y/o DVD).
+9.08 8 años
+
+2/2
+
+

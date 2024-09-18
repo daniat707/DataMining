@@ -1,0 +1,315 @@
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DE PRESUPUESTON REFERENCIAL.
+1. Análisis del bien o servicio requerido:
+1.1 Características Técnicas: Se deberá indicar las características o especificaciones
+técnicas de los bienes o detalle del servicio a contratar.
+
+2. Considerar los montos de adjudicaciones similares realizadas en los últimos dos
+años, previos a la publicación del proceso tanto de la entidad contratante como
+de otras instituciones;
+Conforme a lo establecido en la normativa del SERCOP, se procedió a realizar la revisión
+en el portal de compras públicas utilizando el módulo de búsqueda de procesos de
+contratación en los últimos dos años, señalando la palabra SELLO, con la que se realizó la
+búsqueda.
+A continuación se adjunta las capturas de pantalla de la búsqueda realizada:
+
+De todos los procesos encontrados, solo 5 procesos hacen referencia a Sellos de Seguridad
+relacionados al sector eléctrico, de los cuales SIE-CNELCORP-031-20 no aplica por ser
+declarado Desierto, y los procesos SIE-EERSSA-107-2020, SIE-EECS-DF-024-2021, SIEEERCS-060-2022 no tienen características similares, debido a que en los procesos antes
+descritos el objeto de contratación fueron sellos tipo mariposa y Tornillo Metálico,
+mientras que para el presente proceso se requieren sellos tipo ancla. Por otra parte el
+proceso SIE-CNELCORP-051-20 fue publicado el 24 de diciembre de 2020 y adjudicado el
+26 de febrero del 2021, motivo por el cual este proceso es considerado para realizar el
+estudio de precio.
+
+3. Tomar en cuenta la variación de los precios locales o importados, según
+corresponda. De ser necesario traer los montos a valores presentes,
+considerando la inflación (nacional y/o internacional); es decir, realizar el
+análisis a precios actuales.
+CÓDIGO
+PROCESO
+
+ÍTEM
+
+1
+
+DESCRIPCIÓN DE ALCANCE
+LA COMPRA
+SIMILAR
+
+CORP
+SIEADQUISICIÓN DE
+CNELCORPSELLOS DE
+051-20
+SEGURIDAD GC
+
+OBSERVACIÓN
+UNA VEZ REVISADO ESTE
+PROCESO EN EL SOCE, EN BASE
+AL ANALISIS REALIZADO SE
+DETERMINA QUE EL MISMO SI
+TIENE UN ALCANCE SIMILAR AL
+PRESENTE PROCESO DE
+CONTRATACIÓN
+
+SI
+
+CÁLCULO DEL PRESUPUESTO REFERENCIAL A SER UTILIZADO EN UN PROCEDIMIENTO DE CONTRATACIÓN
+Descripción del Objeto
+Contractual / Items
+
+CORP ADQUISICIÓN DE SELLOS DE SEGURIDAD GC
+363300421
+
+CPC N9
+
+Código Procedimiento
+SIE-CNELCORP-051-20
+
+Entidad
+CNEL EP
+
+Año
+
+Mes
+
+2021
+
+Febrero
+
+Valor Unitario Promedio
+
+0,17828
+
+Valor Unitario Más Alto
+
+0,17828
+
+Valor Unitario Más Bajo
+
+0,17828
+
+Inflación Valor Unitario
+Valor Unitario a Precio Actual
+Acumulada Adjudicado
+0,0487
+0,17
+0,17828
+
+Fuente Inflación utilizada:
+www.ecuadorencifras.gob.ec
+Actualizada a Septiembre 2022
+NOTA: Recuerde que debe verificar que el último mes tomado en cuenta en la actualización del presupuesto referencial sea el último mes reportado por el Instituto Nacional de Estadística y Censos - INEC en el siguiente link:
+http://www.ecuadorencifras.gob.ec/indice-de-precios-al-consumidor/
+
+4. Siempre que sea posible, se exhorta a las entidades contratantes a que cuenten
+con al menos tres proformas:
+En concordancia con el texto establecido en el numeral 2 del art. 9 de la Codificación del
+SERCOP: “Siempre que sea posible, se exhorta a las entidades contratantes a que cuenten
+con al menos tres proformas”
+Por lo expuesto se adjunta al presente informe, las proformas enviadas por 3
+proveedores, solicitadas por correo electrónico:
+
+5. Cálculo del presupuesto referencial a ser utilizado en el presente procedimiento
+de contratación.
+Acogiéndose al Art. 23 del COA donde manifiesta que el principio de
+racionalidad.- La decisión de las administraciones públicas debe estar
+motivada y lo indicado en el numeral 6 del instructivo calculadora de precio
+referencial que indica "De las tres opcionesque se presentan en el formulario, la
+entidad contratante deberá realizar un análisis con la finalidad de seleccionar la
+opción que convenga a los intereses institucionales…", en tal virtud se manifiesta
+que se toma como valor referencial el precio unitario más bajo, es decir $
+0,17828 considerando las cotizaciones obtenidas de los proveedores Imputcorp
+S.A., The BIOS S.A., Goldentime S.A. y el proceso adjudicado en el portal de
+compras públicas.
+
+Rubro
+
+Cantidad
+
+Precio
+actualizad
+o de
+contrato
+adjudicad
+o anterior
+
+SIECNELCOR
+P-051-20
+CORP
+ADQUISICI
+ÓN DE
+SELLOS DE
+SEGURIDA
+D GC
+
+2.898.100
+
+$ 0,17828
+
+Precio
+referencial
+de
+cotización
+Imputcorp
+S.A.
+
+Precio
+Precio
+referencial referencial
+Precio
+de
+de
+referencial para
+cotización
+cotización
+el proceso
+The BIOS Goldentime
+S.A.
+S.A.
+
+Precio Total Sin
+IVA
+
+$
+
+$
+
+$ 516.673,268
+
+0,32
+
+0,33 $
+
+0,30
+
+$
+
+0,17828
+
+Conclusión:
+El presupuesto considerado para la CORP ADQUISICIÓN DE SELLOS DE SEGURIDAD GC,
+cuyo CPC es 363300421 se presenta a continuación:
+Descripción del bien
+
+Cantidad
+(unidades)
+
+PU referencial
+
+CORP ADQUISICIÓN DE SELLOS
+DE SEGURIDAD GC
+
+2.898.100
+
+$ 0.17828
+
+Subtotal
+$ 516.673,268
+
+El presupuesto referencial es de $ 516.673,268 redondeados a $ 516.673,27 (Quinientos
+dieciséis mil seiscientos setenta y tres con 27/100) sin incluir el IVA.
+
+La distribución por Unidad de Negocio es la siguiente:
+Unidad de
+Negocio
+Bolívar
+El Oro
+Esmeraldas
+Guayaquil
+Guayas Los
+Ríos
+Los Ríos
+
+Manabí
+Milagro
+Santa Elena
+Santo
+Domingo
+Sucumbíos
+
+DIRECCION DE BODEGAS
+Guaranda, Barrio La Playa, entrando por el Parque Club de Leones
+en la S/E Guaranda.
+Machala, entrando por la Av. Loja entre Babahoyo y 25 de julio
+diagonal al campus de la UTM.
+Esmeraldas, entrando por la Calle Espejo y Río Cayapas (Barrio
+Santas Vainas)
+Guayaquil, Av. 1er Pasaje 32 NO entre Dr. Emilio Romero
+Menéndez (calle 18H NO) y Jorge Jara Grau(calle 18 I NO). Diagonal
+al City Mall. (Parque Industrial Satirión)
+Durán, Kilometro 6 1/2 via Durán Yaguachi (Bodegas Oreman)
+antes de llegar a la tercera etapa de la ciudadela El Recreo (Del
+lado izquierdo en la vía con dirección de Durán a Yaguachi)
+Babahoyo, Av. Chopitea y 6 de Octubre atrás de Clínica Babahoyo
+(Actual Hospital del día). Ingresar por el callejón que conecta
+directo a la Unidad de Negocio Los Ríos
+Portoviejo, En las Bodegas de CNEL EP Manabí Km 5 1/2 vía a
+Manta junto a las bodegas de Supan. Pasando al peaje de
+Portoviejo en dirección (Guayaquil - Portoviejo)
+Milagro, En la S/E Milagro Sur Km 1 1/2 de la autopista Milagro a
+Virgen de Fátima junto a Universidad Estatal de Milagro (UNEMI)
+La Libertad, Barrio General Enríquez Gallo, Avda. 12 s/n
+Intersección 33 y 34 queda diagonal a la Refinería de "La Libertad"
+Santo Domingo, Vía a Los Bancos Km 1.5 antigua Central Diésel
+antes de las piscinas de las Vegas del Toachi frente a las fábricas de
+ladrillos EQUINOX
+Lago Agrio,En las Bodegas de CNEL EP Sucumbíos Vía Colombia y
+Velasco Ibarra atrás de empresa Kate Masivo.
+CNEL EP
+
+Cantidad
+201.000
+357.500
+214.000
+278.100
+
+602.700
+
+382.000
+
+246.200
+206.100
+65.400
+261.000
+84.100
+2.898.100
+
+Elaborado por:
+Firmado electrónicamente por:
+
+RAMIRO VINICIO
+AGUILAR SANCHEZ
+
+Ing. Ramiro Aguilar Sánchez
+Líder de Sistemas de Medición (E)
+
+Revisado por:
+
+Firmado electrónicamente por:
+
+BYRON JAVIER
+RAMIREZ
+ANAZCO
+
+Firmado electrónicamente por:
+
+JOHANNA PAOLA
+TOMALA
+CASTANEDA
+
+Econ. Johanna Tomalá Castañeda
+Directora de Servicios al Cliente
+
+Ing. Byron Ramírez Añazco
+Coordinador Comercial Subrogante
+
+Autorizado por:
+Firmado electrónicamente por:
+
+ALVARO ENRIQUE
+CUEVA URGILEZ
+
+Ing. Álvaro Cueva Urgilez
+Gerente Comercial
+
+

@@ -1,0 +1,532 @@
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+INFORME DE NECESIDAD PARA LA “ADQUISICIÓN DE COMPUTADORAS
+NO CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA
+UNIVERSIDAD DE GUAYAQUIL”
+1. ANTECEDENTES.
+El Ecuador es un Estado Constitucional de Derechos y Justicia, según se desprende el Art. 1 de
+la Constitución de la República del Ecuador, por lo tanto, las Compras Gubernamentales que
+realicen las entidades que integramos el Sector Público, deben estar constitucionalizadas.
+La Universidad de Guayaquil, en su afán de mejorar su sistema de enseñanza y proporcionar
+un ambiente óptimo para sus estudiantes, personal y demás anexas a las actividades diarias de
+la misma; se compromete en dar la mayor viabilidad posible a cumplir con estos objetivos
+planteados a fin de sumarse a las metas que el Gobierno quiere alcanzar; tal como lo establece
+el Art. 26 de la Constitución de la República del Ecuador; donde indica que la educación es un
+derecho de las personas a lo largo de su vida y un deber ineludible e inexcusable del Estado.
+Constituye un área prioritaria de la política pública y de la inversión estatal, garantía de la
+igualdad e inclusión social y condición indispensable para el buen vivir. Las personas, las
+familias y la sociedad tienen el derecho y la responsabilidad de participar en el proceso
+educativo.
+Mediante Memorando Nro. UG-FII-2022-0202-M de fecha 22 de marzo de 2022, suscrito por
+Mgs. Ramón Antonio Maquilón Nicola - Decano de Facultad de Ingeniería Industrial, indica que
+“En atención a lo solicitado en el Memorando Nro. UG-DGTI-2022-0390-M en relación a la
+entrega de las necesidades tecnológicas de esta Unidad Académica de acuerdo al formato de
+Excel dispuesto para tal efecto; por medio del presente remito a usted la información
+requerida conforme a los parámetros establecidos para la entrega.”.
+Mediante Memorando Nro. UG-FACSO-2022-0229-M de fecha 22 de marzo de 2022, suscrito
+por Mgs. Troi Ernesto Alvarado Chávez - Decano de Facultad de Ciencias de la Comunicación
+Social, indica que “… adjunto al presente la información requerida en el mismo: Informe de
+Necesidades de los requerimientos tecnológicos de la Facultad. Necesidades tecnológicas en
+formato Excel y PDF con especificaciones técnicas.”.
+Mediante Memorando Nro. UG-FCMF-2022-0207-M de fecha 24 de marzo de 2022, suscrito por
+Mgs. Daniel Douglas Iturburu Salvador - Decano de Facultad de Ciencias de Matemáticas y
+Físicas, indica que “… sírvase encontrar anexo matriz de requerimientos tecnológicos de esta
+Unidad Académica.”.
+Mediante Memorando Nro. UG-FAU-2022-0290-M de fecha 25 de marzo de 2022, suscrito por
+Arq. Rosa Maria Pin Guerrero, MSc. - Decana de Facultad de Arquitectura Y Urbanismo, indica
+que “Se procede a realizar la entrega de la Matriz e Informe de necesidades tecnológicas de la
+Facultad de Arquitectura y Urbanismo según lo solicitado mediante el Memorando Nro. UGDGTI-2022-0390-M.”.
+
+1
+
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+Mediante Memorando Nro. UG-DGTI-2022-1321-M de fecha 1 de Agosto de 2022 suscrito por
+Ing. Carlos Arturo Salazar Vera - Director de Gestión Tecnológica de la Información solicitó la
+certificación PAP para el proceso “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA
+LAS UNIDADES ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-CGPEA-DPPI-2022-0709-M de fecha 2 de Agosto de 2022
+suscrito Por Mgs. David Agustín Pérez Vera - Director de Planificación y Proyectos de Inversión,
+emite la certificación PAP Nro. CGPEA-DPPI-PAP-395-2022 para el proceso “ADQUISICIÓN DE
+COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA
+UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-DGTI-2022-1384-M de fecha 9 de Agosto de 2022 suscrito por
+Ing. Carlos Arturo Salazar Vera - Director de Gestión Tecnológica de la Información, solicitó el
+certificado de stock de los insumos que se van adquirir en el proceso “ADQUISICIÓN DE
+COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA
+UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-JP-2022-0499-M de fecha 10 de Agosto de 2022 suscrito por
+Mgs. Wilmer Jouvin Trujillo - Jefe de Proveeduría, emite el certificado de no mantener stock en
+bodega los ítems detalladas para el proceso “ADQUISICIÓN DE COMPUTADORAS NO
+CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA UNIVERSIDAD DE
+GUAYAQUIL”.
+Mediante Memorando Nro. UG-DGTI-2022-1366-M de fecha 8 de Agosto de 2022 suscrito por
+Ing. Carlos Arturo Salazar Vera - Director de Gestión Tecnológica de la Información, solicita la
+Certificación Presupuestaria para el proceso “ADQUISICIÓN DE COMPUTADORAS NO
+CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA UNIVERSIDAD DE
+GUAYAQUIL”.
+Mediante Memorando Nro. UG-DF-2022-1912-M de fecha 31 de Agosto de 2022 suscrito por
+Srta. Aud. Ileana Monserrate Peralta Bravo - Directora Financiera, emite las Certificaciones
+Presupuestarias Nro. 608 y 611, aprobadas con fecha 31 de agosto de 2022 para la
+“ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES
+ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+
+2. JUSTIFICACIÓN DE LA CONTRATACIÓN.
+El buen uso de las tecnologías en las instituciones públicas hoy en día es fundamental para lograr
+tener una eficiencia estable y brindar un mejor servicio, además de que prácticamente sin el uso
+de estas herramientas los procesos de las organizaciones serían más complejos, además de que
+el control de la información y los resultados producidos no serían los más efectivos.
+Las computadoras también sufren cierto desgaste con los años, mientras más tiempo tengan,
+van a estar sujetas a mayores problemas de seguridad, desempeño, diversos gastos de
+actualización y mantenimiento, garantía e incompatibilidad con nuevos programas y
+tecnologías, además de que van utilizando más energía por el desgaste de sus componentes y
+batería. Esto se traduce en gastos de tiempo y dinero. Una nueva computadora ayudará a
+ejecutar programas con mayor rapidez, creando contenidos hasta 20% más rápido que el equipo
+
+2
+
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+anterior. Los equipos nuevos tienen, entre otras características, la ventaja de contar con una
+batería de mayor duración, tal es el caso de los equipos laptops, en la cual algunos equipos
+tienen una duración alrededor de 9 horas, en las que se puede trabajar, sin tener que
+conectarse.
+La Universidad de Guayaquil a través de la Dirección de Gestión Tecnológica de la Información
+tiene como objetivo principal dotar a los diferentes decanatos de la Administración Central de
+equipos informáticos actualizados con tecnología de punta que permitan el buen desarrollo de
+las actividades diarias.
+Para las diferentes facultades de la institución es imperativo contar con equipos informáticos de
+tecnología y óptimos, para que el personal administrativo puedan beneficiarse de los recursos
+digitales para un mejor desenvolvimiento en las actividades de los procesos sean académicos o
+administrativos que aportan al cumplimiento de los Objetivos Estratégicos Institucionales:
+“Generar e impulsar ciencia y tecnología a partir de la investigación científica y la innovación,
+basada en una educación con valores y compromiso social”.
+En las facultades, actualmente los equipos existentes en sus diferentes áreas están obsoletos,
+presentando fallas en sus componentes, repercutiendo en un proceso de lentitud a la hora de
+trabajar, con sobrecalentamiento del equipo y daño de sus componentes, por lo que es
+necesario ser reemplazados en el transcurso de los 4 o 5 años de su vida útil, pese a los
+mantenimientos preventivos y correctivos que se ejecuten, no alcanza el nivel de satisfacción y
+operatividad que amerita este departamento.
+
+3. ALCANCE
+Actualizar la plataforma tecnológica relacionada a computadores para la Universidad de
+Guayaquil, la adquisición permitirá dotar de computadores a los funcionarios que no poseen
+estos equipos o están obsoletos, y también permitirá reemplazar los computadores de escritorio
+existentes en las áreas administrativas cuya tecnológica ha cumplido su vida útil por equipos
+informáticos de mejores características técnicas que permitan un mejor desempeño y desarrollo
+de las actividades institucionales de los funcionarios que necesitan estos equipos.
+
+4. ANÁLISIS DE BENEFICIO, EFICIENCIA O EFECTIVIDAD:
+4.1 ANÁLISIS DE BENEFICIO:
+
+
+
+
+
+
+
+Contar con equipos de tecnología de punta que ofrezca las mejores condiciones
+tecnológicas para los usuarios finales.
+Brindar acceso a recursos digitales a personal administrativo, docentes y estudiantes, a
+fin de que puedan cumplir con sus actividades académicas.
+Sustituir y reemplazar los equipos informáticos que han cumplido con su vida útil.
+Asegurar que los equipos informáticos funcionen de forma correcta y eficiente.
+Beneficiar a 57 estudiantes, docentes o administrativos de las diferentes facultades como
+Matemáticas, Industrial, Facso y Arquitectura con computadoras robustas que soportan
+programas de diseño, programación y algún otro programa que requiera consumir muchos
+recursos para su correcto funcionamiento.
+
+3
+
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+4.2. ANÁLISIS DE EFECTIVIDAD:
+Con este proceso se logrará cumplir con los objetivos de la Universidad de Guayaquil como son:
+
+
+
+Formar en las diversas especialidades los equipos profesionales para los campos humanísticos,
+especialmente los científicos y singularmente los tecnológicos.
+Generar y difundir la ciencia, la tecnología, el arte y las humanidades de forma abierta,
+colaborativa y al servicio de la resolución innovadora de problemas de la sociedad, ecuatoriana,
+regional y mundial, a través de la creación, uso y aplicación de bienes, servicios y significados del
+conocimiento en el marco del respeto al medio ambiente, la justicia y la soberanía del
+conocimiento.
+
+5. CONSUMO REAL
+Mediante Memorando Nro. UG-DGTI-2022-1663 de fecha 7 de septiembre de 2022, suscrito por Mgs.
+Héctor Ignacio Mero Criollo - Director (E) de Gestión Tecnológica de la Información solicito a la Jefatura
+de Proveeduría el respectivo histórico de consumo y saldo actual real de cada ítem solicitado en el
+presente proceso, mismo que mediante Memorando Nro. UG-JP-2022-0593-M informa que no mantiene
+stock.
+Por lo antes expuesto en virtud de que DGTI posee una bodega para almacenar los insumos tecnológicos,
+se informa que actualmente no hay stock de equipos portátiles.
+
+6. CAPACIDAD DE ALMACENAMIENTO
+Mediante Memorando Nro. UG-DGTI-2022-1663-M de fecha 7 de septiembre de 2022, suscrito por Mgs.
+Héctor Ignacio Mero Criollo - Director (E) de Gestión Tecnológica de la Información solicito a la Jefatura
+de Proveeduría el respectivo histórico de consumo y saldo actual real de cada ítem solicitado en el
+presente proceso, mismo que mediante Memorando Nro. UG-JP-2022-0593-M informa que “En
+referencia a su solicitud al no contar con el espacio físico suficiente en las bodegas de Proveeduría, se
+sugiere que estos bienes se reciban en la bodega de la Dirección de Gestión Tecnológica de la Información
+y en referencia al consumo real de estos bienes, la bodega de la Jefatura de Proveeduría sólo almacena y
+distribuye materiales de aseo y suministros de oficina.”.
+
+7. PRODUCTOS O SERVICIOS ESPERADOS
+A continuación, se detallan las especificaciones técnicas:
+
+BIEN
+
+CANT.
+
+ESPECIFICACIONES TECNICAS
+
+PROCESADOR
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 1
+CPC: 452300035
+
+10
+SISTEMA
+OPERATIVO
+PANTALLA
+MEMORIA
+
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Frecuencia turbo máxima
+Mínimo 4,90 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 19"
+Mínimo 16 GB
+
+4
+
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+DISCO DURO
+COMUNICACIONE
+S
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 2
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+10
+
+PANTALLA
+MEMORIA
+TRARJETA
+GRAFICA
+DISCO DURO
+COMUNICACIONE
+S
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 3
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+13
+PANTALLA
+MEMORIA
+TRARJETA
+GRAFICA
+DISCO DURO
+COMUNICACIONE
+S
+PUERTOS Y
+CONECTORES
+
+Mínimo 1TB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y
+quemador de CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Entre 5,10 GHz Frecuencia turbo máxima
+5,20 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 22"
+Mínimo 32 GB
+INTEGRADA
+Mínimo 1TB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y
+quemador de CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Entre 5,10 GHz Frecuencia turbo máxima
+5,20 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 19"
+Mínimo 32 GB
+Mínimo 4GB
+Mínimo 500 GB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+5
+
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+INCLUYE
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 4
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+14
+
+PANTALLA
+MEMORIA
+TRARJETA
+GRAFICA
+DISCO DURO
+COMUNICACIONE
+S
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+PROCESADOR
+
+SISTEMA
+OPERATIVO
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 5
+CPC: 452300035
+
+10
+
+PANTALLA
+MEMORIA
+TRARJETA
+GRAFICA
+DISCO DURO
+COMUNICACIONE
+S
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+MANT.
+PREVENTIVO
+CPC: 871300011
+
+171
+
+Teclado en español, mouse óptico, lector y
+quemador de CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Entre 5,10 GHz Frecuencia turbo máxima
+5,20 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 19"
+Mínimo 16 GB
+Mínimo 2 GB
+Mínimo 500 GB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+WIFI 6
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y
+quemador de CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Frecuencia turbo máxima
+Mínimo 4,90 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 23"
+Mínimo 16 GB
+Mínimo 6GB
+Mínimo 500GB SSD + 1TB HDD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y
+quemador de CD/DVD
+
+MANTENIMIENTO PREVENTIVO ANUAL POR 3 AÑOS
+
+6
+
+DIRECCIÓN DE GESTIÓN
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACAÓN
+
+TECNOLÓGICA DE LA INFORMACIÓN
+
+8. NATURALEZA DE LA CONTRATACIÓN:
+La adquisición de los computadores de escritorio son bienes con características o
+especificaciones técnicas que han sido estandarizadas u homologadas por la Universidad de
+Guayaquil.
+En tal sentido, este proceso obedece a la contratación de bienes normalizados, mismos que al
+no constar en el Catálogo Electrónico, su procedimiento obedece a Subasta Inversa Electrónica,
+de acuerdo a lo establecido en la Ley Orgánica del Sistema Nacional de Contratación Pública y
+su Reglamento General de Aplicación.
+
+9. CONCLUSIÓN
+La Universidad de Guayaquil tiene la necesidad de dotar de equipos de escritorio a las diferentes
+facultades para así reemplazar equipos obsoletos y descontinuados los cuales ya no responden
+de manera adecuada a las exigencias de software actuales, esto provoca un costo de tiempo lo
+que produce que procesos diarios se empiecen a ejecutar de manera ineficiente y a su vez
+habilitar nuevos equipos informáticos para garantizar el buen funcionamiento y desarrollo de
+las actividades académicas y administrativas.
+
+Fecha: 20 de Septiembre de 2022.
+ACCIÓN
+Elaborado
+por:
+
+FUNCIONARIO
+Ing. Eleana Ordoñez Vega
+Asistente de Infraestructura Informática 2
+Dirección de Gestión Tecnológica de la
+Información
+
+Revisado
+por:
+
+Ing. Carlos Navarrete Martínez
+Jefe de Infraestructura Informática
+Dirección de Gestión Tecnológica de la
+Información
+
+Autorizado y
+aprobado
+por:
+
+Ing. Carlos Salazar Vera
+Director
+Dirección de Gestión Tecnológica de la
+Información
+
+FIRMAS
+Firmado electrónicamente por:
+
+ELEANA
+ELIZABETH
+ORDONEZ VEGA
+
+Firmado electrónicamente por:
+
+CARLOS FERNANDO
+NAVARRETE MARTINEZ
+
+Firmado electrónicamente por:
+
+CARLOS ARTURO
+SALAZAR VERA
+
+7
+
+

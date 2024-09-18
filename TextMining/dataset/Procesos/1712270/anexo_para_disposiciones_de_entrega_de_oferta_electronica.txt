@@ -1,0 +1,85 @@
+ANEXO
+
+DISPOSICIONES DE ENTREGA DE OFERTAS ELECTRÓNICAS
+
+
+
+Los oferentes al momento de la presentación de oferta deberán considerar las siguientes disposiciones relativas a la firma electrónica:
+
+
+
+Entrega de oferta electrónica: Se podrá entregar ofertas por 3 canales: Portal de COMPRASPÚBLICAS, correo electrónico y de manera presencial siendo obligatorio realizarlo al menos a través del Portal de COMPRASPÚBLICAS, sitio web oficial donde la oferta será subida con firma electrónica.
+
+
+
+La oferta se deberá presentar a través del SOCE donde será subida con firma electrónica de manera obligatoria; y, de conformidad con la Circular SERCOP-SERCOP- 2020-0022 de fecha octubre 27 de 2020 y las ofertas también deberán ser presentada con firma electrónica de manera obligatoria a través del correo electrónico: carla.zambrano@rpguayaquil.gob.ec y diana.villafuerte@rpguayaquil.gob.ec hasta la fecha y hora establecida en el cronograma del procedimiento. No se tomará en cuenta la oferta entregada en otro lugar o después del día y hora fijados para su entrega-recepción.
+
+
+
+Portal de compras públicas: Es obligatorio la presentación de la oferta a través del Portal de COMPRASPÚBLICAS, sitio web oficial donde la oferta será subida con firma electrónica.
+
+
+
+Correo electrónico: La entidad contratante ha habilitado los correos es electrónicos donde se deberán remitir la oferta con firma electrónica, dichas direcciones se detallarán en el campo de “Observación” de las Condiciones Particulares del pliego del proceso de contratación.
+
+Es importante recalcar que el proveedor deberá remitir la oferta desde el correo electrónico que fue registrado en el SOCE.
+
+
+
+En el caso de exceder el tamaño de capacidad de envío, las ofertas deberán remitirse por el canal digital https://wetransfer.com/ o https://transfer.pcloud.com/ o, cualquier otro medio similar que permita a la entidad contratante descargar íntegramente la oferta remitida por el proveedor; hasta la fecha y hora establecido en el cronograma.
+
+
+
+De manera física: Así mismo en caso de ser necesario el oferente podrá entregar su oferta con firma electrónica de manera física, a través de un dispositivo de almacenamiento por medios magnéticos, ópticos o electrónicos que permita poder garantizar su validez; para éste caso la entrega será realizada hasta la fecha y hora establecida en el cronograma, en la EPM Registro de la Propiedad de Guayaquil, en General Córdova 918 entre P. Icaza y Victor Manuel Rendón.. El sobre deberá contener la siguiente información:
+
+- Nombre y dirección del oferente.
+
+- Deberá estar dirigido al Benemérito Cuerpo de Bomberos de Guayaquil.
+
+- Identificación con el código de procedimiento y objeto contractual.
+
+- Deberá estar debidamente cerrado.
+
+Fuente: Circular SERCOP-SERCOP-2020-0022 de fecha octubre 27 de 2020
+
+
+
+Anexos de la oferta electrónica: Conforme lo expuesto en el artículo 4 de la Resolución RESERCOP-2021-0112, cada anexo o documentación de respaldo que se adjunte, y que hayan sido firmados o emitidos por un tercero con firma manuscrita, deberán ser digitalizados y este documento será firmado electrónicamente por el oferente. Esta firma implicará la declaración de que todos los documentos presentados son auténticos, exactos y veraces, y que el oferente se hace responsable de los mismos dentro de los controles posteriores que se pueda realizar.
+
+Fuente: Resolución RE-SERCOP-2021-0112
+
+
+
+Suscripción Electrónica de documentos:  Para la suscripción de documentos relevantes de los procedimientos de contratación pública, los proveedores y/o entidades contratantes del Sistema Nacional de Contratación Pública deberán realizar los siguientes pasos:
+
+Descargar el instalador de FIRMA EC que se encuentra en sitio web oficial http://www.firmadigital.gob.ec en la sección “Enlaces rápidos” [Seleccionar el instalador dependiendo el sistema operativo que corresponda].
+
+Instalar el aplicativo FIRMA EC conforme los pasos necesarios en el sistema operativo que corresponda.
+
+Ejecutar el aplicativo FIRMA EC.
+
+En la vista principal del aplicativo FIRMA EC, se debe seleccionar la pestaña “FIRMAR DOCUMENTO”, seleccionar el tipo de certificado de firma electrónica [Archivo o Token], ingresar la contraseña y seleccionar el documento a ser firmado.
+
+En el caso que el archivo sea de un tamaño superior a 10 Mb, debido a la limitación de tamaño en los archivos del SOCE, se deberá crear particiones [archivo normal o comprimido] que no superen los 10 Mb; cada una de estas particiones deberá ser firmada electrónicamente.
+
+Se debe presionar “Firmar” para especificar la ubicación de la firma electrónica en el documento, y “Estampar” para plasmar la firma electrónica en el documento.
+
+Descargar el documento firmado electrónicamente.
+
+Las ofertas generadas en los Módulos Facilitadores de la Contratación Pública deberán ser suscritos en su versión en PDF.
+
+En el caso de requerir mayor información con respecto a la instalación y uso del aplicativo FIRMA EC, el usuario debe recurrir al manual disponible en: https://www.firmadigital.gob.ec/wpcontent/uploads/2020/04/Manual-Usuario-FirmaEC-v2.5.1.pdf.
+
+Fuente: Circular SERCOP-SERCOP-2020-0022 de fecha octubre 27 de 2020
+
+Documentos firmados electrónicamente que son impresos: Se debe aclarar que los documentos que son firmados electrónicamente pierden su validez legal una vez que sean impresos, pues la misma radica en la integridad y autenticidad del documento electrónico.
+
+
+
+Fuente: Circular SERCOP-SERCOP-2020-0022 de fecha octubre 27 de 2020
+
+
+
+Aplicativo válido para firmar y validar documentos electrónicos: el aplicativo oficial para firmar y validar documentos dentro del ámbito de la Contratación Pública es “FIRMA EC”, de conformidad a lo indicado en la Disposición Transitoria Vigésima Segunda de la Codificación y Actualización de las Resoluciones del SERCOP
+
+Fuente: Resolución RE-SERCOP-2020-106 de fecha julio 16 de 2020

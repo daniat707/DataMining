@@ -1,0 +1,729 @@
+ESPECIFICACIONES TÉCNICAS PARA 
+
+ADQUISICIÓN DE EQUIPOS PARA RADIO ENLACES
+
+
+
+Tabla 1. Equipo para enlace de larga distancia
+
+Descripción
+
+Especificación Solicitada
+
+Especificación Ofertada
+
+Cantidad
+
+100
+
+
+
+Año de fabricación
+
+Mínimo  2021
+
+
+
+Garantía
+
+1 año
+
+
+
+Procedencia
+
+Especificar
+
+
+
+Marca
+
+Especificar
+
+
+
+Modelo
+
+Especificar
+
+
+
+Dimensiones
+
+620 x 620 x 386 mm
+
+
+
+Peso
+
+6.4 kg
+
+
+
+Fuente de alimentación
+
+24V, 0.5A Gigabit PoE
+
+
+
+Suministro de energía
+
+Pasivo PoE (Pairs 4, 5+; 7, 8 Return)
+
+
+
+Máx. consumo de energía
+
+8.5W
+
+
+
+Rango de voltaje admitido
+
+20-26VDC
+
+
+
+Frecuencia de operación MHz
+
+5150 - 5875
+
+
+
+Ganancia
+
+29dBi
+
+
+
+Interfaces de red
+
+(1) 10/100/1000 Puerto Ethernet
+
+
+
+Especificaciones del procesador
+
+Atheros MIPS 74Kc, 720 MHz
+
+
+
+Memoria
+
+128 MB DDR2, 16 MB Flash
+
+
+
+LEDs
+
+(1) Power, (1) LAN, (4) WLAN
+
+
+
+LED de intensidad de la señal
+
+Ajustable por software para niveles  de RSSI
+
+
+
+Max. VSWR
+
+1.6:1
+
+
+
+Tamaños de canal
+
+PtP Mode: 10/20/30/40/50/60/80 MHz
+PtMP Mode: 10/20/30/40 MHz
+
+
+
+Polarización
+
+Doble lineal
+
+
+
+Revestimiento
+
+Plástico estabilizado UV para exteriores
+
+
+
+Herrajeria
+
+ Incluye para montaje en polo
+
+
+
+Carga de viento
+
+mínimo 1510 N @ 200 km/h
+
+
+
+Protección ESD/EMP
+
+Air: ± 24 kV, Contacto: ± 24 kV
+
+
+
+Temperatura de funcionamiento
+
+-40 a 70° C
+
+
+
+Humedad de funcionamiento
+
+5 a 95% sin condensación
+
+
+
+Aprobaciones inalámbricas
+
+FCC, IC, CE
+
+
+
+Conformidad con la RoHS
+
+SI
+
+
+
+Prueba de niebla salina
+
+IEC 68-2-11 (ASTM B117), Equivalente: MIL-STD-810 G Método 509.5
+
+
+
+Test de vibración
+
+IEC 68-2-6
+
+
+
+Prueba de “temperature shock”
+
+IEC 68-2-14
+
+
+
+Prueba UV 
+
+IEC 68-2-5 at 40° C, Equivalente: ETS 300 019-1-4
+
+
+
+Prueba “wind-driven rain”
+
+ETS 300 019-1-4, Equivalente: MIL-STD-810 G Método 506.5
+
+
+
+Data rate  Avg. TX 
+
+(Tolerancia de +/- 2dB)
+
+Requerido
+
+
+
+1 x BPSK (1/2) 24dBm
+
+
+
+
+
+2 x QPSK (1/2) 24dBm
+
+
+
+
+
+2 x QPSK (3/4) 24dBm
+
+
+
+
+
+4 x 16QAM (1/2) 24dBm
+
+
+
+
+
+4 x 16QAM (3/4) 24dBm
+
+
+
+
+
+6 x 64QAM (2/3) 23dBm
+
+
+
+
+
+6 x 64QAM (3/4) 23dBm
+
+
+
+
+
+6 x 64QAM (5/6) 22dBm
+
+
+
+
+
+8 x 256QAM (3/4) 20dBm
+
+
+
+
+
+8 x 256QAM (5/6) 20dBm
+
+
+
+
+
+Data rate  Sensivity
+
+(Tolerancia de +/- 2dB)
+
+Requerido
+
+
+
+1 x BPSK (1/2) -96dBm
+
+
+
+
+
+2 x QPSK (1/2) -95dBm
+
+
+
+
+
+2 x QPSK (3/4) -92dBm
+
+
+
+
+
+4 x 16QAM (1/2) -90dBm
+
+
+
+
+
+4 x 16QAM (3/4) -86dBm
+
+
+
+
+
+6 x 64 QAM (2/3) -83dBm
+
+
+
+
+
+6 x 64 QAM (3/4) -77dBm
+
+
+
+
+
+6 x 64QAM (5/6) -74dBm
+
+
+
+
+
+8 x 256QAM (3/4) -69dBm
+
+
+
+
+
+8 x 256 QAM (5/6) -65dBm
+
+
+
+
+
+
+
+
+
+
+
+
+Tabla 2. Equipo para enlace de corta distancia
+
+Descripción
+
+Especificación Solicitada
+
+Especificación Ofertada
+
+Cantidad
+
+100
+
+
+
+Año de fabricación
+
+Mínimo  2021
+
+
+
+Garantía
+
+1 año
+
+
+
+Procedencia
+
+Especificar
+
+
+
+Marca
+
+Especificar
+
+
+
+Modelo
+
+Especificar
+
+
+
+Dimensiones
+
+520 x 520 x 308 mm 
+
+
+
+Peso
+
+2,35 kg (6,95 libras)
+
+
+
+Fuente de alimentación
+
+24 V, 0,5 A Gigabit PoE
+
+
+
+Máx. Consumo de energía
+
+8.5W
+
+
+
+Método de alimentación
+
+PoE pasivo (pares 4, 5+; 7, 8 retorno)
+
+
+
+Rango de voltaje
+
+20-26 VCC
+
+
+
+Interfaz de red
+
+(1) Puerto Ethernet 10/100/1000
+
+
+
+Especificaciones del procesador
+
+Atheros MIPS 74Kc, 720 MHz
+
+
+
+Memoria
+
+DDR2 de 128 MB, Flash de 16 MB
+
+
+
+LED
+
+(1) Alimentación, (1) LAN, (4) WLAN
+
+
+
+LED de intensidad de la señal
+
+Ajustable por software para niveles  de RSSI
+
+
+
+Máx. VSWR
+
+1,5:1
+
+
+
+Polarización
+
+Dual Lineal
+
+
+
+Revestimiento
+
+Plástico estabilizado UV para exteriores
+
+
+
+Herrajeria
+
+ Incluye para montaje en polo
+
+
+
+Carga de viento
+
+264,6 N a 96 km/h
+
+
+
+Resistencia al viento
+
+96 km/h
+
+
+
+Protección ESD/EMP
+
+Aire: ± 24 kV, Contacto: ± 24 kV
+
+
+
+Temperatura de funcionamiento
+
+-40 a 70 °C
+
+
+
+Humedad de funcionamiento
+
+5 a 95 % sin condensación
+
+
+
+Aprobaciones inalámbricas
+
+FCC, IC, CE
+
+
+
+Conformidad con RoHS
+
+Sí
+
+
+
+Prueba de vibración
+
+IEC 68-2-6
+
+
+
+Prueba de “temperature shock”
+
+IEC 68-2-14
+
+
+
+Prueba UV
+
+IEC 68-2-5 a 40 °C,  
+
+Equivalente: ETS 300 019-1-4
+
+
+
+Prueba “wind-driven rain”
+
+ETS 300 019-1-4,
+
+Equivalente: MIL-STD-810 G Método 506.5
+
+
+
+Ganancia
+
+27 dBi
+
+
+
+Data rate  Avg. TX 
+
+(Tolerancia de +/- 2dB)
+
+1 x BPSK (1/2) 24dBm
+
+Requerido
+
+
+
+2 x QPSK (1/2) 24dBm
+
+
+
+
+
+2 x QPSK (3/4) 24dBm
+
+
+
+
+
+4 x 16QAM (1/2) 24dBm
+
+
+
+
+
+4 x 16QAM (3/4) 24dBm
+
+
+
+
+
+6 x 64QAM (2/3) 23dBm
+
+
+
+
+
+6 x 64QAM (3/4) 22dBm
+
+
+
+
+
+6 x 64QAM (5/6) 21dBm
+
+
+
+
+
+8 x 256QAM (3/4) 20dBm
+
+
+
+
+
+8 x 256QAM (5/6) 19dBm
+
+
+
+
+
+Data rate  Sensivity
+
+(Tolerancia de +/- 2dB)
+
+Requerido
+
+
+
+1 x BPSK (1/2) -96dBm
+
+
+
+
+
+2 x QPSK (1/2) -95dBm
+
+
+
+
+
+2 x QPSK (3/4) -92dBm
+
+
+
+
+
+4 x 16QAM (1/2) -90dBm
+
+
+
+
+
+4 x 16QAM (3/4) -86dBm
+
+
+
+
+
+6 x 64 QAM (2/3) -83dBm
+
+
+
+
+
+6 x 64 QAM (3/4) -77dBm
+
+
+
+
+
+6 x 64QAM (5/6) -74dBm
+
+
+
+
+
+8 x 256QAM (3/4) -69dBm
+
+
+
+
+
+8 x 256 QAM (5/6) -65dBm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Firma del oferente
+
+
+
+
+
+________________________

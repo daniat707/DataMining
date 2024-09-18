@@ -1,0 +1,2548 @@
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+ESPECIFICACIONES TÉCNICAS
+Objeto de la contratación “ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y DE ALMACENAMIENTO
+
+PARA LA REPOTENCIACIÓN Y FORTALECIMIENTO DE LA
+INFRAESTRUCTURA TECNOLÓGICA DE LA UNIVERSIDAD ESTATAL DE
+BOLÍVAR”
+
+Unidad requirente
+
+Dirección de Tecnologías de la Información y Comunicación
+
+Fecha
+
+30/MAYO/2022
+
+1. ANTECEDENTES.
+
+La Universidad Estatal de Bolívar es una institución de Educación Superior que se inicia
+el 22 de octubre de 1977, gracias al auspicio económico del Consejo Provincial de
+Bolívar, la misma que funcionó como Extensión de la Universidad de Guayaquil, adscrita
+a la Facultad de Ciencias Administrativas, Escuela de Administración de Empresas
+Agroindustriales, siendo la primera carrera en crearse.
+El desarrollo académico alcanzado por la Extensión Universitaria de Guaranda fue
+reconocido por el CONUEP quien aprobó la creación de la Universidad Estatal de Bolívar
+(UEB) el 20 de junio de 1989, mediante decreto No 32 del H. Congreso Nacional con el
+Presidente Constitucional de la República del Ecuador en ese entonces Dr. Rodrigo
+Borja Cevallos, mediante Registro Oficial No 225, del 4 de julio de 1989.
+Las
+
+instituciones
+
+actualmente
+
+son
+
+fuertemente
+
+golpeadas
+
+económica
+
+y
+
+financieramente en el Ecuador, como también por la crisis que está viviendo el mundo
+entero a esto se suma la pandemia sanitaria ocasionada por la COVI-19 afectando la
+estabilidad económica del país, las TICs o tecnologías de la información nos han hecho
+más fácil la vida, en las instituciones han mejorado la conectividad, promoción y
+difusión de sus actividades.
+La Sociedad de la Información y del Conocimiento ha marcado drásticamente el
+desarrollo de las Instituciones Educativas, enfrentándose al más grande reto de formar
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+seres con amplios conocimientos en las áreas específicas pero acordes a la tecnología
+cambiante del medio.
+Constitución de la República del Ecuador:
+Art. 350.- “El sistema de educación superior tiene como finalidad la formación
+académica y profesional con visión científica y humanista; la investigación científica y
+tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas;
+la construcción de soluciones para los problemas del país, en relación con los objetivos
+del régimen de desarrollo”
+Art. 352.- “El sistema de educación superior estará integrado por universidades y
+escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y
+conservatorios de música y artes, debidamente acreditados y evaluados. Estas
+instituciones, sean públicas o particulares, no tendrán fines de lucro.
+La Función Ejecutiva no podrá privar de sus rentas o asignaciones presupuestarias, o
+retardar las transferencias a ninguna institución del sistema, ni clausuradas o
+reorganizarse de forma total o parcial”.
+Ley de Educación
+Art. 95 indica que:” La acreditación (…) es una validación académica de vigencia
+quinquenal realizada por el Consejo de Evaluación, Acreditación y Aseguramiento de la
+Calidad de la Educación Superior, para certificar la calidad de las instituciones de
+educación superior (…)”;
+
+El Estatuto de la Universidad Estatal de Bolívar refiere en su parte pertinente lo
+siguiente:
+Art. 121.- “Deberes y Atribuciones del Director de Tecnologías de la información y
+comunicación: Son las siguientes, de acuerdo a la competencia específica de cada área:
+b)
+Emitir informes técnicos de desarrollo de software, redes y telecomunicaciones; y,
+de aporte y mantenimiento;
+c)
+Desarrollar aplicaciones informáticas; para automatizar los procesos que permitan
+generar información confiable y actualizada para la toma de decisiones;
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+d)
+Proporcionar servicio de voz y datos (internet) a través de redes informáticas y de
+telecomunicaciones, para mejorar el sistema de comunicación institucional;
+f) Garantizar el funcionamiento óptimo de la infraestructura tecnológica institucional;
+g) Desarrollar proyectos de innovación tecnológica;
+h) Precautelar la vulnerabilidad de la información institucional;”.
+Ante las disposiciones que la Constitución de la República del Ecuador dispone, es
+importante señalar como un sector dentro de la sociedad ecuatoriana a la educación
+superior la que constantemente se innova por los avances científicos, globales y
+tecnológicos, además de que existe una demanda poblacional en crecimiento.
+Nuestra institución teniendo como finalidad el desarrollo del conocimiento, la ciencia,
+tecnología e innovación a través de la investigación, la docencia, la vinculación con la
+colectividad, ha permitido la formación de profesionales e investigadores con
+pensamiento crítico, de manera que contribuyan al mejoramiento de la producción
+intelectual.
+La universidad está en proceso de desarrollo, es así que las 5 Facultades, por los
+cambios exigidos por organismos competentes, el incremento en la población
+estudiantil y evidentemente en la docencia, considerando que la actual infraestructura
+tecnológica no es suficiente, se hace necesaria una repotenciación de nuestro data
+center.
+
+2. JUSTIFICACIÓN
+Hoy en día, las Tecnologías de Información y Comunicaciones (TIC) se han convertido en
+una herramienta de gran importancia en todos los campos de las distintas áreas del
+conocimiento. El surgimiento de las nuevas tecnologías ha cambiado en las personas la
+forma de trabajar, divertirse, relacionarse y hasta de aprender y cuidar su salud.
+La Universidad Estatal de Bolívar, quién evidencia la transformación de los procesos de
+enseñanza – aprendizaje está, por una parte, acorde a las normativas de las evaluaciones
+institucionales por parte del gobierno. El fortalecimiento de la infraestructura tecnología
+permitirá que la oferta académica que ofrece la UEB sea innovadora, permitiendo que
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+la comunidad evidencie los cambios significativos dando mayor credibilidad en la
+organización y la gestión de los procesos dentro de la misma.
+La Universidad en los actuales momentos está en proceso de desarrollo, es así que las
+5 Facultades, por los cambios exigidos por organismos competentes, el incremento en
+la población estudiantil y evidentemente en la docencia, considerando que la actual
+infraestructura tecnológica no es suficiente, se hace necesario una repotenciación y
+fortalecimiento de nuestro data center.
+
+3. OBJETIVO DE LA COMPRA
+
+3.1. Objetivo general
+
+Adquirir una solución tecnológica para la repotenciación y fortalecimiento de la
+
+infraestructura tecnológica de la Universidad Estatal de Bolívar
+3.2
+
+Objetivos específicos
+
+●
+
+Implementar una nueva arquitectura de servidores, definida por software, con
+funcionalidades de seguridad, gestión centralizada, capacidades de monitoreo en
+tiempo real.
+
+●
+
+Contar una infraestructura con garantía y soporte extendido por (3) años, que
+incluya el cambio de partes o reposición en casos de daños.
+
+●
+
+Contar con (3) mantenimientos anuales en cumplimiento el principio de vigencia
+tecnológica, que contribuye con la vida útil del bien, durante el periodo de
+vigencia de garantía.
+
+●
+
+Cumplir con la normativa NCI 410-08 Adquisiciones de infraestructura
+tecnológica, que menciona "La Unidad de Tecnología de información definirá,
+justificará, implantará y actualizará la infraestructura tecnológica de la
+organización para (…)", en concordancia con todos los aspectos ahí mencionados.
+
+●
+
+Fortalecer la infraestructura tecnológica de la universidad en función de las
+nuevas modalidades de educación.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+●
+
+Maximizar la disponibilidad de los servicios que presta la UEB mediante los
+sistemas de información.
+
+●
+
+Aplicar mecanismos de respaldos, para disponer de acceso a los mismos en caso
+de contingencia.
+
+4
+
+ESPECIFICACIONES TÉCNICAS
+
+La Universidad Estatal de Bolívar UEB., requiere adquirir el siguiente bien, por el
+contenido de su información como es:
+N°
+
+BIEN REQUERIDO
+
+DESCRIPCION O
+ESPECIFICACIONES TECNICAS
+DEL BIEN O SERVICIO
+
+1
+
+Unidades
+
+Sistema De
+Hiperconvergencia
+
+[Escriba texto]
+
+UNIDAD DE
+MEDIDA
+
+3 nodos del hardware* 6
+procesadores de 8 cores Total: 48 cores. * Cada nodo
+con 384 GB RAM, total del
+sistema 1.152GB de memoria
+RAM para el cluster. * Cada
+nodo con 1 disco de 7.68 TB
+SSD, 2 Disco HDD de 12TB
+cada uno, siendo un total de
+72TB completos con
+capacidad utilizable de 32TB
+de almacenamiento interno
+efectivo utilizable. * Cada
+nodo con 4 puertos Ethernet
+10G * Cada nodo con 1
+puerto Ethernet de mínimo
+1G UTP o superior para
+tráfico de Administración. *
+Cada nodo con un puerto de
+1G para administración fuera
+de banda * * Software de
+virtualización para 6
+procesadores. * Software de
+respaldo y replicación.
+
+CANTIDAD
+
+1
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+4.1 ESPECIFICACIONES TÉCNICAS DE LOS EQUIPOS
+CARACTERISTICAS GENERALES
+
+Ítem
+
+Descripción
+
+Especificación Requerida
+
+El proponente deberá incluir los catálogos o manuales para
+soportar técnicamente cada una de las respuestas.
+1
+Suministrar una solución, compuesta por recursos de computo,
+almacenamiento, gestión centralizada, software de
+hiperconvergencia de forma integrada homologada y
+preinstalada de fábrica que aproveche los componentes locales
+de cada unidad y cree una plataforma de Nube Privada
+distribuida con capacidad de crecimiento modular en el mismo
+clúster donde todas las funcionalidades estén basadas en el
+software y no dependan de un componente de hardware
+específico para su funcionamiento.
+2
+
+Características
+Generales
+
+El software de hiperconvergencia debe poder implementarse
+sobre diferentes fabricantes de hardware x86.
+
+3
+El software de hiperconvergencia debe poderse implementar
+sobre servidores con procesadores Intel.
+4
+El proponente deberá hacer entrega de la infraestructura
+mínima para el correcto funcionamiento de la solución ofertada.
+Esta deberá ser instalada y configurada correctamente por parte
+del Fabricante o el proponente con ingenieros debidamente
+certificados.
+5
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+6
+
+La solución ofertada debe incluir el hipervisor que permita la
+creación del ambiente virtual de la entidad. Este debe incluir el
+soporte y actualizaciones a nuevas versiones sin costo adicional
+durante el periodo de garantía. Tanto el hipervisor como el
+software de hiperconvergencia deben ser del mismo fabricante.
+El software de hiperconvergencia ofertado deberá estar
+calificado como líder en el cuadrante mágico de Gartner más
+reciente para infraestructura hiperconvergente (HCI MQ).
+
+7
+La solución debe incluir de forma nativa una arquitectura que
+provea a nivel de hardware y software un esquema de alta
+disponibilidad de tal forma que, ante la falla de un nodo, se
+mantenga operativo el clúster sin afectar el desempeño de las
+aplicaciones, este esquema no debe incorporar elementos que
+hagan la función de testigo (witness, quorum o similar).
+8
+La solución de hiperconvergencia debe estar en capacidad de
+consolidar diferentes servicios de storage como Servidores de
+Archivos y almacenamiento de data no estructurada
+9
+La solución de hiperconvergencia debe contar con la
+funcionalidad para el despliegue a través de un Wizard de
+Configuración, uno o varios Servidores de Archivos via NFS y
+SMB. Esta característica debe consistir en una o varias máquinas
+virtuales, combinadas en una instancia de servidor de archivos o
+clúster. Dentro de un único cluster de hiperconvergencia, se
+deben poder crear múltiples instancias de servidores de
+archivos.
+10
+La solución de Hiperconvergencia debe estar en capacidad de
+ofrecer una solución de almacenamiento de objetos. Este
+almacenamiento debe soportar la API de S3 para usos como
+Backup, retención a largo plazo, Big Data y DevOps.
+11
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+El oferente debe ser empresa autorizada para la distribución
+del sistema de hiperconvergencia ofertado. Se debe adjuntar
+certificado del fabricante para el proceso. No se admite
+certificados del distribuidor mayorista.
+12
+
+Características del Hipervisor
+Ítem
+
+Descripción
+
+Especificación Requerida
+La administración debe ser desde la misma consola de
+gestión de la solución de hiperconvergencia sin
+requerir la instalación de una consola o software
+adicional.
+
+1
+Debe ofrecer el servicio nativo para el manejo de
+imágenes y/o plantillas de máquinas virtuales
+disponibles para el hipervisor.
+2
+
+Características del
+Hipervisor
+
+Debe permitir la adición en caliente de recursos de
+memoria y capacidad de almacenamiento a una
+máquina virtual
+
+3
+Debe incluir las herramientas necesarias para ver
+todas las estadísticas funcionales y operacionales del
+cluster a nivel de máquina virtual.
+4
+Debe soportar alta disponibilidad para las máquinas
+virtuales y ante la caída de un nodo, las maquina
+virtuales se reinicien de forma automática en otro
+nodo.
+5
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+Debe soportar la compatibilidad automática entre
+diferentes generaciones de CPUs del mismo fabricante
+6
+Debe permitir la creación, clonación, borrado,
+protección mediante snapshots de máquinas virtuales
+7
+Debe permitir la definición de redes virtuales (SDN)
+mediante un switch virtual con soporte y mapeo de
+vlans, link aggregation, y visualización de estadísticas
+de red sobre los puertos físicos del switch TOR.
+8
+Debe permitir la migración en caliente de Máquinas
+virtuales en el cluster entre diferentes nodos
+9
+La solución hiperconvergente con su hipervisor, debe
+soportar las siguientes capacidades:
+10
+Proporcionar políticas de seguridad listas para usar,
+con el fin de automatizar los procesos de remediación
+frente a políticas de cumplimiento normativo
+comunes, como HIPAA, PCI-DSS, CIS, entre otros.
+11
+Debe tener mecanismos que detecten las
+vulnerabilidades de seguridad en tiempo real y
+automatizar las acciones necesarias para corregirlas.
+12
+
+CARACTERISTICAS DEL SOFTWARE DE HIPERCONVERGENCIA
+
+Ítem
+
+[Escriba texto]
+
+Descripción
+
+Especificación Requerida
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+La solución debe soportar al menos 3 diferentes tipos de
+hipervisores tales como VMware ESXi, Microsoft HyperV Server y/o una distribución basada en KVM.
+Igualmente debe estar soportada la instalación del
+software en instancias de nube pública como AWS.
+1
+El sistema hiperconvergente debe llevar a cabo las tareas
+de compresión y de duplicación completamente en
+software sin requerir el uso de ninguna tarjeta PCI ni
+dispositivo de hardware especializado para esta labor.
+2
+
+3
+
+CARACTERÍSTICAS DEL
+SOFTWARE
+DE
+HIPERCONVERGENCIA
+
+Las funcionalidades de compresión y de duplicación
+deben poder activarse o desactivarse por parte del
+administrador del sistema ya sea que ambas estén
+activas o solo una de las dos en el clúster.
+
+La solución debe poder ejecutar tareas de compresión a
+lo largo de todo el clúster y no limitadas al contenido de
+los discos de cada nodo.
+4
+El sistema de hiperconvergencia debe contar con
+mecanismos de eficiencia de espacio como,
+Compression y deduplication que se ejecuten en
+software tanto para clúster con almacenamiento
+hibridos (SSD y HDD) como para clusters de
+almacenamientos de solo estado sólido indistintamente.
+5
+En el mismo cluster se debe poder mezclar nodos con
+distintos tipos de almacenamiento (hibrido y solo estado
+sólido)
+6
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+La solución debe soportar Windows Guest Failover
+Clustering, funcionalidad que permite alta disponibilidad
+para las aplicaciones configuradas en cluster en una VM
+(Con sistema operativo Windows Server 2008, Windows
+Server 2012 R2 o Windows Server 2016) para que
+transparentemente realice el failover hacia otra VM
+ubicada en el mismo o en diferente host.
+
+7
+8
+
+Debe poder instalarse en el mismo cluster, nodos con:
+
+Diferentes configuraciones de CPU (número de cores
+y diferentes generaciones de procesador).
+9
+10
+
+-
+
+Diferente tamaño de RAM
+
+Diferente capacidad de almacenamiento y tipo
+(hibrido con discos rotacionales y de estado sólido, como
+también nodos con almacenamiento todo de solo estado
+sólido)
+11
+Todas las tecnologías de Alta Disponibilidad (HA) deben
+funcionar tal como fueron diseñadas aún con clúster
+heterogéneos.
+12
+La solución debe permitir agregar nodos solamente de
+capacidad de almacenamiento sin agregar
+simultáneamente capacidad de cómputo al clúster.
+13
+La solución debe permitir agregar discos de diferente
+tipo (rotacionales y/o estado sólido) con diferente
+capacidad en cada nodo.
+14
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+La solución debe incluir la funcionalidad de replicación
+asincrónica nativa de datos (sin requerir la instalación
+de software adicional) que cumpla con los siguientes
+requerimientos básicos:
+15
+16
+
+- Replicación bidireccional entre dos centros de datos.
+
+- Soporte para integrar la solución con el servicio VSS
+(Volume Shadow Copy Service) de Microsoft.
+17
+- Replicar máquinas virtuales entre dos hipervisores
+diferentes convirtiendo la máquina virtual de un
+hipervisor a otro de forma automática
+18
+La solución hiperconvergente debe soportar
+autenticación de dos factores para la consola gráfica de
+administración a través del método de Common Access
+Card (CAC) de manera nativa
+19
+El fabricante debe documentar las mejores prácticas de
+seguridad para su plataforma HCI y debe ponerlas a
+disposición de sus clientes.
+20
+El software de hiperconvergencia debe contar como
+mínimo con las siguientes certificaciones de seguridad:
+EAL2 Common Criteria, FIPS 140-2 Compliant,
+NISTSP800-131A, NSA Suite B, Section 508 VPAT y Trade
+Agreements Act (TAA compliant).
+21
+El sistema hiperconvergente
+mecanismo de snapshot que :
+
+debe
+
+proveer
+
+un
+
+22
+Haga uso de la técnica Redirect-on-Write para la
+eficiencia de espacio
+23
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+Sea independiente de cualquier funcionalidad de
+snapshot heredada del hipervisor.
+24
+El sistema debe ofrecer la capacidad de mantener
+consistente la replicación de un grupo de volúmenes y/o
+máquinas virtuales de tal manera que los snapshot se
+tomen en el mismo punto en el tiempo. La detención de
+la réplica de uno de los volúmenes o Máquinas virtuales
+en el grupo de consistencia debe detener la réplica de
+todo el grupo.
+25
+El sistema debe proveer la capacidad de programar la
+toma periódica de snapshots a máquinas virtuales, sin
+depender de funcionalidades heredadas del hipervisor
+26
+El sistema debe soportar la creación de un disco virtual
+cuya capacidad es mayor a la capacidad disponible en el
+nodo en que reside. Todas las tecnologías de Alta
+Disponibilidad y protección de datos con que cuente la
+solución deben estar disponibles para un disco virtual
+con ésta característica.
+27
+El sistema debe hacer que todos los SSD instalados estén
+disponibles como medio de almacenamiento primario, y
+no solamente para almacenar metadatos o para hacer
+cache
+28
+
+CARACTERISTICAS DE ADMINISTRACION DE HIPERCONVERGENCIA
+Ítem
+
+[Escriba texto]
+
+Descripción
+
+Especificación Requerida
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+1
+
+La solución debe entregar el detalle a nivel de disco
+virtual, como mínimo las siguientes estadísticas:
+Latencias de escritura y lectura, IOPS de escritura y
+lectura, cantidad de datos leídos de cache, cantidad
+de datos leídos de SSD, cantidad de datos leídos de
+HDD, cantidad de datos activos (Working Set) y el
+porcentaje de I/O aleatorio (no secuencial). Esta
+información debe estar disponible sin requerir la
+instalación de ningún componente adicional del
+mismo fabricante o de terceros
+
+2
+
+La solución deberá proporcionar un mecanismo de
+actualización del software de la infraestructura
+completa del cluster (servicios de storage, firmware
+de los nodos, versión de BIOS e hipervisor)
+directamente desde la consola web y de forma no
+disruptiva, es decir, sin necesidad de reinicio de las
+máquinas virtuales ni indisponibilidad del servicio.
+
+3
+
+CARACTERISTICAS DE
+ADMINISTRACION
+DE HIPERCONVERGENCIA
+
+La solución también debe soportar integración
+mediante el uso de REST API a otra solución de
+administración para facilitar la integración con
+ambientes de monitoreo actuales.
+
+4
+
+La solución debe proveer un mecanismo para ingresar
+un nodo en modo de mantenimiento, modo en el que
+se debe preservar no sólo la disponibilidad de los
+datos sino asegurar la redundancia configurada para
+los datos desde el mismo momento en que el nodo
+queda
+en
+modo
+mantenimiento.
+Este
+comportamiento se debe mantener incluso si el
+clúster sólo tiene 3 nodos.
+
+5
+
+La solución debe proporcionar una herramienta que
+pueda generar - gráficamente - un mapa de los
+componentes de infraestructura que conforman la
+solución HCI.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+6
+
+La solución debe incluir una funcionalidad que
+automática y periódicamente haga una revisión al
+estado de salud de todos los componentes tanto de
+hardware como de software del clúster y entregue un
+reporte detallado para la resolución de problemas
+
+7
+
+La solución debe incorporar una tecnología estándar
+en la industria para ejecutar chequeos de integridad
+de los datos, y no debe proveer ninguna opción para
+que un usuario o administrador deshabilite ésta
+funcionalidad.
+
+8
+
+En la solución no debe haber puntos únicos de falla
+en la capa de administración de la solución, todos los
+nodos en el sistema deben tener un modulo de
+software nativo en el sistema hiperconvergente que
+permita hacer la administración centralizada de todo
+el cluster. Esta funcionalidad no debe implicar
+configuraciones adicionales a la del sistema.
+
+9
+
+La solución debe incluir una funcionalidad que
+notifique automáticamente al fabricante acerca de
+condiciones de error de manera proactiva
+
+10
+
+La solución debe incluir una función que permita al
+grupo de TI crear tareas automatizadas para acciones
+de remediación o troubleshooting, basadas en alertas
+a través de un Wizard de Configuración.
+
+11
+
+La solución debe incluir un catálogo de acciones que
+se inicien automáticamente, ante la activación de una
+alerta específica. Por ejemplo, esta funcionalidad
+debe ante una alerta de recursos de una VM, tener la
+opción de aumentar dichos recursos, generar una
+notificación via Slack, Servicenow y ejecutar una
+acción usando
+(Powershell/SSH) en la VM.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+Especificación
+Requerida
+Ítem
+
+Descripción
+REQUISITOS A CUMPLIR POR EL OFERENTE DEL SISTEMA
+HYPERCONVERGENTE
+
+1
+
+El oferente debe adjuntar certificado de ser un distribuidor
+autorizado de la solución de hiperconvergencia ofertado.
+Adjuntar certificado directo del fabricante que demuestre lo
+solicitado no se requiere certificado del distribuidor
+mayorista.
+
+SI
+
+2
+
+Los equipos y sus componentes de toda la solución ofertada
+deben ser ofertados por un integrador autorizado y deben
+ser nuevos de fábrica, NO deben ser reconstruidos, NO
+“REFURBISHED” Y NO “REBUILDERS”. Adjuntar certificado
+directo del fabricante que demuestre lo solicitado.
+
+SI
+
+Deben incluir 3 años de garantía de fábrica.
+
+3
+
+Se debe referenciar el cumplimiento de cada uno de los
+requisitos solicitados en las especificaciones técnicas para
+dar fiel cumplimiento a lo solicitado.
+
+SI
+
+4
+
+El oferente debe contar con un sistema de tickets en su página
+web de tal manera que facilite la apertura de casos.
+
+SI
+
+INSTALACIÓN Y CONFIGURACIÓN
+
+5
+
+El oferente debe realizar la instalación, configuración del
+sistema hiperconvergete ofertado y especificado en Las
+especificaciones técnicas.
+
+SI
+
+6
+
+El oferente debe reutilizar los equipos existentes
+(servidores) para realizar la instalación, configuración y la
+integración con el sistema hiperconvergente para tener
+
+SI
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+respaldos y replicación de los datos en un data center
+alterno
+
+7
+
+El oferente debe brindar una capacitación presencial o
+virtual de 40 horas para 7 técnicos y distribuidos de la
+siguiente forma: 15 horas del sistema de hiperconvergencia,
+15 horas del sistema de virtualización y 10 horas del sistema
+de respaldos, de ser necesario se solicitará mayor tiempo de
+capacitación.
+
+SI
+
+CARACTERISTICAS DE SOPORTE A CONTENEDORES
+Ítem
+
+Descripción
+
+Especificación Requerida
+
+1
+
+La solución de hiperconvergencia debe contar con un
+plugin validado para proveer almacenamiento
+persistente nativo para Docker, listado como Docker
+Volume Plugin en Docker Hub.
+
+2
+
+La solución debe proveer un driver compatible con el
+estándar CSI (Container Storage Interface) soportado
+por Kubernetes 1.9 o superior, y que incluya las
+siguientes funcionalidades:
+Raw Block
+Snapshot
+Expansion
+Cloning
+
+CARACTERISTICAS DE
+SOPORTE
+A CONTENEDORES
+
+3
+
+[Escriba texto]
+
+La solución de hiperconvergencia debe contar, de
+manera nativa y sin la adquisición de software o
+productos adicionales del fabricante o de terceros, con
+una funcionalidad para automatizar la gestión del ciclo
+de vida de clusters Kubernetes nativos y con
+compatibilidad upstream completa.
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+CARACTERISTICAS DEL HARDWARE DE HIPERCONVERGENCIA
+item
+
+Descripción
+
+Especificación Requerida
+
+1
+
+CARACTERÍSTICAS DEL
+HARDWARE
+DE HIPERCONVERGENCIA
+
+- El hardware debe contar con un software administrador
+nativo que se integre a la perfección a los nodos, para
+ofrecer agilidad definida por software con una interfaz de
+usuario optimizada, a partir de secuencias de comandos
+o desde propias aplicaciones de IT.
+
+2
+
+El software administrador nativo debe permitir
+completar tareas críticas más rápido y de forma sencilla y
+centralizada desde una interfaz gráfica de usuario (GUI)
+controlada mediante una consola.
+
+3
+
+La solución debe estar compuesta por mínimo 3
+nodos, cada uno de máximo 1 o 2 unidades de Rack, con
+los siguientes componentes:
+
+4
+
+Cada nodo debe contar con mínimo 2 procesadores
+de Intel Xeon Gold 5315Y, de 3.2GHz 8C o superior.
+
+5
+
+Cada nodo debe contar como mínimo con 384 GB
+de memoria RAM, en total, todo el sistema debe contar
+como mínimo con 1.152GB de memoria RAM.
+
+6
+
+El clúster de mínimo 3 nodos, cada nodo con 2
+Disco HDD de 12TB cada uno, siendo un total de 72TB
+completos con capacidad utilizable de 32TB de
+almacenamiento interno efectivo utilizable
+
+7
+Cada nodo debe tener mínimo 1 disco SSD de
+7.68 TB.
+8
+
+[Escriba texto]
+
+Cada nodo debe contar con 1 tarjetas de red con 4
+puertos Ethernet 10G GRJ45 debe incluir los cables y
+conectores para conexión con los puertos del switch
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+9
+
+Cada nodo debe contar con 1 puerto Ethernet de
+mínimo 1G UTP o superior para tráfico de
+Administración.
+
+10
+
+Cada nodo debe contar con un puerto de 1G para
+administración fuera de banda
+
+11
+
+La plataforma de hardware deberá tener un soporte
+de mínimo 3 años en modalidad 8x5xNBD y a nivel de
+software debe tener un soporte 24x7x4 durante 3 años.
+
+El oferente debe ser empresa autorizada para la
+distribución del hardware de hiperconvergencia
+ofertado. Se debe adjuntar certificado emitido del
+fabricante para el proceso. No se admiten certificados
+del distribuidor mayorista.
+12
+
+VIRTUALIZACION (HIPERVISOR)
+item
+
+Descripción
+
+Especificación Requerida
+
+1
+
+VIRTUALIZACIÓN
+(HIPERVISOR)
+
+El software de virtualización debe incluir las licencias
+necesarias para todos los procesadores de los nodos
+hiperconvergentes ofertados. Indicar marca ofertada.
+
+2
+
+El Hipervisor debe permitir la creación de switches
+virtuales estándar para el manejo de redes virtuales
+dentro de cada nodo.
+
+3
+
+El Hipervisor debe disponer de funcionalidades de alta
+disponibilidad, y migración de máquinas virtuales en
+caliente entre nodos.
+
+4
+
+El hipervisor deberá soportar sistemas operativos de 32
+y 64 bits: Windows Server 2003 o superior, Ubuntu
+10.04 o superior,
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+5
+
+La solución deberá incluir una consola de administración
+centralizada para la gestión del clúster de virtualización
+de la misma marca del hipervisor ofertado, que permita
+administrar el hipervisor incluido con la solución
+ofertada.
+
+BACKUP Y REPLICACIÓN PARA AMBIENTES VIRTUALIZADOS
+A continuación, se detallan los requisitos mínimos necesarios del producto de Backup y
+Replicación para Virtualización solicitado.
+
+BACKUP Y REPLICACIÓN PARA AMBIENTES VIRTUALIZADOS
+Ítem
+
+Descripción
+
+Especificación Requerida
+
+1
+
+La solución deberá incluir funcionalidades de respaldo (backup) y
+replicación integradas en una única solución; incluyendo vuelta
+atrás (rollback) de réplicas y replicación desde y hacia la
+infraestructura virtualizada.
+
+2
+
+La solución no deberá necesitar de la instalación de agentes para
+poder realizar sus tareas de respaldo, recuperación y replicación
+de máquinas virtuales.
+
+3
+
+BACKUP Y
+REPLICACIÓN
+PARA
+AMBIENTES
+VIRTUALIZADO
+S
+
+Deberá poder realizar respaldos sin detener las máquinas
+virtuales, y sin generar una merma en su performance, facilitando
+las tareas de respaldo (backup) y migraciones en conjunto.
+
+4
+
+Deberá ser capaz de comprender las máquinas virtuales como
+objetos del entorno virtual y respaldar las configuraciones de las
+mismas, al margen de los datos propios de las maquinas.
+
+5
+
+Deberá ser capaz de respaldar de forma indistinta una máquina
+virtual completa o discos virtuales específicos de una máquinas
+virtual.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+6
+
+Deberá proveer una herramienta de gestión de archivos para los
+administradores de máquinas virtuales en la consola del
+operador.
+
+7
+
+Deberá ser una solución altamente eficaz y preparada para el
+futuro integrándose en forma extensiva, con las APIs de los
+fabricantes de infraestructura virtualizada, para la protección de
+datos.
+
+8
+
+Deberá poder realizar respaldos (backup) incrementales ultra
+rápidos aprovechando la tecnología de seguimiento de bloques
+de disco modificados (changed block tracking) reduciendo al
+mínimo el tiempo de respaldo (backup) y posibilitando un
+respaldo (backup) y una replicación más frecuente. De este modo
+logrando lo establecido respecto de la merma de performance.
+
+9
+
+La solución deberá ofrecer múltiples estrategias y opciones de
+transporte de datos para las tareas de respaldo (backup) a saber:
+
+10
+
+·
+
+11
+
+·
+Directamente desde el storage a través del Hypervisor I/O
+(Virtual Appliance).
+
+12
+
+·
+
+13
+
+·
+Directamente de instantánea, con al menos tres fabricantes
+de sistemas de almacenamiento.
+
+14
+
+Deberá proporcionar un control centralizado del despliegue
+distribuido, para esto deberá incluir una consola web que provea
+una vista consolidada de su despliegue distribuido y federación de
+múltiples servidores de respaldo (backup), informes
+centralizados, alertas consolidadas y restauración de auto servicio
+de máquinas virtuales y a nivel de sistema de archivos (granular),
+con asignación de permisos sobre máquinas virtuales
+individuales.
+
+[Escriba texto]
+
+Directamente a través de Storage Área Network (SAN).
+
+Mediante el uso de la red local (LAN).
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+15
+
+Deberá poder mantener un respaldo (backup) completo sintético
+eliminando así la necesidad de realizar respaldo (backup)
+completos (full) periódicos ya que proporcionará un respaldo
+(backup) incremental permanente con lo que se permita ahorrar
+tiempo y espacio.
+
+16
+
+Deberá contar con la tecnología de duplicación para lograr un
+ahorro de espacio de almacenamiento para los respaldo (backup).
+
+17
+
+Deberá proporcionar protección casi continúa de datos
+(nearCDP), que permita la reducción de los puntos objetivos de
+recuperación (RPO) sean mínimos.
+
+18
+
+Deberá proveer una estrategia de recuperación rápida que
+permita proveer/devolver el servicio a los usuarios casi
+inmediatamente y en forma sencilla. Dicha estrategia debe
+consistir en el inicio y encendido de la máquina virtual, que haya
+fallado, directamente desde el archivo de respaldo (backup) en el
+almacenamiento habitual del respaldo (backup).
+
+19
+
+La recuperación instantánea de las máquinas virtuales, deberá
+permitir más de una máquina virtual y/o punto de restauración
+en simultáneo para la disponibilidad del punto de recuperación
+funcional, permitiendo así, tener múltiples puntos en el tiempo
+de una o más máquinas virtuales funcionando.
+
+20
+
+Posterior a una recuperación rápida, se deberá poder realizar una
+restauración total sin interrupciones del servicio. La herramienta
+debe asegurar que el trabajo realizado por los usuarios no estará
+afectada al migrar sus máquinas virtuales desde el respaldo
+(backup) hasta el almacenamiento de producción.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+21
+
+Se deberá proveer la capacidad realizar restauraciones completas
+del respaldo (backup) de cualquier máquina virtual dentro de una
+ventana de mantenimiento mínima, permitiendo completar los
+procesos de recuperación en suspensiones del servicio más cortas
+y menos frecuentes. La estrategia deber consistir en replicar o
+realizar una copia en caliente del respaldo (backup) de la máquina
+virtual que se encuentra en un almacenamiento de duplicado al
+almacenamiento en producción donde la máquina virtual ejecuta.
+
+22
+
+Deberá poseer una opción de recuperación instantánea de
+archivos que se encuentren dentro de los respaldos (backup) y
+replicaciones de las máquinas virtuales. Lo que debe permitir
+acceder a los contenidos de los discos virtuales de dichas
+máquinas sin necesidad de recuperar el respaldo (backup)
+completo y reiniciar desde el mismo la máquina virtual.
+
+23
+
+Deberá incluir un asistente para la recuperación instantánea a
+nivel de archivos en los sistemas de archivos más utilizados de
+Windows, Linux, Solaris, BSD o MacOS (Por lo menos 15 de ellos).
+
+24
+
+Deberá poder crear un índice (catálogo) de todos los archivos que
+sean manejados por el sistema operativo Windows, cuando este
+sea el sistema operativo que ejecute dentro de una máquina
+virtual del que se ha realizado un respaldo (backup).
+
+25
+
+Deberá poder realizar búsquedas rápidas mediante índices de los
+archivos que sean manejados por un sistema operativo Windows,
+cuando este sea el sistema operativo que ejecute dentro de una
+máquina virtual del que se ha realizado un respaldo (backup).
+
+26
+
+Deberá asegurar la consistencia de aplicaciones transaccionales
+en forma automática por medio de la Integración con Microsoft
+VSS, dentro de sistemas operativos Windows.
+
+27
+
+Deberá poder realizar el truncado de las bitácoras
+transaccionales (Transaction logs) para máquinas virtuales con
+Microsoft Exchange, SQL Server, Oracle sin uso de agentes.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+28
+
+Deberá poder realizar notificaciones por correo, SNMP o a través
+de los atributos de la máquina virtual del resultado de la ejecución
+de sus trabajos.
+
+29
+
+Se deberá poder recuperar a nivel de objetos de cualquier
+aplicación virtualizada, en cualquier sistema operativo, utilizando
+las herramientas de gestión de aplicaciones existentes.
+
+30
+
+Deberá incluir herramientas de fácil recuperación guiada,
+mediante la cual los administradores de servidores de correo,
+tales como Microsoft Exchange versión 2007, 2010 y 2013,
+puedan recuperar objetos individuales, tales como correos
+electrónicos y contactos, sin necesidad de recuperar los archivos
+de la máquina virtual como un todo y reiniciar la misma.
+
+31
+
+Deberá incluir herramientas de fácil recuperación guiada
+mediante el cual los administradores de servidores de servicio de
+directorio, tales como, Microsoft Active Directory, pueden utilizar
+para recuperar objetos individuales, tales como usuarios, grupos,
+directivas de grupos (GPO), registros de DNS, particiones de
+configuración. Sin necesidad de recuperar los archivos de la
+máquina virtual como un todo y reiniciar la misma.
+
+32
+
+Deberá incluir herramientas de fácil recuperación guiada
+mediante el cual los administradores de servidores de bases de
+datos Microsoft SQL Server, puedan recuperar objetos
+individuales, tales como tablas y registros. Sin necesidad de
+recuperar los archivos de la máquina virtual como un todo y
+reiniciar la misma
+
+33
+
+Deberá incluir herramientas de fácil recuperación guiada
+mediante el cual los administradores de servidores de bases de
+datos Oracle, puedan recuperar base de datos. Sin necesidad de
+recuperar los archivos de la máquina virtual como un todo y
+reiniciar la misma
+
+34
+
+Deberá ofrecer visibilidad instantánea, capacidades avanzadas
+de búsqueda y recuperación rápida de elementos individuales
+para Sharepoint 2010 sin la utilización de agentes.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+35
+
+Deberá incluir herramientas de fácil recuperación de elementos
+granulares de Microsoft Exchange 2010 en adelante, que no
+requiera inicializar la máquina virtual desde el respaldo y que
+pueda ser extraído en frio. (Ej. Correo, Citas de calendario,
+contactos, etc) y sin requerir infraestructura intermedia
+(“Staging”)
+
+36
+
+Deberá poder ofrecer confiabilidad en un 100% en el inicio
+correcto de todas sus máquinas virtuales respaldadas y en el
+funcionamiento del rol que cumple dichas máquinas virtuales
+(DNS Server, Domain Controller, Mail Server, SQL Server,Oracle,
+etc) al momento de la recuperación.
+
+37
+
+Deberá poder crear una copia de trabajo del entorno de
+producción de cualquier estado anterior para la resolución de
+problemas, pruebas de procedimientos, capacitación, etc.
+ejecutando una o varias máquinas virtuales desde el archivo de
+respaldo (backup) en un entorno aislado, sin necesidad de más
+espacio de almacenamiento y sin modificar el respaldo (backup).
+
+38
+
+Deberá ofrecer la posibilidad de restaurar máquinas virtuales
+desde instantáneas de SAN de HPE (HP StoreVirtual VSA,
+LeftHand/P4000 y StoreServ 3PAR)
+
+39
+
+Deberá ofrecer la posibilidad de restaurar máquinas virtuales
+desde instantáneas de SAN de EMC (VNX,VNX2, VNXe)
+
+40
+
+Deberá ofrecer la posibilidad de restaurar máquinas virtuales
+desde instantáneas de SAN de Netapp (FAS, FlexArray (VSeries), Edge VSA and IBM N Series (NetApp FAS OEM))
+
+41
+
+Deberá ofrecer capacidad de recuperación granular de
+aplicaciones Directorio Activo, SQLServer, Exchange Server,
+Sharepoint, Oracle y de archivos de sistemas operativos desde
+instantáneas de SAN de los siguientes fabricantes:
+
+42
+
+a.
+HPE (HP StoreVirtual VSA, LeftHand/P4000 y StoreServ
+3PAR)
+
+43
+
+b.
+
+[Escriba texto]
+
+EMC (VNX,VNX2, VNXe)
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+44
+
+c.
+Netapp (FAS, FlexArray (V-Series), Edge VSA and IBM N
+Series (NetApp FAS OEM))
+
+45
+
+Deberá ofrecer el archivado en cinta, soportando VTL (Virtual
+Tape Libraries), biblioteca de cintas y drives independientes.
+
+46
+
+Deberá ofrecer Trabajos de Copia de Backup con implementación
+de políticas de retención.
+
+47
+
+Deberá ofrecer Aceleración de red “WAN” integrada y conseguir
+una copia en sitio remoto a través de la red “WAN” optimizada y
+rápida, sin el uso de agentes ni configuraciones de red especiales
+en alguna de sus versiones.
+
+48
+
+Deberá incluir Respaldos desde snapshots de almacenamiento de
+HP StoreVirtual VSA, HP StoreVirtual LeftHand, HP StoreServ
+3PAR reduciendo al mínimo el impacto en el entorno de
+producción o máquinas virtuales en ejecución.
+
+49
+
+Deberá incluir Respaldos desde snapshots de almacenamiento de
+NetApp, línea FAS, reduciendo al mínimo el impacto en el entorno
+de producción o máquinas virtuales en ejecución.
+
+50
+
+Deberá incluir Respaldos desde snapshots de almacenamiento de
+EMC, líneas VNX y VNXe, reduciendo al mínimo el impacto en el
+entorno de producción o máquinas virtuales en ejecución.
+
+51
+
+Deberá incluir soporte para Vmware vCloud Director con
+visibilidad integrada de la infraestructura vCD en la consola de
+backup, haciendo backup de metadatos y los atributos asociados
+con vApps y VMs permitiendo la recuperación directamente a
+vCD.
+
+52
+
+Deberá incluir un Plug-in VMware para vSphere Web Client y
+poder monitorear la infraestructura de backup directamente
+desde el vSphere Web Client, con vistas detalladas y generales del
+estado de los trabajos y recursos de backup.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+53
+
+Deberá soportar las últimas versiones disponibles de los
+hipervisores más populares de mercado a la fecha: VMWare
+vSphere y Microsoft Hyper-V en todas las versiones soportadas
+por el fabricante respectivo.
+
+54
+
+No deberá requerir hardware específico para alcanzar la
+deduplicación y compresión de la información fuera de los
+requerimientos estándar de cualquier software, y específicos
+para el caso.
+
+55
+
+No deberá requerir licencias independientes para las actividades
+de respaldo, recuperación y replicación.
+
+56
+
+No deberá requerir licencias independientes para el respaldo y
+recuperación granular guiada y consistente de software:
+
+57
+
+a.
+
+Microsoft Active Directory
+
+58
+
+b.
+
+Microsoft Exchange Server 2010 en adelante.
+
+59
+
+c.
+
+Microsoft SQL Server 2008 en adelante
+
+60
+
+d.
+
+Oracle Database 11.x y superior para Windows / Linux
+
+61
+
+e.
+
+Microsoft Sharepoint 2010 en adelante.
+
+62
+
+Deberá permitir la recuperación granular sin necesidad de montar
+ambientes temporales para:
+
+63
+
+a.
+
+Microsoft Active Directory 2008 R2 en adelante
+
+64
+
+b.
+
+Microsoft Exchange Server 2010 en adelante.
+
+65
+
+c.
+
+Microsoft SQL Server 2005 en adelante
+
+66
+
+d.
+
+Oracle Database 11.x y superior para Windows / Linux
+
+67
+
+e.
+
+Microsoft Sharepoint 2010 en adealnte.
+
+68
+
+Deberá ofrecer aceleración de enlaces WAN para la réplica en
+alguna de sus versiones.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+69
+
+Deberá ser capaz de realizar replicas en otros sitios o
+infraestructuras desde los respaldos realizados.
+
+70
+
+Es necesario que ofrezca la posibilidad de regular de forma
+dinámica e parametrizable la exigencia sobre los sistemas
+respaldados, de forma tal, que se puedan definir umbrales de
+performance en discos para regular el impacto sobre la
+plataforma productiva.
+
+71
+
+Deberá presentar un método fácil de recuperación hacia
+ambientes de contingencia, con las acciones pre-configuradas
+para evitar acciones manuales en caso de desastre, similar a un
+botón de emergencia.
+
+72
+
+Deberá ofrecer la posibilidad de almacenar los respaldos de forma
+encriptada, así como asegurar el tránsito de la información bajo
+este esquema.
+
+73
+
+Deberá permitir la delegación de tareas de recuperación, a nivel
+de elementos de aplicación, hacia otros usuarios, de forma tal a
+poder descargar la cantidad de maniobras a ejecutar por el
+administrador de la plataforma.
+
+74
+
+Deberá disponer de funcionalidades integradas que permitan la
+selección de un destino de almacenamiento de respaldos que
+pueda estar alojado en un proveedor de servicios en la nube
+(BaaS).
+
+75
+
+Deberá disponer de funcionalidades integradas que permitan la
+selección de un destino de replica que pueda estar alojado en un
+proveedor de servicios en la nube (DRaaS).
+
+76
+
+Deberá disponer la funcionalidad de generar un almacenamiento
+de backup global, el cual puede incluir varios y distintos tipos de
+Storage, y apuntar los trabajos de backup al mismo como si fuese
+uno, permitiendo también el crecimiento a gran escala del mismo
+sin impacto sobre el ambiente de backup ya configurado.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+77
+
+Deberá integrar una solución unificada de monitoreo y reporteria
+de ambientes virtuales y respaldos de forma de poder corelacionar ambas infraestructuras, las alarmas y reportes.
+
+78
+
+Deberá ofrecer un conjunto de reportes capaces de presentar
+información de tipo:
+
+79
+
+a.
+
+80
+
+b.
+Reportes que permitan la determinación de inefectividad en
+el uso de recursos.
+
+81
+
+c. Reportes que faciliten la visibilidad de tendencias negativas y
+anomalías.
+
+82
+
+d. Tableros de control claros, presentables e integrables en sitios
+web.
+
+83
+
+Deberá poseer la capacidad de generar segregación de acceso
+según el perfil del usuario, al monitoreo de la infraestructura
+conectada a la plataforma.
+
+84
+
+Reportes que permitan la planificación de la capacidad.
+
+Deberá co-relacionar la ejecución de trabajos de respaldo y
+replica con los objetos del entorno virtual.
+
+85
+
+Deberá ofrecer la capacidad de reportar el cumplimiento de
+políticas de protección de datos y disponibilidad acorde a
+parámetros definidos.
+
+86
+
+Deberá poseer base de conocimiento integrada en las alarmas,
+aunque también debe soportar la personalización de las alarmas
+y descripciones de base de conocimiento.
+
+87
+
+Poseer un único número de parte, según la versión o edición,
+provisto por el fabricante para la adquisición del paquete de
+software que incluya todas las funcionalidades arriba
+mencionadas.
+
+88
+
+El oferente debe realizar la instalación y configuración de backup
+y replicación en el data center alterno.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+SWITCH DE PROPÓSITO ESPECIFICO PARA DATA CENTER
+item
+
+Descripción
+
+Especificación Requerida
+
+1
+
+Cantidad
+
+Se debe ofertar 2 switch de datacenter necesario para la
+interconexión de los nodos hiperconvergentes.
+
+2
+
+Marca
+
+Especificar
+
+3
+
+Modelo
+
+Especificar
+
+4
+
+Fabricación
+
+El equipo debe ser nuevo de fábrica, no remanufacturado.
+
+Factor de forma
+
+1UR
+
+Numero de puertos
+totales
+
+24 x 10 Gig SFP
+
+5 ***
+6
+
+7
+8
+
+6 x 40/100 Gig QSFP28
+
+Switching capacity
+
+>= 1.68 Tbps
+
+9
+
+Puertos 10 Gbps SFP
+
+>=24
+
+10
+
+IP routing
+
+Static routes, RIP v1/2, RIPng, OSPF, OSPFv3, IS-IS, IS-ISv6, BGP, BGP4+,
+ECMP, routing policy
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+11
+
+QoS/ACL
+
+Rate limiting in the inbound and outbound directions of a port
+Packet redirection
+Port-based traffic policing and two-rate three-color CAR
+Eight queues on each port
+DRR, SP, and DRR+SP queue scheduling algorithms
+WRED
+Re-marking of the 802.1p and DSCP fields of packets
+Packet filtering at Layer 2 to Layer 4, filtering out invalid frames based on the
+source MAC address, destination MAC address, source IP address, destination IP
+address, TCP/UDP source/destination port number, protocol type, and VLAN ID
+Queue-based rate limiting and shaping on ports
+
+12
+
+Security
+
+Hierarchical user management and password protection
+DoS attack defense, ARP attack defense, and ICMP attack defense
+Binding of the IP address, MAC address, port number, and VLAN ID
+Port isolation, port security, and sticky MAC
+MAC Forced Forwarding (MFF)
+Blackhole MAC address entries
+Limit on the number of learned MAC addresses
+IEEE 802.1X authentication and limit on the number of users on a port
+
+13
+
+Garantía
+
+Garantía técnica del fabricante por 3 años en modalidad 24x7.
+
+14
+
+Instalación
+
+15
+
+Varios
+
+La instalación se deberá realizar en las instalaciones del datacenter
+de la institución.
+Para la Instalación el oferente debe incluir en su oferta 2 tarjetas de
+fibra óptica 10G base R para la conexión con el FortiGate 2000 E, el
+oferente debe ser el responsable de la integración entre el firewall
+con el sistema de hiperconvergencia que quede listo para su
+utilización a entera satisfacción de la entidad.
+El oferente debe ser una empresa autorizada para la distribución,
+instalación, configuración y soporte técnico de los switch TOR
+ofertado. Se debe adjuntar certificados emitidos por la marca,
+distribuidores y mayoristas
+
+5
+
+PLAZO DE EJECUCIÓN: PARCIALES Y/O TOTAL
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+El plazo será de 120 días, contados a partir de la entrega del anticipo.
+
+6
+
+REQUISITOS MÍNIMOS
+
+6.1 EQUIPO MÍNIMO
+2 laptops, core i7, 8 RAM, como herramienta para la configuración
+
+6.2 PERSONAL TÉCNICO MÍNIMO
+No.
+
+1
+
+2
+
+FUNCIÓN
+
+Gestor del Proyecto
+
+Ingeniero de
+implementación de
+Infraestructuras de
+
+NIVEL DE ESTUDIOS TITULACIÓN ACADÉMICA
+Superior –
+Cuarto Nivel
+con título
+
+Superior –
+Tercer Nivel
+con título
+
+hiperconvergencia
+
+Master en
+seguridad
+informática
+aplicada.
+
+CANTIDAD
+
+1
+
+Ingeniero en
+Sistemas, o Informática, o
+Redes,
+Telecomunicaciones o
+equivalente
+
+1
+
+3
+
+Ingeniero de análisis e
+implementación de
+seguridad para
+hiperconvergencia.
+
+Superior –
+Cuarto
+Nivel con
+título
+
+Master en
+evaluación y Auditoría de
+sistemas tecnológicos
+
+1
+
+4
+
+Ingeniero de
+implementación de redes
+de data center.
+
+Superior –
+Tercer Nivel
+Con título
+
+Ingeniero en
+
+1
+
+[Escriba texto]
+
+Sistemas, o Informática, o
+Redes,
+Telecomunicaciones o
+equivalente
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+Medios De Comprobación (Personal Propuesto):
+1.
+Para calificar la experiencia del personal técnico mínimo, el proponente deberá
+acompañar a la propuesta las correspondientes hojas de vida actualizadas, debiendo identificar
+de manera clara la función que va a desempeñar el profesional propuesto.
+2.
+El oferente deberá presentar certificados adicionales solicitados, que avalen la
+legalidad de la titulación académica solicitada para el personal técnico mínimo.
+
+6.3.- EXPERIENCIA MÍNIMA PERSONAL TÉCNICO
+
+No.
+
+DESCRIPCIÓN
+
+TIEMPO
+MÍNIMO
+
+NUMERO DE
+PROYECTOS
+
+MONTO DE
+PROYECTOS
+
+Al menos 2
+
+No se
+consideran
+Montos
+mínimos
+
+Gestor del Proyecto:
+
+1
+
+* El profesional deberá acreditar experiencia en
+la participación en dos o más proyectos
+relacionados con la gestión de proyectos de,
+implementación de Infraestructuras tecnológicas,
+dentro de los últimos tres (3) años a la fecha de
+presentación de la oferta.
+* Además, deberá disponer Certificación PMP
+vigente a la fecha de presentación.
+
+[Escriba texto]
+
+3 años
+
+Proyectos
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+Ingeniero de implementación de Infraestructuras
+de hiperconvergencia / virtualización
+
+2
+
+* El profesional deberá acreditar experiencia en
+la participación en dos o más proyectos
+relacionados con diseño, implementación de
+Infraestructuras hiperconvergente, dentro de los
+últimos tres (3) años a la fecha de presentación
+de la oferta.
+* El profesional debe tener tercer nivel o sup
+erior en el área a fin, experto en tecnologías de
+hiperconvergencia autorizado por el fabricante
+para ofrecer instalación, configuración sobre la
+solución ofertada.
+El profesional deberá adjuntar el certificado o
+certificados del fabricante que demuestre lo
+solicitado.
+
+[Escriba texto]
+
+Al menos 2
+3 años
+
+Proyectos
+
+No se
+consideran
+Montos
+mínimos
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+3 Ingeniero de análisis e implementación de seguridad 3 años
+para hiperconvergencia.
+
+Al menos 2
+Proyectos
+
+El profesional deberá acreditar experiencia en la
+participación en dos o más proyectos relacionados con
+el análisis e implementación de seguridad de data
+center dentro de los últimos tres (3) años a la fecha de
+presentación de la oferta, para lo cual debe presentar
+certificados extendidos por la entidad contratante que
+acredite la experiencia.
+El profesional debe ser experto Informática,
+Telecomunicaciones, electrónica y redes de
+información calificado y certificado por la Judicatura en
+resolución de procesos periciales en seguridad de la
+informatica de tal manera que el profesional realice los
+análisis correspondientes de seguridad en caso de
+fraude informático.
+
+4
+
+Ingeniero de implementación de redes de data center:
+* El profesional deberá acreditar experiencia en la
+participación en dos o más proyectos relacionados
+con diseño, implementación de redes, y/o
+soluciones de datacenter dentro de los últimos tres
+(3) años a la fecha de presentación de la oferta.
+
+3 años
+
+Al menos 2
+Proyectos
+
+No se
+consideran
+Montos
+mínimos
+
+No se
+consideran
+Montos
+mínimos
+
+El profesional deberá adjuntar certificados que
+demuestren lo solicitado anteriormente
+El profesional debe contar con la certificación
+profesional de centro de datos, certificación
+Enterprise Core.
+
+●
+
+El oferente deberá presentar copias legibles de certificados o actas de entrega
+recepción parciales y/o definitivas acerca de prestación de servicios de proyectos
+que certifiquen experiencia relacionada a la instalación, configuración, soporte y/o
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+●
+
+mantenimiento de Infraestructuras hiperconvergentes, como función del personal
+técnico mínimo solicitado.
+En el caso de certificados emitidos por el sector privado el oferente deberá
+adjuntar contrato , acta de entrega recepción, certificado o facturas o retención.
+
+7.- Experiencia general y específica mínima:
+a. La entidad contratante definirá con precisión cuál es la experiencia mínima que deberá
+acreditar el oferente, ya sea en número o dimensión de proyectos similares, o montos
+contractuales; se definirá exactamente qué tipo de contratos ejecutados se aceptarán
+como experiencia general y cuales como experiencia específica; así como el instrumento
+por el que se la demostrará.
+b. Para la determinación del cumplimiento de la experiencia general y específica mínima
+se estará a lo establecido, respecto de las reglas de participación, expedidas por el
+Servicio Nacional de Contratación Pública para los procedimientos de contratación.
+c. La experiencia específica mínima deberá estar directamente relacionada con el objeto
+de la contratación.
+d. La entidad contratante obligatoriamente deberá dimensionar los parámetros de
+calificación de experiencia general y específica mínima requerida de conformidad con
+el contenido de la siguiente tabla y en función del presupuesto referencial del
+procedimiento de contratación:
+Experiencia general y especifica mínima requerida para procedimientos de contratación pública
+Coeficiente respecto al
+presupuesto inicial del
+Estado
+
+Mayor a
+
+Hasta
+
+0
+
+0,000002
+
+[Escriba texto]
+
+Monto de experiencia
+general mínima
+requerida en relación
+al presupuesto
+referencial
+
+Monto de experiencia
+específica mínima
+requerida en relación al
+presupuesto referencial
+
+No mayor a 10 %
+
+No mayor a 5 %
+
+Monto mínimo
+requerido por cada
+contrato en relación
+al monto
+determinado en la
+experiencia mínima
+general o específica,
+según corresponda.
+
+Tiempo durante el cual
+se podrá acreditar la
+experiencia específica
+
+No mayor a 5%
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+(años)
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+0,000002
+
+0,000007
+
+No mayor a 20 %
+
+No mayor a 10 %
+
+No mayor a 10 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+0,000007
+
+0,000015
+
+No mayor a 30 %
+
+No mayor a 15 %
+
+No mayor a 15 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+0,000015
+
+0,00003
+
+No mayor a 40 %
+
+No mayor a 20 %
+
+No mayor a 20 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+0,00003
+
+0,0002
+
+No mayor a 50 %
+
+No mayor a 25 %
+
+No mayor a 25 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+0,0002
+
+0,0004
+
+No mayor a 60 %
+
+No mayor a 30 %
+
+No mayor a 30 %
+
+Durante los últimos 7
+años previos a la
+publicación del
+procedimiento
+
+0,0004
+
+0,0007
+
+No mayor a 70 %
+
+No mayor a 40 %
+
+No mayor a 30 %
+
+Durante los últimos 10
+años previos a la
+publicación del
+procedimiento
+
+Mayor a
+
+0,0007
+
+No mayor a 75 %
+
+No mayor a 60 %
+
+No mayor a 50 %
+
+Durante los últimos 10
+años previos a la
+publicación del
+procedimiento
+
+Estas condiciones no estarán sujetas al número de contratos o instrumentos
+presentados por el oferente para acreditar la experiencia mínima general o
+específica requerida, sino, al cumplimiento de estas condiciones en relación a
+los montos mínimos requeridos para cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia
+mínima específica, el proveedor cumpliere el monto mínimo solicitado para la
+experiencia mínima general, este contrato o instrumento será considerado
+como válido para acreditar los dos tipos de experiencias.
+La entidad contratante deberá solicitar como temporalidad de experiencia
+general 15 años previos a la publicación del procedimiento de contratación.
+Por tanto, el contratista podrá acreditar la experiencia general dentro de dicho
+período.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+e. La experiencia presentada por el oferente será acreditable y aceptada,
+siempre que se haya ejecutado legalmente dentro del límite de cualquier
+jurisdicción ecuatoriana. Únicamente, cuando la entidad contratante con
+la debida motivación técnica y legal así lo justifique, en la que compruebe
+que no existe experiencia previa suficiente obtenida por ningún oferente
+ecuatoriano dentro del límite de cualquier jurisdicción ecuatoriana, de
+conformidad a los requisitos del procedimiento de contratación, y, previa
+autorización de la máxima autoridad o su delegado, se podrá aceptar y
+acreditar experiencia legalmente obtenida en el extranjero. Sin perjuicio
+de lo anterior, cuando un consorcio o asociación o compromiso de
+asociación o consorcio conformado por una persona natural o jurídica
+ecuatoriana y una persona natural o jurídica extranjera que provea el
+financiamiento para la ejecución de una obra en un porcentaje superior al
+60% del valor del objeto contractual, la experiencia que acredite el
+integrante extranjero del consorcio en el exterior, será acreditada.
+7.1 EXPERIENCIA GENERAL
+DESCRIPCIÓN:
+
+TEMPORALIDA
+D
+
+Los
+oferentes
+deberán
+acreditar
+experiencia en el
+diseño,
+implementación,
+
+Últimos
+años
+
+NUMERO
+DE
+PROYECTOS
+
+15 2
+
+MONTO
+MINIMO
+
+CONTRATOS
+PERMITIDOS
+
+MONTO MÍNIMO
+POR
+CONTRATO
+
+$
+30.000,00.
+
+soporte
+y
+mantenimiento
+de soluciones de
+Infraestructura
+tecnológoca en
+general
+
+7.2 EXPERIENCIA ESPECÍFICA
+DESCRIPCIÓN:
+
+[Escriba texto]
+
+TEMPORALIDA
+D
+
+NÚMERO DE
+PROYECTOS
+
+MONTO MÍNIMO
+
+CONTRA
+TOS
+PERMITID
+OS
+
+MONTO
+MÍNIMO POR
+CONTRATO
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+Los
+oferentes
+deberán
+acreditar
+experiencia en el
+diseño,
+implementación
+,
+soporte
+y
+mantenimiento
+de soluciones de
+Infraestructura
+Hiperconvergent
+e de acuerdo al
+objeto de la
+contratación
+
+Últimos
+años
+
+5 2
+
+$ 15.000,00
+
+8.- OTROS PARÁMETROS
+El oferente debe entregar en su oferta el certificado de autenticidad de marca de los
+equipos y la plataforma a ofertar, para garantizar la calidad del bien y su originalidad a
+entera satisfacción, según las características y especificaciones técnicas que constan
+en el requerimiento.
+El certificado debe ser expedido por el representante legal, distribuidor o vendedor
+autorizado en el Ecuador o mayorista.
+
+9.- FORMA Y CONDICIONES DE PAGO
+La forma de pago será 70% de anticipo una suscrito el contrato y 30% contra entrega
+recepción de los equipos informáticos requeridos, previa presentación de todos los
+documentos habilitantes para el trámite de pago que será solicitado por el
+administrador de contrato. previa presentación los documentos habilitantes, tales
+como:
+Informe a entera satisfacción
+Acta entrega recepción
+Factura
+Presentación de las garantías
+Y demás documentos que sea necesario a para el procesamiento del pago.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+10. LUGAR Y FORMA DE ENTREGA
+
+El lugar de la entrega del sistema de hiperconvergencia, será en la matriz de la
+Universidad Estatal de Bolívar ubicada en la Av. Ernesto Che Guevara y Gabriel Secaría,
+en la bodega de la Instrucción y posterior implementación en el data center de la
+institución.
+
+11. GARANTÍAS
+
+De acuerdo a lo establecido en los ART .74, 75, 76 LOSNCP.
+Garantía Técnica de acuerdo a la vigencia tecnología para lo que corresponde
+en equipos informáticos.
+Garantía Técnica
+
+Previo a la suscripción del contrato, el oferente deberá presentar la garantía técnica que
+entrará en vigencia a partir de la suscripción de la Acta Entrega Recepción, en la que se señale
+al menos lo siguiente:
+La Garantía Técnica, que la Contratista, prevé, comprende:
+a. La cobertura del reemplazo del bien, partes y/o piezas directamente del fabricante, ante
+defectos de fabricación o daño, sin costo adicional para la UEB durante el plazo de
+ejecución;
+b. El Soporte de fábrica 24x7x4 en software y 8x5xNBD en hardware, durante el plazo de
+ejecución del contrato;
+c. La vigencia de la garantía y soporte técnico de fábrica corre a partir de su activación por
+un período minimo de 3 tres años de conformidad a la vigencia tecnológica a lo que se
+refiere a equipos informáticos
+d. El mantenimiento preventivo anual y correctivo durante el plazo de vigencia de la
+garantía Técnica;
+
+e. El oferente deberá considerar procedimientos claros, precisos y efectivos para la
+ejecución de la garantía técnica y casos específicos en los cuales se garantice la
+reposición temporal y definitiva de los bienes, así como la identificación clara de las
+exclusiones de cobertura de la garantía técnica;
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+Garantía de buen uso de anticipo
+
+El contratista entregará a la UEB previa suscripción del contrato una garantía de buen uso de
+anticipo por el 100% del monto a recibir por este concepto (70% del valor total del contrato),
+la que permanecerá vigente hasta devengar el total del anticipo otorgado. Para el efecto, el
+contratista deberá considerar las opciones de garantía establecidas en la LOSNCP en el Art.73.Formas de garantías.
+Garantía de fiel cumplimiento
+Se exigirá la presentación de garantía de fiel cumplimiento en aplicación de lo contemplado en
+el cuarto inciso del artículo 74 de la LOSNCP.
+
+14.
+
+MULTAS
+
+Se aplicará una multa del uno por mil (1x1000) por el incumplimiento de cualquiera de
+las obligaciones contractuales, el mismo que será descontado del valor total a pagar.
+
+15.
+
+VIGENCIA DE LA OFERTA.
+
+Las ofertas se entenderán vigentes hasta 90 días calendario. En caso de que
+no se señale una fecha estarán vigentes hasta la celebración del contrato, de
+acuerdo con lo establecido en el artículo 30 de la Ley Orgánica del Sistema
+Nacional de Contratación Pública.
+16.
+
+ADMINISTRADOR DEL CONTRATO
+
+El Administrador del Contrato quien deberá velar por la ejecución del contrato y
+cumplimiento de la normativa (Art. 121 Reglamento General a la Ley Orgánica
+del Sistema Nacional de Contratación Pública).
+
+17.
+
+OBLIGACIONES DEL CONTRATISTA
+● Dar cumplimiento cabal a lo establecido en el presente requerimiento de acuerdo con los
+términos y condiciones del área requirente.
+● El contratista adjudicado estará en la obligación de cambiar los equipos, de no satisfacer
+la idoneidad del producto, la Universidad Estatal de Bolívar se reserva el derecho de
+devolverlo.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+● Tendrá la obligación de entregar la garantía técnica, con al menos tres años de cobertura
+para la solución hiperconvergente, a partir del acta entrega recepción de los equipos.
+● EL CONTRATISTA debe realizar todas las pruebas que demuestren el funcionamiento
+óptimo de los equipos informáticos, con el fin de garantizar su correcto funcionamiento.
+● El mantenimiento preventivo periódico de los bienes contratados deberá comprender el
+soporte técnico regular o periódico, los insumos, partes, piezas y todas las acciones
+necesarias para garantizar el perfecto estado de funcionalidad del bien de conformidad
+con las recomendaciones establecidas en los manuales del fabricante. Este
+mantenimiento deberá realizarse al menos 1 vez al año., durante el tiempo que cubra la
+garantía.
+● Para conservar la calidad de servicio, soporte y seguimiento de incidentes para
+UNIVERSIDAD ESTATAL DE BOLIVAR el oferente deberán tener una Mesa de servicio para
+la coordinación técnica y logística de servicios tecnológicos (incluir números de contactos,
+página web, nivel de escalamiento, Usuario y clave demo para identificar la existencia)
+● La oferta se presentará considerando individualmente el precio del bien y el de su
+mantenimiento posterior.
+
+● La oferta se presentará con fichas técnicas/ catálogo de la solución ofertada y Catálogos
+de uso y operación; los manuales tienen que estar en formato impreso y/o digital de
+preferencia en idioma español.
+
+● La oferta se deberá adjuntar el plan de mantenimiento preventivo con su cronograma de
+aplicación.
+
+● Mantenimiento (Durante tres años). - El servicio de mantenimiento preventivocorrectivo
+se encuentra implícito en la adquisición del bien tecnológico. Este requisito permite la
+sostenibilidad del bien durante el periodo de vida útil de los equipos (3 años), también
+guarda concordancia con el tiempo establecido en la garantía técnica y la vigencia
+tecnológica, por lo tanto deberá realizar un mantenimiento por año, durante los 3 años.
+
+[Escriba texto]
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+● Reemplazo de partes (Durante tres años). - Ante eventos de incidentes, averías o daños
+de los equipos de cómputo, los oferentes deben tener la capacidad de proveer partes,
+piezas, repuestos y/o equipos sustitutos iguales o superiores, en un periodo no mayor a
+48 horas durante el periodo de garantía. (TRES AÑOS).
+.
+
+OBLIGACIONES DEL CONTRATANTE
+
+18.
+
+●
+
+Otorgar al contratista las facilidades necesarias para la recepción de los bienes
+
+●
+
+Verificar el cumplimiento de las especificaciones técnicas.
+
+●
+
+Dar solución a las peticiones y problemas que se presentarán en la ejecución
+del contrato, en un plazo de 7 días contados a partir de la petición escrita
+formulada por el contratista.
+
+●
+
+Suscribir las actas de entrega recepción, siempre que haya cumplido con lo
+previsto en la ley para la entrega recepción; y, en general cumplir con las
+obligaciones derivadas del contrato.
+
+19.
+
+TERMINO PARA SOLUCIÓN DE PROBLEMAS O PETICIONES. (# DE
+
+DIAS)
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, en un plazo de 7 días contados a partir de la petición escrita formulada
+por el contratista.
+
+20.
+
+RECOMENDACIÓN
+
+Realizar el trámite pertinente para la “ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y DE
+ALMACENAMIENTO PARA LA REPOTENCIACIÓN Y FORTALECIMIENTO DE
+INFRAESTRUCTURA TECNOLÓGICA DE LA UNIVERSIDAD ESTATAL DE BOLÍVAR”.
+
+Guaranda, 30 mayo del 2022
+
+[Escriba texto]
+
+LA
+
+UNIDAD DE REDES Y
+TELECOMUNICACIONES
+
+Elaborado por:
+
+Revisado por:
+
+Aprobado por:
+
+Firmado electrónicamente por:
+
+FREDDY PATRICIO
+PACHALA GUZMAN
+
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+EDGAR HENRY
+ALBAN YANEZ
+
+EDGAR HENRY
+ALBAN YANEZ
+
+Lic. Patricio Pachala
+
+Ing. Henry Alban
+
+Ing. Henry Alban
+
+ESPECIALISTA DE REDES Y
+TELECOMUNICACIONES 1
+
+DIRECTOR DE
+TECNOLOGÍAS DE LA
+INFORMACIÓN Y
+COMUNICACIÓN
+
+DIRECTOR DE TECNOLOGÍAS
+DE LA INFORMACIÓN Y
+COMUNICACIÓN
+
+[Escriba texto]
+
+

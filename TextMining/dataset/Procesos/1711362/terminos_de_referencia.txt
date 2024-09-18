@@ -1,0 +1,1418 @@
+TERMINO DE REFERENCIA PARA PROCESOS DE SUBASTA INVERSA ELECTRÓNICA DE SERVICIOS
+Objeto de contratación:
+
+CORP - Renovación de soporte de fábrica y mantenimiento en la
+gestión de la herramienta de correlación de eventos Splunk y módulo
+Enterprise Security de CNEL EP GSI
+
+Partida Presupuestaria:
+
+5.2.2.09.01.01
+
+CPC del producto (9 dígitos):
+
+831600111
+
+Marque con una x en caso de que su
+compra contiene CPC restringido y/o
+de Catálogo Electrónico
+
+SI
+
+NO
+
+X
+
+Especificar el
+código de
+autorización
+
+Nota: *Art. 104.1 de la Codificación 72 del Sercop: "El área requirente, en uso de las herramientas informáticas del
+Sistema Oficial de Contratación Pública del Ecuador, deberá seleccionar el Código del Clasificador Central de
+Productos -CPC que se adecúe de mejor manera al objeto de la contratación, y garantizará que no se excluya
+arbitrariamente a proveedores por el uso erróneo de un CPC específico o la omisión en el uso de un CPC cuando este
+se encuentre oculto dentro de la descripción de las especificaciones técnicas o términos de referencia del
+procedimiento de contratación."
+*Si la compra utiliza CPC atado a los productos de catálogo electrónico, el área requirente deberá indicar el
+Código de Autorización emitido por el SERCOP.
+730 días a partir del día siguiente de la notificación por escrito por
+parte del administrador del contrato respecto de la disponibilidad del
+anticipo.
+La ejecución del contrato inicia desde (marque con una x)
+Plazo de Ejecución (en días
+calendarios):
+
+Seleccione el tipo de condición bajo el cual corre el plazo de ejecución del contrato
+Fecha de
+notificación
+de anticipo
+
+La fecha de suscripción del
+contrato
+
+X
+
+Desde cualquier otra
+condición de acuerdo a
+la naturaleza del
+contrato
+
+Especificar la condición
+en este caso
+
+Forma de pago (marque con una x):
+Pago a 30 días
+Se otorgará anticipo
+
+Pago
+a 45
+días
+
+Pago contra
+entrega total
+SI
+
+X
+
+NO
+
+Pago contra
+entrega
+parcial
+Porcentaje
+
+Otr
+a
+
+X
+70%
+
+El anticipo puede ser de hasta el 70%, La sumatoria de los porcentajes deberán dar el 100%
+
+Se otorgará el pago del 70% del valor total por concepto renovación del
+mantenimiento de fábrica y suscripciones en calidad de anticipo, previa
+entrega de las respectivas garantías de buen uso de anticipo, fiel
+cumplimiento de contrato y garantía técnica por parte del adjudicatario y
+luego de la suscripción del contrato.
+El saldo del 30% restante del valor total del contrato se cancelará contra
+entrega total de:
+•
+•
+•
+•
+•
+Descripción de la forma de pago:
+
+Renovación de suscripción y Mantenimiento Anual 200GB Splunk
+Enterprise Core.
+Renovación de suscripción y Mantenimiento Anual 200GB Splunk
+Enterprise Security.
+Suscripción de 100GB Splunk Enterprise Core - Term License with
+Standard Success Plan - GB/day por 24 meses.
+Suscripción de 100GB Splunk Enterprise Security - Term License
+with Standard Success Plan - GB/day por 24 meses.
+Suscripción Anual Ironstream for Splunk for IBM i- Model: MMD
+LPAR: 5.
+
+A entera satisfacción de CNEL EP, adjunto a la cual debe constar la factura
+debidamente aprobada por el Administrador del Contrato y el Informe
+Final emitido por el mismo, previa suscripción del acta de entrega
+recepción definitiva de entrega de las suscripciones.
+El servicio de soporte técnico local será cancelado de forma SEMESTRAL
+por 730 días que tendrá de vigencia dicho soporte. Al finalizar cada
+SEMESTRE y una vez recibido el soporte técnico a satisfacción de la entidad
+contratante y previa la suscripción del Acta de entrega - recepción parcial
+del servicio. Con el último pago deberá suscribirse el acta de entrega –
+recepción definitiva del contrato.
+Descripción de la Forma de Pago
+Porcentaje de
+Pagos
+Detalle
+pagos
+valor de los
+Anticipo de suscripciones
+70% mantenimientos de las
+licencias
+saldo del valor de los
+saldo de suscripciones
+30% mantenimientos de las
+licencias
+Pago semestral del soporte
+primer pago soporte
+25%
+por horas brindadas.
+
+segundo pago soporte
+
+25%
+
+Pago semestral del soporte
+por horas brindadas.
+
+tercer pago soporte
+
+25%
+
+Pago semestral del soporte
+por horas brindadas.
+
+cuarto pago soporte
+
+25%
+
+Pago semestral del soporte
+por horas brindadas.
+
+Seleccione en caso de que contemple reajuste de precios:
+(Señalar si este procedimiento contempla o no, reajuste de precios.
+En caso de contemplar la entidad deberá adjuntar un anexo
+explicativo)
+Vigencia de la oferta:
+
+90 días calendarios
+
+Porcentaje de variación de la Puja:
+
+1% (uno por ciento)
+
+Tiempo de Puja: Mínimo 15 minutos
+máximo 60 minutos
+
+30 minutos
+
+Costo de reproducción de edición
+pliegos:
+
+NO
+
+COSTO
+
+SI
+
+NO
+
+X
+
+USD$ 00,00
+
+TÉRMINOS DE REFERENCIA
+Antecedentes
+
+La Empresa Eléctrica Pública Estratégica Corporación Nacional de
+Electricidad CNEL EP cuenta con el Sistema de Gestión de la
+Información y Eventos de Seguridad SIEM y el Módulo “Enterprise
+Security” - SPLUNK, el mismo que ha ayudado a disminuir las alertas
+de falso positivo, detectar anomalías de red y amenazas; además de
+poder realizar análisis antes, durante y después de que se haya
+materializado un ataque mediante la revisión de los eventos (logs)
+recolectados por la herramienta.
+
+Objetivo
+
+General: Renovar el soporte y mantenimiento técnico de fábrica para
+el Sistema de Gestión de la Información y Eventos de Seguridad
+SPLUNK.
+Específicos:
+•
+•
+
+Contar con un respaldo técnico especializado ante cualquier
+eventualidad.
+Contar con un soporte técnico especializado en la
+herramienta adquirida para implementar la interpretación de
+los logs que envían los principales sistemas corporativos
+hacia el Sistema SPLUNK.
+
+•
+
+Alcance
+
+Metodología de Trabajo
+
+Contar con un soporte técnico especializado en la
+herramienta adquirida para solucionar errores en el código
+fuente del sistema cuando ocurran por alguna actualización.
+El mantenimiento de fábrica se realizará, vía telefónica y/o
+remotamente el mismo que debe ser brindado por un técnico
+certificado de fábrica y con la experiencia suficiente para cumplir con
+el objetivo deseado. El soporte local se debe brindar se realizará, en
+sitio, vía telefónica y/o remotamente el mismo que debe ser brindado
+por un técnico certificado por fábrica y con la experiencia suficiente
+para cumplir con el objetivo deseado.
+El cronograma de trabajo se realizará previa coordinación entre el
+ofertante, el Administrador del contrato y delegado de Plataforma
+Tecnológica para cumplir en el tiempo estipulado.
+
+El soporte se reportará vía telefónica y/o email a los contactos de
+soporte del oferente. El oferente designará un único técnico de
+soporte centralizado para todos los casos de soporte que requiera
+CNEL EP.
+
+El oferente es responsable de poner a disposición y mantener
+actualizada la información de los números de teléfono y/o direcciones
+electrónicas de los contactos de soporte al personal del cliente que
+administrará las soluciones.
+Para los casos abiertos el proveedor debe poner a disposición del
+Administrador del contrato, un informe del caso y su estado durante
+el tiempo que el caso permanezca abierto. Puede ser manejado vía
+web o por correo electrónico.
+Información que dispone la Entidad
+
+Para la renovación de soporte de fábrica y mantenimiento de la
+solución, CNEL EP, entregará la información y los accesos que
+requiera el oferente.
+
+Productos o Servicios Esperados
+
+Renovación de la suscripción de fábrica de la gestión de eventos e
+información de seguridad, del módulo de seguridad empresarial de la
+plataforma splunk y de Ironstream de CNEL EP por 730 días de
+vigencia, incluido el soporte técnico especializado por parte del
+fabricante y local. Los requerido por la institución es lo siguiente:
+
+•
+•
+•
+•
+•
+
+Renovación de suscripción y Mantenimiento Anual 200GB
+Splunk Enterprise Core.
+Renovación de suscripción y Mantenimiento Anual 200GB
+Splunk Enterprise Security.
+Suscripción de 100GB Splunk Enterprise Core - Term License
+with Standard Success Plan - GB/day por 24 meses.
+Suscripción de 100GB Splunk Enterprise Security - Term
+License with Standard Success Plan - GB/day por 24 meses.
+Suscripción Anual Ironstream for Splunk for IBM i- Model:
+MMD LPAR: 5.
+
+Debe contemplar lo siguiente:
+SOPORTE TÉCNICO DE FABRICA:
+
+El soporte de Fabrica será por 730 días a partir del día siguiente de la
+notificación por escrito por parte del administrador del contrato
+respecto de la disponibilidad del anticipo; a continuación, los
+requerimientos de este soporte:
+
+• Acceso 24/7 a Soporte técnico de Splunk y al equipo de
+ingenieros técnicos
+• Acceso a actualizaciones de software, parches,
+correcciones de errores o actualizaciones.
+• Acceso a especialistas en productos, equipos de
+cuentas.
+• Acceso a reinicio de las claves de licencia y las
+actualizaciones de capacidad en caso de que exceda la
+capacidad de indexación
+• Capacidad para expandir su uso de la plataforma Splunk
+y apoyo en el crecimiento y nuevas aplicaciones y
+proyectos.
+• Alcance a nuevas funcionalidades cuando se lanzan
+nuevas versiones.
+• Capacidad para comprar servicios profesionales
+• Acceso ilimitado al equipo de Splunk>Soporte
+(comunidad de Soporte).
+Tipo de Servicio:
+
+•
+•
+
+•
+
+Telefónico. - Un técnico especializado de fábrica atenderá
+telefónicamente el requerimiento o el problema suscitado.
+Correo Electrónico. - Un técnico especializado de fábrica
+atenderá y responderá a través de un correo electrónico a los
+requerimientos del cliente.
+Portal Web: Portal web de Splunk.
+
+Acuerdo de Nivel de Servicio:
+Las prioridades del caso se deben asignar según la importancia técnica
+del problema en el entorno Splunk.
+•
+
+Alto (P1): El servicio está “caído” o el impacto sobre su
+operación es crítico. El problema o novedad reportada a nivel
+de los productos implementados ha causado la paralización
+de la operación en el ambiente de producción de la
+herramienta.
+Características de este nivel:
+o Software es completamente inaccesible o la mayoría
+de su funcionalidad es inutilizable.
+
+•
+
+Medio (P2): El problema o novedad reportada a nivel de los
+productos implementados podría causar eventualmente la
+paralización del servicio o verlo severamente degradado.
+Características de este nivel:
+o Una o más características clave del Software son
+inutilizables
+
+•
+
+Bajo (P3): El problema o novedad reportada a nivel de los
+productos implementados no afecta a la normal operación
+del ambiente de producción de la herramienta, pero ocasiona
+esporádicas molestias.
+Características de este nivel:
+
+Cualquier otro caso donde una función de Software
+no esté funcionando como se documenta.
+En caso de existir preguntas, estas serán catalogadas como P4:
+o
+
+•
+
+P4= Preguntas generales y solicitudes de mejoras al Software
+Comprado
+
+Tiempo de Respuesta Inicial: Es el tiempo desde que CNEL EP realiza
+un requerimiento hasta que Fabrica da su respuesta inicial, esta
+respuesta puede ser por correo electrónico.
+Nivel de Prioridad
+
+Tiempo de Respuesta
+
+P1
+
+4 Horas
+
+P2
+
+1 día laboral
+
+P3
+
+2 días laborales
+
+P4
+
+2 días laborales
+
+Tiempo promedio de resolución: Es el tiempo que se toma el técnico
+de Fabrica en comunicar cual es la posible causa del
+incidente/problema y resuelve el problema.
+Nivel de Prioridad
+
+Tiempo
+promedio
+Diagnóstico Inicial
+
+P1
+
+1 día
+
+P2
+
+1 semana
+
+P3
+
+Próxima publicación
+
+P4
+
+A criterio de Splunk.
+
+de
+
+Escalamiento por prioridad de caso:
+o Para P1 el escalamiento debe ser inmediato
+o Para P2 el escalamiento debe ser máximo de 1 día
+hábil.
+o Para P3 únicamente se revisarán todos los errores
+abiertos trimestralmente.
+o Para P4 únicamente se revisarán todas las solicitudes
+de mejora trimestralmente.
+Contactos de soporte autorizados
+El soporte se proporcionará únicamente a las personas autorizadas
+especificadas por CNEL EP. Los contactos del soporte que CNEL EP
+
+autoriza serán 2 técnicos del proveedor que dan el soporte local y el
+técnico que administra la herramienta en CNEL EP.
+Resolución de Defectos
+Si existiera un defecto, el fabricante Splunk reparará el defecto en la
+versión del software que CNEL EP está utilizando o en una versión
+nueva previa instalación.
+Actualizaciones de Software
+El fabricante Splunk deberá proporcionar actualizaciones, nuevas
+versiones, versiones de mantenimiento y restablecer las claves
+cuando se requiera.
+
+SOPORTE TÉCNICO LOCAL Y MANTENIMIENTO CORRECTIVO:
+
+Se requiere renovar el soporte técnico local y mantenimiento
+correctivo en la herramienta SPLUNK Enterprise en los módulos de
+SIEM, Enterprise Security y Ironstream
+Tipo de Servicio:
+• En Sitio. - Un técnico certificado se trasladará a las oficinas de
+CNEL EP para proveer el soporte técnico.
+• Soporte Remoto. - Un técnico certificado podrá revisar el
+problema suscitado vía VPN la cual la facilitará CNEL.
+• Telefónico.
+Un
+técnico
+certificado
+atenderá
+telefónicamente el requerimiento o el problema suscitado.
+Este soporte se podrá brindar solo cuando el técnico tenga
+claridad del inconveniente y pueda dar una solución en ese
+momento, caso contrario lo deberá escalar a los otros tipos
+de soporte.
+• Correo Electrónico. - Un técnico certificado atenderá y
+responderá a través de un correo electrónico a los
+requerimientos del cliente.
+
+Acuerdo de Nivel de Servicio:
+
+•
+
+Alto: El servicio está “caído” o el impacto sobre su
+operación es crítico. El problema o novedad reportada a
+nivel de los productos implementados ha causado la
+paralización de la operación en el ambiente de
+producción de la herramienta.
+Características de este nivel:
+o El ambiente deja de funcionar a su totalidad.
+o La pérdida de datos o corrupción de datos.
+
+•
+
+Medio: El problema o novedad reportada a nivel de los
+productos implementados podría causar eventualmente
+la paralización del servicio o verlo severamente
+degradado.
+Características de este nivel:
+o Rendimiento severamente degradado, no permite
+un funcionamiento aceptable.
+o Funcionalidad disponible, pero el sistema es capaz
+de operar de una manera restringida.
+
+•
+
+Bajo: El problema o novedad reportada a nivel de los
+productos implementados no afecta a la normal
+operación del ambiente de producción de la
+herramienta, pero ocasiona esporádicas molestias.
+Características de este nivel:
+o Mensaje de error con solución.
+o Degradación de rendimiento mínima.
+o Comportamiento incorrecto del ambiente de
+producción con menos impacto en el cliente.
+o Las preguntas sobre la funcionalidad del ambiente o
+la configuración durante la implementación.
+
+Tiempo de Respuesta: Es el tiempo desde que CNEL EP realiza un
+requerimiento hasta que el proveedor asigna un técnico certificado,
+esta respuesta puede ser vía telefónica, por correo electrónico o con
+la presencia del técnico en las oficinas del cliente.
+Nivel de Prioridad
+
+Tiempo de Respuesta
+
+Alta
+
+30 minutos
+
+Media
+
+2 horas
+
+Baja
+
+1 día laboral
+
+Tiempo promedio de diagnóstico: Es el tiempo que se toma el técnico
+certificado en comunicar cual es la posible causa del
+incidente/problema e indica la solución para resolverlo.
+Nivel de Prioridad
+
+Tiempo
+promedio
+Diagnóstico Inicial
+
+de
+
+Alta
+
+2 horas posteriores a la
+asignación del técnico
+
+Media
+
+6 horas posteriores a la
+asignación del técnico
+
+Baja
+
+24 horas posteriores a la
+asignación del técnico
+
+Tiempo de Solución: Es el tiempo que se toma el técnico certificado
+en solucionar el problema detectado.
+Nivel de Prioridad
+
+Tiempo de Solución
+4 horas posteriores
+resultado del diagnóstico
+
+al
+
+Alta
+
+24 horas posteriores
+resultado del diagnóstico
+
+al
+
+Media
+Baja
+
+48 horas posteriores a la
+asignación del técnico
+
+Mantenimiento Preventivo:
+El mantenimiento preventivo debe ser provisto en sitio y
+directamente por el oferente.
+El mantenimiento preventivo comprende las siguientes actividades:
+
+•
+
+•
+•
+
+Revisión y diagnóstico del software y hardware de Splunk (2
+veces por año durante el periodo de vigencia del contrato,
+las fechas se establecerán de común acuerdo entre el
+contratante y el oferente, una vez firmado el contrato)
+Revisión de Logs, mensajes y alertas para verificar
+funcionamiento.
+Ajustes de configuración necesarios para garantizar el
+normal funcionamiento de la solución.
+
+Actualizaciones:
+•
+•
+•
+•
+
+•
+
+Las Actualizaciones se realizarán en sitio.
+Las actualizaciones se deben realizar de acuerdo con las
+normas y recomendaciones emitidas por el fabricante.
+Las actualizaciones deben ser realizadas por personal técnico
+del oferente, en días y horas que CNEL EP establezca.
+En caso de existir cambios a la configuración inicial de los
+equipos y software, la empresa oferente debe documentar
+los cambios y entregar un informe que incluya la última
+configuración.
+Las actualizaciones tendrán un periodo de duración 730 días
+a partir del día siguiente de la notificación por escrito por
+parte del administrador del contrato respecto de la
+disponibilidad del anticipo.
+
+Entregable: Como producto entregable, el contratista deberá
+entregar a CNEL EP, lo siguiente:
+•
+
+•
+•
+
+Ordenes de trabajo debidamente firmadas por el oferente y
+CNEL EP, documentos que deben incluir el nombre de la
+persona que realiza el requerimiento, el nombre del técnico
+asignado, fecha y hora del requerimiento, descripción del
+problema y la solución del problema.
+Informe que incluya los cambios de configuración, las
+soluciones dadas y el detalle del procedimiento aplicado.
+Reporte semestral de las órdenes de trabajo y su estado
+para su seguimiento por parte de CNEL EP.
+
+Horas de Soporte Local / Modalidad:
+
+Plazo de Ejecución: parciales o total
+
+Personal Técnico/Equipo de
+trabajo/recursos
+
+Se requiere el servicio sea de 240 horas con una modalidad de 5
+x 9 por 730 días a partir del día siguiente de la notificación por
+escrito por parte del administrador del contrato respecto de la
+disponibilidad del anticipo.
+730 días a partir del día siguiente de la notificación por escrito por
+parte del administrador del contrato respecto de la disponibilidad del
+anticipo.
+El soporte local debe ser oportuno y especializado, el oferente debe
+tener al menos dos técnicos profesionales certificados por el
+fabricante SPLUNK. Uno deberá acreditar experiencia en el uso de
+Splunk y el otro deberá acreditar experiencia en administración de
+Splunk y soporte en el módulo Enterprise Security.
+
+Condiciones de Pago
+
+A. Ver la forma de pago en la sección FORMA DE PAGO.
+B. Es necesario que el contratista previo a la firma del contrato,
+desglose el valor de la renovación y del soporte, para
+otorgar el pago del valor del anticipo.
+LOCALIDAD DONDE SE EJECUTARÁ LA CONTRATACIÓN
+Provincia:
+
+Guayas.
+
+Cantón:
+
+Guayaquil.
+
+DIRECCIÓN DE ENTREGA DE OFERTAS
+Calle Principal:
+
+Ave. Del bombero km 6.5 vía a la Costa
+
+Calle Secundaria:
+
+--
+
+Calle Número:
+
+--
+
+Referencia:
+
+Única y exclusivamente a través del Portal de COMPRAS
+PÚBLICAS, mismas que para ser válidas deberán estar firmadas
+electrónicamente a través del aplicativo FIRMA EC.
+
+DIRECCIÓN APERTURA DE OFERTAS
+Calle Principal:
+
+Ave. Del bombero km 6.5 vía a la Costa
+
+Calle Secundaria:
+Calle Número:
+Referencia:
+OBLIGACIONES DE LAS PARTES
+
+Edificio Grace, segundo piso, Gerencia de Seguridad de la
+Información.
+
+Obligaciones adicionales del contratista:
+
+La contratista se obliga a guardar permanentemente total
+confidencialidad de todos los datos proporcionados por la EMPRESA
+ELECTRICA PUBLICA ESTRATEGICA CORPORACION NACIONAL DE
+ELECTRICIDAD CNEL EP, y adquiridos durante las actualizaciones,
+mantenimientos y soportes técnicos realizados, ante lo cual debe
+firmar el documento de Acuerdo de Confidencialidad vigente.
+Para la renovación de soporte y mantenimiento de la solución de CNEL
+EP, todos los gastos que demande la movilización del equipamiento y
+del personal técnico del oferente al Centro de Datos e CNEL EP, serán
+asumidos por el oferente.
+SOPORTE TÉCNICO DE FÁBRICA:
+Se solicita el soporte de la herramienta en modalidad 7x24 por los 730
+días de vigencia del contrato a partir del día siguiente de la
+notificación por escrito por parte del administrador del contrato
+respecto de la disponibilidad del anticipo. El detalle del soporte se
+indica en los productos o servicios esperados de este documento.
+SOPORTE TÉCNICO LOCAL:
+Se solicita el soporte local de la herramienta en modalidad 5x9 por los
+730 días de vigencia del contrato a partir del día siguiente de la
+notificación por escrito por parte del administrador del contrato
+respecto de la disponibilidad del anticipo. El detalle del soporte se
+indica en los productos o servicios esperados de este documento.
+
+Se presentará carta de compromiso donde se garantice la
+disponibilidad en la ciudad de Guayaquil de un técnico especialista
+en Splunk y ejecutar todos los entregables detallados en el presente
+documento.
+Término para la atención o solución de
+peticiones o problemas:
+
+2 días
+
+Números de días para celebrar contratos
+complementarios:
+
+15 días
+
+Obligaciones adicionales del contratante:
+
+--
+
+Acorde con la naturaleza de la contratación la entidad contratante podrá establecer condiciones adicionales que
+considere pertinentes, siempre y cuando estas observen la normativa vigente y no constituyan disposiciones que
+resulten discriminatorias entre los participantes
+ÍNDICES FINANCIEROS
+Índice de solvencia
+
+SI
+
+X
+
+NO
+
+Indicador
+solicitado
+
+>=1.0
+
+Índice de endeudamiento
+
+SI
+
+X
+
+NO
+
+Indicador
+solicitado
+
+<1.5
+
+Otro
+
+SI
+
+NO
+
+Indicador
+solicitado
+
+Nota: Para el cálculo de los índices financieros tomar en consideración la siguiente fórmula: Solvencia o Liquidez:
+Activo Corriente/ Pasivo Corriente; Endeudamiento: Total Pasivo/ Total Activo.
+CONDICIONES ADICIONALES DEL PRECIO DE LA OFERTA
+** Ingrese las condiciones adicionales del precio de la oferta
+
+**Para el caso de prestación de servicios: El precio de la oferta deberá cubrir todas las actividades y costos
+necesarios para que el oferente preste los servicios objeto de la contratación en cumplimiento de los términos de
+referencia correspondientes y a plena satisfacción de la entidad contratante.
+REQUISITOS MÍNIMOS
+Equipo Mínimo (de ser necesario)
+El listado del equipo mínimo detallado por la entidad contratante en el pliego, deberá ser definido en función de su
+tipología (sin determinación de marcas) y utilizando especificaciones técnicas no direccionadas; no se fijarán
+condiciones que carezcan de soporte legal o que resultaren excesivas para el tipo de objeto a ejecutar.
+a) Se considerará exclusivamente el equipo necesario para que el oferente cumpla con las condiciones
+establecidas en la adquisición o, preste el servicio y en consecuencia, si fuere del caso, se deberá fundamentar
+debidamente la necesidad de contar con equipamientos especiales.
+b) En todos los casos, se evaluará la disponibilidad del equipo mínimo solicitado, y no su propiedad. En esta lógica,
+bajo ningún concepto se considerará como criterio de admisibilidad de las ofertas o como parámetro de calificación,
+el establecimiento de porcentaje alguno de equipo mínimo de propiedad del oferente. La propiedad del equipo no
+será condición a calificar ni tampoco se construirán parámetros en función de esa condición.
+
+c) Se presentará las matrículas del equipo propuesto por parte de los oferentes, sea que el equipo sea de su
+propiedad, se ofrezca bajo arriendo o compromiso de arrendamiento, compromiso de compraventa o en general de
+cualquier forma de disponibilidad.
+
+Equipo y/o instrumentos
+
+N/A
+
+Características
+
+N/A
+
+Cantidad
+
+N/A
+
+NOTA: Se evaluará la disponibilidad de los equipos más no la propiedad, para lo cual los oferentes deberán adjuntar
+cualquier documento mediante el cual acredite la disponibilidad, ya sea: compromiso de compra o alquiler, factura,
+títulos de propiedad, o declaración juramentada. (De ser aplicable) En caso de vehículos deberán presentar la
+matrícula y revisión vigente sea que el equipo sea de su propiedad o se ofrezca bajo arriendo.
+Personal Técnico 1
+A efectos de evaluar este parámetro, la entidad contratante deberá definir el listado del personal técnico necesario
+para que el oferente cumpla con las condiciones establecidas en la adquisición o, preste el servicio, las funciones
+que cumplirá o la posición que ocupará, la formación profesional que deberá acreditar y el instrumento por el que
+se comprometerá su participación. De ser el caso podrá establecer condiciones de experiencia mínima a ser
+acreditadas por cada uno de los miembros del equipo, en concordancia con la naturaleza y dimensión del proyecto
+a contratar.
+Función (detallar función y actividades de
+responsabilidad)
+
+Especialista Técnico en Splunk y modulo Enterprise Security, entre sus
+funciones esta solucionar errores en el sistema Splunk y el modulo
+Enterprise Security. Tener experiencia en mejores prácticas para la
+planificación, recopilación de datos y dimensionamiento para
+arquitectura distribuida, así como la ingesta de fuentes de logs en los
+modelos de datos del módulo Enterprise Security.
+
+Nivel de estudio
+
+*el sistema solo permite las siguientes opciones:
+
+Educación Básica
+
+Ba
+chi
+lle
+r
+
+Tecnól
+ogo
+
+Tercer
+Nivel
+Terminado
+
+Tercer
+Nivel
+con
+Título
+
+X
+
+Cuart
+o
+Nivel
+
+Titulación académica
+
+Ingeniero/a en Telecomunicaciones o Ingeniero/a Informático o
+Ingeniero/a en Sistemas
+
+Cantidad
+
+1
+
+Experiencia mínima del Personal Técnico (de ser necesario)
+a. De utilizarse, la entidad contratante deberá definir cuál es la experiencia que cada uno de los miembros
+del personal técnico mínimo deberá acreditar como mínimo, ya sea en años, número o monto de
+proyectos en los que haya participado
+b. Se reconocerá la experiencia adquirida en relación de dependencia, si el certificado emitido por el
+empleador demuestra su participación efectiva, en la ejecución de determinado objeto contractual.
+c.
+
+Para cada caso ha de establecerse el instrumento o medio por el que se comprobará la experiencia
+adquirida.
+Descripción
+Deberá acreditar experiencia como Especialista Técnico en Splunk y
+modulo Enterprise Security para administración Splunk, soporte y la
+implementación de las mejores prácticas para la planificación,
+recopilación de datos y dimensionamiento para arquitectura
+distribuida, además soporte en el módulo Enterprise Security, para lo
+cual deberá presentar 1 o varios certificados o actas de entrega
+recepción definitiva de proyectos ejecutados en los últimos 5 años.
+Se reconocerá la experiencia adquirida en relación de dependencia, si
+el certificado emitido por el Contratista o Máxima Autoridad de la
+Entidad Contratante o máxima autoridad del Área Requirente de la
+Entidad Contratante o Máxima Autoridad de Talento Humano de la
+Entidad Contratante demuestra su participación efectiva, como
+empleado privado o servidor público, en la ejecución del proyecto.
+Además, junto con la presentación de los certificados y/o actas de
+entrega recepción definitiva, deberán presentar en caso de relación
+de dependencia la documentación pertinente del IESS (Historia
+Laboral) y en caso de prestación de servicios profesionales (el
+contrato y las facturas) correspondientes.
+
+*Además deberá presentar Certificación de Fábrica de administración
+de Splunk vigente y Certificación de Fábrica de Arquitecto en Splunk
+vigente.
+1. Tiempo mínimo
+
+2 AÑOS
+
+2. Número de proyectos
+3. Monto de proyectos
+Personal Técnico 2
+A efectos de evaluar este parámetro, la entidad contratante deberá definir el listado del personal técnico necesario
+para que el oferente cumpla con las condiciones establecidas en la adquisición o, preste el servicio, las funciones
+que cumplirá o la posición que ocupará, la formación profesional que deberá acreditar y el instrumento por el que
+se comprometerá su participación. De ser el caso podrá establecer condiciones de experiencia mínima a ser
+acreditadas por cada uno de los miembros del equipo, en concordancia con la naturaleza y dimensión del proyecto
+a contratar.
+
+Función (detallar función y actividades de
+responsabilidad)
+
+Técnico Splunk, entre sus funciones esta la actualización de las
+versiones de Splunk Core y Splunk Forwarder en toda la arquitectura
+de Splunk Cnel.
+
+Nivel de estudio
+
+*el sistema solo permite las siguientes opciones:
+
+Educación
+Básica
+
+Bach
+iller
+
+Tecnól
+ogo
+
+Tercer
+Nivel
+Termin
+ado
+
+Tercer
+Nivel
+con
+Título
+
+X
+
+Cuart
+o
+Nivel
+
+Titulación académica
+
+Licenciado en Sistemas o Licenciado en redes y sistemas operativos.
+
+Cantidad
+
+1
+
+Experiencia mínima del Personal Técnico (de ser necesario)
+d. De utilizarse, la entidad contratante deberá definir cuál es la experiencia que cada uno de los miembros
+del personal técnico mínimo deberá acreditar como mínimo, ya sea en años, número o monto de
+proyectos en los que haya participado
+e. Se reconocerá la experiencia adquirida en relación de dependencia, si el certificado emitido por el
+empleador demuestra su participación efectiva, en la ejecución de determinado objeto contractual.
+f.
+
+Para cada caso ha de establecerse el instrumento o medio por el que se comprobará la experiencia
+adquirida.
+
+Descripción
+
+Deberá acreditar experiencia como Técnico Splunk en el uso y soporte
+de Splunk, para lo cual deberá presentar 1 o varios certificados o actas
+de entrega recepción definitiva de proyectos en los últimos 5 años.
+Se reconocerá la experiencia adquirida en relación de dependencia, si
+el certificado emitido por el Contratista o Máxima Autoridad de la
+Entidad Contratante o máxima autoridad del Área Requirente de la
+Entidad Contratante o Máxima Autoridad de Talento Humano de la
+Entidad Contratante demuestra su participación efectiva, como
+empleado privado o servidor público, en la ejecución del proyecto.
+Además, junto con la presentación de los certificados y/o actas de
+entrega recepción definitiva, deberán presentar en caso de relación
+de dependencia la documentación pertinente del IESS (Historia
+Laboral) y en caso de prestación de servicios profesionales (el
+contrato y las facturas) correspondientes.
+
+*Además deberá presentar Certificación de Fábrica del uso de Splunk
+vigente.
+1. Tiempo mínimo
+
+1 año
+
+2. Número de proyectos
+3. Monto de proyectos
+EXPERIENCIA
+
+a) La entidad contratante definirá con precisión cuál es la experiencia mínima que deberá acreditar el
+oferente, ya sea en número o dimensión de proyectos similares, o montos contractuales; se definirá
+exactamente qué tipo de contratos ejecutados se aceptarán como experiencia general y cuales como
+experiencia específica; así como el instrumento por el que se la demostrará.
+b) Para la determinación del cumplimiento de la experiencia general y específica mínima se estará a lo
+establecido, respecto de las reglas de participación, expedidas por el Servicio Nacional de Contratación Pública
+para
+los
+procedimientos
+de
+contratación.
+c) La experiencia específica mínima deberá estar directamente relacionada con el objeto de la contratación.
+d) La entidad contratante obligatoriamente deberá dimensionar los parámetros de calificación de
+experiencia general y específica mínima requerida de conformidad con el contenido de la siguiente tabla y en
+función del presupuesto referencial del procedimiento de contratación:
+
+Experiencia general y especifica mínima requerida para procedimientos de contratación pública
+
+Coeficiente respecto al
+presupuesto inicial del Estado
+
+Mayor a
+
+0
+
+0,000002
+
+0,000007
+
+0,000015
+
+Monto de
+experiencia
+general mínima
+requerida en
+relación al
+presupuesto
+referencial
+
+Monto de experiencia
+específica mínima
+requerida en relación
+al presupuesto
+referencial
+
+Monto mínimo
+requerido por
+Tiempo durante el
+cada contrato en
+cual se podrá
+relación al monto
+acreditar la
+determinado en
+experiencia
+la experiencia
+específica
+mínima general o
+(años)
+específica, según
+corresponda.
+
+Hasta
+
+0,000002
+
+0,000007
+
+0,000015
+
+0,00003
+
+No mayor a 10
+%
+
+No mayor a 20
+%
+
+No mayor a 30
+%
+
+No mayor a 40
+%
+
+Durante los últimos
+5 años previos a la
+publicación del
+procedimiento
+
+No mayor a 5 %
+
+No mayor a 5%
+
+No mayor a 10 %
+
+Durante los últimos
+5 años previos a la
+No mayor a 10 %
+publicación del
+procedimiento
+
+No mayor a 15 %
+
+Durante los últimos
+5 años previos a la
+No mayor a 15 %
+publicación del
+procedimiento
+
+No mayor a 20 %
+
+Durante los últimos
+5 años previos a la
+No mayor a 20 %
+publicación del
+procedimiento
+
+0,00003
+
+0,0002
+
+No mayor a 50
+%
+
+No mayor a 25 %
+
+Durante los últimos
+5 años previos a la
+No mayor a 25 %
+publicación del
+procedimiento
+
+0,0002
+
+0,0004
+
+No mayor a 60
+%
+
+No mayor a 30 %
+
+No mayor a 30 % Durante los últimos
+7 años previos a la
+
+publicación del
+procedimiento
+
+0,0004
+
+Mayor a
+
+0,0007
+
+0,0007
+
+No mayor a 70
+%
+
+No mayor a 75
+%
+
+No mayor a 40 %
+
+Durante los últimos
+10 años previos a la
+No mayor a 30 %
+publicación del
+procedimiento
+
+No mayor a 60 %
+
+Durante los últimos
+10 años previos a la
+No mayor a 50 %
+publicación del
+procedimiento
+
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados por el oferente para
+acreditar la experiencia mínima general o específica requerida, sino, al cumplimiento de estas condiciones en
+relación a los montos mínimos requeridos para cada tipo de experiencia.
+
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima específica, el proveedor
+cumpliere el monto mínimo solicitado para la experiencia mínima general, este contrato o instrumento será
+considerado como válido para acreditar los dos tipos de experiencias.
+
+La entidad contratante deberá solicitar como temporalidad de experiencia general 15 años previos a la
+publicación del procedimiento de contratación. Por tanto, el contratista podrá acreditar la experiencia general
+dentro de dicho período.
+
+e) La experiencia presentada por el oferente será acreditable y aceptada, siempre que se haya ejecutado
+legalmente dentro del límite de cualquier jurisdicción ecuatoriana. Únicamente, cuando la entidad contratante
+con la debida motivación técnica y legal así lo justifique, en la que compruebe que no existe experiencia previa
+suficiente obtenida por ningún oferente ecuatoriano dentro del límite de cualquier jurisdicción ecuatoriana, de
+conformidad a los requisitos del procedimiento de contratación, y, previa autorización de la máxima autoridad
+o su delegado, se podrá aceptar y acreditar experiencia legalmente obtenida en el extranjero. Sin perjuicio de lo
+anterior, cuando un consorcio o asociación o compromiso de asociación o consorcio conformado por una
+persona natural o jurídica ecuatoriana y una persona natural o jurídica extranjera que provea el financiamiento
+
+para la ejecución de una obra en un porcentaje superior al 60% del valor del objeto contractual, la experiencia
+que acredite el integrante extranjero del consorcio en el exterior, será acreditada.
+EXPERIENCIA GENERAL
+Descripción
+
+El oferente deberá acreditar experiencia general en la
+comercialización, distribución e implementación de soluciones
+tecnológicas, por un monto de al menos USD$ 274.066,40 dólares,
+para lo cual deberá presentar certificados o actas de entrega
+recepción definitiva de contratos ejecutados durante los últimos 15
+años previos a la publicación del presente procedimiento.
+
+La experiencia podrá ser acumulada siempre y cuando cada
+certificado o acta de entrega recepción definitiva sea al menos USD$
+54.813,28. Los certificados deberán ser emitidos a favor del oferente
+y suscritos por el Representante Legal de la Entidad Contratante o la
+Máxima Autoridad del Área Requirente o el Administrador del
+contrato y debe contener por lo menos la siguiente información:
+
+a) Nombre de la entidad contratante;
+b) Descripción del proyecto;
+c) Periodo de ejecución del proyecto (especificar periodo) y monto;
+d) Nombre de la empresa encargada del proyecto;
+e) Dirección, número de teléfono, y correo electrónico del otorgante
+del certificado;
+f) Nombre y firma de la persona otorgante del certificado.
+
+Las actas de entrega recepción definitivas serán suscritas por el
+contratista y los integrantes de la comisión designada por la máxima
+autoridad de la entidad contratante o su delegado conformada por el
+administrador del contrato y un técnico que no haya intervenido en el
+proceso de ejecución del contrato.
+Experiencia adquirida en los últimos
+
+15 años
+
+Número de proyectos similares
+
+1
+
+Valor del monto mínimo
+
+USD$ 274.066,40
+
+Permite alcanzar el Monto Mínimo a
+través de la sumatoria del presupuesto de
+los contratos
+
+SI
+
+X
+
+Si la respuesta es SI, indicar la cantidad de
+contratos permitidos
+
+10
+
+Monto mínimo por contrato
+
+USD$ 54.813,28
+
+NO
+
+Experiencia Específica
+Descripción
+
+El oferente deberá acreditar experiencia específica en la
+comercialización, distribución e implementación de soluciones de
+correlación de eventos y seguridad de empresas, por un monto de al
+menos USD$ 137.033,20 dólares, para lo cual deberá presentar
+certificados o actas de entrega recepción definitiva de contratos
+ejecutados durante los últimos 5 años previos a la publicación del
+presente procedimiento.
+
+La experiencia podrá ser acumulada siempre y cuando cada
+certificado o acta de entrega recepción definitiva sea al menos USD$
+27.406,64. Los certificados deberán ser emitidos a favor del oferente
+y suscritos por el Representante Legal de la Entidad Contratante o la
+Máxima Autoridad del Área Requirente o el Administrador del
+contrato y debe contener por lo menos la siguiente información:
+
+a) Nombre de la entidad contratante;
+b) Descripción del proyecto;
+c) Periodo de ejecución del proyecto (especificar periodo) y monto;
+d) Nombre de la empresa encargada del proyecto;
+e) Dirección, número de teléfono, y correo electrónico del otorgante
+del certificado;
+f) Nombre y firma de la persona otorgante del certificado.
+
+Las actas de entrega recepción definitivas serán suscritas por el
+contratista y los integrantes de la comisión designada por la máxima
+autoridad de la entidad contratante o su delegado conformada por el
+administrador del contrato y un técnico que no haya intervenido en el
+proceso de ejecución del contrato.
+
+Experiencia adquirida en los últimos
+
+5 AÑOS
+
+Número de proyectos similares
+
+1
+
+Valor del monto mínimo
+
+USD$ 137.033,20
+
+Permite alcanzar el Monto Mínimo a
+través de la sumatoria del presupuesto de
+los contratos
+
+SI
+
+X
+
+Si la respuesta es SI, indicar la cantidad de
+contratos permitidos
+
+10
+
+Monto mínimo por contrato
+
+USD$ 27.406,64
+
+NO
+
+Otros parámetros (especificar)
+Nota: En el caso que la Entidad Contratante considere necesario añadir un parámetro adicional éste deberá ser
+debidamente sustentado, relacionado con el proyecto y no contravenir la LOSNCP, su reglamento o las
+resoluciones emitidas por el SERCOP; deberá estar completamente definido, no será restrictivo ni discriminatorio y
+deberá establecer su indicador y el medio de comprobación.
+Requiere Certificado de distribuidor o
+vendedor o representante autorizado
+emitido por el fabricante de los servicios
+ofertados
+
+SI
+
+X
+
+NO
+
+ESPECIFICAR
+
+El oferente debe
+presentar un certificado
+actualizado de ser
+distribuidor autorizado y
+debe encontrarse
+vigente
+
+Certificado de distribuidor o vendedor o representante autorizado emitido por el fabricante de los servicios
+ofertados. En caso de ser fabricante no es necesario.
+Requiere Certificado de conformidad
+
+SI
+
+NO
+
+X
+
+ESPECIFICAR
+
+Nota: Certificado de conformidad vigente y avalado por el Servicio de Acreditación Ecuatoriana (SAE) de acuerdo
+con lo señalado en el Art. 31 de la Ley del Sistema Ecuatoriano de la calidad. Además, el certificado del SAE deberá
+estar vigente a la presentación de la oferta.
+OBSERVACIONES ADICIONALES:
+GARANTÍAS REQUERIDAS:
+A. Garantía de fiel cumplimiento. - El contratista, previo a la firma del contrato correspondiente, para seguridad
+del cumplimiento de éste y para responder de las obligaciones que contrajera frente a terceros, relacionadas
+con el contrato, entregará a favor de CNEL EP una garantía de las señaladas en los numerales 1, 2 y 5 del
+artículo 73 de la LOSNCP, por un monto equivalente al cinco por ciento (5%) del valor total del contrato.
+
+B. Garantía de Buen uso del Anticipo. - Conforme lo estipula el artículo 75 de la LOSNCP, garantía del buen uso
+del anticipo, el adjudicatario entregara a la suscripción del contrato una garantía de las señales en el numeral
+1 o 2 del artículo 73 de la LOSNCP, por un monto equivalente al 100% del valor a entregarse por dicho
+concepto.
+MULTAS: Por cada día de retardo en el cumplimiento de la ejecución de las obligaciones contractuales, se aplicará
+la multa de UNO POR MIL (1 X 1.000) sobre el porcentaje de las obligaciones que se encuentran pendientes de
+ejecutarse conforme lo establecido en el contrato, de acuerdo con lo establecido en el Art. 71 de la LOSNCP vigente.
+* A estos TDR se deberá adjuntar el estudio de mercado (¿De qué manera se determinó el presupuesto
+referencial?), tomando en consideración la normativa vigente.
+**Se deberá estipular si el proceso contempla reajuste de precios. De ser así se indicará la fórmula respectiva
+como anexo a los TDR.
+*** Anexar Informe Justificativo de la contratación.
+
+Elaborado por:
+Ing. María Fernanda Utreras A.
+Profesional de Seguridad de la Información Tecnológica
+Revisado por:
+Ing. Christian Cascante Caballero
+Director de Seguridad de la Información Tecnológica
+Aprobado por:
+Ing. Aníbal Calle Zúñiga
+Gerente de Seguridad de la Información
+
+Firma
+Firmado electrónicamente por:
+
+MARIA FERNANDA
+UTRERAS ABAD
+
+Firma
+Firmado electrónicamente por:
+
+CHRISTIAN GIOVANNY
+CASCANTE CABALLERO
+
+Firma
+Firmado electrónicamente por:
+
+MIGUEL
+ANIBAL CALLE
+
+

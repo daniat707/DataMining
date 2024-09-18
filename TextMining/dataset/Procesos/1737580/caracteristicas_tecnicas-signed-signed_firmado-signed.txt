@@ -1,0 +1,189 @@
+SECCIÓN 3: ESPECIFICACIONES TÉCNICAS DE MATERIALES Y EQUIPOS DEL SISTEMA DE
+DISTRIBUCIÓN
+REVISIÓN: 01
+SELLO DE SEGURIDAD DE POLICARBONATO
+TIPO ANCLA
+FECHA: 2022-08-09
+ESPECIFICACIONES GENERALES
+ITEM
+DESCRIPCIÓN
+ESPECIFICACIÓN
+1
+DESCRIPCIÓN GENERAL
+1.1 Marca
+Indicar
+1.2 Fabricante
+Indicar
+1.3 Procedencia
+Indicar
+1.4 Año de fabricación
+No menor al año de adjudicación
+2
+MATERIAL DEL SELLO
+Cuerpo del sello
+Policarbonato (Excell II) transparente con protección UV
+2.1
+de alto impacto
+Material de la Flecha
+Policarbonato (Excell II) transparente con protección UV
+2.2
+de alto impacto, color blanco
+2.3
+2.4
+3
+
+3.1
+
+Material Cable
+Propiedades
+DIMENSIONES DEL SELLO
+
+Cuerpo
+
+Largo: 25 mm, ancho: 13 mm (+/- 5%)
+Debe tener 2 anclas en cada lado (4 anclas) y una cuña
+vertical, ver NOTA 3
+
+Cable
+
+Diámetro mínimo desde 0.5 hasta 0.8 mm, con una
+longitud de 25 cm, los extremos del cable deberán
+terminar en punta lisa, de tal forma que facilite la
+instalación. Ver NOTA 3
+
+3.3
+
+4.1
+4.2
+5
+
+Largo: 25 mm, ancho superior 22 mm, ancho inferior:
+18 mm (+/-5%). Debe estar marcado con láser de
+manera visible, legible e indeleble con un código
+consecutivo de 8 digitos y su respectivo código de
+barras y logo de la EDs. El proveedor debe garantizar la
+lectura del código de barras por medio de una terminal,
+utilizando el medio de contraste que considere
+necesario. ver NOTA 3
+
+Flecha
+3.2
+
+4
+
+De acero inoxidable, 7 hilos, con recubrimiento de
+NYLON
+Resistencia a la tracción : Excell II: 27 kg
+
+NUMERACIÓN DEL SELLO
+Grosor de la línea de los números
+impresos en el sello, fuente y tamaño de
+la marcación.
+Número de dígitos
+EMBALAJE
+
+Grosor línea: 0.5 mm
+Fuente: Arial
+Tamaño: 10 – NOTA 3
+7 dígitos
+No adhesivo.
+
+SECCIÓN 3: ESPECIFICACIONES TÉCNICAS DE MATERIALES Y EQUIPOS DEL SISTEMA DE
+DISTRIBUCIÓN
+REVISIÓN: 01
+SELLO DE SEGURIDAD DE POLICARBONATO
+TIPO ANCLA
+FECHA: 2022-08-09
+ESPECIFICACIONES GENERALES
+ITEM
+DESCRIPCIÓN
+ESPECIFICACIÓN
+
+5.1
+
+Empaque del lote
+
+El embalaje de los sellos deberá cumplir con los
+estándares internacionales para importación y
+exportación. Los sellos deben entregarse en fundas
+individuales adecuadas para un máximo de 100
+unidades dentro de cada cartón y ordenados de manera
+secuencial de acuerdo a la numeración entregada por
+las EDs
+Cada cartón debe tener un identificativo de la serie de
+los sellos que lo contiene.
+
+5.2
+6
+6.1
+
+Unidades por funda o cartón
+CERTIFICACIONES
+Reportes de ensayo del material,
+certificados
+
+100 unidades
+
+Cumplir con los ensayos de la Norma ASTM F1157
+
+NOTAS
+
+1
+
+2
+
+El Policarbonato debe cumplir las siguientes características:
+* Provenir de material virgen y no reciclado.
+* Tener aditivos para protección UV,
+* No permitir la propagación de llama,
+* Permitir la visualización de los datos impresos
+* Ante la exposición a factores externos tales como sol, condensación, humedad y agua, no
+cambiará sus propiedades de transparencia para el caso del cuerpo del sello durante su vida útil.
+Los certificados de conformidad de producto o de cumplimiento de normas exigidos en el presente
+documento, deben ser emitidos por organismos de certificación acreditados o designados en el
+país, documentación que será avalada por el SAE.
+Para el caso de los reportes de ensayo, estos deben ser emitidos por los laboratorios acreditados
+o designados en el país, documentación que será avalada por el SAE.
+Los productos que cuenten con sello de calidad INEN, no están sujetos al requisito de certificado
+de conformidad para su comercialización.
+
+Elaborado por:
+Firmado electrónicamente por:
+
+RAMIRO VINICIO
+AGUILAR SANCHEZ
+
+Ing. Ramiro Aguilar Sánchez
+Líder de Sistemas de Medición (E)
+
+Revisado por:
+
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+JOHANNA PAOLA
+TOMALA
+CASTANEDA
+
+BYRON JAVIER
+RAMIREZ
+ANAZCO
+
+Econ. Johanna Tomalá Castañeda
+Directora de Servicios al Cliente
+
+Ing. Byron Ramírez Añazco
+Coordinador Comercial Subrogante
+
+Autorizado por:
+
+Firmado electrónicamente por:
+
+ALVARO ENRIQUE
+CUEVA URGILEZ
+
+Ing. Álvaro Cueva Urgilez
+Gerente Comercial
+
+

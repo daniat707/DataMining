@@ -1,0 +1,711 @@
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+ESPECIFICACIONES TÉCNICAS
+
+OBJETO CONTRACTUAL:
+“ADQUISICION DE TABLETS ENFOCADAS A LA EDUCACION PARA LA
+JUVENTUD DEL CANTON SAN FRANCISCO DE MILAGRO”
+
+SEPTIEMBRE, 2022
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+DATOS GENERALES
+
+TIPO DE COMPRA
+Bien
+ÁREA REQUIRENTE
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+RESPONSABLE DEL DEPARTAMENTO
+Apellidos:
+
+JIMENEZ LANDAZURI
+
+Nombres:
+
+ELIZABETH DEL ROSARIO
+
+RESPONSABLE DEL ÁREA
+Apellidos:
+
+BARRERA CADME
+
+Nombres:
+
+JULIO CESAR
+
+OBJETO DE CONTRATACIÓN:
+“ADQUISICION DE TABLETS ENFOCADAS A LA EDUCACION PARA LA JUVENTUD DEL
+CANTON SAN FRANCISCO DE MILAGRO”
+
+1. ANTECEDENTES
+El cantón San Francisco de Milagro como misión tiene la de “Contribuir al bienestar de los
+ciudadanos y ciudadanas del cantón Milagro como facilitador de los esfuerzos de la comunidad en
+la planificación, ejecución, generación, distribución y uso de los servicios que hacen posible la
+realización de sus aspiraciones sociales a través de la dotación de obras y servicios públicos;
+desarrollo humano, social, cultural, económico, ambiental, productivo, para promover el desarrollo
+integral sostenible y procurar el buen vivir, con participación, equidad e inclusión de sus habitantes”.
+Siendo la Coordinación de Proyectos y Servicios Sociales pilar fundamental para lograr esta misión
+y llevar a cabo acciones concretas para lograr que los ciudadanos logren una mejor calidad de vida,
+se le ha asignado en el Estatuto orgánico de gestión organizacional por procesos y estructura
+orgánico – funcional del GAD Municipal del cantón San Francisco de Milagro las siguientes
+atribuciones y responsabilidades:
+✓ Ejecutar planes, programas, proyectos y acciones de fomento del desarrollo e inclusión
+social del cantón;
+✓ Identificar, a partir de técnicas de investigación sociológicas, los problemas sociales;
+✓ Coordinar la implementación de los programas y servicios sociales;
+Es por esto que, con fecha 4 de agosto del presente año 2022 mediante Memorando No. GADMMDDIS-2022-1941-M, el COORDINADORA INSTITUCIONAL GESTIÓN DE EDUCACIÓN Y
+DEPORTE solicita se gestione el inicio del proceso de “ADQUISICION DE TABLETS ENFOCADAS
+A LA EDUCACION PARA LA JUVENTUD DEL CANTON SAN FRANCISCO DE MILAGRO”.
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+2. JUSTIFICACIÓN
+Entre los problemas de nuestra comunidad el más preocupante es el relacionado con la economía,
+debido a la dificultad para encontrar las suficientes fuentes de empleo para integrarse a las diversas
+actividades laborales que le permita una calidad de vida donde sus necesidades básicas sean
+satisfechas, esto repercute directamente a la educación la misma que se ha visto resentida debido
+a la dificultad del acceso a la tecnología herramienta que ha sido tan útil durante la pandemia y sigue
+estando en vigencia.
+La problemática que viven las familias de Ecuador, en este caso las milagreñas, en relación a obtener
+fuentes de ingreso, es decir, una fuente de empleo estable, lleva a esta población de la provincia del
+Guayas a presentar dificultades económicas que no les permiten vivir dignamente, para luego poder
+tener en consideración la educación.
+Sumado a esta problemática esta la inestabilidad de los precios o aumento de precios, que conlleva
+a reducir el poder adquisitivo de las personas, siendo las carencias de productos básicos aún
+mayores.
+Lograr que la sociedad obtenga su desarrollo y goce de los beneficios que esto produce es un
+objetivo de nuestra Coordinación, sin embargo, los problemas sociales son múltiples, lo que produce
+un tejido social caracterizado por necesidades insatisfechas, llevando a la población a vivir
+situaciones no deseadas que desestabilizan el bienestar común
+Expuesta esta situación y basándonos en la Constitución de la República del Ecuador, que dispone
+en los siguientes artículos:
+El Estado garantizará este derecho mediante políticas económicas, sociales, culturales, educativas
+y ambientales; y el acceso permanente, oportuno y sin exclusión a programas, acciones y servicios
+de promoción y atención integral de salud sexual y salud reproductiva.
+Art. 35.- “Las personas adultas mayores, niñas, niños y adolescentes, mujeres embarazadas […]
+recibirán atención prioritaria y especializada en los ámbitos público y privado…”
+Art. 226.- “Las instituciones del Estado, sus organismos, dependencias […] tendrán el deber de
+coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los
+derechos reconocidos en la Constitución.”
+Art. 227.- “La administración pública constituye un servicio de colectividad que se rige por los
+principios de eficacia, eficiencia, calidad, jerarquía, desconcentración, descentralización,
+coordinación, participación, planificación, transparencia y evaluación”
+Art. 238.- “Los gobiernos autónomos descentralizados gozarán de autonomía política, administrativa
+y financiera y se regirán por los principios de solidaridad, subsidiaridad, equidad interterritorial,
+integración y participación ciudadana.
+Art. 240.- en el segundo párrafo manifiesta que “Todos los gobiernos autónomos descentralizados
+ejercerán facultades ejecutivas en el ámbito de sus competencias y jurisdicciones territoriales…”
+Art. 277.- Para la consecución del buen vivir, serán deberes generales del Estado:
+1.
+
+Garantizar los derechos de las personas, las colectividades y la naturaleza.
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+2. Dirigir, planificar y regular el proceso de desarrollo.
+3. Generar y ejecutar las políticas públicas, y controlar y sancionar su incumplimiento.
+4. Producir bienes, crear y mantener infraestructura y proveer servicios públicos.
+Asimismo, el Código Orgánico de Organización Territorial, Autonomía y Descentralización
+(COOTAD), en el Capítulo III, Art. 54 establece que son funciones de los GAD Municipales las
+siguientes:
+a) Promover el desarrollo sustentable de su circunscripción territorial cantonal, para garantizar la
+realización del buen vivir a través de la implementación de políticas públicas cantonales, en el marco
+de sus competencias constitucionales y legales
+En base a los antecedentes expuestos y en atención al MEMORANDO No. GADMM-DDIS - 20221941-M, suscrito por el COORDINADORA INSTITUCIONAL GESTIÓN DE EDUCACIÓN Y
+DEPORTE, mediante el cual informa acerca de la necesidad de los jóvenes y la falta de acceso a
+la educación por la falta de herramientas tecnológicas y siendo considerados por nuestra Carta
+Magna como grupo de atención prioritaria se procedió a dar trámite a lo requerido referente al inicio
+del proceso de “ADQUISICION DE TABLETS ENFOCADAS A LA EDUCACION PARA LA
+JUVENTUD DEL CANTON SAN FRANCISCO DE MILAGRO”.
+3. OBJETIVOS
+
+GENERAL
+• Adquirir 1800 Tablets para ser entregadas a los Bachilleres del cantón Milagro en el periodo
+comprendido del año lectivo 2022- 2023
+ESPECÍFICO
+• Brindar las tablets para los estudiantes graduados con los mejores promedios como una
+herramienta de estudio y superación personal que los ayudara a continuar estudiando
+• Incentivar a los jóvenes en general a seguir sus estudios.
+• Mantener a los bachilleres y jóvenes en general al día con la tecnología
+4. ALCANCE
+
+Se realizará la adquisición de 1800 (mil ochocientos) tablets para contribuir a mejorar la preparación
+académica de los jóvenes bachilleres y a incentivar a los demás estudiantes a que obtengan buenas
+calificaciones
+
+5. PRODUCTOS O SERVICIOS ESPERADOS
+El contratista tendrá que disponer del stock de la cantidad de 1800 tablets en la tabla inferior, se
+debe reunir las condiciones indicadas y cumplir con las siguientes especificaciones técnicas
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+NUMERO
+
+CPC
+
+DESCRIPCION
+
+CANTIDAD
+
+DETALLE
+
+1
+
+4522000110
+
+Tablet
+
+1800
+
+UNIDAD
+
+Especificaciones Técnicas
+Marca, modelo y número de parte
+Tipo de computador
+Velocidad mínima del procesador
+Número mínimo del procesador
+Tamaño de pantalla mínima
+Tecnología de la pantalla
+Brillo de pantalla mínima
+Tipo de touch
+Resolución mínima
+Profundidad de Colores Mínima
+Resolución mínima de camara frontal
+Resolución mínima de camara posterior
+Memoria RAM mínima
+Almacenamiento mínimo
+Slot para almacenamiento externo
+Conectividad inalámbrica
+Tecnología de báteria
+Sitema Operativo
+Sonido
+Conecto de Audio
+G-sensor
+Impresión de logo del GAD y control registro
+
+El oferente debe especificar que deben
+ser marcas reconocidas mundialmente
+Tablet
+2,0GHz 64 BITS
+2
+8 pulgadas
+LCD LED IPS
+300 Nits
+Multi Touch
+1280x800 IPS
+16,7 Millones de colores
+1,8 Megapixeles
+4,6 Megapixeles
+2GB
+32GB
+Micro SD para mínimo 128Gb
+Wifi 802 11°/b/g
+Polímero de li-ion de litio
+Android
+Dolby Atmos
+Requerido
+Requerido
+Laser alta definición 450-550nm
+
+6. CÓDIGO CPC
+
+No.
+
+CPC
+
+DESCRIPCIÓN
+
+1
+
+4522000110
+
+TABLET
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+7. EXPERIENCIA GENERAL Y ESPECÍFICA
+
+TIPO
+
+DESCRIPCIÓN
+
+VALOR MONTO
+MÍNIMO
+
+ESPECIFICA
+
+El oferente deberá acreditar experiencia en TABLETS con
+un monto mínimo de USD$ 74.995,20 ejecutados dentro
+de los últimos 5 años, en una o en la suma de varias
+experiencias.
+
+$37.497,60
+
+GENERAL
+
+El oferente deberá acreditar experiencia en ventas de
+DISPOSITIVOS ELECTRONICOS general en los últimos
+15 años
+
+$74.995,20
+
+Para acreditar su experiencia el oferente debe presentar:
+•
+
+En el sector público, se aceptará acta de entrega de recepción y contrato (de ser el caso)
+
+•
+
+En el sector privado se requiere: certificado indicando monto de contratación, fecha de
+recepción y objeto de contratación con su respectiva factura y retención (de ser el caso)
+
+8. PLAZO DE EJECUCIÓN
+
+El plazo de ejecución será de 30 días posterior a la firma del contrato. Cualquier cambio o
+modificación podrá llevarse a cabo previa
+En el cómputo del plazo de duración, prórrogas y multas se cuentan todos los días, desde el día
+siguiente de la suscripción o desde el día siguiente de cumplirse las condiciones establecidas en los
+pliegos. (Art. 116 del Reglamento General de la LOSNCP)
+9. PRESUPUESTO REFERENCIAL
+El presupuesto referencial según el REGLAMENTO DE LA LEY ORGÁNICA SISTEMA
+NACIONAL CONTRATACIÓN PÚBLICA en su Art. 130 literal 5 “El presupuesto referencial de toda
+subasta inversa será visible “la presente contratación es de $249.984,00 dólares norte americanos
+10. FORMA Y CONDICIONES DE PAGO
+Los pagos se realizarán contra entrega de los bienes requeridos, previo a la presentación del acta
+de entrega-recepción firmada por el administrador de contrato y el encargado de Bodega con su
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+debido
+historial
+fotográfico
+realizado, informe de satisfacción del administrador de contrato y toda la documentación respectiva
+por parte del proveedor.
+
+11. OTROS PARÁMETROS DE EVALUACIÓN
+DESCRIPION
+
+DIMENSION
+
+FUENTE O MEDIO DE VERIFICACIÓN
+El proveedor deberá adjuntar a la documentación:
+
+CERTIFICADO
+DE CALIDAD
+
+CALIDAD
+
+FICHA TÉCNICA
+
+CERTIFICADO
+
+El proveedor deberá adjuntar la ficha técnica o certificado
+donde se evidencie las características de los bienes
+ofertados, acorde a las especificaciones técnicas indicadas.
+
+GARANTÍA TÉCNICA
+
+CERTIFICADO
+
+El oferente junto con su oferta deberá adjuntar la garantía
+técnica vigente por 1 año desde la fecha de recepción de los
+bienes.
+
+CARTA DE
+COMPROMISO DE
+CANJE
+
+CERTIFICADO
+
+CERTIFICADO DE
+COMPROMISO
+
+CERTIFICADO
+
+•
+•
+
+Certificado de calidad emitido por el proveedor.
+Garantizar que los productos cumplan con las
+especificaciones técnicas solicitadas por la entidad.
+
+El oferente deberá certificar y garantizar que el producto
+defectuoso, deteriorado o que presente daños dentro los 6
+meses de adquisición será repuesto por el proveedor, sin que
+esto represente costo alguno para la Institución; la reposición
+se la realizará en 48 horas luego de su notificación por parte
+del Administrador de contrato.
+El oferente deberá adjuntar un certificado donde acepte y
+cumpla a cabalidad con todo lo que la entidad solicita.
+
+12. LUGAR Y FORMA DE ENTREGA
+En la ciudad de San Francisco de Milagro, en el Departamento de Bodega, ubicado en el Terminal
+Terrestre, ubicado en las calles Babahoyo entre Otto Arosemena y Víctor Emilio Estrada.
+13. PERSONAS QUE INTERVIENEN EN EL CONTRATO
+ADMINISTRADOR DEL CONTRATO
+Ing. Julio Cesar Barrera Cadme
+CI: 0918478330
+Cargo: Coordinador Institucional de Gestión de Educación y Deporte
+Teléfono de contacto: 099 375 5835
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+14. GARANTÍAS
+
+Se aplicarán las garantías a conforme a lo establecido en el Art. 76 de la Ley Orgánica del Sistema
+Nacional de Contratación Pública (LOSNCP)
+•
+
+Garantía técnica por 6 meses, ante defectos de fabricación.
+
+15. MULTAS
+
+Las multas se impondrán por cada día de retardo en el cumplimiento de la ejecución de las
+obligaciones contractuales, se aplicará la multa de UNO POR MIL (1 X 1.000) sobre el porcentaje de
+las obligaciones que se encuentran pendientes de ejecutarse conforme lo establecido en el contrato,
+de acuerdo a lo establecido en el Art. 71 de la LOSNCP vigente.
+16. OBLIGACIONES DEL CONTRATISTA
+•
+•
+•
+•
+•
+
+La omisión de cualquier detalle que deba formar parte de la orden de compra, no exime al
+contratista de la responsabilidad y obligación de ejecutarlos.
+Por consiguiente, no podrá tomarse como base para reclamaciones o demandas posteriores.
+Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con los términos y
+condiciones de la compra.
+Obrar con lealtad y buena fe en las distintas etapas contractuales, evitando dilataciones y
+contratiempos tanto en cumplimiento de requisitos de ejecución como en el desarrollo del
+contrato.
+Además de las obligaciones ya establecidas en estos términos de referencia y en las
+especificaciones técnicas, el PROVEEDOR está obligado a cumplir con cualquier condición que
+se derive natural y legalmente del objeto del contrato y sea exigible por constar en cualquier
+documento del mismo o en norma legal específicamente aplicable.
+
+•
+Todo lo señalado en las especificaciones técnicas.
+•
+Serán también de cuenta del contratista y a su costo, todas las obligaciones a que se deriven
+del contrato suscrito.
+•
+Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano ofertado.
+•
+Suscribir el contrato en el término de quince días contados a partir de la fechade notificación
+de la Resolución de Adjudicación.
+
+17. OBLIGACIONES DE LA CONTRATANTE
+• Dar solución a las peticiones y problemas que se presenten en la ejecución del contrato, en
+un plazo de 5 (cinco) días contados a partir de la petición escrita formulada por el contratista.
+• Verificar los documentos que el proveedor debe presentar, de conformidad con los intereses
+institucionales.
+• Otorgar al proveedor las facilidades necesarias para la recepción de los bienes.
+• Verificar el cumplimiento de las especificaciones técnicas de los productos.
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+• La entidad contratante en un plazo máximo de 30 (treinta) días suscribirá todo Contrato
+Complementario una vez que toda la documentación esté completa.
+
+18. PARÁMETROS DE EVALUACIÓN
+PARÁMETRO
+
+CUMPLE NO CUMPLE OBSERVACIONES
+
+Integridad de la oferta
+Experiencia general
+Experiencia específica
+Umbral de Valor Agregado Ecuatoriano
+Mínimo (VAE)
+Patrimonio (Personas
+Jurídicas) *
+Especificaciones técnicas o términos de
+referencia
+Otros parámetros de evaluación:
+• Registro sanitario
+• Ficha técnica
+• Garantía técnica
+• Carta de compromiso de canje
+• Certificado de compromiso
+RESULTADO
+Nota: La integridad de la oferta técnica se evaluará considerando la presentación de los formularios
+previstos en los pliegos.
+
+19. PERSONAL TÉCNICO/EQUIPO DE TRABAJO/RECURSOS
+No se requiere
+
+20. EXPERIENCIA MINIMA DEL PERSONAL TECNICO
+No se requiere
+
+21. PATRIMONIO
+En caso de personas jurídicas, la entidad contratante verificará que el patrimonio del oferente sea
+igual o superior a la siguiente relación con el presupuesto referencial del procedimiento de
+contratación.
+PRESUPUESTO REFERENCIAL MONTO QUE DEBE CUMPLIRSE DEL PATRIMONIO USD
+EN USD
+FRACCIÓN BÁSICA
+EXCEDENTE
+25% del presupuesto
+0,00 - 200.000,00
+-------referencial
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+200.000,00 - 500.000,00
+
+50.000,00
+
+500.000,00 - 10’000.000,00
+
+100.000,00
+
+10’000.000,00 - en adelante
+
+1’000.000,00
+
+20% sobre el exceso de
+250.000,00
+10% sobre el exceso de
+1’000.000,00
+Más del 5% sobre el exceso
+de 20’000.000,00
+
+El patrimonio las personas jurídicas pueden justificar con la presentación del formulario de
+declaración de impuesto a la renta del ejercicio fiscal inmediato anterior que fue entregada al servicio
+de rentas internas SRI y/o los balances presentados al órgano de control respectivo.
+
+22. PORCENTAJE DE VALOR AGREGADO ECUATORIANO
+El oferente deberá cumplir con el umbral del VAE establecido por el SERCOP.
+23. ÍNDICES FINANCIEROS
+ANÁLISIS DE LOS ÍNDICES FINANCIEROS
+Los índices financieros constituirán información de referencia respecto de los participantes en el
+procedimiento y en tal medida, su análisis se registrará conforme el detalle a continuación.
+
+NO.
+
+1
+
+2
+
+TIPO
+
+Financiero
+
+Financiero
+
+DESCRIPCIÓN
+ÍNDICES
+
+Índice de Solvencia
+
+Índice de
+Endeudamiento
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+INDICADOR
+SOLICITADO
+
+DESCRIPCIÓN
+
+1,00
+
+MAYOR O IGUAL A 1,0 Para la
+verificación de los índices financieros se
+requiere que el oferente presente el
+formulario de declaración de impuesto a
+la renta del ejercicio fiscal inmediato
+anterior que fue entregada al servicio de
+rentas internas SRI. y/o los balances
+presentados al órgano de control
+respectivo.
+
+1,50
+
+MENOR A 1.5 Para la verificación de los
+índices financieros se requiere que el
+oferente presente el formulario de
+declaración de impuesto a la renta del
+ejercicio fiscal inmediato anterior que fue
+entregada al servicio de rentas internas
+SRI. y/o los balances presentados al
+órgano de control respectivo.
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+Para la verificación
+se requiere que el
+oferente presente el formulario de declaración de impuesto a la renta del ejercicio fiscal inmediato
+anterior que fue entregada al Servicio de Rentas Internas SRI. y/o los Balances presentados al
+órgano de control respectivo.
+
+24. VARIACIÓN DE LA PUJA
+La variación de la puja será del 0.5%.
+25. VIGENCIA DE LA OFERTA
+La vigencia de la oferta será de mínimo 30 días de conformidad a lo dispuesto en el artículo 30 de la
+Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+26. TIPO DE ADJUDICACIÓN
+El tipo de adjudicación será total, contra- entrega.
+
+27. SUGERENCIA DE DESIGNACIÓN
+PRECONTRACTUAL:
+
+DE
+
+COMISIÓN
+
+TÉCNICA
+
+PARA
+
+LA
+
+FASE
+
+PRESIDENTE DE LA COMISIÓN:
+Kevin Joel Goyburu Tagle
+Cargo: Técnico 2 de Servicios Sociales
+Cédula: 0942238692
+
+PROFESIONAL AFÍN AL OBJETO DE CONTRATACIÓN:
+Tnlga Gioconda Castillo Bernita
+Cargo: Técnico 2 de Servicios Sociales
+Cédula: 1201954177
+SECRETARIO:
+Claribel Bremilda León Troya
+Cargo: Asistente 1 administrativo
+Cédula: 0910748607
+TITULAR DEL AREA REQUIRIENTE:
+Tnlga. Elizabeth Jimenez Landazuri
+Cargo: Directora de Desarrollo e Inclusión Social
+Cédula: 1202261234
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+DIRECCIÓN DE DESARROLLO E INCLUSIÓN SOCIAL
+
+28. SUGERENCIA DE TIPO DE PROCESO: SUBASTA INVERSA
+
+CONTROL DE FIRMAS DEL REQUERIMIENTO
+
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+JULIO CESAR
+BARRERA CADME
+
+ELIZABETH DEL
+ROSARIO JIMENEZ
+LANDAZURI
+
+ELABORADO POR:
+Ing. Julio Cesar Barrera Cadme
+
+REVISADO Y APROBADO POR:
+Tnlga. Elizabeth Jimenez
+
+COORDINADORA INSTITUCIONAL
+GESTIÓN DE EDUCACIÓN Y
+DEPORTE
+
+DIRECTORA DE DESARROLLO E
+INCLUSIÓN
+SOCIAL
+
+Dirección: JUAN MONTALVO Y BOLÍVAR (Esquina)
+Teléfono: 04 - 2970082
+Código Postal: 09-17-06
+Email: alcaldia@gadmilagro.gob.ec
+GUAYAS - ECUADOR
+
+www.milagro.gob.ec
+
+

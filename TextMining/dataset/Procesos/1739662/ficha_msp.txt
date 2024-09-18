@@ -1,0 +1,156 @@
+MINISTERIO DE SALUD PÚBLICA
+SUBSECRETARÍA NACIONAL DE GOBERNANZA DE LA SALUD PÚBLICA
+DIRECCIÓN NACIONAL DE MEDICAMENTOS Y DISPOSITIVOS MÉDICOS
+FICHA TÉCNICA DE DISPOSITIVO MÉDICO
+1. DESCRIPCIÓN GENERAL
+1.1 UMDNS/CUDIM:
+
+16-649 / 16-649-006
+
+1.2 Nombre genérico:
+
+Equipo de venoclisis, 220 cm (+/- 10 cm)
+
+1.3 Tipo de producto:
+
+Dispositivo médico
+
+1.4 Especialidad:
+
+Uso General
+
+1.5 Nivel de atención:*
+
+I
+A B C
+
+II
+
+III IV APH LAC-1 LAC-2 LAC-3
+
+X X X
+
+X
+
+1.6 Clase de riesgo:
+
+I
+
+1.7 Presentación:
+
+Según consta en el Certificado de Registro Sanitario
+
+2. DESCRIPCIÓN TÉCNICA
+2.1 Especificaciones técnicas:
+
+Polivinil, cámara cuentagotas, 20 gotas/ml, filtro de 15 micras, línea de 220 cm
+(+/- 10 cm) de longitud, filtro en la base de la cámara, filtro hidrófobo en el tapón
+protector, conector Luer Lock, regulador de flujo roller, puerto de acceso en Y,
+punzón universal, libre de látex, estéril, descartable
+
+2.2 Aplicación y uso:
+
+Infusión intravenosa de medicamentos o líquidos
+
+2.3 Almacenamiento:
+
+Según lo establecido por el fabricante
+
+2.4 Tiempo de vida útil:
+
+Según consta en el Certificado del Registro Sanitario
+
+3. ENVASE
+3.1 Envase primario:
+
+De acuerdo con lo establecido en el Certificado de Registro Sanitario.
+
+3.1.1 Características:
+
+Sellado herméticamente, tamaño acorde al contenido interno.
+
+3.1.2 Rotulación:
+
+Debe contener información impresa en castellano o en inglés, con caracteres
+nítidos, legibles e indelebles y demás información de conformidad con lo
+establecido en la Normativa vigente. Además debe incluir la leyenda "Gratuito.
+Prohibida su venta".
+
+3.1.3 Consideraciones especiales: Se exceptuará la impresión de la leyenda en el envase primario y se aceptará
+solo en el envase secundario, previo justificativo técnico en los siguientes casos:
+- El envase primario sea pequeño.
+- Cuente con un sello de seguridad.
+3.2 Envase secundario:
+
+Según aplique de acuerdo con lo establecido en el Certificado de Registro
+Sanitario.
+
+3.2.1 Características:
+
+Material resistente que proteja al dispositivo médico de la manipulación al que
+será sometido, el tamaño deberá ser acorde al contenido interno.
+
+*El Nivel de atención es para fines informativos. Información que no limita la adquisición.
+
+3.2.2 Rotulación:
+
+Debe contener información impresa en castellano o en inglés, con caracteres
+nítidos, legibles e indelebles y demás información de conformidad con lo
+establecido en la Normativa vigente. Además debe incluir la leyenda "Gratuito.
+Prohibida su venta".
+
+3.3 Envase terciario:
+3.3.1 Características:
+
+Caja de cartón u otro material resistente a la estiba, sellado con cinta de
+embalaje, en buenas condiciones que garantice la integridad del contenido, el
+transporte y almacenamiento.
+
+3.3.2 Rotulación:
+
+Debe contener información impresa en castellano o en inglés, con caracteres
+nítidos, legibles e indelebles: Nombre del dispositivo médico, contenido, número
+de lote, fecha de expiración, fabricante/proveedor, condiciones de
+almacenamiento y país de origen.
+
+4. REQUISITOS SANITARIOS Y PARA RECEPCIÓN TÉCNICA (Control post registro nivel I)
+Todo dispositivo médico para su comercialización debe cumplir con los requisitos
+sanitarios establecidos en la Normativa Técnica Sanitaria Sustitutiva para el
+Registro Sanitario y Control de Dispositivos Médicos de Uso Humano, y de los
+Establecimientos donde se Fabrican, Importan, Dispensan, Expenden y
+Comercializan:
+• Certificado de Registro Sanitario ecuatoriano, vigente.
+• Certificado de Norma ISO 13485 o Norma específica del producto, o Certificado
+de Buenas Prácticas de Manufactura (BPM), vigentes, según aplique.
+PRESENTAR PARA RECEPCIÓN TÉCNICA
+Adquisición nacional:
+• Copia simple del Certificado de Registro Sanitario ecuatoriano, vigente.
+• Copia simple del Certificado de Análisis de Control de Calidad o su equivalente,
+del lote/s del dispositivo médico entregado.
+• Copia simple del Certificado de Norma ISO 13485 o Norma específica del
+producto, o Certificado de Buenas Prácticas de Manufactura (BPM), vigentes ,
+según aplique.
+• Copia simple de orden de compra/contrato de adquisición (según proceso de
+adquisición aplicado), a fin de verificar las especificaciones técnicas del objeto de
+contratación.
+• Copia simple del Certificado de Esterilidad (aplica solo para dispositivos
+médicos estériles), del lote/s del dispositivo médico entregado.
+Adquisición internacional:
+• Copia simple del Certificado de Registro Sanitario vigente del país de origen o
+su equivalente, según aplique.
+• Copia simple del Certificado de Análisis de Control de Calidad o su equivalente,
+del lote/s del dispositivo médico entregado.
+• Copia simple del Certificado de Norma ISO 13485 o Norma específica del
+producto, o Certificado de Buenas Prácticas de Manufactura (BPM), vigentes,
+según aplique.
+• Copia simple del Certificado de Esterilidad (aplica solo para dispositivos
+médicos estériles), del lote/s del dispositivo médico entregado.
+• Copia simple de la Lista de empaque (Packing list).
+
+5. RESPONSABLES Y FECHA
+
+Creación: AA 2017-12-22
+Modificación: KQ 2019-04-23
+Dirección Nacional de Medicamentos y Dispositivos Médicos
+
+

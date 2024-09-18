@@ -1,0 +1,5068 @@
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+1. ANTECEDENTES
+Dentro del Plan de Trabajo Plurianual de la Actual Administración contempla Impulsar
+programas y proyectos dirigidos a la satisfacción de las necesidades dentro de los
+componentes Biofísico, Sociocultural, Económico, Asentamientos Humanos, Movilidad,
+Energía, Conectividad, Político Institucional y Participación Ciudadana, que permitan un
+desarrollo sustentable y sostenido, garantizando la dotación de servicios institucionales de
+manera eficiente y eficaz.
+La norma 406-03 de control interno expedida por la Contraloría General del Estado
+menciona; “La Máxima Autoridad establecerá los controles que aseguren que las
+adquisiciones se ajusten a lo planificado, a la vez determinará los lineamientos que servirán
+de base para una adecuada administración de compras de bienes, considerando entre
+otras, las siguientes medidas:
+Las adquisiciones serán solicitadas, autorizadas y ejecutadas con ANTICIPACIÓN suficiente y
+en las cantidades apropiadas.
+La ejecución de las compras programadas para el año se realizará tomando en
+consideración el consumo real, la capacidad de almacenamiento, la conveniencia financiera
+y el tiempo que regularmente tome el trámite.
+Se mantendrán las unidades de abastecimiento o bodegas necesarias para garantizar una
+adecuada y oportuna provisión.
+Con oficio # 0026-CGI-GADMCH-2022 de fecha 07 de enero del 2022 y receptado en esta
+Unidad el día 17 de los corrientes, en donde la Coordinación Institucional solicita la
+elaboración de los Términos de Referencia y el Estudio de Mercado con sus respectivas
+certificaciones para la adquisición de consumibles de los equipos de impresión y copiadora
+del GAD Municipal de Chunchi.
+Mediante correo electrónico gadmch.sistemas@gmail.com de fecha 17 de enero del 2022
+se envía archivo *.xlsx Requerimiento de Consumibles a los diferentes correos designados
+como institucionales o reportados dentro de esta Unidad con fines laborales, con la
+finalidad de que los funcionarios a cargo realicen la verificación de suministros de impresión
+que de acuerdo al presupuesto para el año 2022 se podrá realizar la respectiva adquisición.
+Las Unidades de Bodega, Jurídico, Salud y Seguridad Ocupacional, Contabilidad, Financiero
+realizan sus respectivas observaciones al listado proporcionado por Sistemas; con estos
+antecedentes se solicita a las diferentes Unidades se proceda a entregar las certificaciones
+correspondientes para iniciar la fase preparatoria.
+NORMATIVA VIGENTE:
+
+1
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+Ley Orgánica de SISTEMA NACIONAL DE CONTRATACIÓN PÚBLICA, publicada en el
+Suplemento del Registro Oficial 395, de 4 de agosto de 2008, reformada el 9 de diciembre
+del 2016.
+Art. 47. Subasta inversa. (Reformado por el Art. 10 de la Ley. s/n, R.O. 100,2S, 14-X-2013).
+Para la adquisición de bienes y servicios normalizados que no consten en el catálogo
+electrónico, las Entidades Contratantes deberán realizar subastas inversas en las cuales los
+proveedores de bienes y servicios equivalentes, pujan hacia la baja el precio ofertado, en
+acto público o por medios electrónicos a través del Portal de COMPRASPÚBLICAS….
+REGLAMENTO GENERAL DE LA LEY ORGÁNICA DE SISTEMA NACIONAL DE
+CONTRATACIÓN PÚBLICA, REFORMADO EL 8 DE NOVIEMBRE DE 2016.
+Art. 42 .- Bienes y Servicios Normalizados.- Los bienes y servicios normalizados son
+aquellos cuyas características o especificaciones técnicas han sido estandarizadas u
+homologadas por la entidad contratante; y en consecuencia, dichas características o
+especificaciones son homogéneas y comparables en igualdad de condiciones.
+RESOLUCIÓN
+072-2016 MODIFICADA, CODIFICACIÓN Y ACTUALIZACIÓN DE LAS
+RESOLUCIONES EMITIDAS POR EL SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+CAPÍTILO IV. Cálculo del presupuesto referencial a ser utilizado en un procedimiento de
+contratación pública de bienes o servicios.
+Art. 147- Procedimiento.- Para la determinación del presupuesto referencial se deberá
+tomar como referencia el último valor de adjudicación que haya realizado la propia entidad
+contratante. (…) de características, especificaciones técnicas o términos de referencia que
+determinen un alcance similar a las requeridas por la entidad contratante.(…)
+
+Según Anexo 20 “REQUERIMIENTOS DE TRANSFERENCIA DE TECNOLOGÍA
+PARA BIENES IMPORTADOS ADQUIRIDOS EN LA CONTRATACIÓN PÚBLICA
+POR CPC”
+1.2. NIVEL TT2: Transferencia de tecnología dentro de la compra pública de bienes con
+intensidad tecnológica baja y media-baja.
+Requerimientos:
+• Requerimientos de Nivel TT1.
+• Taller o curso de capacitación para conocer el correcto uso o manejo del producto.
+• CD donde se exponga el curso o taller de capacitación que fue dado a personal
+ecuatoriano.
+
+2. JUSTIFICACIÓN
+Es necesaria la adquisición de tóner, cartuchos, tintas, cintas para las impresoras y
+copiadoras de la Institución, de esta manera puedan trabajar acorde a los requerimientos
+2
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+de los departamentos que conforman el Gobierno Autónomo Descentralizado Municipal de
+Chunchi, para la reproducción de información, impresión de documentos de respaldo de
+procesos y trámites en general. Y de esta forma cumplir con los objetivos institucionales
+trazados en los respectivos Planes Operativos Anuales de cada dependencia.
+Mediante proceso de subasta inversa Electrónica N°: SIE-GADMCH-02-2021, se realizó la
+última ADQUISICIÓN DE TONERS mediante este sistema de Subasta Inversa, pero debido al
+consumo de estos suministros, se han agotado o se están por agotarse en el stock de
+bodega Municipal; resulta necesario realizar una nueva adquisición, con el fin de permitir
+el funcionamiento de las impresoras, copiadoras que ya no cuentan con la disponibilidad de
+tóner, cartuchos, etc., es imprescindible tener un stock mínimo en la bodega, cuando el
+caso lo amerite.
+Los departamentos que actualmente necesitan de estos insumos, corresponden a
+Secretaría General, Alcaldía, Obras Públicas, Avalúos y Catastros, Desarrollo Comunitario,
+Acción Social, Recreación, Cultura y Deportes, Registro de la Propiedad, Departamento de
+Desarrollo Agropecuario, Centro de Faenamiento, Plaza de Rastro, Procuraduría Sindica,
+Contabilidad, Complejo de la Familia, Departamento Financiero, Comisaría, Administración
+de Mercados, Recaudación, Administración de Cementerio, Taller Mecánico, Sistemas,
+Proveeduría, Talento Humano, Junta Cantonal de Protección de Derechos, Centro de Niños
+con Capacidades Especiales, Unidad Tránsito, Rentas, Relaciones Públicas, Tesorería,
+Unidad de Gestión Ambiental, Planificación, Coactivas, Proyectos MIES, Consejo Cantonal
+de Derechos, Seguridad y Salud Ocupacional. Debido al actual ritmo de trabajo del personal
+de los lugares citados, se ha evidenciado la necesidad de adquirir estos consumibles con la
+finalidad de mantener activos los equipos de impresión y copiado del GAD Chunchi para el
+año 2022, que permita mantener un desempeño continuo de las actividades que realiza el
+Gobierno Autónomo Descentralizado Municipal de Chunchi.
+El requerimiento de tóneres es permanente para todas las impresoras y copiadoras por
+parte de los departamentos que forman parte del ESTATÚTO ORGÁNICO ORGANIZACIONAL
+POR PROCESOS DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI.
+Es más que necesaria la compra de los consumibles antes citados ya que la demanda de
+trabajo dentro de las dependencias municipales lo exige y no se puede de manera
+irresponsable tratar de rellenar tóner que pueden en casos salvar el trabajo diario pero que
+a la final lo que hacen es dañar piezas y repuestos de los equipos de impresión.
+Con los antecedentes antes expuestos, resulta indispensable realizar un proceso de
+contratación con el objeto de seguir atendiendo de manera óptima las necesidades de los
+diferentes departamentos pertenecientes al Gobierno Autónomo Descentralizado
+Municipal de Chunchi.
+3. OBJETO DEL CONTRATO
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS, CINTAS Y SISTEMAS
+DE IMAGEN) PARA IMPRESORAS Y COPIADORAS DEL GOBIERNO AUTONOMO
+3
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+DESCENTRALIZADO MUNICIPAL DE CHUNCHI”.
+4. OBJETIVOS
+4.1. OBJETIVO GENERAL
+Proveer de suministros, consumibles y sistemas de imagen para impresoras y copiadoras de
+los diferentes departamentos del Gobierno Autónomo Descentralizado Municipal de
+Chunchi con la finalidad de proveer un servicio eficiente y eficaz tanto entre dependencias
+internas, así como principalmente a los usuarios externos.
+4.2 OBJETIVO ESPECÍFICO
+
+
+
+5.
+
+Mantener operativos los equipos de impresión y copiado
+Fortalecer la gestión institucional, de acuerdo a la demanda de servicios,
+formuladas por los procesos directivos, agregados de valor, habilitantes y
+ciudadanía en general de conformidad a la normativa que rige sobre la materia.
+
+ALCANCE
+
+Cubrir la necesidad de suministro (tóneres, cartuchos, cintas, sistemas de imagen) para el
+correcto funcionamiento, operatividad y trabajo óptimo de las impresoras, copiadoras
+asignadas en las dependencias que integran el orgánico funcional del GAD Municipal del
+cantón Chunchi.
+
+4
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+Detalle:
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI
+LISTADO DE TINTAS, TONNER O CARTUCHOS PARA
+EQUIPOS DE IMPRESIÓN POR DEPENDENCIA MUNICIPAL.
+
+CODIGO CPC
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+38912013912
+
+38912013912
+
+452400025
+
+DEPARTAMENTO
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+
+MARCA DE
+IMPRESORA
+
+MODELO
+
+DESCRIPCION
+
+EPSON
+
+L6171
+
+TINTA COLOR
+BLACK 1 LITRO
+
+EPSON
+
+L6171
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+EPSON
+
+L6171
+
+SAMSUNG
+
+LEXMARK
+
+LEXMARK
+
+CODIGO SUMINISTRO
+
+EQUYSUM
+
+CANTIDAD
+
+MEDIDA
+U /L
+
+valor
+Unitario
+Ref 1
+
+$
+9.26
+
+Valor
+Total
+
+NDMEPSONKL
+
+1
+
+L
+
+$
+9.26
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+NDMEPSONML
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+ML 1640
+
+TONER
+
+ML-D108S/XAA
+
+1
+
+U
+
+$
+20.90
+
+$
+20.90
+
+MX611dhe
+
+TONER
+
+604X00
+
+1
+
+U
+
+$
+60.94
+
+$
+60.94
+
+MX611dhe
+
+500Z UNIDAD DE
+IMÁGENES EN
+NEGRO DEL
+PROGRAMA DE
+RETORNO
+
+44101706
+
+1
+
+U
+
+$
+49.81
+
+$
+49.81
+
+valor
+unitario
+Ref 2
+
+OBSERVACION
+
+2.1.1;
+2.4.5.02;2.4.5.03;2.4.5.04;2.4.5.05;2.4.5.06
+
+5
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+2.4.5.01 Des Inf
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+$
+
+$
+9.26
+
+EPSON
+
+L575
+
+EPSON
+
+L575
+
+EPSON
+
+L575
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+EPSON
+
+L575
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+EPSON
+
+L5190
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+$
+
+242.77
+
+74.08
+
+6
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+3891201410
+
+3891201410
+
+3891201410
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ACCION SOCIAL
+RECREACION CULTURA Y
+DEPORTE
+ALCALDIA
+
+TINTA COLOR
+BLACK 1 LITRO
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+EPSON
+
+L5190
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+EPSON
+
+L5190
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+L4150
+
+TINTA COLOR
+BLACK 1 LITRO
+
+EPSON
+
+3891201410
+
+ALCALDIA
+
+EPSON
+
+L4150
+
+3891201410
+
+ALCALDIA
+
+EPSON
+
+L4150
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+ALCALDIA
+
+EPSON
+
+L4150
+
+38912013912
+
+AVALUOS Y CATASTROS
+
+SAMSUNG
+PROXPRESS
+
+38912013912
+
+AVALUOS Y CATASTROS
+
+471500411
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+1.1.1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+$
+
+$
+9.26
+
+E0010-01LB
+
+1
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+M3870FD
+
+TONER
+CARTRIDGE
+
+D203L
+
+2
+
+U
+
+LEXMARK
+
+X364DN
+
+Toner Cartridget
+
+PH264A11G
+
+3
+
+U
+
+AVALUOS Y CATASTROS
+
+LEXMARK
+
+X364DN
+
+E260X22G
+
+3
+
+U
+
+$
+80.66
+$
+111.90
+$
+43.86
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T920
+
+B3P11A
+
+0
+
+U
+
+$
+99.00
+
+$
+
+-
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T920
+
+B3P12A
+
+0
+
+U
+
+$
+99.00
+
+$
+
+-
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T920
+
+B3P10A
+
+0
+
+U
+
+$
+99.00
+
+$
+
+-
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T920
+
+B3P07A
+
+0
+
+U
+
+$
+99.00
+
+$
+
+-
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T920
+
+B3P08A
+
+0
+
+U
+
+$
+
+-
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T920
+
+Photoconductor
+HP Introductory
+Designjet Ink
+Cartridge Photo
+Black
+HP Introductory
+Designjet Ink
+Cartridge Gray
+HP Introductory
+Designjet Ink
+Cartridge Matte
+Black
+HP Introductory
+Designjet Ink
+Cartridge Cyan
+HP Introductory
+Designjet Ink
+Cartridge
+Magenta
+HP Introductory
+Designjet Ink
+
+$
+40.33
+$
+37.30
+$
+14.62
+
+B3P09A
+
+0
+
+U
+
+$
+
+-
+
+$
+99.00
+$
+99.00
+
+2,057.92
+
+3.1.1
+$
+
+236.42
+
+7
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+Cartridge Yellow
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T1300
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T1300
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T1300
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T1300
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T1300
+
+389120145
+
+AVALUOS Y CATASTROS
+
+HP Designjet
+
+T1300
+
+HP Designjet
+Negro
+HP Designjet
+Gray
+HP Designjet
+Photo Blanck
+HP Designjet
+Amarillo
+HP Designjet
+Magenta
+HP Designjet
+Cyan
+
+C9403A
+
+0
+
+U
+
+C9401A
+
+0
+
+U
+
+C9497A
+
+0
+
+U
+
+C9400A
+
+0
+
+U
+
+C9399A
+
+0
+
+U
+
+C9398A
+
+0
+
+U
+
+$
+105.00
+$
+95.00
+$
+95.00
+$
+95.00
+$
+95.00
+$
+95.00
+
+$
+23.95
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+$
+
+-
+
+CEMENTERIO
+
+HP LASER JET
+
+P1102w
+
+TONER
+
+85A - CE285A
+
+1
+
+U
+
+$
+23.95
+
+389120145
+
+CONSEJO CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO
+NEGRO
+
+T48XXL
+
+1
+
+U
+
+$
+52.44
+
+$
+52.44
+
+389120145
+
+CONSEJO CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO
+AMARILLO
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+389120145
+
+CONSEJO CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO ROJO
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+389120145
+
+CONSEJO CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO AZUL
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+38912013912
+
+CONSEJO CANTONAL DE
+PROTECCION DE DERECHOS
+
+XEROX PHA
+
+PHASER 3300
+MFP
+
+TONER
+
+1
+
+U
+
+$
+145.00
+
+$
+145.00
+
+3891201410
+
+CENTRO DE FAENAMIENTO
+
+EPSON
+
+L5190
+
+TINTA COLOR
+BLACK 1 LITRO
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3.5.4
+
+$
+9.26
+
+$
+
+38912013912
+
+3891201410
+
+CENTRO DE FAENAMIENTO
+
+EPSON
+
+L5190
+
+3891201410
+
+CENTRO DE FAENAMIENTO
+
+EPSON
+
+L5190
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+CENTRO DE FAENAMIENTO
+
+EPSON
+
+L5190
+
+38912013912
+
+PLAZA DE RASTRO
+
+HP Laser Jet Pro
+
+3891201410
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+
+E0010-01LB
+
+$
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+MFP.M127.fn
+
+TONER
+
+GCH-283A
+
+2
+
+U
+
+$
+148.00
+
+$
+
+296.00
+
+L6171
+
+TINTA COLOR
+BLACK 1 LITRO
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+E0010-01LB
+
+0
+
+23.95
+
+333.04
+
+2.4.5.02
+
+8
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+
+L6171
+
+3891201410
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+E0010-01LC
+
+0
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+E0010-01LM
+
+0
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+0
+
+LITROS
+
+$
+9.29
+
+E0010-01LY
+
+$
+
+-
+
+262.20
+
+$
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO
+NEGRO
+
+T48XXL
+
+5
+
+U
+
+$
+52.44
+
+$
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO
+AMARILLO
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+389120145
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+CARTUCHO ROJO
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+389120145
+
+CENTRO GERONTOLÓGICO
+
+EPSON
+WORKFORCE
+PRO
+
+WF-6590
+
+T48XXL
+
+1
+
+U
+
+3891201410
+
+COMISARIA
+
+EPSON
+
+L5190
+
+CARTUCHO AZUL
+TINTA COLOR
+BLACK
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+66.12
+$
+9.26
+
+$
+66.12
+$
+9.26
+
+1.3.1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+$
+
+$
+9.26
+
+$
+9.26
+$
+9.26
+$
+60.00
+$
+46.48
+$
+88.00
+
+3891201410
+
+389120145
+
+389120145
+
+3891201410
+
+3891201410
+
+COMISARIA
+
+COMISARIA
+
+EPSON
+
+EPSON
+
+L5190
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+L5190
+
+E0010-01LC
+
+1
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+3891201410
+
+COMISARIA
+
+EPSON
+
+L5190
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+COMISARIA
+
+SAMSUNG
+
+SCX-4300
+
+TONNER
+
+1
+
+U
+
+38912013912
+
+CONTABILIDAD
+
+SAMSUNG
+
+ML 1640
+
+TONER
+
+ML-D108S/XAA
+
+2
+
+U
+
+38912013912
+
+CONTABILIDAD
+
+SAMSUMG
+
+ML- 2010
+
+TONER
+
+MLT-D119S/SEE
+
+2
+
+U
+
+$
+9.26
+$
+60.00
+$
+23.24
+$
+44.00
+
+L6171
+
+TINTA COLOR
+BLACK 1 LITRO
+
+$
+18.52
+
+3891201410
+
+CONTABILIDAD
+
+EPSON
+
+3891201410
+
+CONTABILIDAD
+
+EPSON
+
+L6171
+
+3891201410
+
+CONTABILIDAD
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+CONTABILIDAD
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LB
+
+2
+
+LITROS
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+460.56
+
+97.04
+
+1.2.1
+$
+
+1,515.49
+
+9
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+38912013912
+
+DESARROLLO
+AGROPECUARIO
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+EPSON
+
+L6171
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+EPSON
+
+L6171
+
+38912013912
+
+DESARROLLO
+COMUNITARIO
+
+SAMSUNG
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+389120145
+
+HP LASER
+EPSON
+
+MFP 135W
+
+TONER
+
+L6171
+
+TINTA COLOR
+BLACK 1 LITRO
+
+MFP 135 W
+E0010-01LB
+
+2
+1
+
+U
+
+$
+71.00
+
+$
+142.00
+
+4.2.1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+$
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+ML-2851ND
+
+TONER
+
+ML-D2850A/XAA
+
+1
+
+U
+
+$
+22.10
+
+$
+22.10
+
+2.4.2
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS
+BLACK
+
+U
+
+$
+54.72
+
+$
+54.72
+
+$
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS
+YELLOW
+
+9202IA
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS CIAN
+
+9131IA
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+DESARROLLO
+COMUNITARIO
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS
+MAGENTA
+
+9201IA
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+3891201410
+
+FINANCIERO
+
+EPSON
+
+L565
+
+TINTA COLOR
+BLACK 1 LITRO
+
+TINTA COLOR
+BLACK 1 LITRO
+
+2
+
+LITROS
+
+$
+9.26
+
+$
+18.52
+
+3891201410
+
+FINANCIERO
+
+EPSON
+
+L565
+
+TINTA COLOR
+CYAN 1 LITRO
+
+TINTA COLOR
+CYAN 1 LITRO
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+FINANCIERO
+
+EPSON
+
+L565
+
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+FINANCIERO
+
+EPSON
+
+L565
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+1
+
+LITROS
+
+38912013912
+
+FINANCIERO
+
+SAMSUNG
+
+ML 1640
+
+TONER
+
+ML-D108S/XAA
+
+1
+
+U
+
+$
+9.26
+$
+60.00
+
+$
+9.26
+$
+60.00
+
+CARTUCHOS
+BLACK
+
+T48XXL
+
+2
+
+U
+
+$
+54.72
+
+$
+109.44
+
+9404IA
+
+1
+
+389120145
+
+FINANCIERO
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+389120145
+
+FINANCIERO
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS
+YELLOW
+
+T48XXL
+
+2
+
+U
+
+$
+66.12
+
+$
+132.24
+
+389120145
+
+FINANCIERO
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS CIAN
+
+T48XXL
+
+2
+
+U
+
+$
+66.12
+
+$
+132.24
+
+389120145
+
+FINANCIERO
+
+EPSON
+
+WORKFORCE
+PRO 6590
+
+CARTUCHOS
+MAGENTA
+
+T48XXL
+
+2
+
+U
+
+38912013912
+
+FINANCIERO
+
+HP
+
+102w
+
+TONER
+
+CF217A
+
+2
+
+U
+
+$
+66.12
+$
+71.25
+
+$
+132.24
+$
+142.50
+
+179.04
+
+275.18
+
+10
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+
+L2010
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+UGA
+
+EPSON
+
+L6171
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3.2.1 - 3.2.2 -3.2.3
+
+$
+9.26
+
+$
+
+3891201410
+
+UGA
+
+EPSON
+
+L6171
+
+3891201410
+
+UGA
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+UGA
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+UGA
+
+LEXMARK
+
+E260dn
+
+TONER
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+3891201410
+
+RELACIONES PUBLICAS
+
+EPSON
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+2
+
+U
+
+$
+9.26
+$
+145.00
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+$
+
+3891201410
+
+RELACIONES PUBLICAS
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+3891201410
+
+RELACIONES PUBLICAS
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+RELACIONES PUBLICAS
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+RENTAS
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+$
+9.26
+
+$
+18.52
+
+3891201410
+
+RENTAS
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+RENTAS
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+RENTAS
+
+EPSON
+
+L555
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+RENTAS
+
+CANON
+
+MP190
+
+# 40
+
+0
+
+U
+
+389120145
+
+RENTAS
+
+CANON
+
+MP190
+
+#41
+
+1
+
+U
+
+$
+9.26
+$
+45.00
+$
+40.00
+
+$
+9.26
+
+389120145
+
+LITRO DE TINTA
+COLOR YELLOW
+CARTUCHOS
+NEGROS
+CARTUCHOS DE
+COLOR
+
+OBRAS PUBLICAS
+
+HP Laser Jet Pro
+
+M102w
+
+TONER
+
+4
+
+U
+
+$
+71.25
+
+$
+285.00
+
+38912013912
+
+$
+$
+40.00
+
+327.04
+
+290.00
+
+-
+
+3.5.1 - 4.1.1
+
+11
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+3891201410
+
+OBRAS PUBLICAS OBRAS PUBLICAS -
+
+EPSON
+EPSON
+
+L5191
+
+LITRO DE TINTA
+COLOR BLACK
+
+L5191
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONKL
+
+3
+
+LITROS
+
+$
+9.26
+
+$
+27.78
+
+$
+9.26
+
+$
+18.52
+$
+18.52
+$
+18.52
+
+NDMEPSONCL
+
+2
+
+LITROS
+
+NDMEPSONML
+
+2
+
+LITROS
+
+3891201410
+
+OBRAS PUBLICAS -
+
+EPSON
+
+L5191
+
+3891201410
+
+OBRAS PUBLICAS -
+
+EPSON
+
+L5191
+
+LITRO DE TINTA
+COLOR MAGENTA
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+2
+
+LITROS
+
+$
+9.26
+$
+9.26
+
+PROVEEDURIA
+
+HP COLOR
+LASER JET
+
+M1212nfMFP
+
+HP Laser Jet Print
+Cartridge
+
+CE285A
+
+2
+
+U
+
+$
+140.00
+
+$
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+NEGRO
+
+T48XXL
+
+1
+
+U
+
+$
+54.76
+
+$
+54.76
+
+CARTUCHO
+MAGENTA
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+38912013912
+
+389120145
+
+PROVEEDURIA
+
+389120145
+
+PROVEEDURIA
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+389120145
+
+PROVEEDURIA
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO CYAN
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+YELLOW
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+7
+
+U
+
+$
+2.32
+
+$
+16.24
+
+604X
+
+2
+
+U
+
+$
+60.94
+
+$
+121.88
+
+44101706
+
+3
+
+U
+
+$
+49.81
+
+$
+149.43
+
+S015329
+
+0
+
+U
+
+604X
+
+1
+
+U
+
+$
+2.32
+$
+60.94
+
+$
+$
+60.94
+
+44101706
+
+1
+
+U
+
+$
+49.81
+$
+44.21
+$
+
+389120145
+
+PROVEEDURIA
+
+EPSON
+
+389120121
+
+RECAUDACION
+
+EPSON LX-350
+
+38912013912
+
+RECAUDACION
+
+LEXMARK
+
+MX611dhe
+
+452400025
+
+RECAUDACION
+
+LEXMARK
+
+MX611dhe
+
+EPSON
+
+FX - 890
+
+LEXMARK
+
+MX611dhe
+
+LEXMARK
+
+MX611dhe
+
+Toner Cartridge
+500Z UNIDAD DE
+IMÁGENES EN
+NEGRO DEL
+PROGRAMA DE
+RETORNO
+
+SAMSUNG
+
+SCX-4623F
+
+TONER
+
+MLT-D105L/XAA
+
+1
+
+U
+
+$
+49.81
+$
+44.21
+
+SAMSUMG
+
+SCX-4835FD
+
+Toner Cartridge
+
+205S
+
+1
+
+U
+
+$
+
+389120121
+38912013912
+
+REGISTRO DE LA
+PROPIEDAD
+REGISTRO DE LA
+PROPIEDAD
+
+38912013912
+
+REGISTRO DE LA
+PROPIEDAD
+REGISTRO DE LA
+PROPIEDAD
+
+38912013912
+
+REGISTRO DE LA
+
+452400025
+
+CINTAS
+TONER STARTER
+CARTRIDGE
+500Z UNIDAD DE
+IMÁGENES EN
+NEGRO DEL
+PROGRAMA DE
+RETORNO
+CINTA PARA
+IMPRESORA
+MATRICIAL
+
+$
+
+368.34
+
+280.00
+
+-
+
+1.2.2
+$
+
+199.17
+
+12
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+PROPIEDAD
+
+38912013912
+
+SECRETARIA
+
+XEROX ALTALINK
+
+4524000211
+
+SECRETARIA
+
+XEROX ALTALINK
+
+3891201410
+
+SECRETARIA
+
+EPSON
+
+B8055
+
+TONER NEGRO
+
+006R01697
+
+1
+
+B8055
+
+CILINDRO
+
+013R00875
+
+1
+
+L6171
+
+TINTA COLOR
+BLACK 1 LITRO
+
+44.21
+
+44.21
+
+U
+
+$
+175.00
+
+$
+175.00
+
+U
+
+$ 290.00
+
+$
+$
+9.26
+
+E0010-01LB
+
+1
+
+LITROS
+
+$
+9.26
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+290.00
+
+3891201410
+
+SECRETARIA
+
+EPSON
+
+L6171
+
+3891201410
+
+SECRETARIA
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+SECRETARIA
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+38912013912
+
+SECRETARIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M476dw
+
+HP 312A BLACK
+ORIGINAL LASER
+JET TONER
+
+CF380A
+
+1
+
+U
+
+$
+31.00
+
+$
+31.00
+
+38912013912
+
+SECRETARIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M476dw
+
+HP 312A CYAN
+ORIGINAL LASER
+JET TONER
+
+CF381A
+
+1
+
+U
+
+$
+35.00
+
+$
+35.00
+
+38912013912
+
+SECRETARIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M476dw
+
+CF382A
+
+1
+
+U
+
+$
+35.00
+
+$
+35.00
+
+38912013912
+
+SECRETARIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M476dw
+
+HP 312A YELLOW
+ORIGINAL LASER
+JET TONER
+HP 312A
+MAGENTA
+ORIGINAL LASER
+JET TONER
+
+CF383A
+
+1
+
+U
+
+$
+35.00
+
+$
+35.00
+
+38912013912
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+HP COLOR
+LASER JET PRO
+
+MFP M477 FDW
+
+HP 410A BLACK
+ORIGINAL LASER
+JET TONER
+
+CF410A
+
+1
+
+U
+
+$
+95.00
+
+$
+95.00
+
+1.1.3
+
+MFP M477 FDW
+
+HP 410A CYAN
+ORIGINAL LASER
+JET TONER
+
+CF411A
+
+1
+
+U
+
+$
+130.00
+
+$
+130.00
+
+$
+
+CF412A
+
+1
+
+U
+
+$
+130.00
+
+$
+130.00
+
+CF413A
+
+1
+
+U
+
+$
+130.00
+
+$
+130.00
+
+NDMEPSONKL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+38912013912
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+HP COLOR
+LASER JET PRO
+
+38912013912
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+HP COLOR
+LASER JET PRO
+
+MFP M477 FDW
+
+38912013912
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+HP COLOR
+LASER JET PRO
+
+MFP M477 FDW
+
+HP 410A YELLOW
+ORIGINAL LASER
+JET TONER
+HP 410A
+MAGENTA
+ORIGINAL LASER
+JET TONER
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR BLACK
+
+522.04
+
+13
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+38912013912
+
+SINDICATURA
+
+RICOH
+
+HMP501spf
+
+TONER
+
+X4B040
+
+1
+
+U
+
+$
+9.26
+$
+30.00
+
+$
+9.26
+$
+30.00
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+NEGRO
+
+T48XXL
+
+2
+
+U
+
+$
+54.72
+
+$
+109.44
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+MAGENTA
+
+T48XXL
+
+2
+
+U
+
+$
+66.12
+
+$
+132.24
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO CYAN
+
+T48XXL
+
+2
+
+U
+
+$
+66.12
+
+$
+132.24
+
+SINDICATURA
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+YELLOW
+
+T48XXL
+
+2
+
+U
+
+38912013912
+
+SISTEMAS
+
+SAMSUMG
+
+SCX-4835FD
+
+Toner Cartridge
+
+205L
+
+2
+
+U
+
+$
+66.12
+$
+36.82
+
+$
+132.24
+$
+73.64
+
+38912013912
+
+TALLER MECANICO
+
+HP LASER JET
+
+P1102w
+
+TONER
+
+85A
+
+1
+
+U
+
+38912013912
+
+TESORERIA
+
+SAMSUMG
+
+ML2010
+
+TONER
+
+1
+
+U
+
+$
+23.95
+$
+23.24
+
+$
+23.95
+$
+23.24
+
+CF410A
+
+1
+
+U
+
+$
+30.00
+
+$
+30.00
+
+CF411A
+
+1
+
+U
+
+$
+40.00
+
+$
+40.00
+
+CF412A
+
+1
+
+U
+
+$
+40.00
+
+$
+40.00
+
+CF413A
+
+1
+
+U
+
+$
+40.00
+
+$
+40.00
+
+389120145
+
+389120145
+
+389120145
+
+389120145
+
+SINDICATURA
+
+SINDICATURA
+
+SINDICATURA
+
+38912013912
+
+TESORERIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M477fdw
+
+HP 410A BLACK
+ORIGINAL LASER
+JET TONER
+
+38912013912
+
+TESORERIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M477fdw
+
+HP 410A CYAN
+ORIGINAL LASER
+JET TONER
+
+38912013912
+
+TESORERIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M477fdw
+
+38912013912
+
+TESORERIA
+
+HP COLOR
+LASER JET PRO
+
+MFP
+M477fdw
+
+HP 410A YELLOW
+ORIGINAL LASER
+JET TONER
+HP 410A
+MAGENTA
+ORIGINAL LASER
+JET TONER
+
+3891201410
+
+TESORERIA
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+$
+9.26
+
+$
+18.52
+
+3891201410
+
+TESORERIA
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+14
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+TESORERIA
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+3891201410
+
+TESORERIA
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+38912013912
+
+TURISMO
+
+SAMSUNG
+
+SCX-3200
+
+TONER
+
+MLT-D104S/XAA
+
+1
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+NEGRO
+
+T48XXL
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+MAGENTA
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+TURISMO
+UNIDAD DE TRANSITO
+
+389120145
+
+389120145
+
+389120145
+
+389120145
+38912013912
+3891201410
+3891201410
+
+TURISMO
+
+TURISMO
+
+TURISMO
+
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+
+$
+9.26
+
+$
+9.26
+
+U
+
+$
+9.26
+$
+22.41
+
+$
+9.26
+$
+22.41
+
+2.4.1
+
+1
+
+U
+
+$
+54.76
+
+$
+54.76
+
+$
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+CARTUCHO CYAN
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+YELLOW
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+HP Laser Jet
+enterprise
+
+MFPM630
+
+Toner Cartridget
+
+81ACF281A
+
+3
+
+U
+
+$
+180.00
+
+$
+540.00
+
+4.1.5
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+LITROS
+
+$
+21.00
+
+$
+42.00
+
+$
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+21.00
+
+$
+21.00
+
+NDMEPSONML
+
+1
+
+LITROS
+
+$
+21.00
+
+$
+21.00
+
+EPSON
+EPSON
+
+NDMEPSONKL
+
+2
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+$
+21.00
+
+$
+21.00
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+$
+21.00
+
+$
+42.00
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+$
+21.00
+
+$
+21.00
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+$
+21.00
+
+$
+21.00
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+$
+21.00
+
+$
+21.00
+
+38912013912
+
+COACTIVAS
+
+HP LASER JET
+
+P1102w
+
+TONER
+
+85A
+
+1
+
+U
+
+38912013912
+
+COACTIVAS
+
+SAMSUNG
+
+SCX-3200
+
+TONER
+
+MLT-D104S/XAA
+
+1
+
+U
+
+38912013912
+
+RECAUDACION
+
+SAMSUMG
+
+SCX-4835FD
+
+Toner Cartridge
+
+205S
+
+3
+
+U
+
+$
+23.95
+$
+22.41
+$
+44.21
+
+$
+23.95
+$
+22.41
+$
+132.63
+
+253.12
+
+750.00
+
+15
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+TINTA COLOR
+BLACK 1 LITRO
+
+E0010-01LB
+
+2
+
+LITROS
+
+$
+9.26
+
+$
+18.52
+
+E0010-01LC
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+E0010-01LM
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+$
+9.26
+
+$
+9.26
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+0
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+LITRO DE TINTA
+COLOR YELLOW
+
+LITROS
+
+$
+9.26
+
+$
+
+-
+
+$
+
+-
+
+3891201410
+
+TALENTO HUMANO
+
+EPSON
+
+L6171
+
+3891201410
+
+TALENTO HUMANO
+
+EPSON
+
+L6171
+
+3891201410
+
+TALENTO HUMANO
+
+EPSON
+
+L6171
+
+TINTA COLOR
+CYAN 1 LITRO
+TINTA COLOR
+MAGENTA 1
+LITRO
+
+3891201410
+
+TALENTO HUMANO
+
+EPSON
+
+L6171
+
+3891201410
+
+BODEGA
+
+EPSON
+
+3891201410
+3891201410
+3891201410
+
+BODEGA
+BODEGA
+
+EPSON
+EPSON
+
+NDMEPSONCL
+NDMEPSONML
+
+0
+
+BODEGA
+
+EPSON
+
+L555
+
+BODEGA
+
+RIBBON DE
+RESINA
+
+ZEBRA TLP2844
+
+CINTA
+
+64 MM
+
+0
+
+U
+
+$
+13.00
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+NEGRO
+
+T48XXL
+
+5
+
+U
+
+$
+54.76
+
+$
+273.80
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+MAGENTA
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO CYAN
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+BODEGA
+
+EPSON
+
+WORK
+CENTRE PRO
+WF 6590
+
+CARTUCHO
+YELLOW
+
+T48XXL
+
+1
+
+U
+
+$
+66.12
+
+$
+66.12
+
+38912013912
+
+CONCEJALIA (Adm. De
+Mercados)
+
+HP Deskjet
+
+F4480
+
+Tri-color Ink
+Cartridge
+
+60CC643W
+
+0
+
+U
+
+$
+65.00
+
+$
+
+3891201410
+
+ADMINISTRACION DE
+MERCADOS
+
+U
+
+$
+52.25
+
+$
+52.25
+
+389120121
+
+389120145
+
+389120145
+
+389120145
+
+389120145
+
+BODEGA
+
+BODEGA
+
+BODEGA
+
+RICOH
+
+SP4510SF
+
+TONER
+
+NDMEPSONYL
+
+0
+
+sp4500HA
+
+0
+
+1
+
+-
+
+3.5.2
+$
+
+52.25
+
+16
+
+INFORME DE NECESIDAD
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+6. Conclusiones y Recomendaciones:
+
+
+
+
+El listado de los consumibles con sus cantidades se realizaron en base a la
+certificación de bodega de existencias, así mismo se envió mediante correo
+electrónico a todas las dependencias municipales verifiquen el stock en cuanto a
+cantidad de acuerdo al presupuesto proporcionado para cada Unidad la Jefatura
+Financiera
+Existen ítems dentro del cuadro de especificaciones técnicas que se encuentran en
+cero tanto en la cantidad como en el valor debido a que las mismas están
+solicitadas por las Unidades Requirentes pero por el escaso presupuesto no
+abastece para la adquisición.
+
+ELABORADO POR:
+Firmado electrónicamente por:
+
+DIEGO ALEXANDER
+ESPINOZA LASSO
+
+Diego Espinoza Lasso
+ANALISTA DE SISTEMAS INFORMÁTICOS MUNICIPAL.
+
+Fecha: Chunchi, 09 de febrero del 2022.
+
+17
+
+

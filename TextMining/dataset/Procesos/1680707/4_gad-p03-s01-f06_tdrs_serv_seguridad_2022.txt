@@ -1,0 +1,1783 @@
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 1 de 20
+
+DESCRIPCIÓN GENERAL
+OBJETO DE LA
+CONTRATACION:
+UNIDAD REQUIRENTE:
+
+1.
+
+SERVICIO DE SEGURIDAD Y VIGILANCIA PARA LA DIRECCION PROVINCIAL DE
+SUCUMBIOS EN NUEVA LOJA Y SHUSHUFINDI 2 PUNTOS DE 24HORAS CON
+ARMA LETAL
+UNIDAD ADMINISTRATIVA FINANCIERA
+DIRECCIÓN PROVINCIAL SUCUMBÍOS
+
+NUMERO CERTIFICACION
+CATÁLOGO ELECTRONICO:
+
+CCE-2022-02
+
+FECHA:
+
+15/02/2022
+
+Antecedentes
+
+Que, el Art. 226 de la Constitución de la República del Ecuador, dispone a los servidores y servidoras
+de las instituciones del Estado, ejercer las facultades y atribuciones previstas en la Constitución y la
+Ley, así como, el deber de coordinar acciones para el cumplimiento de sus fines.
+Que, las compras públicas cumplirán con criterios de eficiencia, transparencia, calidad,
+responsabilidad ambiental y social. Se priorizarán los productos y servicios nacionales, en particular
+los provenientes de la economía popular y solidaria, y de las micro, pequeñas y medianas unidades
+productivas, conforme lo determina el Art. 288 de la Constitución de la República del Ecuador.
+Que, el Art. 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública - LOSNCP, establece
+como principios rectores del SNCP, los siguientes: “(…) legalidad, trato justo, igualdad, calidad,
+vigencia tecnológica, oportunidad, concurrencia, transparencia, publicidad; y, participación nacional”.
+Que, la Ley Orgánica de Servicio Público, en su Art. 23 literal l), establece como deberes y derechos
+de los servidores/as públicos, entre otros, el siguiente: “(… Desarrollar sus labores en un entorno
+adecuado y propicio, que garantice su salud, integridad, seguridad, higiene y bienestar; (…)”
+Que, el Art. 228 del Reglamento a la Ley Orgánica de Servicio Público, establece que: “(…) las
+Instituciones asegurará a la y los servidores públicos el derecho a prestar sus servicios en un ambiente
+adecuado y propicio, que garantice su salud ocupacional, comprendida ésta como la protección y el
+mejoramiento de la salud física, mental, social y espiritual, para lo cual el Estado a través de las
+máximas autoridades de las instituciones estatales, desarrollando programas integrales".
+Que, la Ley de Vigilancia y Seguridad Privada, publicada en el Registro Oficial Nro. 130 de fecha 22
+de julio de 2003, dentro de sus considerandos establece que, la prestación de los servicios de
+vigilancia y seguridad privada debe orientarse a disminuir las amenazas que puedan afectar la vida,
+la integridad personal y el pleno ejercicio de los legítimos derechos sobre la propiedad y bienes de las
+personas que reciban tales servicios, sin invadir la órbita de competencia privativa reservada a la
+fuerza pública; y, en su Art. 1, determina como objeto de la Ley, el siguiente: “(….) regula las
+actividades relacionadas con la prestación de servicios de vigilancia y seguridad a favor de personas
+naturales y jurídicas, bienes muebles e inmuebles y valores; por parte de compañías de vigilancia y
+seguridad privada, legalmente reconocidas. Se entiende por prestación de dichos servicios la que sea
+proporcionada, dentro del marco de libre competencia y concurrencia, a cambio de una
+remuneración”. En el Art. 2, señala: “(….) Los servicios de vigilancia y seguridad podrán prestarse en
+las siguientes modalidades:
+1.- Vigilancia fija. - Es la que se presta a través de un puesto de seguridad fijo o por cualquier otro
+medio similar, con el objeto de brindar protección permanente a las personas naturales y jurídicas,
+bienes muebles e inmuebles y valores en un lugar o área determinados. 2. Vigilancia móvil. - Es la
+que se presta a través de puestos de seguridad móviles o guardias, con el objeto de brindar protección
+a personas, bienes y valores en sus desplazamientos. 3. Investigación privada. - Es la indagación del
+estado y situación de personas naturales y jurídicas; y, bienes con estricta sujeción a lo previsto en
+la Constitución Política de la República y la ley (…)”.
+
+P á g i n a 1 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 2 de 20
+
+Que, el Reglamento a la Ley de Vigilancia y Seguridad Privada publicada en el Registro Oficial Nro.
+383 de fecha 17 de julio de 2008, en su Art. 1, define a las compañías de vigilancia y seguridad privada
+como: “(….) aquellas sociedades, que tengan como objeto social proporcionar servicios de seguridad
+y vigilancia en las modalidades de vigilancia fija, móvil e investigación privada; y, que estén legalmente
+constituidas reconocidas de conformidad con lo dispuesto en la Ley de Vigilancia y Seguridad Privada.
+En consecuencia, las compañías de vigilancia y seguridad privada, no podrán ejercer otra actividad
+ajena a los servicios en el presente Artículo”.
+Que, el mismo Reglamento, en su Art. 4, señala: “(… Las compañías de vigilancia y seguridad privada
+bajo la modalidad de vigilancia fija son exclusivamente responsables de los puestos de vigilancia, que
+de conformidad con las recomendaciones de seguridad y las disposiciones legales, se establezcan
+con el objeto de brindar protección permanente a las personas naturales y jurídicas, bienes muebles
+o inmuebles y valores en un lugar o área determinada”.
+Que, mediante Acuerdo Ministerial Nro. 6231 de fecha 05 de octubre de 2015, suscrito por el Abg.
+José Ricardo Serrano Salgado, ex ministro del Interior, acuerda:
+“Las instituciones públicas inmersas en la disposición contenida en el presente Artículo, deberán
+efectuar los procesos jurídicos y administrativos correspondientes para tal efecto”.
+“Art. 3.- Ninguna institución pública previa a contratar de los servicios de seguridad privada con
+compañías de seguridad podrá eximirse de requerir el respectivo permiso de operación para la
+prestación del servicio vigente, permiso que constituirá también documento habilitante. Dicha
+información será descargada como certificación digital desde la página web del Ministerio del Interior
+(…)”.
+Que, mediante Circular Nro. IESS-DNABS-2016-003-C, de fecha 21 de abril de 2016, la Directora
+Nacional de Adquisiciones, Bienes y Servicios a la época, informó la optimización de puestos de
+seguridad y vigilancia dispuesta en todas las unidades administrativas y médicas a nivel nacional;
+adjuntando el detalle de la distribución de cada una de las Direcciones Provinciales.
+Que, la codificación y actualización de la Resoluciones del SERCOP, expedida mediante Resolución
+Nro. RESERCOP- 2016-0000072 de 31 de agosto de 2016, por el Servicio Nacional de Contratación
+Pública, señala en su Capítulo VI - DISPOSICIONES PARA LA CONTRATACIÓN DEL SERVICIO DE
+VIGILANCIA Y SEGURIDAD PRIVADA POR PARTE DE LAS ENTIDADES CONTRATANTES, lo
+siguiente:
+“Art. 459.- De la contratación del servicio de vigilancia y seguridad privada. - Las disposiciones
+contenidas en el presente Capítulo son aplicables para todos los organismos y dependencias de la
+Función Ejecutiva que lleven a cabo procedimientos de contratación de servicios de vigilancia y
+seguridad privada.”
+Que, con Memorando Nro. MDI-VDI-SOP-DRCS-2019-0039-M, de fecha 17 de enero de 2019, la Abg.
+Jeniffer Estefanía Benítez Arguello, Directora de Regulación y Control de Servicios de Seguridad
+Privada del Ministerio del Interior, manifestó:
+“(…) En razón de que, por su naturaleza jurídica, el IESS no pertenece a la Función Ejecutiva,
+Legislativa, Judicial, Electoral o de Transparencia y Control Social, no es necesario que solicite
+autorización previa de la Dirección de Regulación y Control del Servicio de Seguridad Privada, del
+Ministerio del Interior, para contratar seguridad privada para sus inmuebles”.
+“Para la contratación de este tipo de servicio, la mencionada institución deberá cumplir con el Art. 2
+de la Resolución Nro. R.E.-SERCOP-2018-0000088, de 09 de marzo de 2018. La Contraloría General
+del Estado será la única institución competente para auditar dichos procesos de contratación, con
+fundamento en el Art. 2 de la Ley Orgánica de la Contraloría General del Estado”.
+“El Art. 25, dispone que el Reglamento Orgánico Funcional del IESS será expedido por el consejo
+Directivo; y, determinará las atribuciones, deberes y responsabilidades de las dependencias del
+
+P á g i n a 2 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 3 de 20
+
+Instituto encargado de los procesos operativos y de apoyo administrativo”.
+Que, la Ley de Seguridad Social manifiesta en el Art. 18.- “El IESS estará sujeto a las normas del
+derecho público y regirá su organización y funcionamiento por los principios de autonomía, división de
+negocios, desconcentración geográfica, descentralización operativa, control interno descentralizado y
+jerárquico, rendición de cuentas por los actos y hechos de autoridades, y garantía de buen gobierno,
+de conformidad con esta Ley y su Reglamento General”.
+Que, mediante Resolución C.D. 535, se aprueba el nuevo Reglamento Orgánico Funcional del Instituto
+Ecuatoriano de Seguridad Social, mismo que entró en vigencia a partir del 06 de mayo de 2017; en el
+Art. 10 establece las atribuciones y responsabilidades de Administrativo e Infraestructura, dentro de
+las cuales se encuentra: en el literal, cc) Controlar los Bienes Muebles de la Administradora Dirección
+General en su circunscripción, así mismo establece Productos y Servicios de Administrativo e
+Infraestructura "Informe de aplicación de políticas y estándares para la administración, gestión, y
+control de bienes y servicios del nivel provincial; kk) Supervisar y ejecutar los procesos de contratación
+de prestación de servicios básicos, transporte, conserjería, guardianía y demás servicios básicos
+necesarios para el normal desenvolvimiento de la Dirección Provincial, de conformidad con la
+normativa vigente.
+Que, la Ley Orgánica del Sistema Nacional de Contratación Pública en el Art. 47. Subasta Inversa. Para la adquisición de bienes y servicios normalizados que no consten en el catálogo electrónico, las
+Entidades Contratantes deberán realizar subastas inversas en las cuales los proveedores de bienes
+y servicios equivalentes, pujan hacia la baja el precio ofertado, en acto público o por medios
+electrónicos a través del Portal de COMPRASPUBLICAS.
+Que, el Art. 68 de la Ley Orgánica para la Planificación Integral de la Circunscripción Territorial
+Especial Amazónica de fecha 21 de mayo de 2018, Disposiciones Generales. Quinta. - En todos los
+procesos de contratación pública para la compra, adquisición y contratación de obras, bienes y
+servicios en la Circunscripción Territorial Especial Amazónica, se aplicarán acciones afirmativas para
+los productos y proveedores locales residentes amazónicos. Al menos el 70% de servicios y/o mano
+de obra deberá pertenecer a la jurisdicción específica en la cual se ejecute la contratación,
+requisito que deberá constar explícito y obligatoriamente en los respectivos términos de
+referencia.
+Que, con Acción de personal Nro. SDNGTH-2020-00609-MP, de fecha 21 de febrero de 2020, se
+encarga a la Ing. Zambrano Romero Addita Sadith las funciones de Director Provincial Sucumbíos.
+Que, mediante Memorando Nro. IESS-DNSC-2021-0214-M, de fecha 15 de marzo de 2021, se emiten
+la “Actualización a los lineamientos para la contratación del servicio de seguridad y vigilancia privada,
+en el Instituto de Seguridad Social, IESS”, suscrito por la Ing. Diana Sofía Uquillas Erazo como
+Directora Nacional de Servicios Corporativos.
+Que, mediante Resolución Nro. IESS-DG-2022-0002-RA, de fecha 11 de enero de 2022, por el Eco.
+Nelson Guillermo García Tapia, Director General del Instituto Ecuatoriano de Seguridad Social,
+resuelve en su Art. 1.- Aprobar el Plan Anual de Contratación del Instituto Ecuatoriano de Seguridad
+Social para el año 2022; Disposición General Primera. - La ejecución del Plan Anual de Contrataciones
+2022 será responsabilidad de la máxima autoridad de cada Centro de Responsabilidad Presupuestaria
+en función a la Resolución Administrativa Nro. IESS-DG-DR-2018-008-RFDQ de 21 de noviembre de
+2018.
+Que, mediante Memorando Nro. IESS-SDNCP-2022-0234-M, de fecha 10 de febrero de 2022 se emite
+por la Subdirección Nacional de Compras Públicas la Certificación de la existencia del servicio en el
+Plan Anual de Contrataciones 2022; Certificación PAC-REFORMADO Nro. CPAC-DPK-002-2022.
+2.
+
+Justificación
+
+En concordancia a las Normas de Control Interno de la Contraloría General del Estado; 100-02 Objetivos
+del control interno.- "Proteger y conservar el patrimonio público contra pérdida, despilfarro, uso indebido,
+
+P á g i n a 3 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 4 de 20
+
+irregularidad o acto ilegal". Y considerando que, los lineamientos para la Contratación de Seguridad y
+Vigilancia emitidos por la Dirección Nacional de Servicios Corporativos, establece: "DEPENDENCIAS
+QUE DEBEN LLEVAR LOS PROCESOS DE CONTRATACIÓN en su numeral 1.
+En las dependencias en las que funcionen las Direcciones Provinciales del IESS, corresponderá
+contratar el servicio de seguridad y vigilancia a cada Director/a Provincial.
+La contratación del servicio de vigilancia permitirá cumplir a cabalidad los objetivos, actividades y
+responsabilidades institucionales presentadas en el edificio perteneciente a la Dirección Provincial del
+IESS de Sucumbíos en Nueva Loja y la Agencia de atención universal en Shushufindi, así como
+precautelar las instalaciones de la institución y los bienes que se encuentran en su interior y que
+constituyen herramientas de trabajo para todos los servidores que laboran en la dependencia.
+El Instituto Ecuatoriano de Seguridad Social, como una entidad que presta servicios a la colectividad
+basados en los principios constitucionales de eficiencia, eficacia y calidad, es responsable de
+salvaguardar tanto los bienes muebles, inmuebles y equipamiento que son de propiedad del Instituto
+Ecuatoriano de Seguridad Social, así como de garantizar la integridad tanto de los/as funcionarios/as
+de la institución, y de los/as usuarios/a o beneficiarios de los servicios que esta entidad brinda.
+Con la finalidad de implementar medidas de protección y de seguridad y al no disponer de personal
+especializado que cumpla con las funciones de seguridad y vigilancia de las instalaciones, se requiere
+contratar una empresa que proporcione el servicio de seguridad y vigilancia para el edificio
+perteneciente a la Dirección Provincial del IESS de Sucumbíos en Nueva Loja y la Agencia de atención
+universal en Shushufindi.
+3.
+
+Objetivos
+
+3.1.
+
+Objetivo general
+
+Contratación del: “SERVICIO DE SEGURIDAD Y VIGILANCIA PARA LA DIRECCION PROVINCIAL
+DE SUCUMBIOS EN NUEVA LOJA Y SHUSHUFINDI 2 PUNTOS DE 24HORAS CON ARMA”, por el
+periodo de 365 días (desde el 03 de marzo de 2022 al 02 de marzo de 2023).
+
+3.2.
+
+Objetivo específico
+
+
+
+Brindar protección a la integridad tanto del personal administrativo y personal externo;
+Proteger los bienes que se encuentran en el Instituto Ecuatoriano de Seguridad Social;
+Dirección Provincial Sucumbíos en Nueva Loja y la Agencia de atención universal en
+Shushufindi; y,
+Garantizar un control pormenorizado tanto del personal que ingresa y sale a las instalaciones
+del Instituto Ecuatoriano de Seguridad Social; Dirección Provincial Sucumbíos en Nueva Loja y
+la Agencia de atención universal en Shushufindi.
+
+
+
+4.
+
+Alcance
+
+El servicio de Seguridad y Vigilancia, se dará en el edificio administrativo de la Dirección Provincial del
+IESS de Sucumbíos en Nueva Loja y la Agencia de atención universal en Shushufindi. Se requiere los
+siguientes puntos:
+TIPO
+
+DESCRIPCIÓN
+
+1
+
+PUNTO DE VIGILANCIA 24 HORAS DE
+LUNES A DOMINGO, CON ARMA LETAL
+TOTAL
+
+CANT.
+
+2
+
+UNIDAD DE
+NEGOCIO
+Dirección General
+
+LUGAR
+Dirección Provincial de Sucumbíos en Nueva Loja,
+Av. Circunvalación y Miguel Iturralde.
+Agencia de atención universal en Shushufindi,
+calle Los Laureles y Pedro Angulo.
+
+2
+
+P á g i n a 4 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+5.
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 5 de 20
+
+Naturaleza del objeto de la contratación y sugerencia de procedimiento
+
+Por la naturaleza de la contratación del: “SERVICIO DE SEGURIDAD Y VIGILANCIA PARA LA
+DIRECCION PROVINCIAL DE SUCUMBIOS EN NUEVA LOJA Y SHUSHUFINDI 2 PUNTOS DE
+24HORAS CON ARMA LETAL”, se determina y se aplica un procedimiento de Subasta Inversa
+Electrónica por ser un servicio normalizado; atendiendo a la definición establecida en el numeral 2 del
+Art. 6 de la Ley Orgánica del Sistema Nacional de Contratación Pública LOSNCP, y en el Art. 42 de su
+Reglamento General, que no consten en el Catálogo Electrónico, cuya cuantía supere el monto
+equivalente al 0.0000002 del Presupuesto Inicial del Estado.
+6.
+
+Código CPC
+
+El código CPC del objeto de contratación es el 852500021 PUNTO DE SERVICIO INSTITUCIONAL DE
+24 HORAS PERMANENTE CON ARMA LETAL, mismo que guarda coherencia con el Plan Anual de
+Contratación del Instituto Ecuatoriano de Seguridad Social para el año 2022.
+7.
+
+Metodología de trabajo
+
+El CONTRATISTA una vez suscrito el contrato, dispondrá de inmediato la concurrencia de su personal
+a las instalaciones del edificio administrativo de la Dirección Provincial de Sucumbíos en Nueva Loja y
+la Agencia de atención universal en Shushufindi para que, previa coordinación con el Administrador del
+Contrato, realicen las inspecciones de las instalaciones a dar el servicio y se den las directrices y
+especificaciones que normarán el trabajo diario de los puestos de vigilancia.
+El administrador del contrato de acuerdo al plazo de vigencia del mismo, vigilará el estricto cumplimiento
+de todas las obligaciones de la contratista mediante inspecciones continuas en las que se verificará la
+observancia de lo establecido en la Ley de Seguridad y Vigilancia Privada y su Reglamento vigente.
+El personal de seguridad deberá presentar al administrador del contrato un reporte de novedades, en
+caso de existir alguna eventualidad y alguna observación que se haya presentado en el día. (Bitácora).
+En caso de robo o pérdida, el contratista debe responder por esa sustracción y emitir un informe de las
+investigaciones realizadas.
+El administrador del contrato, vigilará el estricto cumplimiento de todas las obligaciones del contratista,
+con continuas inspecciones, en la que se verificará que cada uno de los guardias cuente con su ropa
+de trabajo adecuada, equipo de trabajo, bitácoras, y aplicará las multas establecidas en caso de
+incumplimiento.
+El contratista con el personal asignado vigilará y controlará, permanentemente las áreas externas e
+internas de las instalaciones, mediante rondas programadas y por lapsos razonables de tiempo.
+El supervisor verificará y controlará que las hojas del libro de control (bitácora) se encuentren
+previamente numeradas, antes de iniciar el registro y control de actividades y novedades.
+El proveedor garantizará el remplazo inmediato frente a ausencias no justificadas o enfermedad del
+vigilante. El guardia asignado para cada día de vigilancia asistirá puntualmente a su turno, procurará
+una buena presencia personal en lo referente al uniforme y cuidado personal. Bajo esta condición, está
+terminantemente prohibido asistir al trabajo en estado de embriaguez o peor ingerir bebidas alcohólicas
+durante su turno de trabajo.
+El manejo de armas por parte del personal de guardianía deberá contar con toda la documentación en
+regla.
+8.
+
+Información que dispone la entidad
+
+La entidad contratante proporcionará la siguiente información:
+
+P á g i n a 5 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+
+
+
+
+
+
+
+9.
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 6 de 20
+
+La ubicación exacta del lugar donde se prestará el servicio
+Nómina de los servidores y trabajadores que laboran en la institución
+Autorización para ingreso del personal que debe asistir a laborar en horarios especiales
+Listado de vehículos institucionales y vehículos de los funcionarios autorizados a utilizar los
+parqueaderos del edificio
+Determinación de áreas de acceso restringido
+Términos de Referencia
+ITEM
+
+1
+
+DESCRIPCIÓN
+
+CANT. DE PUNTOS
+
+PUNTO DE VIGILANCIA 24 HORAS DE LUNES A
+DOMINGO, CON ARMA LETAL
+
+2
+
+UNIDAD DE
+NEGOCIO
+
+LUGAR
+
+IESS, edificio administrativo de la
+Dirección Provincial de Sucumbíos en
+Nueva Loja, Av. Circunvalación y Miguel
+DIRECCION GENERAL
+Iturralde y la Agencia de atención
+universal en Shushufindi, calle Los
+Laureles y Pedro Angulo.
+
+Productos o servicios esperados
+El servicio debe ser de calidad y proactivo, para lo cual el proveedor del servicio dispondrá de guardias
+y supervisores idóneos debidamente seleccionados, capacitados, uniformados y con sus respectivas
+credenciales de identificación, de conformidad a lo previsto en la Ley de Vigilancia y Seguridad Privada.
+El proveedor será responsable de dotar a su personal del equipamiento, materiales de oficina, ropa de
+trabajo, equipos de seguridad industrial y en general de todas las facilidades necesarias para la
+adecuada y oportuna provisión del servicio.
+El proveedor garantizara el remplazo inmediato frente a ausencias no justificadas o enfermedad de los
+vigilantes.
+JORNADA
+Se requiere 2 punto de seguridad que laborarán en una jornada diaria de 24 horas, de lunes a domingo;
+se ubicara 1 punto en la plata baja de la Dirección Provincial de Sucumbíos en Nueva Loja y 1 punto
+en la Agencia de atención universal en Shushufindi.
+NRO.
+
+DEPENDENCIA
+
+NRO. DE PUESTOS
+
+1
+
+Dirección Provincial de Sucumbíos en Nueva Loja
+
+1 puesto de 24 horas
+
+1
+
+Agencia de atención universal en Shushufindi
+
+1 puesto de 24 horas
+
+El pago de horas extras queda bajo responsabilidad de la contratista de seguridad.
+El supervisor operará como saca franco según los turnos de los demás vigilantes, para mantener la
+continuidad de la vigilancia de los dos puntos.
+Durante la semana de servicio se ejecutarán hasta 40 horas semanales y hasta 12 horas
+suplementarias, con 48 horas continuas de descanso, máximo 12 horas diarias de trabajo, está
+prohibido totalmente doblar turnos.
+El resto de los días tendrán la misma modalidad de trabajo hasta completar el mes, dependerá de la
+contratista de seguridad rotar los turnos del personal a cargo.
+SUPERVISIÓN
+La contratista de seguridad designará un supervisor, el cual se encargará de controlar y velar por el
+cumplimiento de las actividades del personal de vigilancia del IESS, varias visitas durante las 24 horas
+
+P á g i n a 6 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 7 de 20
+
+al día, durante la vigencia del contrato.
+MOVILIZACIÓN
+La movilización de vigilantes y supervisores corre por parte de la contratista de seguridad.
+UNIFORMES
+
+
+
+
+
+
+La Contratista, a través de su personal, brindará el servicio de seguridad y vigilancia, para el efecto
+utilizará los uniformes autorizados por el Departamento de Control de Organizaciones de Seguridad
+Privada (COSP) de la Inspectoría General de la Policía Nacional.
+El uniforme deberá estar en buenas condiciones de uso, mismo que será sujeto de inspección por
+parte de la entidad contratante.
+Los vigilantes deberán estar correctamente uniformados con el equipo mínimo y armamento,
+portando la Credencial de Identificación otorgada por la respectiva compañía durante su jornada
+de trabajo, la misma que será intransferible, y que será otorgada por la contratista de seguridad.
+
+Adicional al uniforme de trabajo se entregará lo siguiente:
+ 1 Impermeable para la protección de lluvia por guardia.
+ 1 Par de botas para la protección de lluvia por guardia.
+FUNCIONES DE LOS VIGILANTES DEL EDIFICIO
+PUNTOS DE SEGURIDAD. - Los vigilantes a cargo del punto de garita estarán encargados de:
+1.
+
+Controlar el horario de ingreso y salida de los proveedores y servidores que se presentan a trabajar
+los días laborables, fines de semana y/o feriados que ingresaran por la puerta de la garita hacia
+las instalaciones a cargo del IESS;
+2. Vigilar y resguardar los vehículos institucionales, comunicando al administrador del contrato si
+existe novedades en los mismos;
+3. Inspeccionar y registrar en bitácoras y formulario de ingreso autorizado, el material que llega o sale
+en vehículos de proveedores y servidores para determinar posibles amenazas;
+4. Resguardar y controlar la infraestructura institucional a cargo, accesos y parqueaderos;
+5. Verificar que los vehículos que ingresen a los parqueaderos del IESS lo hagan respetando el límite
+de velocidad según la norma establecida de no circular a más de 20km/hora;
+6. Comunicar al administrador del contrato las visitas de la empresa eléctrica, de agua potable,
+telefónicas u otras empresas;
+7. Detallar en el formulario y bitácora los códigos y cantidad de los equipos, cajas, bienes y muebles
+que ingresan o salen, el nombre de la persona que retira o ingresa lo antes detallado, el piso y la
+razón de la salida o ingreso, adicionalmente es obligación comunicar de estas actividades y enviar
+fotografías de lo que se está realizando al administrador del contrato;
+8. Colaborar con el vigilante de recepción en la noche, realizando rondas cada hora por los pisos a
+cargo, patios traseros, archivos, bodegas y demás áreas;
+9. Registrar en el cuaderno de registro de equipos personales la marca, modelo y serie del ingreso
+de equipos computacionales de propiedad privada tales como: CPU, laptops, impresoras u otros
+similares, al final de la visita se revisará que los equipos que van a retirar sean los mismos que
+ingresaron;
+10. Inspeccionar el material que ingresan o retiran los contratistas, servidores y visitantes externos
+para determinar posibles amenazas dentro del edificio; y,
+11. Ejecutar en el día y en la noche rondas cada hora por los pisos a cargo, patios traseros, archivos,
+bodegas y aceras.
+FUNCIONES GENERALES DEL SUPERVISOR.
+Siendo la persona encargada de coordinar las acciones administrativas, operativas y técnicas, necesarias
+para la adecuada ejecución del Servicio de Vigilancia y Seguridad Privada, sus principales funciones son:
+
+P á g i n a 7 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+CÓDIGO: GAD-P03-S01-F05
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 8 de 20
+
+1.
+2.
+3.
+4.
+5.
+
+Organizar, dirigir, controlar y supervisar las actividades del personal de guardias.
+Realizar el trabajo de supervisión de manera continua (las mismas que podrán ser avisada o imprevistas)
+Elaborar el parte de novedades e informar por escrito al responsable del presente contrato.
+Controlar el estricto cumplimiento de presentación, horarios y turnos de trabajo del personal de seguridad.
+Acudir a las dependencias de la entidad contratante, cuando su presencia sea requerida por el
+responsable del presente contrato o el funcionario delegado de seguridad.
+6. Acudir inmediatamente y en cualquier momento, al lugar donde se presenten novedades que se
+constituyan en potencial riesgo o amenaza localizada en las instalaciones e informará de inmediato
+al responsable del presente contrato o al funcionario delegado de seguridad, en un inicio
+verbalmente para luego presentar un informe por escrito.
+7. Controlar y exigir a sus subordinados una excelente actitud de servicio y el porte digno y serio,
+8. Capacitar e instruir a sus subordinados sobre las consignas generales, particulares y específicas
+de cada uno de los puestos de vigilancia.
+9. Realizar continuamente la inspección de puestos de vigilancia.
+10. El Supervisor controlará que se registre en las bitácoras todas las novedades presentadas durante
+la ejecución del servicio, quien a su vez informará por escrito al Administrador del Contrato y al
+funcionario delegado de seguridad.
+
+10.
+
+Informes de validación
+
+No aplica
+
+11.
+
+Plazo de ejecución: parciales y/o total
+
+El de ejecución del servicio de seguridad y vigilancia para las instalaciones del IESS Dirección
+Provincial de Sucumbíos en Nueva Loja y la Agencia de atención universal en Shushufindi; es de 365
+días, contados a partir de la suscripción de contrato. (se contemplan 12 entregas parciales y una
+definitiva)
+
+12.
+
+REQUISITOS MÍNIMOS
+
+12.1.
+
+Integridad de la oferta:
+
+La integridad de la oferta técnica se evaluará considerando la presentación de los Formularios y
+requisitos mínimos previstos en el pliego, de acuerdo con el siguiente detalle:
+I Formulario de la Oferta
+
+1.1 Presentación y compromiso;
+1.2 Datos generales del oferente;
+1.3 Identificación de socios, accionistas, partícipes mayoritarios del oferente en caso de
+ser persona jurídica;
+
+1.4 Situación financiera del oferente;
+1.5 Componente de los bienes y servicios ofertados;
+1.6 Oferta Económica Inicial;
+1.7 Experiencia del oferente.
+Soporte técnico en caso de haber sido exigido)
+
+1.8 Personal técnico propuesto para el proyecto.
+1.9 Equipo mínimo requerido
+1.10 Umbral de Valor Agregado Ecuatoriano de la oferta
+1.11 Cálculo del porcentaje de valor agregado ecuatoriano de la oferta.
+II. Formulario de compromiso de asociación o consorcio (de ser procedente)
+
+P á g i n a 8 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+12.2.
+
+FECHA: 30/10/2020
+VERSIÓN: 1.0
+
+PAG.: 9 de 20
+
+Personal técnico mínimo:
+NRO.
+
+FUNCIÓN
+
+CANT.
+
+NIVEL DE ESTUDIO
+
+TITULACIÓN ACADÉMICA
+
+1
+
+GUARDIA DE SEGURIDAD
+
+6
+
+Instrucción Básica
+
+Educación Básica
+Vigilante calificado por el Ministerio del Interior
+
+2
+
+SUPERVISOR
+
+1
+
+Bachiller
+
+Bachiller cualquier especialidad
+Vigilante calificado por el Ministerio del Interior
+
+12.3.
+
+Experiencia mínima del personal técnico
+
+NRO.
+
+1
+
+2
+
+FUNCIÓN
+
+DESCRIPCIÓN
+
+Guardia de
+Seguridad
+
+Se considerará experiencia específica del Guardia de
+Seguridad, al profesional que acredite haber ejercido
+las funciones de Guardia de Seguridad en los últimos 5
+años mediante la presentación de hojas de vida y
+certificados de experiencia en mínimo un (1) proyecto
+terminado en institución pública o privada, de un
+tiempo no menor a 1 año.
+
+Supervisor
+
+Se considerará experiencia específica del Supervisor de
+Seguridad, al profesional que acredite haber ejercido
+las funciones de Supervisor de Seguridad, en los
+últimos cinco (5) años, en mínimo un (1) proyecto
+terminado en institución pública o privada, de un
+tiempo no menor a 1 año.
+
+TIEMPO
+MÍNIMO
+
+MONTO DE
+PROYECTOS
+
+FUENTE O MEDIO DE
+VERIFICACIÓN
+
+1 año
+
+1
+
+Carta compromiso, indicando
+que el personal a ser contratado
+va a contar con la experiencia
+mínima requerida.
+No se requiere hojas de vida de
+guardia de seguridad.
+
+1 año
+
+1
+
+Presentación de la Hoja de vida y
+certificados de experiencia.
+
+En el formulario a ser presentado en la oferta por parte del oferente, se deberá señalar los nombres
+de las personas dentro de cada función.
+Presentar Hoja de vida de que contenga la siguiente documentación:
+SUPERVISOR:
+
+
+
+
+
+
+
+
+
+Título de bachiller.
+Cédula de ciudadanía ecuatoriana y papeleta de votación.
+Certificado de aprobación del curso de capacitación de las 120 Horas de Guardia de Seguridad
+emitido por empresas certificadas por el Ministerio del Interior.
+Certificado que acredite la experiencia mínima de 1 año como supervisor de seguridad en
+instituciones públicas o privadas.
+Certificado de no haber sido separado de las Fuerzas Armadas por asuntos disciplinarios.
+Certificado de no tener antecedentes penales.
+Se verificará que el supervisor se encuentre capacitado y acreditado en el Ministerio del Interior
+http://sicosep.mdi.gob.ec/empresas/mdi/mdig/mdi1, en caso de no cumplir con este requisito no
+será considerado para la asignación de cumplimiento.
+Una vez adjudicado el proceso, se verificará que los guardias de seguridad se encuentren
+capacitados
+y
+acreditados
+en
+el
+Ministerio
+del
+Interior
+http://sicosep.mdi.gob.ec/empresas/mdi/mdig/mdi1. Y que al menos 4 de los 6 guardias de
+seguridad sean residentes amazónicos.
+
+P á g i n a 9 | 20
+
+12.4.
+NRO.
+
+1
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 10 de
+VERSIÓN: 1.0
+20
+
+Equipo mínimo
+EQUIPOS Y/O
+INSTRUMENTOS
+
+ARMA
+
+CARACTERÍSTICAS
+
+CANT.
+
+LETAL
+TIPO PISTOLA
+CALIBRE 9 MM
+
+2
+
+(SI CUMPLE APLIQUE)
+Tipo IIIA o de kevlar, twaron, dyneema, spectra, goldflex, dragon
+skin; las especificaciones técnicas de los chalecos se sujetará a
+alguna de las normas internacionales: NTMD- 0028-A3, NOM-166SCFI, MA.01-A1, NIJ-0101, ASTM E2902.
+2
+
+CHALECO
+ANTIBALAS
+
+Los componentes del Chaleco: Parte Frontal, Parte Trasera, 2
+Paneles Balísticos, Placa reductora de Trauma, Cierres y/o
+adhesivos o normas que cumplan con protección balística.
+Equipo contra armas corto punzante y proyectiles de armas de
+fuego.
+Material elaborado de kevlar.
+
+4
+
+FUENTE O MEDIO DE
+VERIFICACIÓN
+- Documento de compra a nombre de la
+empresa, donde consten los números de
+serie. (FACTURA)
+- Copia de Permisos individuales, donde
+se vea claro el nombre de la empresa,
+RUC y número de serie de cada arma.
+- Listado de armas de la empresa emitido
+por el Comando Conjunto de las Fuerzas
+Armadas. Para su verificación en el
+Sistema de compañías de seguridad
+privada SICOSEP, registradas con el RUC
+del oferente.
+
+- Documento de compra a nombre de la
+empresa.
+(mínimo 2 por punto)
+
+3
+
+CINTURON
+
+Cinturón: hebilla de doble presión o maniobra, seguridad de
+velcro para evitar que sea retirado fácilmente, material tipo nylon
+con un promedio de peso de 10 libras.
+
+2
+
+- Documento de compra a nombre de la
+empresa.
+
+4
+
+TOLETE
+
+Tipo (PR24) de policarbonato de 24 pulgadas
+
+2
+
+- Documento de compra a nombre de la
+empresa.
+
+5
+
+LINTERNAS
+
+Recargable, portátil, de tipo industrial.
+
+2
+
+- Documento de compra a nombre de la
+empresa.
+
+2
+
+- Certificado de homologación de los
+equipos de radiocomunicación que
+utilizaran los puntos de servicio
+contratados emitido por la agencia de
+Regulación
+y
+Control
+de
+Telecomunicaciones (ARCOTEL), en el
+caso de que el oferente no cuente con
+radios o frecuencias propias, deberá
+adjuntar el contrato vigente con la
+empresa que le brinda el servicio de
+radiocomunicación con el certificado
+antes detallado.
+
+6
+
+RADIOS
+
+RADIO HANDY
+Que cuenten con concesión de frecuencia
+Respectiva antena, cargador y sistema
+manos libres.
+(SI CUMPLE APLIQUE)
+
+P á g i n a 10 | 20
+
+12.5.
+I.V.I.
+
+DESCRIPCIÓN
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 11 de
+VERSIÓN: 1.0
+20
+
+Experiencia general y específica mínima
+Experiencia general
+
+FUENTE O MEDIO DE VERIFICACIÓN
+
+El proveedor deberá presentar como parte de
+la oferta técnica: copia del contrato o órdenes
+de compra y/o servicios con sus respectivas
+PUNTO DE
+acta/s de entrega recepción definitivas,
+VIGILANCIA 24
+facturas legalmente justificadas que se
+HORAS DE LUNES A
+verifique el ingreso como retenciones u otros
+DOMINGO, CON
+que acrediten experiencia en la ejecución de
+ARMA LETAL
+servicio de seguridad obtenido en los últimos 5
+años que alcancen el valor del 10% del
+presupuesto referencial del presente proceso.
+
+I.V.II.
+
+DESCRIPCIÓN
+
+TEMPORALIDAD
+
+5 años previos a la
+publicación del
+procedimiento de
+contratación.
+
+5.400,00
+
+5.400,00
+
+1
+
+Experiencia específica
+
+FUENTE O MEDIO DE VERIFICACIÓN
+
+MONTO DE EXPERIENCIA MONTO MÍNIMO REQUERIDO
+ESPECÍFICA MÍNIMA
+POR CADA PROYECTO EN
+TEMPORALIDAD REQUERIDA EN RELACIÓN RELACIÓN AL MONTO MÍNIMO
+AL PRESUPUESTO
+REQUERIDO DE EXPERIENCIA
+REFERENCIAL
+ESPECÍFICA
+
+El proveedor deberá presentar como parte de la
+oferta técnica: copia del contrato o órdenes de
+compra y/ o servicios con sus respectivas acta/s
+PUNTO DE
+de entrega recepción definitivas, facturas
+5 años previos a la
+VIGILANCIA 24
+legalmente justificadas que se verifique el
+publicación del
+HORAS DE LUNES A
+ingreso como retenciones u otros que acrediten procedimiento de
+DOMINGO, CON
+experiencia en la ejecución de servicio de
+contratación.
+ARMA LETAL
+seguridad obtenido en los últimos 5 años que
+alcancen el valor del 5% del presupuesto
+referencial del presente proceso.
+
+12.6.
+
+MONTO DE EXPERIENCIA MONTO MÍNIMO REQUERIDO
+GENERAL MÍNIMA
+POR CADA PROYECTO EN
+REQUERIDA EN RELACIÓN RELACIÓN AL MONTO MÍNIMO PROYECTO
+AL PRESUPUESTO
+REQUERIDO DE EXPERIENCIA
+REFERENCIAL
+GENERAL
+
+2.700,00
+
+PROYECTO
+
+2.700,00
+
+1
+
+Cumplimiento de Especificaciones Técnicas / Términos de Referencia
+
+Se valorara en función del cumplimiento del alcance, servicios esperados, metodología de trabajo del
+servicios requerido:
+NRO.
+1
+
+12.7.
+
+DETALLE DE CARACTERÍSTICAS TÉCNICAS REQUERIDAS
+2 PUNTO DE VIGILANCIA 24 HORAS DE LUNES A DOMINGO, CON ARMA LETAL PARA EL EDIFICIO ADMINISTRATIVO DEL IESS DIRECCION
+PROVINCIAL DE SUCUMBÍOS EN NUEVA LOJA Y SHUSHUFINDI POR UN PERIODO DE 365 DIAS CONTADOS DESDE LA FIRMA DEL CONTRATO
+
+Patrimonio: (Aplicable a personas jurídicas):
+
+En el caso de personas jurídicas, se verificará que el patrimonio cumpla con la normativa establecida
+por El INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL DIRECCION PROVINCIAL DE
+SUCUMBÍOS, verificará que el patrimonio del oferente sea igual o superior a la relación que se
+determine con respecto del presupuesto referencial conforme las regulaciones expedidas por el
+SERCOP. Para este procedimiento el monto mínimo de patrimonio que el oferente debe justificar es de:
+Patrimonio no requerido de acuerdo al Presupuesto Referencial.
+
+P á g i n a 11 | 20
+
+12.8.
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 12 de
+VERSIÓN: 1.0
+20
+
+Existencia Legal
+
+No Aplica
+
+12.9.
+
+Porcentaje de Valor Agregado Ecuatoriano Mínimo
+
+El IESS Dirección Provincial de Sucumbíos, verificará que los oferentes cumplan con el umbral del VAE,
+establecido por el SERCOP, según el CPC.
+Para que una oferta sea considerada ecuatoriana el Valor Agregado Ecuatoriano de la misma deberá
+ser igual o superior al umbral del Valor Agregado Ecuatoriano del procedimiento de contratación pública,
+publicado por el IESS Dirección Provincial de Sucumbíos conforme lo establecido por el Sistema Oficial
+de Contratación del Estado - SOCE.
+Sólo los oferentes que cumplan con el porcentaje de Valor Agregado Ecuatoriano continuarán en el
+procedimiento.
+UMBRALES DE VAE DEL PROCEDIMIENTO
+CPC
+DESCRIPCIÓN
+852500021
+PUNTO DE SERVICIO INSTITUCIONAL DE 24 HORAS PERMANENTE CON ARMA LETAL
+
+UMBRAL VAE
+25,10%
+
+Porcentaje de participación ecuatoriana mínima:
+Se verificará si los oferentes cumplen con el porcentaje de participación ecuatoriana mínima
+proveniente de los estudios de desagregación tecnológica. Sólo el o los participantes que cumplen con
+el porcentaje de participación ecuatoriana mínimo continuarán en el procedimiento.
+
+12.10.
+
+Otros parámetros
+
+La oferta técnica constara de copias simples de los siguientes documentos:
+
+1.
+2.
+3.
+4.
+
+5.
+6.
+7.
+8.
+9.
+
+Permiso/Certificado de la Tenencia de armas vigente emitido por la Dirección de Logística del
+Comando Conjunto de las Fuerzas Armadas (carnet único de cada compañía).
+Permisos de porte, actualizados proporcionadas por el CC.FF.AA. de cada una de las armas
+letales a ser empleadas para proporcionar el servicio requerido.
+Permiso de Uniformes actualizado (vigente), otorgado por el Departamento de Control de
+Organizaciones de Seguridad Privada (COSP) de la Comandancia General de Policía.
+Certificado de homologación de los equipos de radiocomunicación que utilizaran los puntos de
+servicio contratados emitido por la agencia de Regulación y Control de Telecomunicaciones
+(ARCOTEL), en el caso de que el oferente no cuente con radios o frecuencias propias, deberá
+adjuntar el contrato vigente con la empresa que le brinda el servicio de radiocomunicación con
+el certificado antes detallado.
+Permiso de operaciones vigente otorgado por el Ministerio de Gobierno.
+Certificado de Cumplimiento de Obligaciones Patronales con el IESS.
+Póliza vigente se seguro de responsabilidad civil.
+Póliza vigente de seguro de vida y accidentes.
+Nombramiento del Representante Legal, debidamente inscrito en el Registro mercantil, Vigente.
+
+P á g i n a 12 | 20
+
+9.1.
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 13 de
+VERSIÓN: 1.0
+20
+
+Verificación del cumplimiento de integridad y requisitos mínimos de la oferta
+PARÁMETROS
+
+CUMPLE
+
+NO CUMPLE
+
+Integridad de la Oferta
+Equipo Mínimo
+Personal Técnico Mínimo
+Experiencia mínima del personal técnico
+Experiencia General mínima
+Experiencia Específica mínima
+Especificaciones Técnicas o Términos de Referencia
+Patrimonio (Personas Jurídicas)
+Porcentaje de Valor Agregado Ecuatoriano
+Otros Parámetros (documentos requeridos)
+
+Únicamente aquellas ofertas que cumplan integralmente con los parámetros mínimos requeridos por
+INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL IESS, se habilitarán a fin de que los oferentes
+apliquen por el portal institucional del SERCOP en la puja.
+
+9.2.
+
+Información Financiera de
+
+Referencia Análisis de los Índices Financieros:
+El oferente deberá presentar los siguientes índices:
+
+
+
+
+Índice de Solvencia (mayor o igual a 1,0);
+Índice de Endeudamiento (menor a 1,5).
+ÍNDICE
+
+INDICADOR SOLICITADO
+
+Solvencia *
+
+1.0
+
+Endeudamiento *
+
+1.5
+
+OBSERVACIÓN
+
+Otro índice establecido por la entidad *
+*Los índices son referenciales; la entidad contratante podrá escoger los señalados o aquel (aquellos)
+que considere pertinente(s).
+Conforme el Art. 166 de la RESOLUCION No. RE-SERCOP-2016-0000072, el incumplimiento de los índices
+financieros determinados, no será causal de rechazo de la oferta.
+
+10.
+
+Presupuesto referencial
+
+NO DISPONIBLE
+
+11.
+
+Forma y condiciones de pago
+
+El pago se lo efectuara mensualmente contra entrega del servicio, previa la presentación de la
+siguiente documentación:
+
+ Informe mensual del proveedor.
+ Formulario del IESS en donde conste el personal asignado. (comprobante de pago).
+ Copia de rol de pago firmado por las partes, comprobante de transferencia bancaria, depósito o
+documento que justifique el cobro al personal asignado para cumplir el servicio contratado.
+
+ Acta de Entrega Recepción del servicio mensual.
+
+P á g i n a 13 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 14 de
+VERSIÓN: 1.0
+20
+
+ Certificado de cumplimiento de obligaciones patronales del IESS.
+ Factura Electrónica correspondiente, desglosando los puntos de servicio. (2 puntos)
+ Copia de la bitácora donde consten la novedad registradas durante el mes.
+12.
+
+Lugar y forma de entrega
+
+El servicio será entregado en el edificio Administrativo del Dirección Provincial IESS Sucumbíos
+Nueva Loja:
+Shushufindi:
+
+13.
+
+Av. Circunvalación y Miguel Iturralde
+Calle Los Laureles y Pedro Angulo
+
+Garantías
+
+El oferente adjudicado deberá adjuntar las garantías establecidas en la disposición Quinta de la Ley de
+Vigilancia y Seguridad Privada.
+Por el monto del Presupuesto no aplica las garantías que refiere la LOSNCP en su Art. 74.
+
+13.1.
+
+GARANTÍAS DEL SERVICIO DE VIGILANCIA Y SEGURIDAD
+
+Póliza de responsabilidad civil, la compañía adjudicada deberá justificar que cuenta con una póliza
+de responsabilidad civil contra daños a terceros y/o usuarios para garantizar a quienes puedan resultar
+perjudicados en el proceso de la prestación de servicios, de acuerdo a lo establecido en el Art. 25 del
+Reglamento a la Ley de Vigilancia y Seguridad Privada.
+Póliza de seguro de vida y accidentes de trabajo, que tenga una cobertura por muerte accidental,
+incapacidad un total y permanente, por un valor asegurado mínimo de USD. $.50.000,00 (Cincuenta mil
+00/100 Dólares de los Estados Unidos de América); y, cobertura por gastos médicos, por un valor
+asegurado mínimo de USD. $. 20. 000,00 (Veinte mil 00/100 Dólares de los Estados Unidos de América)
+por evento, conforme lo establece el artículo 27 del Reglamento a la Ley de Vigilancia y Seguridad
+Privada.
+
+14.
+
+Multas
+
+Se aplicará las multas pertinentes con base a lo dispuesto en el Art. 71 de la LOSNCP, cuando: El
+CONTRATISTA que provea el servicio y/o equipamiento que contempla cada PUNTO DE SEGURIDAD
+Y VIGILANCIA en fecha posterior al término ofertado y/o acordado, se aplicará una multa del 1 %, la
+misma que se calculará sobre el porcentaje de las obligaciones que se encuentran pendientes de
+ejecutarse conforme lo establecido en el contrato. (El PUNTO DE SEGURIDAD Y VIGILANCIA se
+deberá considerar completo cuando el servicio cuente con el guardia, así como todo el equipamiento
+exigido).
+
+15. FALTAS
+El Administrador del Contrato designado, aplicará las multas correspondientes, con base en los informes
+presentados, dentro de cada mes y en cualquiera de las dependencias, de acuerdo a las siguientes
+faltas:
+
+15.1.
+1.
+
+2.
+3.
+
+Faltas Leves. - Se consideran faltas leves, las siguientes:
+
+No cumplir con el protocolo de comunicación y reportes de las ocurrencias del servicio de vigilancia
+fija, seguridad privada, seguridad encubierta, monitoreo, investigación y supervisión a través de
+llamadas telefónicas y/o mensajes de texto de manera inmediata con formalización del respectivo
+informe firmado dentro de las 24 horas posteriores de la ocurrencia del servicio;
+No recibir el punto de vigilancia fija, monitoreo y supervisión con anticipación;
+No estar atento al llamado de radio o al teléfono del punto de vigilancia fija, seguridad encubierta,
+monitoreo, investigación y supervisión;
+
+P á g i n a 14 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 15 de
+VERSIÓN: 1.0
+20
+
+4.
+
+No contar y/o no utilizar el equipo de dotación y uniformes durante la prestación del servicio de
+vigilancia fija, seguridad encubierta, monitoreo, investigación y supervisión;
+5. No actuar ante amenazas o novedades que se presenten en cada instalación de la contratante;
+6. Mala utilización y registro de la información en las bitácoras de cada punto de seguridad, monitoreo
+y supervisión en las instalaciones de la dependencia contratante;
+7. Estar distraídos o realizando otras actividades tales como, escuchar música, leer revistas o
+periódicos, utilizar el teléfono para asuntos personales, conversar con visitas o con los compañeros
+en los horarios del servicio de vigilancia fija, seguridad encubierta monitoreo, investigación y
+supervisión, llenar papeletas u otras funciones no pertenecientes a los puntos de seguridad
+contratados;
+8. Incumplimiento de las funciones y procedimientos de seguridad establecidas para el servicio de
+vigilancia fija, seguridad encubierta, monitoreo, investigación y supervisión;
+9. No cumplir con el cronograma del servicio de la seguridad encubierta, investigación y supervisión;
+10. Mala presentación del personal del servicio de vigilancia fija, seguridad encubierta, monitoreo,
+investigación y supervisión;
+11. Dormir en los puntos de servicio de vigilancia fija, seguridad encubierta, monitoreo, investigación
+y supervisión; y,
+12. Mala actitud del personal de vigilancia fija, seguridad encubierta, investigación, monitoreo y
+supervisión.
+
+15.2.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
+Faltas Graves. - Se consideran faltas graves, las siguientes:
+
+Abandono del punto de vigilancia fija, seguridad encubierta, investigación, monitoreo y supervisión
+sin que se adopten las acciones pertinentes para cubrir el puesto abandonado;
+No reponer un arma letal y/o no letal por otra arma que haya sido requisada en un plazo mayor a
+48 horas;
+Cuando se detecte que la CONTRATISTA no informe y/o se reserve información de las faltas en
+el servicio por parte de su personal;
+Doblar el turno de trabajo en caso que el puesto de vigilancia fija, seguridad encubierta,
+investigación, monitoreo y supervisión no haya sido relevado por el personal que corresponda;
+Permitir el ingreso a las instalaciones de la CONTRATANTE, a funcionarios, clientes, proveedores
+y visitantes que se encuentren en estado etílico o bajo efectos de sustancias psicotrópicas o
+estupefacientes y no autorizados para el efecto;
+Recibir y/o aceptar gratificaciones o pagos por parte de los clientes, proveedores o visitantes por
+cualquier motivo, así como también solicitar recompensas por cualquier actividad, gestión o trámite
+a realizarse en la dependencia CONTRATANTE;
+Apertura de oficinas en horarios y días no laborables o decretados días festivos sin la respectiva
+autorización del Administrador de contrato designado;
+Permitir la salida de bienes y/o de los vehículos de los parqueaderos de la CONTRATANTE, sin la
+respectiva autorización con los documentos de respaldo;
+Descuido o negligencia en la custodia de bienes, equipo y prendas bajo la responsabilidad del
+personal de seguridad, monitoreo y/o supervisión;
+Provocar escándalos y/o peleas en los punto de seguridad fija, seguridad encubierta, investigación,
+monitoreo y supervisión;
+No acudir a los puntos de llamado de refuerzo en caso de emergencia o atracos que sufra en el
+interior de la dependencia CONTRATANTE;
+Incumplimiento de las Normas de Seguridad Industrial y Salud Ocupacional vigentes ocasionando
+incidentes o accidentes;
+Adulterar registros de control con información no real;
+Cambiar arbitrariamente al personal de vigilancia fija, seguridad encubierta, investigación,
+monitoreo y supervisión destinado al contrato, sin previo conocimiento y aprobación del
+Administrador del contrato;
+No cumplir con las disposiciones establecidas por el Administrador de Contrato;
+Contratación y vinculación del personal al servicio de seguridad y vigilancia, sin la verificación del
+historial y antecedentes penales; y,
+
+P á g i n a 15 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 16 de
+VERSIÓN: 1.0
+20
+
+17. No atender de manera efectiva los eventos de alarma del sistema de monitoreo.
+15.3.
+
+Faltas Atentatorias. - Se consideran faltas atentatorias, las siguientes:
+
+1.
+
+Reincidencia en el cometimiento de las faltas graves dentro del mes y en la misma instalación de
+la dependencia contratante;
+2. Uso indebido del arma letal, ocasionar un disparo y/o manipular el arma sin razón justificada;
+3. Presentarse a su servicio de supervisión, monitoreo, de guardia fija, encubierta e investigación con
+síntomas de haber ingerido licor o sustancias psicotrópicas o estupefacientes;
+4. Negligencia de Supervisores, Guardias de Seguridad Fija y/o Encubierta o cualquier otro personal
+solicitado para la provisión del servicio, en el cumplimiento de sus funciones, que hayan facilitado
+la consumación de un asalto o robo en una de las dependencias de la CONTRATISTA;
+5. Negligencia de Supervisores, Guardias de Seguridad Fija y/o Encubierta o cualquier otro personal
+solicitado para la provisión del servicio por no tomar acciones inmediatas para la aprehensión al
+sospechoso identificado después de cometer algún acto delictivo dentro de las instalaciones para
+la dependencia contratada;
+6. Participación por parte del personal de guardia fija, encubierta e investigación, supervisión,
+monitoreo y/o cualquier trabajador de la contratista para la materialización de eventos
+delincuenciales bajo cualquier modalidad delictiva en contra de funcionarios, servidores, usuarios
+de la CONTRATANTE, como también hayan participado y/o registren antecedentes en historiales
+delincuenciales;
+7. Utilizar o maniobrar sin autorización vehículos, máquinas, herramientas, equipos de computación
+u otros enseres de propiedad de la CONTRATANTE que no hayan sido proporcionados para el
+desempeño de su función de vigilancia o de monitoreo o emplearlos en un objetivo distinto para el
+cual fue designado o disponer arbitrariamente de ellos;
+8. Ingerir bebidas alcohólicas en el interior de las instalaciones de las oficinas e instalaciones de la
+CONTRATANTE;
+9. Faltar de palabra u obra a los funcionarios y ciudadanos de la CONTRATANTE, por parte de los
+Supervisores; Operadores, Guardias de Seguridad Fija, Encubierta e Investigación o cualquier
+personal de la CONTRATISTA, además deberá responsabilizarse por el pago de los gastos de
+asistencia médica y demás prestaciones a que tengan derecho los afectados;
+10. Ocultar información o no reportar al presentarse una novedad grave, con el objeto de evadir
+responsabilidades; y,
+11. No tener actualizados los permisos que por ley debe tener una Compañía de Seguridad Privada.
+De conformidad con el principio de proporcionalidad contemplado en el Arts. 76, de la Constitución, que
+determina:
+“En todo proceso en el que se determinen derechos y obligaciones de cualquier orden, se asegurará el
+derecho al debido proceso que incluirá las siguientes garantías básicas:
+La ley establecerá la debida proporcionalidad entre las infracciones y las sanciones penales,
+administrativas o de otra naturaleza (…).
+El Administrador del Contrato, aplicará las multas, de acuerdo a las faltas en que se incurra, conforme
+el siguiente detalle:
+
+1.
+2.
+3.
+
+Faltas Leves: Por cada falta leve se aplicará la multa del 2% sobre el valor del punto de seguridad.
+Faltas Graves: Por cada falta grave se aplicará la multa del 3 % sobre el valor mensual del servicio.
+Faltas Atentatorias: Por cada falta atentatoria se aplicará la multa del 4% sobre el valor total
+del contrato y se podrá dar la terminación anticipada y unilateral del contrato.
+
+El Contratista, deberá instruir a su personal sobre los tipos de faltas y sanciones que consten en el
+contrato.
+
+P á g i n a 16 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 17 de
+VERSIÓN: 1.0
+20
+
+Las sanciones se aplicarán y cobrarán al Contratista, de forma mensual, de acuerdo al informe que
+emita el Administrador del Contrato.
+El cobro de las multas se lo hará sin perjuicio de la indemnización por daños y perjuicios, que se pudiera
+ocasionar a las unidades médicas o dependencias del IESS; además el servicio será sujeto de
+supervisión, y de detectarse incumplimiento de contrato o una mala prestación del servicio, será causal
+para terminación unilateral del contrato.
+Si el valor total de las multas que se apliquen al Contratista, supera el monto de la garantía de fiel
+cumplimiento del contrato, podrá ser causal de terminación unilateral conforme lo previsto en la Ley
+Orgánica del Sistema Nacional de Contratación Pública, LOSNCP.
+
+16. Vigencia de la oferta
+Las ofertas se entenderán vigentes hasta 60 días calendario. En caso de que no se señale una fecha
+estará vigente hasta la celebración del contrato, de acuerdo a lo establecido en el Art. 30 de la LOSNCP.
+
+17. Administrador del contrato
+Se recomienda la administración del contrato a la Abg. Gladys Albita Ramírez Martínez como
+Responsable Jurídico, como responsable de tomar todas las medidas necesarias adecuadas para la
+ejecución del contrato, con estricto cumplimiento de sus cláusulas, cronograma, plazos, costos, y pago,
+así como evitar retrasos injustificados e impondrá las multas y sanciones a que hubiere lugar.
+El Administrador del Contrato es quien deberá velar por el fiel cumplimiento del contrato, cumplimiento
+de la normativa y además será el responsable de suscribir las actas de entrega recepción e informe de
+satisfacción (Art.s 70 y 80 de la; y, Art.s 121 y 124 del Reglamento General a la Ley LOSNCP).
+
+18. Sugerencia de designación de comisión técnica o Delegado Responsable de la
+Ejecución Precontractual.
+Conforme a lo establecido en el Art. 18 del Reglamento General De La Ley Orgánica Del Sistema
+Nacional de Contratación Pública "Comisión Técnica.‐ Para cada proceso de contratación de: 1.
+Consultoría por lista corta o por concurso público; 2. Subasta inversa, cuyo presupuesto referencial sea
+superior al valor que resulte de multiplicar el coeficiente 0.000002 por el monto del Presupuesto Inicial
+del Estado; 3. Licitación; y, 4. Cotización, se conformará la correspondiente Comisión Técnica integrada
+de la siguiente manera: 1. Un profesional designado por la máxima autoridad, quien la presidirá; 2. El
+titular del área requirente o su delegado; y, 3. Un profesional afín al objeto de la contratación designado
+por la máxima autoridad o su delegado".
+Se sugiere para la conformación de la Comisión Técnica a los siguientes Servidores:
+NOMBRES Y APELLIDOS
+Gladys Albita Ramírez Martínez
+
+CARGO
+Un profesional designado por la máxima autoridad, quien la
+presidirá
+
+NRO. DE CEDULA
+2100007992
+
+Leida Elisbeth Cuenca Samaniego
+
+El titular del área requirente o su delegado
+
+2100302294
+
+Jorge Luis Parra Salinas
+
+Un profesional a fin al objeto de la contratación
+
+0502040454
+
+Julio César Floril Vera
+
+Secretario
+
+1715750483
+
+19. Variación mínima de la puja
+En el día y hora señalados en la convocatoria, se realizará la puja hacia la baja a través del Portal
+Institucional del SERCOP, en la cual participarán únicamente los proveedores que hayan enviado su
+oferta económica inicial.
+El porcentaje de variación mínimo durante la puja será del: 1%.
+
+P á g i n a 17 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 18 de
+VERSIÓN: 1.0
+20
+
+20. Obligaciones del contratista
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+18.
+
+Cumplir con todas las condiciones detalladas en los términos de referencia establecidos;
+Prestar oportunamente los servicios de vigilancia y seguridad privada previstos en las
+instalaciones del edificio a cargo del IESS, en tales condiciones que la Entidad Contratante
+pueda continuar inmediatamente con el desarrollo normal de sus actividades;
+Cumplir con las obligaciones laborales, cancelando puntualmente las remuneraciones y
+beneficios de ley del personal de guardias que se requiere para la prestación del servicio, de
+conformidad con la normativa vigente;
+Asumir a su costo, todas las obligaciones a las que está sujeto según las leyes, normas y
+reglamentos relativos a la Seguridad Social y Ocupacional;
+Notificar inmediatamente mediante oficio o correo al Administrador del contrato los ingresos o
+cambios de guardias;
+Contratar una póliza de accidentes personales para el personal que prestará el servicio de
+vigilancia, y mantenerla vigente durante la vigencia del contrato, de acuerdo a lo establecido en
+el Art. 27 del Reglamento a la Ley de Vigilancia y Seguridad Privada;
+Contratar una póliza de Responsabilidad civil que cubra los daños corporales y/o materiales o
+perjuicios causados a terceras personas en el ejercicio de las labores de vigilancia de acuerdo
+a lo establecido en el Art. 26 del Reglamento a la Ley de Vigilancia y Seguridad Privada;
+Mantener vigente y contar con el permiso de operaciones de la contratista de seguridad;
+Operar con personal calificado y capacitado de acuerdo Art. 4 de la Ley de Vigilancia Privada
+del Ecuador;
+Contar el permiso de porte y tenencia de armas, emitido por el Comando Conjunto de Fuerzas
+Armadas, de acuerdo a lo dispuesto en el Art. 14 de la Ley de Vigilancia Privada del Ecuador;
+Contar de manera obligatoria con vigilantes sin antecedentes penales;
+Operar con equipos y frecuencias de radiocomunicación homologados por la Agencia de
+Regulación y Control de Telecomunicaciones (ARCOTEL), de acuerdo al Art. 18 del Reglamento
+a la Ley de Vigilancia y Seguridad Privada;
+No contratar a personas menores de edad para realizar actividad alguna durante la ejecución
+contractual; y que, en caso de que las autoridades del ramo determinaren o descubrieren tal
+práctica, se someterá y aceptará las sanciones que de aquella puedan derivarse, incluso la
+terminación unilateral y anticipada del contrato, con las consecuencias legales y reglamentarias
+pertinentes;
+Mantener con la debida anticipación una reunión de trabajo, en las instalaciones de (Dirección
+Provincial, Direcciones Nacionales, Subdirecciones Nacionales, Unidades Médicas u otras
+dependencias competentes del IESS), para realizar la entrega de la información disponible y
+conocer los puestos donde se ubicarán los vigilantes para custodiar las instalaciones de la
+Institución, lo cual se coordinará a través del Administrador del Contrato;
+Guardar absoluta reserva de la información confiada o de la que pueda tener acceso en virtud
+del cumplimiento del contrato, al igual que sus empleados, por lo que una vez suscrito el contrato
+suscribirá una carta de compromiso de confidencialidad de información con el Instituto
+Ecuatoriano de Seguridad Social. La inobservancia de lo manifestado dará lugar a que el
+Instituto Ecuatoriano de Seguridad Social ejerza las acciones legales correspondientes;
+El servicio de seguridad requerido es de 2 puntos de 24 horas de lunes a domingo por 364 días
+calendario, cada vigilante tendrá su respectivo relevo para cubrir el tiempo de alimentación
+considerable; por ningún concepto podrán permanecer en sus puestos sin ese derecho, está
+prohibido comer en el puesto o peor aún abandonar el puesto de vigilancia sin que hayan sido
+relevados;
+Operar con el permiso de uso de uniformes autorizado por el Departamento de Control y
+Supervisión de Empresas de Seguridad Privadas (COSP) de acuerdo a lo establecido en el
+literal f), Art. Nro. 12 del Reglamento a la Ley de Vigilancia y Seguridad Privada;
+Dotar a su personal de los uniformes, el equipo mínimo, armamento y la Credencial de
+Identificación, la misma que será intransferible, ésta será otorgada por la contratista de
+seguridad;
+
+19. Garantizar la seguridad de las personas que trabajan y/o visitan las instalaciones de la
+(Dirección Provincial, Direcciones Nacionales, Subdirecciones Nacionales, Unidades Médicas u
+
+P á g i n a 18 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 19 de
+VERSIÓN: 1.0
+20
+
+otras dependencias del IESS);
+
+20. Instruir a los vigilantes que prestarán el servicio de seguridad y vigilancia en la (Dirección
+
+21.
+
+22.
+23.
+24.
+
+25.
+
+26.
+27.
+28.
+29.
+30.
+
+31.
+32.
+33.
+34.
+35.
+
+36.
+
+Provincial, Direcciones Nacionales, Subdirecciones Nacionales, Unidades Médicas u otras
+dependencias del IESS) que deberán mantener respeto, educación y cortesía a todos los
+servidores, contratistas y visitantes de las instituciones;
+Reemplazar al personal, por mal comportamiento o incumplimiento de actividades por parte de
+los guardias que pertenecen a la empresa Contratista, previo la emisión de un informe
+fundamentado y razonado por parte del Administrador del Contrato, el mismo, que podrá solicitar
+el cambio del personal, en un plazo máximo de 24 horas, sin descontinuar la prestación del
+servicio;
+Disponer de un equipo de apoyo (personal destinado a cubrir cualquier eventualidad que se
+presente con el personal en las novedades, vacaciones, feriados, fines de semana y días
+festivos);
+Notificar de forma inmediata mediante oficio o correo electrónico al Administrador del contrato
+designado por el IESS, cuando se realicen ingresos o cambios de guardias;
+Garantizar la comunicación entre vigilantes y supervisores de los puntos de la institución, la
+misma que deberá realizarse mediante radios portátiles homologados y que cuenten con
+concesión de frecuencia, por lo que la contratista de seguridad deberá contar con las
+frecuencias y cobertura radiales durante las 24 horas los 365 días contratados;
+Instruir a los vigilantes y personal de seguridad, que está prohibido el ingreso de equipos de
+grabación, cámaras, equipos de video y audio, dispositivos móviles, etc. los mismos que puedan
+ser utilizados para extraer información sin autorización previa, en las instalaciones internas del
+IESS, a menos de que estén autorizados por la (Dirección Provincial, Direcciones Nacionales,
+Subdirecciones Nacionales, Unidades Médicas u otras dependencias del IESS) y coordinado
+con el Administrador del contrato;
+Atender las novedades, requerimientos o coordinar ingresos, conforme la solicitud del
+Administrador del Contrato, y coordinar con el equipo de vigilancia a fin de que esté preparado
+y proceda a realizarlos;
+Instruir a los vigilantes que no deben permitir que personas ajenas, proveedores o servidores
+de la institución ejecuten acciones sospechosas, que impliquen la manipulación de las
+seguridades de las instalaciones del IESS;
+Prestar el servicio de seguridad con personal calificado y experiencia en puestos similares;
+Efectuar la supervisión y monitoreo diaria de las labores realizadas por el personal de vigilancia
+y seguridad privada en las instalaciones correspondientes de la entidad contratante, asistencia
+que se registrará en las hojas formato del IESS;
+Entregar al final de cada periodo mensual en orden cronológico: las bitácoras, los formularios
+de autorización de ingreso, las hojas de registro de personal y las hojas de registro de vehículos
+al Administrador del contrato, para conservar la información en el archivo del Administrador del
+edificio o quien hiciere sus veces;
+Comunicar y entregar al Administrador del Contrato designado por el IESS, las novedades que
+se produzcan inmediatamente y recibir las instrucciones pertinentes, con la finalidad de
+coordinar acciones y solucionarlas oportunamente;
+Asumir el costo de transporte de: equipo, materiales, vigilantes o supervisores a los puntos de
+servicio;
+Entregar en cada puesto de trabajo de los puntos de seguridad un libro para bitácoras, y
+suministros de oficina, para que los mismos realicen las anotaciones correspondientes;
+Instruir a los vigilantes que durante la jornada de trabajo deberán mantener cerradas con los
+seguros respectivos las puertas peatonales y vehiculares;
+Disponer a los vigilantes, que durante las rondas deberán revisar que todas las puertas internas
+de tableros, bodegas, archivos y otras que pertenezcan al IESS estén cerradas, ya que la
+omisión a esta disposición pone en riesgo la seguridad de las instalaciones, bienes y
+documentación del Instituto Ecuatoriano de Seguridad Social;
+Instruir a los vigilantes, la aplicación de la prevención, disuasión y reacción en caso de incendios,
+accidentes, sabotajes, delincuencia común, delincuencia organizada, manifestaciones, paros,
+huelgas y terrorismo y/o contra cualquier tipo de amenaza, que atente con la integridad de las
+personas, bienes, equipos y patrimonio del IESS, en forma general en coordinación con el
+
+P á g i n a 19 | 20
+
+DIRECCIÓN NACIONAL DE SERVICIOS CORPORATIVOS
+
+CÓDIGO: GAD-P03-S01-F05
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFIACIONES TÉCNICAS
+
+FECHA: 30/10/2020
+PAG.: 20 de
+VERSIÓN: 1.0
+20
+
+Administrador del Contrato;
+
+37. Vigilar interna y externamente las dependencias a cargo del IESS con la finalidad de detectar
+38.
+39.
+
+40.
+41.
+
+cualquier situación que amenace las áreas a cargo;
+Mantener limpio el sitio de trabajo;
+Brindar apoyo en las investigaciones, en eventos que hayan afectado al sistema de seguridad
+de la Institución, o se presuma la existencia de una irregularidad que el IESS, estime deba ser
+investigada, para lo cual se deberá presentar el informe de la investigación de las instalaciones
+a cargo, al Administrador del contrato designado por el IESS, en el lapso máximo de 2 días
+hábiles;
+Coordinar con los vigilantes la detención de personas sospechosas y notificar de manera
+inmediata al 911, a la UPC del sector, al Administrador del contrato y/o al Administrador del
+Edificio;
+Contar con un plan de acción para hacer frente y/o colaborar entre posibles casos de fuerza
+mayor o caso fortuito como: incendio, accidentes, sabotajes, delincuencia común, delincuencia
+organizada, manifestaciones, paros, huelgas y/o terrorismo y/o cualquier tipo de amenazas o
+actos violentos imprevistos que atenten contra la seguridad de la documentación, personal y
+bienes de las dependencias a cargo del IESS.
+
+21. Obligaciones del contratante
+
+1.
+2.
+3.
+
+La contratante deberá cumplir con las condiciones establecidas en la Ley Orgánica del Sistema
+Nacional de Contratación Pública, y su Reglamento, así como lo señalado en el presente pliego.
+La contratante se obliga a atender o solucionar peticiones o problemas en un término de 15 días
+laborables.
+El administrador del contrato a través de correo electrónico y aplicaciones electrónicas
+comunicará a la contratista, novedades, requerimientos o coordinará ingresos, para que el
+equipo de vigilancia esté preparado y proceda a realizarlos.
+
+Nueva Loja, 15 de febrero de 2021
+FIRMAS DE RESPONSABILIDAD:
+Firmado electrónicamente por:
+Firmado electrónicamente por:
+
+LEIDA ELISBETH
+CUENCA
+SAMANIEGO
+
+Elaborado por:
+Ing. Leida Elisbeth Cuenca Samaniego
+Unidad Administrativa Financiera de Sucumbíos
+
+JULIO CESAR
+FLORIL VERA
+
+Revisado por:
+Tlgo. Julio César Floril Vera
+Compras Públicas Sucumbíos
+
+FIRMA DE APROBACIÓN:
+
+Firmado electrónicamente por:
+
+ADDITA SADITH
+ZAMBRANO ROMERO
+
+Ing. Addita Sadith Zambrano Romero
+Directora Provincial Sucumbíos, Encargada
+
+P á g i n a 20 | 20
+
+

@@ -1,0 +1,1126 @@
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTÓNOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+ESPECIFICACIONES TÉCNICAS (BIENES)
+
+OBJETO DE ADQUISICIÓN:
+“ADQUISICIÓN DE UNA UNIDAD MÉDICA MÓVIL EQUIPADA PARA LAS ZONAS DE
+INFLUENCIA DIRECTA E INDIRECTA DE LA CENTRAL HIDROELÉCTRICA OCAÑA
+CONSTRUIDO POR ELECAUSTRO S.A.”
+
+ELABORADO POR: Nicole Cristina Urgilés Vaca.
+FECHA: 19/04/2022
+
+Elaborado por:
+Nombre:
+
+Revisado y aprobado por:
+Nombre:
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+NICOLE
+CRISTINA
+URGILES VACA
+
+MARCO AURELIO
+ANDRADE
+MALDONADO
+
+Lcda. Nicole Urgilés Vaca
+
+Ing. Marco Andrade Maldonado
+
+TÉCNICA DE PROTECCIÓN
+ESPECIAL
+
+DIRECTOR EJECUTIVO DEL CENTRO DE
+GESTIÓN Y DESARROLLO SOCIAL DEL
+GADPC
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+1. INTRODUCCIÓN
+1.1 Antecedentes
+
+El Gobierno Autónomo Descentralizado de la provincia del Cañar en su estructura cuenta
+con el Centro de Gestión y Desarrollo Social.
+Entidad encargada de la atención en el área social centrando su objetivo principalmente en
+los Grupos Vulnerables; es por esta razón que se genera el proyecto “Fortalecimiento de la
+atención primaria en salud y servicios odontológicos para la población de las zonas de
+influencia de la Central Hidroeléctrica Ocaña, con la Adquisición de una Unidad Médica
+Móvil” que tiene como objetivo: Realizar la ADQUISICIÓN DE UNA UNIDAD MÉDICA
+MÓVIL EQUIPADA PARA LAS ZONAS DE INFLUENCIA DIRECTA E INDIRECTA DE LA
+CENTRAL HIDROELÉCTRICA OCAÑA CONSTRUIDO POR ELECAUSTRO S.A misma
+que ayudará a contribuir al mejoramiento de la calidad de vida de los habitantes brindando
+una atención integral de salud a la población más excluida, mediante la estrategia de
+atención primaria a fin de disminuir los riesgos sociales, económicos y culturales de las
+zonas rurales geográficamente dispersas y sin acceso a servicios de la red de salud.
+La Constitución de la República del Ecuador en su artículo 66 numeral 25 reconoce el
+derecho de las personas a” (…) acceder a bienes y servicios públicos y privados de calidad,
+con eficiencia, eficacia y buen trato, así como a recibir información adecuada y veraz sobre
+su contenido y características.
+La Constitución de la República del Ecuador en el art. 32 prescribe “La salud es un derecho
+que garantiza el Estado, cuya realización se vincula al ejercicio de otros derechos, entre
+ellos el derecho al agua, la alimentación, la educación, la cultura física, el trabajo, la
+seguridad social, los ambientes sanos y otros que sustentan el buen vivir”.
+El Centro de Gestión y Desarrollo Social del Gobierno Provincial del Cañar ejecuta el del
+convenio con ELECAUSTRO S.A. No. 2022-0007 "Fortalecimiento de la atención primaria
+en salud y servicios odontológicos para la población de las zonas de influencia de la Central
+Hidroeléctrica Ocaña, con la Adquisición de una Unidad Médica Móvil", misma que ayudará
+a contribuir al mejoramiento de la calidad de vida de los habitantes brindando una atención
+integral de salud a la población más excluida, mediante la estrategia de atención primaria
+a fin de disminuir los riesgos sociales, económicos y culturales de las zonas rurales
+geográficamente dispersas y sin acceso a servicios de la red de salud.
+Los servicios de salud en los cantones de Cañar, Suscal y El Tambo están dados por el
+Ministerio de Salud Pública y el Instituto Ecuatoriano de Seguridad Social, en menor grado
+por consultorios médicos, odontológicos y clínicas privadas. De acuerdo con el Censo por
+cada 20.000 habitantes disponen de 3.39 establecimientos de salud con y sin internación,
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+lo que permite inferir que la población cantonal dispone de aproximadamente 17
+establecimientos de salud públicos y privados.
+En varios esquemas de salud, 4 de cada 10 personas prefieren o son atendidos en otros
+cantones aledaños debido a la falta de infraestructura en materiales y tecnología de
+atención, por esto; es que se plantean opciones de traslado hacia Guayaquil, Azogues y
+Cuenca.
+Las principales causas de enfermedades en el Ecuador y la Provincia del Cañar incluido el
+cantón Cañar, Suscal y el Tambo se dividen en tres categorías: las causas obstétricas
+directas, las causas obstétricas no directas y las causas no especificadas, en el caso de las
+causas obstétricas directas, la hemorragia postparto, la hipertensión gestacional y la
+eclampsia; Los datos de estos sobre la elevada tasa de mortalidad de la población infantil,
+51.41% superior en casi 34.19 puntos al promedio nacional. Las enfermedades de
+notificación obligatoria en la población cantonal son: dengue, H.T.A., paludismo, diabetes y
+varicela.
+En segundo plano se encuentran las enfermedades: parasitismo, IRA, EDA, dermopatía,
+IVU, escabiosis, anemia. Según las Estadísticas Vitales presentadas por el Instituto
+Nacional de Estadísticas y Censos en el año 2016, se han registrado 1,188 muertes en la
+provincia del Cañar. En los cantones de Cañar, Suscal, El Tambo y sus parroquias y
+comunidades se registró la mayor tasa de desnutrición crónica entendida como el indicador
+que refleja la deficiencia en talla y peso en niños entre 1 a 5 años, resultado de
+desequilibrios nutricionales intergeneracionales, se puede ver que en Cañar la afectación a
+la población infantil es del 59% superior al promedio regional que es de 53%, y con una
+diferencia mucho más significativa sobre el promedio nacional que es de 26%. En provincia
+del Cañar al 2017, se estiman 21.06 médicos por cada 10,000 habitantes, 4.79 odontólogos,
+1.04 psicólogos, 12.40 enfermeras, menos de 1 obstetriz por cada 10,000 habitantes.
+En referencia al Plan para la Equidad Territorial y la Disminución de la Pobreza en la
+Provincia se determina que Suscal es el cantón con el mayor índice de pobreza dentro de
+la provincia; y, la falta de atenciones de centros de salud en los sectores rurales y la falta
+de coordinación para brindar el servicio de salud; y, de acuerdo a la pobreza por NBI y
+extrema pobreza detectada en estos tres cantones , el Centro de Gestión y Desarrollo Social
+tiene la necesidad imperiosa de contar con una nueva y moderna Unidad Médica Móvil,
+para prestar el servicio de salud en medicina general, odontológico y apoyo con
+profesionales de salud para brindar charlas en el ámbito de la desnutrición y todo lo
+referente a medicina general a los habitantes de las zonas de influencia directa e indirecta
+de la central Hidroeléctrica Ocaña construido por Elecaustro S.A.
+
+1.2 Justificación
+Para cumplir con el objetivo del servicio de atención médica y odontología con personal
+capacitado, es necesario la adquisición de la Unidad Médica Móvil totalmente equipada
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+para las zonas de influencia directa e indirecta de la Central Hidroeléctrica Ocaña construido
+por Elecaustro S.A.; y, con la misma se fortalecerá el accionar para ofrecer a la comunidad
+un servicio de salud oportuno y de calidad; los servicios que otorgará será la asistencia
+sanitaria y charlas preventivas, para impulsar un Modelo de Atención Integral en Salud a
+través del programa de servicio de salud ambulatorio.
+El Ministerio de Salud Pública plantea la desconcentración y cobertura de sus servicios a
+nivel de distritos administrativos de tal forma que se pueda cubrir los territorios
+eficientemente; además, con el propósito de contribuir a mantener un entorno saludable
+entre las personas que habitan en las distintas comunidades en las que se interviene, con
+hábitos saludables y la prevención de enfermedades y deficiencias en la salud.
+En las zonas de influencia directa e indirecta de la central Hidroeléctrica Ocaña construido
+por Elecaustro S.A. se priorizará la atención de la población en zonas a nivel de cantón,
+parroquias y recintos rurales, teniendo en cuenta que son zonas con comunidades alejadas,
+territorios con características de dispersión geográfica y carentes de servicios básicos, que
+se considera como una de las principales barreras al acceso del servicio de atención de
+salud hacia la población rural, limitando los derechos a las personas de estos sectores,
+donde se muestran distintas privaciones en el ámbito de educación, trabajo, seguridad,
+salud, agua, alimentación, habitad, vivienda y ambiente sano, indicadores de medición del
+índice de pobreza multidimensional cuya población objetivo son: niños, niñas, adolescentes,
+jóvenes, adultos mayores, personas con discapacidad y sus familias en situación de
+vulnerabilidad con prioridad a personas pertenecientes a los grupos de atención prioritaria.
+
+2. OBJETIVO
+
+2.1 OBJETIVO GENERAL:
+
+
+Contribuir al mejoramiento de la calidad de vida de los habitantes de los cantones
+Cañar, El Tambo y Suscal, brindando una atención integral de salud a la población
+más excluida, mediante la estrategia de atención primaria a fin de disminuir los
+riesgos sociales, económicos y culturales de las zonas rurales geográficamente
+dispersas y sin acceso a servicios de la red de salud.
+
+2.2 OBJETIVOS ESPECÍFICOS:
+
+
+
+
+Brindar una atención integral de salud a la población más excluida, mediante la
+estrategia de atención primaria a fin de disminuir los riesgos sociales, económicos
+y culturales de las zonas rurales geográficamente dispersas.
+Disminuir los riesgos sociales, económicos y culturales de las zonas rurales
+geográficamente dispersas y sin acceso a servicios de la red de salud.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+3. ALCANCE
+En las zonas de influencia directa e indirecta de la central Hidroeléctrica Ocaña construido
+por Elecaustro S.A. se priorizará la atención de la población en zonas a nivel de cantón,
+parroquias y recintos rurales, teniendo en cuenta que son zonas con comunidades alejadas,
+territorios con características de dispersión geográfica y carentes de servicios básicos, que
+se considera como una de las principales barreras al acceso del servicio de atención de
+salud hacia la población rural de los cantones Cañar, El Tambo y Suscal, en las Parroquias:
+Zhud, Gualleturo, Honorato Vásquez, Ingapirca, Juncal, San Antonio, Chontamarca,
+General Morales y Chorocopte.
+
+4. METODOLOGÍA DE TRABAJO
+4.1 VERIFICACIÓN DE LA PRODUCCIÓN NACIONAL
+Fundamento Jurídico
+Artículos relacionados en la Ley Orgánica del Sistema Nacional de Contratación Pública y
+Su Reglamento.
+Art. 25.1.- Participación Nacional. - Los pliegos contendrán criterios de valoración que
+incentiven y promuevan la participación local y nacional, mediante un margen de
+preferencia para los proveedores de obras, bienes y servicios, incluidos la consultoría, de
+origen local y nacional, de acuerdo a los parámetros determinados por la entidad encargada
+de la Contratación Pública.
+Art. 25.2.- Preferencia a bienes, obras y servicios de origen ecuatoriano, y a los actores de
+la Economía Popular y Solidaria y Micro, pequeñas y medianas empresas.- En todos los
+procedimientos previstos en la presente ley, se preferirá al oferente de bienes, obras o
+servicios que incorpore mayor componente de origen ecuatoriano o a los actores de la
+Economía Popular y Solidaria y Micro, Pequeñas y Medianas Empresas, mediante la
+aplicación de mecanismos tales como: márgenes de preferencia proporcionales sobre las
+ofertas de otros proveedores, reserva de mercado, subcontratación preferente, entre otros.
+Para la adquisición de bienes, obras o servicios no considerados de origen ecuatoriano de
+acuerdo a la regulación correspondiente se requerirá previamente la verificación de
+inexistencia en la oferta de origen ecuatoriano, mediante mecanismos agiles que no
+demoren la contratación. La entidad encargada de la contratación pública mediante la
+regulación correspondiente incluirá la obligación de transferencia de tecnología y de
+conocimiento en toda contratación de origen no ecuatoriano.
+Art. 334.- El Estado promoverá el acceso equitativo a los factores de producción para lo
+que deberá, entre otras acciones, desarrollar políticas de fomento a la producción nacional
+en todos los sectores, en especial para garantizar la soberanía alimentaria y la soberanía
+energética, generar empleo y valor agregado.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+Calificación de la Producción nacional: Todo procedimiento debe contemplar criterios de
+valoración que incentiven y promuevan la participación nacional y local.
+4.2 INFORMACIÓN RELEVANTE DEL PROCEDIMIENTO:
+Datos de la entidad contratante:
+
+
+
+
+Descripción corta del requerimiento;
+Lugar de entrega del requerimiento;
+Valor estimado del requerimiento;
+
+Parámetros de calificación en relación con:
+
+
+
+
+
+Capacidad de cumplimiento;
+Especificaciones técnicas y calidad;
+Parámetros obligatorios vigentes
+Plazos y fechas de las etapas del proceso – Documentos anexos
+relacionados al proceso.
+
+4.3 INFORMACIÓN QUE DISPONE LA ENTIDAD Y QUE SE PONDRÁ A
+DISPOSICIÓN DEL PROVEEDOR
+La situación del área de intervención de la Unidad Médica Móvil se localiza en:
+País: Ecuador;
+Provincia: Cañar
+Cantón: Cañar, El Tambo, Suscal
+Parroquias: Zhud, Gualleturo, Honorato Vásquez, Ingapirca, Juncal, San Antonio,
+Chontamarca, General Morales y Chorocopte.
+Cobertura: Zonas de Influencia Directa e Indirecta de la Central Hidroeléctrica Ocaña
+construido por Elecaustro S. A
+
+5. ESPECIFICACIONES TÉCNICAS
+5.1 INFORMACIÓN TÉCNICA
+Especificación:
+
+Descripción del bien o
+servicio
+
+Cantidad Unidad
+
+Precio
+Unitario
+
+Precio Total
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+Unidad Médica Móvil equipada
+para las zonas de influencia de
+la Central Hidroeléctrica Ocaña
+construido por Elecaustro
+
+1
+
+U
+
+No
+disponible
+
+No disponible
+
+Total No disponible
+
+DETALLE DEL CHASIS
+MARCA
+
+A determinar
+
+MODELO
+
+A determinar
+
+COLOR
+
+Blanco
+
+AÑO
+
+2022
+
+TIPO
+
+Chasis cabinado
+
+CAPACIDAD CARGA
+HOMOLOGADA
+
+Mínimo de 4.795 toneladas
+
+CILINDRAJE
+
+Mínimo de 5193 cc
+
+Tipo de combustible
+
+Diesel
+
+Transmisión
+
+Mínimo 5 velocidades
+
+EQUIPAMIENTO
+
+Full A/C – Vidrios Eléctricos
+
+Peso Bruto Vehicular
+
+Mínimo de 7,850 KGS
+
+DIMENSIONES
+
+LARGO TOTAL: Mínimo de 6,635 MM.
+ESPACIO UTIL DE CARGA: Mínimo de 4,985 MM.
+DISTANCIA ENTRE EJES: Mínimo de 3,815 MM.
+ANCHO CABINA: Mínimo de 2.120 MM.
+
+Motor
+
+Especificar.
+
+Transmisión
+
+Caja manual, mínimo de 5 velocidades
+
+Dirección
+
+Asistida Hidráulica
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+Frenos
+
+El sistema de frenos deberá garantizar la seguridad de los
+ocupantes y contemplará las normas establecidas por el
+fabricante
+
+Tanque de
+combustible
+
+Filtro separador agua-combustible sedimentos.
+
+Sistema eléctrico y de
+alumbrado:
+
+Luces, faros y halógenos, según normas internacionales
+
+Eje delantero
+
+Eje Ballesta, Capacidad De Carga Mínima De 3100kg
+
+Eje posterior
+
+Eje ballesta, capacidad de carga mínima de 6000kg
+
+Suspensión
+
+Delantera: tipo ELIOT
+Posterior: ballesta semi rígido, eje flotante
+
+DETALLE TÉCNICO DE LA CONSTRUCCIÓN
+1
+
+Plataforma estructurada con perfil rectangular mínimo de 80 x
+40 x 2mm
+
+2
+
+Piso en plancha galvanizada lisa mínimo de 1.4mm
+
+3
+
+Sobre piso en madera contrachapada marino mínimo de
+19mm.
+
+4
+
+Sobre piso 2 en plancha de aluminio corrugado, o en material
+vinílico en rollo, protección anti-flama alto tráfico y con
+protección a microorganismos y de fácil limpieza.
+
+5. Estructura
+
+En todo su conjunto según el diseño, se construirá en perfil
+estructurado mínimo de 50 x 50 x 2mm y mínimo de 40x40 en
+2mm. En las divisiones de las diferentes áreas.
+
+6. Aislamiento
+
+Se aislará en el techo, los costados y las divisiones de las
+áreas con planchas de poliestireno expandido mínimo de 34kg
+x 3m3 x 5cm de espesor en los costados y paredes y mínimo
+10cm de espesor en el techo.
+
+7. Forrado Exterior
+
+Se instalará planchas galvanizadas mínimo de 1.1mm de
+espesor en el techo, costados, frente y trastapa.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+8- Forrado Interior
+
+Se instalarán en las paredes plancha galvanizadas mínimo de
+11mm
+
+9. Puertas y Ventana
+
+Se instalarán mínimo 1 puerta de acceso principal que
+conducirá a un pasillo y puertas internos para cada área médica
+(3 áreas) serán abatibles, con sus respectivas chapas de
+seguridad.
+Ventanas en vidrio templado superficie serán lisas de fácil
+limpieza y resistente, con vidrios de seguridad aprobados.
+
+10. Gradas
+
+Se instalará una grada desmontable de acceso a la puerta
+principal con seguridades para subir a la unidad (barandillas)
+
+11. Anclaje
+
+Anclaje a la plataforma tipo bus, con grapas, grilletes y placas
+empernadas al bastidor.
+
+12. Sistemas de
+Perifoneo
+
+Se Instalará en la parte delantera de la unidad.
+
+MOBILIARIO
+1. Armarios o
+gabinetes con puertas
+tipo corredizas.
+
+En cada área médica se instalarán gabinetes cerrados de
+anaqueles con compartimientos y con puertas en vidrio
+templado corredizo, optimizando los espacios aéreos.
+
+2. Mesones
+
+Se instalarán mesones pequeños así mismo optimizando los
+espacios, según las necesidades de cada área.
+
+3. Lavamanos
+
+En cada área se instalará un lavamanos empotrado en un
+lugar estratégico del mesón
+
+4. Inodoro
+
+Se instalará un inodoro con sus respectivos accesorios,
+(gabinete, llaves, lavamanos, toallero, dispensadores,
+extractor de olores, desagüe) (Solo será urinario).
+ÁREAS
+
+Área 1
+ODONTOLÓGICA
+
+ Se instalarán gabinetes cerrados de anaqueles con
+compartimientos y con puertas en vidrio templado corredizo,
+optimizando los espacios aéreos.
+ Se instalarán mesones pequeños optimizando los espacios,
+según las necesidades de esta área.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+ Se instalará mínimo 1 lavamanos con sus respectivas llaves
+de paso y de chorro
+ Tendrá instalaciones de agua limpia y de aguas servidas,
+así como instalaciones de aire para las turbinas.
+ Contenedores para desechos infecciosos y generales.
+ Dispensadores de jabón líquido, gel antiséptico y toallas de
+papel.
+ Aires acondicionados con poco volumen mínimo de 8000
+btus
+Área 2
+GINECOLÓGICA Y
+MEDICINA GENERAL
+
+ Se instalarán gabinetes cerrados de anaqueles con
+compartimientos y con puertas en vidrio templado corredizo,
+optimizando los espacios aéreos.
+ Se instalarán mesones pequeños así mismo optimizando los
+espacios, según las necesidades de esta área.
+ Se instalará mínimo 1 lavamanos con sus respectivas llaves
+de paso y de chorro
+ Tendrá instalaciones de agua limpia y de aguas servidas.
+ Contenedores para desechos infecciosos y generales.
+ Dispensadores de jabón líquido, gel antiséptico y toallas de
+papel.
+ Aires acondicionados con poco volumen, mínimo de 8000
+btus
+
+Área 3 BAÑO
+URINARIO
+
+ Se instalará 1 lavamanos con sus respectivas llaves de paso
+y de chorro.
+ Se instalará mínimo 1 inodoro.
+ Se instalará mínimo 1 gabinete de baño con espejo.
+ 1 toallero
+ 1 dispensador de jabón
+ 1 dispensador de papel
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+ 1 extractor de olores
+INSTALACIONES ELÉCTRICAS
+1. Instalaciones
+
+La instalación eléctrica de la unidad tendrá dos modalidades de
+abastecimiento 1 de la red de energía eléctrica y otra de un
+generador de emergencia
+
+2. Red Interna
+
+Cubrirá toda la estructura de la unidad y su alimentación debe
+ser con conectores equivalente a l14-30r para 110 v/220v,
+mínimo de 20 a 50 metros de longitud que llegue al tablero
+interno con cantidad suficiente de protectores térmicos
+polarizados de mínimo 20 amperios cada uno, se tomara muy
+en cuenta su seguridad y su múltiple uso, constara de una caja
+de breakers, toma corrientes en las diferentes áreas,
+interruptores, mangueras aislantes, toma corrientes externos
+con protección para recibir energía de la red, tomas eléctricas
+para conexión de equipo biométrico de atención médica,
+odontológica, psicología u obstetricia
+
+3. Generador
+Eléctrico
+
+mínimo de 5 kva a 8 kav
+
+4. Luces
+
+De ruta reglamentaria
+
+5. Iluminación
+Interior
+
+Lámparas tipo leds mínimo de 110v y 24v
+
+6. Socker
+
+Para entrada de energía de 110V
+
+7. Tomacorrientes En todos los ambientes para 110 V
+INSTALACIONES HÍDRICAS
+1. Tanque de
+agua limpia
+
+Se instalará un tanque de reserva de agua limpia construido en
+acero inoxidable grado alimenticio, con sus respectivas tomas
+y cañerías de distribución a las diferentes áreas.
+
+2. Tanque de
+aguas servidas
+
+Se instalará un tanque de almacenamiento de aguas servidas
+en acero inoxidable grado alimenticio 304, con sus respectivas
+tomas y cañerías de desfogue.
+
+3.
+
+Válvula Para cargar el agua.
+
+4.
+
+Válvula de descarga de aguas servidas.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+5.
+
+Manguera de jardín mínimo de 20m.
+SEÑALIZACIÓN
+1.
+
+Logos y sellos de la Institución en las puertas laterales del
+compartimiento del operador
+
+2.
+
+Señalética exterior a los costados y parte posterior del
+habitáculo asistencial: - Logo y/o nombre de la institución a la
+que pertenece y en la parte superior nombre de la unidad móvil.
+
+3.
+
+Señalética interior: - Rótulos de consultorios y - Señalética de
+seguridad
+PINTURA
+
+Pintura
+
+Exterior en poliuretano color blanco
+TRATAMIENTO DE PINTURA
+
+1.
+
+Promotor de adherencia: Recubrimiento de dos componentes
+especialmente diseñado para generar adherencia a cualquier
+tipo de superficie metálica, producto caracterizado por su
+facilidad de aplicación, rápido secamiento y gran resistencia a
+la corrosión.
+Poliuretano acrílico bi componente: Este producto provee
+protección, nivelación y emparejamiento de superficies
+ferrosas y no ferrosas en general de re-pintura automotriz
+Poliuretano a bases de resinas y pigmentos de alto relleno:
+Recubrimiento diseñado para utilizarse como acabado
+automotriz, de alta resistencia a la intemperie, retención del
+color, excelente brillo y cubrimiento
+
+EQUIPO ODONTOLÓGICO
+ITEM
+
+DETALLE
+
+CONJUNTO
+ODONTOLÓGICO
+
+COMPLETO SILLÓN Y TABURETE
+
+COMPRESOR
+
+Mínimo 1 HP de potencia y TANQUE mínimo de 40L
+
+KIT NSK
+
+PIEZA DE MANO, MICRO MOTOR, PIEZA RECTA
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+AUTOCLAVE
+
+DE ACERO INOXIDABLE mínimo de 21L
+
+KIT DE
+REHABILITACIÓN
+
+Oxigeno mínimo de 5 litros, mascarillas adulto y pediátrico,
+bambús, bomba de vacío
+
+ULTRASONIDO DE
+MANDO
+
+MULTIFUNCIÓN VARIOS EQUIVALENTE A 370 OPTICO
+
+EQUIPO MEDICINA GENERAL
+ITEM
+
+DETALLE
+
+OTOSCOPIO/OFTANOSCOPIO ILUMINACIÓN DIRECTA 2,7V COLOR NEGRO
+ESCOPE
+SET DE LARINGOSCOPIO
+
+ADULTO
+
+LÁMPARA CUELLO DE
+GANZO
+
+AJUSTABLE A CUALQUIER DIRECCIÓN
+
+PULSÍMETRO
+
+ADULTO
+
+PULSÍMETRO
+
+PEDIÁTRICO
+
+FONENDOSCOPIO
+
+ADULTO/PEDIÁTRICO
+
+BALANZA CON TELEMETRO
+
+BASCULA DE COLUMNA MECÁNICA, ESCALA DE
+HAS A NIVEL DE LOS OJOS
+
+CHEILONG
+
+CON CAJONERA
+
+REFRIGERADORA
+
+PEQUEÑA
+
+GARANTÍA
+DE
+LOS Garantía de los equipos médicos y odontológicos mínimo
+EQUIPOS MÉDICOS
+de dos años, Así como entrega de plan de mantenimiento
+preventivo a ser ejecutado por el fabricante o representante
+autorizado; garantía de mantenimiento correctivo y
+provisión de partes de repuestos, los cuales deberán estar
+disponibles en el mercado por lo menos 10 años.
+GARANTÍAS
+Vehículo: Mínimo 5 años o 100.000 Kms.
+Taller autorizado
+Habitación: Mínimo 4 años
+Nota: Debe existir un stock de repuestos mínimo de 5 años
+para el vehículo.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+Entregar Plan de mantenimiento preventivo y correctivo.
+6. EQUIPO MÍNIMO: No requerido por la entidad contratante
+
+7.
+
+PERSONAL TÉCNICO MÍNIMO:
+
+No.
+
+Función
+
+1
+
+Mecánico
+automotriz
+
+PERSONAL TÉCNICO MÍNIMO
+Nivel
+de Titulación
+Cantidad
+estudio
+académica
+Mínimo
+Mínimo
+1
+Secundaria
+Bachiller
+Técnico
+
+Justificación
+Presentar
+los
+documentos
+que
+acrediten su
+nivel
+de
+estudio.
+
+RECUERDE:
+La entidad contratante se reserva el derecho de verificar la disponibilidad y existencia del
+Personal asignado al proyecto, que no se encuentre comprometido en otro procedimiento
+de contratación no dependencia laboral pública.
+En el caso de requerir personal con un nivel de estudio Tercer Nivel o Bachiller, será
+verificable por los medios electrónicos de las Instituciones del Estado dicho registro.
+5.2 EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO:
+
+No.
+1
+
+EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO
+Función
+Nivel
+de Tiempo de Forma de acreditar la
+estudio
+experiencia
+experiencia
+Mecánico
+Bachiller
+2 años
+Experiencia
+en
+técnico
+mantenimiento preventivo y
+correctivo de vehículos.
+La verificación de la
+experiencia se presentará
+mediante los siguientes
+requisitos:
+certificados
+laborales,
+facturas,
+contratos.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+5.3 EXPERIENCIA GENERAL Y ESPECÍFICA MÍNIMA: APLICA
+No
+
+Tipo
+Descripción
+(general /
+específica)
+
+Temporalidad
+(indicar
+la
+experiencia
+adquirida en
+los
+últimos
+años)
+Para acreditar la 15
+experiencia
+general mínima el
+oferente
+deberá
+presentar actas de
+entrega recepción
+definitivas
+para
+justificar
+ventas
+con
+el
+sector
+público, y para
+ventas al sector
+privado
+deberá
+justificar con actas
+de
+entrega
+recepción
+o
+contrato con su
+factura respectiva
+emitidas
+a
+Entidades
+Privadas,
+que
+demuestren
+su
+experiencia
+en
+venta de vehículos
+durante los últimos
+15 años.
+
+No.
+De Contratos Valor del
+proyectos permitidos monto
+similares
+mínimo
+
+1
+
+GENERAL
+
+1 o mas
+
+1 o mas
+
+15.000,00
+
+EXPERIENCIA ESPECIFICA MÍNIMA
+No Tipo (general Descripción
+Temporalidad No.
+De Contratos Valor del
+/ específica)
+(indicar
+la proyectos permitidos monto
+experiencia
+similares
+mínimo
+adquirida en
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+1
+
+los
+últimos
+años)
+ESPECIFICA Para acreditar la 5
+1 o mas
+experiencia
+especifica
+mínima
+el
+oferente deberá
+presentar actas
+de
+entrega
+recepción
+definitiva
+para
+justificar ventas
+con el sector
+público, y para
+ventas al sector
+privado deberá
+justificar
+con
+actas de entrega
+recepción
+o
+contrato con su
+factura
+respectiva
+emitidas
+a
+Entidades
+Privadas,
+que
+demuestren su
+experiencia
+en
+construcción y/o
+comercialización
+de:
+Unidades
+Médicas Móviles
+y
+Ambulancias
+durante
+los
+últimos 5 años
+
+1 o mas
+
+$1500,00
+
+5.4 OTROS PARÁMETROS RESUELTOS POR LA ENTIDAD
+OTROS PARÁMETROS RESUELTOS POR LA ENTIDAD
+No.
+Descripción
+Dimensión (describir la
+dimensión que el proveedor
+debe acreditar respecto del
+parámetro definido)
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+1
+
+Carta compromiso de garantía técnica
+
+2
+
+Plan de mantenimiento preventivo
+
+3
+
+Carta compromiso de Matricula
+
+Carta compromiso en la
+cual indique que, previa a la
+suscripción del contrato el
+adjudicatario presentará la
+garantía técnica de acuerdo
+a la vigencia tecnológica
+Plan de mantenimiento
+preventivo valorado para el
+tiempo que dura la vigencia
+tecnológica (5 años o
+100.000 Km)
+El oferente presentará una
+carta
+compromiso
+que
+indique que, en el caso de
+resultar
+adjudicado
+el
+contrato se compromete a
+entregar la matrícula del
+vehículo de objeto de
+contratación
+
+6. CONDICIONES ADICIONALES DEL PRECIO DE LA OFERTA:
+El contratista asumirá los costos por traslado de los bienes adquiridos hacia el lugar
+establecido por la institución para la entrega, así como los costos que se generen por
+matriculación necesarios para cumplir a cabalidad con el objeto de contratación y su
+entrega; costos éstos que se consideran incluidos en el valor de la oferta.
+
+7. INFORMACIÓN FINANCIERA DE REFERENCIA
+No requerida por la entidad contratante.
+
+8. OBLIGACIONES DE LAS PARTES:
+8.1 Obligaciones del Contratista:
+
+
+
+
+
+Asegurar una correcta y legal ejecución del contrato en los términos establecidos.
+Cumplir con la legislación ecuatoriana en la materia relacionada con la ejecución del
+contrato.
+Garantizar el cumplimiento del porcentaje Valor Agregado Ecuatoriano ofertado.
+Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con los
+términos y condiciones del contrato.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+8.2 Obligaciones del Contratante:
+
+
+
+
+
+Son obligaciones de la contratante las establecidas en las Condiciones Particulares
+del Pliego que son parte del contrato.
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, en un lapso de (15 días) contados a partir de la petición escrita formulada
+por el contratista.
+Suscribir las actas de entrega recepción de los bienes (Unidad Médica Móvil)
+recibidos, siempre y cuando se haya cumplido con lo previsto en la ley para entregarecepción; y, en general, cumplir con las obligaciones derivadas al contrato.
+
+9. MULTAS
+Por cada día de retardo en la ejecución de las obligaciones contractuales, se aplicará una
+multa de 1 por 1000, del valor pendiente del contrato acorde a lo estipulado en el Art. 71.
+De la LOSNCP; Si el valor de las multas impuestas llegara a superar el 5% del valor del
+contrato, el Centro de Gestión y Desarrollo Social del GADPC, podrá terminar
+unilateralmente el contrato.
+
+10. PLAZO DE EJECUCIÓN
+El plazo de la presente contratación es de 60 días calendario a partir de la notificación de
+la entrega del anticipo.
+
+11. FORMA Y CONDICIÓN DE PAGO
+Garantía de anticipo
+Se realizará un anticipo de 70% y el 30% restante contra entrega del bien una vez verificado
+y previo informe de aprobación del administrador del contrato.
+
+12. GARANTÍAS
+El adjudicatario deberá presentar una garantía técnica del vehículo y los equipos médicos
+y odontológicos, misma que se encontrará vigente desde la suscripción del Acta de Entrega
+Recepción a entera satisfacción del Centro de gestión y Desarrollo Social del GADPC, la
+cual debe garantizar:
+a) Reposición inmediata ante defectos de fabricación, deficiencias en los trabajos de
+mantenimiento, ausencia de repuestos, accesorios, piezas y partes de bien, entre
+otros; que obstaculicen su normal funcionamiento y la continuidad en la prestación
+de los servicios a los ciudadanos.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+b) Vigencia de la garantía técnica durante la vida útil del vehículo y de los equipos
+médicos y odontológicos.
+c) Mantenimiento preventivo y correctivo durante la vida útil del vehículo y de los
+equipos médicos y odontológicos.
+d) Reposición temporal de los bienes durante los trabajos de mantenimiento que
+impidan su utilización.
+e) Cobertura de repuestos, accesorios, partes y piezas de los bienes, para lo cual el
+proveedor deberá garantizar su disponibilidad durante el tiempo de vigencia de la
+garantía técnica preventiva.
+f) Provisión de los repuestos, accesorios, partes y piezas necesarios para el
+mantenimiento preventivo periódico y correctivo.
+g) Procedimientos claros, precisos y efectivos para la ejecución de la garantía técnica
+y casos específicos en los cuales garantice la reposición temporal y definitiva de los
+bienes, así como identificación clara de las exclusiones de cobertura de la garanta
+técnica.
+h) Tiempos de repuestos óptimos y plazos máximos para el mantenimiento preventivo
+y periódico, correctivo y reposición temporal o definitiva de los bienes; y
+i) Disposición de talleres de servicio autorizados para el mantenimiento preventivo
+periódico o correctivo del bien.
+El adjudicatario deberá presentar la Garantía del fiel cumplimiento Art. 74.- Para seguridad
+del cumplimiento del contrato y para responder por las obligaciones que contrajeren a favor
+de terceros, relacionadas con el contrato, el adjudicatario, antes o al momento de la firma
+del contrato, rendirá garantías por un monto equivalente al cinco (5%) por ciento del valor
+de aquel.
+El adjudicatario deberá presentar la Garantía por anticipo Art. 75.- Si por la forma de pago
+establecida en el contrato, la Entidad Contratante debiera otorgar anticipos de cualquier
+naturaleza, sea en dinero, giros a la vista u otra forma de pago, el contratista para recibir el
+anticipo, deberá rendir previamente garantías por igual valor del anticipo, que se reducirán
+en la proporción que se vaya amortizando aquél o se reciban provisionalmente las obras,
+bienes o servicios. Las cartas de crédito no se considerarán anticipo si su pago está
+condicionado a la entrega - recepción de los bienes u obras materia del contrato.
+El monto del anticipo lo regulará la Entidad Contratante en consideración de la naturaleza
+de la contratación.
+
+13. FORMAS DE ENTREGA
+La Unidad Médica Móvil, deberá ser entregada en la siguiente dirección: Aurelio Jaramillo
+y Luis Cordero, en el Centro de Gestión y Desarrollo Social del GADPC.
+
+CENTRO DE GESTION Y DESARROLLO SOCIAL DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO DE LA PROVINCIA DEL CAÑAR
+
+14. FINANCIAMIENTO - PRESUPUESTO REFERENCIAL
+Se cuenta con la certificación presupuestaria necesaria para la adquisición de la Unidad
+Médica Móvil.
+
+15. VIGENCIA DE LA OFERTA
+La vigencia de la oferta debe ser mínimo de 30 días.
+
+16. ADMINISTRADOR DE LA CONTRATO
+El Centro de Gestión y Desarrollo Social del Gobierno Autónomo Descentralizado de la
+Provincia del Cañar, a través de la máxima autoridad o su delegado, designará de manera
+expresa un administrador del contrato, quien velará por el cabal y oportuno cumplimiento
+de todas y cada una de las obligaciones derivadas en el contrato. El administrador deberá
+canalizar y coordinar todas y cada una de las obligaciones contractuales convenidas.
+
+

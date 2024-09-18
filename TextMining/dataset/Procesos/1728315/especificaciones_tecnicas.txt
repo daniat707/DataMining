@@ -1,0 +1,953 @@
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+
+Especificaciones técnicas para la adquisición de los dispositivos médicos de uso
+general: Vendas varias medidas y tipos para el Hospital General Latacunga.
+1. Antecedentes.
+El Ministerio de Salud Pública fue creado el 16 de junio de 1967, cuya misión es “Ejercer la
+rectoría, regulación, planificación, coordinación, control y gestión de la Salud Pública
+ecuatoriana a través de la gobernanza y vigilancia y control sanitario y garantizar el derecho
+a la Salud a través de la provisión de servicios de atención individual, prevención de
+enfermedades, promoción de la salud e igualdad, la gobernanza de salud, investigación y
+desarrollo de la ciencia y tecnología; articulación de los actores del sistema, con el fin de
+garantizar el derecho a la Salud.” El Ministerio de Salud Pública dentro de sus actividades
+tiene como objetivo principal el “Ejercerá plenamente la gobernanza del Sistema Nacional
+de Salud, con un modelo referencial en Latinoamérica que priorice la promoción de la salud
+y la prevención de enfermedades, garantizando la salud integral y el acceso universal a la
+red de servicios.”
+El Hospital General Latacunga fue creado el 11 de noviembre del 1959, de acuerdo a la
+estructura del Ministerio de Salud Pública está catalogado como Unidad de Atención Nivel
+II y en concordancia con el Estatuto Orgánico por Procesos para Hospitales su Misión es,
+prestar servicios de salud con calidad y calidez en el ámbito de la asistencia especializada,
+a través de su cartera de servicios, cumpliendo con la responsabilidad de promoción,
+prevención, recuperación, rehabilitación de la salud integral, docencia e investigación,
+conforme a las políticas del Ministerio de Salud Pública y el trabajo en red, en el marco de la
+justicia y equidad social.
+El Hospital General Latacunga, como unidad del MSP, definida en el nivel II de atención,
+constituye el punto de referencia de las Unidades de Salud de los siete cantones de la
+Provincia y de acuerdo también, a las necesidades de las otras Unidades de la Zona 3.
+Cumple con estándares de calidad Internacional en la atención a los usuarios, lo cual está
+avalado con la obtención de la certificación a partir de abril del año 2015.
+La Farmacia Institucional dentro de la estructura organizacional de hospitales está
+constituida dentro de la Unidad de Apoyo Terapéutico y tiene la responsabilidad de la
+elaboración de requerimientos, adquisición, provisión, recepción, almacenamiento,
+conservación, distribución y reposición de medicamentos y dispositivos médicos.
+Los dispositivos médicos son un componente crucial de la atención sanitaria, ya que
+permiten satisfacer necesidades prioritarias de salud de la población, deben estar
+disponibles en todo momento, en cantidades suficientes, con las especificaciones técnicas
+apropiadas, con garantía de calidad y con información adecuada.
+La Constitución de la República del Ecuador, dispone:
+Art. 3.- “Son deberes primordiales del Estado: 1. Garantizar sin discriminación alguna el
+efectivo goce de los derechos establecidos en la Constitución y en los instrumentos
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+1
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+internacionales, en particular la educación, la salud, la alimentación, la seguridad social y el
+agua para sus habitantes…”
+Art. 32.- “La salud es un derecho que garantiza el Estado, cuya realización se vincula al
+ejercicio de otros derechos, entre ellos el derecho al agua, la alimentación, la educación,
+la cultura física, el trabajo, la seguridad social, los ambientes sanos y otros que sustentan el
+buen vivir.”
+Art. 362.- “… Los servicios de salud serán seguros, de calidad y calidez, y garantizarán el
+consentimiento informado, el acceso a la información y la confidencialidad de la
+información de los pacientes. Los servicios públicos estatales de salud serán universales y
+gratuitos en todos los niveles de atención y comprenderán los procedimientos de
+diagnóstico, tratamiento, medicamentos y rehabilitación necesarios.”
+Según Memorando N° MSP-CZ3-HGL-DAH-UADT-MI-2022-0083-M y MSP-CZ3-HGL-DAH-UADTMI-2022-0112-M de fecha 25 de enero de 2022 y 01 de febrero de 2022 respectivamente,
+suscrito por BQF. Gonzalo Fernando Zumba León COORDINADOR DE FARMACIA, INSUMOS,
+DISPOSITIVOS MÉDICOS Y REACTIVOS mismos que se detalla tanto asignación presupuestaria
+como la disminución de la misma para la partida presupuestaria referente al ítem 530826
+Dispositivos médicos de uso general.
+Considerando que con fecha 23 de febrero de 2022, en base a la Resolución No. RESERCOP-2022-122, Sección III; Otros procedimientos para la adquisición de Fármacos o
+Bienes Estratégicos en Salud; Apartado I, Subasta Inversa Institucional, y que detalla en el Art.
+424.16.- Procedencia.- Las entidades contratantes de la RPIS, de forma centralizada por regla
+general, y de forma desconcentrada excepcionalmente previa autorización del nivel
+central, realizarán la adquisición de fármacos o bienes estratégicos en salud, a través del
+presente procedimiento, indistintamente del monto de contratación, siempre y cuando
+dichos bienes no estén disponibles en el catálogo electrónico del Portal de COMPRAS
+PÚBLICAS de fármacos y bienes estratégicos en salud.(…). (Las negrillas me corresponden).
+Razón por la cual es necesario continuar con la ejecución de procesos de adquisición de
+Medicamentos y Bienes Estratégicos por Subasta Inversa Electrónica, requeridos para la
+provisión de servicios de salud del Hospital General Latacunga, considerando la urgente
+necesidad de mantener un stock adecuado y así evitar el desabastecimiento, sin paralizar
+los servicios de salud de esta unidad hospitalaria.
+Cabe recalcar que al momento no se dispone de procesos de compras centralizadas de
+Dispositivos Médicos, Bienes Estratégicos e Insumos, necesarios para el cumplimiento de las
+actividades de este hospital.
+Según memorando Nº MSP-CZ3-HGL-2022-1405-M de fecha 06 de abril de 2022 suscrito por
+Dr. José Eduardo Avilés Mejía Gerente Del Hospital General Latacunga mencionando:
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+2
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+“(…) esta Gerencia autoriza proceder con la adquisición de medicamentos, bienes
+estratégicos e insumos, mediante procesos de Subasta Inversa Institucional, de aquellos que
+no constan en el listado de la compra centralizada que realizará en el Ministerio de Salud
+Pública; como también se adquirirá el proporcional de los considerados en las compras
+centralizadas nacionales en base a la proyección anual de esta unidad de salud.”
+Mediante Memorando Nro. MSP-MSP-2022-0859-M de fecha 07 de abril de 2022 suscrito por
+Dra. Ximena Patricia Garzón Villalba PhD. MINISTRA DE SALUD PÚBLICA, documento en el
+cual me permito citar:
+“(…) esta autoridad nacional dispone, las Coordinaciones Zonales del Ministerio de Salud
+Pública, así como sus EODS, que quedan autorizadas a realizar los procesos de subasta
+inversa electrónica, en tal virtud, cada proceso de adquisición debe observar los criterio
+ordenados en el artículo 288 de la Constitución de la República del Ecuador, y los principios
+prescritos en el artículo 4 de la Ley Orgánica del Servicio Nacional de Contratación Pública,
+lo que permitirá hacer efectivo la seguridad jurídica que refiere el artículo 82 de la Norma
+Suprema. (…)”
+Mediante Memorando Nro. MSP-CZ3-HGL-2022-1422-M de fecha 07 de abril de 2022 suscrito
+por Dr. José Eduardo Avilés Mejía Gerente Del Hospital General Latacunga mencionando:
+“(…) se solicita dar cumplimiento a la Disposición Transitoria de la Resolución No. RE-SERCOP2022-122, e iniciar los procedimientos de adquisición de medicamentos, bienes estratégicos
+e insumos, mediante procesos de Subasta Inversa Electrónica.
+Particular que pongo en su conocimiento para el trámite correspondiente, conforme
+normativa legal vigente para el efecto.”
+2. Objetivo de la compra
+
+2.1 General.
+2.1.1 Adquirir dispositivos médicos de uso general: vendas varias medidas y tipos para
+proporcionar atención a pacientes hospitalizados del Hospital General Latacunga, los
+mismos que permitan satisfacer las necesidades prioritarias de salud de la población.
+2.2 Específicos.
+2.2.1 Disponer de los dispositivos médicos: vendas varias medidas y tipos cuyo uso hospitalario
+es la protección de partes blandas, materia de curación y la inmovilización de estructuras
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+3
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+blandas y óseas a fin de brindar una atención oportuna y de calidad a los usuarios que
+acuden a esta casa de salud mediante un eficiente suministro de dispositivos médicos.
+3.
+
+Especificaciones técnicas
+
+CUDIM
+
+NOMBRE DEL
+DISPOSITIVO
+MÉDICO
+
+ESPECIFICACIÓN TÉCNICA
+
+CANTIDAD
+REQUERIDA
+
+PRESENTACIÓN
+
+25-164-002
+
+Venda de
+algodón, 6"
+
+Acolchado sintética,
+fibras de celulosa o rayón,
+permeable al aire, no
+estéril, descartable
+
+600
+
+Unidad
+
+2
+
+25-164-003
+
+Venda de
+algodón, 8"
+
+Acolchado sintética,
+fibras de celulosa o rayón,
+permeable al aire, no
+estéril, descartable
+
+600
+
+Unidad
+
+3
+
+10-281-015
+
+Venda de gasa 4"
+x3m
+
+De algodón orillada, tejida
+en punto de malla, 3 m,
+estéril, descartable
+
+2.700
+
+Unidad
+
+10-281-016
+
+Venda de gasa
+6"x 3 m
+
+De algodón orillada, tejida
+en punto de malla, 3 m,
+estéril, descartable
+
+3.600
+
+Unidad
+
+25-171-002
+
+Venda de yeso, 6"
+
+Tejido impregnado con
+masa de yeso, 2.7 m de
+largo, descartable
+
+1.200
+
+Unidad
+
+Venda elástica, 6"
+
+De hilo de algodón y fibras
+sintéticas, equipada con
+broches para su fijación,
+descartable
+
+1.500
+
+Unidad
+
+Venda elástica, 8"
+
+De hilo de algodón y fibras
+sintéticas, equipada con
+broches para su fijación,
+descartable
+
+2.100
+
+Unidad
+
+VALOR
+UNITARIO
+
+VALOR TOTAL
+
+Nª
+
+CPC
+
+1
+
+4
+
+352901091
+
+5
+
+6
+
+25-168-002
+
+7
+
+25-168-003
+
+4. Presupuesto referencial
+Nro.
+
+DESCRIPCIÓN DEL BIEN
+
+UNIDAD DE
+MEDIDA
+
+CANT.
+
+1
+
+Venda de algodón, 6": Acolchado sintética,
+fibras de celulosa o rayón, permeable al aire,
+no estéril, descartable
+
+UNIDAD
+
+600
+
+$
+
+0,65
+
+$
+
+390,00
+
+2
+
+Venda de algodón, 8": Acolchado sintética,
+fibras de celulosa o rayón, permeable al aire,
+no estéril, descartable
+
+UNIDAD
+
+600
+
+$
+
+0,79
+
+$
+
+474,00
+
+UNIDAD
+
+2.700
+
+$
+
+0,56
+
+$
+
+1.512,00
+
+UNIDAD
+
+3.600
+
+$
+
+0,75
+
+$
+
+2.700,00
+
+3
+
+4
+
+Venda de gasa 4" x 3 m: De algodón orillada,
+tejida en punto de malla, 3 m, estéril,
+descartable
+Venda de gasa 6"x 3 m: De algodón orillada,
+tejida en punto de malla, 3 m, estéril,
+descartable
+
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+4
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+5
+6
+
+7
+
+Venda de yeso, 6": Tejido impregnado con
+masa de yeso, 2.7 m de largo, descartable
+
+UNIDAD
+
+Venda elástica, 6": De hilo de algodón y fibras
+sintéticas, equipada con broches para su
+UNIDAD
+fijación, descartable
+Venda elástica, 8": De hilo de algodón y fibras
+sintéticas, equipada con broches para su
+UNIDAD
+fijación, descartable
+SUBTOTAL
+IVA 12%
+TOTAL
+
+1.200
+
+$
+
+1,19
+
+$
+
+1.428,00
+
+1.500
+
+$
+
+2,13
+
+$
+
+3.195,00
+
+2.100
+
+$
+
+2,61
+
+$
+
+5.481,00
+
+$
+$
+$
+
+15.180,00
+1.821,60
+17.001,60
+
+El presupuesto referencial es de $ 15.180,00 (QUINCE MIL CIENTO OCHENTA DÓLARES DE LOS
+ESTADOS UNIDOS DE AMÉRICA CON 00/100), sin incluir IVA.
+5. Plazo de ejecución:
+El plazo de ejecución es de 15 días calendario contados a partir de la suscripción del
+contrato.
+6. Forma y condiciones de pago
+El pago se realizará 100% contra - entrega de acuerdo a lo establecido por la Institución: (de
+todos los dispositivos médicos adquiridos), cumpliendo los plazos establecidos, la verificación
+de especificaciones técnicas y administrativas, presentación de la factura y acta de entrega
+recepción firmada por el Administrador del Contrato, Guardalmacén de Bodega Central,
+representante del proveedor adjudicado e informe de Satisfacción del Administrador de
+Contrato y demás diligencias que sean requeridas por el departamento Administrativo
+Financiero.
+7. Lugar y forma de entrega
+La entrega será en su totalidad: 100% (de todos los dispositivos médicos adquiridos).
+Los dispositivos médicos serán entregados en las cantidades descritas en el contrato en la
+Bodega central del Hospital General Latacunga, en la ciudad de Latacunga, Ubicado en la
+calle Hermanas Páez 1-02 y Dos de Mayo.
+8. Parámetros de evaluación y requisitos mínimos
+8.1. Integridad de la oferta
+Parámetros:
+•
+•
+•
+•
+•
+•
+
+Integridad de la oferta
+Umbral del Valor Agregado Ecuatoriano (VAE)
+Experiencia general mínima
+Experiencia específica mínima
+Cumplimiento de Especificaciones técnicas
+Patrimonio (Personas Jurídicas)
+
+8.2. Equipo mínimo
+No aplica
+8.3. Personal técnico / equipo de trabajo / recursos
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+5
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+No aplica
+8.4. Experiencia mínima del personal técnica profesional y no profesional
+No aplica
+8.5. Experiencia mínima del personal técnica profesional y no profesional
+8.5.1 Experiencia general mínima
+•
+•
+•
+•
+•
+
+Descripción: El proveedor deberá acreditar la experiencia en la venta de dispositivos
+médicos de uso general.
+Experiencia adquirida en los últimos (años): 15 años
+Monto de experiencia mínima requerida por cada contrato: $ 1.518,00
+Monto mínimo requerido por cada contrato: $ 75,90 (20 contratos)
+Fuente o medio de verificación: Presentación de copia simple de Actas entrega
+Recepción o Facturas o contratos a entidades del sector público o privado a nivel
+Nacional.
+
+8.5.2
+•
+•
+•
+•
+•
+
+Experiencia específica
+
+Descripción: El proveedor invitado deberá acreditar una experiencia en la venta de
+dispositivos médicos de acuerdo a los ítems de la contratación
+Experiencia adquirida en los últimos (años): 5 años
+Monto de experiencia mínima requerida por cada contrato: $ 759,00
+Monto mínimo requerido por cada contrato: $ 37,95 (20 contratos)
+Fuente o medio de verificación: Presentación de copia simple de Actas entrega
+Recepción o Facturas o contratos a entidades del sector público o privado a nivel
+Nacional.
+8.6 Cumplimiento de especificaciones técnicas
+
+Los oferentes deberán dar cumplimiento expreso y puntual a las especificaciones técnicas
+señaladas por la entidad contratante, caso contrario la oferta será descalificada.
+8.7 Patrimonio: (Aplicable a personas jurídicas)
+La entidad contratante verificará que el patrimonio del oferente sea igual o superior a la
+relación que se determine con respecto del presupuesto referencial conforme las
+regulaciones expedidas por el SERCOP.
+8.8 Otros parámetros
+N°
+
+1
+
+Parámetro
+
+Descripción
+
+Fuente o medio de
+verificación
+
+REGISTRO
+SANITARIO
+VIGENTE
+
+Emitido por La Agencia Nacional
+de Regulación Control y Vigilancia
+Sanitario ARCSA-vigente o
+documento emitido por el ARCSA
+que indique que el dispositivo
+
+Copia de Documento
+
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+6
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+
+2
+
+3
+
+4
+
+5
+
+6
+
+médico no requiere del registro
+sanitario vigente.
+La vigencia del registro sanitario
+deberá ser mínimo hasta la fecha
+de recepción de los dispositivos
+médicos.
+El oferente debe presentar una
+carta de canje en la cual se
+comprometen en la reposición de
+CARTA DE
+dispositivos médicos que estén por
+CANJE
+caducarse hasta 60 días antes de
+su fecha de caducidad, previa
+notificación de la institución.
+El oferente deberá presentar la
+ficha técnica o catálogo en
+español o su traducción de cada
+FICHA TÉCNICA O
+uno de los ítems, que permita la
+CATÁLOGO
+verificación del cumplimiento de
+las especificaciones técnicas
+solicitadas
+El oferente deberá presentar el
+CERTIFICADO DE
+Certificado de Buenas prácticas
+BUENAS PRACTICAS DE de manufactura (BPM) o
+MANUFACTURA Y / O Certificado de cumplimiento de
+CERTIFICADO DE
+resolución ARCSA-DE-026-216-YMIH,
+CALIDAD
+si para riesgo II, III, IV; o FDA vigente
+a la fecha.
+El oferente presentará una carta
+compromiso de garantía técnica
+indicando que los dispositivos
+médicos tienen una fecha de
+caducidad mínima de 1 año (con
+excepción de los dispositivos
+CARTA COMPROMISO
+médicos con tiempo de vida útil
+DE GARANTÍA
+menor a un año de acuerdo a su
+TÉCNICA
+registro sanitario), adicionalmente
+cubrirá daños de transporte y fallas
+de fabricación, la garantía entrará
+en vigencia a partir de la fecha de
+recepción y será válida por todo el
+tiempo de vida útil del producto.
+CERTIFICADO DE
+El oferente deberá presentar el
+ANÁLISIS DE LOTE DE
+certificado de análisis de lote de
+LOS DISPOSITIVOS
+los dispositivos médicos. O carta
+MÉDICOS. O CARTA
+compromiso de entrega del
+COMPROMISO DE
+Certificado de Calidad de Análisis
+ENTREGA DEL
+de Lote
+CERTIFICADO DE
+
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+Documento impreso original
+con firma y sello del oferente.
+
+Ficha técnica o catálogo.
+
+Copia del Documento
+
+Documento impreso original
+con firma y sello del oferente.
+
+Copia del Documento
+
+7
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+CALIDAD DE ANÁLISIS
+DE LOTE
+Manual de uso y manejo de
+producto, en formato digital y
+en físico.
+TRANSFERENCIA DE
+• CD o información en línea
+TECNOLOGÍA DE
+donde se dé a conocer
+CONFORMIDAD AL
+información del producto,
+ANEXO 20 DE LA
+procedencia de materias
+NIVEL TT 1: Transferencia de
+CODIFICACIÓN Y
+primas, fechas y registros de
+tecnología dentro de la compra
+ACTUALIZACIÓN DE
+producción.
+pública de bienes primarios, bienes • Certificados de calidad o
+RESOLUCIONES
+7 EMITIDAS POR EL
+de baja intensidad tecnológica, y
+normativa (escaneados) bajo
+SERVICIO NACIONAL
+los cual fuere desarrollado el
+bienes de media-baja intensidad
+DE CONTRATACIÓN
+producto (en caso que
+tecnológica. Requerimientos:
+PÚBLICA, CONTENIDA
+existiesen).
+EN LA RESOLUCIÓN
+• Certificados de calibración
+RE.-SERCOP-2016del producto, dependiendo
+0000072 DE 31 DE
+del caso.
+AGOSTO DE 2016
+• Cualquier otra información
+sobre estándares industriales
+de medidas, pruebas y control
+de calidad.
+El
+oferente
+deberá
+presentar
+el
+CERTIFICADO DE
+BUENAS PRÁCTICAS DE certificado de Buenas Prácticas de
+Almacenamiento, Distribución y
+8 ALMACENAMIENTO,
+Copia del Documento
+DISTRIBUCIÓN Y
+Transporte vigente. Emitido por
+TRANSPORTE
+ARCSA.
+El oferente deberá presentar el
+PERMISO DE
+documento de permiso de
+9 FUNCIONAMIENTO DE
+Copia del Documento
+funcionamiento de la empresa
+LA EMPRESA
+vigente. Emitido por ARCSA.
+Se deberá presentar la Carta de
+Distribuidor Autorizado de (los)
+producto (s) adjudicado (s),
+otorgado por el titular del Registro
+Sanitario en el País, si es
+CERTIFICADO DE
+subdistribuidor de (los) producto (s) Certificado de Distribuidor
+DISTRIBUIDOR
+10
+AUTORIZADO (SI
+adjudicado (s), se debe presentar Autorizado (si aplica)
+APLICA)
+la carta de autorización para la
+distribución de los mismos emitida y
+suscrita por el titular del Registro o
+Distribuidor autorizado de los
+mismos.
+9
+
+Métodos de evaluación cumple o no cumple:
+PARÁMETROS
+
+CUMPLE
+
+NOCUMPLE
+
+Integridad de la oferta
+Umbral del Valor Agregado Ecuatoriano (VAE)
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+8
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+Experiencia general mínima
+Experiencia específica mínima
+Cumplimiento de las Especificaciones técnicas
+Patrimonio (Personas Jurídicas)
+Otros parámetros resueltos por la entidad contratante
+Registro Sanitario Vigente
+Carta de canje
+Ficha técnica o catálogo
+Certificado de Buenas Prácticas de Manufactura y/o
+certificado de calidad
+Carta compromiso de garantía técnica
+Certificado de análisis de lote de los dispositivos médicos
+o carta compromiso de entrega del certificado de
+calidad de análisis de lote
+Transferencia de tecnología de conformidad al anexo 20
+de la codificación y actualización de resoluciones
+emitidas por el servicio nacional de contratación pública,
+contenida en la resolución re.-sercop-2016-0000072 de 31
+de agosto de 2016
+Certificado de Buenas Prácticas de Almacenamiento,
+Distribución y Transporte
+Permiso de funcionamiento de la empresa emitido por la
+ARCSA
+Certificado de Distribuidor Autorizado (si aplica)
+10. Información Financiera de Referencia
+Análisis De Índices Financieros:
+Análisis De Índices Financieros:
+Índice de Solvencia
+Mayor o igual a 1. Los índices financieros no serán sujetos a evaluación y no se usarán como
+instrumento de calificación, documento habilitante para conocimiento. (Impuesto a la
+renta).
+Índice de Endeudamiento
+Menor a 1.5. Los índices financieros no serán sujetos a evaluación y no se usarán como
+instrumento de calificación, documento habilitante para conocimiento. (Impuesto a la
+renta).
+11. Método de evaluación por puntaje
+No aplica
+12 Variación mínima de la puja
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+9
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+El Hospital General Latacunga, considerando el presupuesto referencial obtenido en
+el Estudio de Mercado y el precio del bien en el mercado, recomienda que el valor
+mínimo que debe bajarse el oferente cada vez que remita una oferta económica en
+la puja sea el correspondiente al 1%.
+13 Garantías
+De acuerdo a lo establecido en el Artículo 76 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública LOSNCP.
+Garantía Técnica: El oferente presentará una garantía técnica indicando que los dispositivos
+médicos tienen una fecha de caducidad mínima de 1 año (con excepción de los dispositivos
+médicos con tiempo de vida útil menor a un año de acuerdo a su registro sanitario),
+adicionalmente cubrirá daños de transporte y fallas de fabricación, la garantía entrará en
+vigencia a partir de la fecha de recepción y será válida por todo el tiempo de vida útil del
+producto.
+14 Multas
+Por cada día de retardo en la ejecución de las obligaciones contractuales por parte del
+contratista, se aplicará la multa de 1 x 1000 diario de las obligaciones que se encuentren
+pendientes de ejecutarse. Esta multa aplicará a partir del primer día de retraso hasta un
+plazo máximo de 15 días. En caso de que el proveedor no entregue los dispositivos médicos
+en el plazo establecido anteriormente, se aplicará una multa adicional del uno por ciento
+(1%) diario de las obligaciones que se encuentren pendientes de ejecutarse.
+Excepto en el evento de caso fortuito o fuerza mayor, conforme a lo dispuesto en el artículo
+30 de la Codificación Civil, debidamente comprobado y aceptado por la Contratante, para
+lo cual se notificará a la entidad dentro de las 48 (horas) subsiguientes de ocurridos los
+hechos. Una vez transcurrido este plazo, de no mediar dicha notificación, se entenderá
+como no ocurridos los hechos que alegue la Contratista como causa para la no ejecución
+de la provisión del servicio y se le impondrá la multa prevista anteriormente.
+La contratante queda autorizada por la Contratista, para que haga efectiva la multa
+impuesta por los valores que por este contrato le corresponde recibir.
+15
+
+Vigencia de la oferta.
+
+La oferta deberá estar vigente al menos 60 días calendarios.
+16
+
+Administrador del contrato
+
+La unidad requirente recomienda a la Máxima Autoridad que el Administrador de Contrato
+sea Dra. Mayra Alexandra Zabala Aguilar.
+El Administrador del Contrato es quien deberá velar por el fiel cumplimiento del contrato,
+cumplimiento de la normativa y además será el responsable de suscribir las actas de
+entrega-recepción e informe de satisfacción de conformidad a lo establecido en los Art. 7080 de la Ley Orgánica del Sistema Nacional de Contratación Pública y Art. 121 y 124 del
+Reglamento General de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+17
+
+Obligaciones del contratista
+
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+10
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+a) El contratista cumplirá con la entrega de los bienes de acuerdo a lo establecido en los
+pliegos y en el contrato (conforme su oferta técnica), en el plazo ofertado y en el lugar
+establecido en el contrato, sin costo adicional del transporte para el contratante.
+b) El contratista proveerá de dispositivos Médicos con fecha de caducidad mínimo de 12
+meses (con excepción de los dispositivos médicos con tiempo de vida útil menor a un año
+de acuerdo a su registro sanitario).
+c) Para la entrega de los dispositivos médicos imprimir en la factura: Registro Sanitario del
+producto, Lote, fecha de caducidad, nombre genérico.
+d) En el momento de entregar los dispositivos médicos deben incluir la leyenda de gratuidad
+exigidas por el MSP tanto en el envase primario como secundario.
+e) El contratista adjudicado estará en la obligación de cambiar el bien defectuoso y de no
+satisfacer la originalidad e idoneidad del producto, el Hospital General Latacunga, se
+reserva el derecho de devolverlo.
+f) El contratista legalizara una vez entregados los bienes a entera satisfacción de la entidad
+contratante la suscripción del Acta Entrega Recepción única y definitiva.
+g) Tendrá la obligación de mantener vigente la Garantía Técnica, durante la vida útil del
+dispositivo médico.
+h) El contratista deberá presentar la carta de canje con fecha actualizada al momento de
+la entrega.
+i) Comunicar por escrito cualquier novedad que surja en la ejecución del contrato.
+j) Suscribir el contrato en el término establecido por la entidad contratante.
+k) A más de las obligaciones ya establecidas, el Contratista está obligado a cumplir con
+cualquier otra que se derive natural y legalmente del objeto del contrato y pueda ser exigible
+por constar en cualquier documento de él o en norma legal específicamente aplicable al
+mismo.
+l) El contratista deberá presentar la tabla de precios unitarios de los dispositivos médicos a
+ser adquiridos.
+18
+
+Obligaciones del contratante
+
+a) Designar al administrador del contrato.
+b) Recibir los bienes y suscribir el acta entrega recepción correspondiente
+c) Cumplir con el pago en el tiempo y en la forma establecida en el contrato.
+d) Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, en un plazo de 8 días contados a partir de la petición escrita formulada por
+el contratista.
+19
+
+Recomendación
+
+Se recomienda a la Máxima Autoridad autorizar el inicio del proceso mediante Subasta
+Inversa Electrónica para la adquisición de los dispositivos médicos de uso general: Vendas
+varias medidas y tipos para el Hospital General Latacunga, de acuerdo a la Normativa
+Legal Vigente.
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+11
+
+Ministerio de Salud Pública
+Coordinación Zonal 3 - Salud
+Hospital General Latacunga
+Latacunga, 22 de agosto de 2022
+
+Elaborado por:
+
+Revisado por:
+
+Aprobado por:
+
+Firmado electrónicamente por:
+
+VERONICA NATALY
+VACACELA ALARCON
+
+Firmado electrónicamente por:
+
+GONZALO
+FERNANDO ZUMBA
+LEON
+
+Nataly Vacacela A.
+BIOQUÍMICA FARMACÉUTICA
+
+BQF. Gonzalo Zumba L.
+COORDINADOR DE FARMACIA,
+INSUMOS, DISPOSITIVOS
+MÉDICOS Y REACTIVOS.
+
+Dirección: Hermanas Páez 1-02 y Dos de Mayo
+Código Postal: 050102 / Latacunga-Ecuador
+Teléfono: 593-3-2800-331 / 2994-420
+hgl.mspz3.gob.ec
+
+Firmado electrónicamente por:
+
+ROBERTO EDUARDO
+CHIRIBOGA ARGUELLO
+
+Dr. Roberto Chiriboga A.
+DIRECTOR MÉDICO (E)
+
+12
+
+

@@ -1,0 +1,891 @@
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+PLIEGOS DEL PROCEDIMIENTO DE
+SUBASTA INVERSA ELECTRONICA
+Versión SERCOP 1.1 (20 de febrero 2014)
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+CÓDIGO DEL PROCESO: SIE-HGSVP-76-FN-2022
+
+Objeto de Contratación: “ ADQUISICION DE FORMULAS NUTRICIONALES .”.
+
+IBARRA , 21 de diciembre del 2022
+
+Página 1/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+ÍNDICE
+
+I. CONDICIONES PARTICULARES DEL PROCEDIMIENTO DE SUBASTA INVERSA ELECTRÓNICA DE
+BIENES Y/O SERVICIOS
+
+SECCION I
+
+CONVOCATORIA
+
+SECCION II
+
+OBJETO DE LA CONTRATACIÓN, PRESUPUESTO REFERENCIAL,
+ESPECIFICACIONES TÉCNICAS O TÉRMINOS DE REFERENCIA.
+2.1 Objeto
+2.2 Presupuesto referencial
+2.3 Especificaciones técnicas o términos de referencia
+
+SECCION III
+
+CONDICIONES DEL PROCEDIMIENTO
+3.1 Cronograma del procedimiento
+3.2 Vigencia de la oferta
+3.3 Precio de la Oferta
+3.4 Forma de presentar la oferta
+3.5 Plazo de Ejecución
+3.6 Forma de Pago
+
+SECCIÓN IV
+
+EVALUACIÓN DE LAS OFERTAS TECNICAS
+4.1 Evaluación de la oferta
+4.1.1 Integridad de las ofertas
+4.1.2 Equipo Mínimo
+4.1.3 Personal técnico mínimo
+4.1.4 Experiencia general y específica mínima
+4.1.5 Experiencia mínima del personal técnico
+4.1.6 Especificaciones Técnicas o Términos de Referencia
+4.1.7 Patrimonio (Personas Jurídicas)
+4.1.8 Umbral de Valor Agregado Ecuatoriano de la oferta
+4.1.9 Verificación de cumplimiento de integridad y requisitos mínimosde la oferta.
+4.1.10 Información Financiera de Referencia
+
+SECCIÓN V
+
+PUJA
+5.1 Oferta económica inicial
+5.2 Puja
+5.3 Negociación única
+
+SECCIÓN VI
+
+OBLIGACIONES DE LAS PARTES
+6.1 Obligaciones del Contratista
+6.2 Obligaciones de la Contratante
+
+Página 2/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+SUBASTA INVERSA ELECTRONICA
+SIE-HGSVP-76-FN-2022
+I. CONDICIONES PARTICULARES DE LA SUBASTA INVERSA ELECTRONICA
+
+SECCIÓN I
+CONVOCATORIA
+Se convoca a las personas naturales o jurídicas, nacionales o extranjeras, asociaciones de éstas o consorcios o
+compromisos de asociación, que se encuentren habilitadas en el Registro Único de Proveedores – RUP, que
+tengan su domicilio fiscal en el Ecuador, legalmente capaces para contratar, a que presenten sus ofertas para
+ADQUISICION DE FORMULAS NUTRICIONALES.
+Aquellos proveedores que no hayan sido invitados automáticamente a través del Portal Institucional del SERCOP,
+siempre que estén registrados en la categoría del producto, CPC, correspondiente, podrán auto invitase, hasta
+antes de la fecha límite para presentación de ofertas para participar en el procedimiento.
+El presupuesto referencial es de NO DISPONIBLE dólares de Estados Unidos de América, sin incluir el IVA, y el
+plazo estimado para la ejecución del contrato es de 15 días , contado DESDE LA FECHA DE SUSCRIPCIÓN
+DEL CONTRATO.
+Las condiciones generales de esta convocatoria son las siguientes:
+1. El pliego está disponible, sin ningún costo, en el Portal Institucional del SERCOP
+(www.compraspublicas.gob.ec); únicamente el oferente que resulte adjudicado, una vez recibida la
+notificación de la adjudicación, pagará a HOSPITAL GENERAL SAN VICENTE DE PAUL el valor de
+0,00000 dólares de Estados Unidos de América, de conformidad con lo previsto en el inciso 4 del artículo
+31 de la Ley Orgánica del Sistema Nacional de Contratación Pública –LOSNCP.
+2. Los interesados podrán formular preguntas en el término de (mínimo de 1 y máximo de 3 días), contado a
+partir de la fecha de publicación, de acuerdo a lo que establezca HOSPITAL GENERAL SAN VICENTE
+DE PAUL . La Comisión Técnica y/o máxima autoridad o su delegado absolverá obligatoriamente todas
+las preguntas y realizará las aclaraciones necesarias, en un término de (mínimo de 1 y máximo de 3 días)
+subsiguientes a la conclusión del período establecido para formular preguntas y aclaraciones.
+3. La oferta se presentará de forma física en HOSPITAL GENERAL SAN VICENTE DE PAUL o Secretaría
+de la Comisión Técnica, según corresponda, ubicada en LUIS VARGAS TORRES 11-56 y GONZALO
+GOMEZ JURADO, Refencia: COLISEO LUIS LEORO FRANCO, o de forma electrónica a través del Portal
+Institucional del SERCOP, caso en el que para ser válida deberá estar firmada electrónicamente; hasta las
+14:00 del día 29 de diciembre del 2022 , de acuerdo con lo establecido en el calendario del proceso y de
+conformidad con lo dispuesto en el Reglamento General de la Ley Orgánica del Sistema Nacional de
+Contratación Pública -RGLOSNCP-.
+4. Si la calificación realizada por HOSPITAL GENERAL SAN VICENTE DE PAUL o Comisión Técnica, según
+corresponda ha sido aceptada por la máxima autoridad o su delegado, se dispondrá que los oferentes
+habilitados presenten sus ofertas económicas iniciales a través del Portal Institucional del SERCOP, las
+mismas que deberán ser inferiores al presupuesto referencial.
+
+Página 3/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+Para poder participar del mecanismo electrónico en el Portal, al momento de realizarse la puja, los
+oferentes interesados deberán encontrarse habilitados en el Registro Único de Proveedores.
+5. En el día y hora señalados en el Convocatoria, se realizará la puja hacia la baja a través del Portal
+Institucional.
+6. Los pagos del contrato se realizarán con cargo a los fondos propios provenientes del presupuesto de la
+entidad contratante relacionados con la partida presupuestaria:
+Número de Partida
+
+Descripción
+
+2022.320.1250.0000.90.00.000.004.000.1001.5308
+09.000000.001.0000.0000
+
+ADQUISICION DE FORMULAS NUTRICIONALES
+
+La partida presupuestaria deberá certificarse por la totalidad de la contratación incluyéndose el IVA. Los
+pagos se realizarán:
+Anticipo: no se otorgará anticipo
+Forma de pago: Pago contra entrega de 100%. PAGO CONTRA ENTREGA CIEN POR CIENTO
+7. El procedimiento se ceñirá a las disposiciones de la LOSNCP, su Reglamento General, las resoluciones
+del SERCOP y el presente pliego.
+8. HOSPITAL GENERAL SAN VICENTE DE PAUL se reserva el derecho de cancelar o declarar desierto el
+procedimiento de contratación, situación en la que no habrá lugar a pago de indemnización alguna.
+
+IBARRA, 21 de diciembre del 2022
+
+Firmado electrónicamente por:
+
+MYRIAN
+ELIZABETH
+RUIZ MEJIA
+
+DRA.MYRIAN ELIZABETH RUIZ MEJIA
+GERENTE HOSPITALARIA
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+Página 4/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+SECCIÓN II
+OBJETO DE LA CONTRATACIÓN, PRESUPUESTO REFERENCIAL, ESPECIFICACIONES TÉCNICAS O
+TÉRMINOS DE REFERENCIA.
+
+2.1 Objeto: Este procedimiento precontractual tiene como propósito seleccionar a la oferta de origen ecuatoriano
+de mejor costo, en los términos del numeral 17 del artículo 6 de la LOSNCP, para la ADQUISICION DE
+FORMULAS NUTRICIONALES
+Si en el procedimiento de contratación no hubiere oferta u ofertas consideradas de origen ecuatoriano, la entidad
+contratante considerará y analizará las ofertas que no se consideren ecuatorianas que se hubieren presentado.
+2.2 Presupuesto referencial: El presupuesto referencial es de NO DISPONIBLE, con sujeción al Plan Anual de
+Contratación respectivo), NO INCLUYE IVA.
+Código
+CPC
+
+Descripción del bien o
+servicio
+
+Unidad
+
+Cantidad
+
+Precio Unitario
+
+Precio Total
+
+352500211
+002
+
+ADQUISICION DE
+FORMULAS
+NUTRICIONALES GNUT001-PLU-2022-PLURIANU
+AL
+
+u
+
+1
+
+NO DISPONIBLE
+
+NO DISPONIBLE
+
+Total:
+
+NO DISPONIBLE
+
+2.3 Especificaciones técnicas o términos de referencia: Las especificaciones técnicas y/o términos de
+referencia para la presente contratación se detallan a continuación:
+
+Especificación Técnica
+No.
+
+1
+
+Descripción
+
+ADQUISICION DE FORMULAS
+NUTRICIONALES
+GNUT-001-PLU-2022-PLURIANUA
+L
+
+Cantid
+ad
+
+Unidad Precio Precio
+es
+referen referen
+cial
+cial su
+unitari btotal
+o
+
+1
+
+u
+
+CPC 9
+
+NO DIS NO DIS 352500
+PONIB PONIB 211002
+LE
+LE
+
+Items de la Especificación Técnica
+No.
+
+1.1
+
+Atributo
+
+Características,
+requisitos
+funcionales o
+tecnológicos
+
+Fórmula para nutrición
+enteral (completa para
+adultos)
+
+Combinaciones
+de lípidos,
+carbohidratos,
+proteínas,
+
+Condiciones de
+uso
+
+Página 5/16
+
+Cantid
+ad
+
+Unidad
+
+60
+
+u
+
+Servici CPC R
+o
+elacion
+ado
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+Especificación Técnica
+minerales y
+vitaminas. Sólido
+oral (polvo)
+Adultos-Tarro x
+400 gr
+1.2
+
+Fórmula para nutrición
+enteral para pacientes
+diabéticos
+
+Otras
+combinaciones
+de nutrientes
+Sólido oral
+(polvo)
+Especializada
+diabéticos-Tarro
+x 400 gr142
+
+142
+
+u
+
+1.3
+
+Fórmula nutricional
+hipercalórica hiperproteica
+con antioxidantes
+
+Otras
+combinaciones
+de nutrientes,
+líquido oral
+hipercalórica,
+hiperproteica con
+antioxidantesCartón x botellas
+de 220 ml
+
+2370
+
+u
+
+Página 6/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+SECCION III
+CONDICIONES DEL PROCEDIMIENTO
+3.1 Cronograma del procedimiento: El cronograma que regirá el procedimiento será el siguiente:
+No.
+
+Concepto
+
+Día
+
+Hora
+
+1
+
+Fecha de publicación del proceso en el portal
+
+2022/12/21
+
+20:00
+
+2
+
+Fecha límite para efectuar preguntas
+
+2022/12/23
+
+20:00
+
+3
+
+Fecha límite para emitir respuestas y aclaraciones
+
+2022/12/27
+
+20:00
+
+4
+
+Fecha límite recepción oferta técnica
+
+2022/12/29
+
+14:00
+
+5
+
+Fecha límite para solicitar convalidación de errores
+
+2023/01/03
+
+20:00
+
+6
+
+Fecha límite para convalidación de errores
+
+2023/01/05
+
+20:00
+
+7
+
+Fecha límite calificación técnica de participantes
+
+2023/01/06
+
+14:00
+
+8
+
+Fecha inicio de puja
+
+2023/01/09
+
+11:00
+
+9
+
+Fecha fin de puja
+
+2023/01/09
+
+11:15
+
+10
+
+Fecha estimada de adjudicación
+
+2023/01/13
+
+18:00
+
+El término para la convalidación de errores será de 2 días.
+3.2 Vigencia de la oferta: Las ofertas se entenderán vigentes hasta 30 días calendario. En caso de que no se
+señale una fecha estará vigente hasta la celebración del contrato, de acuerdo a lo establecido en el artículo 30 de
+la LOSNCP.
+3.3 Precio de la Oferta:
+El precio de la oferta se formulará a través de la herramienta del Portal Institucional del SERCOP y no será visible
+para la entidad contratante ni los oferentes interesados hasta cuando HOSPITAL GENERAL SAN VICENTE DE
+PAUL haya habilitado al oferente para subir la oferta económica inicial.
+Los precios presentados por el oferente son de su exclusiva responsabilidad. Cualquier omisión se interpretará
+como voluntaria y tendiente a conseguir precios que le permitan presentar una oferta más ventajosa.
+(Para el caso de bienes: La entidad contratante requiere la provisión de ADQUISICION DE FORMULAS
+NUTRICIONALES que cumpla con todas las especificaciones y características establecidas en los pliegos, a fin de
+que la entrega se realice a plena satisfacción de la entidad contratante).
+El precio de la oferta además deberá incluir lo siguiente:
+No requerido por la entidad
+(Para el caso de prestación de servicios: El precio de la oferta deberá cubrir todas las actividades y costos
+necesarios para que el oferente preste los servicios objeto de la contratación en cumplimiento de los términos de
+referencia correspondientes y a plena satisfacción de la entidad contratante).
+3.4 Forma de presentar la oferta: La oferta se presentará en un sobre único en HOSPITAL GENERAL SAN
+
+Página 7/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+VICENTE DE PAUL o Secretaría de la Comisión Técnica, según corresponda, hasta la fecha y hora indicadas en
+la convocatoria.
+La oferta se podrá presentar a través del Portal Institucional completando el formulario electrónico, o bien en forma
+física. Para este segundo caso, se presentará En un sobre que contenga la siguiente ilustración:
+
+SUBASTA INVERSA ELECTRONICA
+“CÓDIGO DEL PROCESO: SIE-HGSVP-76-FN-2022”
+SOBRE ÚNICO
+Señor(a)
+DRA.MYRIAN ELIZABETH RUIZ MEJIA
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+Presente
+PRESENTADA POR: ____________________________________
+
+No se tomarán en cuenta las ofertas entregadas en otro lugar o después del día y hora fijados para su entregarecepción.
+HOSPITAL GENERAL SAN VICENTE DE PAUL o Secretaría de la Comisión Técnica, según
+corresponda recibirá las ofertas técnicas, conferirá comprobantes de recepción por cada oferta entregada y
+anotará, tanto en los recibos como en el sobre de la oferta, la fecha y hora de recepción.
+No se exigirá a los oferentes la entrega de documentos que previamente hayan sido entregados para efectos de
+habilitarse en el Registro Único de Proveedores. Tampoco se exigirá que la documentación presentada por los
+oferentes sea notariada; únicamente el oferente adjudicatario deberá cumplir con la entrega notariada de
+documentos para la suscripción del contrato, (de ser el caso).
+3.5 Plazo de Ejecución: El plazo de entrega de los bienes y/o prestación de los servicios normalizados es de 15
+días, contado DESDE LA FECHA DE SUSCRIPCIÓN DEL CONTRATO .
+3.6 Forma de pago: Los pagos se realizarán de la manera prevista en el númeral 6 del la Convocatoria.
+3.6.1 Anticipo:no se otorgará anticipo.
+Valor restante del contrato: Pago contra entrega de 100%. PAGO CONTRA ENTREGA CIEN POR CIENTO.
+
+Página 8/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+SECCIÓN IV
+EVALUACIÓN DE LAS OFERTAS TECNICAS
+4.1 Evaluación de la oferta: Para la verificación del cumplimiento de los requisitos mínimos es estará a la
+metodología “cumple o no cumple”.
+4.1.1 Integridad de la oferta: La integridad de la oferta técnica se evaluará considerando la presentación de los
+Formularios y requisitos mínimos previstos en el pliego, de acuerdo con el siguiente detalle:
+I Formulario de la Oferta
+1.1 Presentación y compromiso;
+1.2 Datos generales del oferente;
+1.3 Identificación de socios, accionistas, partícipes mayoritarios del oferente en caso de ser persona
+jurídica;
+1.4 Situación financiera del oferente;
+1.5 Componente de los bienes y servicios ofertados;
+1.6 Oferta Económica Incial;
+1.7 Experiencia del oferente.
+Soporte técnico en caso de haber sido exigido)
+1.8 Personal técnico propuesto para el proyecto.
+1.9 Equipo mínimo requerido
+1.10 Umbral de Valor Agregado Ecuatoriano de la oferta
+1.11 Cálculo del porcentaje de valor agregado ecuatoriano de la oferta.
+II. Formulario de compromiso de asociación o consorcio (de ser procedente)
+Observación:
+LA ENTREGA DE LA OFERTA SERA UNICAMENTE A TRAVES DEL PORTAL DE COMPRAS PUBLICAS DE
+ACUERDO AL RGLOSNCP
+4.1.2 Equipo mínimo:
+No requerido por la entidad
+4.1.3 Personal técnico mínimo:
+No requerido por la entidad
+4.1.4 Experiencia general y específica mínima:
+No requerido por la entidad
+4.1.5 Experiencia mínima del personal técnico:
+No requerido por la entidad
+4.1.6 Especificaciones técnicas o Términos de referencia:
+La entidad contratante deberá verificar que cada oferente en la oferta que ha presentado, dé cumplimiento
+expreso y puntual a las especificaciones técnicas de los bienes que se pretende adquirir o, términos de referencia
+
+Página 9/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+para los servicios que se pretende contratar, de conformidad con lo detallado en el numeral 2.3 del pliego.
+4.1.7 Patrimonio (Aplicable a personas jurídicas):
+HOSPITAL GENERAL SAN VICENTE DE PAUL, verificará que el patrimonio del oferente sea igual o superior a la
+relación que se determine con respecto del presupuesto referencial conforme las regulaciones expedidas por el
+SERCOP. Para este procedimiento el monto mínimo de patrimonio que el oferente debe justificar es de:
+Patrimonio no requerido de acuerdo al Presupuesto Referencial.
+
+4.1.8 Umbral de Valor Agregado Ecuatoriano Mínimo:
+La entidad contratante deberá verificar si alguno o algunos o todos los oferentes cumplen con el porcentaje
+mínimo sectorial ecuatoriano, determinado por el SERCOP. Sólo él o los participantes que cumplen con el
+porcentaje mínimo sectorial ecuatoriano continuarán en el procedimiento.
+Únicamente cuando en los procedimientos de contratación no hubiere oferta u ofertas de bienes y/o servicios
+considerados de origen ecuatoriano, HOSPITAL GENERAL SAN VICENTE DE PAUL, continuará el
+procedimiento con las ofertas de origen extranjero.
+Umbrales de VAE del Procedimiento
+Descripción
+Lote 1 35250 ADQUISICION DE FORMULAS
+NUTRICIONALES GNUT-001-PLU-2022-PLURIANUAL
+352500211002 ADQUISICION DE FORMULAS
+20,18%
+NUTRICIONALES
+GNUT-001-PLU-2022-PLURIANUAL
+
+Umbral VAE
+20,18%
+
+Otro(s) parámetro(s) resuelto por la entidad contratante:
+No.
+
+Parámetro
+
+Dimesión
+
+1
+
+Garantía Técnica
+
+Garantía técnica por defecto de fábrica del
+producto.Carta de compromiso de cambio
+del producto por defecto de fabricación en
+todos los ítems demandados, periodo de
+hasta 6 meses de cambio del producto por
+falla técnica.
+
+2
+
+CADUCIDAD
+
+Tiempo mínimo de caducidad de producto
+por 24 meses, excepto productos que por
+su naturaleza tengan una fecha de
+expiración menor, debidamente justificado.
+Lote y fecha de caducidad de cada bien
+que conste en la factura.
+
+3
+
+PLAZO ENTREGA
+
+Los productos deben ser entregados en el
+tiempo asignado en su totalidad.Acta de
+entrega finiquitada con todos los bienes
+receptados.
+
+4
+
+CARTA DE COMPROMSIO DE CANJE
+
+Carta de compromiso de canje de fórmulas
+nutricionales que se encuentren en mal
+
+Página 10/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+No.
+
+Parámetro
+
+Dimesión
+estado, se caduquen o si durante su uso se
+detecta anomalías y que serán cambiado
+por otro nuevo en el lapso de 48 horas una
+vez recibida la notificación. Emitir una Carta
+compromiso canje en mal estado o defecto
+de fab
+
+5
+
+CANJE DE PRODUCTOS
+
+Canje de productos próximos a expirar con
+60 días antes de su fecha de
+expiraciónDocumento en el cual conste el
+Canje de productos próximos a expirar con
+60 días antes de su fecha de expiración
+
+6
+
+REGISTRO SANITARIO
+
+Copia del Registro Sanitario de las
+Fórmulas Nutricionales vigente, Notificación
+Sanitaria o Documento emitido por la
+ARCSA en donde justifique que la Fórmulas
+Nutricionales no requiere de Registro
+Sanitario.Copia del Registro Sanitario de
+los Fórmulas Nutricionales vigente,
+Notificación Sanitaria
+
+7
+
+LEYENDA MSP
+
+Leyenda MSP, prohibida su venta, impreso
+en cada Fórmulas Nutricionales. Fórmulas
+Nutricionales en el cual conste la Leyenda
+MSP, prohibida su venta.
+
+8
+
+PERMISO DE FUNCIONAMIENTO
+
+Copia permiso de funcionamientoPresentar
+permiso de funcionamiento
+
+9
+
+BUENAS PRACTICAS DE MANUFACTURA
+
+Certificado de buenas prácticas de
+manufacturaPresentar Certificado de
+buenas prácticas de manufactura
+
+10
+
+buenas prácticas de almacenamiento distribución y
+
+Copia de Certificado de buenas prácticas
+de almacenamiento distribución y trasporte
+(BPADT)Copia de Certificado de buenas
+prácticas de almacenamiento distribución y
+trasporte (BPADT)
+
+11
+
+LOTE
+
+Certificado de análisis de lote vigente, al
+momento de la recepción de los Fórmulas
+Nutricionales.Copia del certificado de
+análisis de lote vigente. Al momento de la
+recepción de los Fórmulas Nutricionales.
+
+4.1.9 Verificación de cumplimiento de integridad y requisitos mínimos de la oferta:
+Parámetro
+Cumple
+Integridad de la oferta
+Umbral de Valor Agregado
+Ecuatoriano Mínimo (VAE)
+Experiencia mínima del
+personal técnico
+Patrimonio (Personas
+
+No Cumple
+
+Página 11/16
+
+Observaciones
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+Parámetro
+Cumple
+Jurídicas)*
+Especificaciones técnicas
+o Términos de referencia
+Garantía Técnica
+CADUCIDAD
+PLAZO ENTREGA
+CARTA DE
+COMPROMSIO DE
+CANJE
+CANJE DE PRODUCTOS
+REGISTRO SANITARIO
+LEYENDA MSP
+PERMISO DE
+FUNCIONAMIENTO
+BUENAS PRACTICAS DE
+MANUFACTURA
+buenas prácticas de
+almacenamiento
+distribución y
+LOTE
+
+No Cumple
+
+Observaciones
+
+* El patrimonio del oferente, como parámetro de evaluación, se aplicará siempre que el presupuesto referencial
+sea igual o superior al valor que resulte de multiplicar el coeficiente 0,000002 por el presupuesto inicial del estado
+del correspondiente.
+Únicamente aquellas ofertas que cumplan integralmente con los parámetros mínimos requeridos por HOSPITAL
+GENERAL SAN VICENTE DE PAUL, se habilitarán a fin de que los oferentes envíen sus ofertas a través del
+portal institucional del SERCOP para participar en la puja.
+4.1.10 Información Financiera de Referencia:
+Análisis de los Índices Financieros:
+Los índices financieros constituirán información de referencia respecto de los participantes en el procedimiento y
+en tal medida, su análisis se registrará conforme el detalle a continuación:
+Índice
+Índice de solvencia
+Índice de endeudamiento
+
+Indicador Solicitado
+1,00
+1,00
+
+Página 12/16
+
+Observaciones
+(mayor o igual a 1,0)
+(menor a 1,5)
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+SECCIÓN V
+PUJA
+5.1 Oferta económica inicial: Los proveedores cuya oferta haya sido calificada y habilitada, deberán enviar la
+oferta económica inicial a través del Portal Institucional del SERCOP a fin de participar en la puja.
+Las ofertas económicas iniciales presentadas a través del Portal Institucional del SERCOP, obligan al
+oferente a cumplir las condiciones técnicas y económicas ofertadas en el caso de resultar adjudicado, aun cuando
+no participare en el acto de la puja.
+El oferente deberá presentar en la oferta, el formulario -Oferta Económica Inicial- con los precios unitarios
+inicialmente propuestos de los bienes y servicios a suministrar, cuyo valor total será subido por el oferente al portal
+como oferta económica inicial, en caso de resultar habilitado. Concluida la puja o negociación, en caso de que el
+oferente resulte adjudicado, el valor resultante de la puja o negociación deberá adecuarse a lo previsto en el
+cuadro del formulario indicado, con los precios unitarios que justifican el monto final adjudicado, información que
+se trasladará al contrato.
+5.2 Puja: En el día y hora señalados en la convocatoria, se realizará la puja hacia la baja a través del Portal
+Institucional del SERCOP, en la cual participarán únicamente los proveedores que hayan enviado su oferta
+económica inicial.
+El porcentaje de variación mínimo durante la puja será del: 1%.
+5.3 Negociación: De existir una sola oferta calificada, o si una sola oferta resultare habilitada, o un solo oferente
+presentare su oferta económica inicial, se realizará una sesión de negociación de acuerdo a lo establecido en el
+artículo 47 del RGLOSNCP.
+
+Página 13/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+SECCIÓN VI
+OBLIGACIONES DE LAS PARTES
+6.1 Obligaciones del Contratista:
+Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano ofertado.
+Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con los términos y condiciones
+del contrato.
+El Contratista deberá entregar las Fórmulas Nutricionales cumpliendo con los parámetros solicitados. El
+contratista además deberá cumplir con la normativa dispuesta por el MSP y contemplada en la ley de,
+contratación pública dictada por el SERCOP. 1.Los oferentes deben revisar cuidadosamente los pliegos,
+especificaciones técnicas y cumplir con todos los requisitos solicitados en ellos. La omisión o descuido
+del oferente al revisar los pliegos no le relevará de sus obligaciones con relación a su oferta. 2.Garantizar
+que las FÓRMULAS NUTRICIONALES a ser entregados cumplan con todas las normas sanitarias, y de la
+ley, a fin de que no afecte en ningún sentido a la salud humana. 3.El Hospital ordenará la realización de
+cuantos controles de calidad considere necesarios de las FÓRMULAS NUTRICIONALES, el incumplimiento
+de los márgenes de calidad llevará consigo la terminación del contrato. 4.El etiquetado o rotulado de los
+envases y envolturas, estará escrito en idioma español de acuerdo con las exigencias técnicas requeridas
+para la obtención del Registro Sanitario de las FÓRMULAS NUTRICIONALES que ameriten (No. de código
+de lote de fabricación, fecha de expiración, Numero de Registro Sanitario Ecuatoriano vigente, nombre del
+Laboratorio fabricante o su logotipo, vía de administración (de ser el caso), condiciones de
+almacenamiento). 5.Los Fórmulas Nutricionales deberán constar impreso la leyenda: MSP MEDICAMENTO
+GRATUITO PROHIBIDA SU VENTA. 6.El oferente adjudicado deberá hacer constar en la factura toda la
+información necesaria tales como: Cantidad en unidades, detalle del producto (marcas – procedencia),
+precio unitario, precio total, número de lote, fecha de caducidad y registro sanitario (en el caso que su
+sistema de facturación no lo permita deberá adjuntar formato en el acta de entrega recepción o Excel
+detallando la información requerida en este punto). 7.El adjudicatario deberá transportar los FÓRMULAS
+NUTRICIONALES en cajas, fundas o contendores adecuados, debidamente ordenadas, protegidas y
+señalizadas, a fin de que no sufran desperfectos, y ser entregados personalmente por el adjudicatario en
+bodega, al Administrador de Contrato y un Técnico que no haya intervenido en el proceso de ejecución del
+contrato, quienes revisaran que estos se encuentren en perfecto estado para suscribir el acta entregarecepción y emitir el informe de entrega recepción. Realizar el canje en caso de caducidad con 60 días de
+anticipación, para lo cual el proveedor debe monitorear con el Responsable del Área Requirente y
+Guardalmacén a fin de determinar la cantidad de productos por caducarse para el respectivo canje
+6.2 Obligaciones de la Contratante:
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del contrato, en un plazo 10
+días contados a partir de la petición escrita formulada por el contratista.
+Para el caso de servicios, de ser necesario, previo el trámite legal y administrativo respectivo, celebrar los
+contratos complementarios en un plazo días contados a partir de la decisión de la máxima autoridad.
+Suscribir las actas de entrega recepción de los trabajos recibidos, siempre que se haya cumplido con lo
+previsto en la ley para la entrega recepción; y, en general, cumplir con las obligaciones derivadas del
+contrato.
+El contratante está obligado a cancelar oportunamente los productos recibidos de acuerdo a los informes
+para el pago con actas de entrega recepción y recibí conforme del administrador de contrato, demás
+obligaciones contenidas en los pliegos. 1.Designar el Administrador de Contrato. 2.Otorgar al proveedor
+
+Página 14/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+las facilidades necesarias para la recepción de los bienes objeto del contrato. 3.Verificar de conformidad
+con los intereses institucionales, los documentos que el proveedor debe presentar. 4.Verificar el
+cumplimiento de las especificaciones técnicas. El Administrador del Contrato realizara el seguimiento de
+las condiciones del presente contrato
+
+Página 15/16
+
+HOSPITAL GENERAL SAN VICENTE DE PAUL
+
+Índice de archivos
+No.
+
+Descripción
+
+1
+
+ESPECIFICACIONES TECNICAS
+
+descargar
+
+2
+
+RESOLUCION DE INICIO
+
+descargar
+
+3
+
+CONDICIONES GENERALES DEL CONTRATO
+
+descargar
+
+4
+
+CONDICIONES GENERALES DEL PLIEGO
+
+descargar
+
+5
+
+CONDICIONES PARTICULARES DEL CONTRATO
+
+descargar
+
+6
+
+CONDICIONES PARTICULARES DEL PLIEGO
+
+descargar
+
+7
+
+FORMULARIO COMPROMISO ASOCIACION O CONSORCIO
+
+descargar
+
+8
+
+FORMULARIO UNICO DE LA OFERTA
+
+descargar
+
+9
+
+INDICE SUBASTA
+
+descargar
+
+Página 16/16
+
+Powered by TCPDF (www.tcpdf.org)
+
+Link
+
+

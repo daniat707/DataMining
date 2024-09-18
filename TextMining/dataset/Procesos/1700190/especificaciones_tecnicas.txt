@@ -1,0 +1,288 @@
+GOBIERNO AUTÓNOMO DESCENTRALIZADO
+MUNICIPAL DEL CANTÓN YACUAMBI
+DIRECCIÓN DE GESTIÓN DE OBRAS Y SERVICIOS PÚBLICOS
+
+1. ESPECIFICACIONES TÉCNICAS.
+ESTUDIO TÉCNICO PARA LA ADQUISICIÓN DE UN VEHICULO RECOLECTOR DE DESECHOS SÓLIDOS PARA EL GAD MUNICIPAL DEL
+CANTÓN YACUAMBI
+DESCRIPCIÓN GENERAL
+Cantidad
+
+Una (1) unidad.
+
+Marca
+
+Especificar.
+
+Modelo
+
+Especificar.
+
+Año Modelo
+
+Mínimo 2022.
+
+Procedencia
+
+Especificar
+
+PARÁMETROS
+
+ESPECIFICACIONES TÉCNICAS SOLICITADA
+
+MOTOR:
+Tipo de combustible
+
+Diésel
+
+Potencia máxima
+
+Mínimo 170 HP a 2500 RPM
+
+Número de Cilindro
+
+Mínimo 04 (cuatro)
+
+Alimentación de aire
+
+Turbo alimentado con intercooler.
+
+Sistema de inyección
+
+Directa
+
+Cilindrada
+
+De 5000 CC a 5500 CC.
+
+Torque neto
+
+Mínimo 500 NM @ 1500 RPM
+
+Purificador de Diesel
+
+Colocado adicional en la unidad.
+
+Normas ambientales internacionales
+
+Mínimo EURO III
+
+EMBRAGUE:
+Tipo y accionamiento.
+
+Mono o doble disco seco, de accionamiento hidráulico.
+
+TRANSMISIÓN:
+Tipo
+
+Mecánica
+
+Nº de marchas
+
+Mínimo 6 velocidades adelante y mínimo 1 atrás.
+
+FRENOS
+Servicio
+Estacionamiento
+
+De Tambor completamente de aire, sistema anti bloqueo ABS.
+De resorte actuado sobre los frenos de las ruedas posteriores
+
+DIRECCION
+Tipo
+
+Hidráulica de potencia.
+
+CHASIS
+Tipo
+
+De acero, tipo escalera reforzado, largueros tipo canal de acero de alta resistencia.
+Suspensión delantera. Ballestas semi elípticas con amortiguadores.
+Suspensión posterior. Ballestas semi elípticas principales y auxiliares
+
+EJES
+Eje frontal
+
+Mínimo 3000 kg de capacidad.
+
+Eje posterior
+
+Mínimo 6000 kg de capacidad.
+
+CARACTERISTICAS GENERALES:
+
+1
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO
+MUNICIPAL DEL CANTÓN YACUAMBI
+DIRECCIÓN DE GESTIÓN DE OBRAS Y SERVICIOS PÚBLICOS
+
+Cabina
+Metálica abatible, Mínimo dos espejos retrovisores laterales externos, un espejo
+retrovisor interno. Limpia parabrisas. Tres asientos, el asiento del conductor debe estar
+equipado con suspensión de aire. Cinturones de seguridad. Aire acondicionado y
+calefacción. Vidrios eléctricos. Radio/USB. Litera. Con forros en los asientos, tapizado
+el piso y el cielo.
+
+Instrumentos
+
+Indicadores y testigos para determinar los distintos parámetros del vehículo
+(temperatura, presiones, cargas, etc.) detallarlos.
+
+Sistema eléctrico
+
+De 24 voltios, luces reglamentarias vigentes en el país.
+
+Ruedas y neumáticos
+
+Dimensiones mínimas 235/75 R17.5”.
+Mínimo 6 unidades de servicio, más 1 de emergencia.
+
+Tanque de combustible
+
+Capacidad 50 galones mínimo
+
+Garantía técnica mínima
+
+Cinco años. Todos los mantenimientos y chequeos que están incluidos en el periodo
+de garantía se los realizara en el lugar de trabajo del equipo.
+La mano de obra de todos los mantenimientos y chequeos incluidos en el periodo de
+garantía durante el primer año no tendrá costo alguno.
+Detallar los mantenimientos que se deben realizar al equipo en periodo de garantía.
+
+Herramientas
+
+Necesarias para mantenimiento. Indicar listado. Incluir un extintor de incendios de tres
+kilos, conos de seguridad mínimo 50 cm de altura y botiquín de primeros auxilios.
+
+Manuales
+
+Operación, mantenimiento, partes y servicios (taller). En español. En físico y digital.
+
+CAJA RECOLECTORA DE BASURA
+
+2
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO
+MUNICIPAL DEL CANTÓN YACUAMBI
+DIRECCIÓN DE GESTIÓN DE OBRAS Y SERVICIOS PÚBLICOS
+
+Características
+
+CARACTERISTICAS GENERALES
+Capacidad de la caja: mínimo 12 Y3
+Capacidad de la tolva: mínimo 1.5 Y3
+Forma de carga: Posterior
+Peso: Mínimo 3000 Kg.
+Lubricación de partes móviles: Por medio de graseros
+Descarga trasera: Por medio de paneles eyectores
+Recubrimiento: Anticorrosivo y esmalte color blanco
+Tanque de aceite: 70 litros con visor de nivel
+Presión de operación: 160-175 BAR
+Cilindros de compactación: Dos de 3” de doble efecto y vástagos cromados
+Cilindros de barrido: Dos de 3” de doble efecto y vástagos cromados
+Cilindro eyector: Uno telescópico de 5,5” doble efecto
+Cilindro de levante de tolva: dos de 3 ½ “ de simple efecto
+Bomba: De engranajes de mínimo 13 GPM@1200 RPM acoplada con cardan
+a la toma de fuerza del camión
+Válvulas: Una doble con comando por medio de palancas ubicada en la parte
+frontal izquierda, acciona el panel eyector y el levante de la tolva trasera
+(descarga)
+Válvulas: Una doble con comando por medio de palancas, localizado en el
+costado derecho de la tolva, acciona el panel de compactación y panel de
+barrido, permite la parada y reversión del ciclo en cualquier instante
+Canaleta de lixiviados: Una entre la tolva y la caja, mínimo 40 lts.
+MATERIALES
+-
+
+Piso de caja: Mínimo 4.75 mm, acero grado 50
+Laterales Caja: Mínimo 3.00 mm, acero grado 50
+Techo de caja: Mínimo 3.00 mm, acero grado 50
+Piso de tolva: Mínimo 4.75 mm, acero grado 70
+Laterales inferiores tolva: Mínimo 3.00 mm, acero grado 70
+Placa compactadora: Mínimo 4.75 mm, acero grado 70
+Cuchilla de barrido: Mínimo 4.75 mm, acero grado 70
+Guías de placa compactadora: Con calza de polímeros de larga duración
+Guías de panel eyector: Fabricadas en acero de 6mm grado 50, distantes del
+piso para evitar la acumulación de basura.
+
+DIMENSIONES
+Ancho de la Tolva: Mínimo 1.90 m.
+Largo total: Mínimo 5.20 m.
+Ancho total: Mínimo 2.20 m.
+Alto total de la caja desde el bastidor: Mínimo 2.00 m.
+OTROS
+Capacitación
+
+Incluir capacitación con el cronograma para el personal de la institución sin costo
+alguno.
+
+3
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO
+MUNICIPAL DEL CANTÓN YACUAMBI
+DIRECCIÓN DE GESTIÓN DE OBRAS Y SERVICIOS PÚBLICOS
+
+Posventa
+
+El oferente presentará una carta de compromiso de mantener oficinas de postventas
+en las principales ciudades del país, stock de repuestos para el equipo ofertado. Así
+mismo, para el soporte técnico, presentara una carta de compromiso de mantener
+talleres de servicios autorizados para el mantenimiento del equipo durante la vida útil
+del bien (indicar listado) o a su vez, presentar compromisos de asociación con talleres
+que dispongan de herramientas y equipos para el mantenimiento. La comisión
+realizará la verificación correspondiente. Incluir fotografías.
+Los talleres deberán contar con personal debidamente calificado, para ello, el
+oferente deberá detallar como equipo técnico mínimo, a un Ingeniero Mecánico y
+un Mecánico, con conocimientos en mantenimiento preventivo y correctivo en
+este tipo de vehículos, para lo cual deberá adjuntar, cursos o capacitaciones
+realizadas, además, se presentará copia con los respectivos títulos, según
+corresponda. La permanencia de dicho personal dentro de la empresa responsable
+del mantenimiento será mínimo 6 meses y como medio de verificación se
+adjuntará copia de los respectivos contratos.
+En forma adicional y con el fin de garantizar el mantenimiento preventivo y/o
+correctivo de los equipos, el oferente o empresa responsable del mantenimiento
+deberá contar con un vehículo taller – móvil debidamente equipado para que
+preste el respectivo servicio en el lugar donde se encuentre el vehículo, con el
+propósito de no entorpecer en pérdida de tiempo el servicio de recolección de
+desechos. En caso de que los mantenimientos correctivos no puedan realizarse en
+el lugar donde se encuentra el equipo estos serán trasladados a los talleres que
+designe el contratista. Adjuntar fotos y matriculas
+Además, el oferente deberá detallar obligatoriamente el nombre de la persona,
+teléfono, correo electrónico a la cual se le dirigirá el pedido de servicio técnico,
+servicio que en un máximo de 48 horas será realizado.
+
+Certificaciones
+
+Certificaciones emitidas por el fabricante de ser distribuidor autorizado en el país
+de los vehículos ofertados
+
+Tiempo de entrega
+
+60 días.
+
+Página Web
+
+Indicar la Pag WEB del fabricante y distribuidor autorizado.
+
+Vigencia de la oferta
+
+30 días
+
+Lugar de recepción
+
+Bodega del GAD Municipal del cantón Yacuambi, ubicadas en la ciudad de 28 de
+Mayo
+
+Forma de pago
+
+60% de anticipo una vez suscrito el contrato y 40% a la entrega dl bien (acta de
+entrega recepción)
+
+Código CPC
+
+491140011
+
+4
+
+

@@ -1,0 +1,3115 @@
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+1. ANTECEDENTES
+El Gobierno Autónomo Descentralizado Municipal del Cantón Chunchi, fue constituido a
+categoría de Cantón, el 4 de julio de 1944, mediante Decreto Ejecutivo No. 268, cuya
+misión forjada dentro del Plan de Gobierno de la Actual Administración es principalmente
+ser un Gobierno Innovador transparente y sostenible, que impulsa equitativamente el
+desarrollo económico del Cantón, brindando calidad, excelencia y eficacia en sus servicios;
+que institucionaliza la participación activa de los ciudadanos en la gestión y optimiza sus
+recursos para el aseguramiento del buen vivir de todos sus habitantes.
+En este contexto dentro del Plan de Trabajo Plurianual de la Actual Administración
+contempla Impulsar programas y proyectos dirigidos a la satisfacción de las necesidades
+dentro de los componentes Biofísico, Sociocultural, Económico, Asentamientos Humanos,
+Movilidad, Energía, Conectividad, Político Institucional y Participación Ciudadana, que
+permitan un desarrollo sustentable y sostenido, garantizando la dotación de servicios
+institucionales de manera eficiente y eficaz.
+La norma 406-03 de control interno expedida por la Contraloría General del Estado
+menciona; “La Máxima Autoridad establecerá los controles que aseguren que las
+adquisiciones se ajusten a lo planificado, a la vez determinará los lineamientos que servirán
+de base para una adecuada administración de compras de bienes, considerando entre
+otras, las siguientes medidas:
+Las adquisiciones serán solicitadas, autorizadas y ejecutadas con ANTICIPACIÓN suficiente y
+en las cantidades apropiadas.
+La ejecución de las compras programadas para el año se realizará tomando en
+consideración el consumo real, la capacidad de almacenamiento, la conveniencia financiera
+y el tiempo que regularmente tome el trámite.
+Se mantendrán las unidades de abastecimiento o bodegas necesarias para garantizar una
+adecuada y oportuna provisión.
+Con oficio # 0026-CGI-GADMCH-2022 de fecha 07 de enero del 2022 y receptado en esta
+Unidad el día 17 de los corrientes, en donde la Coordinación Institucional solicita la
+elaboración de los Términos de Referencia y el Estudio de Mercado con sus respectivas
+certificaciones para la adquisición de consumibles de los equipos de impresión y copiadora
+del GAD Municipal de Chunchi.
+Con fecha 17 de enero del 2022 se envía mediante correo electrónico
+gadmch.sistemas@gmail.com a las diferentes dependencias municipales el detalle de los
+equipos de impresión y copiado con un estimativo de suministros y valores tomados de la
+última adquisición realizada en el año 2021 Proceso N°: SIE-GADMCH-02-2021, con la
+
+1
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+finalidad de que los funcionarios a cargo verifiquen la información de acuerdo a sus
+presupuestos y realicen las observaciones correspondientes.
+
+Con fecha 19 de enero del 2022 se envía mediante oficio AI-005-2022 de la Unidad de
+Sistemas que las dependencias de Administración de Bienes, Jefatura Administrativa,
+Jefatura Financiera, y Dirección de Planificación realicen y envíen las certificaciones
+correspondientes.
+Con fecha 19 de enero del 2022 la Dirección de Planificación envía documento firmado
+electrónicamente Certificación POA Oficio # 023-2022-PLANIF-GADMCH en donde afirma
+que CONSTA LOS ÍTEMS SUMINISTROS INFORMÁTICOS (MATERIALES DE IMPRESIÓN,
+FOTOGRAFÍA, REPORDUCCIÓN Y PUBLICACIONES).
+Mediante Oficio No. 006-AB-GADMCH de fecha Chunchi, 25 de enero de 2022 firmado
+electrónicamente el Administrador de bienes hace llegar la certificación de existencias de
+consumibles de las diferentes dependencias municipales, con dicha legitimización la Unidad
+de Sistemas procede a realizar el anexo de suministros para las nuevas adquisiciones año
+2022.
+Mediante Oficio de fecha 27 de enero del 2022 la Unidad de proveeduría entrega
+Certificación PAC N° 007-2022 en donde legitima que SI existen las partidas presupuestarias
+N.- 530807-730807, MAS NO EL OBJETO DE CONTRATACION cuyo objeto de contratación y
+procedimiento a realizarse es: “ADQUISICIÓN DE CONSUMIBLES PARA IMPRESORAS
+COPIADORAS DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”.
+Mediante oficio 065 de la Jefatura Financiera de fecha 09 de febrero del 2022 entrega a
+esta Unidad la Certificación Presupuestaria # 040 por un valor de USD.11303.59 sin iva.
+NORMATIVA VIGENTE:
+Ley Orgánica de SISTEMA NACIONAL DE CONTRATACIÓN PÚBLICA, publicada en el
+Suplemento del Registro Oficial 395, de 4 de agosto de 2008, reformada el 9 de diciembre
+del 2016.
+Art. 47. Subasta inversa. (Reformado por el Art. 10 de la Ley. s/n, R.O. 100,2S, 14-X-2013).
+Para la adquisición de bienes y servicios normalizados que no consten en el catálogo
+electrónico, las Entidades Contratantes deberán realizar subastas inversas en las cuales los
+proveedores de bienes y servicios equivalentes, pujan hacia la baja el precio ofertado, en
+acto público o por medios electrónicos a través del Portal de COMPRASPÚBLICAS….
+REGLAMENTO GENERAL DE LA LEY ORGÁNICA DE SISTEMA NACIONAL DE
+CONTRATACIÓN PÚBLICA, REFORMADO EL 8 DE NOVIEMBRE DE 2016.
+Art. 42 .- Bienes y Servicios Normalizados.- Los bienes y servicios normalizados son
+aquellos cuyas características o especificaciones técnicas han sido estandarizadas u
+2
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+homologadas por la entidad contratante; y en consecuencia, dichas características o
+especificaciones son homogéneas y comparables en igualdad de condiciones.
+RESOLUCIÓN
+072-2016 MODIFICADA, CODIFICACIÓN Y ACTUALIZACIÓN DE LAS
+RESOLUCIONES EMITIDAS POR EL SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+CAPÍTILO IV. Cálculo del presupuesto referencial a ser utilizado en un procedimiento de
+contratación pública de bienes o servicios.
+Art. 147- Procedimiento.- Para la determinación del presupuesto referencial se deberá
+tomar como referencia el último valor de adjudicación que haya realizado la propia entidad
+contratante. (…) de características, especificaciones técnicas o términos de referencia que
+determinen un alcance similar a las requeridas por la entidad contratante.(…)
+Art. 148. Actualización de Información.- Para el uso de la información disponible referente
+a precios anteriores de adjudicación de los bienes o servicios, requeridos por la entidad
+contratante se deberá observar:
+1. Si los precios de adulación anteriores corresponden al mismo mes en que se
+realizará la publicación del nuevo procedimiento de contratación, se tomará en
+cuenta el valor más bajo de adjudicación dentro del mismo mes.
+2. Si los precios de adjudicación anteriores corresponden a distintos meses, éstos
+deberán actualizarse a la fecha de la nueva contratación en base a la inflación
+acumulada durante los meses de diferencia. Para ello la única información oficial
+será la que sea publicada mensualmente como inflación mensual por el Instituto
+Nacional (INEC). La entidad contratante deberá actualizar el precio a partir de la
+inflación acumulada entre los meses los meses de diferencia.
+De existir más de una adjudicación anterior por parte de la entidad contratante u otras
+entidades sujetas al ámbito de la Ley Orgánica del Sistema Nacional de Contratación Pública
+relevante para el establecimiento del presupuesto referencia, la entidad contratante usará
+el de menor valor unitario adjudicado (…)”.
+Los bienes especificados en este proceso son normalizados, por lo que se sugiere aplicar el
+procedimiento dinámico de Subasta Inversa Electrónica.
+ACUERDO MINISTERIAL N.011 EMITIDO POR EL MINISTERIO DE FINANZAS EL 16 DE ENERO
+DEL 2017.
+Art. 3. Para el Gasto Público no permanente, las entidades, instituciones, organismos y
+empresas públicas sujetas a las presentes directrices previo a emitir la certificación
+presupuestaria anual, para contraer cualquier obligación, iniciar procedimientos de
+contratación o suscripción de convenios que conlleven la transferencia de recursos,
+dependiendo del caso, solicitarán al ente rector de las finanzas públicas o a su unidad de
+administración financiera, la emisión del aval respecto de los montos a certificar y/o
+comprometer, incluido todo instrumento que involucre incremento en el costo del contrato
+
+3
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+o convenio principal, para lo cual deberán certificar que poseen los informes y
+actualizaciones habilitantes establecidos en los decretos ejecutivos 838 y 1217”.
+
+Según Anexo 20 “REQUERIMIENTOS DE TRANSFERENCIA DE TECNOLOGÍA
+PARA BIENES IMPORTADOS ADQUIRIDOS EN LA CONTRATACIÓN PÚBLICA
+POR CPC”
+1.2. NIVEL TT2: Transferencia de tecnología dentro de la compra pública de bienes con
+intensidad tecnológica baja y media-baja.
+Requerimientos:
+• Requerimientos de Nivel TT1.
+• Taller o curso de capacitación para conocer el correcto uso o manejo del producto.
+• CD donde se exponga el curso o taller de capacitación que fue dado a personal
+ecuatoriano.
+
+2. OBJETO DEL CONTRATO
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS, CINTAS Y SISTEMAS
+DE IMAGEN) PARA IMPRESORAS Y COPIADORAS DEL GOBIERNO AUTONOMO
+DESCENTRALIZADO MUNICIPAL DE CHUNCHI”.
+3. OBJETIVOS
+3.1. OBJETIVO GENERAL
+Proveer de suministros, consumibles y sistemas de imagen para impresoras y copiadoras de
+los diferentes departamentos del Gobierno Autónomo Descentralizado Municipal de
+Chunchi con la finalidad de proveer un servicio eficiente y eficaz tanto entre dependencias
+internas, así como principalmente a los usuarios externos.
+3.2 OBJETIVO ESPECÍFICO
+
+
+
+4.
+
+Mantener operativos los equipos de impresión y copiado
+Fortalecer la gestión institucional, de acuerdo a la demanda de servicios,
+formuladas por los procesos directivos, agregados de valor, habilitantes y
+ciudadanía en general de conformidad a la normativa que rige sobre la materia.
+
+ALCANCE
+
+Cubrir la necesidad de suministro (tóneres, cartuchos, cintas, sistemas de imagen) para el
+correcto funcionamiento, operatividad y trabajo óptimo de las impresoras, copiadoras
+asignadas en las dependencias que integran el orgánico funcional del GAD Municipal del
+cantón Chunchi.
+4
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+5. ESPECIFICACIONES TÉCNICAS
+Luego de haber realizado el levantamiento de información en los diferentes
+departamentos que forman parte del ESTATUTO ORGÁNICO ORGANIZACIONAL POR
+PROCESOS DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI, lo
+que se necesita para mantener operativo las dependencias del GAD Municipal es lo
+siguiente:
+
+5
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI
+LISTADO DE TINTAS, TONNER O CARTUCHOS PARA EQUIPOS DE
+IMPRESIÓN POR DEPENDENCIA MUNICIPAL.
+CODIGO CPC
+
+DEPARTAMENTO
+
+MARCA DE
+IMPRESORA
+
+MODELO
+
+DESCRIPCION
+
+CODIGO SUMINISTRO
+
+MEDIDA U
+/L
+
+CANTIDAD
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L6171
+
+TINTA COLOR BLACK
+1 LITRO
+
+NDMEPSONKL
+
+1
+
+L
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L6171
+
+TINTA COLOR CYAN
+1 LITRO
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L6171
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+NDMEPSONML
+
+1
+
+LITROS
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+38912013912
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+SAMSUNG
+
+ML 1640
+
+TONER
+
+ML-D108S/XAA
+
+1
+
+U
+
+38912013912
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+LEXMARK
+
+MX611dhe
+
+TONER
+
+604X00
+
+1
+
+U
+
+452400025
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+LEXMARK
+
+MX611dhe
+
+500Z UNIDAD DE
+IMÁGENES EN
+NEGRO DEL
+PROGRAMA DE
+RETORNO
+
+44101706
+
+1
+
+U
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L575
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+6
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L575
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L575
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+3891201410
+
+ACCION SOCIAL
+RECREACION CULTURA
+Y DEPORTE
+
+EPSON
+
+L575
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+L4150
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+L4150
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+L4150
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+3891201410
+3891201410
+3891201410
+
+ALCALDIA
+ALCALDIA
+ALCALDIA
+
+EPSON
+EPSON
+EPSON
+
+ALCALDIA
+
+EPSON
+
+L4150
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+AVALUOS Y CATASTROS
+
+SAMSUNG
+PROXPRESS
+
+M3870FD
+
+TONER CARTRIDGE
+
+D203L
+
+2
+
+U
+
+38912013912
+
+AVALUOS Y CATASTROS
+
+LEXMARK
+
+X364DN
+
+Toner Cartridget
+
+PH264A11G
+
+3
+
+U
+
+471500411
+
+AVALUOS Y CATASTROS
+
+LEXMARK
+
+X364DN
+
+Photoconductor
+
+E260X22G
+
+3
+
+U
+
+CEMENTERIO
+
+HP LASER JET
+
+P1102w
+
+TONER
+
+85A - CE285A
+
+1
+
+U
+
+389120145
+
+CONSEJO CANTONAL
+DE PROTECCION DE
+DERECHOS
+
+EPSON
+WORKFORCE PRO
+
+WF-6590
+
+CARTUCHO NEGRO
+
+T48XXL
+
+1
+
+U
+
+389120145
+
+CONSEJO CANTONAL
+DE PROTECCION DE
+DERECHOS
+
+EPSON
+WORKFORCE PRO
+
+WF-6590
+
+CARTUCHO
+AMARILLO
+
+T48XXL
+
+1
+
+U
+
+389120145
+
+CONSEJO CANTONAL
+DE PROTECCION DE
+DERECHOS
+
+EPSON
+WORKFORCE PRO
+
+WF-6590
+
+CARTUCHO ROJO
+
+T48XXL
+
+1
+
+U
+
+3891201410
+
+38912013912
+
+7
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+389120145
+
+CONSEJO CANTONAL
+DE PROTECCION DE
+DERECHOS
+
+EPSON
+WORKFORCE PRO
+
+WF-6590
+
+CARTUCHO AZUL
+
+38912013912
+
+CONSEJO CANTONAL
+DE PROTECCION DE
+DERECHOS
+
+XEROX PHA
+
+PHASER 3300 MFP
+
+TONER
+
+3891201410
+
+CENTRO DE
+FAENAMIENTO
+
+L5190
+
+TINTA COLOR BLACK
+1 LITRO
+
+3891201410
+
+CENTRO DE
+FAENAMIENTO
+
+L5190
+
+TINTA COLOR CYAN
+1 LITRO
+
+3891201410
+
+CENTRO DE
+FAENAMIENTO
+
+L5190
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+3891201410
+
+CENTRO DE
+FAENAMIENTO
+
+EPSON
+
+L5190
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+PLAZA DE RASTRO
+
+HP Laser Jet Pro
+
+MFP.M127.fn
+
+389120145
+
+CENTRO
+GERONTOLÓGICO
+
+EPSON
+WORKFORCE PRO
+
+389120145
+
+CENTRO
+GERONTOLÓGICO
+
+EPSON
+WORKFORCE PRO
+
+389120145
+
+CENTRO
+GERONTOLÓGICO
+
+EPSON
+WORKFORCE PRO
+
+389120145
+
+CENTRO
+GERONTOLÓGICO
+
+EPSON
+WORKFORCE PRO
+
+3891201410
+
+COMISARIA
+
+EPSON
+
+3891201410
+3891201410
+
+COMISARIA
+COMISARIA
+
+EPSON
+EPSON
+EPSON
+
+EPSON
+EPSON
+
+T48XXL
+
+1
+
+U
+
+1
+
+U
+
+E0010-01LB
+
+1
+
+LITROS
+
+E0010-01LC
+
+1
+
+LITROS
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+TONER
+
+GCH-283A
+
+2
+
+U
+
+WF-6590
+
+CARTUCHO NEGRO
+
+T48XXL
+
+5
+
+U
+
+WF-6590
+
+CARTUCHO
+AMARILLO
+
+T48XXL
+
+1
+
+U
+
+WF-6590
+
+CARTUCHO ROJO
+
+T48XXL
+
+1
+
+U
+
+WF-6590
+
+CARTUCHO AZUL
+
+T48XXL
+
+1
+
+U
+
+L5190
+
+TINTA COLOR BLACK
+
+E0010-01LB
+
+1
+
+LITROS
+
+L5190
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+L5190
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+1
+
+U
+
+3891201410
+
+COMISARIA
+
+EPSON
+
+L5190
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+COMISARIA
+
+SAMSUNG
+
+SCX-4300
+
+TONNER
+
+38912013912
+
+CONTABILIDAD
+
+SAMSUNG
+
+ML 1640
+
+TONER
+
+ML-D108S/XAA
+
+2
+
+U
+
+38912013912
+
+CONTABILIDAD
+
+SAMSUMG
+
+ML- 2010
+
+TONER
+
+MLT-D119S/SEE
+
+2
+
+U
+
+38912013912
+
+CONTABILIDAD
+
+SAMSUNG
+
+SCX-4623F
+
+TONER
+
+MLT-D105L/XAA
+
+1
+
+UNIDAD
+
+L6171
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+2
+
+LITROS
+
+3891201410
+
+CONTABILIDAD
+
+EPSON
+
+8
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+3891201410
+
+CONTABILIDAD
+CONTABILIDAD
+
+EPSON
+EPSON
+
+L6171
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+3891201410
+
+CONTABILIDAD
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+DESARROLLO
+AGROPECUARIO
+
+HP LASER
+
+MFP 135W
+
+TONER
+
+MFP 135 W
+
+2
+
+U
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+L6171
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+L6171
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+L6171
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+3891201410
+
+DESARROLLO
+AGROPECUARIO
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+38912013912
+
+DESARROLLO
+COMUNITARIO
+
+SAMSUNG
+
+ML-2851ND
+
+TONER
+
+ML-D2850A/XAA
+
+1
+
+U
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS BLACK
+
+9404IA
+
+1
+
+U
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS YELLOW
+
+9202IA
+
+1
+
+U
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS CIAN
+
+9131IA
+
+1
+
+U
+
+389120145
+
+DESARROLLO
+COMUNITARIO
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS
+MAGENTA
+
+9201IA
+
+1
+
+U
+
+L565
+
+TINTA COLOR BLACK
+1 LITRO
+
+TINTA COLOR BLACK
+1 LITRO
+
+2
+
+LITROS
+
+L565
+
+TINTA COLOR CYAN
+1 LITRO
+
+TINTA COLOR CYAN
+1 LITRO
+
+1
+
+LITROS
+
+L565
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+1
+
+LITROS
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+3891201410
+3891201410
+3891201410
+
+FINANCIERO
+FINANCIERO
+FINANCIERO
+
+EPSON
+EPSON
+EPSON
+
+EPSON
+EPSON
+EPSON
+
+3891201410
+
+FINANCIERO
+
+EPSON
+
+L565
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+1
+
+LITROS
+
+38912013912
+
+FINANCIERO
+
+SAMSUNG
+
+ML 1640
+
+TONER
+
+ML-D108S/XAA
+
+1
+
+U
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS BLACK
+
+T48XXL
+
+2
+
+U
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS YELLOW
+
+T48XXL
+
+2
+
+U
+
+389120145
+389120145
+
+FINANCIERO
+FINANCIERO
+
+9
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+389120145
+
+FINANCIERO
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+CARTUCHOS CIAN
+
+T48XXL
+
+2
+
+U
+
+CARTUCHOS
+MAGENTA
+
+389120145
+
+FINANCIERO
+
+EPSON
+
+WORKFORCE PRO
+6590
+
+T48XXL
+
+2
+
+U
+
+38912013912
+
+FINANCIERO
+
+HP
+
+102w
+
+TONER
+
+CF217A
+
+2
+
+U
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE
+DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE
+DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE
+DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+3891201410
+
+JUNTA CANTONAL DE
+PROTECCION DE
+DERECHOS
+
+EPSON
+
+L2010
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+2
+
+U
+
+3891201410
+3891201410
+3891201410
+
+UGA
+UGA
+UGA
+
+EPSON
+EPSON
+EPSON
+
+3891201410
+
+UGA
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+38912013912
+
+UGA
+
+LEXMARK
+
+E260dn
+
+TONER
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+3891201410
+3891201410
+3891201410
+3891201410
+3891201410
+
+RELACIONES PUBLICAS
+RELACIONES PUBLICAS
+RELACIONES PUBLICAS
+RELACIONES PUBLICAS
+RENTAS
+
+EPSON
+EPSON
+EPSON
+EPSON
+EPSON
+
+10
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+3891201410
+3891201410
+3891201410
+389120145
+389120145
+38912013912
+3891201410
+3891201410
+3891201410
+3891201410
+38912013912
+389120145
+389120145
+389120145
+
+RENTAS
+RENTAS
+RENTAS
+RENTAS
+
+EPSON
+EPSON
+EPSON
+CANON
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+MP190
+
+CARTUCHOS
+NEGROS
+
+# 40
+
+0
+
+U
+
+#41
+
+1
+
+U
+
+4
+
+U
+
+RENTAS
+
+CANON
+
+MP190
+
+CARTUCHOS DE
+COLOR
+
+OBRAS PUBLICAS
+
+HP Laser Jet Pro
+
+M102w
+
+TONER
+
+L5191
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+3
+
+LITROS
+
+L5191
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+2
+
+LITROS
+
+L5191
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+2
+
+LITROS
+
+OBRAS PUBLICAS OBRAS PUBLICAS OBRAS PUBLICAS -
+
+EPSON
+EPSON
+EPSON
+
+OBRAS PUBLICAS -
+
+EPSON
+
+L5191
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+2
+
+LITROS
+
+PROVEEDURIA
+
+HP COLOR LASER
+JET
+
+M1212nfMFP
+
+HP Laser Jet Print
+Cartridge
+
+CE285A
+
+2
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO NEGRO
+
+T48XXL
+
+1
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO
+MAGENTA
+
+T48XXL
+
+1
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO CYAN
+
+T48XXL
+
+1
+
+U
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO YELLOW
+
+T48XXL
+
+1
+
+U
+
+7
+
+U
+
+PROVEEDURIA
+PROVEEDURIA
+PROVEEDURIA
+
+389120145
+
+PROVEEDURIA
+
+EPSON
+
+389120121
+
+RECAUDACION
+
+EPSON LX-350
+
+CINTAS
+
+LEXMARK
+
+MX611dhe
+
+TONER STARTER
+CARTRIDGE
+
+604X
+
+2
+
+U
+
+44101706
+
+3
+
+U
+
+604X
+
+1
+
+U
+
+38912013912
+
+RECAUDACION
+
+452400025
+
+RECAUDACION
+
+LEXMARK
+
+MX611dhe
+
+500Z UNIDAD DE
+IMÁGENES EN
+NEGRO DEL
+PROGRAMA DE
+RETORNO
+
+38912013912
+
+REGISTRO DE LA
+PROPIEDAD
+
+LEXMARK
+
+MX611dhe
+
+Toner Cartridge
+
+11
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+452400025
+
+REGISTRO DE LA
+PROPIEDAD
+
+LEXMARK
+
+MX611dhe
+
+500Z UNIDAD DE
+IMÁGENES EN
+NEGRO DEL
+PROGRAMA DE
+RETORNO
+
+38912013912
+
+REGISTRO DE LA
+PROPIEDAD
+
+SAMSUNG
+
+SCX-4623F
+
+TONER
+
+MLT-D105L/XAA
+
+1
+
+U
+
+38912013912
+
+REGISTRO DE LA
+PROPIEDAD
+
+SAMSUMG
+
+SCX-4835FD
+
+Toner Cartridge
+
+205S
+
+1
+
+U
+
+38912013912
+
+SECRETARIA
+
+XEROX - ALTALINK
+
+B8055
+
+TONER NEGRO
+
+006R01697
+
+1
+
+U
+
+4524000211
+
+SECRETARIA
+
+XEROX - ALTALINK
+
+B8055
+
+CILINDRO
+
+013R00875
+
+1
+
+U
+
+L6171
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+E0010-01LY
+
+1
+
+LITROS
+
+MFP M476dw
+
+HP 312A BLACK
+ORIGINAL LASER JET
+TONER
+
+CF380A
+
+1
+
+U
+
+MFP M476dw
+
+HP 312A CYAN
+ORIGINAL LASER JET
+TONER
+
+CF381A
+
+1
+
+U
+
+MFP M476dw
+
+HP 312A YELLOW
+ORIGINAL LASER JET
+TONER
+
+CF382A
+
+1
+
+U
+
+MFP M476dw
+
+HP 312A MAGENTA
+ORIGINAL LASER JET
+TONER
+
+CF383A
+
+1
+
+U
+
+MFP M477 -FDW
+
+HP 410A BLACK
+ORIGINAL LASER JET
+TONER
+
+CF410A
+
+1
+
+U
+
+MFP M477 -FDW
+
+HP 410A CYAN
+ORIGINAL LASER JET
+TONER
+
+CF411A
+
+1
+
+U
+
+3891201410
+3891201410
+3891201410
+3891201410
+
+38912013912
+
+38912013912
+
+38912013912
+
+38912013912
+
+38912013912
+
+38912013912
+
+SECRETARIA
+SECRETARIA
+SECRETARIA
+SECRETARIA
+
+SECRETARIA
+
+SECRETARIA
+
+EPSON
+EPSON
+EPSON
+EPSON
+HP COLOR LASER
+JET PRO
+HP COLOR LASER
+JET PRO
+
+SECRETARIA
+
+HP COLOR LASER
+JET PRO
+
+SECRETARIA
+
+HP COLOR LASER
+JET PRO
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+HP COLOR LASER
+JET PRO
+HP COLOR LASER
+JET PRO
+
+44101706
+
+1
+
+U
+
+12
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+MFP M477 -FDW
+
+HP 410A YELLOW
+ORIGINAL LASER JET
+TONER
+
+CF412A
+
+1
+
+U
+
+HP COLOR LASER
+JET PRO
+
+MFP M477 -FDW
+
+HP 410A MAGENTA
+ORIGINAL LASER JET
+TONER
+
+CF413A
+
+1
+
+U
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+1
+
+LITROS
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+3891201410
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+EPSON
+
+L220
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+38912013912
+
+SINDICATURA
+
+RICOH
+
+HMP501spf
+
+TONER
+
+X4B040
+
+1
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO NEGRO
+
+T48XXL
+
+2
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO
+MAGENTA
+
+T48XXL
+
+2
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO CYAN
+
+T48XXL
+
+2
+
+U
+
+38912013912
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+HP COLOR LASER
+JET PRO
+
+38912013912
+
+SEGURIDAD Y SALUD
+OCUPACIONAL
+
+3891201410
+
+389120145
+389120145
+389120145
+
+SINDICATURA
+SINDICATURA
+SINDICATURA
+SINDICATURA
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO YELLOW
+
+T48XXL
+
+2
+
+U
+
+38912013912
+
+SISTEMAS
+
+SAMSUMG
+
+SCX-4835FD
+
+Toner Cartridge
+
+205L
+
+2
+
+U
+
+38912013912
+
+TALLER MECANICO
+
+HP LASER JET
+
+P1102w
+
+TONER
+
+85A
+
+1
+
+U
+
+38912013912
+
+TESORERIA
+
+SAMSUMG
+
+ML2010
+
+TONER
+
+1
+
+U
+
+MFP M477fdw
+
+HP 410A BLACK
+ORIGINAL LASER JET
+TONER
+
+CF410A
+
+1
+
+U
+
+MFP M477fdw
+
+HP 410A CYAN
+ORIGINAL LASER JET
+TONER
+
+CF411A
+
+1
+
+U
+
+MFP M477fdw
+
+HP 410A YELLOW
+ORIGINAL LASER JET
+TONER
+
+CF412A
+
+1
+
+U
+
+389120145
+
+38912013912
+
+38912013912
+
+38912013912
+
+TESORERIA
+
+TESORERIA
+
+TESORERIA
+
+HP COLOR LASER
+JET PRO
+HP COLOR LASER
+JET PRO
+HP COLOR LASER
+JET PRO
+
+13
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+38912013912
+3891201410
+3891201410
+3891201410
+
+TESORERIA
+TESORERIA
+TESORERIA
+TESORERIA
+
+HP COLOR LASER
+JET PRO
+EPSON
+EPSON
+EPSON
+
+MFP M477fdw
+
+HP 410A MAGENTA
+ORIGINAL LASER JET
+TONER
+
+CF413A
+
+1
+
+U
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+3891201410
+
+TESORERIA
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+38912013912
+
+TURISMO
+
+SAMSUNG
+
+SCX-3200
+
+TONER
+
+MLT-D104S/XAA
+
+1
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO NEGRO
+
+T48XXL
+
+1
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO
+MAGENTA
+
+T48XXL
+
+1
+
+U
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO CYAN
+
+T48XXL
+
+1
+
+U
+
+TURISMO
+
+EPSON
+
+WORK CENTRE
+PRO WF 6590
+
+CARTUCHO YELLOW
+
+T48XXL
+
+1
+
+U
+
+UNIDAD DE TRANSITO
+
+HP Laser Jet
+enterprise
+
+MFPM630
+
+Toner Cartridget
+
+81ACF281A
+
+3
+
+U
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR BLACK
+
+NDMEPSONKL
+
+2
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR CYAN
+
+NDMEPSONCL
+
+1
+
+LITROS
+
+L555
+
+LITRO DE TINTA
+COLOR MAGENTA
+
+NDMEPSONML
+
+1
+
+LITROS
+
+NDMEPSONYL
+
+1
+
+LITROS
+
+85A
+
+1
+
+U
+
+389120145
+389120145
+389120145
+389120145
+38912013912
+3891201410
+3891201410
+3891201410
+3891201410
+3891201410
+3891201410
+3891201410
+
+TURISMO
+TURISMO
+TURISMO
+
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+UNIDAD DE TRANSITO
+
+EPSON
+EPSON
+EPSON
+EPSON
+EPSON
+EPSON
+EPSON
+
+3891201410
+
+UNIDAD DE TRANSITO
+
+EPSON
+
+L555
+
+LITRO DE TINTA
+COLOR YELLOW
+
+38912013912
+
+COACTIVAS
+
+HP LASER JET
+
+P1102w
+
+TONER
+
+14
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+38912013912
+
+COACTIVAS
+
+SAMSUNG
+
+SCX-3200
+
+TONER
+
+MLT-D104S/XAA
+
+1
+
+U
+
+38912013912
+
+RECAUDACION
+
+SAMSUMG
+
+SCX-4835FD
+
+Toner Cartridge
+
+205S
+
+3
+
+U
+
+L6171
+
+TINTA COLOR BLACK
+1 LITRO
+
+E0010-01LB
+
+2
+
+LITROS
+
+L6171
+
+TINTA COLOR CYAN
+1 LITRO
+
+E0010-01LC
+
+1
+
+LITROS
+
+L6171
+
+TINTA COLOR
+MAGENTA 1 LITRO
+
+E0010-01LM
+
+1
+
+LITROS
+
+E0010-01LY
+
+1
+
+LITROS
+
+sp4500HA
+
+1
+
+U
+
+3891201410
+3891201410
+3891201410
+
+TALENTO HUMANO
+TALENTO HUMANO
+TALENTO HUMANO
+
+EPSON
+EPSON
+EPSON
+
+3891201410
+
+TALENTO HUMANO
+
+EPSON
+
+L6171
+
+TINTA COLOR
+YELLOW 1 LITRO
+
+3891201410
+
+ADMINISTRACION DE
+MERCADOS
+
+RICOH
+
+SP4510SF
+
+TONER
+
+OBSERVACIÓN: la compra de Tintas para impresoras con el sistema de inyección a tinta continúa se lo realizará por litros de los diferentes colores
+especificados.
+
+15
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+6. NATURALEZA DE LA CONTRATACIÓN
+La presente es una contratación de bienes normalizados ya que las especificaciones
+técnicas se encuentran debidamente homologadas y estandarizadas para realizar la compra
+de tóneres, cartuchos, cintas para los equipos de impresión y copiadoras del GAD Municipal
+de Chunchi.
+Con este antecedente, se procede con lo dispuesto en el Art. 44 Del Reglamento a Ley
+Orgánica del Sistema Nacional de Contratación Pública que establece “La subasta inversa
+electrónica se realizará cuando las entidades contratantes requieran adquirir bienes y
+servicios normalizados cuya cuantía supere el monto equivalente al 0,0000002 del
+Presupuesto Inicial del Estado, que no se puedan contratar a través del procedimiento de
+Compras por Catálogo Electrónico, y en la que los proveedores de dichos bienes y servicios,
+pujan hacia la baja el precio ofertado por medios electrónicos a través del Portal
+www.compraspublicas.gob.ec
+
+7. PARÁMETROS DE CALIFICACIÓN
+En cumplimiento de las ofertas presentadas se evaluará mediante la metodología check list,
+cumple / no cumple.
+INTEGRIDAD Y REQUISITOS MÍNIMOS DE LA OFERTA
+CUMPLE
+
+NO CUMPLE
+
+INTEGRIDAD DE LA OFERTA
+Porcentaje de Valor Agregado Ecuatoriano Mínimo
+(VAE) Debe cumplir con el porcentaje establecido por
+el SERCOP
+Especificaciones técnicas
+Se verificará el cumplimiento expreso y puntual de las
+especificaciones técnicas de cada uno de los bienes
+que se pretende adquirir
+EXPERIENCIA DEL OFERENTE
+Experiencia Específica Requerida
+El oferente deberá presentar al menos un certificado
+o acta de entrega recepción definitiva que acredite la
+provisión de bienes similares al objeto de
+contratación emitidos en los últimos 15 años, por un
+monto igual a $1139.87 USD.
+Experiencia General
+Monto igual a $2659.69 USD.
+16
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+Certificado de distribuidor autorizado
+OTROS PARÁMETROS DE EVALUACIÓN
+Certificado de Representante, distribuidor o
+Vendedor Autorizado en el Ecuador
+El oferente deberá presentar copia del certificado
+actualizado del fabricante que acredite ser
+representante, Distribuidor o Vendedor Autorizado
+en el Ecuador de cada una de las marcas fabricantes
+para garantizar la originalidad de los bienes, este
+documento podrá ser emitido directamente por las
+marcas de origen o a través de canales autorizados
+por las mismas, para lo cual se verificarán los
+documentos pertinentes. En ningún caso se
+aceptarán bienes re – manufacturados (refublished).
+
+Transferencia Tecnológica según Anexo 20
+1.2. NIVEL TT2: Transferencia de tecnología
+dentro de la compra pública de bienes con
+intensidad tecnológica baja y media-baja.
+Requerimientos:
+• Requerimientos de Nivel TT1.
+• Taller o curso de capacitación para conocer el
+correcto uso o manejo del producto.
+• CD donde se exponga el curso o taller de
+capacitación que fue dado a personal ecuatoriano.
+
+8. PRESUPUESTO REFERENCIAL
+Con fecha 19 de enero del 2022 se solicita mediante oficio GADMCH-OF-AI-005-2022
+Certificación Presupuestaria, con la finalidad de realizar el Estudio de Mercado por parte de
+la Unidad de Proveeduría.
+Con fecha 09 de febrero del 2022 hace la entrega de la certificación Presupuestaria con
+número 40 y por un valor de USD. 11.303.59 dólares americanos sin IVA.
+
+OBLIGACIONES DE LAS PARTES
+8.1. Gobierno Autónomo Descentralizado Municipal de Chunchi
+El GAD Municipal de Chunchi se obliga a:
+
+17
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+ Recibir los suministros a conformidad una vez verificado el cumplimiento de los
+requerimientos y verificados los tóner, cartuchos, tintas, cintas, kit de
+mantenimiento por parte del fabricante o distribuidor autorizado por el fabricante.
+ Gestionar el pago respectivo luego de suscribir la respectiva acta de entrega
+recepción definitiva entre el proveedor y el GADM de Chunchi.
+ Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, en un plazo 15 días contados a partir de la petición escrita formulada por
+el contratista.
+8.2. Obligaciones del Contratista
+La persona natural o jurídica en cargada de la dotación de tóner, cartuchos, tintas,
+cintas, se obliga a:
+ Entregar los suministros de acuerdo al pedido realizado en el tiempo y plazo
+señalado, con las características y especificaciones solicitadas. Se indica que los
+tóner, cartuchos, tintas, cintas, kit de mantenimiento deben ser originales los
+cuales serán verificados por el fabricante o distribuidor autorizado por el
+fabricante.
+ El proveedor debe presentar una garantía técnica emitida por el fabricante,
+representante o vendedor autorizado con un plazo de 1 año la cual deberá indicar
+que los bienes que entrega a la entidad contratante son originales nuevos de
+fábrica, se encuentran en excelente estado físico y serán reemplazados sin costo
+alguno los ítems que se dañen por defectos de fabricación. Esta garantía entrará en
+vigencia a partir de la firma del Acta de Entrega Recepción definitiva, de acuerdo al
+Art. 76 de la LOSNCP.
+9. LUGAR DE ENTREGA DE LOS BIENES
+Una vez suscrito el contrato el oferente ganador entregará en el plazo de 15 días los
+suministros objeto de contratación que deberán ser entregados en el GAD MUNICIPAL DE
+CHUNCHI DEPARTAMENTO DE BODEGA PLANTA BAJA, ubicada en las calles GENERAL
+CORDOVA 562 y CAPITAN RICAURTE, Referencia: FRENTE AL PARQUE DR. JOSE MARIA
+VELASCO IBARRA, en horario de 7:00 AM a 16:00 PM, junto con la garantía técnica, luego
+se procederá al pago con la presentación de la factura, acta de entrega recepción definitiva,
+e informe de conformidad del Administrador del Contrato.
+10. FORMA DE PAGO
+El precio del contrato será cancelado por el GADM DE CHUNCHI al contratista de la
+siguiente manera el 100% del valor total del contrato contra entrega de los bienes,
+mediante transferencia bancaria, posterior a la entrega de la factura del proveedor,
+garantía técnica y suscripción del Acta Entrega – Recepción Definitiva, e informe de
+conformidad del Administrador del contrato y un vez descontados los valores por las
+multas si fuera el caso.
+18
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+
+Garantía Técnica. El proveedor debe presentar una garantía técnica emitida por el
+fabricante, representante, distribuidor o vendedor autorizado con un plazo de 1
+año la cual deberá indicar que los bienes que entrega en la entidad contratante son
+originales nuevos de fábrica, se encuentran en excelente estado físico y serán
+reemplazados sin costo alguno los ítems que se dañen por defectos de fabricación,
+Está garantía entrará en vigencia a partir de la firma del Acta de Entrega Recepción
+definitiva, de acurdo al Art. 76 de la LOSNCP.
+
+11. ADMINISTRADOR DEL CONTRATO
+El administrador del contrato, será nombrado por la Máxima Autoridad del GAD
+MUNICIPAL DE CHUNCHI, la verificación de los suministros adquiridos estará a cargo de
+una comisión de recepción que será designado para el efecto por la Máxima Autoridad
+conjuntamente con el Administrador del Contrato.
+
+
+MULTAS
+Art. 71.- Cláusulas Obligatorias.- En los contratos sometidos a esta Ley se estipulará
+obligatoriamente cláusulas de multas, así como una relacionada con el plazo en que la
+entidad deberá proceder al pago del anticipo, en caso de haberlo; el que no podrá
+exceder del término de treinta (30) días. Las multas se impondrán por retardo en la
+ejecución de las obligaciones contractuales conforme al cronograma valorado, así
+como por incumplimientos de las demás obligaciones contractuales, las que se
+determinarán por cada día de retardo; las multas se calcularán sobre el porcentaje de
+las obligaciones que se encuentran pendientes de ejecutarse conforme lo establecido
+en el contrato. En todos los casos, las multas serán impuestas por el administrador del
+contrato, y el fiscalizador, si lo hubiere, el o los cuales establecerán el
+incumplimiento, fechas y montos. Las multas impuestas al contratista pueden ser
+impugnadas en sede administrativa, a través de los respectivos recursos, o en sede
+judicial o arbitral.
+Nota: Artículo reformado por artículo 11 numeral 2 de Ley No. 0, publicada en Registro
+Oficial Suplemento 150 de 29 de Diciembre del 2017 OTROS PARÁMETROS
+RESUELTOS POR LA ENTIDAD CONTRATANTE.
+
+El proveedor deberá adjuntar a la oferta los siguientes certificados
+
+
+
+
+Certificado de Distribuidor Autorizado, emitida por el fabricante representante,
+distribuidor nacional o extranjero o vendedor autorizado, de todas las marcas
+solicitadas. En caso de ser distribuidor o mayorista extranjero los documentos
+deberán estar debidamente notariados y apostillados en los respectivos consulados
+Ecuatorianos.
+Certificado de Originalidad. El Fabricante, representante, distribuidor nacional o
+extranjero o vendedor autorizado deberá certificar que la totalidad de los tóner,
+19
+
+ESPECIFICACIONES TÉCNICAS
+“ADQUISICION DE CONSUMIBLES (TONERES, CARTUCHOS, TINTAS,
+CINTAS Y SISTEMAS DE IMAGEN), PARA IMPRESORAS, COPIADORAS DEL
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE CHUNCHI”
+
+cartuchos, tintas, cintas y kit de mantenimiento a entregar, serán productos
+nuevos, sellados y originales. Bajo ninguna circunstancia productos genéricos,
+usados, recargados ni remanufacturados.
+12. Vigencia de la oferta: Las ofertas se entenderán vigentes hasta 60 días calendario. En
+caso de que no se señale una fecha estará vigente hasta la celebración del contrato,
+de acuerdo a lo establecido en el artículo 30 de la LOSNCP.
+
+Anexo a la presente documentación lo siguiente:
+- Certificaciones
+- Detalle de requerimientos por Unidad
+
+ELABORADO POR:
+Firmado electrónicamente por:
+
+DIEGO ALEXANDER
+ESPINOZA LASSO
+
+Diego Espinoza Lasso
+ANALISTA DE SISTEMAS INFORMÁTICOS MUNICIPAL.
+
+Fecha: Chunchi, 09 de Febrero del 2022.
+
+20
+
+

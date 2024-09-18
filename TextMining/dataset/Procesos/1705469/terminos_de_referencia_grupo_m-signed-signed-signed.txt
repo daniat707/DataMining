@@ -1,0 +1,2187 @@
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 1 de 28
+
+DESCRIPCIÓN GENERAL
+
+Objeto de la contratación
+
+“ ADQUISICIÓN DE GRUPO M: SISTEMA MUSCULOESQUELETICO PARA EL CENTRO CLÍNICO QUIRÚRGICO
+AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO
+LÓPEZ ”.
+
+Unidad requirente
+
+CENTRO CLINICO QUIRURGICO AMBULATORIO HOSPITAL
+DEL DIA EFREN JURADO LOPEZ
+
+Número Certificación
+Catálogo Electrónico
+
+CCQAHD-EJL-00021-2022
+
+Número Certificación PAC
+
+CCQAHD-EJL-00013-2022
+Fecha de elaboración
+
+Especificaciones Técnicas
+
+31-05-2022
+
+X
+
+Términos de Referencia
+
+1. Antecedentes
+Mediante Memorando Nro. IESS-HD-EJL-DA-2022-0234-M, de fecha 28 de enero de 2022, suscrito
+por el Mgs. Jorge Aguirre Piedra, Director Administrativo, encargado del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado, en el que socializa el “Decreto Ejecutivo Nro. 337
+“Reforma al Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública”.
+Mediante Memorando Nro. IESS-HD-EJL-DA-2022-0318-M, de fecha 08 de febrero de 2022,
+suscrito por el Mgs. Jorge Aguirre Piedra, Director Administrativo, encargado del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado, en el que REALIZA LA Difusión de la
+Resolución Administrativa Nro. IESS-DG-2022-005-RA “Lineamientos Generales para la
+Adquisición de Medicamentos para los Establecimientos de Salud del Instituto Ecuatoriano de
+Seguridad Social – IESS en todos los niveles de atención”.
+Mediante Memorando Nro. IESS-HD-EJL-FA-2022-0027-M, de fecha 07 de febrero de 2022,
+suscrito por la Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, en el que solicita Solicitud de
+Certificación de Bodega de los Medicamentos que constan en la Base de Datos del AS400 del
+CCQA HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Mediante Memorando Nro. IESS-HD-EJL-BGF-2022-0007-M, de fecha 08 de febrero de 2022,
+suscrito por el Sr. Otto Javier Ramírez Palacios, Responsable de Bodega General del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, quién emite Stock de Fármacos al 08
+de febrero de 2022 08:45.
+Mediante Memorando Nro. IESS-HD-EJL-DM-2022-0431-M, de fecha 09 de febrero de 2022,
+suscrito por el Doctor Alfonso Eduardo Mora Veintimilla, Director Médico del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, quién realiza “Convocatoria a
+Reunión de Trabajo al Comité de Farmacoterapia Tema: Adquisición de Medicamentos Aprobados
+en PAC 2022, día Miércoles 9 de Febrero 2022, hora: 11h00 AM. LUGAR: SALA DE REUNIONES”, a:
+Dra. Kathiuska Jacqueline Mora Calero, Químico Farmacéutico, CCQA. Hospital del Día Efrén
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 2 de 28
+
+Jurado López; Mgs. Javier David Lara Icaza, Responsable Área de Diagnóstico y Tratamiento,
+CCQA. Hospital del Día Efrén Jurado López; Mgs. Vanessa Elizabeth Castro Zurita, Responsable de
+Farmacia, CCQA. Hospital del Día Efrén Jurado López; Mgs. Dalia Guillermina Mora Barrero,
+Médica Especialista en Medicina Familiar; Mgs. Hermes Paúl Sánchez Valle, Responsable de
+Emergencia, CCQA. Hospital del Día Efrén Jurado López; Méd. Verónica Irene Torres Rodríguez,
+Responsable de la Unidad de Gestión y Servicios Ambulatorios, CCQA. Hospital del Día Efrén
+Jurado López; Méd. Luisa María Carranza Bajaña, Médico General en Funciones Hospitalarias,
+Hospital del Día Efrén Jurado López; Espc. Gabriela Nathaly León Maldonado, Responsable del
+Servicio de Anestesiología, Hospital del Día Efrén Jurado López; Med. Julieta Amarilis Pesantes
+Garcés, Cardiólogo, CCQA. Hospital del Día Efrén Jurado López; Espc. Verónica Alexandra Poveda
+Padilla, Médico Especialista en Medicina Interna 1, Hospital del Día Efrén Jurado López.
+Mediante Acta de Reunión de Trabajo Nro. 004, de fecha 09 de febrero de 2022, se realiza el
+Comité de Farmacoterapia, cuyo objetivo es ¡Adquirir los medicamentos aprobados en la
+Programación de Medicamentos 2022 en el que concluyeron que: “Por unanimidad los
+Integrantes de Comité de Farmacoterapia, expresan: Que se inicie la fase preparatoria para la
+Adquisición de 13 grupos anatómicos de los medicamentos aprobados en el PAC 2022, según la
+rotación, stock cero, stock crítico, disponibilidad en el mercado nacional y disponibilidad
+económica para adquirir; se planteó una estrategia de abastecimiento de 4 meses según el stock
+real para promover un incremento al indicador M122 y poder suministrar medicación a todas las
+especialidades”, con firma de responsabilidad de los Integrantes del Comité de Farmacoterapia.
+Mediante Memorando Nro. IESS-HD-EJL-FA-2022-0039-M, de fecha 11 de febrero de 2022,
+suscrito por la Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, en el que solicita Autorización para
+Proceso “ADQUISICIÓN DE GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL CENTRO
+CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ” al Director
+Médico, Alfonso Eduardo Mora Veintimilla del C.C.Q.A. HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Mediante Memorando Nro. IESS-HD-EJL-DM-2022-0468-M, de fecha 11 de febrero de 2022,
+suscrito por el Doctor Alfonso Eduardo Mora Veintimilla, Director Médico del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, quién SOLICITA A LA Máxima
+Autoridad la Autorización del proceso para la fase preparatoria “ADQUISICIÓN DE GRUPO M:
+SISTEMA MUSCULO-ESQUELETICO PARA EL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO
+HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ” y que mediante sumilla inserta se estipula
+“Autorizado, proceder al inicio de la fase preparatoria”.
+Mediante memorando Nro. IESS-HD-EJL-DM-2022-0486-M, de fecha 12 de febrero de 2022,
+suscrito por el Doctor Alfonso Eduardo Mora Veintimilla, Director Médico del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, quien comunica a la Mgs. Vanessa
+Elizabeth Castro Zurita, Responsable de Farmacia, CCQA, Hospital del Día Efrén Jurado López, que
+el Econ. Jorge Aguirre Piedra, Director Administrativo, con sumilla inserta dispuso: AUTORIZADO,
+PROCEDER AL INICIO DE LA FASE PREPARATORIA”.
+Informe de justificación, de fecha 15 de febrero de 2022 para la “ADQUISICIÓN DE GRUPO M:
+SISTEMA MUSCULO-ESQUELETICO PARA EL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO
+HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ”
+
+Ficha técnica de medicamento ACIDO ALENDRONICO ALENDRONATO SODICO SOLIDO ORAL 70
+MG N R.
+Ficha técnica de medicamento ALOPURINOL SOLIDO ORAL 300 MG N R
+Ficha técnica de medicamento COLCHICINA SOLIDO ORAL 05 MG N R
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 3 de 28
+
+Ficha técnica de medicamento DICLOFENACO LIQUIDO PARENTERAL 25 MG ML AMPOLLA X 3 ML
+Ficha técnica de medicamento IBUPROFENO LIQUIDO ORAL 200 MG 5 ML N R
+Ficha técnica de medicamento IBUPROFENO SOLIDO ORAL 400 MG
+Ficha técnica de medicamento KETOROLACO LIQUIDO PARENTERAL 30 MG ML AMPOLLA X 1 ML
+Ficha técnica de medicamento KETOROLACO LIQUIDO PARENTERAL 30 MG ML AMPOLLA X 2 ML
+Ficha técnica de medicamento TOXINA BOTULINICA SOLIDO PARENTERAL 100 U N R
+Mediante Memorando Nro. IESS-HD-EJL-FA-2022-0056-M, de fecha 16 de febrero de 2022,
+suscrito por la Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, en el que solicita Certificación de
+Catalogo Electrónico para la “ADQUISICIÓN DE GRUPO M: SISTEMA MUSCULO-ESQUELETICO
+PARA EL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO
+LÓPEZ”, a la Ab. Andrea Katherine Cárdenas Calderón, Responsable de Compras Públicas del
+CCQA. Hospital del Día Efrén Jurado López.
+Memorando Nro. IESS-HD-EJL-CP-2022-0083-M, de fecha 16 de febrero de 2022, suscrito por la
+Ab. Andrea Katherine Cárdenas Calderón, Responsable de Compras Públicas del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, quien emite Certificación de Catalogo
+Electrónico Nro. CCQAHD-EJL-00021-2022 para la “ADQUISICIÓN DE GRUPO M: SISTEMA
+MUSCULO-ESQUELETICO PARA EL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL
+DÍA EFRÉN JURADO LÓPEZ”.
+Mediante Memorando Nro. IESS-HD-EJL-FA-2022-0156-M, de fecha 29 de marzo de 2022,
+suscrito por la Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López en el que solicita Certificación de
+saldos PAC para la “ADQUISICIÓN DE GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL
+CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ”, a la
+Ab. Andrea Katherine Cárdenas Calderón, Responsable de Compras Públicas del CCQA. Hospital
+del Día Efrén Jurado López.
+Memorando Nro. IESS-HD-EJL-CP-2022-0212-M, de fecha 01 de abril de 2022, suscrito por la Ab.
+Andrea Katherine Cárdenas Calderón, Responsable de Compras Públicas del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López en el que adjunta la certificación PAC
+Nro. CCQAHD-EJL-0013-2022 de fecha 01 de abril de 2022.
+Mediante Resolución Nro. IESS-HD-EJL-DA-2022-0029-R, de fecha 14 de abril del 2022 suscrito por
+el Econ. Jorge Aguirre Piedra, Director Administrativo CCQA. HDD. Efrén Jurado López, que en el
+Art. 2 Dispone.- aprobar los Estudios de Mercados realizadaos para las adquisiciones de
+dispositivos medicos, medicamentos y equipamientos medicos, solicitados por sus areas de
+gestion.
+Mediante Estudio de Mercado de fecha 22 de Abril del 2022 se envia por correo institucional,
+elaborado por: Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico
+Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López, Revisado por Ab. Andrea Katherine
+Cárdenas Calderón, Responsable de Compras Públicas del Centro Clínico Quirúrgico Ambulatorio
+Hospital del Día Efrén Jurado López y Aprobado por Doctor Alfonso Eduardo Mora Veintimilla,
+Director Médico del Centro Clínico Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 4 de 28
+
+Mediante Especificaciones Tecnicas de fecha 22 de Abril del 2022 se envia por correo
+institucional, elaborado por: Dra. Kathiuska Mora Calero, Qumica Farmaceutica1, Revisado por
+Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López y Aprobado por Doctor Alfonso Eduardo Mora
+Veintimilla, Director Médico del Centro Clínico Quirúrgico Ambulatorio Hospital del Día Efrén
+Jurado López.
+Memorando Nro. IESS-HD-EJL-FA-2022-0249-M, de fecha 22 de abril de 2022 suscrito por Mgs.
+Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López dirigido al Econ. Jorge Aguirre Piedra, Director
+Administrativo CCQA. HDD. Efrén Jurado López con Asunto: Solicitud de Disponibilidad
+Presupuestaria para ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL
+CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Memorando Nro. IESS-HD-EJL-AFI-2022-0327-M, de fecha 22 de abril de 2022 suscrito por Tlga.
+Diana España Leon, Responsable del Area Finaciera del Centro Clínico Quirúrgico Ambulatorio
+Hospital del Día Efrén Jurado López dirigido Mgs. Vanessa Elizabeth Castro Zurita, Responsable de
+Farmacia del Centro Clínico Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López con
+Asunto: Solicitud de Disponibilidad Presupuestaria para ADQUISICIÓN DEL GRUPO M: SISTEMA
+MUSCULO-ESQUELETICO PARA EL CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA
+EFRÉN JURADO LÓPEZ.
+Mediante Informe Tecnico de Reforma al PAC de fecha 22 de Abril del 2022 elaborado por por
+Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López, Revisado por Ab. Andrea Katherine Cárdenas
+Calderón, Responsable de Compras Públicas del Centro Clínico Quirúrgico Ambulatorio Hospital
+del Día Efrén Jurado López y Aprobado por Econ. Jorge Aguirre Piedra, Director Administrativo
+CCQA. HDD. Efrén Jurado López.
+Memorando Nro. IESS-HD-EJL-FA-2022-0255-M, de fecha 25 de abril de 2022 suscrito por Mgs.
+Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López dirigido al Econ. Jorge Aguirre Piedra, Director
+Administrativo CCQA. HDD. Efrén Jurado López con Asunto: Solicitud de Reforma Según Partida
+530809- Medicamentos por concepto ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULOESQUELETICO PARA EL CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO
+LÓPEZ.
+Memorando Nro. IESS-HD-EJL-DA-2022-0834-M, de fecha 25 de abril de 2022 suscrito por Econ.
+Jorge Aguirre Piedra, Director Administrativo CCQA. HDD. Efrén Jurado López dirigido a Mgs.
+Glenda Piza Carrasco, Responsable de Planificacion del CCQA. HDD. Efrén Jurado López con
+Asunto: Solicitud de Reforma PAC No. 020-2022-IESS-HD-EJL.
+Mediante Resolución Nro. IESS-HD-EJL-PL-2022-0020 de fecha 25 de abril del 2022, suscrito por
+Mgs. Glenda Piza Carrasco, Responsable de Planificacion del CCQA. HDD. Efrén Jurado López, que
+en el Art. 1 Aprobar.- La reforma al Plan anual de Contratacion correspondiente al Ejercicio Fiscal
+2022.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 5 de 28
+
+Memorando Nro. IESS-HD-EJL-FA-2022-0256-M, de fecha 25 de abril de 2022 suscrito por Mgs.
+Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López dirigido al Econ. Jorge Aguirre Piedra, Director
+Administrativo CCQA. HDD. Efrén Jurado López con Asunto: Solicitud de Certificacion
+Presupuestaria para el requerimiento de ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULOESQUELETICO PARA EL CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO
+LÓPEZ.
+Memorando Nro. IESS-HD-EJL-AFI-2022-0331-M, de fecha 25 de abril de 2022 suscrito por Tlga.
+Diana España Leon, Responsable del Area Finaciera del Centro Clínico Quirúrgico Ambulatorio
+Hospital del Día Efrén Jurado López Econ. Jorge Aguirre Piedra, Director Administrativo CCQA.
+HDD. Efrén Jurado López con Asunto: CP Nro. 98 Solicitud de Certificacion Presupuestaria
+ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL CENTRO QUIRÚRGICO
+AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Memorando Nro. IESS-HD-EJL-FA-2022-0257-M, de fecha 25 de abril de 2022 suscrito por Mgs.
+Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López dirigido al Econ. Jorge Aguirre Piedra, Director
+Administrativo CCQA. HDD. Efrén Jurado López con Asunto: Solicitud de Autorización de gasto e
+inicio del proceso ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL
+CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Mediante Resolución Nro. IESS-HD-EJL-DA-2022-0037-R, de fecha 25 de abril del 2022 suscrito por
+el Econ. Jorge Aguirre Piedra, Director Administrativo CCQA. HDD. Efrén Jurado López, que en el
+Art. 1 Autorizar y disponer el inicio del Proceso de Subasta Inversa Electronica No. SIECCQAHDEJL-016-22 del objeto ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULO-ESQUELETICO
+PARA EL CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Mediante Resolución Nro. IESS-HD-EJL-DA-2022-0045-R, de fecha 09 de mayo del 2022 suscrito
+por el Econ. Jorge Aguirre Piedra, Director Administrativo CCQA. HDD. Efrén Jurado López, que en
+el Art. 1 Autorizar y disponer la declaratoria desierto del Proceso de Subasta Inversa Electronica
+No. SIE-CCQAHDEJL-016-22 del objeto ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULOESQUELETICO PARA EL CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO
+LÓPEZ.
+Mediante Resolución Nro. IESS-HD-EJL-DA-2022-0046-R, de fecha 10 de mayo del 2022 suscrito
+por el Econ. Jorge Aguirre Piedra, Director Administrativo CCQA. HDD. Efrén Jurado López, que en
+el Art. 1 Autorizar y disponer el inico del Proceso de Subasta Inversa Electronica No. SIECCQAHDEJL-020-22 del objeto ADQUISICIÓN DEL GRUPO M: SISTEMA MUSCULO-ESQUELETICO
+PARA EL CENTRO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ.
+Memorando Nro. IESS-HD-EJL-CP-2022-0312-M, de fecha 10 de mayo de 2022, suscrito por la Abg.
+Andrea Katherine Cárdenas Calderón, RESPONSABLE DE COMPRAS PÚBLICAS, CCQA. HOSPITAL
+DEL DÍA EFRÉN JURADO LÓPEZ en la que manifiesta “que mediante Resolución Nro.IESS-HD-EJLDA-2022-0045-R, el Director Administrativo (e) Mgs. Jorge Erik Aguirre Piedra, remite
+DECLARATORIA DESIERTO del Proceso de Subasta Inversa Electrónica No SIE-CCQAHDEJL-016-22.
+Así mismo dispone en su art. 2, que por tratarse de un proceso de importancia para el Hospital Del
+Día Efrén Jurado López se ordena su reapertura inmediata para la Contratación de ADQUISICIÓN
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+DEL GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA
+AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ”.
+
+EL
+
+CENTRO
+
+Página 6 de 28
+
+QUIRÚRGICO
+
+Memorando Nro. IESS-HD-EJL-FA-2022-0280-M, de fecha 10 de mayo de 2022, suscrito por la
+Mgs. Vanessa Elizabeth Castro Zurita, Responsable de Farmacia, del Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López con el asunto “SOLICITUD DE REAPERTURA DEL
+PROCESO GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL CENTRO CLÍNICO QUIRÚRGICO
+AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ”, dirigido al Sr. Mgs. Jorge Erik Aguirre
+Piedra Director Administrativo, Centro Clínico Quirúrgico Ambulatorio (H. del Día) - Efrén Jurado
+López, Encargado.}
+Mediante Acta de Reunión de Trabajo Nro. 011, de fecha 25 de mayo de 2022, se reúne el Comité
+de Farmacoterapia, cuyo objetivo es “Revisar las proformas presentadas de los grupos anatómicos
+J, D y M para la elaboración de estudios de mercados según la disponibilidad en el mercado
+nacional. en el que concluyeron que: “Por unanimidad los integrantes de Comité de
+Farmacoterapia, autorizan cambiar el requerimiento inicial de los grupos anatómicos J
+(ANTIINFECCIOSOS PARA USO SISTEMICO), M (SISTEMA MUSCULO- ESQUELETICO) y D
+(DERMATOLOGICO) emitido por el área de Farmacia, excluyendo los medicamentos que no existe
+disponibilidad en el mercado nacional y que no se han receptado las ofertas para la continuidad
+del estudio de mercado, aplazando la culminación de la fase preparatoria de los grupos
+mencionados y su posterior adquisición. Se subsanará el requerimiento desde la fase del estudio
+de mercado, eliminando los ítems que no se encontró disponibilidad en el mercado de fármacos;
+con la finalidad de continuar con los procesos de medicamentos sin tener que regresar a la
+petición inicial.
+1.1. Normativa Legal
+De conformidad a los establecido en el art. 23 de la LOSNCP “Antes de iniciar un proceso
+precontractual deberá contar con los estudios y diseños completos, definitivos y actualizados,
+planos y cálculos, especificaciones técnicas, debidamente aprobados por las instancias
+correspondientes, vinculados al Plan Anual de Contratación de la entidad”.
+Mediante Memorando Nro. IESS-SDNCP-2020-2180-M, del 17 de julio de 2020 suscrito por la Ing.
+Diana Sofía Uquillas Erazo Subdirectora Nacional de Compras Públicas, en donde informa sobre las
+Directrices para el mejoramiento de la gestión administrativa en procesos de contratación pública en
+donde indica en su parte pertinente “ se recalca que la responsabilidad de la determinación del
+presupuesto referencial, así como la elaboración de términos de referencia / especificaciones
+técnicas es exclusiva responsabilidad de cada unidad requirente”.
+Mediante Resolución Nro. RE-SERCOP-2018-0000088, de 09 de marzo del 2018, establece en el
+Artículo 1: Elimínese los artículos 147, 148, 149, 150 y 151 del CAPÍTULO IV, CÁLCULO DEL
+PRESUPUESTO REFERENCIAL A SER UTILIZADO EN UN PROCEDIMIENTO DE CONTRATACIÓN PÚBLICA
+DE BIENES, SERVICIOS, de la codificación y Actualización de Resoluciones emitidas por el Servicio
+Nacional de Contratación Pública, expedida mediante Resolución Externa Nro. RE-SERCOP-2016-20160000072, de 31 de agosto del 2016.
+El Articulo 2.- En el número 2, del artículo 9 de la Codificación y Actualización de Resoluciones emitidas
+por el Servicio Nacional de Contratación Pública, expedida mediante Resolución Externa Nro. RESERCOP-2016-2016-0000072, de 31 de agosto del 2016.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 7 de 28
+
+Mediante Resolución Externa No. RE-SERCOP-2021-0116, del 16 de julio del 2021, resuelve expedir
+reformas a la resolución Externa Nro RE-SERCOP2016-0000072, publicada en la edición especial del
+Registro Oficial Nro. 425, de 29 de enero de 2018, mediante la cual se expidió la codificación y
+actualización de resoluciones emitidas por el Servicio Nacional de Contratación Pública, Sustitúyase
+el primer inciso el artículo 9 numeral 2 por el siguiente texto:
+Estudio de mercado para la definición de presupuesto referencial, que deberá contener las siguientes
+consideraciones mínimas: 1. Análisis del bien o servicio a ser adquirido: características técnicas; 2.
+Considerar los montos de adjudicaciones similares realizadas en los últimos dos años, previos a la
+publicación del proceso tanto de la entidad contratante como de otras instituciones; 3. Tomar en
+cuenta la variación de precios locales o importados, según corresponda. De ser necesario traer los
+montos a valores presentes, considerando la inflación (nacional e/o internacional); es decir, realizar el
+análisis a precios actuales; y, 4. Siempre que sea posible, se exhorta a las entidades contratantes a que
+cuenten con al menos tres proformas”.
+1.2. Documentos Habilitantes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Memorando IESS-HD-EJL-DA-2022-0234-M
+Memorando IESS-HD-EJL-DA-2022-0318-M
+Memorando Nro. IESS-HD-EJL-FA-2022-0027-M
+Memorando Nro. IESS-HD-EJL-BGF-2022-0007-M
+Memorando Nro. IESS-HD-EJL-DM-2022-0431-M
+Acta de trabajo N° 004, Comité de Farmacoterapia.
+Memorando Nro. IESS-HD-EJL-FA-2022-0039-M
+Memorando Nro. IESS-HD-EJL-DM-2022-0468-M
+Memorando Nro. IESS-HD-EJL-DM-2022-0486-M
+Memorando Nro. IESS-HD-EJL-FA-2022-0056-M
+Memorando Nro. IESS-HD-EJL-CP-2022-0083-M
+Memorando Nro. IESS-HD-EJL-FA-2022-0156-M
+Memorando Nro. IESS-HD-EJL-CP-2022-0212-M
+Memorando Nro. IESS-HD-EJL-CP-2022-0312-M
+Memorando Nro. IESS-HD-EJL-FA-2022-0280-M
+Acta de Trabajo Nro. 011, Comité de Farmacoterapia.
+
+2. Justificación
+
+El Centro Clínico Quirúrgico Ambulatorio Hospital Del día Efrén Jurado, considera la
+adquisición de 09 ítems que se encuentran con stock cero y critico aprobados en la
+Programación de Medicamentos Anual 2022.
+
+3. Objetivos
+3.1.
+
+Objetivo general
+
+Proveer de medicamentos al área de farmacia para el uso en la atención de los afiliados del
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 8 de 28
+
+Instituto Ecuatoriano de Seguridad Social de CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO
+HOSPITAL DEL DÍA EFREN JURADO LÓPEZ.
+
+3.2.
+
+Objetivo específico
+
+La finalidad que se pretende alcanzar con la “ADQUISICIÓN DE GRUPO M: SISTEMA
+MUSCULO-ESQUELETICO PARA EL CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL
+DEL DÍA EFRÉN JURADO LÓPEZ”, son las siguientes:
+
+
+
+Contar con medicamentos suficientes y abastecer las necesidades del servicio del área
+de farmacia del CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA
+EFREN JURADO LÓPEZ.
+Mejorar la calidad asistencial y la oportunidad en el acceso a servicios de salud
+preventiva, curativa con enfoque integral e integrado, a través de una nueva oferta que
+permita adquirir los dispositivos médicos y que responda a las necesidades de la
+población afiliada y contribuya con la Red Pública de Salud.
+
+4. Alcance
+La “ADQUISICIÓN DE GRUPO M: SISTEMA MUSCULO-ESQUELETICO PARA EL CENTRO CLÍNICO
+QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFRÉN JURADO LÓPEZ”, tendrá la finalidad de
+poder abastecer a la Unidad Médica.
+5. Naturaleza del objeto de la contratación y sugerencia de procedimiento
+Los items a adquirir son bienes normalizados, de características homologadas y en consecuencia,
+dichas características o especificaciones son homogéneas y comparables en igualdad de
+condiciones.
+Toda vez que se dio cumplimiento a lo establecido en el la Ley Orgánica del Sistema Nacional de
+Contratación Pública, en su Art. 46.- Obligaciones de las Entidades Contratantes.-, el cual indica:
+“Las Entidades Contratantes deberán consultar el catálogo electrónico previamente a establecer
+procesos de adquisición de bienes y servicios. Solo en caso de que el bien o servicio requerido no se
+encuentre catalogado se podrá realizar otros procedimientos de selección para la adquisición de
+bienes o servicios, de conformidad con la presente Ley y su Reglamento.”, se sugiere el
+procedimiento de contratación de Subasta Inversa Electronica.
+6. Código CPC
+
+N°
+
+CODIGO
+CATEGORIA
+CPC A NIVEL 9
+
+TIPO DE BIEN
+
+DESCRIPCION DE
+LA
+CONTRATACION
+
+PRESENTACIO
+N
+
+CANTIDA
+D
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+1
+
+3526053894
+
+2
+
+3
+
+4
+
+5
+
+6
+
+3520001059
+
+ACIDO
+ALENDRONICO
+ALENDRONATO
+
+ALOPURINOL
+
+3526053831 COLCHICINA
+
+352606012 DICLOFENACO
+
+352606012 IBUPROFENO
+
+352606012 IBUPROFENO
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 70 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 300 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 0,5 mg
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION
+: 25 mg/ml
+PRESENTACION:
+AMPOLLA X 3 ML
+FORMA
+FARMACEUTICA:
+LIQUIDO ORAL
+CONCENTRACION
+: 200 mg/5 ml
+PRESENTACION:
+FRASCO X 100 ML
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 400 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+
+Página 9 de 28
+
+UNIDAD
+
+3.274
+
+UNIDAD
+
+39.753
+
+UNIDAD
+
+8.200
+
+UNIDAD
+
+7.984
+
+UNIDAD
+
+755
+
+UNIDAD
+
+36.000
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+
+FECHA: 17/11/2020
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+7
+
+8
+
+9
+
+352606012 KETOROLACO
+
+352606012 KETOROLACO
+
+TOXINA
+3526053141 BOTULINICA
+
+CÓD: GAD-P03-S01-F06
+
+VERSIÓN: 1.2
+
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION
+: 30 MG ML
+PRESENTACION:
+AMPOLLA X 1 ML
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION
+: 30 MG ML
+PRESENTACION:
+AMPOLLA X 2 ML
+FORMA
+FARMACEUTICA:
+SOLIDO
+PARENTERAL
+CONCENTRACION
+: 100 U
+PRESENTACION:
+Caja x vial (es)
+
+Página 10 de 28
+
+UNIDAD
+
+3.773
+
+UNIDAD
+
+4.200
+
+UNIDAD
+
+7
+
+7. Metodología de trabajo (En los casos que aplique)
+No aplica
+
+8. Información que dispone la entidad (Diagnósticos, estadísticas, etc.)
+El “CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFREN JURADO LÓPEZ”,
+dispondrá al proveedor de la apertura necesaria para solventar cualquier duda o inquietud que
+disponga con respecto al proceso, para el efecto adjunta los parámetros así como las
+Especificaciones Técnicas.
+A continuación, se detallan las recetas despachadas por el área de farmacia del CCQAHDEJL
+desde marzo del 2021 a febrero del 2022:
+
+CCQA HDD EJL
+RECETAS DESPACHADAS MARZO 2021-MARZO 2022
+DEPENDENCIAS
+
+RECETAS DESPACHADAS
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+CONSULTA EXTERNA
+
+223.221
+
+EMERGENCIA
+
+300.782
+
+TOTAL DESPACHADAS
+
+524.003
+
+Página 11 de 28
+
+FUENTE: BASE DE DATOS RECETAS DESPACHADAS CCQAHDEJL
+9. Especificaciones Técnicas (bienes u obras) o Términos de Referencia (servicio, incluido
+consultorías).
+CODIGO
+CATEGORIA
+CPC A NIVEL 9
+
+N°
+
+TIPO DE BIEN
+
+1
+
+3526053894
+
+2
+
+3
+
+4
+
+3520001059
+
+ACIDO
+ALENDRONICO
+ALENDRONATO
+
+ALOPURINOL
+
+3526053831 COLCHICINA
+
+352606012 DICLOFENACO
+
+DESCRIPCION DE
+LA
+CONTRATACION
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 70 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 300 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 0,5 mg
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION
+: 25 mg/ml
+PRESENTACION:
+AMPOLLA X 3 ML
+
+PRESENTACIO
+N
+
+CANTIDA
+D
+
+UNIDAD
+
+3.274
+
+UNIDAD
+
+39.753
+
+UNIDAD
+
+8.200
+
+UNIDAD
+
+7.984
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+5
+
+352606012 IBUPROFENO
+
+6
+
+352606012 IBUPROFENO
+
+7
+
+352606012 KETOROLACO
+
+8
+
+9
+
+352606012 KETOROLACO
+
+TOXINA
+3526053141 BOTULINICA
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+FORMA
+FARMACEUTICA:
+LIQUIDO ORAL
+CONCENTRACION
+: 200 mg/5 ml
+PRESENTACION:
+FRASCO X 100 ML
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION
+: 400 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION
+: 30 MG ML
+PRESENTACION:
+AMPOLLA X 1 ML
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION
+: 30 MG ML
+PRESENTACION:
+AMPOLLA X 2 ML
+FORMA
+FARMACEUTICA:
+SOLIDO
+PARENTERAL
+CONCENTRACION
+: 100 U
+PRESENTACION:
+Caja x vial (es)
+
+Página 12 de 28
+
+UNIDAD
+
+755
+
+UNIDAD
+
+36.000
+
+UNIDAD
+
+3.773
+
+UNIDAD
+
+4.200
+
+UNIDAD
+
+7
+
+CARACTERÍSTICAS TÉCNICAS DEL FÁRMACO:
+a) El etiquetado o rotulado de los envases primarios y secundarios estará escrito en idioma
+castellano e impreso en caracteres claramente legibles e indelebles y deberá contener la
+información de acuerdo con las exigencias técnicas requeridas para la obtención del Registro
+Sanitario:
+Envase Primario
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+
+
+
+
+
+
+
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 13 de 28
+
+Nombre genérico (DCI)
+Nombre comercial
+Concentración del principio activo
+Número o código de lote de fabricación
+Fecha de expiración
+Número de Registro Sanitario Ecuatoriano, vigente (opcional).
+Nombre del laboratorio fabricante o su logotipo.
+
+Envase Secundario
+ Nombre genérico (DCI)
+ Nombre comercial
+ Concentración del principio activo
+ Forma farmacéutica
+ Cantidad del producto que contiene expresada en volumen, (inyectables, soluciones y
+suspensiones)
+ Número o código de lote de fabricación
+ Nombre del laboratorio fabricante
+ Fecha de elaboración
+ Fecha de vencimiento o expiración
+ Número de Registro Sanitario Ecuatoriano vigente
+ Fórmula cuali-cuantitativa (principio activo y excipientes)
+ Vía de administración
+ Condiciones de almacenamiento, referentes a temperatura (º C), luz, cierre de envases
+y cualquier otra indicación que pueda influir en la estabilidad del producto.
+ Tipo y cantidad de solvente a usar en el caso de productos que necesiten disolverse.
+ Nombre del Químico Farmacéutico responsable
+b) El Contratista está obligado a entregar los fármacos dentro del plazo establecido, empaques
+primario, secundario y embalaje cuando así sea necesario, debiendo tener este último la
+etiqueta de identificación del producto con los siguientes datos mínimos:
+
+
+
+
+
+Nombre genérico (DCI)
+Forma farmacéutica
+Concentración
+Número de lote
+
+c) La fecha de expiración no podrá ser menor a veinte y cuatro meses, contados a partir de su
+recepción excepto aquellos que por su naturaleza se degradan en corto tiempo, en cuyo caso
+se entregará la justificación técnica del fabricante; El proveedor deberá realizar el canje en
+caso de caducidad, de acuerdo a lo señalado por la Ley.
+d) Los envases primarios deben incluir la leyenda “IESS PROHIBIDA SU VENTA”
+e) En el envase interno y externo, no deberá colocarse el precio de venta al público (PVP).
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 14 de 28
+
+f) Los medicamentos que requieren protección de la luz deben ofertarse en sobre o cobertor
+de PVC-Aluminio o poliéster-polietileno y aluminio o polilaminado que generen la misma
+barrera.
+g) Las presentaciones en solución inyectable deben ofertarse en caja individual o en cunas o
+alvéolos de PVC en caso de presentaciones múltiples.
+h) Las presentaciones en polvo para infusión deben ser ofertadas con una ampolla de solvente
+de volumen adecuado.
+i) Los fármacos ofertados deberán tener eficacia comprobada en estudios clínicos no del
+principio activo sino de la marca
+Productos o servicios esperados
+Los medicamentos deberán cumplir con cada uno de los requisitos que se establezcan en los
+pliegos pre-contractuales del proceso a realizar, por lo que se espera que cumplan con las
+garantías y calidad correspondiente y solicitada por la institución.
+Las características fundamentales, los requisitos funcionales o tecnológicos que deben cumplir
+los medicamentos requerido por el “CENTRO CLÍNICO QUIRÚRGICO AMBULATORIO HOSPITAL
+DEL DÍA EFREN JURADO LÓPEZ”, deberán ir alineados al objeto contractual y atendiendo los
+conceptos de capacidad, calidad y/o rendimiento, para los que, de existir, se utilizarán rasgos
+técnicos, requisitos, símbolos y términos normalizados.
+Los medicamentos deberán ser trasladados en condiciones que garanticen el mantenimiento
+de su calidad y seguridad, cumpliendo las buenas prácticas de almacenamiento, distribución y
+transporte.
+10. Informes de validación (de ser pertinente conforme el objeto de la contratación)
+No aplica
+11. Plazo de ejecución: parciales y/o total
+En este proceso de contratación, la entrega de los medicamentos a adquirir será de forma
+total.
+El plazo de entrega será de 15 días (incluye sábado, domingo y feriados), contados a partir de
+la suscripción del contrato.
+
+12. Evaluación de la oferta
+La metodología de evaluación se establecerá de acuerdo al tipo de procedimiento de
+contratación.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 15 de 28
+
+Se establecerá a la metodología “Cumple / No Cumple” cuando el objetivo sea la
+determinación de cumplimiento de una condición o capacidad mínima por parte del oferente y
+que sea exigida por la entidad contratante (requisitos mínimos).
+METODOLOGIA POR TIPO DE PROCEDIMIENTO
+TIPO DE
+CUMPLE
+PROCEDIMIENTO
+
+NO CUMPLE
+
+Subasta Inversa
+Electrónica
+Parámetros de evaluación previstos por el SERCOP:
+Los parámetros que se detallan a continuación deberán ser analizados y solicitados en caso que la
+unidad requirente lo considere pertinente, de acuerdo a la naturaleza de la adquisición o
+contratación.
+METODOLOGÍA DE EVALUACIÓN CUMPLE/ NO CUMPLE
+Requisitos mínimos
+12.1.
+
+Integralidad de la oferta:
+
+La integridad de la oferta consiste en la verificación de la presentación de los formularios y
+requisitos mínimos previstos en el pliego.
+I.
+Formulario de la Oferta
+1.1 Presentación y compromiso;
+1.2 Datos generales del oferente;
+1.3 Identificación de socios, accionistas, partícipes mayoritarios del oferente en caso de ser
+persona jurídica;
+1.4 Situación financiera del oferente;
+1.5 Componente de los bienes y servicios ofertados;
+1.6 Oferta Económica Inicial;
+1.7 Experiencia del oferente. Soporte técnico en caso de haber sido exigido)
+1.8 Personal técnico propuesto para el proyecto.
+1.9 Equipo mínimo requerido
+1.10 Umbral de Valor Agregado Ecuatoriano de la oferta
+1.11 Cálculo del porcentaje de valor agregado ecuatoriano de la oferta.
+ Para el caso de presentación de ofertas con firma electrónica:
+-
+
+-
+
+De conformidad con la RESOLUCION N° RE-SERCOP-2021-0112, de fecha 15 de enero del
+2021, la recepción de las ofertas deberá ser presentada con firma electrónico a través de los
+siguientes correos electrónico: documentacioncp.ejl@iess.gob.ec; Siendo obligatorio a través
+del Portal de COMPRASPÚBLICAS, sitio web oficial donde la oferta será subida con firma
+electrónica.
+Es importante recalcar que el proveedor deberá remitir la oferta desde el correo electrónico
+que fue registrado en el SOCE.
+En el caso de exceder el tamaño de capacidad de envío, las ofertas deberán remitirse por el
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+-
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 16 de 28
+
+canal digital https://wetransfer.com/ o https://transfer.pcloud.com/ o, cualquier otro medio
+similar que permita a la entidad contratante descargar íntegramente la oferta remitida por el
+proveedor.
+Así mismo en virtud de la RESOLUCION N° RE-SERCOP-2021-0112, de fecha 15 de enero del
+2021, en caso de ser necesario el oferente podrá entregar su oferta con firma electrónica de
+manera física, únicamente a través de un dispositivo de almacenamiento por medios
+magnéticos, ópticos o electrónicos que permitan garantizar su validez; la entrega se realizará
+de conformidad con lo establecido en la convocatoria.
+
+ El oferente deberá obligatoriamente revisar el archivo denominado “ESPECIFICACIONES
+TECNICAS” y presentar su oferta conforme a lo señalado en dicho archivo, en el cual se
+determinan los parámetros de calificación y la metodología para evaluar cada oferta.
+ La entidad contratante al momento de evaluar las ofertas verificará el cumplimiento de las
+resoluciones vigentes dictadas por el SERCOP incluyendo la Resolución no. RE-SERCOP-20160000072.
+ El oferente deberá obligatoriamente descargar, revisar, llenar, firmar y presentar en su oferta el
+formulario 1.1. “PRESENTACIÓN Y COMPROMISO”, 1.3 “NÓMINA DE SOCIO(S), ACCIONISTA(S) O
+PARTÍCIPE(S) MAYORITARIOS DE PERSONAS JURÍDICAS, Y DISPOSICIONES ESPECÍFICAS PARA
+PERSONAS NATURALES, OFERENTES“ y el II “COMPROMISO DE ASOCIACIÓN O CONSORCIO (en
+caso de ser aplicable), en concordancia con la Resolución No. RE-SERCOP-2017-0000078 del 23 de
+mayo de 2017, los cuales constan en los anexos que forman parte del pliego, la no presentación
+de los mismos o el no llenar o contestar alguno de sus numerales será causal de descalificación
+de la oferta.
+ Para efectos de verificación de datos, el oferente deberá incluir en lapresentación de su oferta los
+siguientes documentos:
+- Copia de RUC
+- Copia de RUP
+- Copia de cédula de identidad y de papeleta de votación (para el caso de personas jurídicas,
+deberán ser de su Representante Legal).
+- Certificado de cumplimiento de obligaciones descargado de la página web del Instituto
+Ecuatoriano de Seguridad Social.
+- Copia del nombramiento del representante legal acompañado de su inscripción en el Registro
+Mercantil (en caso de personas jurídicas).
+- Copia del poder especial (para el caso de personas jurídicas en el que el representante legal
+delegue la facultad de presentar ofertas y en las fases de los procesos).
+- Certificado de cumplimiento de obligaciones CCO descargado de la página web de la
+Superintendencia de Compañías, Valores y Seguros para el caso de personas jurídicas.
+12.2.
+
+Personal técnico mínimo:
+
+No aplica
+12.3. Experiencia mínima del personal técnico
+No aplica
+12.4.
+
+Equipo mínimo
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 17 de 28
+
+No aplica
+12.5.
+
+Experiencia general
+
+Para el presente proceso de contratación, solo se necesitará experiencia general.
+12.5.1. Experiencia general
+
+Experiencia general y mínima requerida para procedimientos de contratación de Subasta Inversa Electrónica y
+Régimen Común
+
+Coeficiente respecto
+PIE
+monto
+al
+Presupuesto
+(33.899.734.759,85)
+Inicial del Estado
+
+Mayor a
+
+69.7799,47
+
+237.298,14
+
+Durante
+los
+últimos 5 años
+No mayor a No mayor a No mayor a
+previos a la
+20%
+10%
+10%
+publicación del
+procedimiento
+
+508.496,02
+
+Durante
+los
+últimos 5 años
+no mayor a no mayor a No mayor a
+previos a la
+30%
+15%
+15%
+publicación del
+procedimiento
+
+1.016.992,04
+
+Durante
+los
+últimos 5 años
+no mayor a no mayor a No mayor a
+previos a la
+40%
+20%
+20%
+publicación del
+procedimiento
+Durante
+los
+últimos 5 años
+no mayor a no mayor a No mayor a
+previos a la
+50%
+25%
+25%
+publicación del
+procedimiento
+
+0,000002
+
+0,000002 0,000007 67.799,47
+
+0,000007 0,000015 237.297,14
+
+0,000015 0,00003
+
+508.496,02
+
+Tiempo durante
+el cual se podrá
+acreditar
+la
+experiencia
+específica
+(años)
+
+Durante
+los
+últimos 5 años
+No mayor a No mayor a No mayor a
+previos a la
+10%
+5%
+5%
+publicación del
+procedimiento
+
+Hasta
+-
+
+0
+
+año
+
+Monto
+mínimo
+requerido
+Monto
+de
+por
+cada
+Monto
+de
+experiencia
+contrato en
+experiencia
+general
+relación al
+específica
+mínima
+monto
+2022
+requerida
+requerida
+determinado
+en relación
+en relación
+en
+la
+al
+al
+experiencia
+presupuesto
+presupuesto
+mínima
+referencial
+referencial
+general
+o
+específica
+según
+corresponda
+
+0,00003
+
+0,0002
+
+$1.016.992,04
+
+$6.779.946,95
+
+0,0002
+
+0,0004
+
+$6.779.946,95
+
+$13.559.893,90
+
+no mayor a no mayor a No mayor a Durante
+
+los
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+60%
+
+mayor a
+
+0,0004
+
+Mayor a
+
+VERSIÓN: 1.2
+
+30%
+
+30%
+
+Página 18 de 28
+
+últimos 5 años
+previos a la
+publicación del
+procedimiento
+
+Durante
+los
+últimos 7 años
+no mayor a no mayor a No mayor a
+previos a la
+70%
+40%
+30%
+publicación del
+procedimiento
+
+$ 13.559.893,90
+
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados
+por el oferente para acreditar la experiencia mínima general o específica requerida, sino,
+al cumplimiento de estas condiciones en relación a los montos mínimos requeridos para
+cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima
+específica, el proveedor cumpliere el monto mínimo solicitado para la experiencia mínima
+general, este contrato o instrumento será considerado como válido para acreditar los dos
+tipos de experiencia.
+La entidad contratante deberá solicitar como temporalidad de experiencia general 15
+años previo a la publicación del procedimiento de contratación. Por tanto, el contratista
+podrá acreditar la experiencia general dentro de dicho período.
+Experiencia general
+DESCRIPCIÓN
+
+FUENTE
+O
+MEDIO
+DE
+VERIFICACIÓN
+
+TEMPORALIDAD
+
+MONTO
+DE
+EXPERIENCIA
+GENERAL
+MÍNIMA
+REQUERIDA
+EN RELACIÓN
+AL
+PRESUPUESTO
+REFERENCIAL
+
+MONTO
+MÍNIMO
+REQUERIDO
+POR CADA
+PROYECTO
+EN
+RELACIÓN
+AL MONTO
+MÍNIMO
+REQUERIDO
+
+NÚMERO
+PROYECTOS
+
+El oferente deberá
+acreditar
+su
+experiencia
+general en venta y
+distribución
+de
+medicamentos de
+uso general
+
+Para
+lo
+cual
+deberá
+presentar Actas de
+Entrega
+de
+Recepción
+Definitiva
+(empresas
+públicas)
+o
+Certificados
+(empresas
+privadas)
+de
+contratos
+ejecutados en los
+últimos 10 años.
+La
+experiencia
+podrá
+ser
+acumulada
+siempre y cuando
+cada certificado o
+acta de entrega de
+recepción definitiva
+
+Proyectos
+ejecutados en los
+últimos 15 años
+
+$
+
+$
+
+No
+se
+colocará
+número de proyectos
+considerando
+lo
+previsto
+en
+la
+normativa
+legal
+vigente que prevé que
+estas condiciones no
+estarán sujetas al
+número de contratos o
+instrumentos
+presentados por el
+oferente para acreditar
+la experiencia mínima
+general o específica
+requerida, sino, al
+cumplimiento de estas
+condiciones
+en
+relación a los montos
+mínimos
+requeridos
+para cada tipo de
+experiencia
+
+19.850,04
+
+1.985,00
+
+DE
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 19 de 28
+
+12.5.2 Experiencia específica
+No requerido por la entidad
+12.6.
+
+Cumplimiento de Especificaciones Técnicas / Términos de Referencia
+CODIGO
+CATEGORIA CPC
+A NIVEL 9
+
+N°
+
+TIPO DE BIEN
+
+1
+
+3526053894
+
+ACIDO
+ALENDRONICO
+ALENDRONATO
+
+2
+
+3520001059
+
+ALOPURINOL
+
+3
+
+3526053831 COLCHICINA
+
+4
+
+352606012 DICLOFENACO
+
+5
+
+352606012 IBUPROFENO
+
+DESCRIPCION DE
+LA
+CONTRATACION
+PRESENTACION CANTIDAD
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION:
+UNIDAD
+70 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+3.274
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION:
+UNIDAD
+300 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+39.753
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION:
+UNIDAD
+0,5 mg
+PRESENTACION:
+Caja x
+blíster/ristra
+8.200
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+UNIDAD
+CONCENTRACION:
+25 mg/ml
+PRESENTACION:
+AMPOLLA X 3 ML
+7.984
+FORMA
+FARMACEUTICA:
+LIQUIDO ORAL
+UNIDAD
+CONCENTRACION:
+200 mg/5 ml
+PRESENTACION:
+FRASCO X 100 ML
+755
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+6
+
+7
+
+8
+
+9
+
+352606012 IBUPROFENO
+
+352606012 KETOROLACO
+
+352606012 KETOROLACO
+
+TOXINA
+3526053141 BOTULINICA
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+FORMA
+FARMACEUTICA:
+SOLIDO ORAL
+CONCENTRACION:
+400 MG
+PRESENTACION:
+Caja x
+blíster/ristra
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION:
+30 MG ML
+PRESENTACION:
+AMPOLLA X 1 ML
+FORMA
+FARMACEUTICA:
+LIQUIDO
+PARENTERAL
+CONCENTRACION:
+30 MG ML
+PRESENTACION:
+AMPOLLA X 2 ML
+FORMA
+FARMACEUTICA:
+SOLIDO
+PARENTERAL
+CONCENTRACION:
+100 U
+PRESENTACION:
+Caja x vial (es)
+
+Página 20 de 28
+
+UNIDAD
+
+36.000
+
+UNIDAD
+
+3.773
+
+UNIDAD
+
+4.200
+
+UNIDAD
+
+7
+
+12.7 Patrimonio (Aplicable a personas jurídicas)
+La entidad contratante verificará que el patrimonio del oferente sea igual o superior a la
+relación que se determine con respecto al presupuesto referencial conforme las regulaciones
+expedidas por el SERCOP, estipulado en la tabla que consta en la Codificación y Actualización
+de las Resoluciones emitidas por el SERCOP (Resolución No. RE-SERCOP-2016-0000072), en el
+numeral 3, del Artículo 65, Capitulo II. (Aplicable a personas jurídicas).
+12.8 Existencia Legal
+En armonía con el numeral 2 del Art. 65 de las Reglas de Participación, de la Codificación y
+Actualización de Resoluciones del SERCOP, para los procedimientos de contratación cuyo
+presupuesto referencial sea igual o inferior a USD$ 500.000,00 (Quinientos mil dólares de los
+Estados Unidos de América con 00/100), no habrá tiempo de existencia legal mínima
+requerida. Para los procedimientos de contratación que sobrepasen el monto del presupuesto
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+VERSIÓN: 1.2
+
+Página 21 de 28
+
+referencial antes mencionado el tiempo de existencia legal será mínimo de tres (3) años.
+12.9 Metodología y cronograma de ejecución del proyecto
+No aplica
+12.10 Porcentaje de Valor Agregado Ecuatoriano Mínimo
+La entidad contratante deberá aplicar obligatoriamente la metodología definida por el Servicio
+Nacional de Contratación Pública para la determinación de Valor Agregado Ecuatoriano en la
+adquisición de bienes y/o prestación de servicios, según corresponda, que será considerado
+como uno de los criterios de participación, evaluación y adjudicación.
+Para que una oferta sea considerada ecuatoriana el Valor Agregado Ecuatoriano de la misma
+deberá ser igual o superior al umbral del Valor Agregado Ecuatoriano del procedimiento de
+contratación pública, publicado por la entidad contratante conforme lo establecido por el
+Sistema Oficial de Contratación del Estado -SOCE.
+La entidad contratante deberá verificar si el oferente acredita Valor Agregado Ecuatoriano de
+los bienes y/o servicios propuestos, conforme la normativa expedida por el Servicio Nacional
+de Contratación Pública.
+Únicamente en el caso de que la oferta presentada no acreditare Valor Agregado Ecuatoriano,
+la entidad contratante considerará y analizará la oferta de origen extranjero que se hubieren
+presentado.
+
+Descripción
+
+UMBRALES DE VAE DEL PROCEDIMIENTO
+Umbral VAE
+
+Porcentaje de participación ecuatoriana mínima:
+Se verificará si los oferentes cumplen con el porcentaje de participación ecuatoriana mínima
+proveniente de los estudios de desagregación tecnológica. Sólo el o los participantes que
+cumplen con el porcentaje de participación ecuatoriana mínimo continuarán en el
+procedimiento.
+12.11 Información Financiera de Referencia
+Análisis de los Índices Financieros:
+Los índices financieros constituirán información de referencia respecto de los participantes en
+el procedimiento y en tal medida, su análisis se registrará conforme el detalle a continuación:
+INDICE DE SOLVENCIA
+
+INDICE DE ENDEUDAMIENTO
+
+(Mayor o igual a 1,0)
+
+(Menor o igual a 1,5)
+
+Fórmula para el cálculo:
+Activo Corriente / Pasivo Corriente
+
+Fórmula para el cálculo:
+Pasivo Total / Patrimonio
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 22 de 28
+
+Nota:
+a)
+
+Los factores para su cálculo estarán respaldados por la correspondiente Declaración de
+Impuesto a la Renta del ejercicio fiscal inmediato anterior que fue entregada al Servicio de
+Rentas Internas SRI, según artículo 166, capítulo VI, de la Codificación y Actualización de
+las Resoluciones emitidas por el SERCOP (Resolución No. RE-SERCOP-2016-0000072).
+
+b)
+
+Para dar cumplimiento con los indicadores financieros, el oferente deberá cumplir con las
+siguientes condicionantes:
+-
+
+-
+
+-
+
+c)
+
+En caso de persona natural obligada a llevar contabilidad, deberá presentar el Estado
+de Situación Financiera del año correspondiente al ejercicio fiscal inmediato anterior,
+que reposa en la base de datos del Servicio de Rentas Internas, conforme a la
+declaración realizada por el contribuyente a través del Formulario 102 del SRI
+(DECLARACIÓN DEL IMPUESTO A LA RENTA PERSONAS NATURALES Y SUCESIONES
+INDIVISAS OBLIGADAS A LLEVAR CONTABILIDAD).
+En caso de persona natural que no esté obligada a llevar contabilidad, deberá
+presentar el Estado de Situación Financiera del año correspondiente al ejercicio fiscal
+inmediato anterior, con la respectiva firma del contador o un profesional con título del
+tercer nivel de carreras afines a las ciencias contables, o, en general persona que
+conste en su RUC actividades afines a la contabilidad.
+En caso de persona jurídica, deberá presentar el Estado de Situación Financiera del año
+correspondiente al ejercicio fiscal inmediato anterior, que reposa en la base de datos
+del Servicio de Rentas Internas, conforme a la declaración realizada por el
+contribuyente a través del Formulario 101 del SRI (DECLARACIÓN DEL IMPUESTO A LA
+RENTA Y PRESENTACIÓN DE ESTADOS FINANCIEROS FORMULARIO UNICO DE
+SOCIEDADES Y ESTABLECIMIENTOS PERMANENTES).
+
+El incumplimiento de los índices financieros no será causal de rechazo de la oferta.
+
+12.12. Otros parámetros
+Para este proceso de contratación, el oferente deberá incluir en su oferta lo siguiente:
+
+No.
+
+1
+
+DETALLE DE LOS OTROS
+PARAMETROS RESUELTOS
+POR LA ENTIDAD
+
+Garantía Técnica
+
+MEDIO DE VERIFICACIÓN / FORMA DE PRESENTACIÓN
+Se deberá presentar la garantía técnica, la cual debe manifestar al
+menos lo siguiente:
+- Todos los bienes ofertados deben ser nuevos.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 23 de 28
+
+- Rige a partir de la recepción de los bienes objeto de la contratación
+y será mínimo de doce meses.
+- Deberá detallar el/o/los números telefónicos, el/o/los correos
+electrónicos y lugar donde se podrá hacer efectiva la solicitud de
+garantía.
+- Por defectos de fábrica, la garantía debe ser de mínimo doce
+meses.
+- En caso de que el bien se encontrare con desperfectos de
+fabricación, este será repuesto por el proveedor, sin que esto
+represente costo alguno para la institución.
+- El tiempo de respuesta optimo y plazos máximos para la reposición
+de los bienes será de 20 días laborables por defectos de fabricación,
+y tiene que obligatoriamente ser reemplazado, luego de ser
+notificado por parte del administrador del contrato.
+- Establecer procedimientos claros y precisos para la ejecución de la
+garantía, y casos específicos en los que se garantice la reposición del
+bien, así como la identificación clara de las exclusiones de la
+cobertura de la garantía.
+
+Carta de Compromiso de
+Canje
+
+De conformidad al Artículo 175 de la Ley Orgánica de Salud, el
+oferente deberá presentar carta de compromiso de canje o
+reposición en caso de caducidad, mal estado, o si durante su uso se
+detecten anomalías, de acuerdo a la Guía para la recepción y
+almacenamiento de los insumos en el Ministerio de Salud Pública, la
+misma que servirá para precautelar los intereses institucionales.
+
+3
+
+Registro Sanitario
+
+El oferente deberá presentar el registro sanitario, por cada uno de
+los bienes ofertados, emitido por la Agencia de Regulación y Control
+Sanitario ARCSA o en su efecto el certificado de registro sanitario
+desde la herramienta Ventanilla Única Ecuatoriana VUE, de acuerdo
+a los bienes que correspondan ante la condicionante, a fin de
+garantizar que los mismos sean inocuos para el uso humano, dicho
+registro debe encontrarse vigente. En caso de no requerir Registro
+Sanitario, deberá presentar certificado de la Agencia de Regulación y
+Control Sanitario ARCSA, señalando este hecho.
+
+4
+
+Permiso de
+Funcionamiento
+
+Deberá presentar permiso de funcionamiento, el cual debe estar
+vigente, de acuerdo a la normativa legal en vigor.
+
+2
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 24 de 28
+
+5
+
+Certificado de Buenas
+El oferente deberá presentar el certificado de Buenas Prácticas de
+Prácticas de Manufactura Manufactura, documento que debe encontrarse vigente, de acuerdo
+BPM
+a la normativa legal en vigor.
+
+6
+
+Certificado de análisis de
+lote
+
+7
+
+Deberá presentar el Certificado de ser fabricante o distribuidor
+Certificado de Distribuidor autorizado del Laboratorio que solicito el Registro Sanitario de
+Autorizado
+cada uno de los Ítems solicitados, así mismo el certificado deberá
+estar actualizado con fecha máximo en los últimos 6 meses.
+
+8
+
+Deberá presentar carta compromiso donde se compromete a
+presentar el Certificado de Análisis de cada Lote en el momento
+de entrega del ítem ofertado
+
+Certificado de Buenas
+Practicas de
+El oferente deberá presentar dicho certificado, el cual debe
+Almacenamiento,
+Distribución y Transporte encontrarse vigente, de acuerdo a la normativa legal en vigor.
+BPA/BPD/BPT
+
+9
+
+Catálogo
+
+Deberá presentar Catálogo del o de los ítems a ofertar
+
+10
+
+Carta de confidencialidad
+
+Deberán presentar en la oferta el compromiso de confidencialidad,
+se adjunta en formato en el USHAY
+
+11
+
+Carta Compromiso de
+cuadro de
+cantidades de precios
+
+Que una vez concluida la puja o negociación, en caso de que el
+oferente resulte adjudicado, el porcentaje que resulte de dicha puja
+o negociación deberá ajustarse a todos y cada uno de los ítems
+ofertados, dicha información que se trasladará al contrato.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+12
+
+Formulario 1.1. y 1.3
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 25 de 28
+
+Deberá presentar los formularios 1.1. y 1.3 adjunto en los pliegos,
+completos y con las respectivas firmas de responsabilidad.
+
+12.13 Verificación del cumplimiento de integridad y requisitos mínimos de la oferta
+Para el efecto, se empleará una única etapa de evaluación, a través de la metodología “Cumple
+o No Cumple”, de acuerdo al siguiente detalle:
+
+PARÁMETROS
+
+CUMPLE
+
+NO CUMPLE
+
+Integridad de la Oferta
+Equipo Mínimo
+Personal Técnico Mínimo
+Experiencia General Mínima
+Experiencia Especifica Mínima
+Experiencia Mínima del Personal Técnico
+Especificaciones técnicas o Términos de
+Referencia
+Patrimonio (Personas Jurídicas)
+Umbral del VAE
+Otros Parámetros resueltos por la
+entidad
+
+13. Presupuesto referencial
+El presupuesto referencial se encuentra establecido de acuerdo a lo determinado en la
+Codificación y Actualización de las Resoluciones emitidas por el SERCOP (Resolución No. RE
+SERCOP-2016-0000072 o las que se dicten para el efecto), el análisis de este rubro consta en el
+Estudio de determinación del presupuesto referencial de mercado, mismo que ha sido
+elaborado y aprobado por el Responsable del área requirente.
+Para el caso, al ser un procedimiento de Subasta Inversa Electrónica, según lo dispuesto en el
+Art. 12 y 265 Codificación y Actualización de las Resoluciones emitidas por el SERCOP
+(Resolución No. RE-SERCOP-2016-0000072), el presupuesto no será visible hasta la
+adjudicación, por lo que no deberá constar en ningún literal dentro del presente documento
+de Especificaciones Técnicas.
+14. Forma y condiciones de pago
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 26 de 28
+
+El contratista deberá presentar para efectos de pago la siguiente documentación:
+- Copia del RUC.
+- Copia del RUP.
+- Copia de cédula y papeleta de votación del representante legal en el caso de las sociedades o
+copia de cédula y papeleta de votación del proveedor, en caso de persona natural.
+- Nombramiento del representante legal.
+- Certificado bancario.
+- Copia del contrato.
+- Informe de requerimiento de pago.
+- Informe del administrador de contrato.
+- Acta de entrega recepción del servicio.
+- Factura.
+El pago se ejecutará 100% contra entrega de los bienes, previa inscripción de Acta de Entrega
+Recepción y documentos habitantes fijados en el contrato.
+15. Lugar y forma de entrega
+Los medicamentos adquiridos se entregarán en la ciudad de Guayaquil, en el CENTRO CLÍNICO
+QUIRÚRGICO AMBULATORIO HOSPITAL DEL DÍA EFREN JURADO LÓPEZ, ubicado en las calles
+Eloy Alfaro No. 100 y San Martín, en el departamento de BODEGA GENERAL DE FARMACOS en
+el horario de 09H00 a 12h00, previa coordinación con el Administrador de contrato y
+considerando la leyenda en su envase de IESS PROHIBIDA SU VENTA.
+16. Garantías
+De acuerdo al objeto de la contratación y a lo establecido en los artículos 74, 75, 76 LOSNCP, se
+pueden establecer garantía de fiel cumplimiento; garantía por anticipo y garantía técnica:
+
+
+Garantía técnica.- En los contratos de adquisición, provisión o instalación de (bienes)
+equipos, maquinaria o vehículos, o de obras que contemplen aquella provisión o
+instalación, para asegurar la calidad y buen funcionamiento de los mismos, se exigirá,
+además, al momento de la suscripción del contrato y como parte integrante del mismo,
+una garantía del fabricante, representante, distribuidor o vendedor autorizado, la que se
+mantendrá vigente de acuerdo con las estipulaciones establecidas en el contrato.
+
+17. Multas
+
+
+Por cada día de retraso en el cumplimiento de las obligaciones contractuales, se aplicará una
+multa del uno por mil diarios (1x1000), la cual se calculará sobre el porcentaje de la
+obligación que se encuentre pendiente de ejecutarse, conforme a lo establecido en la Ley
+Orgánica del Sistema Nacional de Contratación Pública LOSNCP en su artículo 71; salvo
+casos de fuerza mayor o caso fortuito debidamente comunicados y justificados dentro de
+las 48 horas hábiles de producido el incidente, y que sean aceptados por la contratante.
+
+
+
+Para el cálculo del plazo se excluirán las demoras que se deban a fuerza mayor o caso
+fortuito, de conformidad con lo que dispone la Codificación del Código Civil en el artículo 30.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 27 de 28
+
+
+
+En todos los casos, las multas serán impuestas por el Administrador(a) de Contrato, estableciendo el
+incumplimiento, fechas y montos.
+
+
+
+Los valores de las multas impuestas serán deducidos del valor de las planillas o facturas, al momento
+de efectuarse el pago.
+
+
+
+Si el valor de la(s) multa(s) excede(n) del 5% del monto total del contrato, el Centro Clínico Quirúrgico
+Ambulatorio Hospital del Día Efrén Jurado López podrá dar por terminado el mismo, de forma
+unilateral y anticipada.
+
+18. Vigencia de la oferta (No aplica para procedimientos de ínfimas cuantías)
+La vigencia de La oferta será de 90 días.
+19. Administrador del contrato
+El administrador del contrato será el responsable de tomar todas las medidas necesarias para su
+adecuada ejecución, con estricto cumplimiento a las cláusulas contractuales de conformidad a lo
+previsto en el artículo 80 de la Ley Orgánica del Sistema Nacional de Contratación Pública y artículo 121
+del Reglamento General de aplicación de la Ley Orgánico del Sistema Nacional de Contratación Pública.
+Se sugiere al Dr. JOSE PATRICIO MASAQUIZA MOREIRA, Cédula de cuidadanía 0924982390, Médico
+General CCQA Hospital del Día Efrén Jurado López.
+20. Sugerencia de designación de comisión técnica o Delegado Responsable de la Ejecución
+Precontractual. (No aplica para procedimientos de ínfimas cuantías y catálogo electrónico)
+Conforme lo establecido en el artículo 18 del Reglamento a la Ley Orgánica del Sistema nacional de
+Contratación Pública (RGLOSNCP) se dispone a todas las unidades requirentes y preparatorias que en los
+términos de referencia y especificaciones técnicas de los diferentes procesos de contratación se incluya
+la información referente a la recomendación de la Comisión Técnica o designado para la calificación en
+base a los siguientes textos”.
+Al respecto, me permito poner a consideración como delegado:
+LARA ICAZA JAVIER DAVID, Cédula de cuidadanía 0924223589, Responsable Área de Diagnóstico y
+Tratamiento CCQA Hospital del Día Efrén Jurado López, en calidad de delegado de la Máxima Autoridad,
+quien la presidirá.
+21. Variación mínima de la puja (solo aplica para Subasta Inversa Electrónica)
+Variación mínima de la Puja 1%. La duración de la puja será de quince (15) minutos
+22. Obligaciones del contratista
+
+
+
+
+
+
+
+
+Entregar al Centro Clínico Quirúrgico Ambulatorio Hospital del Día Efrén Jurado López todos los
+bienes objeto de la presente contratación de acuerdo a las Especificaciones Técnicas,
+condiciones constantes en los pliegos y el plazo establecido.
+Dar cumplimiento con cualquier otra que se derive natural o legalmente del objeto del presente
+contrato y pueda ser exigible por constar en cualquier documento de él o en norma legal
+específicamente aplicable al mismo.
+El oferente adjudicado deberá presentar como documento anexo el detalle de los rubros
+(descripción, precio unitario, cantidad, precio total) de los bienes objeto de la adjudicación,
+previo a la suscripción del contrato.
+Garantizar la calidad de los bienes adquiridos por el nosocomio.
+
+DIRECCIÓN NACIONAL DE SERVICIOS
+CORPORATIVOS
+TÉRMINOS DE REFERENCIA O
+ESPECIFICACIONES
+
+
+
+
+
+
+
+
+CÓD: GAD-P03-S01-F06
+FECHA: 17/11/2020
+VERSIÓN: 1.2
+
+Página 28 de 28
+
+El contratista deberá hacer constar en la factura toda la información necesaria tales como: detalle
+de los bienes, cantidad, medida, valor unitario, valor total.
+Entregar y mantener vigentes las garantías solicitadas.
+El contratista deberá entregar al momento del despacho de los bienes objeto de la contratación los
+correspondientes CERTIFICADOS DE ANALISIS DE PRODUCTO, acorde a los lotes despachados en
+cumplimiento a lo indicado en el acápite 12.12 Otros Parámetros.
+Cumplir las disposiciones y requerimientos impartidos por el administrador.
+Suscribir el Acta de Entrega Recepción, siempre que no haya observaciones pendientes en relación
+a los bienes objetos de esta adquisición.
+
+23. Obligaciones del contratante
+
+
+
+
+
+
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del contrato, en un
+plazo de 8 días (incluye sábado, domingo y feriados) contados a partir de la petición escrita
+formulada por el contratista.
+Brindar todas las facilidades para que el contratista cumpla a entera satisfacción con el objeto de la
+presente contratación.
+Cumplir con las obligaciones determinadas en el contrato y en los documentos del mismo.
+Suscribir el/o/las Acta(s) de Entrega Recepción de los bienes recibidos, siempre que se haya
+cumplido con lo previsto en la ley para la entrega recepción; y, en general, cumplir con las
+obligaciones derivadas del contrato.
+
+FIRMAS DE
+RESPONSABILIDAD:
+
+Firmado electrónicamente por:
+
+JENNY PATRICIA
+ESCOBAR SANTANA
+
+Elaborado por:
+Ing.Q Patricia Escobar S.
+Auxiliar Farmacia
+CCQAHDDEJL
+
+Firmado electrónicamente por:
+
+VANESSA
+ELIZABETH
+CASTRO ZURITA
+
+Revisado por:
+Mgs. Vanessa Castro Zurita
+Responsable de farmacia
+CCQAHDDEJL
+FIRMA DE APROBACIÓN:
+
+Firmado electrónicamente por:
+
+ALFONSO EDUARDO
+MORA VEINTIMILLA
+
+Aprobado por:
+Dr. Alfonso Mora Veintimilla
+Director Médico
+CCQAHDDEJL
+
+

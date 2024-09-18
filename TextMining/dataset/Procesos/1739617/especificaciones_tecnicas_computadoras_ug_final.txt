@@ -1,0 +1,1293 @@
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+ESPECIFICACIONES TÉCNICAS PARA LA CONTRATACIÓN DE BIENES MEDIANTE
+SUBASTA INVERSA ELECTRÓNICA
+“ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES
+ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”
+1. OBJETO DE LA CONTRATACIÓN
+“ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA
+UNIVERSIDAD DE GUAYAQUIL”.
+
+2. ANTECEDENTES
+El Ecuador es un Estado Constitucional de Derechos y Justicia, según se desprende el Art. 1 de la Constitución
+de la República del Ecuador, por lo tanto, las Compras Gubernamentales que realicen las entidades que
+integramos el Sector Público, deben estar constitucionalizadas.
+La Universidad de Guayaquil, en su afán de mejorar su sistema de enseñanza y proporcionar un ambiente
+óptimo para sus estudiantes, personal y demás anexas a las actividades diarias de la misma; se compromete
+en dar la mayor viabilidad posible a cumplir con estos objetivos planteados a fin de sumarse a las metas que
+el Gobierno quiere alcanzar; tal como lo establece el Art. 26 de la Constitución de la República del Ecuador;
+donde indica que la educación es un derecho de las personas a lo largo de su vida y un deber ineludible e
+inexcusable del Estado. Constituye un área prioritaria de la política pública y de la inversión estatal, garantía
+de la igualdad e inclusión social y condición indispensable para el buen vivir. Las personas, las familias y la
+sociedad tienen el derecho y la responsabilidad de participar en el proceso educativo.
+Mediante Memorando Nro. UG-FII-2022-0202-M de fecha 22 de marzo de 2022, suscrito por Mgs. Ramón
+Antonio Maquilón Nicola - Decano de Facultad de Ingeniería Industrial, indica que “En atención a lo solicitado
+en el Memorando Nro. UG-DGTI-2022-0390-M en relación a la entrega de las necesidades tecnológicas de
+esta Unidad Académica de acuerdo al formato de Excel dispuesto para tal efecto; por medio del presente
+remito a usted la información requerida conforme a los parámetros establecidos para la entrega.”.
+Mediante Memorando Nro. UG-FACSO-2022-0229-M de fecha 22 de marzo de 2022, suscrito por Mgs. Troi
+Ernesto Alvarado Chávez - Decano de Facultad de Ciencias de la Comunicación Social, indica que “… adjunto
+al presente la información requerida en el mismo: Informe de Necesidades de los requerimientos
+tecnológicos de la Facultad. Necesidades tecnológicas en formato Excel y PDF con especificaciones
+técnicas.”.
+Mediante Memorando Nro. UG-FCMF-2022-0207-M de fecha 24 de marzo de 2022, suscrito por Mgs. Daniel
+Douglas Iturburu Salvador - Decano de Facultad de Ciencias de Matemáticas y Físicas, indica que “… sírvase
+encontrar anexo matriz de requerimientos tecnológicos de esta Unidad Académica.”.
+Mediante Memorando Nro. UG-FAU-2022-0290-M de fecha 25 de marzo de 2022, suscrito por Arq. Rosa Maria
+Pin Guerrero, MSc. - Decana de Facultad de Arquitectura Y Urbanismo, indica que “Se procede a realizar la
+entrega de la Matriz e Informe de necesidades tecnológicas de la Facultad de Arquitectura y Urbanismo
+según lo solicitado mediante el Memorando Nro. UG-DGTI-2022-0390-M.”.
+Mediante Memorando Nro. UG-DGTI-2022-1321-M de fecha 1 de Agosto de 2022 suscrito por Ing. Carlos
+Arturo Salazar Vera - Director de Gestión Tecnológica de la Información solicitó la certificación PAP para el
+proceso “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA
+LA UNIVERSIDAD DE GUAYAQUIL”.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+Mediante Memorando Nro. UG-CGPEA-DPPI-2022-0709-M de fecha 2 de Agosto de 2022 suscrito Por Mgs.
+David Agustín Pérez Vera - Director de Planificación y Proyectos de Inversión, emite la certificación PAP Nro.
+CGPEA-DPPI-PAP-395-2022 para el proceso “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS
+PARA LAS UNIDADES ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-DGTI-2022-1384-M de fecha 9 de Agosto de 2022 suscrito por Ing. Carlos
+Arturo Salazar Vera - Director de Gestión Tecnológica de la Información, solicitó el certificado de stock de los
+insumos que se van adquirir en el proceso “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS
+UNIDADES ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-JP-2022-0499-M de fecha 10 de Agosto de 2022 suscrito por Mgs. Wilmer
+Jouvin Trujillo - Jefe de Proveeduría, emite el certificado de no mantener stock en bodega los ítems detalladas
+para el proceso “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES
+ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-DGTI-2022-1366-M de fecha 8 de Agosto de 2022 suscrito por Ing. Carlos
+Arturo Salazar Vera - Director de Gestión Tecnológica de la Información, solicita la Certificación Presupuestaria
+para el proceso “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES
+ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+Mediante Memorando Nro. UG-DF-2022-1912-M de fecha 31 de Agosto de 2022 suscrito por Srta. Aud. Ileana
+Monserrate Peralta Bravo - Directora Financiera, emite las Certificaciones Presupuestarias Nro. 608 y 611,
+aprobadas con fecha 31 de agosto de 2022 para la “ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS
+PARA LAS UNIDADES ACADÉMICAS PARA LA UNIVERSIDAD DE GUAYAQUIL”.
+El 20 de Septiembre de 2022 se da a conocer el informe técnico y el informe de necesidad para el proceso de
+“ADQUISICIÓN DE COMPUTADORAS NO CATALOGADAS PARA LAS UNIDADES ACADÉMICAS PARA LA
+UNIVERSIDAD DE GUAYAQUIL”, donde se detalla la necesidad de adquirir equipos de cómputo para que las
+unidades académicas puedan desarrollar sus actividades diarias de una manera más óptima.
+
+3. JUSTIFICACION DE LA CONTRATACIÓN
+El buen uso de las tecnologías en las instituciones públicas hoy en día es fundamental para lograr tener una
+eficiencia estable y brindar un mejor servicio, además de que prácticamente sin el uso de estas herramientas
+los procesos de las organizaciones serían más complejos, además de que el control de la información y los
+resultados producidos no serían los más efectivos.
+Las computadoras también sufren cierto desgaste con los años, mientras más tiempo tengan, van a estar
+sujetas a mayores problemas de seguridad, desempeño, diversos gastos de actualización y mantenimiento,
+garantía e incompatibilidad con nuevos programas y tecnologías, además de que van utilizando más energía
+por el desgaste de sus componentes y batería. Esto se traduce en gastos de tiempo y dinero. Una nueva
+computadora ayudará a ejecutar programas con mayor rapidez, creando contenidos hasta 20% más rápido
+que el equipo anterior. Los equipos nuevos tienen, entre otras características, la ventaja de contar con una
+batería de mayor duración, tal es el caso de los equipos laptops, en la cual algunos equipos tienen una
+duración alrededor de 9 horas, en las que se puede trabajar, sin tener que conectarse.
+La Universidad de Guayaquil a través de la Dirección de Gestión Tecnológica de la Información tiene como
+objetivo principal dotar a los diferentes decanatos de la Administración Central de equipos informáticos
+actualizados con tecnología de punta que permitan el buen desarrollo de las actividades diarias.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+En las unidades académicas, actualmente los equipos existentes en sus diferentes áreas presentan fallas en
+sus componentes ya que son obsoletos o descontinuados, repercutiendo en un proceso de lentitud a la hora
+de trabajar, con sobrecalentamiento del equipo y daño de sus partes, por lo que es necesario ser
+reemplazados en el transcurso de los 4 o 5 años de su vida útil, pese a los mantenimientos preventivos y
+correctivos que se ejecuten, no alcanza el nivel de satisfacción y operatividad que amerita este departamento.
+
+4. OBJETIVOS
+Objetivo General:
+
+
+Adquisición de computadoras no catalogadas para las unidades académicas para la Universidad
+de Guayaquil.
+
+Objetivo específico:
+
+
+Contar con equipos de tecnología de punta que ofrezca las mejores condiciones tecnológicas para
+los usuarios finales.
+
+
+
+Brindar acceso a recursos digitales a personal administrativo, docentes y estudiantes, a fin de que
+puedan cumplir con sus actividades académicas.
+
+
+
+
+Sustituir y reemplazar los equipos informáticos que han cumplido con su vida útil.
+Asegurar que los equipos informáticos funcionen de forma correcta y eficiente.
+
+5. ALCANCE
+Comprar equipos de computación para las diferentes Unidades Académicas de la Universidad de Guayaquil
+con el fin de reemplazar o habilitar nuevos equipos informáticos para garantizar el buen funcionamiento y
+desarrollo de las actividades académicas y administrativas.
+
+6. INFORMACION QUE DISPONE LA ENTIDAD
+Las diferentes unidades académicas dieron a conocer sus necesidades de adquirir equipos tecnológicos
+mediante memorando, mismos que se detallan a continuación:
+UNIDADES ACADÉMICAS
+
+MEMORANDO - NECESIDAD
+
+Facultad de Ingeniería Industrial
+Facultad de Ciencias de la Comunicación Social
+Facultad de Ciencias de Matemáticas y Físicas
+Facultad de Arquitectura Y Urbanismo
+
+UG-FII-2022-0202-M
+UG-FACSO-2022-0229-M
+UG-FCMF-2022-0207-M
+UG-FAU-2022-0290-M
+
+Se anexa al presente expediente la siguiente información:
+
+
+
+
+Informe técnico.
+Informe de necesidad.
+Informe de stock de bodega de la Jefatura de Proveeduría.
+
+7. PRODUCTOS O SERVICIOS ESPERADOS
+Los proveedores que deseen participar en este proceso de contratación pública deberán cumplir con las
+especificaciones técnicas requeridas, ofertar los servicios de manera clara y precisa, así como los principios
+que determina la Ley del Sistema Nacional de Contratación Pública, como son legalidad, trato justo, igualdad,
+calidad, vigencia tecnológica, oportunidad, concurrencia, transparencia, publicidad y participación nacional.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+La Universidad de Guayaquil detalla en el presente documento las condiciones mínimas a ser adquiridas sin
+embargo el proveedor podrá ofertar bienes de las mismas o mejores condiciones a las requeridas, siempre y
+cuando dichas mejoras se encuentren establecidas y/o estipuladas en la oferta.
+Para cualquier condición o situación técnica que pudiera corresponder a una marca en particular, la
+Universidad de Guayaquil aceptará también sus equivalentes.
+Por cada proceso generado de computadoras se deberá obligatoriamente entregar a la entidad el certificado
+actualizado de que los equipos son originales, nuevos y NO reformados, NO remanufacturados, NO
+reemsamblados, (REFURBISHED), etc. con el respectivo número de serie de cada computador por parte del
+ensamblador.
+A continuación, se detallan las especificaciones técnicas:
+BIEN
+
+CANT.
+
+ESPECIFICACIONES TECNICAS
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 1
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+10
+PANTALLA
+MEMORIA
+DISCO DURO
+COMUNICACIONES
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 2
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+10
+PANTALLA
+MEMORIA
+TRARJETA GRAFICA
+DISCO DURO
+COMUNICACIONES
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+COMPUTADORAS
+DE ESCRITORIO
+
+13
+
+PROCESADOR
+
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Frecuencia turbo máxima
+Mínimo 4,90 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 19"
+Mínimo 16 GB
+Mínimo 1TB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y quemador de
+CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Frecuencia turbo máxima
+Entre 5,10 GHz - 5,20 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 22"
+Mínimo 32 GB
+INTEGRADA
+Mínimo 1TB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y quemador de
+CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+MODELO 3
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+PANTALLA
+MEMORIA
+TRARJETA GRAFICA
+DISCO DURO
+COMUNICACIONES
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 4
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+14
+
+PANTALLA
+MEMORIA
+TRARJETA GRAFICA
+DISCO DURO
+COMUNICACIONES
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+PROCESADOR
+
+COMPUTADORAS
+DE ESCRITORIO
+MODELO 5
+CPC: 452300035
+
+SISTEMA
+OPERATIVO
+10
+PANTALLA
+MEMORIA
+TRARJETA GRAFICA
+DISCO DURO
+COMUNICACIONES
+PUERTOS Y
+CONECTORES
+INCLUYE
+
+Frecuencia turbo máxima
+Entre 5,10 GHz - 5,20 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 19"
+Mínimo 32 GB
+Mínimo 4GB
+Mínimo 500 GB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y quemador de
+CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Frecuencia turbo máxima
+Entre 5,10 GHz - 5,20 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 19"
+Mínimo 16 GB
+Mínimo 2 GB
+Mínimo 500 GB SSD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+WIFI 6
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y quemador de
+CD/DVD
+Cantidad de núcleos
+Mínimo 8
+Cantidad de subprocesos
+Mínimo 16
+Frecuencia turbo máxima
+Mínimo 4,90 GHz
+Caché
+Mínimo 16 MB
+TDP
+Mínimo 65 W
+Arquitectura mínimo 64 bits
+Interfaz gráfica amigable al usuario final
+Sistemas de archivos FAT32, o NTFS
+Soporte vigente del proveedor/fabricante
+Sistema operativo pre-instalado y propietario
+Mínimo 23"
+Mínimo 16 GB
+Mínimo 6GB
+Mínimo 500GB SSD + 1TB HDD PCIe NVMe M.2
+Tarjeta de Red 10/100/1000 GbE
+Mínimo 1 HDMI, 1 RJ-45, 2USB, 1 conector de
+micrófono/auriculares
+Teclado en español, mouse óptico, lector y quemador de
+CD/DVD
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+MANTENIMIENTO
+PREVENTIVO
+CPC 871300011
+
+171
+
+57 Computadoras a las que se le realizará 1 mantenimiento anual por 3 años
+
+APLICACIÓN DE VIGENCIA TECNOLÓGICA
+
+Mantenimiento preventivo.
+CPC 871300011
+
+Se deberá realizar 1 mantenimiento preventivo anualmente a partir de la fecha de
+entrega-recepción definitiva durante el tiempo de vida útil del bien, que para el caso
+de las computadoras es de 4 años (tiempo determinado por la U.G.), siendo el primer
+año para de la Garantía Técnica y los 3 años restantes por vigencia tecnológica de
+acuerdo con lo dispuesto en el Art. 132 de la Resolución SERCOP RE-SERCOP-20160000072 de fecha 31 de agosto de 2016.
+
+CRONOGRAMA MANTENIMIENTO PREVENTIVO
+
+BIEN
+
+COMPUTADORA DE
+ESCRITORIO
+
+CANT
+
+57
+
+AÑO 1
+FECHA DE
+MANTENIMIENTO
+
+AÑO 2
+FECHA DE
+MANTENIMIENTO
+
+AÑO 3
+FECHA DE
+MANTENIMIENTO
+
+INICIO
+
+FIN
+
+INICIO
+
+FIN
+
+INICIO
+
+FIN
+
+DIA 1
+
+DIA 5
+
+DIA 1
+
+DIA 5
+
+DIA 1
+
+DIA 5
+
+GENERALIDADES:
+1.
+2.
+
+3.
+4.
+5.
+
+6.
+7.
+
+8.
+
+Los equipos que forman parte de la solución tienen que ser nuevos de fábrica, no – remanufacturados,
+no restaurados, no reacondicionados y no – reconstruidos.
+La fecha de fabricación de los equipos (incluyendo partes y piezas) a ser ofertado, deben de ser de las
+últimas generaciones a fin de garantizar su utilización con tecnología de punta, en concordancia con la
+política pública de vigencia tecnológica.
+Toda la solución (componentes de hardware y software) debe entregarse funcionando bajo todos los
+parámetros de la oferta.
+La puesta en funcionamiento de los equipos y componentes que forman parte de la solución deben
+cumplir las especificaciones y requerimientos del fabricante para su correcto funcionamiento.
+Los equipos que se entreguen deberán estar identificados con los datos de placa o chapa como son:
+marca, modelo, serie y además datos de identificación específica del equipo, no se permitirá las series,
+modelo u otros sobre montados o como sticker, debiendo ser equipos totalmente originales.
+En el momento de la recepción de los equipos ofertados, estos deberán contar con los respetivos sellos
+de fábrica intactos.
+El contratista deberá entregar la documentación técnica de respaldo o documentos emitidos por el
+fabricante o páginas web debidamente identificadas con la dirección electrónica con acceso directo al
+sitio donde se encuentra el equipamiento, en los cuales se demuestre que los bienes ofertados cumplen
+con las especificaciones técnicas.
+La oferta deberá incluir el servicio de mantenimiento preventivo periódico y correctivo durante la vida
+útil del bien.
+
+VIGENCIA TECNOLÓGICA
+De acuerdo a la Resolución No RE-SERCOP-2016 0000072 CAPÍTULO III del Principio de Vigencia Tecnológica
+Sección I en el cual se hace referencia a la adquisición arrendamiento y prestación de servicios en los que se
+requiera de equipos informáticos, equipos de impresión, vehículos, equipos médicos y proyectores la misma
+que en sus artículos indica.
+Art.115.- Política Pública de Vigencia Tecnológica. - El principio de vigencia tecnológica en los procedimientos
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+de contratación pública de adquisición de bienes, arrendamiento, así como la prestación de servicios
+relacionados con el uso de los bienes específicos detallados en el artículo precedente, es de uso obligatorio
+para las entidades contratantes a fin de garantizar la utilización de los mismos con tecnología de punta para
+la prestación de servicios públicos efectivos y eficientes.
+Para el trámite de este procedimiento se considerará lo establecido en los artículos 114 a 138, de la
+Codificación y Actualización de las Resoluciones Emitidas por el SERCOP, en lo que fuere aplicable.
+
+8. PLAZO DE EJECUCIÓN
+En el cómputo del plazo de duración del contrato, prórrogas y multas se cuentan todos los días, desde
+el día siguiente de la suscripción del contrato o desde el día siguiente de cumplirse las condiciones
+establecidas en los pliegos o en el propio contrato.
+El plazo para la entrega de la totalidad de los bienes contratados (instalados, puestos en
+funcionamiento y probados, así como la capacitación, de ser el caso), a entera satisfacción de la
+contratante es de Setenta (70 días), contados a partir del día siguiente de la notificación por escrito
+por parte del administrador del contrato respecto de la disponibilidad del anticipo, en la cuenta
+bancaria proporcionada por el contratista.
+El plazo para la entrega de la totalidad de los servicios contratados (mantenimientos preventivos) a
+entera satisfacción del contratante es de MIL CUATROCIENTOS SESENTA (1460) días, contados a partir
+de la entrega de la totalidad de los bienes contratados (instalados, puestos en funcionamiento y
+probados, así como la capacitación).
+El plazo total del contrato es de 1530 días.
+
+9. PRESUPUESTO REFERENCIAL, FORMA Y CONDICIONES DE PAGO
+El valor de la oferta deberá cubrir todos los costos directos e indirectos que se deriven del contrato. Los
+precios presentados por el proveedor son de su exclusiva responsabilidad.
+BIEN
+COMPUTADORAS DE ESCRITORIO MODELO 1
+CPC: 452300035
+COMPUTADORAS DE ESCRITORIO MODELO 2
+CPC: 452300035
+COMPUTADORAS DE ESCRITORIO MODELO 3
+CPC: 452300035
+COMPUTADORAS DE ESCRITORIO MODELO 4
+CPC: 452300035
+COMPUTADORAS DE ESCRITORIO MODELO 5
+CPC: 452300035
+MANTENIMIENTO PREVENTIVO ANUAL POR 3 AÑOS
+CPC: 871300011
+
+CANT.
+
+V. UNIT.
+
+10
+
+$ 1.234,78
+
+$
+
+12.347,80
+
+10
+
+$ 1.815,87
+
+$
+
+18.158,70
+
+13
+
+$ 2.041,00
+
+$
+
+26.533,00
+
+14
+
+$ 1.684,19
+
+$
+
+23.578,66
+
+10
+
+$ 2.065,00
+
+$
+
+20.650,00
+
+171
+
+$
+
+$
+
+2.376,90
+
+SUBTOTAL
+
+$
+
+103.645,06
+
+IVA 12%
+
+$
+
+12.437,41
+
+TOTAL
+
+$
+
+116.082,47
+
+13,90
+
+V. TOTAL
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+Por concepto de mantenimiento preventivo anual de las computadoras, el presupuesto referencial
+determinado durante el tiempo de vida útil será desglosado de la siguiente forma:
+PROYECCIÓN DE MANTENIMIENTO
+BIEN
+
+CANT. V. UNIT.
+
+COMPUTADORAS
+DE ESCRITORIO
+
+57
+
+AÑO 0
+GARANTÍA
+
+AÑO 1
+
+AÑO 2
+
+AÑO 3
+
+TOTAL DE
+MANTENIMIENTO
+
+13,90
+
+$0
+
+$
+
+792,30
+
+$
+
+792,30
+
+$
+
+792,30
+
+$
+
+2.376,90
+
+SUBTOTAL
+
+$0
+
+$
+
+792,30
+
+$
+
+792,30
+
+$
+
+792,30
+
+$
+
+2.376,90
+
+12% IVA
+
+$0
+
+$
+
+95,08
+
+$
+
+95,08
+
+$
+
+95,08
+
+$
+
+285,23
+
+TOTAL
+
+$0
+
+$
+
+887,38
+
+$
+
+887,38
+
+$
+
+887,38
+
+$
+
+2.662,13
+
+Nota: El año 0 corresponde a la garantía de fábrica sin costo para la Universidad de Guayaquil.
+El precio ofertado deberá incluir:
+ Transporte hasta el sitio de entrega y el costo del seguro correspondiente
+ Los costos de instalación y puesta en operación, incluyendo los accesorios, materiales y mano de
+obra necesarios para la instalación y puesta en operación de los equipos (de ser el caso)
+ Los costos de las pruebas necesarias para verificar el cumplimiento de las especificaciones técnicas
+descritas en los pliegos, y para verificar el óptimo funcionamiento del equipo
+ Todos los costos directos o indirectos para el correcto cumplimiento del objeto contractual
+
+FORMA DE PAGO
+Los pagos están divididos en relación con el valor total de los bienes y el costo de mantenimiento preventivo,
+correspondiente a la vigencia tecnológica (3 años posteriores a la garantía de fábrica) y se desglosa de la
+siguiente manera:
+Se establece como anticipo el 50% del costo total de los bienes, la entrega del anticipo será una vez suscrito
+el contrato, y previa a entrega de las garantías correspondientes.
+La cancelación del saldo de los equipos es correspondiente al 50% del costo total de los bienes, el cual se
+cancelará presentando los siguientes documentos:
+ Acta de entrega / recepción
+ Factura por parte del contratista
+ Informe de satisfacción por parte del Administrador de contrato
+ Ingreso a bodega
+ Demás documentos habilitantes para el pago
+
+Condiciones de pago para mantenimiento preventivo y/o correctivo
+Se deberá entregar el cronograma del mantenimiento preventivo de los bienes que aplica la vigencia
+tecnológica, que corresponderá a un mantenimiento por año.
+Los pagos por los mantenimientos preventivos y/o correctivos se realizarán de acuerdo con el cronograma
+aprobado por el Administrador de contrato y cuando sean efectivamente utilizados por la entidad contratante
+conforme a lo siguiente:
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+
+
+
+
+El mantenimiento preventivo se lo realizará después del primer año de garantía técnica y se lo
+cancelará de manera anual por tres años una vez realizado.
+Se procederá al pago de los servicios previa presentación del informe por parte del proveedor del
+mantenimiento preventivo realizado de acuerdo con lo detallado en el manual de fabricante, informe
+de conformada del administrador de contrato y presentación de factura, y demás documentación
+pertinente para el pago.
+Respecto del mantenimiento preventivo, la factura deberá considerar por concepto de mano de obra
+el correspondiente al programa de mantenimiento.
+
+En el caso de la prestación de los servicios de mantenimiento correctivo, la entidad contratante deberá
+cancelar los valores correspondientes contra la presentación de la factura. Los valores por pagar se realizarán
+con cargo al presupuesto del año fiscal correspondiente.
+
+10. LUGAR Y FORMA DE ENTREGA DEL BIEN O SERVICIO
+La entrega de los bienes solicitados se realizará en las instalaciones de la Universidad de Guayaquil ubicada
+en la Ciudadela Universitaria, Malecón del Salado entre Av. Fortuna Safadi (Av. Delta) y Av. Kennedy, previa
+coordinación con el Administrador de Contrato.
+La entrega se realizará con la presencia de los miembros de la comisión de recepción, es decir el
+administrador del contrato y un técnico que no haya intervenido en el proceso de acuerdo a lo que se
+estipula el Art. 325 del RGLOSNCP, además de la presencia de un delegado de la Jefatura de Proveeduría.
+
+11. GARANTÍA
+En caso de que haya daños o defectos de fabricación, deficiencias en los trabajos de mantenimiento y la
+reparación del daño supere los 5 días hábiles, el contratista deberá entregar a la Universidad de Guayaquil en
+calidad de préstamo sin costo alguno un equipo de igual o mejor característica hasta que el daño o defecto
+sea solucionado, esto con el fin de que no se obstaculice la continuidad de los servicios que la Universidad de
+Guayaquil”.
+El oferente adjudicado, previo a la suscripción del contrato, deberá presentar las garantías originales de los
+bienes a ser adquiridos a la Procuraduría Sindica.
+Las garantías se establecerán de conformidad con los artículos 74,75 y 76 de la Ley Orgánica del Sistema
+Nacional de Contratación Pública.
+Garantía de Fiel Cumplimiento. - Para seguridad del cumplimiento del contrato y para responder por las
+obligaciones que contrajeren a favor de terceros, relacionadas con el contrato, el adjudicatario, antes o al
+momento de la firma del contrato, rendirá garantías por un monto equivalente al cinco (5%) por ciento del
+valor de aquel.
+Garantía por Anticipo. - Si por la forma de pago establecida en el contrato, la Entidad Contratante debiera
+otorgar anticipos de cualquier naturaleza, sea en dinero, giros a la vista u otra forma de pago, el contratista
+para recibir el anticipo, deberá rendir previamente garantías por igual valor del anticipo, que se reducirán en
+la proporción que se vaya amortizando aquél o se reciban provisionalmente las obras, bienes o servicios.
+Garantía Técnica. - De conformidad con el Art. 76 de la Ley Orgánica del Sistema Nacional de Contratación
+Pública, el oferente otorgará una garantía técnica no menor a 1 año y un mantenimiento preventivo de 3 años
+por la vida útil del equipo ofertado.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+La garantía técnica incluye mantenimiento preventivo, calibraciones y correctivo, en este último se debe
+especificar los repuestos que se encuentren dentro de la garantía (debe presentar los repuestos que cubren
+la garantía).
+Además de las garantías antes mencionadas, se debe dar cumplimiento a las garantías en aplicación a la
+vigencia lo siguiente:
+“Art. 121.- Garantías técnicas. - A más de las garantías que prevé el artículo 8 del Decreto Ejecutivo No. 1515
+de 15 de mayo de 2013, en el caso de la adquisición y/o arrendamiento de bienes, en los pliegos y el contrato,
+se contemplará lo siguiente:
+1.- En la adquisición de los bienes:
+a) Reposición inmediata ante defectos de fabricación, deficiencias en los trabajos de mantenimiento, ausencia
+de repuestos, accesorios, piezas y partes del bien, entre otros, que obstaculicen su normal funcionamiento y
+la continuidad en la prestación de los servicios a los ciudadanos;
+b) Vigencia de la garantía técnica durante la vida útil;
+c) Mantenimiento preventivo periódico y correctivo durante la vida útil; y,
+d) Reposición temporal de los bienes durante los trabajos de mantenimiento que impidan su utilización.
+2.- Además, en los dos casos, la garantía técnica deberá incluir:
+a) Cobertura de repuestos, accesorios, partes y piezas de los bienes, para lo cual el proveedor deberá
+garantizar su disponibilidad durante el tiempo de vigencia de la garantía técnica.
+b) Provisión de los repuestos, accesorios, partes y piezas necesarias para el mantenimiento preventivo
+periódico y correctivo;
+c) Procedimientos claros, precisos y efectivos para la ejecución de la garantía técnica y casos específicos en
+los cuales se garantice la reposición temporal y definitiva de los bienes, así como identificación clara de las
+exclusiones de cobertura de la garantía técnica;
+d) Tiempos de respuesta óptimos y plazos máximos para el mantenimiento preventivo periódico, correctivo y
+reposición temporal o definitiva de los bienes; y,
+e) Disposición de talleres de servicio autorizados para el mantenimiento preventivo periódico o correctivo del
+bien.
+
+12. EXPERIENCIA ESPECÍFICA MÍNIMA
+TIPO DE
+EXPERIENCIA
+
+MONTO
+MÍNIMO POR
+CONTRATO
+
+TEMPORALIDAD
+
+NUMERO DE
+PROYECTOS
+
+MONTO
+MÍNIMO
+
+5 años previos
+a la publicación
+ESPECIFICA
+del
+Para acreditar su experiencia con
+procedimiento
+entidades del sector privado deberá
+de contratación
+presentar: mínimo una (1) copia legible
+
+MÍNIMO
+1
+
+USD
+USD
+$
+$ 1.036,00
+10.364,00
+
+DESCRIPCIÓN
+El
+Oferente
+deberá
+demostrar
+experiencia específica dentro de los
+últimos 5 cinco años en venta de
+computadoras, para lo cual deberá
+presentar como mínimo un (1)
+documento que certifique experiencia
+en lo solicitado y cuya sumatoria no
+podrá ser menor a USD $ 10.364,00.
+
+de factura con fecha de emisión anterior
+a la publicación del presente proceso con
+su respectivo comprobante de retención
+donde se detalle claramente los
+productos que han sido comercializados
+y su valor.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+TIPO DE
+EXPERIENCIA
+
+DESCRIPCIÓN
+
+TEMPORALIDAD
+
+NUMERO DE
+PROYECTOS
+
+MONTO
+MÍNIMO
+
+MONTO
+MÍNIMO POR
+CONTRATO
+
+Para acreditar su experiencia con
+entidades del sector público deberá
+presentar: mínimo una (1) copia de
+contrato con su respectiva acta de
+entrega-recepción definitiva y factura,
+en las cuales se pueda constatar el
+servicio dado y su valor.
+La experiencia podrá ser acumulable
+mediante la presentación de varios
+documentos a elección del oferente. El
+oferente puede presentar experiencia
+con entidades del sector público o
+privadas, o una combinación de ambas.
+
+13. PERSONAL TECNICO MINIMO Y EXPERIENCIA DEL PERSONAL TECNICO
+NRO.
+
+FUNCIÓN
+
+CANT.
+
+NIVEL DE
+ESTUDIO
+
+1
+
+TÉCNICO
+PRINCIPAL
+
+1
+
+Superior
+
+FUENTE O MEDIO DE
+VERIFICACIÓN
+Ingeniero o tecnólogo en Sistemas  Hoja de vida
+Computacionales o Telemática o  Copia de título universitario
+Telecomunicaciones o Informática  Registro de Senescyt
+TITULACIÓN ACADÉMICA
+
+Experiencia mínima del personal técnico
+NRO.
+
+FUNCIÓN
+
+1
+
+TÉCNICO
+PRINCIPAL
+
+CANT.
+
+EXPERIENCIA MÍNIMA
+
+1
+
+Soporte Técnico,
+Mantenimiento
+preventivo y correctivo
+de equipos de cómputo.
+
+TIEMPO DE
+EXPERIENCIA MÍNIMA
+
+FUENTE O MEDIO DE VERIFICACIÓN
+
+1 año
+
+Certificado laboral que acredite el
+nivel profesional y la experiencia en
+soporte técnico o mantenimientos a
+equipos informáticos.
+
+14. EQUIPO MINIMO
+No aplica.
+15. PARAMETROS DE EVALUACIÓN
+La integridad de la oferta se evaluará considerando la presentación de los formularios y requisitos mínimos
+previstos en el pliego. Para la verificación del cumplimiento de los requisitos mínimos se usará la metodología
+“CUMPLE O NO CUMPLE”.
+Cuadro de verificación de cumplimiento de requisitos mínimos:
+
+PARÁMETRO
+Integridad de la oferta
+Experiencia especifica
+Personal técnico
+
+CUMPLE
+
+NO CUMPLE
+
+OBSERVACIONES
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+Experiencia mínima del personal técnico
+Otros parámetros
+Cumplimiento de especificaciones técnicas
+Variación mínima de la puja: 1%
+Vigencia de la oferta: 90 días
+
+16. OTROS PARÁMETROS RESUELTOS POR LA ENTIDAD CONTRATANTE (DE SER EL CASO)
+El oferente deberá también presentar en su oferta:
+N°
+
+PARÁMETRO
+
+1
+
+CATÁLOGO DE
+PRODUCTO
+
+2
+
+CERTIFICADOS DE
+DISTRIBUIDOR
+
+3
+
+4
+
+5
+
+6
+
+CERTIFICADOS DE
+ORIGINALIDAD
+EMITIDOS POR LOS
+FABRICANTES
+TABLA DE
+PRODUCTOS
+OFERTADOS
+
+DIMENSIÓN
+El oferente deberá presentar catálogos o folletos indicando detalladamente las
+características de lo ofertado, las imágenes deberán ser verídicas en cuanto a lo
+ofertado de forma digital. Esta información será evaluada por la comisión, misma que
+permitirá la constatación del cumplimiento de las especificaciones técnicas. Dichos
+folletos, catálogos, manuales deben contener fotos claras y demás detalles como
+marca, procedencia y aspectos técnicos de los bienes requeridos. Esta información
+será primordial para la evaluación de la oferta si la misma no está justificada con
+documentación de respaldo se entenderá como no valida.
+Documentos que serán en idioma ESPAÑOL
+Los oferentes participantes deberán presentar como requisito mínimo de la oferta,
+certificados actualizados, de ser distribuidores, vendedores o canales autorizados de
+cada marca ofertada emitidos por el fabricante.
+El oferente deberá presentar los certificados actualizados de originalidad o
+autenticidad emitidos por los fabricantes por cada marca ofertada.
+
+El Oferente deberá presentar el listado de los bienes requeridos, detallando sus
+especificaciones técnicas, presentación, marca, precio unitario y demás parámetros
+requeridos.
+El Oferente deberá incluir en su oferta una carta de compromiso que indique que
+COMPROMISO DE
+sin costo alguno para la Institución se incluye el transporte y descarga de los bienes
+TRANSPORTE
+a contratar hasta el sitio de entrega en LA UNIVERSIDAD DE GUAYAQUIL
+Deberá presentar una carta de compromiso de que en caso que los equipos
+presenten fallas imputables al transporte, estos serán reemplazados con cargo al
+CARTA
+proveedor, igualmente aquellos productos que sin causa justificable presenten
+COMPROMISO alteraciones o modificaciones de su aspecto físico o
+CAMBIO POR FALLAS
+forma de presentación, deberán ser canjeados por otro de manera inmediata, por
+cuenta del proveedor.
+
+17. MULTAS
+Las multas se impondrán por retardo en la ejecución de las obligaciones contractuales conforme al
+cronograma, así como por incumplimientos de las demás obligaciones contractuales, las que se determinarán
+por cada día de retardo; las multas se calcularán sobre el 2x1000 de las obligaciones que se encuentran
+pendientes de ejecutarse conforme lo establecido en el contrato.
+En todos los casos, las multas serán impuestas por el administrador del contrato, el cual establecerá el
+incumplimiento, fechas y montos. Las multas impuestas al contratista pueden ser impugnadas en sede
+administrativa, a través de los respectivos recursos, o en sede judicial o arbitral.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+18. OBLIGACIONES DE LAS PARTES
+18.1 Obligaciones del Contratista
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El contratista se obliga a suscribir el contrato dentro del plazo establecido en los pliegos.
+El contratista está obligado a cumplir con cualquiera otra que se derive natural y legalmente del
+objeto del contrato y sea exigible por constar con cualquier documento del mismo o en norma legal
+específicamente aplicable.
+Durante el plazo de vigencia de la garantía técnica, si la Universidad de Guayaquil solicitare el
+cambio de los bienes adquiridos considerados defectuosos, el contratista deberá acercarse a la
+Universidad de Guayaquil para retirar el bien y/o insumo considerado defectuoso, y procederá a
+reemplazar en un plazo máximo de 2 días el bien indicado, contado a partir de la petición escrita
+formulada por el Administrador del Contrato, por otro nuevo de la misma calidad y condición sin
+costo adicional alguno para la entidad contratante y con la misma garantía técnica otorgada al
+producto original, excepto si los daños hubieren sido ocasionados por el mal uso de los mismos por
+parte del personal de la institución.
+El contratista cumplirá con el plazo contractual convenido, del servicio objeto de la contratación, de
+acuerdo con los pliegos, Especificaciones Técnicas y la oferta presentada.
+El contratista revisar cuidadosamente el pliego y cumplir con todos los requisitos solicitados en él.
+Su omisión o descuido al revisar los documentos no le relevará de cumplir lo señalado en su
+propuesta.
+El contratista cumplir a cabalidad con las obligaciones determinadas en este instrumento y a lo
+previsto en el pliego a entera satisfacción de la Universidad de Guayaquil.
+Dar cumplimiento a las disposiciones del administrador del contrato.
+El/ la contratista se compromete durante la ejecución del contrato a facilitar a las personas
+designadas por la Universidad de Guayaquil, toda la información y documentación que estas soliciten
+para disponer de un pleno conocimiento técnico relacionado con la ejecución del contrato.
+El precio deberá incluir el transporte hasta el sitio de entrega, es decir todos los costos directos e
+indirectos para que el oferente entregue los bienes a entera satisfacción en el lugar establecido por
+la entidad contratante.
+El/la contratista deberá cumplir con las disposiciones establecidas en el Decreto Ejecutivo 1515 y en
+el capítulo III “Principio de vigencia Tecnológica" de la Resolución SERCOP-2016-000072, en los
+casos que aplique.
+El/la contratista deberá obligatoriamente entregar a la entidad el certificado actualizado de que los
+equipos son originales, nuevos y NO reformados, NO remanufacturados, NO reemsamblados,
+(REFURBISHED), etc. con el respectivo número de serie de cada computador por parte del
+ensamblador.
+Durante el tiempo de garantía, el contratista brindará soporte técnico en horarios laborables, con un
+tiempo de respuesta máximo de 2 horas y tiempo de solución a incidentes máximo en 2 días.
+Presentación de cronograma de mantenimiento preventivo de los bienes que poseen vigencia
+tecnológica dentro de los años de vida útil.
+El contratista adjudicado deberá coordinar con la entidad contratante el servicio de mantenimiento
+preventivo, a fin de que su ejecución sea comunicada al menos con 72 horas de anticipación para la
+prestación del servicio, en el cual deberá presentar el cronograma del servicio de mantenimiento
+preventivo de los bienes con vigencia tecnológica.
+El equipo que se entregue deberá estar identificado con los datos de placa o chapa como son: marca,
+modelo, serie y demás datos de fabricación especifica del equipo, no se permitirá las series, modelos
+u otros sobre montados o como sticker, debiendo ser equipos totalmente originales adicionalmente
+debe incluir los teléfonos de contacto, correos electrónicos, pagina web, etc. para el caso de
+emergencia de fábrica, distribuidor y servicio técnico.
+Entregar el equipo en perfecto estado de conservación y con las debidas seguridades del caso, es
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+decir que al momento de la entrega de los bienes serán verificados por el administrador del
+contrato.
+
+
+
+
+
+
+
+
+
+
+
+
+
+El contratista deberá entregar los manuales de uso, operación y mantenimiento, los que deberán
+encontrarse en idioma español y cuya entrega se efectuará conjuntamente con los bienes
+suministrados. Los juegos de manuales estarán integrados por Manual de Uso y Operación, y Manual
+de Servicio Técnico
+El contratista deberá realizar la entrega de los bienes en la sección de proveeduría de la Universidad
+de Guayaquil ubicada en la Cdla. Universitaria, Malecón del Salado entre Av. Delta y Av. Kennedy,
+previa coordinación con el Administrador de Contrato en horarios laborales, con el fin que la
+institución pueda ejecutar las funciones y actividades de las cuales es responsable, sin ningún costo
+adicional por transporte, almacenaje, o similares, y de acuerdo a las condiciones requeridas en los
+pliegos y contrato.
+El contratista deberá garantizar la cobertura de repuestos, accesorios, partes y piezas de los bienes,
+para lo cual deberá garantizar su disponibilidad durante el tiempo de vigencia de la garantía técnica.
+El contratista dará una capacitación sin costo alguno, sobre el uso del equipo, cuidado y
+mantenimiento del equipo, al personal designado por la Institución. La capacitación en el manejo y
+mantenimiento de los equipos deberá realizarse al menos a dos funcionarios de la entidad, de
+manera presencial y sin costo alguno, la cual contendrá un programa detallado del manejo del
+equipo para garantizar la transferencia de la tecnología instalada. Al menos deberá contener los
+siguientes módulos:
+a) Presentación y descripción de las especificaciones técnicas del equipo.
+b) Procedimiento antes del encendido de los equipos.
+c) Funcionamiento de los equipos bajo condiciones de operación normales.
+d) Procedimiento en situaciones de emergencia. Solución de problemas.
+e) Asesoramiento sobre medidas de mantenimiento preventivas.
+f) Ejercicios prácticos para la mejora de la rutina diaria del manejo de los equipos.
+g) Instrucciones para un rápido procedimiento de sustitución de piezas de recambio.
+h) Medidas de seguridad estrictas y necesarias para el manejo de los equipos.
+i) Recomendaciones para asegurar una operación económica y eficiente del equipo.
+El contratista deberá justificar con la respectiva documentación las capacitaciones realizadas.
+En caso de que haya daños o defectos de fabricación, deficiencias en los trabajos de mantenimiento
+y la reparación del daño supere los 5 días hábiles, el contratista deberá entregar a la Universidad de
+Guayaquil en calidad de préstamo sin costo alguno un equipo de igual o mejor característica hasta
+que el daño o defecto sea solucionado, esto con el fin de que no se obstaculice la continuidad de
+los servicios que la Universidad de Guayaquil”.
+El costo de la instalación física del equipo y de todos los accesorios que el mismo necesite para un
+trabajo adecuado, correrá a cargo del proveedor.
+Cronograma de mantenimiento preventivo, de los bienes que aplica la vigencia tecnológica, que
+corresponderá a un mantenimiento por año.
+
+18. 2 Obligaciones de la Universidad de Guayaquil
+
+
+
+
+
+
+Designar al Administrador del Contrato.
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del contrato, en un
+plazo de (02) días contados a partir de la petición escrita formulada por el contratista.
+Suscribir las actas de entrega recepción de los bienes recibidos, siempre que se haya cumplido con
+lo previsto en la ley para la entrega recepción; y, en general, cumplir con las obligaciones derivadas
+del contrato.
+Facilitar al contratista las condiciones necesarias para el cumplimiento y ejecución del contrato en
+forma oportuna.
+
+UNIVERSIDAD DE GUAYAQUIL
+DIRECCIÓN DE GESTIÓN TECNOLÓGICA DE LA INFORMACIÓN
+
+19. TERMINO PARA LA SOLUCIÓN DE PROBLEMAS (# DIAS)
+Si respecto de la divergencia o controversia existentes no se lograre un acuerdo directo entre las partes, estas
+se someterán al procedimiento establecido en la ley de la jurisdicción contencioso administrativo que ejerce
+jurisdicción en el domicilio de la entidad contratante.
+La legislación aplicable es la ecuatoriana en consecuencia el contratista declara conocer el ordenamiento
+jurídico ecuatoriano y, por lo tanto, se entiende incorporado el mismo en todo lo que sea aplicable al presente.
+El contratista deberá dar la solución de los problemas o peticiones por la entidad contratante, en un plazo de
+2 días a partir de la petición por escrito.
+Fecha: 20 de Septiembre de 2022.
+
+FUNCIONARIOS
+
+Elaborado
+por:
+
+Ing. Eleana Ordoñez Vega
+Asistente de Infraestructura Informática 2
+Dirección de Gestión Tecnológica de la Información.
+
+Revisado
+por
+
+Ing. Carlos Navarrete Martínez
+Jefe de Infraestructura de Infraestructura
+Dirección de Gestión Tecnológica de la Información
+
+Aprobado
+por:
+
+Ing. Carlos Salazar Vera
+Director
+Dirección de Gestión Tecnológica de la Información
+
+FIRMAS
+Firmado electrónicamente por:
+
+ELEANA
+ELIZABETH
+ORDONEZ VEGA
+
+Firmado electrónicamente por:
+
+CARLOS FERNANDO
+NAVARRETE MARTINEZ
+
+Firmado electrónicamente por:
+
+CARLOS ARTURO
+SALAZAR VERA
+
+

@@ -1,0 +1,4670 @@
+TÉRMINOS DE REFERENCIA
+(SERVICIOS)
+“ADQUISICIÓN DE UN SOFTWARE DE GESTIÓN
+ADMINISTRATIVA, CONTABLE Y FINANCIERA
+PARA EL PATRONATO DE AMPARO SOCIAL DEL
+PAS GADMT”
+1. Antecedentes / Estudios previos
+
+Según lo estipula la Constitución del Ecuador, el artículo 288 de la Constitución
+de la República del Ecuador, dispone que “Las compras públicas cumplirán con
+criterios de eficiencia, transparencia, calidad, responsabilidad ambiental y
+social. Se priorizarán los productos y servicios nacionales, en particular los
+provenientes de la economía popular y solidaria, y de las micro, pequeñas y
+medianas unidades productivas.”
+De acuerdo a la Ley Orgánica del Sistema Nacional de Contratación Pública,
+SECCIÓN II Subasta Inversa, Artículo 47. Subasta Inversa.- “Para la
+adquisición de bienes y servicios normalizados que no consten en el catálogo
+electrónico, las Entidades Contratantes deberán realizar subastas inversas en
+las cuales los proveedores de bienes y servicios equivalentes, pujan hacia la
+baja el precio ofertado, en acto público o por medios electrónicos a través del
+Portal de COMPRAS PUBLICAS.
+Los resultados de los procesos de adjudicación por subasta inversa serán
+publicados en el Portal COMPRAS PUBLICAS para que se realicen las
+auditorías correspondientes”.
+De existir una sola oferta técnica calificada o si luego de ésta un solo proveedor
+habilitado presenta su oferta económica inicial en el portal, no se realizará la
+puja y en su lugar se efectuará la sesión única de negociación entre la entidad
+contratante y el oferente. El único objetivo de la sesión será mejorar la oferta
+
+económica. Si después de la sesión de negociación se obtiene una oferta
+definitiva favorable a los intereses nacionales o institucionales, la entidad
+procederá a contratar con el único oferente.
+Según el Reglamento a Ley Orgánica del Sistema Nacional de Contratación
+Pública, SECCIÓN II Subasta Inversa, Apartado I de la Subasta Inversa
+Electrónica, Artículo 44. Procedencia.- La subasta inversa electrónica se
+realizará cuando las entidades contratantes requieran adquirir bienes y
+servicios normalizados cuya cuantía supere el
+
+monto
+
+equivalente
+
+al
+
+0,0000002 del Presupuesto Inicial del Estado, que no se puedan contratar a
+través del procedimiento de Compras por Catálogo Electrónico,
+
+y
+
+en la
+
+que los proveedores de dichos bienes y servicios, pujan hacia la baja el
+precio
+
+ofertado
+
+por
+
+medios
+
+electrónicos
+
+a
+
+través
+
+del
+
+Portal
+
+www.compraspublicas.gob.ec.
+En el capítulo VII de la CODIFICACIÓN RESOLUCIONES DEL SERVICIO
+NACIONAL DE CONTRATACIÓN PÚBLICA, en su Art. 462.1 “(…) establece
+que “Antes de iniciar un procedimiento de contratación cuyo objeto sea el
+desarrollo de software, la adquisición de software y/o la provisión de servicios
+relacionados al software, las entidades contratantes deberán consultar el Portal
+del Sistema de Información de Ciencia, Tecnología, Innovación y Saberes
+Ancestrales, y el Portal de Software Ecuatoriano, a efectos de poder formular
+las especificación técnicas o términos de referencias. En la formulación de sus
+términos de referencia y especificaciones técnicas, las entidades contratantes
+deberán preferir y promover el uso de tecnologías libres”.
+Mediante Oficio Nro. MINTEL-SEGE-2018-0049-O, de 15 de marzo de 2018,
+suscrito por el Mgs. Raúl Javier Jara Iñiguez SUBSECRETARIO DE ESTADO GOBIERNO
+
+ELECTRÓNICO,
+
+ratifica
+
+“(…)
+
+que
+
+el
+
+Ministerio
+
+de
+
+Telecomunicaciones y Sociedad de la Información continúa con la evaluación y
+aprobación de la viabilidad técnica de proyectos de tecnología postulados por
+las instituciones de la Función Ejecutiva, en lo que corresponda a la adquisición
+de hardware y servicios no relacionados con software, cuyo presupuesto
+referencial supere las (50 RMU) remuneraciones mínimas unificadas incluido
+
+IVA. En lo que respecta a proyectos de software y servicios relacionados y en
+cumplimiento a lo que determina el Código Orgánico de la Economía Social de
+los Conocimientos, Creatividad e Innovación en el art 148, se debe evaluar
+toda adquisición de software sin monto definido.”
+El Código Orgánico de la Economía Social de los Conocimientos, Creatividad e
+Innovación en su artículo 148 Prelación en la adquisición de software por parte
+del sector público establece que “(…) Para la contratación pública relacionada
+a software, las entidades contratantes del sector público deberán seguir el
+siguiente orden de prelación:
+1. Software de código abierto que incluya servicios de desarrollo de código
+fuente, parametrización o implementación con un importante componente de
+valor agregado ecuatoriano;
+2. Software en cualquier otra modalidad que incluya servicios con un
+componente mayoritario de valor agregado ecuatoriano;
+3. Software de código abierto sin componente mayoritario de servicios de valor
+agregado ecuatoriano;
+4. Software internacional por intermedio de proveedores nacionales;
+5. Software internacional por intermedio de proveedores extranjeros.
+En caso no sea posible por el órgano público o pertinente la adquisición o
+desarrollo de software de código abierto con servicios, con un importante
+componente de valor agregado ecuatoriano, el órgano público involucrado en la
+adquisición deberá justificar la adquisición de otras tecnologías de otras
+características ante el ente de Regulación en materia de Gobierno Electrónico
+que determine el Presidente de la República mediante reglamento. Para
+autorizar dicha justificación, esta Instancia evaluará la criticidad del software en
+función de los siguientes criterios: 1. Sostenibilidad de la solución; 2. Costo y
+oportunidad; 3. Estándares de seguridad; y, 4. Capacidad técnica que brinde el
+soporte necesario para el uso del software.
+
+En LA NORMA TÉCNICA QUE REGULA EL PROCESO PARA LA
+EVALUACIÓN DE VIABILIDAD TÉCNICA DE PROYECTOS DE GOBIERNO
+ELECTRÓNICO Y AUTORIZACIÓN DE CRITICIDAD DE SOFTWARE Y
+SERVICIOS RELACIONADOS en su “Art. 7.- determina que De la máxima
+autoridad de las entidades.- Le corresponde las siguientes obligaciones:
+a)
+
+Designar al responsable de la postulación de los proyectos en el sistema
+
+CTI y del envío del formulario declarativo para el proceso simplificado. El
+funcionario designado deberá ser el responsable del área de tecnología o quien
+haga sus veces. En caso excepcional, de acuerdo al volumen
+
+de
+
+contrataciones tecnológicas que la institución realice, se podrá establecer
+personal adicional responsable para la postulación de proyectos. Estas
+designaciones
+
+deberán
+
+ser
+
+informadas
+
+por
+
+escrito
+
+al
+
+Ministerio
+
+de
+
+Telecomunicaciones y de la Sociedad de la Información.
+Mediante Memorando Nro. 044-CONT-PASGADM-2022, suscrito por la Ing.
+Carmita Vera, Contadora General PAS-GADMT, solicita a la Msc. Guisela
+Sislema, Secretaria Ejecutiva del Patronato del PAS-GADMT, “(…) que de
+acuerdo al procedimiento definido por el Ministerio de Telecomunicaciones y de
+la Sociedad de la Información y el SERCO, solicite un profesional de la jefatura
+Sistemas del GAD Municipal de Tulcán, con la finalidad de poder realizar el
+proceso de solicitud de autorización para el procedimiento de adquisición del
+Sistema de Gestión Contable Financiera del PAS-GADMT (…)”.
+Con Memorando Nro. 182-PASGADMT-2022, de 23 de marzo de 2022, la Msc.
+Guisela Sislema, Secretaria Ejecutiva del PAS - GADMT, solicita al Ing.
+Oswaldo Mayanquer, Director Administrativo GADMT, “(…) se delegue a un
+funcionario de la Jefatura de Sistemas del GAD – MT, para continuar con el
+Proceso de adquisición del Software del Sistema Contable y Financiero del
+PAS – GADMT (…)”.
+Con fecha 05 de abril de 2022, el Ing. Fernando Bustos, Funcionario de la
+Jefatura
+
+de
+
+Sistemas
+
+del
+
+GADMT,
+
+realiza
+
+ante
+
+el
+
+Ministerio
+
+de
+
+Telecomunicaciones y de la Sociedad de la Información la solicitud de
+Autorización para la ADQUISICIÓN DE UN SOFTWARE DE GESTIÓN
+
+ADMINISTRATIVA, CONTABLE Y FINANCIERA PARA EL PATRONATO DE
+AMPARO SOCIAL DEL PAS GADMT, Mediante Nro. Solicitud 034B-0CO6K4.
+Mediante Memorando N° 253-PASGADMT-2022, de 18 de abril de 2022,
+suscrito por la Mgs. Guisela Sislema, Secretaria Ejecutiva Patronato, solicita al
+Ing. Freed Carrera, Jefe de Sistemas GADMT, “se designe a quien
+corresponda con la elaboración del informe técnico para la generación del
+proceso de Adquisición del Software Contable (…)”.
+Con Memorando N° 106-S-GADMT-2022, de 21 de abril de 2022, suscrito por
+el Ing. Freed Carrera, Jefe de Sistemas GADMT, informa que se remite el
+informe sobre especificaciones tecnológicas para el proceso de Adquisición del
+Software Contable.
+El artículo 288 de la Constitución de la República del Ecuador, establece que:
+“Las compras públicas cumplirán con criterios de eficiencia, transparencia,
+calidad, responsabilidad ambiental y social. Se priorizarán los productos y
+servicios nacionales, en particular los provenientes de la economía popular y
+solidaria, y de las micro, pequeñas y medianas unidades productivas.”;
+El Art. 46 y 47 de la Ley Orgánica del Sistema Nacional de Contratación
+Pública, según Registro Oficial Suplemento 395 de 04 de agosto de 2008 y
+modificada el 20 de marzo de 2017. Establece Obligaciones de las Entidades
+Contratantes.- “Las Entidades Contratantes deberán consultar el catálogo
+electrónico previamente a establecer procesos de adquisición de bienes y
+servicios. Solo en caso de que el bien o servicio requerido no se encuentre
+catalogado se podrá realizar otros procedimientos de selección para la
+adquisición de bienes o servicios, de conformidad con la presente Ley y su
+Reglamento (…)”; Subasta Inversa.- Para la adquisición de bienes y servicios
+normalizados que no consten en el catálogo electrónico, las Entidades
+Contratantes deberán realizar subastas inversas en las cuales los proveedores
+de bienes y servicios equivalentes, pujan hacia la baja el precio ofertado, en
+acto
+
+público
+
+o
+
+por
+
+medios
+
+COMPRASPUBLICAS (…)”.
+
+electrónicos
+
+a
+
+través
+
+del
+
+Portal
+
+de
+
+De acuerdo al Reglamento a la Ley Orgánica del Sistema Nacional de
+Contratación Pública, Registro Oficial Suplemento 588 de 12 de mayo de 2009
+y modificado el 08 de noviembre de 2016. En su Sección II. Subasta Inversa
+“Artículo. Art. 44.-Procedencia.-La subasta inversa electrónica se realizará
+cuando las entidades contratantes requieran adquirir bienes y servicios
+normalizados cuya cuantía supere el monto equivalente al 0,0000002 del
+Presupuesto Inicial del Estado, que no se puedan contratar a través del
+procedimiento de Compras por Catálogo Electrónico, y en la que los
+proveedores de dichos bienes y servicios, pujan hacia la baja el precio ofertado
+por medios electrónicos a través del Portal (…)”
+En el capítulo VII de la CODIFICACIÓN RESOLUCIONES DEL SERVICIO
+NACIONAL DE CONTRATACIÓN PÚBLICA, en su Art. 462.1 “(…) establece
+que “Antes de iniciar un procedimiento de contratación cuyo objeto sea el
+desarrollo de software, la adquisición de software y/o la provisión de servicios
+relacionados al software, las entidades contratantes deberán consultar el Portal
+del Sistema de Información de Ciencia, Tecnología, Innovación y Saberes
+Ancestrales, y el Portal de Software Ecuatoriano, a efectos de poder formular
+las especificación técnicas o términos de referencias. En la formulación de sus
+términos de referencia y especificaciones técnicas, las entidades contratantes
+deberán preferir y promover el uso de tecnologías libres”.
+El Art. 462.4.- establece que “Orden de Prelación.- De conformidad con lo
+determinado en el artículo 148 del Código Orgánico de la Economía Social de
+los Conocimientos, Creatividad e Innovación, para la contratación pública
+relacionada a software, las entidades contratantes del sector público deberán
+seguir el siguiente orden de prelación:
+1. Software de código abierto que incluya servicios de desarrollo de código
+fuente, parametrización o implementación con un importante componente de
+valor agregado ecuatoriano;
+2. Software en cualquier otra modalidad que incluya servicios con un
+componente mayoritario de valor agregado ecuatoriano;
+
+3. Software de código abierto sin componente mayoritario de servicios de valor
+agregado ecuatoriano;
+4. Software internacional por intermedio de proveedores nacionales; y,
+5. Software internacional por intermedio de proveedores extranjeros.
+De no ser posible contratar a través de la primera clase de prelación, las
+entidades contratantes podrán aplicar las siguientes clases de prelación para
+lo cual previamente deberán gestionar la correspondiente autorización del
+ente de regulación en materia de Gobierno Electrónico”.
+En LA NORMA TÉCNICA QUE REGULA EL PROCESO PARA LA
+EVALUACIÓN DE VIABILIDAD TÉCNICA DE PROYECTOS DE GOBIERNO
+ELECTRÓNICO Y AUTORIZACIÓN DE CRITICIDAD DE SOFTWARE Y
+SERVICIOS RELACIONADOS en su “Art. 7.- determina que De la máxima
+autoridad de las entidades.- Le corresponde las siguientes obligaciones:
+a) Designar al responsable de la postulación de los proyectos en el sistema
+CTI y del envío del formulario declarativo para el proceso simplificado. El
+funcionario designado deberá ser el responsable del área de tecnología
+o quien haga sus veces. En caso excepcional, de acuerdo al volumen de
+contrataciones tecnológicas que la institución realice, se
+
+podrá
+
+establecer personal adicional responsable para la postulación de
+proyectos. Estas designaciones deberán ser informadas por escrito al
+Ministerio de Telecomunicaciones y de la Sociedad de la Información.
+Mediante Memorando Nro. 034.1-CONT-PASGADMT-2022, suscrito por la Ing.
+Carmita Vera, Contadora – PASGADMT; solicita que se realice el trámite
+correspondiente para la adquisición de un software de gestión contable,
+administrativo y financiero….; con la finalidad de contar con la información real
+oportuna y actualizada para la presentación de informes financieros y toma de
+decisiones por el nivel directivo.
+Con Memorando Nro. 126. C.M.T.SUR-GADMT.2022, de 15 de marzo de 2022,
+suscrito por el Ing. José Ordoñez, solicita “(…) autorice a quien corresponda la
+adquisición del software de facturación, control de inventarios y cuentas por
+cobrar existentes en comisariatos Municipales….”.
+
+Mediante Memorando Nro. 118-FMT-PASGADMT-2022, de 15 de marzo de
+2022, la Lcda. Zaida Villarreal, solicita se autorice a quien corresponda la (…)
+adquisición del software de facturación, control de inventarios y Vademecum
+(…)”.
+Mediante Memorando Nro. 142.1-PASGADMT-2022, la Mcs. Msc. Guisela
+Sislema, Secretaria Ejecutiva del Patronato del PAS-GADMT, Notifica a la
+Lcda. Zaida Villrreal, Administradora de Farmacias (E), que se le designa como
+la persona encargada para realizar el trámite de “ADQUISICIÓN DE UN
+SOFTWARE DE GESTIÓN ADMINISTRATIVA, CONTABLE Y FINANCIERA
+PARA EL PATRONATO DE AMPARO SOCIAL DEL PAS GADMT”.
+Mediante Memorando Nro. 044-CONT-PASGADM-2022, suscrito por la Ing.
+Carmita Vera, Contadora General PAS-GADMT, solicita a la Msc. Guisela
+Sislema, Secretaria Ejecutiva del Patronato del PAS-GADMT, “(…) que de
+acuerdo al procedimiento definido por el Ministerio de Telecomunicaciones y de
+la Sociedad de la Información y el SERCO, solicite un profesional de la jefatura
+Sistemas del GAD Municipal de Tulcán, con la finalidad de poder realizar el
+proceso de solicitud de autorización para el procedimiento de adquisición del
+Sistema de Gestión Contable Financiera del PAS-GADMT (…)”.
+Con Memorando Nro. 182-PASGADMT-2022, de 23 de marzo de 2022, la Msc.
+Guisela Sislema, Secretaria Ejecutiva del PAS - GADMT, solicita al Ing.
+Oswaldo Mayanquer, Director Administrativo GADMT, “(…) se delegue a un
+funcionario de la Jefatura de Sistemas del GAD – MT, para continuar con el
+Proceso de adquisición del Software del Sistema Contable y Financiero del
+PAS – GADMT (…)”.
+Con fecha 05 de abril de 2022, el Ing. Fernando Bustos, Funcionario de la
+Jefatura
+
+de
+
+Sistemas
+
+del
+
+GADMT,
+
+realiza
+
+ante
+
+el
+
+Ministerio
+
+de
+
+Telecomunicaciones y de la Sociedad de la Información la solicitud de
+Autorización para la ADQUISICIÓN DE UN SOFTWARE DE GESTIÓN
+
+ADMINISTRATIVA, CONTABLE Y FINANCIERA PARA EL PATRONATO DE
+AMPARO SOCIAL DEL PAS GADMT, Mediante Nro. Solicitud 034B-0CO6K4.
+Mediante Memorando N° 253-PASGADMT-2022, de 18 de abril de 2022,
+suscrito por la Mgs. Guisela Sislema, Secretaria Ejecutiva Patronato, solicita al
+Ing. Freed Carrera, Jefe de Sistemas GADMT, “se designe a quien
+corresponda con la elaboración del informe técnico para la generación del
+proceso de Adquisición del Software Contable (…)”.
+Con Memorando N° 106-S-GADMT-2022, de 21 de abril de 2022, suscrito por
+el Ing. Freed Carrera, Jefe de Sistemas GADMT, informa que se remite el
+informe sobre especificaciones tecnológicas para el proceso de Adquisición del
+Software Contable.
+Mediante Oficio Nro. 075-PAS-GADMT-2022, de 10 de junio de 2022, la Mgs.
+Guísela Sislema Ñacato, Secretaria Ejecutiva PAS-GADMT, notifica al Magister
+Cristian Benavides Fuentes, Alcalde del Cantón Tulcán, “(…) que desde el 10
+de junio del presente año, hare uso de la respectiva licencia y remitiré los
+respectivos documento a la Dirección Administrativa y Jefatura de Talento
+Humano”.
+En tal sentido, con Acción de Personal Nro. 143-JTH-2022, de 10 de junio de
+2022, “El señor Alcalde del GAD Municipal de Tulcán, Abg. Cristian Benavides
+Fuentes, de acuerdo a las facultades otorgadas por la LOSEP, su de
+aplicación y el COOTAD, RESUELVE: Que la servidora municipal Altamirano
+Narváez Darla Victoria, subrogue el puesto de Secretaria Ejecutiva del
+Patronato de Amparo Social de Tulcán, a partir del 10 de junio hasta el 01 de
+septiembre del 2022 (…)”.
+2. Objetivo
+
+Realizar
+
+la
+
+ADQUISICIÓN
+
+DE
+
+UN
+
+SOFTWARE
+
+DE
+
+GESTIÓN
+
+ADMINISTRATIVA, CONTABLE Y FINANCIERA PARA EL PATRONATO DE
+AMPARO SOCIAL DEL PAS GADMT, que integre todas las actividades
+relacionadas con las áreas, financiera, contable, presupuestaria, administrativa,
+
+compras públicas, bodega, farmacias, centro médico y comisariatos, que
+faciliten la correcta administración de los recursos contables, financieros y
+administrativos.
+3. Alcance
+
+El SOFTWARE DE GESTIÓN ADMINISTRATIVA, CONTABLE Y FINANCIERA
+PARA EL PATRONATO DE AMPARO SOCIAL DEL PAS GADMT que se
+adquiera deberá continuar integrando todas las actividades relacionadas con las
+áreas de Contabilidad, Presupuesto, Tesorería, Planificación, Compras Públicas,
+Gestión de Bienes e Inventarios, Farmacias, Centro Médico y Comisariatos con el
+fin de disponer de información contable-financiera y administrativa en forma
+oportuna, confiable y actualizada en tiempo real, que permita un manejo eficiente
+y eficaz de todos los procesos y registros de las áreas involucradas.
+4. METODOLOGÍA DE TRABAJO
+
+La continuidad de la construcción e implementación del sistema
+
+será
+
+participativa en los resultados esperados, para lo cual los avances del proceso
+se verificarán con los responsables de las unidades involucradas a fin de evitar
+inconvenientes en la implementación.
+La Implementación se la realizará de manera parcial de acuerdo a la prioridad de
+importancia que se ponga a cada módulo, así mismo se realizarán todas las
+pruebas necesarias a conformidad de los usuarios dueños de cada módulo.
+4.1 Generalidades del sistema
+
+➢ Los módulos de Contabilidad y Presupuesto, Auxiliar Transaccional
+Contable, ATS, BCE, Gestión de Inventarios, Gestión de Activos Fijos,
+Roles de Pago, y Control de Garantías deberán estar totalmente integrados
+y adaptarse a los lineamientos emitidos a por los respectivos organismos
+de control.
+➢ El sistema debe contar con un módulo de facturación electrónica, que se
+adapte a cada una de las necesidades que se generen en la institución.
+
+➢ El sistema deberá estar adaptado a la legislación pública ecuatoriana como
+es Normativa de Contabilidad Gubernamental, Presupuestos, Tesorería,
+Manejo de Bienes.
+➢ El sistema deberá contar con una interfaz gráfica de usuarios amigable.
+➢ El sistema deberá ser escalable, es decir permitirá el crecimiento futuro de:
+empresas, usuarios, módulos, aplicaciones, reportes, y capacidad de
+procesamiento.
+➢ El sistema deberá soportar impresoras en red.
+➢ El sistema deberá permitir exportar datos en formato: PDF, HTML, CSV o
+TXT
+4.2 Seguridades y Auditoría
+
+❖ El sistema deberá contar con funcionalidades de autenticación y
+autorización para la configuración de permisos (roles) y usuarios del
+sistema.
+❖ Deberá contar con las facilidades necesarias para la configuración de
+permisos y accesos a los menús de acuerdo con los roles.
+❖ Deberá registrar toda la información de auditoría
+
+que
+
+permita
+
+realizar la trazabilidad de cualquier transacción relacionada con la
+creación del registro, modificación y/o borrado.
+4.3 Configuración del Sistema
+
+➢ Deberá permitir parametrizar los secuenciales de los comprobantes
+definidos dentro de cada módulo en forma automática y manual, según
+los procesos establecidos por el Patronato y requeridos por el sistema.
+➢ Cada módulo deberá permitir parametrizar la información de acuerdo
+con los requerimientos establecidos por la institución para cada
+ususario.
+➢ Deberá existir un instructivo de configuración, especificando cada
+parametrización que debe ejecutarse en los siguientes módulos:
+Contabilidad, Presupuesto, Auxiliar Transaccional Contable, ATS,
+
+SINAFIP, BCE, Gestión de Inventarios, Gestión de Activos Fijos, Roles
+de Pago y Control de Garantías.
+➢ Deberán existir los manuales técnicos de administración del sistema y
+operativos por cada módulo implementado.
+
+4.4 Módulos del Sistema Administrativo Financiero
+
+➢ Este módulo debe estar integrado con el resto de los módulos que formen
+parte del Sistema Administrativo Financiero.
+➢ Este módulo debe contar con una opción para el registro de los
+Proveedores y el registro de todos los comprobantes de venta por compra
+de bienes y servicios.
+➢ Este módulo debe contar con una opción para el registro de los Clientes y
+el registro de todos los comprobantes de venta de bienes y servicios.
+➢ El sistema debe permitir crear los tipos de retenciones en la fuente de
+impuesto a la renta e I.V.A., de acuerdo con los reglamentos vigentes por
+el SRI.
+➢ Este módulo debe permitir el registro y control de todas las transacciones
+que generen asientos contables, interactuando con los módulos de
+Proveedores y Clientes.
+➢ Este módulo debe disponer de una opción para generar retenciones
+electrónicas de impuesto a la renta y de IVA con comprobantes
+electrónicos y manuales, así como de los reportes relacionados con esta
+actividad.
+➢ El sistema debe permitir crear el Catálogo General de Cuentas del
+Patronato de Amparo Social del Gobierno Autónomo Descentralizado del
+Municipio de Tulcán de acuerdo con las necesidades de la misma y que se
+adapte al Catalogo General de Cuentas Contables del Sector Público. El
+sistema debe permitir definir los Niveles de las Cuentas Contables
+(desagregación), de acuerdo con los requerimientos de información,
+conforme la Normativa de Contabilidad Gubernamental.
+
+➢ Este módulo debe controlar el cierre de transacciones de comprobantes ya
+grabados, con diferentes accesos de usuarios, con el fin de controlar el
+flujo de cada comprobante y con su respectiva autorización y separación
+de funciones.
+➢ Debe controlar el registro de las transacciones, teniendo en cuenta los
+documentos con los cuales el SRI autoriza el registro de una transacción
+legal, tal como: comprobantes de venta, notas de venta, liquidación por
+compra de bienes y servicios, etc.
+➢ El sistema debe generar los archivos del Sistema de Pagos Interbancarios
+SPI.
+4.5 REPORTES:
+
+El sistema deberá contar con al menos los siguientes
+reportes:
+•
+
+El sistema deberá contar con al menos los siguientes reportes: Balance
+de Comprobación
+
+•
+
+Estado de Situación Financiera Estado de Pérdidas y Ganancias Estado
+de Flujo del Efectivo
+
+•
+
+Cédula de Ejecución Presupuestaria de Ingresos y Gastos.
+
+•
+
+Saldos disponibles de cada cuenta bancaria.
+
+•
+
+Diario General
+
+•
+
+Comprobantes de Diario
+
+•
+
+Comprobantes de Pago
+
+•
+
+Comprobantes de Ingreso
+
+•
+
+Mayores Auxiliares Mayores Generales
+
+•
+
+Libro de bancos
+
+•
+
+Conciliación Bancaria
+
+•
+
+Transferencias Bancarias SPI
+
+•
+
+Certificaciones Presupuestarias
+
+•
+
+Comprobantes de Modificaciones Presupuestarias
+
+•
+
+Anexos transaccionales
+
+•
+
+Reportes de manejo y control de inventarios
+
+Dentro del Módulo de Contabilidad el sistema debe facilitar el control de todos
+los movimientos bancarios, de cada banco existente, perteneciente a la
+institución, controlando los movimientos de todas las cuentas bancarias que
+tenga la institución, esto es: Notas de Débito y Crédito, emisión de cheques,
+registro de depósitos, etc.
+Este módulo también debe contar con el proceso de conciliación bancaria de
+cada uno de los bancos creados dentro del sistema y pertenecientes a la
+empresa.
+El sistema debe facilitar los saldos disponibles de todos los bancos de la
+empresa en tiempo real.
+4.6 PRESUPUESTO
+
+Este módulo de Presupuesto del sistema Administrativo Financiero se debe
+integrar y entrelazar con el Módulo de Contabilidad.
+Debe permitir controlar y administrar eficientemente el manejo presupuestario de
+la institución, así como su ejecución eficiente y efectiva, en forma detallada y
+pormenorizada.
+El sistema debe permitir estructurar el presupuesto institucional al menos en
+cuatro niveles de desagregación, de tal forma que facilite la estructuración
+presupuestaria por proyectos, centros de costos, departamentos, etc.
+El registro del presupuesto anual de ingresos y de gastos debe permitir ser
+desagregado por mes, de modo que se pueda controlar la ejecución planificada
+mensual versus la ejecución realizada real; para lo cual el sistema debe
+proporcionar los reportes necesarios, ya sea a nivel de detalle o gerencial.
+El sistema debe facilitar el registro y emisión de certificaciones presupuestarias,
+en donde consta el nombre del funcionario que solicita la certificación y la fecha
+de la posible ejecución (Compromiso).
+Debe facilitar el registro y emisión de compromisos presupuestarios, los mismos
+que están relacionados con los contratos u órdenes de compra, tanto de
+
+proveedores como de contratistas.
+Debe permitir el control de la ejecución presupuestaria por mes, para compararla
+con el presupuesto mensual y anual, y poder comparar lo ejecutado versus lo
+planificado.
+Este módulo debe facilitar el registro de los pagos presupuestarios, así como el
+registro del percibido presupuestario de ingresos.
+Debe facilitar conocer en tiempo real los saldos disponibles de cada partida
+presupuestaria de gastos.
+Cada afectación presupuestaría del devengado debe estar integrada totalmente
+con las transacciones contables.
+El sistema debe proveer los saldos disponibles de cada certificación
+presupuestaria creada dentro del sistema.
+El seguimiento a cada compromiso presupuestario creado dentro del sistema es
+necesario, con el fin de conocer el saldo pendiente de devengar, controlando los
+valores comprometidos frente a lo ejecutado.
+Este módulo debe permitir ejecutar reformas presupuestarias por aumentos,
+disminuciones, traspasos de recursos entre los diferentes programas, proyectos,
+grupos de gastos y partidas presupuestarias.
+El módulo debe facilitar el registro de los siguientes tipos de transacciones
+relacionadas directamente con el presupuesto:
+•
+
+Asignaciones iniciales
+
+•
+
+Reformas Presupuestarias
+
+•
+
+Certificaciones de Disponibilidad Presupuestaria
+
+•
+
+Compromisos
+
+•
+
+Devengados
+
+•
+
+Pagos
+
+•
+
+Percibidos
+
+•
+
+Ajustes
+
+4.7 REPORTES
+El módulo debe proporcionar al menos los siguientes reportes:
+•
+
+Cédula de ejecución presupuestaria de ingresos
+
+•
+
+Cédula de ejecución presupuestaria de gastos
+
+•
+
+Reformas presupuestarias
+
+•
+
+Detalles de compromisos y certificaciones que fueron emitidas
+
+•
+
+Compromisos y Devengados
+
+4.8. AUXILIAR TRANSACCIONAL CONTABLE
+•
+
+Aplicativo cuya función debe permitir el registro de Cuentas por Pagar,
+Depósitos de Terceros, Pagos, Cuentas por Cobrar, Anticipos de Fondos,
+Cobros y Registro de Anulaciones Transaccionales, generación de ajustes
+y registros contables..
+
+•
+
+Aplicación de cuentas contables para la generación de asientos
+complemento.
+
+•
+
+Reportes auxiliares que permiten revisar saldos pendientes por pagar,
+cobrar y saldos a nivel de cuenta contable.
+
+C. SRI – SINAFIP (SISTEMA DE ADMINISTRACION DE LAS FINANZAS
+PUBLICAS) –BANCO DEL ESTADO
+•
+
+El Sistema Administrativo Financiero debe facilitar la generación del ATS Anexo Transaccional Simplificado, para subir al DIMM del SRI en forma
+mensual.
+
+•
+
+SINAFIP
+
+(SISTEMA
+
+DE
+
+ADMINISTRACION
+
+DE
+
+LAS
+
+FINANZAS
+
+PÚBLICAS) El sistema Administrativo Financiero debe facilitar la
+generación de los archivos requeridos en forma mensual, para la carga de
+la información contable y presupuestaria institucional, que permite la
+agregación y consolidación de la información financiera en el Ministerio de
+Economía y Finanzas., a través de una opción determinada.
+D. GESTION DE INVENTARIOS
+
+El sistema de Gestión y Control de Inventarios se adaptará a lo que estipula las
+Normas de Control Interno y a la clasificación efectuada por los Organismos de
+Control de la Instituciones Públicas
+Características Generales
+El sistema deberá facilitar la administración eficiente de los diferentes tipos de
+inventarios existentes dentro de cada bodega, confiriendo las herramientas
+eficientes y eficaces de control, que entregará los informes requeridos con
+exactitud.
+En cantidades y valores, necesarios para optimizar los costos financieros
+involucrados dentro de esta gestión.
+❖ Manejará una o varias bodegas.
+❖ Facilitará la utilización de código de barras.
+Manejará órdenes de compra.
+❖ Devoluciones
+❖ Permitirá el ingreso, egreso y transferencias de todos los productos
+existentes en cada bodega, para diferentes usos.
+El sistema deberá manejar inventarios para los diferentes tipos de bodegas:
+➢ Consumo interno
+➢ Venta
+➢ Producción
+➢ Inversión
+La estructura del inventario deberá utilizar cinco niveles de desagregación:
+•
+
+Línea de Productos
+
+•
+
+Clase de Productos
+
+•
+
+Tipo de Productos
+
+El sistema deberá disponer de los siguientes costos:
+Las adquisiciones y disminuciones de inventarios serán controladas a través
+del sistema de inventarios Permanente o Perpetuo, utilizando como método de
+control el Precio Promedio Ponderado.
+
+El Almacén o Bodega hará llegar periódicamente a la Unidad Contable la
+información y documentación relativa a los movimientos de ingresos y egresos
+debidamente valorados, para la actualización y conciliación
+
+contable
+
+respectiva.
+Los egresos por consumo interno deberán ser controlados hacia los
+departamentos que reciben los productos, con el objeto de conocer el costo de
+consumo, por departamento o centro de costos.
+Los reportes mínimos requeridos son los siguientes:
+Reportes:
+•
+
+Saldos disponibles de cada producto
+
+•
+
+Kárdex individual
+
+•
+
+Compras de productos por Proveedor
+
+•
+
+Consumo de productos por departamentos y objetos
+
+•
+
+Reporte de acumulados
+
+•
+
+Listado de existencias
+
+•
+
+Listado para la toma física
+
+E. GESTION DE ACTIVOS FIJOS
+Características Generales
+Este módulo deberá permitir la administración y el control de los Bienes de
+Larga Duración y Bienes Sujetos a Control, que pertenezcan a la institución,
+que son utilizados en forma continua y permanente durante el curso normal de
+sus operaciones, facilitando el reconocimiento, la valoración, las erogaciones
+capitalizables, bajas y depreciaciones, y facilitará el control de los bienes que
+se entregan a cada custodio, con el fin de mantener un buen control sobre cada
+uno de los bienes, con sus valores respectivos.
+La estructura de los bienes de larga duración se establece en al menos tres
+niveles:
+1. Tipos
+
+2. Subtipos
+3. Clases
+El sistema deberá permitir estructurar las ubicaciones físicas en cuatro niveles:
+1. Edificio
+2. Piso
+3. Sección, y
+4. Subsección
+Permitirá distinguir los bienes destinados a diferentes usos con el fin de
+establecer los años de vida útil dentro de cada uno de ellos.
+Deberá controlar las modificaciones hechas a cada bien por medio de un
+registro histórico.
+El módulo de Activos Fijos deberá imprimir etiquetas de código de barras con el
+logo del Patronato de Amparo Social, para adherirlas a los bienes, y así tener
+un mejor y rápido control de los bienes.
+Deberá permitir la integración con los dispositivos de toma física de los bienes.
+Deberá permitir registrar los siguientes tipos de transacciones:
+•
+
+Compras
+
+•
+
+Bajas
+
+•
+
+Traspaso de Custodios y de Físicas
+
+•
+
+Transferencias entre diferentes sucursales o departamentos
+
+•
+
+Modificar características de un bien ingresado.
+
+•
+
+Cálculo de depreciaciones
+
+•
+
+Revalorización de activos
+
+•
+
+Actas de entrega recepción
+
+•
+
+Deberá permitir registrar los siguientes cambios o correcciones de datos
+de los bienes:
+
+•
+
+Número de serie
+
+•
+
+Modelo
+
+•
+
+Marca
+
+•
+
+Estado del Bien
+
+•
+
+Medidas
+
+•
+
+Color
+
+•
+
+Cambio de custodios
+
+•
+
+Ubicaciones Físicas
+
+El sistema deberá calcular la depreciación de los bienes de larga duración en
+forma mensual o anual.
+El sistema deberá tener una opción que permita registrar el revalúo de los
+bienes de larga duración.
+El sistema deberá imprimir las Actas Entrega Recepción que debe firmar cada
+custodio, para legalizar los bienes que se encuentran a su cargo y
+Guardalmacén.
+
+En la ficha de cada bien de larga duración o bien sujeto a control, se deberá
+poder capturar la foto, con el objeto de facilitar la identificación correcta de cada
+bien.
+Reportes
+Activos fijos filtrados por:
+•
+
+Estructura
+
+•
+
+Ubicación Física
+
+•
+
+Custodio
+
+Acta de Entrega Recepción de los bienes
+•
+
+Adquisiciones
+
+•
+
+Bajas
+
+Movimientos:
+•
+
+Compras Bajas
+
+•
+
+Históricos
+
+•
+
+Otros
+
+•
+
+Modificaciones
+
+•
+
+Depreciaciones
+
+•
+
+Traspaso de Custodios y Ubicaciones Físicas
+
+•
+
+Saldos mensuales
+
+•
+
+Inventario anual
+
+F. CONTROL DE GARANTIAS
+Características Generales
+El aplicativo se encarga de controlar los documentos emitidos como garantía
+por Proyectos o anticipos entregados que se están ejecutando en la institución.
+El aplicativo presenta alertas al momento de identificar si estar cerca el
+vencimiento de la garantía. Control de diferentes tipos de garantía (Buen uso
+del anticipo, Fiel cumplimiento, etc.) Reportes respectivos del módulo.
+G. DEPENDENCIAS
+El software a adquirirse también deberá permitir la creación de módulos por
+cada dependencia institucional es decir:
+•
+
+Centro médico
+
+•
+
+Farmacias
+
+•
+
+Comisariatos
+
+CENTRO MÉDICO: El módulo deberá permitir realizar:
+•
+
+Facturación electrónica de cada servicio entregado
+
+•
+
+Creación de fichas médica
+
+•
+
+Control y reportes de caja
+
+•
+
+Control y reportes de atenciones médica ejecutadas por cada
+especialidad
+
+•
+
+Control y registro de los créditos otorgados
+
+•
+
+Análisis de antigüedad de cartera
+
+•
+
+Control y registros contables que se realicen en esta dependencia.
+
+•
+
+Entre otros.
+
+FARMACIAS: El módulo deberá permitir realizar:
+
+•
+
+Facturación electrónica por cada cajero de las cuatro farmacias
+
+•
+
+Manejo y control de inventarios por artículo, ítem y proveedor
+
+•
+
+Registro, traspaso, ingreso y egreso de productos
+
+•
+
+El sistema debe generar alertas con un mínimo de tres meses de
+anticipación de productos a caducar
+
+•
+
+Debe permitir realizar cuadres de caja diarios
+
+•
+
+Manejo y control de cuentas por cobrar
+
+•
+
+Análisis de antigüedad de cartera
+
+•
+
+Debe tener integrado el Vademecum actualizado de medicamentos
+por cada usuario
+
+•
+
+Generación de reportes de venta
+
+•
+
+Consulta de estados de cuentas por cliente
+
+•
+
+Entre otros
+
+COMISARIATOS: El módulo deberá permitir realizar:
+•
+
+Facturación electrónica por cada cajero de las cuatro farmacias
+
+•
+
+Manejo y control de inventarios por artículo, ítem y proveedor
+
+•
+
+Registro, traspaso, ingreso y egreso de productos
+
+•
+
+El sistema debe generar alertas con un mínimo de tres meses de
+anticipación de productos a caducar
+
+•
+
+Debe permitir realizar cuadres de caja diarios
+
+•
+
+Manejo y control de cuentas por cobrar
+
+•
+
+Análisis de antigüedad de cartera
+
+•
+
+Generación de reportes de venta
+
+•
+
+Consulta de estados de cuentas por cliente
+
+•
+
+Entre otros
+
+Toda la información generada se debe centralizar en la contabilidad del
+PASGADMT, también deberá permitir el manejo control y revisión desde el
+área contable de cada operación ejecutada y se debe adaptar a las
+necesidades institucionales.
+
+H. HORAS DE CAPACITACIÓN:
+El contratista deberá presentar un plan de capacitación, implementación y o
+servicio técnico que incluye la instalación del sistema, para poner en
+funcionamiento
+
+los
+
+módulos
+
+adquiridos
+
+en
+
+Contabilidad,
+
+Farmacias,
+
+Comisariatos Centro Médico y Casa de Acogida Manos Unidas Tejiendo
+Progreso, dicha capacitación y seguimiento tendrá una duración de 8 días
+laborables en forma continua y de manera virtual y presencial.
+Lo expuesto no excluye el soporte diario que se requiere el cliente, los cuales
+se realizaran vía correo electrónico o llamadas telefónicas.
+5. Información que dispone la entidad
+
+Bases de datos desde el año 2012 hasta la presente fecha de forma física y
+digital. En la actualidad el patronato cuenta con una aplicación informática que
+cubre de forma funcional las actividades contables, de presupuesto, de activos
+fijos e inventario y tesorería. La aplicación provee reportes de los módulos que
+cubre de forma funcional cuando lo que se requiere es que la información se
+estructure de forma transversal en una visión por procesos.
+Actualmente no se puede determinar centros de costos por procesos y
+tampoco se puede integrar la gestión presupuestaria y su ejecución en el
+territorio según los diferentes niveles de granularidad y afectación territorial.
+No se cuenta con información geo referenciada del gasto o las intervenciones
+de la acción del patronato de forma automática e integrada por procesos,
+tampoco se cuenta con una integración al POA y PAC institucional. Se carece
+de información oportuna o medio de consultas parametrizables que permitan
+consultar la información.
+En este nuevo cambio organizacional se requiere que la herramienta soporte la
+visión de la gestión por procesos. El software contable y financiero con que se
+cuenta actualmente solo permite registrar y controlar de forma funcional los
+hechos en el ámbito de sus módulos. La información que se obtienen
+
+actualmente del software contable y financiero no permite una toma de
+decisiones asertiva en lo que corresponde a los módulos que se tiene y
+tampoco permite planificar y ejecutar acciones asertivas y efectivas.
+Adicionalmente, este software no permite la posibilidad de integrarse a otras
+herramientas de planificación y gestión institucional, ni menos podría ser el
+core para soluciones la integración de ventas, compras y servicios médicos.
+
+El Patronato de Amparo cuenta con un total de 18 usuarios, distribuidos en
+Cuatro Farmacias, Dos Comisariatos, Uno Centro Médico, Uno Casa de
+Acogida Manos Unidas Tejiendo Progreso y tres puntos en Contabilidad.
+6. Productos o servicios esperados
+
+Los módulos de Contabilidad y Presupuesto, Auxiliar Transaccional Contable,
+ATS, SINAFIP, BCE, Gestión de Inventarios, Gestión de Activos Fijos, Roles de
+Pago, y Control de Garantías deberán estar totalmente integrados.
+El sistema deberá estar adaptado a la legislación pública ecuatoriana. El
+sistema deberá contar con una interfaz gráfica de usuarios amigable.
+El sistema deberá ser escalable, es decir permitirá el crecimiento futuro de:
+empresas, usuarios, módulos, aplicaciones, reportes, y capacidad de
+procesamiento.
+El sistema deberá soportar impresoras en red.
+El sistema deberá permitir exportar datos en formato: PDF, HTML, CSV o TXT
+También el sistema deberá permitir la gestión por usuarios de la siguiente
+manera:
+CONTABILIDAD
+CONTADOR GENERAL
+CENTRALIZA TODA LA
+INFORMACIÓN
+CONTABILIDAD
+Mantenimiento
+
+ASISTENTE ADMINISTRATIVA
+
+CONTABILIDAD
+Mantenimiento
+
+ASISTENTE ADMINISTRATIVA
+CENTRO MÉDICO
+
+CONTABILIDAD
+MANTENIMIENTO
+
+•
+
+Maestro clientes
+Proveedores
+•
+Maestro plan de cuentas
+•
+Detalle de comprobantes
+por transacción
+Movimientos
+•
+•
+•
+
+Depósitos de cheques
+Comprobantes Contables
+Conciliaciones Bancarias
+
+•
+•
+•
+
+Maestro clientes Proveedores
+Maestro plan de cuentas
+Detalle de comprobantes por
+transacción
+
+•
+•
+•
+
+Maestro clientes
+Proveedores
+Maestro plan de cuentas
+Detalle de comprobantes por
+transacción
+
+Movimientos
+Movimientos
+•
+•
+•
+
+Depósitos de cheques
+Comprobantes Contables
+Conciliaciones Bancarias
+
+•
+•
+•
+
+Depósitos de cheques
+Comprobantes Contables
+Conciliaciones Bancarias
+
+Procesos
+Procesos
+•
+•
+•
+•
+
+Mayorización de
+Comprobantes
+Unificar Código Cliente
+Proveedores
+Cambiar Numeración de
+Movimiento
+Actualizar Cta. Contable
+en Comprobante
+
+Consultas
+•
+
+Procesos
+•
+•
+•
+•
+
+Mayorización de Comprobantes
+Unificar Código Cliente
+Proveedores
+Cambiar Numeración de
+Movimiento
+Actualizar Cta. Contable en
+Comprobante
+
+•
+•
+
+Maestro
+Clientes/Proveedores
+Maestro.de
+Departamentos
+
+Movimientos
+•
+Facturas/Débitos
+Proveedores
+•
+Pagos/Créditos
+Proveedores
+•
+Múltiples Pagos
+•
+Comprobantes de
+Retención
+•
+Nota de Crédito
+•
+Consulta y Aprobación
+de Pagos
+Procesos
+•
+Cruzar Documentos
+
+•
+•
+•
+
+Consultas
+•
+•
+
+Plan de Cuentas
+Balances General y
+Comparativos
+Estados de Resultados - P y G
+Movimientos Cuentas Contables
+y Bancos
+Diario General
+Comprobantes Ingresados
+Consulta Ctas. Contables y
+Bancaria
+Estados de Resultados
+Mensualizado
+
+Plan de Cuentas
+•
+Contables
+•
+•
+Balances General y
+Comparativos
+•
+•
+Estados de Resultados PyG
+•
+•
+Movimientos Cuentas
+•
+Contables y Bancos
+•
+Diario General
+•
+•
+Comprobantes
+Ingresados
+•
+Consulta Ctas. Contables CUENTAS POR PAGAR
+y Bancaria
+Mantenimiento
+•
+Estados de Resultados
+Mensualizado
+•
+Maestro. Clientes/Proveedores
+•
+Maestro. de Departamentos
+CUENTAS POR PAGAR
+Mantenimiento
+
+•
+
+Movimientos
+•
+Facturas/Débitos Proveedores
+•
+Pagos/Créditos Proveedores
+•
+Múltiples Pagos/Descargos
+•
+Comprobantes de Retención
+•
+Consulta y Aprobación de Pagos
+Procesos
+•
+Cruzar Documentos Pendientes
+Consultas
+•
+Análisis de Antigüedad
+•
+Documentos Digitados
+•
+Documentos Pendientes
+•
+Estados de Cuentas
+•
+Resumen por Tipo de
+Comprobante
+•
+Datos de Proveedores
+•
+Etiquetas de Clientes
+•
+Proveedores Movimientos y
+
+Mayorización de
+Comprobantes
+Unificar Código Cliente
+Proveedores
+Cambiar Numeración de
+Movimiento
+Actualizar Cta. Contable en
+Comprobante
+
+Consultas
+•
+•
+•
+•
+•
+•
+•
+•
+
+Plan de Cuentas Contables
+Balances General y
+Comparativos
+Estados de Resultados - P y
+G
+Movimientos Cuentas
+Contables y Bancarias
+Diario General
+Comprobantes Ingresados
+Consulta Ctas. Contables y
+Bancaria
+Estados de Resultados
+Mensualizado
+
+CUENTAS POR PAGAR
+Mantenimiento
+•
+•
+
+Maestro Clientes /
+Proveedores
+Maestro de Departamentos
+
+Movimientos
+•
+•
+•
+•
+•
+•
+
+Facturas/Débitos
+Proveedores
+Pagos/Créditos Proveedores
+Múltiples Pagos
+Comprobantes de Retención
+Nota de Crédito
+Consulta y Aprobación de
+Pagos
+
+Procesos
+•
+Cruzar Documentos
+Pendientes
+Consultas
+
+Pendientes
+Consultas
+•
+Análisis de Antigüedad
+•
+Documentos Digitados
+•
+Documentos Pendientes
+•
+Estados de Cuentas
+•
+Resumen por Tipo de
+Comprobante
+•
+Datos de Proveedores
+•
+Etiquetas de Clientes
+•
+Proveedores
+Movimientos pendientes
+•
+Documentos
+Posfechados
+•
+Informe de Limites de
+Crédito
+•
+Comprobantes de
+Retención
+
+•
+•
+•
+
+Pendientes
+Documentos Posfechados
+Informe de Limites de Crédito
+Comprobantes de Retención
+
+INVENTARIO
+Mantenimiento
+•
+Maestro de Artículos o Ítems
+•
+Maestro de Bodegas
+•
+Tablas Varias del Sistema
+•
+Series de Artículos por
+Comprobante
+•
+Comprobante a Utilizar
+•
+Catalogo de Precios por cliente
+•
+Dar de Baja
+Movimientos
+•
+
+Compras/ Ingreso ./Egresos a
+Bodegas
+Transferencias de Bodegas
+Devolución Compras
+Guía de Remisión
+Producción o Ensamble de
+Artículos
+Ingresos/Egresos por Garantía
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Análisis de Antigüedad
+Documentos Digitados
+Documentos Pendientes
+Estados de Cuentas
+Resumen por Tipo de
+Comprobante
+Datos de Proveedores
+Etiquetas de Clientes
+Proveedores Movimientos y
+Pendientes
+Documentos Posfechados
+Informe de Limites de Crédito
+Comprobantes de Retención
+
+Inventario
+Mantenimiento
+•
+Maestro de Artículos o Ítems
+•
+Maestro de Bodegas
+•
+Tablas Varias del Sistema
+•
+Series de Artículos por
+Comprobantes
+•
+Comprobante a Utilizar
+•
+Catalogo de Precios por
+cliente
+•
+Registro de Ubicación
+
+INVENTARIO
+•
+Mantenimiento
+•
+•
+Maestro de Artículos
+•
+•
+Maestro de Bodegas
+•
+•
+Tablas Varias del articulo
+•
+Series de Artículos por
+•
+Comprobante
+•
+Comprobante a Utilizar
+Procesos
+Movimientos
+•
+Catalogo de Precios por
+•
+Recosteo de Inventario y
+cliente
+Facturación
+•
+Compras/ Ingreso ./Egresos
+•
+Registro de Ubicación
+•
+Contabilización Batch de
+a Bodegas
+Inventario
+•
+Transferencias de Bodegas
+Movimientos
+•
+Modifica códigos Ingresos y
+•
+Devolución Compras
+Egreso
+•
+Guía de Remisión
+•
+Compras/ Ingreso
+•
+Cambiar Códigos de Artículos
+•
+Producción o Ensamble de
+./Egresos a Bodegas
+•
+Ingresos o Ajustes de Inventarios
+Articulos
+•
+Transferencias de
+•
+Ingresos/Egresos por
+Bodegas
+Consultas
+Garantía
+•
+Devolución Compras•
+Ingresos -Egresos de Bodega
+Procesos
+Notas Créditos
+•
+Kardex o Movimientos de
+•
+Recosteo de Inventario y
+•
+Guía de Remisión
+Artículos de Inventario
+Facturación
+•
+Producción o Ensamble
+•
+Listas de Precios de Artículos
+•
+Contabilización Batch de
+de Artículos
+•
+Toma de Inventario Físico
+Inventario
+•
+Ingresos/Egresos por
+•
+Costos Artículos y Existencias
+•
+Modifica códigos Ingresos y
+Garantía
+Egreso
+•
+Artículos Existencias y
+Procesos
+Movimiento
+•
+Cambiar Códigos de
+•
+Recosteo de Inventario y
+•
+Etiquetas de Artículos
+Artículos
+Facturación
+•
+Componentes-Sustitutos-Alternos
+•
+Ingresos o Ajustes de
+•
+Contabilización Batch de
+Inventarios
+•
+Consulta de Series de Artículos
+Inventario
+•
+Resumen de Movimientos de
+•
+Modifica códigos
+Consultas
+Artículos
+Ingresos y
+•
+Existencias de Varias Bodegas
+•
+Cambiar Códigos de
+•
+Ingresos -Egresos de
+•
+Consulta Análisis Costos y
+•
+Ingresos o Ajustes de
+Bodega
+Precios
+Inventarios
+•
+Kardex o Movim. de Artículos
+•
+Movimientos Bodegas
+•
+Listas de Precios de Artículos
+•
+Consulta de Guías de Remisión
+Consultas
+•
+Toma de Inventario Físico
+•
+Datos de Artículos
+•
+Ingresos -Egresos de
+•
+Costos Artículos y
+•
+Inventario de Lotes
+Bodega
+Existencias
+•
+Kardex o Movimientos
+•
+Artículos Existencias
+VENTAS
+de inventarios
+•
+Etiquetas de Artículos
+•
+Listas de Precios
+•
+Componentes-SustitutosMantenimiento
+•
+Toma de Inventario
+Alternos
+•
+Posfechados y Forma Pago
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Físico
+•
+Maestro de Artículos
+Costos Artículos y
+•
+Maestro Clientes/Vendedores
+Existencias
+•
+Maestro Rutas
+Artículos Existencias y
+•
+Clave Autorización de Precios
+Movimiento
+•
+Mantenimientos de Precios
+Etiquetas de artículos
+•
+Forma de cobro Pto. Venta
+Componentes-Sustitutos•
+Unidad de Negocio por Marca
+Alternos Consulta de
+Series de Artículos
+Movimientos
+Resumen de
+Movimientos de Artículos
+•
+Facturación
+Existencias de Varias las
+•
+Facturación/Punto de Venta
+Bodegas
+•
+Devolución de Ventas
+Consulta Análisis Costos
+•
+Pedidos, Cotizaciones, etc.
+y Precios
+Movimientos Bodegas
+Procesos
+Consulta de Guías de
+•
+Contabilización Batch de
+Remisión
+Facturación
+Datos artículos
+•
+Modificación de Facturas y
+Inventario de Lotes
+Ventas
+
+VENTAS
+Mantenimiento
+•
+Posfechados y Forma
+Pago
+•
+Maestro de Artículos
+•
+Maestro
+Clientes/Vendedores
+•
+Maestro Rutas
+•
+Clave Autorización de
+Precios
+•
+Mantenimientos de
+Precios
+•
+Forma de cobro Pto.
+Venta
+•
+Unidad de Negocio por
+Marca
+Movimientos
+•
+•
+•
+•
+
+Facturación
+Facturación/Punto de
+Venta
+Devolución de Ventas
+Pedidos, Cotizaciones,
+etc.
+
+Procesos
+•
+Contabilización Batch de
+Facturación
+•
+Modificación de
+Facturas y Ventas
+Consultas
+•
+•
+•
+•
+
+Análisis de Rentabilidad
+de Ventas
+Comisiones de Ventas
+Pagadas
+Cuadre de Caja de
+Ventas total
+Facturas y Ventas
+
+Consultas
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Análisis de Rentabilidad de
+Ventas
+Comisiones de Ventas Pagadas
+Cuadre de Caja de Ventas
+Facturas y Ventas Ingresadas
+Ranking y Resumen de Ventas
+Ranking y Ventas por Artículo
+Listas de Precios de Artículos
+Informe de Clientes-Proveedores
+Artículos Existencias y
+Movimiento
+Estadísticas Mensuales y
+Anuales
+Cotización - Guías y Pedidos
+Cotización, Pedidos x Artículo
+Etiquetas de Clientes
+Clientes Movimientos y
+Pendientes
+Ventas Mensuales por articulo
+Consulta Factura electrónica
+Facturas Pendientes
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Consulta de Series de
+Artículos
+Resumen de Movimientos de
+Artículos
+Existencias de Varias las
+Bodegas
+Consulta Análisis Costos y
+Precios
+Movimientos Bodegas
+Consulta de Guías de
+Remisión
+Datos de Artículos
+Inventario de Lotes
+
+VENTAS
+Mantenimiento
+•
+•
+•
+•
+•
+•
+•
+•
+
+Posfechados y Forma Pago
+Mae. de Artículos
+Mae. Clientes/Vendedores
+Mae. Rutas
+Clave Autorización de
+Precios
+Mantenimientos de Precios
+Forma de cobro Pto. Venta
+Unidad de Negocio por
+Marca
+
+Movimientos
+•
+Facturación/Punto de Venta
+•
+Devolución de Ventas
+•
+Pedidos, Cotizaciones, etc.
+Procesos
+•
+Contabilización Batch de
+Facturaci
+•
+Modificación de Facturas y
+Ventas
+
+Consultas
+•
+Análisis de Rentabilidad de
+•
+Ventas
+•
+•
+Comisiones de Ventas
+•
+•
+Cuadre de Caja de Ventas
+•
+Facturas y Ventas
+CUENTAS POR COBRAR
+•
+Ranking y Resumen de
+Ventas
+Mantenimiento
+•
+Ranking y Ventas por
+•
+Maestro Clientes/Proveedores
+Artículo
+•
+Maestro. de Departamentos
+•
+Listas de Precios de Artículos
+•
+Ingresos de Caja Por Cobro
+•
+Informe de ClientesProveedores
+Movimientos
+•
+Artículos Existencias y
+•
+Estadísticas Mensuales y
+•
+Facturas/Débitos
+Anuales
+•
+Cobros/Créditos Clientes
+•
+Cotización - Guías y Pedidos
+•
+Múltiples Cobros/Descargos
+•
+Cotización, Pedidos x
+•
+Posfechados y Forma Pago
+Artículo
+•
+Gestión Cobranza Clientes
+•
+Etiquetas de Clientes
+•
+Registro de Retenciones
+•
+Clientes Movimientos y
+Automática
+Pendientes
+•
+Registro de Retenciones Clientes
+•
+Ventas Mensuales por
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Procesos
+Ingresadas
+•
+Modificación Datos/Cabecera
+Ranking y Resumen de
+Ventas
+•
+Cruzar Docts. Pendientes
+Ranking y Ventas por
+Consultas
+Artículo
+Listas de Precios de
+•
+Análisis de Antigüedad
+Informe de Clientes•
+Documentos Digitados
+Proveedores
+Artículos Existencias y
+•
+Documentos Pendientes
+Estadísticas Mensuales y
+•
+Estados de Cuenta
+Anuales
+•
+Resumen por Tipo de
+Cotización - Guías y
+Comprobante
+Pedidos
+•
+Datos de Clientes
+Cotización, Pedidos x
+•
+Etiquetas de
+Artículo
+•
+Clientes Movimientos y
+Etiquetas de clientes
+Pendientes
+Clientes Movimientos y
+•
+Documentos Posfechados
+Pendientes
+•
+Control Limites de Crédito y
+Ventas Mensuales por
+Venta
+Articulo
+•
+Documentos Pendientes
+Consulta Factura
+•
+Comisiones Por Venta
+Electrónica
+•
+Documentos Aplicados
+Facturas pendientes
+•
+Análisis Evolución de Cartera
+
+CUENTAS POR COBRAR
+
+COMPRAS/IMPORTACIONES
+
+Mantenimiento
+•
+Maestro
+Clientes/Proveedores
+•
+Maestro de
+Departamentos
+•
+Ingresos de Caja Por
+Cobro
+
+Mantenimiento
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Facturas/Débitos
+Cobros/Créditos Clientes
+Múltiples Cobros /
+Descargos
+Posfechados y Forma
+Pago
+Gestión Cobranza
+Clientes
+Registro de Retenciones
+Automática
+Registro de Retenciones
+Clientes
+
+Procesos
+•
+Modificación
+Datos/Cabecera
+•
+Cruzar Docts.
+Pendientes
+Consultas
+•
+•
+•
+•
+•
+
+Análisis de Antigüedad
+Documentos
+Documentos Pendientes
+Estados de Cuenta
+Resumen por Tipo de
+Comprobante
+
+•
+•
+•
+
+Maestro de Artículos
+Gatos de Importación
+Partidas Arancelarias
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Órdenes de Compra
+Proforma de Importación
+Ordenes de Importación
+Ingreso de Importación
+Facturas y Débitos Por Pagar
+Requisiciones de
+Compra/Bodega
+Gestión de Importaciones
+
+Consultas
+•
+Ingresos / Egresos de Bodega
+•
+Kardex de Artículos
+•
+Órdenes de Compra
+•
+Artículos Existencias y
+Movimiento
+•
+Comparativo entre Compras Vs.
+Ventas
+•
+Requisiciones de
+Compra/Bodega
+•
+Consulta de Documentos
+Ingresado
+NOMINA
+Mantenimiento
+•
+•
+•
+•
+
+Cargos Nuevo
+Mantenimiento de Empleado
+Beneficios / Deducciones
+Mantenimiento Rol
+
+•
+•
+
+Articulo
+Consulta Factura Electrónica
+Facturas Pendientes
+
+CUENTAS POR COBRAR
+Mantenimiento
+•
+Mae. Clientes/Proveedores
+•
+Mae. de Departamentos
+•
+Ingresos de Caja Por Cobro
+Movimientos
+•
+•
+•
+•
+•
+•
+
+Facturas/Débitos
+Cobros/Créditos Clientes
+Múltiples Cobros/Descargos
+Posfechados y Forma Pago
+Gestión Cobranza Clientes
+Registro de Retenciones
+Automática
+•
+Registro de Retenciones
+Clientes
+Procesos
+•
+Modificación Datos/Cabecera
+•
+Cruzar Docts. Pendientes
+Consultas
+•
+Análisis de Antigüedad
+•
+Documentos
+•
+Documentos Pendientes
+•
+Estados de Cuenta
+•
+Resumen por Tipo de
+Comprobante
+•
+Datos de Clientes
+•
+Etiquetas de Clientes
+•
+Clientes Movimientos y
+Pendientes
+•
+Documentos Posfechados
+•
+Control Limites de Crédito y
+Venta
+•
+Documentos Pendientes
+Agrupados
+•
+Comisiones Por Venta
+•
+Documentos
+•
+Análisis Evolución de Cartera
+COMPRAS/IMPORTACIONES
+Mantenimiento
+•
+•
+•
+
+Maestro de Artículos
+Gatos de Importación
+Partidas Arancelarias
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Órdenes de Compra
+Dar de Baja
+Ordenes de Importación
+Ingreso de Importación
+Facturas y Débitos Por Pagar
+Requisiciones de
+Compra/Bodega
+Gestión de Importaciones
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Datos de Clientes
+Etiquetas de Clientes
+Clientes Movimientos y
+Documentos
+Posfechados
+Control Limites de
+Crédito y
+Documentos Pendientes
+Agrupados
+Comisiones Por Venta
+Documentos Aplicados
+Análisis Evolución de
+cartera
+
+COMPRAS/IMPORTACIONES
+Mantenimiento
+•
+Maestro de Artículos
+•
+Gastos de Importación
+•
+Partidas Arancelarias
+•
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Órdenes de Compra
+Proforma de Importación
+Ordenes de Importación
+Ingreso de Importación
+Facturas y Débitos Por
+Pagar
+Requisiciones de
+Compra/Bodega
+Gestión de
+Importaciones
+
+•
+•
+•
+•
+
+Tabla de Impuesto a la Renta
+Documentos a Escanear
+Ingreso del Sector
+Porcentajes de multa
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Ingreso de Novedades
+Faltas
+Aumento de Sueldo
+Horas Extras
+Prestamos
+Vacaciones
+Registro Ingresos/Salidas
+Importar Datos - Nomina
+Formulario SRI – Gastos Perso.
+Otros Ingresos Personales
+Ingresos Automáticos Nomina
+Facturas Debito por Pagar
+Ingreso de Subsidios
+Ingreso Cargos Nomina
+Ingreso Descargos Nomina
+Configuración de Entradas y
+Salidas
+
+Procesos
+•
+•
+•
+•
+•
+•
+
+Rol de Pagos Nuevo
+Decimo Tercero
+Decimo Cuarto
+Liquidación de Utilidades
+Liquidación de Empleados
+Rol de Pagos Temporal Jornadas
+
+Consultas
+Consultas
+•
+Consulta Rol de Pagos
+•
+Ingresos / Egresos de
+•
+Consulta Beneficios y
+Bodega
+Deducciones
+•
+Kardex de Artículos
+•
+Consulta de Empleados
+•
+Órdenes de Compra
+•
+Estado de Cuenta de Prestamos
+•
+Artículos Existencias y
+•
+Costo del Trabajador
+•
+Comparativo entre
+•
+Consulta de Faltas
+Compras Vs. Ventas
+•
+Impresión de Cheques
+•
+Requisiciones de
+•
+Consulta de Contratos
+Compra/Bodega
+•
+Consulta de Gastos Personales
+•
+Consulta de Documentos
+Ingresado
+GESTIÓN
+Movimientos
+NOMINA
+Mantenimiento
+•
+Presupuesto
+•
+Análisis de Ventas vs Cartera
+•
+Cargos Nuevo
+•
+Mantenimiento de
+Procesos
+Empleado
+•
+Remayorización de Presupuesto
+•
+Beneficios / Deducciones
+•
+Mantenimiento Rol
+Consultas
+•
+Tabla de Impuesto a la
+Renta
+•
+Indicadores de Clientes
+•
+Documentos a Escanear
+•
+Indicadores de Proveedores
+•
+Ingreso del Sector
+•
+Indicadores Financieros
+•
+Porcentajes de Multas
+•
+Gestión de Documentos
+Movimientos
+
+CAJA – BANCOS
+
+Consultas
+•
+Ingresos / Egresos de
+Bodega
+•
+Kardex de Artículos
+•
+Órdenes de Compra
+•
+Artículos Existencias y
+Movimiento
+•
+Comparativo entre Compras
+Vs. Ventas
+•
+Requisiciones de
+Compra/Bodega
+•
+Consulta de Documentos
+Ingresado
+NOMINA
+Mantenimiento
+•
+Cargos Nuevo
+•
+Mantenimiento de Empleado
+•
+Beneficios / Deducciones
+•
+Mantenimiento Rol Nuevo
+•
+Tabla de Impuesto a la Renta
+•
+Documentos a Escanear
+•
+Ingreso del Sector Nuevo•
+Porcentajes de Multas
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Ingreso de Novedades
+Faltas
+Aumento de Sueldo
+Horas Extras
+Prestamos Nuevo
+Vacaciones Nuevo
+Registro Ingresos/Salidas
+Importar Datos - Nomina
+Formulario SRI - Gastos
+Personales
+Otros Ingresos Personales
+Ingresos Automáticos
+Nomina
+Facturas Debito por Pagar
+Ingreso de Subsidios Nuevo
+Ingreso Cargos Nomina
+Ingreso Descargos Nomina
+
+Procesos
+•
+•
+•
+•
+•
+•
+
+Rol de Pagos
+Decimo Tercero
+Decimo Cuarto
+Liquidación de Utilidades
+Liquidación de Empleados
+Rol de Pagos Temporal
+Jornadas
+
+Consultas
+•
+•
+•
+•
+
+Consulta Rol de Pagos
+Consulta Beneficios y
+Deducciones
+Consulta de Empleados
+Estado de Cuenta de
+Prestamos
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Ingreso de Novedades
+Faltas
+Aumento de Sueldo
+Horas Extras
+Prestamos
+Vacaciones
+Registro Ingresos/salidas
+Importar Datos - Nomina
+Formulario SRI - Gastos
+Personales
+Otros Ingresos
+Personales
+Ingresos Automáticos
+Nomina
+Facturas Debito por
+Pagar
+Ingreso de Subsidios
+Ingreso Cargos Nomina
+Ingreso Descargos
+Nomina
+Configuración de
+Entradas y Salidas
+
+Procesos
+•
+•
+•
+•
+•
+•
+
+Rol de Pagos
+Decimo Tercero
+Decimo Cuarto
+Liquidación de Utilidades
+Liquidación de
+Empleados
+Rol de Pagos Temporal
+Jornadas
+
+Consultas
+•
+Consulta Rol de Pagos
+•
+Consulta Beneficios y
+Deducciones
+•
+Consulta de Empleados
+•
+Estado de Cuenta de
+prestamos
+•
+Costo del Trabajador
+•
+Consulta de Faltas
+•
+Impresión de Cheques
+•
+Consulta de Contratos
+•
+Consulta de Gastos
+personales
+GESTIÓN
+Movimientos
+•
+•
+•
+•
+•
+•
+
+Presupuesto
+Cedulas presupuestarias
+de Ingresos y Gastos
+Reformas
+presupuestarias
+Certificaciones
+presupuestarias
+Compromisos y
+devengados
+Análisis de Ventas vs
+Cartera
+
+Mantenimiento
+•
+•
+
+Bancos
+Configuración Conciliación
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Caja Chica
+Cuadre de Caja
+Cuadre de Caja - Local
+Cuadre de Caja General
+Conciliación Bancaria
+Cobros Clientes
+Pagos Proveedores
+
+•
+•
+•
+•
+•
+
+Costo del Trabajador
+Consulta de
+Impresión de Cheques
+Consulta de Contratos
+Consulta de Gastos
+
+GESTIÓN
+
+Consultas
+•
+Informe de Caja Chica
+•
+Disponibilidad bancaria
+
+Movimientos
+•
+Presupuesto
+•
+Análisis de Ventas vs Cartera
+•
+Procesos
+•
+ReMayorización de
+Presupuesto
+Consultas
+•
+Indicadores de Clientes
+•
+Indicadores de Proveedores
+•
+Indicadores Financieros
+•
+Gestión de Documentos
+
+ACTIVO FIJO
+
+CAJA – BANCOS
+
+Mantenimiento
+
+Mantenimiento
+•
+Bancos
+•
+Configuración Conciliación
+Bancar
+
+•
+•
+•
+•
+
+Maestro de Activo
+Maestro de Bodegas
+Tablas Varias - Activo Fijo
+Mantenimiento de Activo Fijo
+
+Movimientos
+•
+Compra Ingreso/Egreso Activos
+Fijos
+•
+Traslado del Activo
+•
+Facturación Activo Fijo
+•
+Planificación Mantenimiento de
+Activo fijo
+Procesos
+•
+Depreciación Activo Fijo
+Consultas
+•
+Datos de Activo Fijo
+•
+Traslado de Activo Fijo
+•
+Consulta de Depreciación
+IMPUESTOS
+Mantenimiento
+•
+
+Detalle de Comprobantes por
+transacción
+
+Movimientos
+•
+Anexos Transaccionales
+•
+Declaraciones/
+•
+Comprobantes Electrónicos
+Recibidos
+Consultas
+•
+Anexos a Impuestos
+•
+Reporte de Formularios
+TARJETA DE CRÉDITO
+
+Movimientos
+•
+Caja Chica Nuevo
+•
+Pago por Reposición de Caja
+Chica
+•
+Cuadre de Caja
+•
+Cuadre de Caja - Local •
+Cuadre de Caja General
+•
+Conciliación Bancaria
+•
+Cobros Clientes
+•
+Pagos Proveedores
+Consultas
+•
+•
+
+Informe de Caja Chica
+Disponibilidad bancaria
+
+ACTIVO FIJO
+Mantenimiento
+•
+Maestro de Activo Fijo
+•
+Maestro de Bodegas
+•
+Tablas Varias - Activo
+•
+Mantenimiento de Activo Fijo
+Movimientos
+•
+Compra Ing/Egr Activos Fijos
+•
+Traslado del Activo
+•
+Facturación Activo Fijo
+•
+Planificación Mantenimiento
+de Activos
+Procesos
+•
+Depreciación Activo Fijo
+Consultas
+•
+Datos de Activo Fijo
+•
+Traslado de Activo Fijo
+•
+Consulta de Depreciación
+
+Mantenimiento
+Procesos
+•
+•
+•
+
+Remayorización de
+Presupuesto
+Compromisos
+Devengados
+
+Consultas
+•
+•
+•
+•
+•
+•
+
+IMPUESTOS
+•
+
+Indicadores de Clientes
+Indicadores de
+Proveedores
+Indicadores Financieros
+Gestión de documentos
+Ejecución presupuestaria
+Reportes de
+certificaciones y
+comprobantes emitidos
+
+Ingreso Datos de Tarjeta de
+Crédito
+
+Movimientos
+•
+•
+
+Facturas por Tarjeta de crédito
+Pagos a Tarjetas de Créditos
+
+Mantenimiento
+•
+
+Detalle de Comprobantes por
+Transacción
+
+Movimientos
+•
+Anexos Transaccionales
+•
+Declaraciones/Impuestos
+•
+Comprobantes Electrónicos
+Recibidos
+Consultas
+•
+Anexos a Impuestos Cargos
+Descargos
+•
+Reporte de Formularios
+TARJETA DE CREDITO
+
+CAJA – BANCOS
+Mantenimiento
+•
+Bancos
+•
+Configuración
+Conciliación Bancaria
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+•
+
+Caja Chica
+Pago por Reposición de
+Caja Chica
+Cuadre de Caja
+Cuadre de Caja - Local
+Cuadre de Caja General
+Conciliación
+Cobros Clientes
+Pagos Proveedores
+
+Consultas
+•
+•
+
+Informe de Caja Chica
+Disponibilidad bancaria
+
+ACTIVO FIJO
+Mantenimiento
+•
+Maestro de Activo Fijo
+•
+Maestro de Bodegas
+•
+Tablas Varias - Activo
+Fijo
+•
+Mantenimiento de Activo
+Fijo
+Movimientos
+•
+Compra Ingreso/Egreso
+Activos Fijos
+•
+Traslado del Activo
+•
+Facturación Activo Fijo
+•
+Planificación
+Mantenimiento de
+Activos
+
+Mantenimiento
+•
+Ingreso Datos de Tarjeta de
+Crédito
+Movimientos
+•
+Facturas por Tarjeta de
+crédito
+•
+Pagos a Tarjetas de Créditos
+
+Procesos
+•
+Depreciación Activo Fijo
+Nuevo
+•
+Depreciación Múltiple
+Activo
+Consultas
+•
+•
+•
+
+Datos de Activo
+Traslado de Activo Fijo
+Consulta de
+Depreciación
+
+•
+Mantenimiento
+•
+
+Detalle de Comprobantes
+por Transacción
+
+Movimientos
+•
+•
+•
+
+Anexos Transaccionales
+Declaraciones/
+Comprobantes
+Electrónicos Recibidos
+
+Consultas
+•
+Anexos de Impuestos
+Cargos Descargos
+•
+Reporte de Formularios
+TARJETA DE CREDITO
+Mantenimiento
+•
+
+Ingreso Datos de Tarjeta
+de Crédito
+
+Movimientos
+•
+•
+
+Facturas por Tarjeta de
+crédito
+Pagos a Tarjetas de
+Créditos
+
+FARMACIAS
+ADMINISTRADOR/A DE FARMACIAS
+
+Se debe configurar para ocho usuarios, que
+manejan las cajas de Farmacias.
+Instalación de Vademecun de medicamentos
+actualizado por cada usuario.
+INVENTARIO
+
+INVENTARIO
+
+Mantenimiento
+
+Mantenimiento
+
+•
+•
+•
+•
+
+Maestro de Artículos o Items
+Maestro de Bodegas
+Tablas Varias del Sistema
+
+•
+•
+•
+•
+
+Maestro de Artículos o Ítems
+Maestro de Bodegas
+Tablas Varias del Sistema
+Series de Artículos por Comprobante
+
+Movimientos
+•
+•
+•
+•
+•
+
+Compras/ Ingresos. /Egresos a
+Bodegas
+Transferencias de Bodegas
+Devolución Compras
+Notas Crédito
+Guía de Remisión
+
+VENTAS
+Mantenimiento
+•
+•
+•
+•
+•
+•
+•
+
+Maestro de Artículos
+Maestro Clientes/Vendedores
+Movimientos
+Facturación/Punto de Venta
+Devolución de Ventas
+Cuadre de Caja de Ventas
+Facturas y Ventas Ingresadas
+
+CUENTAS POR COBRAR
+Consultas
+•
+•
+•
+
+Estados de Cuenta
+Clientes Movimientos y Pendientes
+Vademécum
+
+•
+•
+
+Comprobante a Utilizar
+Catalogo de Precios por cliente
+
+Movimientos
+•
+•
+•
+•
+•
+
+Compras Ingresos Egresos a Bodegas
+Transferencias de Bodegas
+Guía de Remisión
+Producción o Ensamble de Articulo
+Ingresos/Egresos por Garantía
+
+Procesos
+•
+•
+•
+•
+
+Recosteo de Inventario y Facturación
+Contabilización Batch de Inventario
+Modifica códigos Ingresos y Egreso
+Cambiar Códigos de Artículos
+
+Consultas
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Vademécum de medicamentos
+Ingresos -Egresos de Bodega
+Kardex o Movimientos. de Artículos
+Listas de Precios de Artículos
+Toma de Inventario Físico
+Costos Artículos y Existencias
+Artículos Existencias y Movimiento
+Etiquetas de Artículos
+Componentes Sustitutos Alternos
+Consulta de Series de Artículos
+Resumen de Movimientos de Artículos
+Existencias de Varias las Bodegas
+Consulta Análisis Costos y Precios
+Movimientos Bodegas
+Consulta de Guías de Remisión
+Datos de Artículos
+Inventario de Lotes
+
+VENTAS
+Mantenimiento
+•
+•
+•
+•
+•
+•
+•
+•
+
+Posfechados y Forma Pago
+Maestro. de Artículos
+Maestro. Clientes/
+Maestro Rutas
+Clave Autorización de Precios
+Mantenimientos de Precios
+Forma de cobro Pto. Venta
+Unidad de Negocio por Marca
+
+Movimientos
+•
+•
+•
+•
+
+Facturación
+Facturación/Punto de Venta
+Devolución de Ventas
+Pedidos, Cotizaciones, etc.
+
+Procesos
+•
+•
+
+Contabilización Batch de Facturación
+Modificación de Facturas y Ventas
+
+Consultas
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Análisis de Rentabilidad de Ventas
+Comisiones de Ventas Pagadas
+Cuadre de Caja de Ventas
+Facturas y Ventas Ingresadas
+Ranking y Resumen de Ventas
+Ranking y Ventas por Artículo
+Listas de Precios de
+Informe de Clientes, Proveedores
+Artículos Existencias y Movimiento
+Estadísticas Mensuales y Anuales
+Cotización - Guías y Pedidos
+Cotización, Pedidos por Artículo
+Etiquetas de Clientes
+Clientes Movimientos y Pendientes
+Ventas Mensuales por Articulo
+Consulta Factura Electrónica
+Facturas Pendientes
+
+CUENTAS POR COBRAR
+Mantenimiento
+•
+•
+•
+
+Maestro Clientes/Proveedores
+Maestro de Departamentos
+Ingresos de Caja Por Cobro
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Facturas/Débitos Clientes
+Cobros/Créditos Clientes
+Multiples Cobros/
+Posfechados y Forma Pago
+Gestión Cobranza Clientes
+Registro de Retenciones
+Registro de Retenciones Clientes
+
+Procesos
+•
+•
+
+Modificación Datos/Cabecera
+Cruzar Docts. Pendientes
+
+Consultas
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Análisis de Antigüedad
+Documentos Digitados
+Documentos
+Estados de Cuenta
+Resumen por Tipo de Comprobante
+Datos de Clientes
+Etiquetas de Clientes
+Clientes Movimientos y
+Documentos Posfechados
+Control Limites de Crédito
+Documentos Pendientes Agrupados
+Comisiones Por Venta
+Documentos Aplicados
+Análisis Evolución de Cartera
+
+COMPRAS / IMPORTACIONES
+
+Mantenimiento
+•
+•
+•
+
+Maestro de Artículos
+Gastos de Importación
+Partidas Arancelarias
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Órdenes de Compra
+Proforma de Importación
+Ordenes de Importación
+Ingreso de Importación
+Facturas y Débitos
+Requisiciones de Compra/Bodega
+Gestión de Importaciones
+
+Consultas
+•
+•
+•
+•
+•
+•
+•
+
+Ingresos / Egresos de Bodega
+Kardex de Artículos
+Órdenes de Compra
+Artículos Existencias y Movimiento
+Comparativo entre Compras Vs. Ventas
+Requisiciones de Compra/Bodega
+Consulta de Documentos Ingresado
+
+PRESUPUESTO
+Movimientos
+•
+•
+
+Presupuesto
+Análisis de Ventas vs Cartera
+
+Procesos
+•
+
+Remayorización de Presupuesto
+
+Consultas
+•
+•
+•
+•
+
+Indicadores de Clientes
+Indicadores de Proveedores
+Indicadores Financieros
+Gestión de Documentos
+
+COMISARIATOS
+Se debe configura para cuatro usuarios,
+que manejan las cajas de comisariatos
+VENTAS
+
+INVENTARIO
+
+Mantenimiento
+
+Mantenimiento
+
+•
+•
+•
+•
+•
+•
+•
+
+Unidad de Negocio por Marca
+Maestro de Artículos
+Maestro Clientes/Vendedores
+Maestro Rutas
+Clave Autorización de Precios
+Mantenimientos de Precios
+Posfechados y Forma Pago
+
+ADMINISTRADOR/A DE COMISARIATOS
+
+•
+•
+•
+•
+•
+•
+
+Maestro de Artículos o Ítems
+Maestro de Bodegas
+Tablas Varias del Sistema
+Series de Artículos por Comprobante
+Comprobante a Utilizar
+Catalogo de Precios por cliente
+
+•
+
+Forma de cobro Punto de Venta
+
+Movimientos
+•
+•
+•
+
+Facturación Punto de Venta
+Devolución de
+Pedidos, Cotizaciones etc.
+
+Movimientos
+• Compras Ingresos Egresos a Bodegas
+• Transferencias de Bodegas
+• Guía de Remisión
+• Producción o Ensamble de Articulo
+• Ingresos/Egresos por Garantía
+
+Procesos
+• Recosteo de Inventario y Facturación
+•
+Contabilización Batch de Inventario
+• Análisis de Rentabilidad de Ventas
+• Modifica códigos Ingresos y Egreso
+• Comisiones de Ventas Pagadas
+• Cambiar Códigos de Artículos
+• Cuadre de Caja de Ventas
+• Facturas y Ventas
+Consultas
+• Ranking y Resumen de Ventas
+• Ingresos -Egresos de Bodega
+• Ranking y Ventas por Artículo
+• Kardex o Movimientos. de Artículos
+• Listas de Precios de Artículos
+• Listas de Precios de Artículos
+• Informe de Clientes Proveedores
+• Toma de Inventario Físico
+• Artículos Existencias y Movimiento
+• Costos Artículos y Existencias
+• Estadísticas Mensuales y Anuales
+• Artículos Existencias y Movimiento
+• Cotización - Guías y Pedidos
+• Etiquetas de Artículos
+• Cotización, Pedidos x Artículo
+• Componentes Sustitutos Alternos
+• Etiquetas de Clientes
+• Consulta de Series de Artículos
+• Clientes Movimientos y
+• Resumen de Movimientos de Artículos
+Pendientes
+• Existencias de Varias las Bodegas
+• Consulta Factura Electrónica
+• Consulta Análisis Costos y Precios
+• Ventas Mensuales por Articulo
+• Movimientos Bodegas
+• Facturas Pendientes
+• Consulta de Guías de Remisión
+• Datos de Artículos
+CUENTAS POR COBRAR
+• Inventario de Lotes
+Consultas
+
+Mantenimiento
+• Maestro Clientes/Proveedores
+• Maestro de Departamentos
+• Ingresos de Caja Por Cobro
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Facturas/Débitos Clientes
+Cobros/Créditos Clientes
+Múltiples Cobros/Descargos
+Posfechados y Forma Pago
+Gestión Cobranza Clientes
+Registro de Retenciones
+Automática
+Registro de Retenciones Clientes
+
+Procesos
+• Cruzar Docts. Pendientes
+• Modificación Datos/Cabecera
+Consultas
+•
+•
+•
+
+Documentos Aplicados
+Análisis de Antigüedad
+Documentos Digitados
+
+VENTAS
+Mantenimiento
+•
+•
+•
+•
+•
+•
+•
+•
+
+Posfechados y Forma Pago
+Maestro. de Artículos
+Maestro. Clientes/
+Maestro Rutas
+Clave Autorización de Precios
+Mantenimientos de Precios
+Forma de cobro Pto. Venta
+Unidad de Negocio por Marca
+
+Movimientos
+•
+•
+•
+•
+
+Facturación
+Facturación/Punto de Venta
+Devolución de Ventas
+Pedidos, Cotizaciones, etc.
+
+Procesos
+• Contabilización Batch de Facturación
+• Modificación de Facturas y Ventas
+Consultas
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Documentos Pendientes
+Estados de Cuenta
+Resumen por Tipo de
+Comprobante
+Etiquetas de Clientes
+Clientes Movimientos y
+Pendientes
+Documentos Posfechados
+Control Limites de Crédito y Venta
+Documentos Pendientes
+Agrupados
+Comisiones Por Venta
+Datos de
+Análisis Evolución de Cartera
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Análisis de Rentabilidad de Ventas
+Comisiones de Ventas Pagadas
+Cuadre de Caja de Ventas
+Facturas y Ventas Ingresadas
+Ranking y Resumen de Ventas
+Ranking y Ventas por Artículo
+Listas de Precios de
+Informe de Clientes, Proveedores
+Artículos Existencias y Movimiento
+Estadísticas Mensuales y Anuales
+Cotización - Guías y Pedidos
+Cotización, Pedidos por Artículo
+Etiquetas de Clientes
+Clientes Movimientos y Pendientes
+Ventas Mensuales por Articulo
+Consulta Factura Electrónica
+Facturas Pendientes
+
+CUENTAS POR COBRAR
+Mantenimiento
+•
+•
+•
+
+Maestro Clientes/Proveedores
+Maestro de Departamentos
+Ingresos de Caja Por Cobro
+
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Facturas/Débitos Clientes
+Cobros/Créditos Clientes
+Multiples Cobros/
+Posfechados y Forma Pago
+Gestión Cobranza Clientes
+Registro de Retenciones
+Registro de Retenciones Clientes
+
+Procesos
+•
+•
+
+Modificación Datos/Cabecera
+Cruzar Docts. Pendientes
+
+Consultas
+• Análisis de Antigüedad
+• Documentos Digitados
+• Documentos
+• Estados de Cuenta
+• Resumen por Tipo de Comprobante
+• Datos de Clientes
+• Etiquetas de Clientes
+• Clientes Movimientos y
+• Documentos Posfechados
+• Control Limites de Crédito
+• Documentos Pendientes Agrupados
+• Comisiones Por Venta
+• Documentos Aplicados
+• Análisis Evolución de Cartera
+
+COMPRAS / IMPORTACIONES
+Mantenimiento
+• Maestro de Artículos
+• Gastos de Importación
+• Partidas Arancelarias
+Movimientos
+•
+•
+•
+•
+•
+•
+•
+
+Órdenes de Compra
+Proforma de Importación
+Ordenes de Importación
+Ingreso de Importación
+Facturas y Débitos
+Requisiciones de Compra/Bodega
+Gestión de Importaciones
+
+Consultas
+• Ingresos / Egresos de Bodega
+• Kardex de Artículos
+• Órdenes de Compra
+• Artículos Existencias y Movimiento
+• Comparativo entre Compras Vs. Ventas
+• Requisiciones de Compra/Bodega
+• Consulta de Documentos Ingresado
+GESTION
+Movimientos
+•
+•
+
+Presupuesto
+Análisis de Ventas vs Cartera
+
+Procesos
+• Remayorización de Presupuesto
+Consultas
+• Indicadores de Clientes
+• Indicadores de Proveedores
+• Indicadores Financieros
+• Gestión de Documentos
+
+Nota: Cada módulo debe tener la opción de generar Nuevo, Grabar, Modificar,
+Anular, Eliminar, Dar de Baja Consulta Imprimir, Presente Preliminar, Cancelar,
+Salir, Procesar, Gráficos, Otros Botones, Exportar.
+7. Plazo de ejecución: parciales y/o total
+
+El plazo de ejecución para implementación del Sistema adquirido será de 2
+meses, contados a partir de lo estipulado en la firma del contrato, los cuales se
+distribuirán de la siguiente manera:
+
+PRINCIPALES FASES E HITOS
+No.
+
+Fase/Hito
+
+1
+
+Recepción de base de datos
+del sistema anterior
+Extracción de la información y
+elaboración de plantilla formato
+Excel para revisión y
+aprobación(Sistema Anterior)
+Envió de Plantillas para la
+carga de nómina, saldos de
+CXP y CXC.
+Revisión de información
+extraída del sistema anterior.
+Definición de codificación para
+los artículos, clientes y
+proveedores, usuarios, plan de
+cuentas.
+Envió de saldos de CXC y CXP.
+(Información del Sistema
+Anterior)
+Creación de usuarios (Enviar
+datos para creación de
+usuarios)
+Revisión de Perfiles de Usuario
+(Parametrizar permisos de cada
+usuario)
+Recibido la aceptación de la
+información se procede a
+elaborar las plantillas de
+ingreso de información de
+clientes, proveedores, artículos
+y usuarios.
+
+2
+3
+4
+5
+6
+7
+8
+
+9
+
+10
+
+Preparación y Configuración del
+servidor.
+
+11
+
+Creación de Base de datos
+para cada Local.
+Parametrización de base de
+datos para cada local.
+Cargar la información a la base
+de datos maestros de clientes,
+proveedores, artículos,
+empleados.
+Carga del plan de cuentas.
+Parametrización de plan de
+cuentas a cada comprobante.
+Cargar información de los
+saldos de CXC y CXP
+Envió de reportes desde el
+sistema con la información que
+fue aprobada, revisada y
+cargada a la base de datos.
+
+12
+13
+14
+15
+16
+17
+
+Tiemp
+o
+Estim
+ado
+
+Unida
+d
+
+5
+
+días
+
+CD
+
+Valido información
+entregada en el CD
+
+días
+
+Archivos Excel
+
+Correo Electrónico del
+contador.
+
+días
+
+Archivo Excel
+
+Correo Electrónico del
+contador.
+
+días
+
+Archivo Excel
+
+Correo Electrónico del
+contador.
+
+días
+
+Archivo Excel
+
+Correo Electrónico del
+contador.
+
+días
+
+Archivo Excel
+
+Correo Electrónico al
+proveedor del nuevo
+sistema.
+
+días
+
+Archivo Excel
+
+Correo Electrónico del
+contador.
+
+días
+
+Archivo Excel
+
+Correo Electrónico del
+contador.
+
+días
+
+Archivo Excel
+
+Correo Electrónico al
+proveedor del nuevo
+sistema.
+
+Entregable
+
+2
+1
+5
+
+5
+2
+2
+2
+
+Medio de Verificación
+
+2
+días
+
+Se verifico pruebas de
+conexión y
+funcionalidad en
+general.
+
+2
+
+días
+
+Base de datos SQL
+
+2
+
+días
+
+Base de datos SQL
+
+días
+
+Base de datos SQL
+
+3
+2
+
+días
+
+Base de datos SQL
+
+1
+
+días
+
+Base de datos SQL
+
+3
+
+días
+
+Base de datos SQL
+
+días
+
+Reportes en formato
+PDF.
+
+2
+
+1
+
+18
+19
+20
+21
+22
+23
+24
+
+25
+26
+27
+28
+29
+30
+31
+
+Aprobación de reportes de
+información enviada desde el
+sistema
+Envió de reporte de inventario
+para la toma física de
+inventario.
+Carga de toma física al
+sistema.
+Envió de reporte de inventario.
+Aprobación de reporte de
+inventario cargado al sistema.
+Envió de firmas electrónicas
+(Archivo P12) para cada local.
+Envió de usuario de correo y
+clave para realizar la
+parametrización de correo
+electrónico saliente para los
+comprobantes electrónicos.
+Elaboración de formatos para
+facturas, retenciones, guías de
+remisión, notas de crédito,
+liquidación de compras
+electrónicas.
+Aprobación de formatos de
+documentos electrónicos.
+Parametrización de Firmas
+electrónicas en cada local.
+Solicitud y envió de ingreso de
+cada local al ambiente de
+pruebas SRI.
+Realización de pruebas de
+comprobantes electrónicos de
+cada local.
+Solicitud y envío de ingreso de
+cada local al ambiente de
+producción SRI(PA)
+Parametrización de cada local
+al ambiente de producción.
+
+días
+
+Confirmación recibida
+por correo electrónico.
+
+días
+
+Reporte en PDF
+
+1
+2
+
+días
+
+Reporte en PDF
+
+días
+
+Reporte en PDF
+
+2
+
+días
+
+Reporte en PDF
+
+2
+
+días
+
+Archivo P12
+
+días
+
+Usuario y clave del
+correo.
+
+días
+
+Reportes
+
+1
+
+días
+
+Reportes
+
+1
+
+Horas
+
+2
+
+Horas
+
+2
+
+Horas
+
+2
+
+Horas
+
+2
+
+Horas
+
+3
+1
+
+2
+
+1
+
+32
+
+Capacitación de módulos. (A
+usuarios)
+
+20
+
+33
+
+Proceso de replicación de base
+de datos y parametrización de
+locales a Base Principal.
+
+2
+
+8. Ejecución del Contrato
+
+A partir de la suscripción del Contrato
+9.
+
+Tipo de Adjudicación
+
+La adjudicación es total.
+
+días
+
+días
+
+Mientras dure el
+proceso de
+implementación
+
+10. Vigencia de la Oferta
+
+60 días
+11. Personal técnico/equipo de trabajo/recursos
+
+EQUIPO MÍNIMO REQUERIDO
+No.
+
+Equipos y/o
+
+Cantidad
+
+instrumentos
+
+1
+
+Laptop
+
+Características
+Corei i7 10TH
+
+1
+
+GEN
+
+8.2. PERSONAL TÉCNICO MÍNIMO
+No.
+
+Función
+-
+
+Titulación
+
+Estudio
+
+Académica
+
+Programador de sistemas y
+técnico en Business
+
+1
+
+Nivel de
+
+Carreras
+Superior
+
+informáticas o
+
+Intelligence
+-
+
+2
+
+Cantidad
+
+1
+
+afines
+Superior
+
+Analista de Sistemas y
+Manejo de Base de Datos
+
+Carreras
+informáticas o
+
+1
+
+afines
+
+3
+
+Contador
+
+Superior
+
+4
+
+Abogado
+
+Superior
+
+Contabilidad y
+
+1
+
+auditoria
+Derecho
+
+1
+
+8.2.1 EXPERIENCIA MÍNIMA DEL PERSONAL TÉCNICO
+Tiempo
+No.
+
+Descripción
+
+(horas, días,
+meses, años)
+
+-
+
+Número de
+proyectos
+
+Monto de proyectos
+
+Programador de
+sistemas y
+
+1
+
+técnico en
+
+1 año
+
+3
+
+1.000,00
+
+1 año
+
+3
+
+1.000,00
+
+Business
+Intelligence
+2
+
+Analista de
+Sistemas y
+Manejo de Base
+de Datos
+
+3
+
+Contador
+
+1 año
+
+3
+
+1.000,00
+
+4
+
+Abogado
+
+1 año
+
+3
+
+1.,000,.00
+
+8.3. EXPERIENCIA GENERAL Y ESPECÍFICA MÍNIMA
+EXPERIENCIA GENERAL 15 años
+
+Tipo de
+Experiencia
+
+Descripción
+
+Experiencia
+
+Número de
+
+Monto de
+
+Monto Mínimo
+
+adquirida en los
+
+proyectos
+
+experiencia
+
+Contractual por
+
+últimos (años)
+
+similares
+
+mínima
+
+proyecto
+
+15 años
+
+5
+
+$ 1.500.00
+
+$ 150.00
+
+El oferente debe
+presentar copias
+simples de hasta
+5 proyectos
+similares,
+justificando con
+actas de entrega
+recepción
+Experiencia
+
+provisional o
+
+General
+
+definitiva,
+contratos y/o
+facturas;
+realizada en los
+últimos 15 años
+previos a la
+publicación del
+presente proceso
+de contratación.
+
+Este requisito no está sujeto a un número de documentos presentados por el
+oferente para acreditar la experiencia general; sino al cumplimiento de esta
+condición en relación al valor mínimo requerido. Si con la presentación de un
+documento que acredite la experiencia, el oferente cumple el monto mínimo
+solicitado para la experiencia mínima general, este será considerado como
+
+válido para acreditar la experiencia.
+
+12. Forma y condiciones de pago
+
+No se otorgará anticipo, el pago del valor total del contrato será pagado contra
+entrega, previa presentación de facturas que cumplan con la Ley de Régimen
+Tributario Interno (LRTI), acta entrega recepción definitiva, e informe de
+conformidad de recepción de los servicios por parte del Administrador del
+Contrato del PAS-GADMT.
+
+13. OBLIGACIONES DE LAS PARTES
+
+13.1. OBLIGACIONES ADICIONALES DEL CONTRATISTA
+•
+
+Cumplir con los términos de referencia requeridas en los pliegos.
+
+•
+
+Cumplir con los plazos establecidos en los pliegos para el servicio
+requerido por la Entidad Contratante.
+
+•
+
+Brindar un buen servicio de calidad que cumplan con las normas.
+
+13.2. OBLIGACIONES ADICIONALES DE LA ENTIDAD CONTRATANTE
+
+Como obligación del contratante se establece los tiempos para el
+procesamiento del trámite:
+•
+
+Términos para la atención o solución de peticiones o problemas (5) días.
+
+•
+
+Número de días para celebrar contratos complementarios (15) días.
+
+•
+
+Número de días para proporcionar los documentos accesos e
+información (5) días.
+
+•
+
+Hacer cumplir los términos de referencia establecidos en los pliegos.
+
+•
+
+Realizar pagos dentro de los plazos establecidos por la LOSNCP,
+REGLAMENTO DE LOSNCP y Resoluciones emitidas por el SERCOP.
+
+14. EVALUACIÓN DE LA OFERTA (CUMPLE / NO CUMPLE)
+
+Los parámetros de calificación, son las condiciones mínimas que deberá
+cumplir la oferta para que sea considerada: Integridad de la oferta, equipo
+mínimo, Umbral de Valor Agregado Ecuatoriano Mínimo (VAE), Experiencia
+general mínima, Experiencia mínima del personal técnico,
+
+Patrimonio
+
+(Personas Jurídicas), Especificaciones Técnicas o Términos de Referencia,
+Experiencia Específica Mínima, Garantía Técnica y Certificado de Calidad.
+15. GARANTÍAS REQUERIDAS
+
+El oferente adjudicado previa la suscripción del contrato deberá presentar las
+siguientes garantías conforme lo determinan los Art. 74, 75 y 76 de la Ley
+Orgánica del Sistema Nacional de Contratación Pública LOSNCP en caso que
+aplique en base a montos y naturaleza del contrato.
+•
+
+Garantía Técnica, artículo 76.
+
+16. ADMINISTRADOR DEL CONTRATO
+
+DEBERES DEL ADMINISTRADOR DEL CONTRATO
+
+16.1
+
+•
+
+El objetivo principal del Administrador del Contrato es la vigilancia del fiel
+y estricto cumplimiento de las cláusulas del contrato, a fin de que el
+mismo se ejecute de acuerdo a lo estipulado en las especificaciones
+técnicas. En caso de incumplimiento será sujeto a las sanciones
+estipuladas en el contrato.
+
+•
+
+El administrador del contrato será la Lcda. Zaida Villarreal, en calidad de
+Administrador de Farmacias.
+
+•
+
+El Administrador del Contrato debidamente designado, actúa a nombre y
+en representación del PASGADMT, en la ejecución del contrato y cuenta
+con las atribuciones legales, a parte de las indicadas en los demás
+
+documentos del contrato, siendo por lo tanto responsable por cualquier
+omisión descuido o negligencia en el cumplimiento de sus funciones.
+•
+
+Preparar los informes detallando si está cumpliendo cabalmente con las
+especificaciones del contrato y de cualquier anomalía existente en la
+relación contractual.
+
+17. TERMINACIÓN DEL CONTRATO
+
+El contrato termina:
+•
+
+Por cumplimiento o incumplimiento de las obligaciones contractuales.
+
+•
+
+Por mutuo acuerdo de las partes.
+
+•
+
+Por muerte del Contratista
+
+18. ÍNDICES FINANCIEROS
+
+Información Financiera de Referencia
+•
+
+Índice de solvencia: mayor o igual a 1
+
+•
+
+Índice de endeudamiento: menor a 1.5
+
+19. PARTIDA PRESUPUESTARIA
+
+Los fondos disponibles asignados para la presente contratación según partida
+presupuestaria No. 11.84.01.07.000.0 que corresponde ADQUISICIÓN DE UN
+SOFTWARE DE GESTIÓN ADMINISTRATIVA, CONTABLE Y FINANCIERA
+PARA EL PATRONATO DE AMPARO SOCIAL DEL PAS GADMT, y alcanza
+un
+
+valor
+
+total
+
+de
+
+(
+
+)
+
+DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA, MÁS EL
+IVA. Los valores de la contratación serán cancelados conforme a la
+certificación presupuestaria.
+10. PRESUPUESTO REFERENCIAL
+
+PRESUPUESTO REFERENCIAL
+
+N°
+
+TIPO DE
+
+DESCRIPCIÓN
+
+COMPRA
+
+CPC NIVEL 9
+
+UNIDAD
+MEDIDA
+
+CANTIDAD
+
+VALOR
+UNITARIO
+
+SISTEMA
+1
+
+INFORMÁTICO
+ADMINISTRATIVO Y
+
+SERVICIO
+
+5129000115
+
+U
+
+1
+
+CONTABLE
+PRECIO TOTAL REFERENCIAL SIN IVA
+PRECIO TOTAL REFERENCIAL CON 12% IVA
+
+SON:
+DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA, MÁS EL IVA.
+
+Tulcán, 01 de agosto de 2022
+
+Elaborado y Revisado por:
+
+Firmado electrónicamente por:
+
+ZAIDA JANNETH
+VILLARREAL
+ANDRAMUNO
+
+Aprobado por:
+
+Firmado electrónicamente por:
+
+DARLA VICTORIA
+ALTAMIRANO
+NARVAEZ
+
+Lcda. Zaida Villarreal
+
+Ing. Darla Altamirano
+
+Administradora
+Farmacias Municipales
+C.I. 040106030-6
+
+Directora Ejecutiva
+PAS GADMT (S)
+C.I. 0401505847
+
+VALOR TOTAL
+
+

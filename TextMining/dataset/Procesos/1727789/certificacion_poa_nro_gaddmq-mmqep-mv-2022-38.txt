@@ -1,0 +1,259 @@
+EMPRESA PÚBLICA METROPOLITANA DEL MERCADO MAYORISTA
+PLANIFICACIÓN
+INFORME TÉCNICO DE CERTIFICACIÓN ACTIVIDADES POA
+
+NORMATIVA:
+Art. 5.- 1. Sujeción a la planificación.- La programación, formulación, aprobación, asignación, ejecución, seguimiento y evaluación del Presupuesto General del Estado, los demás presupuestos de las entidades públicas y todos los recursos públicos, se sujetarán a los lineamientos de la planificación del desarrollo de
+todos los niveles de gobierno, en observancia a lo dispuesto en los artículos 280 y 293 de la Constitución de la República.
+Código Orgánico de Planificación y Finanzas Públicas
+
+MEF - Normas Técnicas de Presupuesto
+
+PROGRAMACIÓN PRESUPUESTARIA.- Art. 97.- Contenido y finalidad.- Fase del ciclo presupuestario en la que, en base de los objetivos determinados por la planificación y las disponibilidades presupuestarias coherentes con el escenario fiscal esperado se definen los programas, proyectos y actividades a incorporar en
+el presupuesto, con la identificación de las metas, los recursos necesarios, los impactos o resultados esperados de su entrega a la sociedad; y los plazos para su ejecución.
+El ente rector de las finanzas públicas establecerá, sobre la base de la programación cuatrianual, los límites máximos de recursos a certificar y comprometer para las entidades y organismos que conforman el Presupuesto General del Estado.
+
+NORMAS TÉCNICAS DE PRESUPUESTO (codificación al 5 de abril de 2018), numeral 2.4.1: "(...) Los planes operativos anuales constituirán el nexo que permitirá vincular los objetivos y metas de los planes plurianuales con las metas y resultados de los programas incorporados en el presupuesto (....)"; numeral 2.4.2
+"PROGRAMACIÓN DE LA EJECUCIÓN PRESUPUESTARIA: "La programación de la ejecución del presupuesto consiste en proyectar la distribución temporal, en los subperíodos que se definan dentro del ejercicio fiscal anual, de la producción de bienes servicios que las instituciones entregarán a la sociedad y los
+requerimientos financieros necesarios para ese propósito. En el primer caso se definirá como programación física y, en el segundo, como programación financiera";y, Numeral 2.4.2.1: "La programación de la ejecución física de las metas de producción de bienes y servicios es responsabilidad de las instituciones a
+cargo de la ejecución de los programas contenidos en el presupuesto."
+
+Estatuto MMQ-EP
+
+ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA METROPOLITANA DEL MERCADO MAYORISTA DE QUITO, MMQ–EP-seccion III: PLANIFICACIÓN: dj) Realizar la programación, seguimiento y monitoreo del Plan Operativo Anual
+
+Plan Operativo Anual
+
+Mediante Resolución de Directorio Nro. DIR-MMQ-2021-025 del 23 de diciembre de 2021, los miembros del Directorio de la MMQ-EP resuelven en su artículo 1: Aprobar el Plan Operativo Anual y el Presupuesto 2022 de la MMQ-EP
+
+La Gerencia General, en el marco de sus atribuciones, emite el documento denominado "Lineamientos para la operatividad del Plan Operativo Anual de la MMQ-EP 2022"
+
+Directrices
+
+DATOS GENERALES:
+Fecha de elaboración
+
+miércoles, 13 de julio de 2022
+
+No. Memorando de Solicitud de
+Certificación POA
+
+Unidad Requirente
+
+JEFATURA DE DESARROLLO TECNOLÓGICO
+
+Gerencia Institucional
+
+MMQEP-GDO-2022-339
+
+13/7/2022
+
+Fecha de solicitud
+
+GERENCIA DE DESARROLLO ORGANIZACIONAL
+
+REQUERIMIENTO Y VALIDACIÓN :
+Nro. de Certificación de Actividad POA
+
+GADDMQ-MMQEP-MV-2022-
+
+38
+REVISIÓN
+
+REQUERIMIENTO
+PROYECTO
+
+ACTIVIDAD/PRODUCTO
+
+FORTALECIMIENTO E
+INNOVACIÓN DE LOS
+ADQUISICION DE SISTEMA
+SERVICIOS DEL MERCADO INFORMATICO INTEGRAL
+MAYORISTA DE QUITO
+
+TAREA
+
+CONTRATACIÓN PORTAL
+COMPRAS PÚBLICAS
+
+SUBTAREA
+
+Monto Solicitud
+
+ADQUISICIÓN DE SISTEMA
+INFORMÁTICO
+INTEGRADO
+ADMINISTRATIVOFINANCIERO-CATASTRO
+PARA LA EMPRESA
+PUBLICA
+METROPOLITANA
+MERCADO MAYORISTA DE
+QUITO
+
+IVA Solicitud
+
+130.000,00
+
+Tipo de Proceso (Nuevo o Arrastre)
+
+TOTAL SOLICITUD
+
+130.000,00
+
+MONTO TOTAL DE LA CERTIFICACIÓN POA
+
+Saldo Línea POA
+
+Nuevo
+
+¿Consta en POA ?
+
+Financiamiento
+
+SI
+
+SI
+
+-
+
+130.000,00
+
+Programación Plurianual
+
+ESTRUCTURA PROGRAMATICA
+UNIDAD REQUIRENTE
+
+JEFATURA DE
+DESARROLLO
+TECNOLÓGICO
+
+PROGRAMA
+
+PROYECTO
+
+DESARROLLO ECONÓMICO
+LOCAL
+
+FORTALECIMIENTO E
+INNOVACIÓN DE LOS
+SERVICIOS DEL MERCADO
+MAYORISTA DE QUITO
+
+ACTIVIDAD
+
+TAREA
+
+ADQUISICION DE SISTEMA
+INFORMATICO INTEGRAL
+
+CONTRATACIÓN
+PORTAL COMPRAS
+PÚBLICAS
+
+ITEM
+
+NOMBRE DE ITEM
+
+8.4.01.07
+
+Equipos, Sistemas y Paquetes Informaticos
+
+AÑO 2022
+
+MONTO TOTAL
+
+AÑO 2023
+
+AÑO 2024
+
+130.000,00
+
+130.000,00
+
+AÑO 2025
+
+TOTAL PLURIANUAL
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+ANÁLISIS Y CONCLUSIÓN
+Planificación, de acuerdo a sus atribuciones y responsabilidades, procedió a revisar la MATRIZ POA de:
+JEFATURA DE DESARROLLO TECNOLÓGICO
+CONCLUSIÓN:
+
+GERENCIA DE DESARROLLO ORGANIZACIONAL
+CERTIFICA: la existencia de la programación de la actividad, de acuerdo a los datos detallados en el Requerimiento y Validación de este Informe.
+
+NOTA
+
+DETALLE
+
+De conformidad con los lineamientos, la presente certificación perderá su validez si en el plazo de 15 días no se ha obtenido la certificación presupuestaria correspondiente.
+
+CARGO
+
+FIRMA
+
+FECHA
+
+Firmado electrónicamente por:
+
+Aprobado por:
+
+María Gabriela Arboleda Ch.
+Analista de Planificación
+
+MARIA GABRIELA
+ARBOLEDA CHAMORRO
+
+13/7/2022
+
+

@@ -1,0 +1,624 @@
+ESTUDIO DE MERCADO PARA LA DEFINICIÓN DEL PRESUPUESTO REFERENCIAL
+
+“ADQUISICIÓN DE SISTEMA INFORMÁTICO INTEGRADO ADMINISTRATIVO-FINANCIEROCATASTRO PARA LA EMPRESA PUBLICA METROPOLITANA MERCADO MAYORISTA DE QUITO”
+
+Quito, 12 de Julio de 2022
+
+1. ANTECEDENTES. -
+
+Un sistema integrado de información, permite unificar en un solo sistema de gestión, dos o más
+sistemas, permitiendo a una organización o empresa unificar varias áreas de la misma, logrando una
+reducción de costos, disminución de esfuerzo y maximización de resultados.
+
+Los sistemas integrados, marcan una nueva tendencia hacia la adquisición de aplicaciones
+estandarizadas en lugar de personalizadas según las necesidades específicas de la institución y logran
+una integración mucho mayor al utilizar una plataforma tecnológica única y concentrar toda la
+información de la empresa en una base de datos compartida por todas las áreas organizativas.
+
+El Mercado Mayorista de Quito EP es una Institución en la que la mayoría de procesos no se
+encuentran automatizados, y en los procesos que se encuentran automatizados se manejan varios
+sistemas para la gestión de la información administrativa como operativa los mismos que obsoletos
+y sin soporte técnico vigente por parte del proveedor, además los procesos de Talento Humano,
+Activos Fijos y Planificación no cuentan con ningún sistema informático y sus actividades las realizan
+manualmente.
+
+Según el estatuto orgánico de la MMQ-EP, La Jefatura de Desarrollo Tecnológico tiene como Misión
+“Art. 53. - Proveer servicios informáticos y tecnología para el procesamiento de datos y acceso a la
+información, mediante la implantación de una infraestructura tecnológica de punta y el suministro
+
+de sistemas y aplicaciones para coadyuvar al desarrollo integral de la Empresa”.
+
+Motivo por el cual, según el Informe Técnico Nro. MMQEP-F-GDO-2022-0005, se hace una solicitud
+por parte de la Jefatura Financiera a la Jefatura de Desarrollo Tecnológico la identificación de la
+necesidad para la “ADQUISICIÓN DE SISTEMA INFORMÁTICO INTEGRADO ADMINISTRATIVOFINANCIERO-CATASTRO PARA LA EMPRESA PUBLICA METROPOLITANA MERCADO MAYORISTA DE
+QUITO”, también las áreas de Catastro, Talento Humano según informe técnico Nro. MMQEP-THGDO-2022-002 y Activos fijos según memorando Nro. MMQEP-A-GDO-2022-008 realizan las
+solicitudes de necesidad, las mismas que son adjuntadas a este documento.
+
+2. BASE LEGAL. –
+
+Mediante Ordenanza Metropolitana N° 0296, en sesión del 11 de octubre del 2012, el Concejo
+Metropolitano del Distrito Metropolitano de Quito crea la Empresa Pública Metropolitana del
+Mercado Mayorista de Quito, MMQ-EP.
+
+Se expide “El Estatuto Orgánico de la Empresa Pública Metropolitana del Mercado Mayorista de
+Quito, MMQ-EP” con fecha 22 de mayo del 2013, en tal estatuto se establecen los siguientes artículos
+que son bases para la presente adquisición:
+
+1) Art. 61.- Misión. - Planificar, operar, administrar y supervisar los procesos de
+comercialización, con la participación de los comerciantes organizados, facilitando un proceso
+de oferta y demanda que beneficie tanto a los comerciantes como a los consumidores. La
+misión la ejerce el Gerente de Operaciones.
+2) Art. 64.- Misión. - Elaborar, administrar y mantener el catastro comercial del MMQ-EP. La
+misión la ejercerá un Especialista de Catastros.
+3) Art. 65.- Atribuciones. - Son atribuciones del Catastro, las siguientes: a) Realizar anualmente
+la constancia física de espacios públicos, bodegas, comerciantes, asociaciones, cooperativas
+de transporte, prestadores de servicio, giros de negocio, asociaciones de venta de alimentos;
+
+b) Verificar la legalidad de su funcionamiento; c) Mantener un catastro actualizado de
+espacios públicos, bodegas, comerciantes, asociaciones, cooperativas de transporte,
+prestadores de servicio, giros de negocio, asociaciones de venta de alimentos; y d) Informar
+sobre la legalidad y consistencia de las variables.” 4) Art. 66.- Portafolio de Productos a)
+Catastro de espacios públicos, bodegas, comerciantes, asociaciones, cooperativa de
+transportes, prestadores de servicio, giro de negocio, asociaciones de venta de alimentos y;
+b) Informe de legalidad”
+
+Reglamento General Sustitutivo para la Administración, Utilización, Manejo y Control de Bienes e
+Inventarios del Sector Público. Art. 30.- Control. - Las adquisiciones y disminuciones de inventarios
+serán controladas y se registrarán observando lo siguiente: a) Los registros serán controlados por el
+departamento encargado de su manejo a través del sistema de inventarios permanente o perpetuo,
+utilizando como método de control el precio promedio ponderado. b) El Guardalmacén o quien
+hiciera sus veces, hará llegar periódicamente al departamento contable, la información y
+documentación relativa al movimiento de ingresos y egresos para la valoración, actualización y
+conciliación respectiva de forma semanal o mensual. c) El Custodio Administrativo de cada área
+llevará una hoja de control por inventarios, en la que constará: identificación y descripción de los
+inventarios, fecha, cantidad, nombre del Usuario Final y firma. Art. 39.- Ubicación de los bienes y/o
+inventarios. - Los bienes y/o inventarios recibidos, aun aquellos que por sus características físicas
+deban ser ubicados directamente en el lugar correspondiente u otro espacio físico temporal,
+ingresarán a la bodega u otro espacio de almacenaje temporal que se adecué para la vigilancia y
+seguridad de los bienes antes de su utilización. El Guardalmacén, o quien haga sus veces, hará el
+registro correspondiente en el sistema para el control de bienes, con las especificaciones debidas y
+la información sobre su ubicación y el nombre del Usuario Final del bien.
+
+Recomendaciones de Contraloría a cumplir respecto a los Sistemas Utilizados en la Empresa Pública
+Metropolitana Mercado Mayorista.
+
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 2:
+
+“Dispondrá y supervisará que el Jefe de Desarrollo Tecnológico, realice en el módulo de catastro y
+recaudación del sistema informático, la parametrización de la identificación de local esto es
+nomenclatura, número de local y ubicación a la que pertenece; el área, los valores por metro
+cuadrado, los números de cédula y/o RUC validados; y, las condicionantes que permita a los usuarios
+del sistema; activar a los comerciantes que ocupan el espacio en la entidad e inactivar a quienes ya
+no hacen uso del mismo, obtener el valor del canon de arrendamiento real de acuerdo a los metrajes
+actualizados; y, generar la facturación sobre la base de los arrendatarios registrados, con el fin de
+que la información del catastro y la facturación sea consistente, integra, confiable y no exista
+duplicidad en las transacciones.”
+
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 9:
+Dispondrá y supervisará que el Gerente de Desarrollo Organizacional conjuntamente con la Tesorera,
+Recaudadora y el Asesor Jurídico ejecuten los procedimientos y las acciones legales para recuperar
+la cartera vencida y se registren contablemente los valores recuperados, que permita conciliar los
+datos reportados en el módulo de recaudación y contabilidad, a fin de generar los mayores auxiliares
+por cada comerciante, lo que permitirá disponer de la información oportuna, veraz y confiable, se
+sugiere que esta información sea emitida directamente del sistema y se evite realizarlo
+manualmente, se considerará las notificaciones automatizadas.
+
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 13:
+Dispondrá y supervisará al Jefe de Desarrollo Tecnológico que solicite a los proveedores del sistema
+Olympo incorporen y parametricen accesos, permisos y seguridades en la emisión secuencial de las
+facturas, notas de débito, notas de crédito, recibos de cobros y cierres de caja, a fin que no se utilicen
+ni se anule de estos documentos en fechas posteriores a su emisión original.
+
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 17:
+Implementará controles electrónicos y de validación para que no se generen saltos de secuencia
+tanto en facturación como notas de débito, recibos de cobro y cierres de caja, especialmente en el
+cuadre de la misma debido a fallas del sistema informático con la finalidad de que se procesen
+
+únicamente documentos cuyas fechas de emisión guarden relación con sus números de secuencia y
+que se implemente mantenimientos periódicos al sistema con el fin de evitar reprocesos o
+facturación manual.
+
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 18:
+Realizará una depuración integral, revisión del perfil asignado y permisos otorgados de los usuarios
+existentes, firmarán un acuerdo de confidencialidad, se implementará una política de renovación de
+claves en forma periódica; se deshabilitará a todos los usuarios que fueron desvinculados de la
+entidad; y, reportará a su inmediato superior en forma trimestral las acciones de gestión de usuarios
+ejecutadas, a fin de asegurar el buen uso del sistema y consecuentemente disponer de información
+integra y confiable, al igual que crear perfiles de acuerdo al cargo ya que el módulo de Tesorería no
+consta en el sistema.
+
+En el informe del Examen DNA5-GAD-0026-2021, en la No. Re. Informe 23:
+Realizará en el sistema informático el registro permanente por auxiliares individualizados o por
+grupos, de los bienes, productos e insumo adquiridos debiendo verificar las característica,
+especificaciones y valores conforme al contrato, acta entrega recepción y facturas, generando los
+ingresos y los egresos de bodega con las actas de entrega a los usuarios finales, con el fin de que se
+mantenga un control y reportes actualizados de los bienes o productos entregados utilizados.
+Las Normas de Contraloría General del Estado disponen a la Jefatura Financiera:
+
+403-02 Constancia documental de la recaudación
+El Ministerio de Finanzas y toda entidad, organismo del sector público y persona jurídica de derecho
+privado que disponga de recursos públicos que recaude o reciba recursos financieros, en concepto
+de ingresos, consignaciones, depósitos y otros conceptos por los que el Estado sea responsable,
+otorgarán un comprobante de ingreso pre impreso y pre numerado. Por cada recaudación que realice
+una entidad u organismo del sector público, por cualquier concepto, se entregará al usuario el
+original del comprobante de ingreso pre impreso y pre numerado o una especie valorada; estos
+documentos cumplirán con los requisitos establecidos por el organismo rector en materia tributaria
+
+y respaldarán las transacciones realizadas, permitiendo el control sobre los recursos que ingresan al
+Tesoro Nacional. Diariamente se preparará, a modo de resumen, el reporte de los valores
+recaudados. Ninguna institución por ningún concepto, podrá cobrar tasa y/o tarifa alguna por la
+venta de bienes y servicios, sin que medie la comercialización de especies valoradas, factura, nota de
+venta y otros documentos autorizados por el organismo rector en materia tributaria. Las entidades
+públicas mantendrán un control interno estricto y permanente del uso y destino de los formularios
+para recaudación de recursos.
+En caso de especies valoradas o títulos de crédito, sus movimientos se justificarán
+documentadamente mediante controles administrativos.
+
+405-02 Organización del sistema de Contabilidad Gubernamental El sistema de contabilidad de las
+entidades públicas se sustentará en la normativa vigente para la contabilidad gubernamental y
+comprende, entre otros, la planificación y organización contables, objetivos, procedimientos,
+registros, reportes, estados financieros y demás información gerencial y los archivos de la
+documentación que sustentan las operaciones.
+
+El ente financiero del gobierno central y las demás entidades del sector público son responsables de
+establecer y mantener su sistema de contabilidad dentro de los parámetros señalados por las
+disposiciones legales pertinentes, el cual debe diseñarse para satisfacer las necesidades de
+información financiera de los distintos niveles de administración, así como proporcionar en forma
+oportuna, los reportes y estados financieros que se requieran para tomar decisiones sustentadas en
+el conocimiento real de sus operaciones.
+
+La eficiencia de la organización contable constituye un elemento de control interno, orientado a que:
+•
+
+Las operaciones se efectúen de acuerdo con la organización establecida en la entidad.
+
+•
+
+Las operaciones se contabilicen por el importe correcto en las cuentas apropiadas y en el
+período correspondiente.
+
+•
+
+Se mantenga el control de los bienes de larga duración y de aquellos sujetos a control
+administrativo para su correspondiente registro y salvaguarda.
+
+•
+
+Se conserve en forma actualizada el inventario de existencias.
+
+•
+
+La información financiera se prepare de acuerdo con las políticas y prácticas contables
+determinadas por la profesión.
+
+•
+
+Se produzcan los reportes y estados financieros requeridos por las regulaciones legales y
+por las necesidades gerenciales.
+
+405-03 Integración contable de las operaciones financieras La contabilidad constituirá una base de
+datos financieros actualizada y confiable para múltiples usuarios. La función de la contabilidad es
+proporcionar información financiera válida, confiable y oportuna, para la toma de decisiones de las
+servidoras y servidores que administran fondos públicos. La contabilidad es el elemento central del
+proceso financiero, porque integra y coordina las acciones que deben cumplir las unidades que
+integran el Sistema de Administración Financiera, ya que reciben las entradas de las transacciones de
+los subsistemas de presupuesto, contabilidad gubernamental, tesorería, nómina, control físico de
+bienes, deuda pública y convenios, los clasifica, sistematiza y ordena, conforme a los principios y
+normas técnicas que posibilitan el registro y control de los recursos públicos, permitiendo la
+producción de información financiera actualizada y confiable, para uso interno y externo. En cada
+unidad de contabilidad se reflejará la integración contable y presupuestaria de sus operaciones
+respecto del movimiento de fondos, bienes y otros.
+
+Con base a las recomendaciones de Contraloría, así como a su Normativa, e informes de necesidad
+de las áreas Financiera, Talento Humano, Activos Fijos y Catastro previamente citadas me permito
+señalar la necesidad de contar un sistema integral Administrativo-Financiero-Catastro requerido para
+la Empresa Pública Metropolitana Mercado Mayorista de Quito.
+
+3. JUSTIFICACION. -
+
+Las áreas en las que basa su gestión el MMQ-EP son: Gerencia Operaciones (GO), Gerencia de
+Desarrollo Organizacional (GDO). La GDO en su Jefatura Financiera tiene en producción herramientas
+informáticas como Olympo V7 para la parte de facturación y recaudación, la cual al momento no
+
+cuenta con soporte técnico ya que la versión es obsoleta como lo determina el proveedor, Sistema
+SIG-AME para la parte contable el mismo que pertenece a la Asociación de manucipalidades del
+Ecuador (AME) la cual es software propietario y no se cuenta con un soporte técnico adecuado,
+unidades de Talento Humano y Activos Fijos (Bienes) no cuentan con un sistema informático y
+realizan sus actividades de forma manual, sin embargo, por la mejora continua en la que se encuentra
+inmerso el MMQEP demanda de soluciones ágiles y concentradas, que se ajusten a los nuevos
+requerimientos de la institución.
+
+Al momento el enfoque se encuentra en la Gerencia de Desarrollo Organizacional y en la Gerencia
+Operaciones, con el objetivo no solo integrar los diferentes procesos en uno solo, sino también poder
+contar con un módulo para talento humano, Activos fijos (bienes y existencias), un módulo de
+catastro que se debe integrar al módulo financiero, integración con el biométrico, contar con un
+bitácora del personal donde se pueda contar con sus permisos, vacaciones, contratos, comisión de
+servicios, disponer de la hoja de vida del empleado, la utilización de la firma electrónica en los
+diferentes procesos. Esto permitirá racionalizar esfuerzo, recursos y costos destinados a la
+optimización de la gestión del MMQEP asegurando la calidad de cada uno de los procesos de las
+diferentes áreas. Es crucial que todos dentro de la institución trabajen con la misma información, y
+en la parte técnica se maneje una sola base de datos compartida, permitiendo un eficaz y eficiente
+mantenimiento del sistema.
+
+La información en el Sistema Integral en el módulo de Catastro, debe ser estructurado sobre una
+base de datos y presentarse de manera sencilla a través de una plataforma para acceso de los
+diferentes niveles de usuarios, con el objeto de contribuir a un catastro integrado con diferentes usos
+como: planificar, ejecutar, operar, administrar y supervisar los procesos de comercialización en el
+MMQ EP.
+
+Además, se debe considerar el Código Orgánico de la Economía Social de los Conocimientos,
+Creatividad e Innovación que dice en el Artículo 145.- Migración a software de fuente abierta. - Las
+Instituciones del sector público deberán realizar una evaluación de factibilidad de migrar sus
+
+tecnologías digitales a tecnologías digitales libres con los criterios establecidos en el reglamento
+correspondiente. Se evaluará la criticidad del software, debiendo considerar los siguientes criterios:
+1. Sostenibilidad de la solución;
+2. Costo de oportunidad;
+3. Estándares de seguridad;
+4. Capacidad técnica que brinde el soporte necesario para el uso del software.
+
+Art. 148.- Prelación en la adquisición de software por parte del sector público. - Para la contratación
+pública relacionada a software, las entidades contratantes del sector público deberán seguir el
+siguiente orden de prelación:
+1. Software de código abierto que incluya servicios de desarrollo de código fuente, parametrización o
+implementación con un importante componente de valor agregado ecuatoriano;
+
+Por lo que existen aún sistemas en la institución de código cerrado que necesitan de licenciamiento
+tanto para el motor de base de datos como para el desarrollo de software. En nuestro caso puntual
+el actual sistema es de código cerrado y propietario por lo que se depende de un tercero para
+actualizaciones, mejoras o desarrollos. Con la implementación del sistema integral se estaría
+aplicando el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación,
+antes mencionado en sus artículos más importantes. Al tener el código fuente del software de código
+abierto y los derechos del sistema de información a nombre del MMQEP la institución se encuentra
+facultada para ejecutar el software conforme a los propósitos institucionales, libertad para
+modificarlo y adaptarlo a nuestras necesidades cuando sus intereses lo requieran sin necesitar
+autorización o pago de licencias de uso.
+
+4. OBJETO DE COMPRA. -
+
+4.1 Objetivo General:
+
+Adquisición de un sistema informático integrado administrativo-financiero-catastro para la empresa
+pública metropolitano mercado mayorista de quito.
+
+4.2 Objetivos Específicos:
+•
+
+Implementar el sistema de gestión administrativa-financiera-catastro logrando contar con
+un solo sistema de información, para agilizar los procesos, reducir costos y maximizar
+resultados.
+
+•
+
+Mejorar el tiempo de respuesta de los diferentes sistemas del MMQEP.
+
+•
+
+Facilitar las integraciones de nuevos sistemas implementados en el Mercado Mayorista
+de Quito EP.
+
+•
+
+Reducir tiempos de gestión y costes de mantenimiento del sistema.
+
+•
+
+Disponer de un sistema web que ingrese a los módulos en base al perfil asignado
+
+•
+
+Evitar los sistemas cliente servidor, los cuales requieren de la instalación del aplicativo en
+cada computador y diferentes permisos de acuerdo al usuario.
+
+5. EXISTENCIA DE PRODUCTOS O SERVICIOS SUSTITUTOS MÁS EFICIENTES
+No aplica.
+6. METODOLOGIA DE ESTUDIO DE MERCADO
+6.1 Análisis del servicio a ser adquirido:
+
+Ítem
+
+Origen
+Atributo / nombre del bien
+del bien o Código
+o servicio
+CPC
+servicio
+
+Descripción CPC
+
+Facilidad de
+Adquisición
+en el
+mercado
+
+Número
+de
+Oferentes
+
+Media
+
+6604
+
+Sistema Informático que
+contenga:
+
+1
+
+Modulo Administrativo Financiero
+Módulo
+de
+Talento
+Humano y Nomina
+Módulo de Activos Fijos
+Módulo de Recaudación,
+Rentas
+Módulo de Catastro
+
+Nacional
+
+Remítase a las especificaciones técnicas
+
+512900031
+
+SISTEMA DE GESTION
+INFORMATICO ERP
+
+Analisis
+En el link del portal de compras públicas
+https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/EP/BusquedaProveedorCpc.c
+pe# se realizó la verificación de de los proveedores segun el CPC 54290 donde los resultados fueron
+que existen 6604 oferentes.
+
+6.2 Origen del bien o servicio a ser adquirido
+No Aplica.
+
+6.3 Considerar los montos de adjudicaciones similares realizadas en años pasados.
+Se realizó la búsqueda en el portal web: https://www.compraspublicas.gob.ec, de los diferentes
+procesos de compras públicas de las entidades del estado, bajo las palabras clave SISTEMA
+INFORMATICO, las mismas que se detalla a continuación:
+
+Análisis
+En este sentido, no se encontró procesos similares adjudicados en la Empresa Pública Metropolitana
+Mercado Mayorista de Quito.
+Adicionalmente se buscaron procesos similares realizados en los últimos 2 años en otras entidades
+del estado, se encontraron procesos similares en otras instituciones del estado los mismos no
+cumplen con las características técnicas de la contratación, para las instalaciones del MMQEP.
+
+6.4 Tomar en cuenta la variación de los precios locales e/o importados considerando la
+inflación (nacional e/o internacional), es decir realizar el análisis a precios actuales:
+El siguiente apartado no aplica debido a que no existen procesos de contratación similares,
+cuyo presupuesto referencial sea utilizado para realizar el análisis de variación de precios.
+6.5 Proformas de proveedores de las obras, bienes o servicios a contratar.
+
+Se procedió a solicitar cotizaciones en el mercado nacional obteniendo las siguientes
+cotizaciones:
+Proveedor 1: ISACNET S.A. con RUC: 1791407881001
+Proveedor 2: SOLUCIONES KAPA OCHO LAYEREIGHT con RUC: 1792764475001
+Proveedor 3: INTELECTUS SYSTEM con RUC: 1792393795001
+
+CUADRO COMPARATIVO PROFORMAS
+VALOR
+MÁS BAJO
+DE
+PROVEEDOR2 PROVEEDOR3
+PROFORMA
+
+VALORES REFERENCIALES UNITARIOS
+ITEM
+
+1
+
+CPC
+
+512900031
+
+CANT
+
+DESCRIPCIÓN
+del bien y/o servicio proformado o
+cotizado
+
+UNIDAD PROVEEDOR1
+
+1
+
+Sistema Informático que contenga:
+Modulo
+Administrativo
+–
+Financiero.
+Módulo de Talento Humano y
+Nomina.
+Módulo de Activos Fijos.
+Módulo de Recaudación, Rentas.
+Módulo de Catastro.
+
+Unidad 140.000,00
+
+145.000,00 130.000,00 130.000,00
+
+ANÁLISIS
+En función a los puntos mencionados anteriormente, el estudio de mercado en el proceso de
+“Adquisición de un Sistema Informático Integrado Administrativo-Financiero-Catastro para la
+Empresa Pública Metropolitano Mercado Mayorista de Quito”, se ha tomado en consideración el
+valor más bajo de las proformas presentadas por los proveedores, ya que no existe en el portal de
+compras públicas adjudicaciones similares al objeto de contratación.
+
+Verificación de actividades según el RUC de los proveedores:
+
+Cumplimiento de las ofertas:
+No.
+
+PROVEEDOR
+
+VERIFICACIÓN RUC
+
+CUMPLIMIENTO DE
+ESPECIFICACIONES TÉCNICAS
+
+1
+
+ISACNET S.A.
+
+“SI CUMPLE con la actividad
+económica relacionada a la
+automatización de sistemas”.
+
+“SI CUMPLE con las
+especificaciones
+técnicas solicitas”.
+
+2
+
+SOLUCIONES KAPA
+OCHO LAYEREIGHT
+
+“SI CUMPLE con la actividad
+económica relacionada a la
+automatización de sistemas”.
+
+“SI CUMPLE con las
+especificaciones
+técnicas solicitas”.
+
+3
+
+INTELECTUS SYSTEM
+
+“SI CUMPLE con la actividad
+económica relacionada a la
+automatización de sistemas”.
+
+“SI CUMPLE con las
+especificaciones
+técnicas solicitas”.
+
+ITEM
+
+ATRIBUTO / NOMBRE DEL
+BIEN O SERVICIO
+
+UNIDAD
+
+VALOR
+UNITARIO
+ACTUAL SOCE
+
+VALOR UNITARIO
+MÁS BAJO DE
+PROFORMAS
+
+VALOR
+UNITARIO
+REFERENCIAL
+
+UNIDAD
+
+N/A
+
+130.000,00
+
+130.000,00
+
+Sistema Informático que
+contenga:
+
+1
+
+Modulo Administrativo –
+Financiero.
+Módulo de Talento Humano
+y Nomina.
+Módulo de Activos Fijos.
+Módulo de Recaudación,
+Rentas.
+Módulo de Catastro.
+
+El presupuesto referencial obtenido para el presente proceso es el siguiente:
+
+ITEM
+
+ATRIBUTO / NOMBRE DEL
+BIEN O SERVICIO
+Sistema Informático
+contenga:
+
+1
+
+UNIDAD
+
+CANTIDAD
+
+VALOR REFERENCIAL
+UNITARIO
+
+PRECIO
+TOTAL
+
+UNIDAD
+
+1
+
+130.000,00
+
+130.000,00
+
+que
+
+Modulo Administrativo –
+Financiero.
+Módulo de Talento Humano y
+Nomina.
+Módulo de Activos Fijos.
+Módulo de Recaudación,
+Rentas.
+Módulo de Catastro.
+
+TOTAL
+
+$ 130.000,00
+
+Análisis
+Las tres ofertas CUMPLEN con las especificaciones técnicas y con verificación de la su actividad
+económica en el portal de SRI, pero la oferta de la empresa INTELECTUS SYSTEM tiene el valor más
+bajo ofertado y se ajusta al presupuesto de la Institución, por un valor de USD. $130.000,00+ IVA
+(CIENTO TREINTA MIL, 0/100 DÓLARES DE LOS ESTADOS UNIDOS DE NORTEAMÉRICA).
+7. RECOMENDACIÓN
+De acuerdo al análisis realizado, se recomienda que el presupuesto referencial obtenido para el
+presente proceso de contratación es el siguiente:
+
+VALOR TOTAL
+USD 130.000,00 +
+IVA
+
+JUSTIFICACIÓN
+El presupuesto referencial de la contratación alcanza la suma de US$ ciento
+treinta mil, 00/100 DÓLARES DE LOS ESTADOS UNIDOS DE NORTEAMÉRICA
+MÁS IVA.
+
+Elaborado por:
+
+Revisado y Aprobado por:
+Aprobado por:
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+CARLOS MAURICIO
+QUILACHAMIN
+SIMBAÑA
+
+JUAN GABRIEL
+JARRIN
+PEREIRA
+
+Ing. Mauricio Quilachamín
+Jefe de Desarrollo Tecnológico
+
+Mgs. Juan Gabriel Jarrín
+Gerente de Desarrollo Organizacional
+
+Katty Pastás
+Gerente de Operaciones (E)
+
+

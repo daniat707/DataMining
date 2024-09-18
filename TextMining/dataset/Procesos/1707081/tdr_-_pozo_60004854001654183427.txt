@@ -1,0 +1,743 @@
+TERMINOS DE REFERENCIA
+1.- OBJETO DE CONTRATACIÓN.
+SERVICIO DE MANTENIMIENITO PREVENTIVO Y CORRECTIVO DEL
+POZO #6
+2. ANTECEDENTES.
+La Empresa Municipal de Agua Potable de Duran EMAPAD-EP inició sus actividades
+comerciales el 27 de mayo de 2010 creada con la finalidad de brindar servicios de agua
+potable y alcantarillado en el cantón Durán, Provincia del Guayas.
+El Gobierno del Ecuador enmarcó dentro del Plan Nacional de Desarrollo - Plan toda una
+vida periodo 2017-2021, la organización de tres Ejes Programáticos y nueve Objetivos
+Nacionales de Desarrollo, que se basan en la sustentabilidad ambiental y el desarrollo
+territorial.
+De acuerdo con lo contemplado en el tercer eje "Mas sociedad, mejor estado" que promueve
+la participación ciudadana y la construcción de una nueva ética social basada en la
+transparencia y en la solidaridad, un Estado cercano con servicios de calidad y calidez,
+abierto al diálogo social permanente, así como la soberanía y la paz, y el posicionando
+estratégicamente del Estado en el mundo.
+El objetivo siete del referido Plan Nacional de Desarrollo promueve incentivar una sociedad
+participativa, con un estado cercano al servicio de la ciudadanía en la que en su arte
+contextual indica lo siguiente: "...Existe una mirada hacia los Gobiernos Autónomos
+Descentralizados como responsables del desarrollo local, que debe ser sostenible y efectivo.
+Para ello se plantea la gestión efectiva de sus competencias, de manera particular en la
+prestación de servicios públicos a su cargo agua, saneamiento, seguridad, vialidad, etc).
+Todo ello, además, en el marco de una coordinación adecuada con el Gobierno Central..."
+Además, como parte de la planificación del Estado Ecuatoriano en el largo plazo, el
+Gobierno Central impulsará un trabajo coordinado entre éste y los Gobiernos Autónomos
+Descentralizados donde se hará posible la universalización de los servicios básicos como
+agua potable y alcantarillado.
+En los límites entre Milagro y Yaguachi, están ubicados los grupos de bombeo y pozos, que
+proveen del líquido vital al cantón Durán con un régimen de funcionamiento 24/7. Con el
+fin preservar su vida útil, mediante programación de acuerdo al tiempo de servicio de los
+mismos, se les realiza el respectivo mantenimiento y reparación, garantizando con esto una
+producción continua del agua, así como la de prolongar su vida útil.
+El 15 de mayo de 2022 la bomba marca GRUNDFOS modelo SP 215-4 de 1130 GPM
+del punto de captación #6 que funciona desde agosto del 2021 presentó ruidos mecánicos
+extraños y decreció su producción en 80 m3/h; por lo que se procedió a apagar el equipo
+de bombeo, quedando el pozo fuera de servicio.
+
+Página 1 de 9
+
+3. JUSTIFICATIVO.
+Garantizar un buen servicio y una eficiente explotación de los puntos de captación haciendo
+uso de las herramientas necesarias que garanticen la distribución oportuna y con la presión
+que corresponda y poder abastecer de agua potable al cantón Durán.
+4.- OBJETIVOS
+4.1.- Objetivo General
+Este procedimiento precontractual tiene como propósito seleccionar la oferta idónea para la
+contratación del “SERVICIO DE MANTENIMIENITO PREVENTIVO Y
+CORRECTIVO DEL POZO #6”
+
+4.2.- Objetivo especifico
+Limpieza del punto de captación #6; aumentar el caudal de producción del pozo, para
+así mejorar la distribución de agua potable al Cantón Durán.
+
+5.- ALCANCE
+Con el servicio del punto de captación #6 tendrá el alcance la suma de la producción de
+un pozo de mejorar el caudal de producción y distribución de agua potable para el cantón
+Durán.
+
+6.- METODOLOGÍA DE TRABAJO
+“SERVICIO DE
+MANTENIMIENITO PREVENTIVO Y CORRECTIVO DEL POZO #6” está
+constituido por las siguientes etapas principales:
+El
+
+procedimiento por seguir
+
+para
+
+la
+
+correcta ejecución del
+
+1.
+2.
+3.
+4.
+
+DESCONEXION DE MOTOR DE 150 HP DEL PANEL PRINCIPAL DE CONTROL.
+INSPECCIÓN Y MEGADO DE MOTOR DE 150HP
+LIMPIEZA DE POZO CON COMPRESOR DE AIRE DE 150 PSI
+TRATAMIENTO QUIMICO (POLIFOSFATO Y HIPOCLORITO DE CALCIO,
+MANGUERA Y COMPRESOR)
+5. INSPECCIÒN CON CAMARA DE AUDIO Y VIDEO SUMERGUIBLE
+6. CAMBIO DE BOMBA SUMERGUIBLE DE 150 HP FRANKLIN ELECTRIC
+7. TRASLADO DE BOMBA SUMERGIBLE DE 150 HP FRANKLIN ELECTRIC
+8. MONTAJE DE BOMBA SUMERGIBLE 150 HP CON 42M DE TUBERIA BRIDADA
+9. INSTALACION DE SENSORES DE NIVEL, CABLES DE FUERZAS
+10. CAMBIO DE EMPAQUETADURA Y PERNERIA
+11. CONEXIÓN DE MOTOR DE 150 HP A PANEL PRINCIPAL DE CONTROL
+12. CALIBRACION Y PUESTA EN MARCHA DE EQUIPOS
+
+7.- INFORMACIÓN QUE DISPONE LA ENTIDAD
+
+Página 2 de 9
+
+La entidad contratante (EMAPAD-EP) pondrá a disposición del contratista la siguiente
+información:
+
+
+
+En caso de que el contratista requiera más información, podrá obtenerla por medio
+del administrador del contrato
+
+PUNTO DE CAPTACION #6
+ACOMETIDA ELECTRICA
+
+ACOMETIDA TRIFASICA DESDE LINEA DE 13.8 KV
+
+TRANSFORMADOR
+
+TRANSFORMADOR TRIFASICO DE 400 KVA . + 1
+TRANSFORMADOR MONOFAICO DE 30 KVA
+
+TABLEROS ELECTRICOS
+
+TABLERO ARRANCADOR CON ARRANCADOR SUAVE DE
+POTENCIA 200 HP MARCA DANFOS
+
+ELECTROBOMBA
+CAUDAL ACTUAL
+
+MOTOR SUMERGIBLE FRANKILM ELECTRIC - DE 150 HP 60HZ
+190 A 460V. ADQUIRIDO EN 2021 ACOPLADO A BOMBA
+GRUNDFOS DE 4 ETAPAS (BOMBA DAÑADA, REQUIERE
+CAMBIO).
+310 m3/h ANTES DEL DAÑO DE BOMBA
+
+POZO
+PREFUNDIDAD DE BOMBA
+NIVEL ESTATICO
+MIVEL DINAMICO
+LINEA HIDRAULICA
+VALVULA DE DESGUE
+VALVULA DE DESCARGA
+VALVULA CHECK
+
+POZO PERFORADO Y ENTUBADO EN EL AÑO 2009 DISEÑO EN
+PVC CON REJILLAS DE ACERO GALVANIZADO DE 16" DE 100 M
+DE PROFUNDIDAD.
+41 M
+19 M - 21 M
+30 M - 33 M
+TUBERIA HORIZONTAL DE ACERO DE 250 MM SHEDULE 40 .
+VALVULA DE COMPUERTA DE 250 MM
+VALVULA DE COMPUERTA DE 250 MM
+VALVULA CHEQUE DE 250 MM H.F.
+
+8.- PRODUCTOS O SERVICIOS ESPERADOS
+La adquisición de los productos solicitados deberá cumplir con las siguientes especificaciones
+técnicas:
+#
+
+DESCRIPCION
+
+1
+
+DESCONEXION DE MOTOR DE 150 HP DEL
+PANEL PRINCIPAL DE CONTROL
+
+2
+
+CANTIDAD UNIDAD
+
+INSPECCIÓN Y MEGADO DE MOTOR DE
+150HP
+
+Página 3 de 9
+
+1
+
+U
+
+1
+
+U
+
+ESPECIFICACIONES
+Desconexión con
+herramientas que cumplan las
+normas de seguridad eléctrica
+CAT III
+Medición de aislamiento de
+bobinas el motor utilizando
+un megger de 500 v
+
+INSPECCIÓN Y MEGADO DE ACOMETIDA
+3
+
+4
+
+INSPECCIÓN Y MEGADO DE CABLE DE
+FUERZA
+
+1
+
+U
+
+1
+
+U
+
+3
+
+DIA
+
+50
+
+KG
+
+2
+
+DIA
+
+1
+
+U
+
+LIMPIEZA DE POZO CON COMPRESOR DE
+AIRE DE 150 PSI
+5
+
+6
+
+TRATAMIENTO QUIMICO (POLIFOSFATO
+Y HIPOCLORITO DE CALCIO, MANGUERA
+Y COMPRESOR)
+INSPECCIÒN CON CAMARA DE AUDIO Y
+VIDEO SUMERGUIBLE
+
+7
+CAMBIO DE BOMBA SUMERGUIBLE DE 150
+HP FRANKLIN ELECTRIC
+8
+
+Página 4 de 9
+
+Medición de aislamiento de
+bobinas el motor utilizando
+un megger de 500 v
+Medición de aislamiento de
+bobinas el motor utilizando
+un megger de 500 v
+Compresor de 150 psi
+Tubería roscada 4” de acero
+galvanizado
+Ácido sulfomico.
+Tubería 100 metros
+profundidad
+3 días de limpieza
+El químico a utilizar (ácido
+sulfónico y cloro), debe ser
+previamente disuelto en agua.
+Unos 20 galones de agua por
+cada 10 Kg de ácido sulfónico
+o 5 Kg de hipoclorito.
+Se agita vigorosamente con el
+compresor, para que su efecto
+sea completo en los filtros, el
+filtro de grava y en los
+acuíferos.
+Se deja en reposo durante un
+tiempo necesario (tiempo de
+contacto), para que el
+desincrustante ejerza su
+acción.
+Finalmente se realiza la
+limpieza del pozo, la misma
+se la hace por inyección de
+aire comprimido, a presiones
+sistemáticamente graduales
+de
+manera
+homogénea,
+garantizando la remoción y
+desalojo
+de
+solidos
+suspendidos como limos,
+bacterias de hierro, óxidos y
+arcillas,
+preservando
+íntegramente la estructura del
+pozo sin generar ningún tipo
+de avería en las paredes y
+rejillas del mismo.
+Introducción de cámara 360°
+de audio y video tipo lápiz,
+para la grabación de las
+rejillas del pozo
+Caudal: 1130 gpm
+Presión: 70 m.c.a.
+# de etapas: 4
+Sumergible
+
+9
+
+TRASLADO DE BOMBA SUMERGIBLE DE
+150 HP FRANKLIN ELECTRIC
+
+1
+
+DIA
+
+1
+
+DIA
+
+2
+
+U
+
+1
+
+U
+
+1
+
+U
+
+MONTAJE DE BOMBA SUMERGIBLE 150 HP
+CON 42M DE TUBERIA BRIDADA
+
+10
+NSTALACION DE SENSORES DE NIVEL,
+CABLES DE FUERZAS
+11
+CAMBIO
+DE
+PERNERIA
+
+EMPAQUETADURA
+
+Y
+
+12
+CONEXIÓN DE MOTOR DE 150 HP A PANEL
+PRINCIPAL DE CONTROL
+13
+
+14
+
+CALIBRACION Y PUESTA EN MARCHA DE
+EQUIPOS
+
+1
+
+DIA
+
+Potencia requerida: 150 hp
+Descarga: 6”
+Traslado con camión cerrado
+con su respectiva seguridad
+Utilizar grúa de 15 ton o tecle
+Montaje de bomba-motor
+Empernado de bridas bombatubo de 6”
+Montaje de 13 tubos de acero
+bridados de 6”
+Montaje de cabezal de
+descarga de 6”
+Empernado de cabezal a
+tubería horizontal.
+Energización de
+electrobomba
+Suministro e instalación de 3
+sensores de niveles
+Suministro e instalación de
+75 m de cable concéntrico
+para sensores
+Empaques de caucho en cada
+brida
+Pernos de acero negro
+resistente a torsión
+Utilizar torquímetro
+Conexión con herramientas
+que cumplan las normas de
+seguridad eléctrica CAT III
+Calibración y puesta en
+marcha correcta de los
+equipos
+
+9.- PLAZO DE EJECUCIÓN
+El plazo de ejecución es dentro 10 días calendarios contados a partir de la suscripción del
+contrato.
+
+10.- PRESUPUESTO REFERENCIAL
+RE-SERCOP-2016-0072 Art. 265.- Presupuesto referencial. - Para los procedimientos de
+Subasta Inversa Electrónica el presupuesto referencial no será visible, sin embargo, las
+entidades contratantes deberán registrarlo al momento de la creación de dicho
+procedimiento en el Sistema Oficial de Contratación del Estado -SOCE.
+
+Página 5 de 9
+
+11.- FORMA Y CONDICIONES DE PAGO.
+El pago se lo realizara contra entrega por el trabajo realizado, disponibilidad
+presupuestaria de la EMAPAD-EP, previa presentación de la documentación habilitante,
+toda vez que se cuente con el informe favorable a satisfacción emitido por el
+Administrador del contrato.
+12.- OBLIGACIONES DE LAS PARTES.
+12.1 Obligaciones del Contratista
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Entregar oportunamente el servicio solicitado.
+Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano ofertado.
+El oferente adjudicado asumirá la total responsabilidad sobre la calidad de los
+trabajos realizados, salvo casos debidamente justificados.
+Debe entregar los servicios esperados de conformidad con los pliegos,
+especificaciones técnicas y contrato.
+Garantizar la seguridad de su personal, tomando las medidas necesarias.
+Devolver las piezas retiradas como parte del mantenimiento, al administrador.
+En caso de tener algún daño de fabricación los bienes deberán ser restituidos de
+manera inmediata por el contratista.
+El contratista deberá contar con stock suficiente a fin de que no tenga retrasos en
+la entrega de materiales o repuestos que se necesiten, así como deberá contar con
+los vehículos o el transporte correspondiente para el traslado de los mismos.
+Deberá adjuntar las certificaciones de calidad exigibles.
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, en un plazo 2 días contados a partir de la petición escrita formulada por
+el Contratante o su representante.
+
+12.2 Obligaciones de la Contratante
+
+•
+•
+•
+•
+
+Suscribir las actas de entrega recepción de los bienes recibidos, siempre que se
+haya cumplido con lo previsto en la ley para la entrega recepción; y, en general,
+cumplir con las obligaciones derivadas del contrato.
+Otorgar a los contratistas las facilidades necesarias para la ejecución del objeto de
+contratación. Designar un administrador de contrato, para la plena ejecución del
+contrato.
+Verificar los documentos que el contratista debe presentar, de conformidad con
+los intereses institucionales.
+Cancelar a favor del CONTRATISTA, los valores facturados de conformidad con
+la forma de pago constante en la cláusula respectiva del contrato.
+
+13.- INDICES FINANCIEROS
+Los índices financieros constituyen información de referencia respecto de los
+participantes en el procedimiento y en tal medida, su análisis se registrará conforme el
+detalle a continuación:
+
+Página 6 de 9
+
+Índice
+Solvencia
+
+Indicador solicitado
+Mayor o igual a 1.0
+
+Endeudamiento
+
+Menor 1.5
+
+Observaciones
+Los factores para su
+cálculo estarán respaldados
+en la correspondiente
+declaración de impuesto a
+la renta correspondiente y
+los balances presentados al
+órgano
+de
+control
+respectivo
+
+14.- EXPERIENCIA.
+14.1 Experiencia específica solicitada:
+
+Descripción
+
+Temporalidad
+
+Se requiere que el oferente
+posea experiencia de al menos
+el 5% (por ciento) del
+presupuesto referencial en
+proyectos del mantenimiento y
+limpieza de pozos profundos
+dentro de los últimos 5 años, lo
+cual será validado con la
+presentación de copia de
+contratos, acta de entrega de
+recepción en el caso de ser una
+empresa privada debe de
+adjuntar factura, copia del
+contrato y un certificado de
+trabajo satisfactorio el mismo
+que debe indicar nombre
+completo, número de teléfono,
+dirección.
+
+Numero
+VALOR
+Proyectos MONTO
+
+INSTRUMENTO DE
+VERIFICACIÓN
+
+La presentación de copia
+
+5 años
+
+1
+
+de contratos, acta de
+entrega de recepción en el
+caso de ser una empresa
+privada debe de adjuntar
+factura, copia del contrato
+y un certificado de trabajo
+satisfactorio el mismo que
+debe
+indicar nombre
+completos, número de
+teléfono , dirección.
+
+$ 1.944,88
+
+15.- PERSONAL TECNICO MINIMO REQUERIDO
+FUNCION
+
+NIVEL
+ESTUDIO
+
+Supervisor
+
+Superior
+
+DE TITULACION
+ACADEMICA
+
+Ingeniero Mecánico
+
+Página 7 de 9
+
+CANTIDAD
+
+1
+
+obreros mecánicos
+
+Bachiller
+
+Bachiller cualquier rama
+
+3
+
+15.- EXPERIENCIA MINIMA DEL PERSONAL TECNICO
+Personal Técnico
+
+Supervisor
+
+Descripción
+
+Presentar certificado laboral que acredite
+una experiencia mínima de 3 años en
+trabajos similares; deberá presentar hoja
+de vida en la que se refleje la experiencia.
+
+Tiempo de experiencia
+
+2 años
+
+Número de proyectos
+
+1
+
+Monto de proyecto
+
+$ 2000
+
+Personal Técnico
+
+Obreros mecánicos
+
+Descripción
+
+Presentar certificado laboral que acredite una
+experiencia mínima de 1 años en trabajos
+similares; deberá presentar hoja de vida en la
+que se refleje la experiencia.
+
+Tiempo de experiencia
+
+1 años
+
+Número de proyectos
+
+1
+
+Monto de proyecto
+
+$1500
+
+16.- EQUIPO MINIMO REQUERIDO
+
+Cantidad
+
+Descripción
+
+Características
+
+1
+
+Tecle o Grúa
+
+De 10 Ton
+
+1
+
+Cámara
+sumergible
+
+De 360 ° tipo lápiz con pantalla de 8”
+
+1
+
+Compresor
+
+De 200 PSI
+
+1
+
+Megger
+
+Hasta 2000 voltios
+
+1
+
+Horno secador
+
+De hasta 150°C para deshidratación de bobinas
+eléctricas.
+
+1
+
+Multímetro
+
+Clasificación de seguridad CAT III O CAT IV
+
+Página 8 de 9
+
+1
+
+Megohmetro
+
+2 o 5 KV, con capacidad de realizar índice de
+polarización
+
+2
+
+Llave de cadena
+
+Multifunción
+
+Taquímetro
+
+Multifunción
+
+Pinza
+amperimétrica
+
+Multifunción
+
+1
+1
+1
+
+Materiales y
+herramientas
+menores
+
+(Llaves, playos, martillos, etc.)
+
+Nota: El proveedor deberá validar la posesión de estos equipos mediante presentación de
+factura, nota de venta o emitir una carta de compromiso de adquisición, alquiler o algún
+documento notarizado que se compruebe que es de su propiedad.
+
+17. Otros parámetros
+No.
+1
+2
+
+Parámetro
+Dimensión
+Garantía
+del Entregará una garantía de servicio por doce meses desde la puesta
+servicio
+en marcha.
+Presentará un plan de trabajo contado desde la suscripción del
+Plan de Trabajo
+contrato.
+
+NOMBRE
+
+CARGO
+
+ELABORADO
+POR:
+
+Ing. German
+González Garzón
+
+Jefe de
+Mantenimiento
+
+APROBADO
+POR:
+
+Ing. Francisco
+Rivera
+
+Director
+Operaciones
+Técnicas y Proyectos
+
+Página 9 de 9
+
+FIRMA
+
+Firmado electrónicamente por:
+
+GERMAN GABRIEL
+GONZALEZ GARZON
+
+Firmado electrónicamente por:
+
+JUAN FRANCISCO
+RIVERA GUERRERO
+
+

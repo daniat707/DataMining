@@ -1,0 +1,689 @@
+GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE ESPEJO
+ESPECIFICACIONES TÉCNICAS
+SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD)
+(Adquisición de implementos de ordeño para el GADM- ESPEJO)
+FORMULARIO DE REQUERIMIENTO DE SUBASTA INVERSA ELECTRÓNICA B/S
+Fecha
+15/06/2022
+Dirección de área requirente
+DIRECCIÓN DE GESTION AMBIENTAL Y DESARROLLO ECONOMICO LOCAL
+Responsable del área
+ING. ERMENSON BRAVO/ DIRECTOR DE GESTION AMBIENTAL Y D.E.L
+Responsable de la solicitud
+ING. PAOLA ROSAS / JEFE DE DESARROLLO ECONOMICO LOCAL
+Tipo de compra
+Bien
+X Servicio
+Procedimiento de contratación
+Código CPC (Nivel 9)
+4452100111
+Subasta Inversa Electrónica
+sugerido
+Corresponde
+Gasto Inversión
+Inversión
+X
+Ejecución Presupuestaria
+Anual
+Certificación Presupuestaria:
+32.73.08.14.008.003
+1.0 ANTECEDENTES
+La producción pecuaria en el Cantón Espejo, está basada en la crianza de ganado ovino, porcino
+y vacuno, siendo este último la principal actividad pecuaria. La actividad pecuaria está basada
+en la crianza de razas criollas, el mejoramiento genético básicamente se ha dado en granjas de
+grandes producciones y no así, con los pequeños productores. Por otra parte, el Gobierno
+Municipal cuenta con un programa de mejoramiento genético que debe ser difundido, y ampliada
+su cobertura para reducir la problemática de baja producción de leche y engorde.
+A nivel de las parroquias rurales de Goaltal, la Libertad, San Isidro y urbanas El Ángel y 27 de
+Septiembre, de acuerdo al diagnóstico efectuado, se pudo constatar, que son netamente zonas
+agropecuarias que producen leche y productos agrícolas, no han logrado aún un crecimiento
+económico estable, lo cual no les ha permitido mejorar sus condiciones de vida y generar trabajo
+familiar; Esto debido a que en el cantón no hay los suficientes centros de acopio para leche para
+garantizar una buena calidad y menos para productos agrícolas como papa,. Arveja y haba
+principalmente, y su venta la realizan directamente a intermediarios disminuyendo así
+drásticamente su utilidad en su producción.
+En dichas parroquias, se pudo constatar que existe un bajo nivel de ingresos económicos de los
+pequeños y medianos productores de leche, debido a que ellos no generan ganancias que
+supere el salario básico por su actividad familiar y que no les permiten asegurar una mejor calidad
+de vida por no tener un precio estable lo mismo sucede con los agricultores; este problema se
+debe principalmente por la ausencia de una estructura socio-organizativa de los pequeños y
+medianos productores, un bajo nivel de oferta de su producción local, ausencia de los servicios
+de asistencia técnica para el manejo de la producción y la débil capacidad para comercializar la
+leche y productos agrícolas directamente al consumidor.
+
+1
+
+A nivel de las parroquias rurales de Goaltal, la Libertad, San Isidro y urbanas El Ángel y 27 de
+septiembre, de acuerdo al diagnóstico institucional (PDOT), se ha observado que son zonas
+altamente agropecuarias con gran diversidad de productos agrícolas y estos no han logrado aún
+un crecimiento económico estable en la mayoría de pequeños y medianos productores, lo que
+no ha permitido mejorar las condiciones de vida y generar ingresos familiares de sustento.
+Debido a que en el cantón, no hay espacios de producción de agricultura familiar campesina
+diversa, que garanticen el abastecimiento de productos de calidad y permanencia con buenas
+prácticas ambientales a un justo precio, se pretende fortalecer organizaciones de derecho que
+practiquen la administración de pequeñas granjas familiares campesinas de producción diversa
+agrícola y pecuaria, de igual manera se pretende incentivar la venta directa en mercados locales
+y disminuir la presencia de intermediarios, acción que permitirá incrementar el ingreso familiar
+del productor.
+En las pequeñas granjas familiares campesinas, se evidencia que existe un alta diversidad
+agropecuaria de autoconsumo, con bajos niveles de ingresos económicos, debido a que estas
+no generan ningún valor agregado estable en los productos pecuarios, situación que incide en
+que los recursos económicos sean inferiores al salario básico por ingreso familiar, al no disponer
+de insumos agropecuarios que permita una mejora en la calidad de la producción y poder ser
+competitivos en mercados locales, la producción local al estar sujeta a la oferta y demanda sin
+control, los precios son inestables; situación que es aprovechada por los intermediarios, esto
+se debe a varios aspectos sociales, principalmente por la ausencia de una estructura socioorganizativa de los pequeños y medianos productores, bajo nivel de oferta de la producción
+local, ausencia de servicios de asistencia técnica para el manejo de la producción y la débil
+capacidad para comercializar la producción agrícola directamente al consumidor y/o mercados
+nacionales.
+La producción pecuaria local campesina tiene un acceso muy reducido a tecnología apenas un
+40%, aproximadamente tiene las posibilidad de poseer estos servicios, lo que incide netamente
+en la producción de leche, es decir no somos competitivos en el mismo espacio con granjas
+agropecuarias vecinas, de allí que disponer de insumos veterinarios para la producción, estos
+son esencialmente necesarios, vacunas, desparasitantes, antibióticos, vitaminas, equipos de
+inseminación artificial y pajuelas acorde a los requerimientos son indispensables para mejorar la
+producción a través del mejoramiento genético.
+El GADM-Espejo y la Dirección de Gestión Ambiental y Desarrollo Económico Local, a través de
+la Unidad de Desarrollo Económico Local, tiene la misión de: Promover los procesos de
+desarrollo económico local en su jurisdicción, poniendo una atención especial en el sector de la
+economía social y solidaria, para lo cual coordinará con los otros niveles de gobierno.
+
+2
+
+Con esta misión el GADM- E realiza una propuesta de proyecto “Desarrollo y Fortalecimiento
+Agropecuario del Cantón Espejo”, con el afán ejecutar el proyecto, pretendiendo, buscando la
+delegación de competencias, establecidas en el COOTAD Art. 42, literal f) Fomentar las
+actividades productivas provinciales, especialmente las agropecuarias; y, de esta manera poder
+apoyar en el desarrollo económico de las Asociaciones productivas del cantón Espejo.
+2.0 OBJETO DE CONTRATACIÓN:
+Seleccionar la oferta de origen ecuatoriana y otras, para ADQUIRIR IMPLEMENTOS DE
+ORDEÑO PARA EL GADM- ESPEJO DENTRO DEL RUBRO SUMINISTRO DE ACTIVIDADES
+AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD)
+3.0 EMPLEA CPC RESTRINGIDO Y/O DE CATÁLOGO ELECTRÓNICO.
+La compra utiliza CPCs atados a los productos de Catálogo Electrónico: SI ( ) NO ( X )
+4.0 ALCANCE
+Obtener los IMPLEMENTOS DE ORDEÑO PARA EL GADM- ESPEJO, DENTRO DEL RUBRO
+SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD),
+para mejorar la producción agropecuaria de los pequeños y medianos productores de las zonas
+urbano rurales del cantón Espejo y así cumplir con los objetivos institucionales, del proyecto
+Desarrollo y Fortalecimiento Agropecuario del Cantón Espejo.
+5.0 METODOLOGÍA DE TRABAJO.
+El proveedor adjudicado deberá sujetarse a los siguientes requerimientos:
+
+
+Los SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA
+(INSUMOS PROD), Adquisición Implementos de ordeño para el GADM- Espejo),
+SERÁN ENTREGADO EN EL GADM-ESPEJO, ubicadas en las calles Esmeraldas y
+Salinas.
+
+
+
+Los SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA
+(INSUMOS PROD), Adquisición Implementos de ordeño para el GADM- Espejo,
+deberán cumplir las especificaciones técnicas establecidas.
+
+
+
+Se firmará el acta de recepción y entrega de los SUMINISTRO DE ACTIVIDADES
+AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD), Adquisición Implementos de
+ordeño para el GADM- Espejo en la Bodega Municipal, por parte de la Director de
+Gestión Ambiental y el Guardalmacén del GADM-E.
+
+
+
+El Director de Gestión Ambiental emitirá un informe técnico de Conformidad y
+Satisfacción que los SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y
+CAZA (INSUMOS PROD), Adquisición Implementos de ordeño para el GADM- Espejo,
+entregados y luego se proceda a realizar los trámites para el pago.
+
+
+
+El Proveedor deberá entregar las certificaciones de calidad emitido por la institución
+pertinente de SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA
+(INSUMOS PROD), Adquisición de implementos de ordeño para el GADM- ESPEJO),
+para su validación.
+
+3
+
+
+
+El proveedor deberá entregar SUMINISTRO DE ACTIVIDADES AGROPECUARIAS,
+PESCA Y CAZA (INSUMOS PROD), Adquisición de implementos de ordeño para el
+GADM- ESPEJO), para su validación, en sus empaques originales y sin enmendaduras.
+
+La ejecución del proyecto generará una serie de beneficios entre los cuales se destacan: a) la
+dotación de infraestructura productiva de calidad; b) aumento de ingresos económicos a las
+familias; y c) generación de procesos de desarrollo local a través de la contracción de mano de
+obra directa e indirecta en las zonas de ejecución que cubre el proyecto.
+6.0 INFORMACIÓN QUE DISPONE LA ENTIDAD
+El GADM-ESPEJO, pondrá a disposición del Contratista toda la documentación requerida para
+la ejecución del presente Contrato.
+7.0 OBJETIVOS
+7.1 OBJETIVO GENERAL
+Adquirir implementos de ordeño para el GADM- ESPEJO), SUMINISTRO DE ACTIVIDADES
+AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD)
+8.0 ESPECIFICACIONES TÉCNICAS.
+
+IMPLEMENTOS
+DE ORDEÑO
+
+CARACTERISTICAS
+
+BIDON ACERO
+INOXIDABLE
+GRADO
+ALIMENTICIO 40
+LIT.
+
+LA TAPA ES HERMÉTICA Y
+EVITA DERRAMES
+ACCIDENTALES DE 40 LT.
+VIDA UTIL MAS DE 30 AÑOS,
+DIÁMETRO DE LA BOCA: 20
+CM, DIÁMETRO DEL
+CUERPO: 34 CM,
+
+U
+
+46
+
+VALDE ACERO
+INOXIDABLE 11
+LT
+
+EN ACERO INOXIDABLE
+CAPACIDAD 11 LT.
+
+U
+
+46
+
+ESPECIFICACIONES UNIDAD
+
+9.0 PRESUPUESTO REFERENCIAL
+Se determinó en base al informe de presupuesto referencial de fecha 26 de enero del 2022, se
+consideró lo dispuesto en los artículos 9, 12 y 265 de la Codificación de Resoluciones del
+SERCOP, expedida el 31 de agosto del 2016, mediante Resolución No. RE-SERCOP-20160000072; se publicará según normativa vigente. El GAD Municipal de Espejo requiere
+SUMINISTRO DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD)
+(Adquisición de implementos de ordeño para el GAM-Espejo, que cumpla con todas las
+
+4
+
+especificaciones y características establecidas en el pliego, a fin de que la entrega se realice a
+plena satisfacción de la entidad contratante.
+10. PLAZO DE EJECUCIÓN
+El plazo de ejecución de la entrega de bienes es de 15 días calendario, contados a partir de la
+suscripción y legalización del contrato.
+Desde la fecha de suscripción del Contrato
+
+X
+
+Desde la fecha de notificación que el anticipo se encuentre disponible
+Desde cualquier otra condición de acuerdo a la naturaleza del contrato
+Tipo de plazo de ejecución: TOTAL
+11.0 FORMA Y CONDICIONES DE PAGO
+La forma de pago será de la siguiente manera: 100% contra entrega del bien, previa a la
+presentación del Informe de satisfacción del Administrador del Contrato, la suscripción del Acta
+de Entrega de Recepción Definitiva, en la cual incluya la liquidación económica y las condiciones
+generales de ejecución, detallando los pagos al Contratista, en base al Art. 124 del RGLOSNCP
+y la factura para el pago respectivo.
+12. LOCALIDAD EN DONDE SE EJECUTARÁ LA CONTRATACIÓN
+PROVINCIA: CARCHI
+CANTÓN:
+ESPEJO
+13. DIRECCIÓN DE ENTREGA DE OFERTAS
+Ciudad: El Ángel
+Calle Principal: Esmeraldas
+Calle Secundaria: Salinas
+Referencia: Oficina de secretaria general Las ofertas se recibirán en digital al correo electrónico
+gadmespejo@gmail.com
+14. DIRECCIÓN APERTURA DE OFERTAS
+Ciudad. El Ángel
+Calle Principal: Esmeraldas
+Calle Secundaria: Salinas
+Referencia: Gobierno Autónomo Descentralizado Municipal de Espejo - Dirección de Gestión
+Ambiental y Desarrollo Económico Local
+
+15. LUGAR DE ENTREGA DE LOS BIENES/SERVICIO REQUERIDOS
+Provincia:
+
+CARCHI
+
+Cantón:
+
+ESPEJO
+
+Ciudad:
+
+EL ANGEL
+
+5
+
+Dirección: LA ENTREGA DE LOS BIENES DE LA PRESENTE CONTRATACIÓN SE
+REALIZARÁ EN LAS BODEGAS DE LA MUNICIPALIDAD DE ESPEJO UBICADAS EN LAS
+CALLES ESMERALDAS Y SALINAS.
+16.0 PARÁMETROS DE EVALUACIÓN
+El proveedor deberá de cumplir con los siguientes parámetros de evaluación (cumple/no cumple)
+La integridad de la oferta:
+Se evaluará considerando la presentación de los formularios y requisitos mínimos previstos en
+el pliego de acuerdo al siguiente detalle:
+1.1 Formulario Único de la Oferta:
+1.2 Presentación y compromiso;
+1.3 Datos generales del oferente;
+1.4 Nómina de socio(s), accionista(s) o partícipe(s) mayoritarios de personas jurídicas, y
+disposiciones específicas para personas naturales, oferentes.
+1.5 Situación financiera del oferente;
+1.6 Tabla de cantidades y precios;
+1.7 Componente de los bienes y servicios ofertados;
+1.8 Experiencia del oferente. (Detalle en caso de ser específico) (Soporte técnico en caso de
+haber sido exigido)
+1.9 Personal técnico propuesto para el proyecto.
+(En caso que la entidad contratante requiera para la prestación de servicio).
+1.10 Equipo mínimo requerido (En caso que la entidad contratante requiera para la prestación
+de servicio)
+1.11 Declaración de Valor Agregado Ecuatoriano de la oferta
+1.12 Otros parámetros de calificación propuestos por la entidad contratante
+II Formulario de compromiso de asociación o consorcio (de ser procedente)
+Observaciones:
+Adjuntar a la oferta electrónica como integridad de la oferta los FORMULARIOS 1.1 Y 1.3
+debidamente llenos de acuerdo a su naturaleza (Natural o Jurídica) con la finalidad de dar
+cumplimiento a la resolución Nro. RE-SERCOP-2020-0110, mismos que se adjunta como
+archivos en el proceso de contratación.
+
+6
+
+En el presente proceso no se estipula reajuste de precios bajo ningún concepto.
+El precio ofertado deberá incluir todos los rubros que afecten directa indirectamente la ejecución
+del contrato, hasta su culminación con la suscripción del acta de entrega recepción definitiva
+Equipo mínimo: No aplica
+Personal técnico mínimo: No aplica.
+Experiencia general y Experiencia especifica mínima del oferente
+a. La entidad contratante definirá con precisión cuál es la experiencia mínima que deberá
+acreditar el oferente, ya sea en número o dimensión de proyectos similares, o montos
+contractuales; se definirá exactamente qué tipo de contratos ejecutados se aceptarán
+como experiencia general y cuales como experiencia específica; así como el instrumento
+por el que se la demostrará.
+b. Para la determinación del cumplimiento de la experiencia general y específica mínima
+se estará a lo establecido, respecto de las reglas de participación, expedidas por el
+Servicio Nacional de Contratación Pública para los procedimientos de contratación.
+c.
+
+La experiencia específica mínima deberá estar directamente relacionada con el objeto
+de la contratación.
+
+d. La entidad contratante obligatoriamente deberá dimensionar los parámetros de
+calificación de experiencia general y específica mínima requerida de conformidad con el
+contenido de la siguiente tabla y en función del presupuesto referencial del procedimiento
+de contratación:
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados
+por el oferente para acreditar la experiencia mínima general o específica requerida, sino,
+al cumplimiento de estas condiciones en relación a los montos mínimos requeridos para
+cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima
+específica, el proveedor cumpliere el monto mínimo solicitado para la experiencia mínima
+general, este contrato o instrumento será considerado como válido para acreditar los dos
+tipos de experiencias.
+La entidad contratante deberá solicitar como temporalidad de experiencia general 15
+años previos a la publicación del procedimiento de contratación. Por tanto, el contratista
+podrá acreditar la experiencia general dentro de dicho período.
+e. La experiencia presentada por el oferente será acreditable y aceptada, siempre que se
+haya ejecutado legalmente dentro del límite de cualquier jurisdicción ecuatoriana.
+Únicamente, cuando la entidad contratante con la debida motivación técnica y legal así
+lo justifique, en la que compruebe que no existe experiencia previa suficiente obtenida
+por ningún oferente ecuatoriano dentro del límite de cualquier jurisdicción ecuatoriana,
+
+7
+
+de conformidad a los requisitos del procedimiento de contratación, y, previa autorización
+de la máxima autoridad o su delegado, se podrá aceptar y acreditar experiencia
+legalmente obtenida en el extranjero. Sin perjuicio de lo anterior, cuando un consorcio o
+asociación o compromiso de asociación o consorcio conformado por una persona natural
+o jurídica ecuatoriana y una persona natural o jurídica extranjera que provea el
+financiamiento para la ejecución de una obra en un porcentaje superior al 60% del valor
+del objeto contractual, la experiencia que acredite el integrante extranjero del consorcio
+en el exterior, será acreditada.
+f.
+
+Experiencia General Mínima:
+EXPERIENCIA GENERAL MÍNIMA
+No.
+Cant.
+Proyectos
+Años
+similares
+
+No.
+
+Descripción
+
+1
+
+El oferente debe acreditar el 10% del
+presupuesto referencial para lo cual deberá
+presentar 1 o más proyectos que sumados
+den este porcentaje solicitado ejecutado en
+los últimos 15 años, esto se verificara
+mediante actas de entrega
+recepción
+definitiva o un certificado de haber provisto
+adquisición PRODUCTOS AGRICOLAS en
+el sector público.
+
+Valor del
+monto
+mínimo
+
+10% del
+15
+
+1 o mas
+monto de la
+oferta
+
+g. Experiencia Especifica Mínima:
+EXPERIENCIA ESPECÍFICA MÍNIMA
+No.
+Cant.
+Proyectos
+Años
+similares
+
+No.
+
+Descripción
+
+1
+
+El oferente debe acreditar el 5% del
+presupuesto referencial para lo cual deberá
+presentar 1 o más proyectos que sumados
+den este porcentaje solicitado ejecutado en
+los últimos 5 años, esto se verificará
+mediante facturas o actas de entregarecepción definitiva de haber provisto
+SUMINISTRO
+DE
+ACTIVIDADES
+AGROPECUARIAS, PESCA Y CAZA
+(INSUMOS PROD) “ADQUISICION DE
+IMPLEMENTOS DE ORDEÑO PARA EL
+GADM- ESPEJO” en el sector público.
+
+15
+
+Valor del
+monto
+mínimo
+
+1 o mas
+5% del monto
+de la oferta
+
+h. Especificaciones técnicas o términos de referencia:
+El Gobierno Autónomo Descentralizado Municipal de Espejo verificará que cada oferente en su
+oferta, dé cumplimiento expreso y puntual a los términos de referencia o especificaciones
+
+8
+
+técnicas de los bienes y/o servicios que se pretenden adquirir o contratar mediante la
+presentación de fichas técnicas de cada ítem ofertado. El incumplimiento parcial o total de las
+mismas será causal de rechazo de la oferta.
+Patrimonio: (Aplicable a personas jurídicas)
+En el caso de personas jurídicas, el Gobierno Autónomo Descentralizado Municipal de Espejo,
+verificará que el patrimonio cumpla con la normativa establecida por el Servicio Nacional de
+Contratación Pública para el efecto.
+Otros parámetros resueltos por la entidad contratante: NO aplica
+Verificación de cumplimiento de integridad y requisitos mínimos de la oferta:
+Parámetro
+
+Cumple
+
+No Cumple
+
+Observaciones
+
+Integridad de la Oferta
+Experiencia general mínima
+Experiencia específica mínima
+Especificaciones técnicas / Términos de
+referencia
+
+Únicamente aquellas ofertas que cumplan integralmente con los parámetros mínimos requeridos
+por El Gobierno Autónomo Descentralizado Municipal de Espejo, se habilitarán a fin de que los
+oferentes envíen sus ofertas económicas iniciales a través del Portal Institucional del Servicio
+Nacional de Contratación Pública para participar en la puja.
+17.- INFORMACIÓN FINANCIERA DE REFERENCIA:
+Los índices financieros constituirán información de referencia respecto de los participantes en el
+procedimiento y en tal medida, su análisis se registrará conforme el detalle a continuación:
+Índice
+
+Solvencia
+
+Indicador Solicitado
+
+Mayor o igual a 1,0
+
+Endeudamiento Menor a 1,5
+
+Observaciones
+Índice de Solvencia (mayor o igual a 1,0); Los factores
+para su cálculo estarán respaldados en la
+correspondiente declaración de impuesto a la renta del
+ejercicio fiscal correspondiente y/o los balances
+presentados al
+órgano de control respectivo.
+Índice de Endeudamiento (menor a 1,5). Los factores
+para su cálculo estarán respaldados en la
+correspondiente declaración de impuesto a la renta del
+ejercicio fiscal correspondiente y/o los balances
+presentados al
+órgano de control respectivo.
+
+18.- VIGENCIA DE LA OFERTA
+
+9
+
+Las ofertas se entenderán vigentes hasta 60 días calendario o hasta la celebración del contrato,
+de acuerdo a lo establecido en el artículo 30 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública.
+19.- GARANTÍA
+De conformidad a lo señalado por los artículos 73, 74, 75 y 76 de la Ley Orgánica del Sistema
+Nacional de Contratación Pública.
+Garantía del buen uso del anticipo
+
+(No)
+
+Garantía de fiel cumplimiento
+
+(No)
+
+Garantía Técnica
+
+(SI)
+
+El oferente debe presentar una Garantía Técnica por 12 meses, que garantice que todos los
+SUMINISTROS DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD),
+Adquirir implementos de ordeño para el GADM- ESPEJO), provistos sean nuevos. En caso de
+presentarse fallas en los equipos debido a daños de fabricación que impida el uso normal del
+bien, el proveedor deberá cambiar por otros nuevos con las mismas características, en un plazo
+máximo de 48 horas a partir de la notificación al proveedor, sin que ello signifique costo adicional
+para la institución.
+20.- MULTAS:
+Se aplicará de acuerdo al artículo 71 de la Ley Orgánica del Sistema Nacional de Contratación
+Pública.
+El Contratista pagará a la Contratante, en concepto de multa, la cantidad equivalente al uno por
+mil (1x1000), las multas se calcularán sobre el porcentaje de las obligaciones que se encuentran
+pendientes de ejecutarse conforme lo establecido en el contrato, por cada día de retraso en el
+cumplimiento de la ejecución de las obligaciones contractuales conforme al cronograma
+valorado; o, por incumplimiento de cualquier otra de las obligaciones que contrae en virtud de
+este instrumento, excepto en el evento de caso fortuito o fuerza mayor, conforme lo dispuesto en
+el artículo 30 de la Codificación del Código Civil, debidamente comprobado y aceptado como tal
+por la Contratante
+
+
+
+OBLIGACIONES DE LAS PARTES
+
+
+
+DEL PROVEEDOR
+
+Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con los términos y
+condiciones del contrato.
+El proveedor deberá entregar previo a la suscripción del acta entrega recepción, la garantía
+
+10
+
+técnica de 1 año de los implementos de ordeño.
+El proveedor debe adjuntar el certificado de garantía técnica de los SUMINISTROS DE
+ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD), Adquisición
+implementos de ordeño para el GADM- ESPEJO), entregados que será canjeada por el original
+en el caso de que resultará adjudicado. El otorgamiento de la garantía será de acuerdo a las
+especificaciones técnicas.
+La fecha de caducidad de cada suministro debe ser superior a un año a partir de la fecha de
+recepción de los equipos, no se aceptarán suministros cuya fecha de caducidad impresa de
+fábrica del material sea inferior a un año.
+En relación con los bienes que se encuentran publicados en el Portal Institucional del Servicio
+Nacional de Contratación Pública y que constan en el Anexo 20 de la Codificación de
+Resoluciones del Servicio Nacional de Contratación Pública, es obligación del proveedor
+adjudicado, previo a la suscripción del respectivo contrato, entregar a la entidad contratante, en
+calidad de documento habilitante, y dentro del término que establece la Ley Orgánica del Sistema
+Nacional de Contratación Pública para el efecto, los requerimientos que se indican a
+continuación, según el nivel de transferencia de tecnología (…).
+Los bienes SUMINISTROS DE ACTIVIDADES AGROPECUARIAS, PESCA Y CAZA
+(INSUMOS PROD), (implementos de ordeño para el GADM-E), deberán ser entregados y
+descargados en las instalaciones de la bodega Municipal del GADME en empaques originales
+y sin enmendaduras, ubicado en la calle Esmeraldas y Salinas sin que esto signifique un costo
+adicional para la Institución.
+
+
+DE LA CONTRATANTE
+
+La entidad contratante observara lo siguiente:
+
+-
+
+Hacer cumplir las especificaciones técnicas establecidas en los pliegos.
+Realizar pagos dentro de los plazos establecidos por la LOSNCP. REGLAMENTO
+DE LOSNCP y Resoluciones emitidas por el SERCOP.
+Suscribir las actas de entrega recepción de los SUMINISTROS DE ACTIVIDADES
+AGROPECUARIAS, PESCA Y CAZA (INSUMOS PROD), Adquisición de
+implementos de ordeño para el GADM - E recibidos, siempre que se haya cumplido
+con lo previsto en la ley para la entrega recepción; y, en general, cumplir con las
+obligaciones derivadas del contrato.
+
+-
+
+Cumplir con las obligaciones establecidas en el contrato y en los documentos del
+mismo, en forma ágil y oportuna.
+
+-
+
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+contrato, en un plazo de 5 días contados a partir de la petición escrita formulada
+por el contratista.
+
+11
+
+21. VARIACIÓN DE LA PUJA
+
+La puja se realizará en la fecha y hora establecida en el cronograma de fechas del proceso y
+tendrá una variación del 1%.
+22. CLASIFICADOR CENTRAL DE PRODUCTO
+
+El código CPC asignado para la SUMINISTROS DE ACTIVIDADES AGROPECUARIAS,
+PESCA Y CAZA (INSUMOS PROD), “ADQUISICION DE IMPLEMENTOS DE ORDEÑO PARA
+EL GADM- ESPEJO con CPC 4452100111”, está de acuerdo a la planificación de la Dirección
+de Gestión Ambiental, Jefatura de Desarrollo Económico Local, cuenta con la disponibilidad
+presupuestaria en la partida presupuestaria No 32.73.08.14.008.003, se encuentra contemplada
+en el Plan Anual 2022, segundo cuatrimestre de Compras de su Dirección, de conformidad con
+el siguiente detalle:
+ITEM CPC NIVEL 5 CPC NIVEL 9
+1
+
+44521
+
+DESCRIPCIÓN
+
+UNIDAD
+
+4452100111 SUMINISTROS DE ACTIVIDADES
+AGROPECUARIAS,
+CAZA
+
+PESCA
+
+(INSUMOS
+
+U
+
+Y
+
+PROD),
+
+ADQUISICION DE IMPLEMENTOS
+DE ORDEÑO PARA EL GADMESPEJO
+
+23. DESIGNACIÓN DELEGADO O COMISIÓN DE LA MÁXIMA AUTORIDAD
+Se sugiere como la comisión técnica.
+Msc. Wilman Casares – Delegado de la Máxima Autoridad.
+Comisión Técnica Sugerida
+
+Ing. Paola Rosas P
+
+- Área Requirente
+
+Ing. Edwin Bravo A
+
+- Técnico Afín
+
+Ing. Franklin Pulles
+
+- Secretario
+
+24. DESIGNACIÓN DEL ADMINISTRADOR DEL CONTRATO
+Se sugiere como Administrador del Contrato a Ing. Paola Rosas P. – Jefe de Desarrollo
+Económico Local. Responsable de quien velará por el cabal y oportuno cumplimiento de todas
+y cada una de las obligaciones derivadas del contrato. El Administrador deberá canalizar y
+coordinar todas y cada una de las obligaciones contractuales convenidas.
+
+26. FIRMAS DE RESPONSABILIDAD
+
+12
+
+No.
+
+1
+
+CÉDULA
+
+1708855612
+
+NOMBRES Y
+APELLIDOS
+
+CARGO
+
+ACTIVIDAD
+
+Ing. Ermenson Bravo
+
+DIRECTOR DE
+GESTIÓN
+AMBIENTAL Y
+DESARROLLO
+ECONÓMICO
+LOCAL
+
+Elaborado y
+Revisado
+
+13
+
+FIRMAS
+
+Firmado electrónicamente por:
+
+EDWIN ERMENSON
+BRAVO ARMAS
+
+

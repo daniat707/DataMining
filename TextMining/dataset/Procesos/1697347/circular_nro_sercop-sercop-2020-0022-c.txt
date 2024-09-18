@@ -1,0 +1,970 @@
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+Asunto: Uso de firma electrónica en relación a la Resolución Externa Nro. RE-SERCOP-2020-106, publicada
+en la Edición Especial del Registro Oficial Nro. 832, de 29 de julio de 2020.
+Máximas Autoridades
+Entidades contratantes
+Artículo 1
+LEY ORGÁNICA DEL SISTEMA NACIONAL DE CONTRATACIÓN PÚBLICA
+Señores Proveedores del Estado
+De mi consideración:
+El Servicio Nacional de Contratación Pública [en adelante SERCOP], de conformidad con lo establecido en el
+artículo 10 de la Ley Orgánica del Sistema Nacional de Contratación Pública [en adelante LOSNCP], es el
+órgano que ejerce la rectoría del Sistema Nacional de Contratación Pública [en adelante SNCP] y su objetivo
+fundamental es exigir el cumplimiento de los principios previstos en la misma Ley, y aquellas actividades
+inherentes a los mismos.
+Al respecto, me permito señalar lo siguiente:
+I.- Antecedentes:
+De conformidad con lo previsto en los numerales 12 y 17 del artículo 10 de la LOSNCP, el SERCOP tiene entre
+sus atribuciones legales, las de capacitar y brindar asesoramiento a los actores del SNCP sobre los instrumentos,
+herramientas y procedimientos de contratación pública, así como, sobre la inteligencia o aplicación de las
+disposiciones normativas que integran el SNCP.
+A través de Resolución Interna Nro. R.I.-SERCOP-2020-00010 de 30 de junio de 2020, se emitió el “Instructivo
+para regular el procedimiento de emisión de los oficios circulares que expida el Servicio Nacional de
+Contratación Pública –SERCOP”. Así, el artículo 3, establece que: “Para efectos del presente Instructivo, se
+entenderá por oficio circular aquel instrumento jurídico por el cual la máxima autoridad del SERCOP o su
+delegado emite una información de interés general, relativa al Sistema Nacional de Contratación Pública, a los
+actores del referido Sistema”.
+Por consiguiente, las instrucciones, comunicados y circulares que emite este Servicio Nacional se limitan a
+reproducir el contenido de otras disposiciones normativas, o las decisiones de otras instancias, o a brindar
+orientaciones e instrucciones a sus destinatarios, a fin de que sean observadas adecuadamente.
+Adicionalmente, en función del principio de coordinación previsto en el artículo 226 de la Constitución de la
+República del Ecuador, en concordancia con el artículo 28 del Código Orgánico Administrativo, le corresponde
+a este Servicio Nacional instar a los actores del SNCP al cumplimiento de las disposiciones normativas del
+ordenamiento jurídico ecuatoriano, a efectos de garantizar que las compras públicas cumplan con los mandatos
+prescritos en los artículos 227 y 288 de la Norma Suprema.
+A través de oficio circular Nro. SERCOP-SERCOP-2020-0014-C de 26 de marzo de 2020, publicado en la sede
+electrónica del SERCOP,[1] se comunicó a los actores del SNCP, lo siguiente:
+“En definitiva, las citadas disposiciones legales dejan abierta la posibilidad de que todos los documentos
+generados en el ciclo de un procedimiento de contratación pública puedan ser emitidos de forma digital y
+firmados de igual forma. [...] En virtud de los argumentos expuestos y, considerando la situación emergente en
+la que se encuentra atravesando el país, se reitera que es obligación de las entidades contratantes previstas en
+el artículo 1 de la LOSNCP, la implementación de la firma electrónica en los procedimientos de contratación
+pública; la cual permitirá la apertura de una nueva vía de comunicación con los ciudadanos, de forma más
+
+* Documento firmado electrónicamente por Quipux
+
+1/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+ágil, a nivel organizativo, reducirá el tiempo de tramitación del procedimiento de contratación, y sobre todo
+garantizará la seguridad y precautelará la salud de todos los ciudadanos”.
+II.- Ordenamiento Jurídico aplicable:
+La Constitución de la República del Ecuador [en adelante CRE], en su artículo 226, respecto a los principios
+constitucionales de juridicidad y coordinación entre funciones del Estado, prescribe que:
+“Las instituciones del Estado, sus organismos, dependencias, las servidoras o servidores públicos y las
+personas que actúen en virtud de una potestad estatal ejercerán solamente las competencias y facultades que
+les sean atribuidas en la Constitución y la ley. Tendrán el deber de coordinar acciones para el cumplimiento de
+sus fines y hacer efectivo el goce y ejercicio de los derechos reconocidos en la Constitución".
+Por su parte, el artículo 227 de la Norma Suprema señala que: “La administración pública constituye un
+servicio a la colectividad que se rige por los principios de eficacia, eficiencia, calidad, jerarquía,
+desconcentración, descentralización, coordinación, participación, planificación, transparencia y evaluación."
+El artículo 288 de la CRE dispone que: “Las compras públicas cumplirán con criterios de eficiencia,
+transparencia, calidad, responsabilidad ambiental y social [...]”. De su parte, el artículo 4 de la LOSNCP prevé
+que para la aplicación de dicha Ley y de los contratos que de ella deriven, se observarán los principios de
+legalidad, trato justo, igualdad, calidad, vigencia tecnológica, oportunidad, concurrencia, transparencia,
+publicidad, y participación nacional.
+El artículo 9 de la LOSNCP, establece los objetivos prioritarios del Estado en materia de contratación pública,
+entre los cuales constan:
+“[…] 6. Agilitar, simplificar y adecuar los procesos de adquisición a las distintas necesidades de las políticas
+públicas y a su ejecución oportuna; […] 9. Modernizar los procesos de contratación pública para que sean una
+herramienta de eficiencia en la gestión económica de los recursos del Estado; […] 11. Incentivar y garantizar
+la participación de proveedores confiables y competitivos en el SNCP […]”.
+El Servicio Nacional de Contratación Pública, amparado en los principios previstos en los artículos 226 y 227 de
+la CRE, tiene entre sus facultades, las que le confieren los numerales 5, 11, 12 y 17 del artículo 10 de la Ley
+Ibídem; esto es, ser el órgano encargado de desarrollar y administrar el Sistema Oficial de Contratación Pública
+del Ecuador [en adelante SOCE], establecer las políticas y condiciones de uso de la información y herramientas
+electrónicas del aludido sistema, e incorporar y modernizar herramientas conexas al SOCE.
+La Disposición Transitoria Tercera de la LOSNCP, señala que: “Hasta cuando existan en el país empresas
+certificadoras de firma electrónica autorizadas por el organismo del Estado competente, el Servicio Nacional
+de Contratación Pública responsable de la administración del Portal COMPRASPUBLICAS, tomará todas las
+medidas técnicas necesarias para que el uso de las herramientas informáticas que utilice, den seguridad a las
+transacciones que se efectúen de conformidad con esta Ley”.
+La Disposición General Quinta de la LOSNCP establece que: “Para la realización de los procedimientos
+electrónicos previsto en esta Ley, se emplearán métodos actualizados y confiables para garantizar el correcto
+funcionamiento del Portal Institucional y el uso eficiente y seguro de las herramientas informáticas”.
+En definitiva, es claro que la modernización de las referidas herramientas en materia de contratación pública
+constituyen para el Estado un eje fundamental, que permitirá el cumplimiento de los principios rectores que se
+encuentran establecidos tanto en el artículo 288 de la CRE como en el artículo 4 de la LOSNCP.
+Con relación a ello, la Ley Orgánica para la Optimización y Eficiencia de Trámites Administrativos establece,
+en el numeral 4 de su artículo 3, que las entidades reguladas por ella harán uso de tecnologías de la información
+y comunicación con el fin de mejorar la calidad de los servicios públicos y optimizar la gestión de trámites
+
+* Documento firmado electrónicamente por Quipux
+
+2/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+administrativos; esto último, en concordancia con los artículos 15 y 18, numeral 5, Ibídem. Lo cual debe ser
+efectuado sobre la base de los criterios de calidad y eficiencia establecidos en el artículo 4 y 5 del Código
+Orgánico Administrativo [en adelante COA], que presupone que las administraciones públicas deben satisfacer
+oportuna y adecuadamente las necesidades y expectativas de las personas, con objetividad y eficiencia; así pues,
+las mismas deben aplicar las medidas que garanticen los derechos de las personas, por lo que, además, se
+prohíben las dilaciones o retardos injustificados y la exigencia de requisitos puramente formales en los
+procedimientos, con el propósito de optimizar los recursos, tanto humanos como económicos.
+Ahora bien, el artículo 90 del COA dispone que, las actividades a cargo de las administraciones puedan ser
+ejecutadas mediante el uso de nuevas tecnologías y medios electrónicos. Para el efecto, el artículo 94 del citado
+cuerpo legal ordena que la actividad de la administración sea gestionada mediante certificados digitales de firma
+electrónica y, asimismo las personas podrán utilizar los referidos certificados en sus relaciones con la
+administración. Sobre el particular, la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos,
+en su artículo 13, contempla a la firma electrónica como los datos en forma electrónica consignados en un
+mensaje de datos que pueden ser utilizados para identificar el titular de la firma; y, el artículo 14 de la misma
+Ley establece que dicha firma“[…] tendrá igual validez y se le reconocerán los mismos efectos jurídicos que a
+una firma manuscrita en relación con los datos consignados en documentos escritos, y será admitida como
+prueba en juicio”.
+El artículo 45 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos, dispone que: “Los
+contratos podrán ser instrumentados mediante mensajes de datos. No se negará validez o fuerza obligatoria a
+un contrato por la sola razón de haberse utilizado en su formación uno o más mensajes de datos”. Por su parte,
+el artículo 51 Ibídem señala que: “Se reconoce la validez jurídica de los mensajes de datos otorgados,
+conferidos, autorizados o expedidos por y ante autoridad competente y firmados electrónicamente”.
+A este respecto, las Normas de Control Interno de la Contraloría General del Estado,[2] en su numeral 410-17,
+con respecto a la firma electrónica, prevé que:
+“Las entidades, organismos y dependencias del sector público, así como las personas jurídicas que actúen en
+virtud de una potestad estatal, ajustarán sus procedimientos y operaciones e incorporarán los medios técnicos y
+tecnológicos necesarios, para permitir el uso de la firma electrónica, de conformidad con la Ley de Comercio
+Electrónico, Firmas Electrónicas y Mensajes de Datos y su Reglamento, y demás normativa que disponga o
+sugiera su uso […]”.
+La Codificación y Actualización de Resoluciones emitidas por el Servicio Nacional de Contratación Pública,[3]
+fue reformada mediante la Resolución Externa Nro. RE-SERCOP-2020-106 de julio de 2020,[4] agregando los
+artículos 10.1 y 24.1, por medio de los cuales se dispone que los documentos relevantes correspondientes a la
+fase preparatoria, precontractual y contractual, incluyendo las ofertas, deberán ser suscritos electrónicamente
+tanto por las entidades contratantes como por los proveedores del Estado. Para dicho fin, deberán contar con un
+certificado de firma electrónica expedido por una de las entidades de certificación de información y servicio
+relacionados, autorizadas y acreditadas por la Agencia de Regulación y Control de las Telecomunicaciones;
+además, se estableció que el sistema oficial de validación de documentos firmados electrónicamente será el
+aplicativo “FIRMA EC”, provisto por el Ministerio de Telecomunicaciones y de la Sociedad de la Información.
+La Disposición Transitoria Vigésima Segunda de la Codificación y Actualización de Resoluciones emitidas por
+el SERCOP, establece que el requisito de disponibilidad de certificado vigente para uso de la firma electrónica a
+través del aplicativo “FIRMA EC”, será exigible en el plazo de noventa días contados a partir de la publicación
+de la Resolución Externa Nro. RE-SERCOP-2020-0106 en el Registro Oficial, es decir, a partir del 28 de
+octubre de 2020.
+III.- Implementación en las fases de la contratación pública:
+Con los antecedentes expuestos, resulta indispensable analizar la procedencia de la exigibilidad de la firma
+electrónica tomando en cuenta los documentos que se generan en cada fase de los procedimientos de
+
+* Documento firmado electrónicamente por Quipux
+
+3/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+contratación pública. En este sentido, el artículo 2, numeral 28, de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP, se refiere a la fase preparatoria en los siguientes términos:
+“Fase de la contratación pública que incluye la elaboración y modificación del plan anual de contrataciones
+-PAC; la elaboración de estudios de mercado, elaboración de especificaciones técnicas y términos de
+referencia -TDR; elaboración del presupuesto referencial y emisión de certificación presupuestaria;
+elaboración de estudios, elaboración y aprobación de pliegos; conformación de la comisión técnica u
+otorgamiento de delegación; y, toda actividad hasta antes de la publicación del procedimiento en el Portal
+Institucional del Servicio Nacional de Contratación Pública”.
+En suma, la fase preparatoria comprende la realización de los pasos previos, indispensables hasta la publicación
+de la convocatoria del procedimiento de contratación. En tal medida, esta fase implica la generación de varios
+documentos que por naturaleza son complejos, o deben instrumentarse por medio de mecanismos de
+interoperación con bases de datos de determinadas instituciones del sector público, o requieren de la
+intervención u autorización de determinados entes rectores según cada materia.[5] Un ejemplo de aquello sería
+la priorización de programas o proyectos de inversión,[6] la emisión de certificaciones de disponibilidad
+presupuestaria,[7] o la elaboración estudios, diseños, planos y cálculos que hayan requerido de la contratación
+previa de una consultoría.[8]
+Además, se debe considerar que el artículo 5 de la Codificación Ibídem señala que los Módulos Facilitadores de
+la Contratación Pública [en adelante MFC], son aplicativos informáticos que permiten, entre otros documentos,
+la elaboración del Plan Anual de Contratación [en adelante PAC]. Cabe destacar que en la elaboración del PAC
+se requiere de información que se obtiene a través del Sistema de Información de la Gestión Financiera
+[eSIGEF], mismo que se encuentra administrado por el Ministerio de Economía y Finanzas.[9]
+Bajo estas consideraciones, el uso obligatorio de firma electrónica en la fase preparatoria debe responder a
+una implementación paulatina, iniciando desde el cumplimiento del plazo previsto en la Disposición
+Transitoria Vigésima Segunda de la Codificación y Actualización de Resoluciones emitidas por el SERCOP,
+conforme se detallará más adelante.
+En lo atinente, a la fase precontractual, el artículo 2 numeral 29 de la Codificación, la define en los siguientes
+términos:
+“Fase de la contratación pública que se inicia con la publicación del procedimiento en el Portal Institucional
+del Servicio Nacional de Contratación Pública; etapa de preguntas, respuestas y aclaraciones, modificaciones
+de condiciones contractuales o de pliegos; cancelación del procedimiento, etapa de recepción, apertura,
+convalidación de errores, verificación, y calificación de ofertas; informe de la comisión técnica o del delegado;
+resolución y publicación de la adjudicación o decisión de procedimiento desierto; y todo acto que esté
+comprendido entre la convocatoria hasta la adjudicación o declaratoria de desierto del proceso de
+contratación”.
+Así pues, la fase precontractual inicia con la convocatoria y publicación de pliegos y termina con tres posibles
+actuaciones administrativas: la adjudicación, la declaratoria de desierto o la declaratoria de cancelación. Cabe
+señalar que, por regla general, los distintos procedimientos de contratación durante esta fase deben realizarse a
+través de SOCE,[10] y en la generación de los documentos integrantes de esta etapa interviene primordialmente
+la propia entidad contratante y los proveedores del Estado interesados en presentar sus ofertas.[11] En tal
+medida, se puede concluir que no existen obstáculos fácticos o tecnológicos significativos para que el uso
+obligatorio de firma electrónica en fase precontractual entre en vigencia a partir del fenecimiento del
+plazo previsto en la Disposición Transitoria Vigésima Segunda de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP.
+Por su parte, la fase contractual y de ejecución contractual se encuentra prevista en el artículo 2 numeral 30 de la
+Codificación Ibídem, de la siguiente manera:
+
+* Documento firmado electrónicamente por Quipux
+
+4/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+“Fase de la contratación pública que incluye todas las actuaciones para cumplir con el contrato suscrito,
+registro en el Portal Institucional del Servicio Nacional de Contratación Pública, la administración de la
+ejecución contractual, incluidos los registro de entregas parciales en caso de haberlas, presentación y pago de
+planillas, según el objeto de contratación y las actas de entrega-recepción provisionales y definitivas, según
+corresponde, además de la liquidación de los contratos en cualquiera de sus formas y la finalización del
+procedimiento; y en el caso de ser pertinente la realización de órdenes de trabajo, órdenes de cambio y
+contratos complementarios cubriendo la totalidad de los eventos”.
+Con respecto a la fase contractual y de ejecución del contrato podemos arribar una conclusión mixta frente a
+las determinaciones arriba reseñadas para la fase preparatoria y la fase precontractual; esto último en el sentido
+que, las actuaciones realizadas durante la fase contractual y de ejecución contractual deben publicarse por medio
+del SOCE, y para la generación de la mayoría de documentos que de ella se derivan se requiere de la
+intervención bilateral de la entidad contratante y del contratista.
+No obstante, en la fase bajo análisis también se deben generar documentos de naturaleza compleja, en donde
+intervienen personas naturales o instituciones públicas o privadas ajenas a la relación contractual principal; por
+lo que, el uso obligatorio de firma electrónica en la fase contractual y de ejecución contractual debe
+responder a una implementación paulatina, iniciando desde el cumplimiento del plazo previsto en la
+Disposición Transitoria Vigésima Segunda de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP, conforme se detallará más adelante.
+IV.- Implementación por tipo procedimiento de contratación pública:
+Una vez determinada la exigencia de la suscripción electrónica de los documentos generados por las fases de los
+procedimientos de contratación púbica, resulta fundamental examinar su aplicación excepcionada tomando en
+consideración el tipo de procedimiento.
+4.1.- Procedimiento de adquisición de bienes inmuebles:
+A este respecto, se contempla en la Sección III, del Capítulo V, del Título III de la LOSNCP; y, en el Capítulo
+VI, Título III, del Reglamento General de la Ley Orgánica del Sistema Nacional de Contratación Pública [en
+adelante RGLOSNCP], el procedimiento de adquisición de bienes inmuebles como parte de los Procedimientos
+Especiales. En este procedimiento intervienen entre otros órganos, el Registro de la Propiedad del municipio
+respectivo, el Gobierno Autónomo Municipal o Metropolitano y el órgano rector del catastro nacional
+georreferenciado, los cuales emiten certificaciones acorde sus competencias.
+Una vez perfeccionada la declaratoria de utilidad pública, la LOSNCP prevé la posibilidad a la entidad
+contratante de negociar con el administrado sobre el precio del inmueble, a través de un acuerdo directo que se
+puede adoptar hasta un plazo máximo de 30 días. Ante el fenecimiento del plazo mencionado, sin acuerdo
+directo, la entidad contratante emite el acto administrativo de expropiación y ocupación inmediata por el valor
+del avalúo catastral, sin el 10% de mejora, que debe notificarse, protocolizarse e inscribirse en el Registro de la
+Propiedad. Bajo este escenario, el propietario expropiado, una vez notificado con esta resolución, puede
+impugnarla ante el órgano jurisdiccional competente, solo con respecto al precio, siguiendo para el efecto el
+trámite previsto en el Código Orgánico General de Procesos.
+Adicionalmente, se debe tomar en consideración que, para el caso de las personas jurídicas de Derecho privado,
+sujetas al SNCP en calidad de entidades contratantes, podrán negociar directamente la adquisición de bienes
+inmuebles, según lo previsto en el artículo 62 del RGLOSNCP.
+En este sentido, tomando en cuenta que la expropiación de un bien inmueble se encuentra justificada por la
+utilidad pública que reviste en la satisfacción de las necesidades generales de la sociedad y por la relevancia que
+supone para el cumplimiento de los planes del Estado; y además, que en la tramitación de este procedimiento
+intervienen una serie de actores públicos que cuentan con su propia normativa y mecanismos de suscripción de
+
+* Documento firmado electrónicamente por Quipux
+
+5/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+documentos, resulta una imposición innecesaria la exigencia de la suscripción electrónica de los documentos
+derivados del procedimiento expropiatorio. Por consiguiente, su obligatoriedad no será aplicable al
+procedimiento de adquisición de bienes inmuebles establecido en la LOSNCP.
+4.2.- Arrendamiento de bienes inmuebles:
+En lo referente al procedimiento de arrendamiento de bienes inmuebles, el artículo 59 de la LOSNCP, señala
+que los contratos de arrendamiento en los que la entidad sea arrendadora o arrendataria se sujetarán a las
+disposiciones de la Sección II, del Capítulo VI, del Título III del RGLOSNCP. En este contexto, el artículo 16
+de la Codificación y Actualización de Resoluciones emitidas por el SERCOP especifica la documentación
+relevante que deberá ser publicada en el Portal de COMPRASPÚBLICAS para este tipo de procedimientos, esto
+es: i) el pliego en el que consten las condiciones mínimas del inmueble, indicación de la ubicación y
+características del bien; ii) la publicación de la convocatoria o las invitaciones efectuadas por la entidad
+contratante realizadas a través de la prensa local o nacional; iii) la respectiva autorización emitida por el ente
+rector de la gestión inmobiliaria del sector público, en caso de las entidades contratantes previstas en los
+numerales 1 y 2 del artículo 2 del Decreto Ejecutivo Nro. 503, publicado en el Registro Oficial Suplemento Nro.
+335, de 26 de septiembre de 2018, tanto para el inicio del procedimiento de arrendamiento, como para la
+prórroga y/o renovación de los contratos de arrendamiento de bienes inmuebles; y, iv) el contrato de
+arrendamiento; esto último, en concordancia con el Capítulo II, del Título VII, de la referida Codificación, a
+través del cual se desarrolla el procedimiento a efectuarse en caso de que la entidad contratante sea arrendataria
+o arrendadora.
+Así pues, en el procedimiento de arrendamiento de bienes inmuebles los principales documentos a generarse son
+los pliegos, la publicación de la convocatoria por la prensa nacional o local o la realización de invitaciones
+directas, la respectiva autorización de la entidad pública competente para el efecto, la presentación y recepción
+de ofertas, la emisión de la resolución de adjudicación, y el respectivo contrato de arrendamiento. Entonces,
+tomando en consideración la naturaleza propia de cada documento, así como la intervención de una autoridad
+administrativa externa, que no se encuentra constreñida al cumplimiento de los artículos 10.1 y 24.1 de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP; se colige que, para toda la
+documentación que haya sido generada en este procedimiento será exigible de cumplimiento de suscripción
+electrónica por la o las partes, a excepción de la publicación de la convocatoria que sea llevada a cabo por la
+prensa nacional o local.
+4.3.- Procedimientos de ínfima cuantía:
+A través del artículo 52.1 de la LOSNCP, en concordancia con el artículo 60 del RGLOSNCP y el Capítulo V,
+del Título V, de la Codificación y Actualización de Resoluciones emitidas por el SERCOP, se detallan los
+bienes y servicios que se pueden adquirir bajo el procedimiento de ínfima cuantía. Las referidas contrataciones
+son, por regla general, excepcionales y no planificadas, y su presupuesto referencial no puede superar el
+coeficiente de 0,0000002 del Presupuesto Inicial del Estado.
+Las disposiciones en mención establecen que este tipo de procedimientos se realizarán de forma directa, con un
+proveedor seleccionado por la entidad contratante, sin que sea necesario que el mismo conste en el RUP.
+Adicionalmente, estas contrataciones se formalizarán con la entrega de la correspondiente factura, por lo que no
+es necesaria la suscripción de un contrato por las partes, salvo que lo consideren necesario. Adicionalmente,
+cabe destacar que el artículo 336 de Codificación determina que: “Siempre que sea posible, se exhorta a las
+entidades contratantes a que cuenten con al menos tres proformas previamente a definir el proveedor con quien
+se realizará la contratación por Ínfima Cuantía” (énfasis añadido). Debiéndose remarcar el exhorto en lo que
+respecta a la obtención de proformas en este tipo de procedimientos, las cuales, en última instancia, serán
+proporcionadas por potenciales proveedores que no tienen la obligación de estar inscritos ni habilitados en el
+RUP.
+En esta línea, cabe destacar que si bien la ínfima cuantía debe ser utilizada de forma eventual y no recurrente, en
+el mismo ejercicio económico, por lo que no puede ser utilizada como un medio de elusión de otros
+
+* Documento firmado electrónicamente por Quipux
+
+6/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+procedimientos, en virtud de la prohibición de subdivisión de contratos prevista en la Disposición General
+Segunda de la LOSNCP; no es menos cierto que, por su naturaleza debe ser una contratación ágil, con menor
+exigencia de formalidades.
+Bajo estas consideraciones, se determina que dentro de los procedimientos de ínfima cuantía será exigible
+únicamente la firma electrónica en el instrumento por medio del cual se formalice la referida
+contratación, sea este el contrato, la orden de compra o la factura.
+4.4.- Contrataciones en situación de emergencia:
+Las contrataciones en situación emergencia se encuentran reguladas en el artículo 57 de la LOSNCP, así como
+en el Capítulo I, del Título VII, de la Codificación y Actualización de Resoluciones emitidas por el SERCOP.
+La situación de emergencia ha sido definida por el artículo 6, numeral 31, de la LOSNCP, como aquellas
+generadas por acontecimientos graves tales como accidentes, terremotos, inundaciones, sequías, grave
+conmoción interna, inminente agresión externa, guerra internacional, catástrofes naturales, y otras que
+provengan de fuerza mayor o caso fortuito, a nivel nacional, sectorial o institucional.
+Es así, que en el artículo 364.2 de la Codificación, se señala que los contratos, órdenes de compra de emergencia
+o facturas generadas en el marco de la declaratoria de emergencia deberán instrumentarse por escrito;[13] y en
+el inciso segundo del mismo artículo, se establece que las entidades contratantes podrán perfeccionarlos por
+medio del uso o transmisión de mensajes de datos de conformidad la Ley de Comercio Electrónico, Firmas
+Electrónicas y Mensajes de Datos.
+En otras palabras, en este tipo de contrataciones, la declaratoria de emergencia, las adhesiones a condiciones
+técnicas y propuestas económicas, el acto de calificación de proveedores, los informes parciales e informe final,
+pueden ser suscritos electrónicamente o de forma física; esto por cuanto se atiende a la naturaleza extraordinaria
+e imprevista de la emergencia. Siendo que, en consideración a sus condiciones particulares de las
+contrataciones en situación de emergencia, la entidad contratante podrá elegir aquella modalidad de
+firma que se acomode a su situación en específico.
+Sin perjuicio de lo anterior, se deberá tomar en cuenta que dentro de los procedimientos de emergencia será
+exigible obligatoriamente la firma electrónica en el instrumento por medio del cual se formalice la
+referida contratación, sea este el contrato, la orden de compra o la factura.
+V.- Sobre la validez de los documentos firmados electrónicamente, su almacenamiento y conservación:
+El artículo 8 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos, dispone que:
+“Toda información sometida a esta ley, podrá ser conservada; este requisito quedará cumplido mediante el
+archivo del mensaje de datos, siempre que se reúnan las siguientes condiciones: […] b. Que sea conservado
+con el formato en el que se haya generado, enviado o recibido, o con algún formato que sea demostrable que
+reproduce con exactitud la información generada, enviada o recibida; […]d. Que se garantice su integridad
+por el tiempo que se establezca en el reglamento a esta ley […]” (énfasis añadido).
+De su parte, el artículo 3 del Reglamento General a la Ley de Comercio Electrónico, Firmas Electrónicas y
+Mensajes de Datos, establece que:
+“Se entiende que la información contenida en un mensaje de datos es accesible para su posterior consulta
+cuando: a) Ha sido generada y puede ser almacenada en un lenguaje electrónico/informático y formato
+entendibles por las partes involucradas en el intercambio de información y sus respectivos sistemas
+informáticos de procesamiento de la información, pudiéndose recuperar su contenido y el de los remitidos o
+anexos correspondientes en cualquier momento empleando los mecanismos previstos y reconocidos para el
+efecto; y, b) Se puede recuperar o se puede acceder a la información empleando los mecanismos previstos al
+momento de recibirlo y almacenarlo, y que deberán detallarse y proporcionarse independientemente del
+
+* Documento firmado electrónicamente por Quipux
+
+7/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+mensaje de datos a fin de garantizar el posterior acceso al mismo. [...] Las publicaciones que las leyes exijan
+por escrito, sin perjuicio de lo establecido en dichas leyes, podrán adicionalmente efectuarse en medios
+electrónicos en forma de mensajes de datos. [...] Cumplidos los requisitos de accesibilidad, el mensaje de datos
+tiene iguales efectos jurídicos que los documentos que constan por escrito” (énfasis añadido).
+En este sentido, se debe aclarar que los documentos que son suscritos electrónicamente pierden su validez legal
+una vez que sean impresos, pues la misma radica en la integridad y autenticidad del documento electrónico. Por
+tanto, en caso de que se requiera respaldo de los documentos con firma electrónica, o para hacerlos constar en
+expedientes físicos, los mismos deberán ser conservados a través de sistemas de información,[14] tales como
+dispositivos de almacenamiento por medios magnético, ópticos o electrónicos. [15]
+Quedando a salvo la solicitud que se haga ante notario público para obtener la materialización de dicho
+documento, acorde al literal b) del numeral 5 del artículo 18 de la Ley Notarial, en concordancia con el artículo
+4 del Reglamento General a la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos. En este
+último caso, como es evidente se perdería el propósito mismo de la suscripción de documentos por medios
+electrónicos, y además haría incurrir a la entidad contratante en mayores e innecesarios gastos, con lo cual se
+conmina a los actores del SNCP a recibir y mantener los respaldos de la documentación firmada
+electrónicamente en los diversos medios de almacenamiento de información disponibles para el efecto.
+En lo que se refiere a la integridad de los documentos firmados electrónicamente, el artículo 13 de la Ley de
+Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos, define a la firma electrónica como los datos
+electrónicos consignados en un mensaje de datos, adjuntados o lógicamente asociados al mismo. Según la
+Disposición General Novena de la Ley en mención, los mensajes de datos son “[...] toda información creada,
+generada, procesada, enviada, recibida, comunicada o archivada por medios electrónicos, que puede ser
+intercambiada por cualquier medio”. En otras palabras, un documento suscrito electrónicamente abarca ambos
+instrumentos: la información generada electrónicamente [mensaje de datos], y la firma electrónica atada a la
+misma.
+Bajo esta lógica, cabe destacar que de los artículos 7 y 8 de la Ley en mención, se desprende que cuando ley
+requiera u obligue que la información sea presentada o conservada en su forma original, este requisito quedará
+cumplido con un mensaje de datos; siempre y cuando se haya conservado la integridad de la información desde
+el momento en que se generó por primera vez.
+De igual manera, el artículo 16 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos,
+establece que cuando se fijare la firma electrónica en un mensaje de datos, aquélla deberá enviarse en un mismo
+acto como parte integrante del mensaje de datos o lógicamente asociada a éste.
+En armonía con lo señalado, el artículo 6 del Reglamento General a la Ley de Comercio Electrónico, Firmas
+Electrónicas y Mensajes de Datos, señala que un mensaje de datos permanece íntegro si se mantiene completo e
+inalterable su contenido, desde que se firmó electrónicamente.
+Con estas consideraciones, no resta sino concluir que a partir del momento en que un documento es firmado
+electrónicamente, para que mantenga su integridad y pueda ser considerado información original, el
+mismo no puede ser alterado en su contenido de fondo o dividido, independientemente de su tamaño.
+Por otra parte, resulta pertinente reiterar que el sistema oficial de validación de documentos firmados
+electrónicamente será el sistema FIRMA EC, provisto por el Ministerio de Telecomunicaciones y de la Sociedad
+de la Información, tal como se estableció en la Resolución Externa Nro. RE-SERCOP-2020-106, de 16 de julio
+de 2020, para lo cual se señala el enlace directo al referido sistema: https://www.gob.ec/articulos/FIRMA EC.
+En tal sentido, cabe destacar que si bien el Portal de COMPRASPÚBLICAS no tiene incorporado un módulo
+para la suscripción y validación de las firmas electrónicas; el referido Portal sí permite que esta validación sea
+efectuada de forma externa a través del sistema FIRMA EC, y, a posterior, se pueda cargar los documentos
+respectivos.
+
+* Documento firmado electrónicamente por Quipux
+
+8/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+Bajo todas las consideraciones del presente acápite, para la suscripción y validación electrónica de documentos
+dentro del SNCP, este Servicio Nacional recomienda a las entidades contratantes observar, al menos, los
+siguientes parámetros:
+5.1.- Suscripción electrónica de documentos: Para la suscripción de documentos relevantes de los
+procedimientos de contratación pública, los proveedores y/o entidades contratantes del Sistema Nacional de
+Contratación Pública deberán realizar los siguientes pasos:
+a) Descargar el instalador de FIRMA EC que se encuentra en sitio web oficial http://www.firmadigital.gob.ec
+en la sección “Enlaces rápidos” [Seleccionar el instalador dependiendo el sistema operativo que corresponda].
+b) Instalar el aplicativo FIRMA EC conforme los pasos necesarios en el sistema operativo que corresponda.
+c) Ejecutar el aplicativo FIRMA EC.
+d) En la vista principal del aplicativo FIRMA EC, se debe seleccionar la pestaña “FIRMAR DOCUMENTO”,
+seleccionar el tipo de certificado de firma electrónica [Archivo o Token], ingresar la contraseña y seleccionar el
+documento a ser firmado.
+e) En el caso que el archivo sea de un tamaño superior a 10 Mb, debido a la limitación de tamaño en los
+archivos del SOCE, se deberá crear particiones [archivo normal o comprimido] que no superen los 10 Mb; cada
+una de estas particiones deberá ser firmada electrónicamente.
+f) Se debe presionar “Firmar” para especificar la ubicación de la firma electrónica en el documento, y
+“Estampar” para plasmar la firma electrónica en el documento.
+g) Descargar el documento firmado electrónicamente.
+h) Los pliegos u ofertas generados en los Módulos Facilitadores de la Contratación Pública deberán ser suscritos
+en su versión en PDF.
+i) En el caso de requerir mayor información con respecto a la instalación y uso del aplicativo FIRMA EC, el
+usuario debe recurrir al manual disponible en:
+https://www.firmadigital.gob.ec/wp-content/uploads/2020/04/Manual-Usuario-FirmaEC-v2.5.1.pdf.
+5.2.- Validación de los documentos firmados electrónicamente: Para validar la suscripción de documentos
+relevantes de los procedimientos de contratación pública, los proveedores y/o entidades contratantes del Sistema
+Nacional de Contratación Pública deberán realizar los siguientes pasos:
+a) Descargar el instalador de FIRMA EC que se encuentra en sitio web http://www.firmadigital.gob.ec en la
+sección “Enlaces rápidos” [Seleccionar el instalador dependiendo el sistema operativo que corresponda].
+b) Instalar el aplicativo FIRMA EC conforme los pasos necesarios en el sistema operativo que corresponda.
+c) Ejecutar el aplicativo FIRMA EC.
+d) En la vista principal del aplicativo FIRMA EC, se debe elegir la pestaña “VERIFICAR DOCUMENTO”,
+seleccionar el documento a verificar y presionar el botón “Verificar Archivo”.
+e) El aplicativo mostrará los resultados de los resultados de la verificación del archivo firmado
+electrónicamente.
+f) En el caso de requerir más información con respecto a la instalación y uso del aplicativo FIRMA EC, el
+usuario debe recurrir al manual disponible en:
+https://www.firmadigital.gob.ec/wp-content/uploads/2020/04/Manual-Usuario-FirmaEC-v2.5.1.pdf.
+VI.- Formas de entrega y recepción de ofertas:
+Cabe aclarar que las reglas que integran el SNCP no contemplan una referencia expresa respecto de la forma de
+entrega de las ofertas en los diferentes procedimientos de contratación que sean efectuados bajo la
+LOSNCP.[16] Sin embargo, y solo para la suscripción de documentos relevantes de los procedimientos de
+contratación pública, los proveedores y/o entidades contratantes del Sistema Nacional de Contratación Pública
+deberán tener en cuenta, lo siguiente:
+Según lo dispuesto en los artículos 20 y 28 del RGLOSNCP, es potestad privativa de la entidad contratante
+establecer las condiciones del procedimiento de contratación en sus pliegos; para lo cual deberá ajustarse a los
+modelos obligatorios oficializados por este Servicio Nacional, pero siempre manteniendo la atribución de
+
+* Documento firmado electrónicamente por Quipux
+
+9/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+modificarlos y ajustarlos a sus necesidades particulares.
+A este respecto, el número 3 de la Convocatoria, el numeral 3.3.1 de la Condiciones Particulares, y el numeral
+1.3 de la Condiciones Generales de los Modelos de Pliegos,[17] prevén la posibilidad de que las ofertas sean
+presentadas de forma física y a través del Portal de COMPRASPÚBLICAS; en ambos casos, una vez fenecido
+el plazo previsto en la Disposición Transitoria Vigésima Segunda de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP, para que sean válidas estas ofertas deberán estar firmadas
+electrónicamente. Por lo que, bajo los parámetros desarrollados a lo largo del presente oficio circular, se
+colige que es responsabilidad y atribución exclusiva de la entidad contratante establecer en los respectivos
+pliegos si las ofertas se presentarán exclusivamente por el Portal de COMPRASPÚBLICAS o también en
+ventanilla o por correo electrónico, a efectos de cumplir con lo dispuesto en los artículos 10.1 y 24.1 de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP, siendo en todos los casos necesario que
+la oferta se encuentre firmada electrónicamente.
+Ahora bien, el 17 de marzo de 2020, este Servicio Nacional emitió el oficio circular Nro.
+SERCOP-SERCOP-2020-0013-C, publicado en la sede electrónica del SERCOP, [18] por medio de la cual se
+emitieron directrices para la entrega de las ofertas en el contexto de la emergencia sanitaria; indicando que se las
+puede efectuar de forma física, vía courier o mediante correo electrónico [email], elección que se encuentra a
+cargo de las entidades contratantes que obligatoriamente deben hacer constar este particular en los pliegos del
+procedimiento respectivo. Adicionalmente, se señalaba que dichos procedimientos de entrega estarán vigentes
+hasta que la autoridad sanitaria declare la terminación de la emergencia sanitaria.
+En relación a ello, mediante Acuerdo Ministerial Nro. 00057-2020, publicado en la Edición Especial del
+Registro Oficial Nro. 1005, de 14 de septiembre de 2020, el Ministro de Salud Pública dispuso: “[...] la
+emergencia en el Sistema Nacional de Salud, a fin de que se mantengan las medidas necesarias para garantizar
+el derecho a la Salud en la población ante la crisis sanitaria existente provocada por el SARS-CoV-2 causante
+de la Covid-19, de acuerdo con lo dictaminado por la Corte Constitucional”. Según el artículo 15 del
+mencionado Acuerdo Ministerial, la emergencia del Sistema Nacional de Salud tendrá una duración de noventa
+(90) días, misma que podrá extenderse de ser necesario.
+Es decir que, a partir del fenecimiento del plazo aludido en el párrafo precedente, siempre y cuando la Autoridad
+Sanitaria Nacional no vuelva a disponer la emergencia sanitaria a través de un nuevo Acuerdo Ministerial, la
+circular Nro. SERCOP-SERCOP-2020-0013-C perderá su vigencia. Sin embargo, es imprescindible efectuar
+el análisis jurídico para determinar la aplicabilidad de las formas de entrega de ofertas allí
+contempladas.
+En este sentido, se debe reiterar que la Codificación y Actualización de Resoluciones emitidas por el SERCOP,
+fue reformada mediante la Resolución Externa Nro. RE-SERCOP-2020-106, con la que se agregaron, entre
+otros, los artículos 10.1 y 24.1, que disponen en términos generales que los documentos relevantes
+correspondientes a la fase preparatoria, precontractual y contractual, incluyendo las ofertas, deberán ser
+suscritos electrónicamente tanto por las entidades contratantes como por los proveedores del Estado, para lo cual
+deberán contar con un certificado de firma electrónica.
+Atendiendo a la Disposición Transitoria Vigésima Segunda de la Resolución Externa Nro.
+RE-SERCOP-2020-106, una vez fenecido el plazo previsto en dicha disposición, las entidades contratantes, así
+como los proveedores del Estado deberán cumplir con lo dispuesto en la Resolución Externa en mención. Bajo
+este marco argumentativo, en virtud de lo dispuesto en el inciso segundo del artículo 21, Disposición General
+Quinta y Disposición Transitoria Tercera de la LOSNCP, en concordancia con el numeral 1.3 de la Condiciones
+Generales de los Modelos de Pliegos oficializados por el SERCOP, las entidades contratantes
+obligatoriamente deberán establecer en los correspondientes pliegos del procedimiento de contratación, la
+forma de entrega de ofertas a través del Portal de COMPRASPÚBLICAS; para lo cual, deberán observar
+los siguientes parámetros: DE FORMA OBLIGATORIA EN LOS PLIEGOS OFERTA ELECTRÓNICA
+6.1.- Para los procedimientos de contratación en los que es obligatoria la generación de las ofertas a través del
+
+* Documento firmado electrónicamente por Quipux
+
+10/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+Módulo Facilitador de la Contratación Pública, los usuarios del Sistema Nacional de Contratación Pública
+deberán realizar los siguientes pasos:
+a) Las entidades contratantes, cuando generen sus pliegos a través del Módulo Facilitador de la Contratación
+Pública, al momento de establecer las formas y/o de canales de entrega de ofertas, deberán observar lo previsto
+en el presente acápite, adaptando en lo que sea posible el texto susceptible de modificación en el MFC.[19]
+b) Ingresar toda la información y documentación de los formularios que componen la oferta, de conformidad
+con las funcionalidades y controles establecidos en la herramienta informática.
+c) Una vez ingresada toda la información y documentación de la oferta, presionar el botón “Vista previa de la
+oferta”, mismo que se encuentra en la parte superior derecha de la pantalla, para generar la vista previa de la
+oferta en formato PDF.
+d) Descargar el archivo de la vista previa de la oferta y firmar electrónicamente en cada uno de los formularios.
+Cada formulario de la oferta, o sus particiones debido a que su tamaño supera los 10 Mb, deben ser firmados
+electrónicamente de manera individual; para así cumplir con el mandato de integridad de estos mensajes de
+datos;
+e) Cargar el archivo firmado electrónicamente en la sección “Anexos” de la oferta en el Módulo Facilitador de la
+Contratación Pública.
+f) De conformidad con el artículo 3 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de
+Datos, se reconoce validez jurídica a la información no contenida directamente en una oferta firmada
+electrónicamente, siempre que figure en la misma, en forma de remisión o de anexo, y cumpla con los
+parámetros establecidos en los artículos 1 y 2 del Reglamento General a la Ley antes mencionada.
+g) Generar Oferta en el Módulo Facilitador de la Contratación Pública y descargar el archivo en .ushay
+h) Cargar oferta generada en .ushay al procedimiento de contratación en el SOCE tanto en formato ushay como
+en PDF, que se haya firmado electrónicamente.
+Adicionalmente, con respecto a otras formas de entrega de ofertas, cabe señalar que la Disposición General
+Novena de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos indica que mensaje de
+datos constituye:
+“Toda información creada, generada, procesada, enviada, recibida, comunicada o archivada por medios
+electrónicos, que puede ser intercambiada por cualquier medio. Serán considerados como mensajes de datos,
+sin que esta enumeración limite su definición, los siguientes documentos electrónicos, registros electrónicos,
+correo electrónico, servicios web, telegrama, télex, fax e intercambio electrónico de datos” (énfasis añadido).
+Sobre esto, el artículo 2 de la Ley Ibídem prevé que los mensajes de datos tendrán igual valor jurídico que los
+documentos escritos. En este sentido, Ley Orgánica para la Optimización y Eficiencia de Trámites
+Administrativos dispone, en su artículo 3 numeral 4, que las entidades reguladas por la referida Ley harán uso
+de tecnologías de la información y comunicación con el fin de mejorar la calidad de los servicios públicos y
+optimizar la gestión de trámites administrativos, con base en los criterios de calidad y eficiencia establecidos en
+el artículo 4 y 5 del Código Orgánico Administrativo.
+Lo antes dicho, implica que las administraciones públicas puedan atender las necesidades y requerimientos de
+los usuarios de forma más efectiva y rápida, así pues, la remisión de información por medios electrónicos
+garantiza que se cumpla con dicho objetivo. En este sentido, la Disposición General Quinta de la LOSNCP
+establece que: “Para la realización de los procedimientos electrónicos previsto en esta Ley, se emplearán
+métodos actualizados y confiables para garantizar el correcto funcionamiento del Portal Institucional y el uso
+eficiente y seguro de las herramientas informáticas”.
+Siguiendo este orden de ideas, en términos generales se concluye que la suscripción de las ofertas, dependiendo
+del tipo procedimiento de contratación, se efectuarán electrónicamente; para tal efecto, será viable que la
+entrega de las ofertas se instrumente a través de un mensaje de datos, como es la remisión vía correo
+electrónico [email] a la entidad contratante. Para dicho efecto, la entidad contratante deberá indicar en la
+correspondiente sección del pliego del procedimiento, la forma de entrega de ofertas que se deberá efectuar;
+indicando, en esta forma de entrega, el correo electrónico institucional en el cual se receptarán las ofertas y sus
+
+* Documento firmado electrónicamente por Quipux
+
+11/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+convalidaciones.
+6.2.- Así pues, en lo respecta a la entrega de ofertas a través de correo electrónico u otro mensaje de datos,
+se recomienda tanto a la entidad contratante como a los proveedores del Estado, observar, al menos, los
+siguientes parámetros:
+a) Las ofertas se presentarán conforme a lo determinado en el respectivo pliego del procedimiento de
+contratación.
+b) El proveedor deberá remitir la oferta desde el correo electrónico que fue registrado en el SOCE.
+c) Las ofertas que deban ser suscritas electrónicamente, podrán ser remitidas al correo electrónico señalado y
+contendrán los archivos en formato PDF (formularios de la oferta firmados junto con los documentos de
+respaldo). Adicionalmente se adjuntarán los archivos en formato Word (.doc), Excel (.xls) o en el formato que
+sea requerido por la entidad contratante.
+d) Las ofertas que puedan ser firmadas físicamente, exclusivamente en los casos previstos en el acápite IV del
+presente oficio circular, podrán ser suscritas y digitalizadas para su envío por correo electrónico. Para este
+propósito, la oferta deberá ser remitida en formato PDF y cada hoja deberá encontrarse sumillada.
+Adicionalmente se anexarán los archivos de respaldo necesarios sea en formato Word (.doc), Excel (.xls) o en el
+que sea requerido por la entidad contratante. Una vez que haya sido adjudicada, el proveedor adjudicado deberá
+realizar la presentación de manera física.
+e) En el caso de exceder el tamaño de capacidad de envío, las ofertas deberán remitirse por un canal digital que
+la entidad contratante habilite o lo defina, para el efecto, verbigracia: https://wetransfer.com/,
+https://transfer.pcloud.com/ o cualquier otro medio similar que sea determinado por la entidad en los pliegos.
+e) El procedimiento para apertura de ofertas presentadas electrónicamente se lo registrará en el acta
+correspondiente y será responsabilidad de la entidad contratante.
+f) De conformidad con el artículo 3 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de
+Datos, se reconoce validez jurídica a la información no contenida directamente en una oferta firmada
+electrónicamente, siempre que figure en la misma, en forma de remisión o de anexo, y cumpla con los
+parámetros establecidos en los artículos 1 y 2 del Reglamento General a la Ley antes mencionada.
+g) Será obligación de la entidad contratante remitir de forma inmediata un correo de respuesta confirmando la
+recepción del correo del proveedor; caso contrario el procedimiento podrá ser objeto de reclamo y/o acción de
+control.
+En lo que respecta a la entrega física o vía courier [correo regular] de las ofertas, estas formas de entrega
+podrán ser determinadas por la entidad contratante en los correspondientes pliegos, bajo los siguientes
+escenarios: i) procederá respecto de aquellos procedimientos en los que la suscripción de las ofertas pueda ser
+efectuada físicamente con firma manuscrita, exclusivamente en los casos previstos en el acápite IV del presente
+oficio circular. Cuando la entrega de las ofertas sea efectuada bajo este escenario, la entidad contratante, en la
+etapa correspondiente, deberá verificar que la misma tenga la firma manuscrita de responsabilidad del o los
+oferentes, y que cada una de sus hojas cuente con las sumillas respectivas; y, ii) procederá respecto de aquellas
+ofertas que hayan sido suscritas electrónicamente, y sobre las cuales la entidad contratante determine su entrega
+física a través de dispositivos de almacenamiento por medios magnético, ópticos o electrónicos, conforme lo
+dispuesto en el artículo 8 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos, en
+concordancia con el artículo 3 de su Reglamento General de aplicación.
+6.3.- En el caso de entrega vía courier, se recomienda tanto a las entidades contratantes, como a los proveedores
+del Estado, observar, al menos, los siguientes parámetros:
+a) El sobre interior y exterior, deberá contener la siguiente información: Nombre y dirección del oferente.
+b) Dirigido a la entidad contratante (Nombre Dirección, Ciudad) conforme lo determinado por la entidad para la
+entrega de ofertas.
+c) Identificación específica del procedimiento de contratación (código de procedimiento y objeto contractual).
+El sobre interno que contenga la oferta deberá incluir la ilustración conforme lo establece el pliego “Forma de
+presentar la oferta”.
+d) Incluir una advertencia de no abrir antes de la hora y fecha de apertura de ofertas, especificadas de
+
+* Documento firmado electrónicamente por Quipux
+
+12/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+conformidad con el pliego.
+e) Si los sobres no están sellados e identificados como se requiere, la entidad contratante no se responsabilizará
+en caso de que la oferta se extravíe o llegue a otro lugar no establecido por la entidad.
+f) Las ofertas deberán llegar hasta le fecha y hora indicada en el pliego.
+En resumen, las entidades contratantes tienen la potestad de establecer en el respectivo pliego de sus
+procedimientos de contratación, otras formas de entrega de las ofertas, además de la entrega a través del Portal
+COMPRASPÚBLICAS; sin embargo, estas formas de entrega adicionales están supeditadas a ser suscritas
+electrónicamente por regla general, y con firma manuscrita solo en los casos previstos en el acápite IV de esta
+circular. Por lo que se conmina a las referidas entidades a fijar las formas de entrega de las ofertas atendiendo a
+la exigencia que se prevea para su suscripción y garantizando la integridad y autenticidad de la información
+contenida en los documentos que deriven de los procedimientos de contratación.
+En resumen, se podrá entregar ofertas por 3 canales: Portal de COMPRASPÚBLICAS, correo electrónico y
+presencialmente, siendo obligatorio realizarlo al menos a través del Portal de COMPRASPÚBLICAS, sitio web
+oficial donde la oferta será subida con firma electrónica. Para el caso del correo electrónico o presencial
+(ventanilla), será la entidad quien determine si utiliza o no cualquiera de estos canales.
+En el caso del canal presencial (ventanilla), se podrá realizar la entrega a través del servicio de courier o de
+forma personal. A su vez, en este canal de entrega se admitirá dos opciones de presentación: i) A través de un
+medio de almacenamiento, ya que la oferta deberá estar firmada electrónicamente; o, ii) Con firma manuscrita,
+exclusivamente en los casos previstos en el Acápite IV de esta circular.
+Es importante considerar que la firma manuscrita escaneada no puede ser considerada como firma electrónica;
+las entidades y proveedores deberán tomar las medidas necesarias para evitar esta práctica.
+VII.-Comunicado:
+En virtud de la normativa citada en el acápite II del presente oficio circular, este Servicio Nacional recuerda que
+constituye una obligación de las entidades contratantes previstas en el artículo 1 de la LOSNCP, la
+implementación de la firma electrónica en los procedimientos sometidos al SNCP; lo cual, permitirá, la apertura
+de una nueva vía de comunicación con los ciudadanos, de forma más ágil, y que, a nivel organizativo, reducirá
+el tiempo de tramitación de los procedimientos de contratación.
+En consecuencia, para una adecuada implementación de la obligación señalada en el párrafo precedente, con
+fundamento en los argumentos desarrollados en los acápites III a VI, este Servicio Nacional informa a las
+entidades contratantes previstas en el artículo 1 de la LOSNCP, las siguientes directrices técnico-orientativas:
+7.1.- Una vez que fenecido el plazo establecido en la Disposición Transitoria Vigésima Segunda de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP, será obligatoria la suscripción
+electrónica de los documentos considerados como relevantes que se deriven de la fase precontractual en los
+procedimientos de contratación establecidos en la Ley Orgánica del Sistema Nacional de Contratación
+Pública.[20]
+7.1.1.- En lo que respecta a las formas de entrega y recepción de ofertas, se debe recordar que es
+responsabilidad y atribución exclusiva de la entidad contratante establecer en los respectivos pliegos, la forma
+y/o canales de presentación de las ofertas, a efectos de cumplir con lo dispuesto en los artículos 10.1 y 24.1 de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP. Para lo cual se observará los
+argumentos desarrollados en el acápite VI del presente oficio circular.
+7.2.- Respecto a los documentos considerados como relevantes dentro de la fase preparatoria de los
+procedimientos de contratación pública, su obligatoriedad será exigida de forma paulatina, iniciando con esta
+implementación desde el cumplimiento del plazo previsto en la Disposición Transitoria Vigésima Segunda de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP, y con la exclusión, a discreción de la
+
+* Documento firmado electrónicamente por Quipux
+
+13/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+entidad contratante, de determinados documentos que por su naturaleza resultan de una significativa dificultad
+de instrumentación a través de firma electrónica; acorde al siguiente cronograma:
+FASE PREPARATORIA
+A partir del cumplimiento del plazo la
+Disposición Transitoria Vigésima
+Segunda de la Codificación y
+Actualización de Resoluciones emitidas
+por el SERCOP
+A partir del cumplimiento del plazo la
+En general cualquier documento, no especificado en los recuadros
+Disposición Transitoria Vigésima
+subsiguientes, generado por la entidad contratante hasta antes de la
+Segunda de la Codificación y
+publicación del procedimiento en el Portal de COMPRASPÚBLICAS. Actualización de Resoluciones emitidas
+por el SERCOP
+Resolución del Plan Anual de Contratación -PAC, y sus consecuentes
+27 de noviembre de 2020
+reformas.
+Certificación presupuestaria para el objeto de contratación
+27 de diciembre de 2020
+correspondiente.
+Especificaciones técnicas o términos de referencia.
+27 de enero de 2021
+Estudios, diseños, proyectos, planos y cálculos; estudio de
+27 de junio de 2021
+Desagregación Tecnológica o Compra de Inclusión; y, estudio de
+mercado para la definición de presupuesto referencial.
+Dictámenes, informes técnicos, o cualquier otra actuación
+administrativa de autorización previa para el inicio del procedimiento de
+contratación, por parte de otras instituciones del sector público; siempre 27 de julio de 2021
+y cuando este requisito de autorización este contemplado en el
+ordenamiento jurídico ecuatoriano.
+Excluido o a discreción de la entidad
+Proformas de proveedores de las obras, bienes o servicios a contratar.
+contratante.
+Designación de la Comisión Técnica para los procedimientos de
+Licitación, y en general cualquier acto administrativo de delegación
+emitido dentro de esta fase.
+
+Sin perjuicio del cronograma anterior, la entidad contratante podrá optar por firmar electrónicamente, en
+cualquier momento hasta antes del cumplimiento del plazo para su obligatoriedad.
+7.3.- Respecto a los documentos considerados como relevantes dentro de la fase contractual y de ejecución del
+contrato de los procedimientos de contratación pública, su obligatoriedad será exigida de forma paulatina,
+iniciando con esta implementación desde el cumplimiento del plazo previsto en la Disposición Transitoria
+Vigésima Segunda de la Codificación y Actualización de Resoluciones emitidas por el SERCOP, y con la
+exclusión, a discreción de la entidad contratante, de determinados documentos que por su naturaleza resultan de
+una significativa dificultad de instrumentación a través de firma electrónica; acorde al siguiente cronograma:
+
+* Documento firmado electrónicamente por Quipux
+
+14/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+FASE CONTRACTUAL Y DE EJECUCIÓN DEL CONTRATO
+A partir del cumplimiento del plazo la
+Contrato suscrito entre la entidad contratante y el contratista; y Disposición Transitoria Vigésima Segunda de la
+actas de recepción provisional, parcial, total y definitiva.
+Codificación y Actualización de Resoluciones
+emitidas por el SERCOP.
+En general cualquier documento, de los no especificados en los A partir del cumplimiento del plazo la
+recuadros subsiguientes, generado por la entidad contratante Disposición Transitoria Vigésima Segunda de la
+hasta la liquidación de los contratos en cualquiera de sus
+Codificación y Actualización de Resoluciones
+formas y la finalización del procedimiento.
+emitidas por el SERCOP.
+Notificación de disponibilidad del anticipo; documento de
+aprobación de la entidad contratante para la subcontratación;
+cronogramas de ejecución de actividades contractuales y de
+pagos; para el caso de obras, el registro de incidencia, orden de
+inicio de trabajos; para el caso de obras, órdenes de suspensión
+de trabajos en caso de haberlas; comunicaciones al contratista
+respecto de la aplicación de multas u otras sanciones; actos
+administrativos de sanción y multas; cualquier resolución de
+delegación emitida dentro de esta fase; documentos derivados
+del procedimiento de declaración de terminación anticipada y 27 de diciembre de 2020
+unilateral del contrato; y, cualquier reclamo o recurso
+presentado por el contratista, así como los actos emitidos por la
+entidad contratante con ocasión de su tramitación.
+Contratos modificatorios; contratos complementarios;
+documentos justificativos de diferencias en cantidades de
+obra, diferencias de rubros existentes o creación de rubros
+nuevos; órdenes de cambio; documento suscrito por las partes
+respecto a diferencia en cantidades de obra; órdenes de
+27 de noviembre de 2021
+trabajo; y, documentación correspondiente que avale la
+terminación por mutuo acuerdo.
+Planillas de ejecución de obra con identificación de porcentaje
+de avance físico y financiero para el período y acumulado,
+debidamente aprobadas por la fiscalización; informes de
+fiscalización; e, informe de fiscalización y resolución de la
+máxima autoridad por los que se concedieran prórrogas a los
+27 de enero de 2021
+plazos contractuales, en los casos permitidos por la normativa
+vigente o por el contrato.
+Garantías presentadas antes de la firma del contrato, o, a la
+Excluido o a discreción de la entidad
+firma del contrato.
+contratante.
+7.4.- A efectos de cumplir con lo dispuesto en el artículo 36 de la LOSNCP, la entidad contratante generará un
+expediente electrónico conforme lo previsto en el artículo 146 del Código Orgánico Administrativo, en
+concordancia con el numeral 405-04 de las Normas de Control Interno de la Contraloría General del Estado. El
+aludido expediente deberá conservarse y almacenarse en sistemas de información que garanticen la integridad y
+seguridad de la información, conforme los parámetros reseñados en el acápite III del presente oficio circular.
+Esto último, sin perjuicio de que la entidad contratante mantenga un expediente físico para aquellos documentos
+que, debido a la implementación paulatina por fases o por formar parte de un tipo de procedimiento de
+contratación excluido, se hayan instrumentado con firma manuscrita. En el caso de expedientes físicos, y para el
+correcto almacenamiento de los documentos firmados electrónicamente, será necesario que se encuentren
+alojados en un dispositivo de almacenamiento que formará parte del expediente físico.
+7.5.- Sin perjuicio de lo establecido en los numerales precedentes, cuando la documentación considerada
+relevante, generada por la entidad contratante, deba ser notificada a personas particulares se priorizará los
+medios de notificación electrónicos previstos en los incisos finales de los artículos 164 y 165 del Código
+
+* Documento firmado electrónicamente por Quipux
+
+15/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+Orgánico Administrativo, y artículo 17 del RGLOSNCP. Quedando a salvo la potestad de las entidades
+contratantes de realizar la notificación a través de los medios físicos previstos en los artículos 165, inciso
+primero, y 166 a 169 del Código Orgánico Administrativo; en cuyo caso la documentación relevante deberá ser
+instrumentada tanto con firma electrónica, para la publicación en el Portal de COMPRASPÚBLCICAS y
+archivo en el expediente electrónico, como con firma manuscrita a efectos de realizar la notificación por medios
+físicos.
+7.6.- En referencia al procedimiento especial de adquisición de bienes inmuebles, previsto en la Sección III,
+del Capítulo V, del Título III de la LOSNCP; y, en el Capítulo VI, Título III del RGLOSNCP, para la
+documentación considerada relevante, según el artículo 15 de la Codificación y Actualización de Resoluciones
+emitidas por el SERCOP, no será obligatorio el uso de la firma electrónica.
+7.7.- En lo referente a los procedimientos de arrendamiento de bienes inmuebles, será obligatorio el uso de la
+firma electrónica en toda documentación prevista en el artículo 16 de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP, a excepción de los numerales 2 y 3 de la aludida disposición normativa.
+7.8.- Dentro de los procedimientos de ínfima cuantía, la firma electrónica será exigible únicamente para el
+instrumento legal por medio del cual se formalice la referida contratación, sea este el contrato, la orden de
+compra o la factura. Por lo que no será exigible dicho requisito para la documentación prevista en el artículo 336
+de la Codificación y Actualización de Resoluciones emitidas por el SERCOP.
+7.9.- Con respecto a las contrataciones en situación de emergencia, reguladas en el artículo 57 de la LOSNCP,
+así como en el Capítulo I, del Título VII, de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; la declaratoria de emergencia, las adhesiones a condiciones técnicas y propuestas económicas, el acto
+de calificación de proveedores, los documentos por medio de los cuales se formaliza la contratación, los
+informes parciales e informe final, pueden ser firmados electrónicamente o con firma manuscrita. Siendo que,
+en consideración a sus condiciones particulares, la entidad contratante podrá elegir aquella modalidad de firma
+que se acomode a su situación en específico.
+7.10.- Para la suscripción y validación electrónica de documentos dentro del SNCP, este Servicio Nacional
+recomienda a las entidades contratantes observar, al menos, los parámetros determinados en los numerales 5.1 y
+5.2 del presente oficio circular.
+7.11.- La aplicación de los oficios circulares Nro. SERCOP-SERCOP-2020-0012-C, de 16 de marzo de 2020
+[específicamente con respecto al numeral 2 del acápite denominado “PROCEDIMIENTOS DE
+CONTRATACIÓN”], y Nro. SERCOP-SERCOP-2020-0013-C, de 17 de marzo de 2020, queda supeditada a los
+argumentos y directrices técnico-orientativas previstos en el presente oficio circular.
+7.12.- Los procedimientos precontractuales que hayan sido publicados hasta el 27 de octubre de 2020,
+continuarán ejecutándose con las reglas que se hayan previsto en los pliegos para la entrega de ofertas.
+
+[1]
+https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2020/03/SERCOP-SERCOP-2020-0014-C.pdf
+[2] Acuerdo Nro. 39-CG-2009, publicado en el Suplemento del Registro Oficial Nro. 87, de 14 de diciembre de
+2009; cuya última modificación fue a través de Acuerdo Nro. 013-CG-2019, publicado en el Suplemento del
+Registro Oficial Nro. 486, de 13 de mayo de 2019.
+[3] Publicada en la Edición Especial del Registro Oficial Nro. 245, de 29 de enero de 2018, así como en la sede
+electrónica del SERCOP, con sus consecuentes reformas.
+[4] Publicada en la Edición Especial del Registro Oficial Nro. 832, de 29 de julio de 2020.
+[5] Sobre la fase preparatoria, el tratadista argentino Roberto Dromi, manifiesta lo siguiente: “Es puramente
+interna de la Administración, sin intervención ni participación de los administrados, oferentes, licitadores o
+
+* Documento firmado electrónicamente por Quipux
+
+16/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+terceros interesados. Incluye análisis jurídicos, contables, financieros, económicos, políticos y de factibilidad
+física de la obra o servicio objeto de la futura contratación, la imputación previa de conformidad al crédito
+presupuestario y la elaboración del pliego de condiciones”. Roberto Dromi, Licitación Pública (Buenos Aires:
+Ciudad Argentina, segunda edición, 1999), 96-7.
+[6] Artículo 60 del Código Orgánico de Planificación y Finanzas Públicas.
+[7] Artículo 133 de la Codificación y Actualización de Resoluciones emitidas por el SERCOP.
+[8] Artículos 6, numeral 8, 23 y 100 de la LOSNCP.
+[9] De acuerdo con el artículo 103 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP: “La información de partidas presupuestarias del Plan Anual de Contratación -PAC se validará a
+través de la interoperación con la base de datos del Ministerio de Finanzas, tratándose de entidades
+pertenecientes al Presupuesto General del Estado”.
+[10] Artículo 23 de la LOSNCP, en concordancia con los artículos 3 y 4 de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP.
+[11] Sobre la fase precontractual, el tratadista argentino Roberto Dromi, señala lo siguiente: “En esta fase, como
+en la siguiente, las relaciones que se generan son bilaterales y afectan o pueden afectar a terceros. Se
+desarrolla a través de un llamado a licitación, la publicación del anuncio, la apertura de ofertas, la admisión
+de oferentes, el estudio de las propuestas, la preadjudicación y la adjudicación”. Roberto Dromi, Licitación
+Pública (Buenos Aires: Ciudad Argentina, segunda edición, 1999), 97.
+[12] Véase, por ejemplo: i) Paul Córdova Vinueza, “Derecho al trabajo de micro, pequeño y mediano
+productores (MIPYMES). Una política pública para promover capacidades y oportunidades de productores
+nacionales en las compras estatales”, en Corrupción e impunidad en la contratación pública (Quito: Corporación
+de Estudios y Publicaciones, 2019); ii) Alejandro Manuel Canónico Sarabia, “La contratación pública
+estratégica. Con especial referencia al acceso de las pymes en las compras públicas” (tesis doctoral, Universidad
+de Coruña, 2018), https://ruc.udc.es/dspace/handle/2183/22633?locale-attribute=es; y, iii) Miguel Caroy
+Zelaya, “Redefiniendo la política de promoción de las MYPE en las compras estatales”, Derecho PUCP 66
+(2011): 287-299, http://revistas.pucp.edu.pe/index.php/derechopucp/article/view/3133
+[13] De acuerdo con el artículo 6, numeral 26, de la LOSNCP., por escrito, se entiende un documento elaborado
+en medios físicos o electrónicos.
+[14] De acuerdo con la Disposición General Novena de la Ley de Comercio Electrónico, Firmas Electrónicas y
+Mensajes de Datos, el sistema de información es “todo dispositivo físico o lógico utilizado para crear, generar,
+enviar, recibir, procesar, comunicar o almacenar, de cualquier forma, mensajes de datos”.
+[15] Según el Diccionario de la Real Academia Española, el disco compacto es un “disco óptico que se graba en
+forma digital, lo que permite acumular una gran cantidad de información”. El disco duro es un “dispositivo de
+memoria de gran capacidad integrado en la computadora o conectado a ella, donde se almacena información”.
+El disco magnético es un “disco rotatorio con una superficie magnetizable en la que puede almacenarse
+información”. La tarjera de memoria es una “pieza que sirve para almacenar datos en ciertos aparatos
+electrónicos”. https://dle.rae.es/disco?m=form2#4fn84gH. Mientras que el almacenamiento en la nube se
+define como “un servicio que permite almacenar datos transfiriéndolos a través de Internet o de otra red a un
+sistema de almacenamiento externo que mantiene un tercero”.
+https://azure.microsoft.com/es-es/overview/what-is-cloud-storage/.
+[16] Únicamente en el artículo 50 del RGLOSNCP, dentro del procedimiento de Licitación, se encuentra
+previsto que la entidad contratante puede establecer la entrega física de las ofertas dentro de la convocatoria de
+participación.
+[17] Versión SERCOP 2.1, de 09 de junio de 2017, publicados en la sede electrónica del SERCOP:
+https://portal.compraspublicas.gob.ec/sercop/cat_normativas/nuevos_pliegos
+[18]
+https://portal.compraspublicas.gob.ec/sercop/wp-content/uploads/2020/03/SERCOP-SERCOP-2020-0013-C.pdf
+[19] En consecuencia, el texto resaltado a continuación no será vinculante para los actores del SNCP: Versión
+SERCOP 1.1 (20 de febrero 2014).- “[…] I. CONDICIONES PARTICULARES […] SECCIÓN I
+CONVOCATORIA […] 3.- La oferta se presentará de forma física en …. o Secretaría de la Comisión Técnica
+según corresponda, ubicada en … y …, Referencia…, o de forma electrónica a través del Portal Institucional
+del SERCOP, caso en el que para ser válida deberá estar firmada electrónicamente; hasta las ___ del día ___,
+de acuerdo con lo establecido en el Reglamento General de la Ley Orgánica del Sistema Nacional de
+Contratación Pública -RGLOSNCP-. En los dos casos, sea que la oferta se presente en forma física o en
+
+* Documento firmado electrónicamente por Quipux
+
+17/18
+
+Circular Nro. SERCOP-SERCOP-2020-0022-C
+Quito, D.M., 27 de octubre de 2020
+
+forma electrónica, los formularios 1 y 2 de la oferta técnica y, el precio de la misma, deberá subirse a través
+del Portal institucional del SERCOP, hasta la fecha en que se cierre el plazo para la presentación de la oferta.
+La no publicación de los formularios referidos o la falta de ingreso del precio de la propuesta en el portal
+institucional será causa de descalificación de la oferta. […] SECCION III CONDICIONES DEL
+PROCEDIMIENTO […] 3.3.1 Forma de presentar la oferta: La oferta se podrá presentar a través del Portal
+Institucional del SERCOP completando el formulario electrónico, o bien en forma física. […]” (énfasis
+añadido).
+[20] En específico, los documentos contemplados en los numerales 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19
+y 20 del artículo 9; y, artículos 12, 13, y 17 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP.
+Atentamente,
+
+Documento firmado electrónicamente
+Econ. Laura Silvana Vallejo Páez
+DIRECTORA GENERAL
+Copia:
+Señor Doctor
+Gustavo Alejandro Araujo Rocha
+Subdirector General
+Señor Abogado
+Stalin Santiago Andino González
+Coordinador General de Asesoría Jurídica
+Señor Máster
+Guillermo Wladimir Taco Lasso
+Coordinador Técnico de Operaciones
+Señor Abogado
+Andrés Ecuador Loor Moreira
+Coordinador Técnico de Control
+iu/sa/ga
+
+Firmado electrónicamente por:
+
+LAURA SILVANA
+VALLEJO PAEZ
+
+* Documento firmado electrónicamente por Quipux
+
+18/18
+
+

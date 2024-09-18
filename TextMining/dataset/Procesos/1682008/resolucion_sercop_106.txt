@@ -1,0 +1,472 @@
+RESOLUCIÓN Nro. RE-SERCOP-2020-106
+EL DIRECTOR GENERAL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+CONSIDERANDO:
+Que, el artículo 226 de la Constitución de la República del Ecuador prescribe que:
+“Las instituciones del Estado, sus organismos, dependencias, las servidoras o
+servidores públicos y las personas que actúen en virtud de una potestad estatal
+ejercerán solamente las competencias y facultades que les sean atribuidas en la
+Constitución y la ley. Tendrán el deber de coordinar acciones para el
+cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos
+reconocidos en la Constitución”;
+Que, el artículo 227 de la citada Norma Suprema ordena que: “La administración
+pública constituye un servicio a la colectividad que se rige por los principios de
+eficacia, eficiencia, calidad, jerarquía, desconcentración, descentralización,
+coordinación, participación, planificación, transparencia y evaluación”;
+Que, el artículo 288 de la Constitución de la República del Ecuador dispone que: “Las
+compras públicas cumplirán con criterios de eficiencia, transparencia, calidad,
+responsabilidad ambiental y social. Se priorizarán los productos y servicios
+nacionales, en particular los provenientes de la economía popular y solidaria, y
+de las micro, pequeñas y medianas unidades productivas”;
+Que, el Código Orgánico Administrativo, en su artículo 130, en relación con la
+competencia normativa de carácter administrativo, dispone que: “Las máximas
+autoridades administrativas tienen competencia normativa de carácter
+administrativo únicamente para regular los asuntos internos del órgano a su
+cargo, salvo los casos en los que la ley prevea esta competencia para la máxima
+autoridad legislativa de una administración pública. La competencia
+regulatoria de las actuaciones de las personas debe estar expresamente
+atribuida en la ley”;
+Que, el numeral 29 del artículo 6 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública, define al Registro Único de Proveedores -RUP, como
+aquella base de datos en la que constan los proveedores habilitados para
+participar en los procedimientos regidos por el SNCP. De conformidad con los
+artículos 10, numeral 4, 16 y 18 de la Ley Ibídem, la administración y
+categorización del RUP le corresponde al SERCOP; dicho registro debe
+mantenerse actualizado con información en tiempo real de las bases de datos de
+instituciones públicas y privadas a través de medios de interoperación; y, la
+inscripción y habilitación en el RUP es requisito indispensable para participar
+individualmente o en asociación en las contrataciones reguladas por la Ley
+Ibídem;
+
+1
+
+Que, el artículo 9 de la Ley Ibídem establece que son objetivos prioritarios del Estado
+en materia de contratación pública, entre otros, los siguientes: “1. Garantizar la
+calidad del gasto público y su ejecución en concordancia con el Plan Nacional
+de Desarrollo; 2. Garantizar la ejecución plena de los contratos y la aplicación
+efectiva de las normas contractuales; 3. Garantizar la transparencia y evitar la
+discrecionalidad en la contratación pública; 4. Convertir la contratación
+pública en un elemento dinamizador de la producción nacional; 5. Promover la
+participación de artesanos, profesionales, micro, pequeñas y medianas
+empresas con ofertas competitivas, en el marco de esta Ley [...] 6. Agilitar,
+simplificar y adecuar los procesos de adquisición a las distintas necesidades de
+las políticas públicas y a su ejecución oportuna […] 8. Mantener una sujeción
+efectiva y permanente de la contratación pública con los sistemas de
+planificación y presupuestos del Gobierno central y de los organismos
+seccionales; 9. Modernizar los procesos de contratación pública para que sean
+una herramienta de eficiencia en la gestión económica de los recursos del
+Estado […] 11. Incentivar y garantizar la participación de proveedores
+confiables y competitivos en el SNCP”;
+Que, de conformidad con lo determinado en el artículo 10 de la LOSNCP-, el
+SERCOP-, ejerce la rectoría del Sistema Nacional de Contratación Pública,
+siendo sus atribuciones, entre otras, administrar RUP, incorporar y modernizar
+herramientas conexas al sistema electrónico de contratación pública y subastas
+electrónicas, así como impulsar la interconexión de plataformas tecnológicas de
+instituciones y servicios relacionados; y, dictar normas administrativas,
+manuales e instructivos relacionados con dicha Ley;
+Que, el artículo 14 de la misma Ley establece lo siguiente: “El control del Sistema
+Nacional de Contratación Pública será intensivo, interrelacionado y
+completamente articulado entre los diferentes entes con competencia para ello.
+Incluirá la fase precontractual, la de ejecución del contrato y la de evaluación
+del mismo. El Servicio Nacional de Contratación Pública tendrá a su cargo el
+cumplimiento de las atribuciones previstas en esta Ley, incluyendo en
+consecuencia, la verificación de: 1. El uso obligatorio de las herramientas del
+Sistema, para rendir cuentas, informar, promocionar, publicitar y realizar todo
+el ciclo transaccional de la contratación pública […]”;
+Que, el Título III de la LOSNCP prevé las disposiciones legales que regulan los
+distintos procedimientos precontractuales regidos por el SNCP. Para cada
+procedimiento la Ley establece determinados plazos y términos en los que se
+desarrollarán sus distintas etapas y fases; y, a su vez, según los artículos 20 y 28
+del RGLOSNCP, en concordancia con el numeral 29 del artículo 2 de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP, se
+prevé la potestad de las entidades contratantes de establecer los tiempos de
+determinadas etapas o fases en los respectivos pliegos, cuando los mismos no
+hayan sido expresamente previstos por la LOSNCP, su Reglamento General, o la
+normativa emitida por el SERCOP para el efecto. Bajo este contexto, a través de
+los artículos 2 al 16 la Resolución Externa Nro. R.E.-SERCOP-2017-0000077,
+de 12 de mayo de 2017, el SERCOP reguló los términos mínimos a cumplirse
+dentro de la fase precontractual de los distintos procedimientos de contratación.
+2
+
+No obstante, los artículos 102 y 103 de la LOSNCP, en concordancia con el
+artículo 231 del Código Orgánico Administrativo, prevén un término genérico de
+tres (3) días para que los proveedores del Estado ejerzan su derecho a la
+impugnación en sede administrativa, en sus distintas formas; debiéndose aclarar
+que en la práctica este término de tres días no es respetado por las entidades
+contratantes en una de las etapas más críticas del procedimiento, esto es, previo a
+la emisión del acto administrativo de adjudicación o de declaratoria de desierto;
+Que, la Disposición General Quinta de la Ley Ibídem establece que: “Para la
+realización de los procedimientos electrónicos previsto en esta Ley, se
+emplearán métodos actualizados y confiables para garantizar el correcto
+funcionamiento del Portal Institucional y el uso eficiente y seguro de las
+herramientas informáticas”;
+Que, la Disposición Transitoria Tercera de la Ley en mención señala que: “Hasta
+cuando existan en el país empresas certificadoras de firma electrónica
+autorizadas por el organismo del Estado competente, el Servicio Nacional de
+Contratación Pública responsable de la administración del Portal Institucional,
+tomará todas las medidas técnicas necesarias para que el uso de las
+herramientas informáticas que utilice, den seguridad a las transacciones que se
+efectúen de conformidad con esta Ley”;
+Que, de acuerdo con los artículos 90 y 94 del Código Orgánico Administrativo, en
+concordancia con los artículos 3, numeral 4, 15 y 18 de la Ley Orgánica para la
+Optimización y Eficiencia de Trámites Administrativos, las actividades de las
+administraciones públicas deben instrumentarse a través de la gestión total de
+trámites en línea y el uso de medios electrónicos, tales como los certificados
+digitales de firma electrónica;
+Que, la Ley de Comercio Electrónico, Firmas y Mensajes de Datos, en su artículo 13,
+define a la firma electrónica como: “[…] los datos en forma electrónica
+consignados en un mensaje de datos, adjuntados o lógicamente asociados al
+mismo, y que puedan ser utilizados para identificar al titular de la firma en
+relación con el mensaje de datos, e indicar que el titular de la firma aprueba y
+reconoce la información contenida en el mensaje de datos”;
+Que, el artículo 14 de la Ley Ibídem determina los efectos de la firma electrónica y
+establece que: “[…] tendrá igual validez y se le reconocerán los mismos efectos
+jurídicos que a una firma manuscrita en relación con los datos consignados en
+documentos escritos, y será admitida como prueba en juicio”;
+Que, el artículo 45 de la Ley de Comercio Electrónico, Firmas Electrónicas y
+Mensajes de Datos prescribe que: “Los contratos podrán ser instrumentados
+mediante mensajes de datos. No se negará validez o fuerza obligatoria a un
+contrato por la sola razón de haberse utilizado en su formación uno o más
+mensajes de datos”;
+
+3
+
+Que, el inciso segundo del artículo 3 de la Codificación de la Ley de Compañías
+dispone que: “El objeto social de una compañía podrá comprender una o varias
+actividades empresariales lícitas salvo que la Constitución o la ley lo prohíban.
+El objeto social deberá estar establecido en forma clara en su contrato social”.
+De su parte, el inciso tercero del artículo 30 de la Ley Ibídem establece que son
+nulos los contratos que realice una compañía en los cuales se hicieren
+negociaciones distintas a su objeto social expresamente determinado en sus
+estatutos, así como la responsabilidad civil solidaria y responsabilidad penal de
+las personas que tramiten dichos contratos a nombre de la compañía;
+Que,
+
+las Normas de Control Interno de la Contraloría General del Estado para las
+Entidades, Organismos del Sector Público y de las Personas Jurídicas de
+Derecho Privado que dispongan de recursos públicos, en su numeral 410-17, que
+trata sobre las firmas electrónicas, dispone que: “Las entidades, organismos y
+dependencias del sector público, así como las personas jurídicas que actúen en
+virtud de una potestad estatal, ajustarán sus procedimientos y operaciones e
+incorporarán los medios técnicos necesarios, para permitir el uso de la firma
+electrónica de conformidad con la Ley de Comercio Electrónico, Firmas y
+Mensajes de Datos”;
+
+Que, el artículo 3 de la Codificación de la Ley del Registro Único de Contribuyentes
+dispone que tanto las personas naturales como jurídicas, nacionales y
+extranjeras, que realicen actividades económicas en el país, están en la
+obligación de inscribirse en el antedicho registro. De acuerdo con el artículo 14
+de la Ley Ibídem los sujetos obligados a inscribirse en el Registro Único de
+Contribuyentes -RUC, deben consignar la actividad económica que van a
+desarrollar, así como comunicar al Servicio de Rentas Internas cualquier cambio
+en dicha actividad. Así, el artículo 4 del Reglamento para la aplicación de la Ley
+Ibídem, determina que forma parte del certificado del RUC la actividad o
+actividades económicas; mientras que el artículo 9 del Reglamento Ibídem prevé
+la responsabilidad directa por la veracidad de la información consignada en el
+RUP, así como la facultad del Servicio de Rentas Internas –SRI de verificar
+dicha información en cualquier momento;
+Que, el numeral 4 del artículo 7 del Reglamento General de la Ley Orgánica del
+Sistema Nacional de Contratación Pública -RGLOSNCP, establece como
+atribución del Director General del SERCOP: “Emitir la normativa que se
+requiera para el funcionamiento del SNCP y del SERCOP, que no sea
+competencia del Directorio”;
+Que, el artículo 8 del mentado Reglamento General dispone que: “El proveedor que
+desee registrarse en el RUP observará el procedimiento que para el efecto dicte
+el SERCOP. Sin perjuicio de lo anterior, si existen interconexiones de sistemas o
+bases de datos, el SERCOP podrá establecer los mecanismos complementarios
+en cuanto a inscripción, habilitación y actualización de información [...]”;
+Que, la Disposición General Cuarta del Reglamento Ibídem, faculta al Servicio
+Nacional de Contratación Pública a expedir las normas complementarias ha
+dicho Reglamento, las cuales serán aprobadas mediante resolución por su
+Director General;
+4
+
+Que, mediante Resolución Externa Nro. R.E.-SERCOP-2016-0000072, de 31 de
+agosto de 2016, el Servicio Nacional de Contratación Pública expidió la
+Codificación y Actualización de Resoluciones emitidas por dicho Servicio, la
+cual se encuentra publicada en la Edición Especial del Registro Oficial Nro. 245,
+de 29 de enero de 2018, así como en el portal institucional del SERCOP;
+Que, el numeral 9 del artículo 2 de la Codificación y Actualización de Resoluciones
+emitidas por el SERCOP, define al Clasificador Central de Productos –CPC,
+como una: “Clasificación codificada que incluye categorías para todo lo que
+pueda ser objeto de transacción (nacional o internacional) o que pueda
+almacenarse y que es el resultado de las actividades económicas realizadas en
+las industrias. Comprende bienes transportables y no transportables, así como
+servicios y activos tangibles e intangibles. Esta clasificación guarda
+consistencia con la generada por la División de Estadísticas de la Organización
+de las Naciones Unidas, y la Clasificación Nacional Publicada por el Instituto
+Nacional de Estadísticas y Censos (INEC)”;
+Que, el Ministerio de Telecomunicaciones y de la Sociedad de la Información
+mediante Acuerdo Ministerial No. 017-2020 del 01 de julio de 2020, emitió las
+directrices para el uso de la firma electrónica en la gestión de trámites
+administrativos;
+Que, se debe especificar en la normativa del SNCP la obligación de obtención de
+firma electrónica, como requisito previo a la inscripción y habilitación de los
+proveedores en el RUP; y, de igual manera, se debe incluir una disposición
+expresa que obligue a los proveedores a inscribirse y habilitarse en el RUP,
+única y exclusivamente en los códigos de CPC que guarden directa relación con
+los bienes y/o servicios descritos en la actividad económica de su RUC, y su
+objeto social, en caso de personas jurídicas;
+Que, mediante Decreto Ejecutivo Nro. 1091, del 9 de julio de 2020, se designó al
+doctor Juan Aguirre Ribadeneira, como Director General del Servicio Nacional
+de Contratación Pública; y,
+En ejercicio de sus atribuciones legales y reglamentarias,
+RESUELVE:
+
+EXPEDIR REFORMAS A LA RESOLUCIÓN EXTERNA NRO. RE-SERCOP2016-0000072, DE 31 DE AGOSTO DE 2016, POR LA QUE SE EXPIDIÓ LA
+CODIFICACIÓN Y ACTUALIZACIÓN DE RESOLUCIONES EMITIDAS POR
+EL SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+
+Art. 1- Al final del número 2 del artículo 9, insértese el siguiente texto:
+
+5
+
+“En la elaboración de las especificaciones técnicas o términos de referencia por
+parte de la entidad contratante, en el estudio de mercado para la definición del
+presupuesto referencial, así como en la elaboración y entrega de proformas o
+cotizaciones por parte de los proveedores, se deberá desglosar y enumerar de
+forma detallada e individual cada obra, bien o servicio que conforman el objeto
+contractual, especificando el código CPC, la cantidad de unidades requeridas y
+el desglose del precio por cada unidad o ítem.”
+Art. 2.- A continuación del artículo 10, agréguese el siguiente artículo:
+“Art. 10.1.- Documentos firmados electrónicamente. Los documentos
+relevantes correspondientes a la fase preparatoria, precontractual inclusive las
+ofertas, contractual y de ejecución contractual deberán estar firmados
+electrónicamente a partir de que se cumpla con la exigibilidad del plazo
+concedido en esta resolución para obtener la firma electrónica tanto para las
+entidades contratantes como para los proveedores del Estado.
+En general, el uso del certificado de firma electrónica tendrá igual validez y se
+le reconocerán los mismos efectos jurídicos que a una firma manuscrita en
+relación con los datos consignados en documentos escritos, de conformidad con
+las disposiciones de la Ley de Comercio Electrónico, Firmas y Mensajes de
+Datos. En tal virtud, el titular del certificado de firma electrónica responderá
+por las obligaciones derivadas de su uso, así como de la vigencia de esta.
+Es responsabilidad de los servidores públicos de la entidad contratante
+mantener vigente su certificado de firma electrónica.
+Todos los documentos a los que se refiere el primer inciso serán válidos
+únicamente si tienen una firma electrónica. El sistema oficial de validación de
+documentos firmados electrónicamente será el sistema FIRMA EC, provisto por
+el Ministerio de Telecomunicaciones y de la Sociedad de la Información,
+conforme a las directrices que este emita por acuerdo ministerial.”
+
+Art. 3.- A continuación del artículo 24, agréguense los siguientes artículos:
+“Art. 24.1.- Del certificado de firma Electrónica.- Los proveedores del Estado,
+además de cumplir con los requisitos previstos en el artículo precedente,
+deberán poseer certificado vigente de firma electrónica expedido por una de las
+Entidades de Certificación de Información y Servicios Relacionados, autorizada
+y acreditada por la Agencia de Regulación y Control de las
+Telecomunicaciones. El SERCOP en el Manual “Registro Único de Proveedores
+a través de vía electrónica” establecerá los mecanismos e instrucciones para el
+cumplimiento de este requisito dentro del procedimiento simplificado por vía
+electrónica.
+
+6
+
+El certificado de firma electrónica deberá ser individual y estar vinculado
+exclusivamente a su titular. Para el caso de personas jurídicas, estará obligado
+a poseer el certificado de firma electrónica, quien ejerza la representación legal
+o quién esté facultado legalmente para actuar en dicha calidad.
+En general, el uso del certificado de firma electrónica tendrá igual validez y se
+le reconocerán los mismos efectos jurídicos que a una firma manuscrita en
+relación con los datos consignados en documentos escritos, de conformidad con
+las disposiciones de la Ley de Comercio Electrónico, Firmas y Mensajes de
+Datos. En tal virtud, el titular del certificado de firma electrónica responderá
+por las obligaciones derivadas de su uso, así como de la vigencia de la misma.
+Es responsabilidad del proveedor registrado en el RUP, mantener vigente su
+certificado de firma electrónica.
+Las ofertas presentadas en los procedimientos de contratación pública serán
+válidas únicamente si tienen una firma electrónica. El sistema oficial de
+validación de documentos firmados electrónicamente será el sistema FIRMA
+EC, provisto por el Ministerio de Telecomunicaciones y de la Sociedad de la
+Información, conforme a las directrices que este emita por acuerdo ministerial.
+Art. 24.2.- De las obras, bienes y/o servicios ofertados.- Las personas naturales
+y jurídicas, nacionales y extranjeras, interesadas en habilitarse como
+proveedores del Estado, al momento de inscribirse, deberán seleccionar
+únicamente las obras, bienes y/o servicios cuyos códigos, dentro del
+Clasificador Central de Productos -CPC, guarden relación directa con su
+actividad económica registrada en el Registro Único de Contribuyentes -RUC,
+así como en el objeto social de sus estatutos en el caso de personas jurídicas. El
+SERCOP en el Manual “Registro Único de Proveedores a través de vía
+electrónica” establecerá los mecanismos e instrucciones para el cumplimiento
+de este requisito dentro del procedimiento simplificado por vía electrónica.
+En el caso de personas jurídicas extranjeras no domiciliadas en el Ecuador,
+para proceder con su registro en el RUP, deberán justificar documentadamente
+su actividad comercial. Si los documentos que acrediten la actividad comercial
+de esta clase de personas jurídicas se encontraren en un idioma distinto al
+castellano, deberán estar debidamente traducidos al idioma oficial de Ecuador.
+Para el caso de asociaciones y consorcios, que se conformen para participar en
+procedimientos de contratación pública, todos los socios o partícipes deberán
+estar habilitados en los códigos CPC objeto del procedimiento. Si hubiese
+objetos contractuales que se componen de diversos códigos CPC, para cada
+código deberá haber al menos un socio o partícipe habilitado para dicho
+código; por lo que, bajo ningún concepto, se permitirá que un socio o partícipe
+intervenga en la ejecución de un código CPC que no corresponda a su actividad
+económica u objeto social.”
+
+7
+
+Art. 4- Elimínese el tercer inciso del artículo 32 que dispone: “Se exceptúan de la
+aplicación del inciso anterior, las empresas públicas cuyos consorcios o asociaciones
+hayan sido constituidas en la forma establecida en el artículo 35 de la Ley Orgánica de
+Empresas Públicas”.
+Art. 5.- A continuación del artículo 168, agréguese el siguiente artículo:
+“Art. 168.A.- Término para la adjudicación.- En los procedimientos de
+contratación pública, la resolución de adjudicación se emitirá en un término no
+menor a tres días (3) días, contados a partir de la fecha de emisión de la actuación
+que pone fin a etapa la calificación de ofertas, puja o negociación, según
+corresponda. Una vez emitida la resolución de adjudicación, las entidades
+contratantes deberán publicarla en el portal del SERCOP en el término de un día.
+Si no se adjudicare el procedimiento en un término máximo de 30 días, contados a
+partir de la fecha de emisión del acto administrativo que pone fin a la etapa de
+calificación de ofertas, puja o negociación, según corresponda, la entidad
+contratante informará de manera fundamentada al SERCOP las razones
+económicas, técnicas o jurídicas por la cuales no se realizó la adjudicación o la
+declaratoria de desierto del procedimiento; a efectos de que el SERCOP realice el
+control respectivo y ejerza las atribuciones que le confiere la Ley.
+Para proseguir con la adjudicación fuera del término previsto en el presente
+inciso, la entidad contratante justificará motivadamente en la resolución de
+adjudicación, la persistencia de la necesidad institucional para continuar con la
+contratación, y que la oferta a adjudicarse continúa siendo la más favorable
+técnica y económicamente.
+En caso de presentarse un reclamo o denuncia ante el SERCOP sobre el
+procedimiento de contratación, o si el SERCOP de oficio se encuentra realizando
+una supervisión o monitoreo, la entidad contratante una vez que haya sido
+notificada sobre el inicio del mismo, no podrá adjudicar ni celebrar el contrato
+hasta que finalice la acción de control”.
+“Art. 168.B.- Término mínimo para celebrar el contrato.- En los procedimientos
+de contratación pública previstos en la Ley, salvo el de emergencia, una vez
+adjudicado el procedimiento, el contrato se celebrará con el oferente adjudicado a
+partir del vencimiento del término de tres (3) días contados desde la adjudicación.
+Art. 6. En el Art. 361 de la Codificación, primer párrafo, antes del punto final,
+incorpórese, la siguiente frase “y las resoluciones del SERCOP”.
+Art. 7.- Agréguese luego del artículo 361.4, los siguientes artículos:
+Art. 361.5- Calificación de proveedores.- Corresponde a la máxima autoridad
+de la entidad contratante o su delegado, realizar la calificación de proveedores
+que participen en un procedimiento especial de emergencia, con el fin de
+verificar que cumplan con requisitos de idoneidad como son los de: capacidad
+
+8
+
+jurídica, económica y técnica; calificación que constará en acto administrativo
+debidamente motivado.
+La máxima autoridad de la entidad contratante, podrá considerar la
+participación en un procedimiento de emergencia de uno o varios proveedores
+idóneos para ejecutar el objeto del contrato.
+Art. 361.6.- Actividad empresarial de los proveedores asociada al objeto de la
+contratación por emergencia. - La actividad económica u objeto social de los
+proveedores, personas naturales o jurídicas, que participen en el procedimiento
+especial de emergencia, deberá estar relacionada con el objeto de la
+contratación. De celebrarse el contrato contraviniendo esta prescripción
+normativa, se aplicará lo previsto en el artículo 64 de la Ley Orgánica del
+Sistema Nacional de Contratación Pública, sin perjuicio de las
+responsabilidades que determine el organismo de control competente.
+Art. 361.7.- Procedimiento de contratación en emergencia.- Las contrataciones
+de emergencia, a excepción de aquellas destinadas para la adquisición de
+fármacos, dispositivos o insumos médicos, reactivos bioquímicos o de
+diagnóstico, y demás bienes estratégicos de salud, o la prestación de servicios
+de salud o servicios exequiales señalados en el numeral 361.2 de esta
+Codificación; observará el siguiente procedimiento:
+La máxima autoridad institucional remitirá al o a los proveedores que hubiere
+calificado, los documentos que incluyan, entre otros, los requerimientos de
+intervención técnica o de provisión y demás elementos económicos,
+metodológicos o procedimentales., que la entidad contratante considere
+necesario instruir, a fin de que el o los proveedores calificados cuenten con
+información que les permita conocer el alcance de su intervención para
+enfrentar o solucionar la emergencia; solicitándoles presenten su aceptación a
+las condiciones de intervención previstas en los documentos remitidos
+destinados a la ejecución de obras, la provisión de bienes o la prestación de
+servicios, incluidos los de consultoría, que se les haya requerido; y, detallen el
+monto pormenorizado de la propuesta económica.
+Tan pronto se cuente con la adhesión de las condiciones técnicas definidas por
+la entidad contratante y la formulación de la propuesta económica presentada
+por el o los proveedores calificados, la máxima autoridad o su delegado,
+analizará si las propuestas presentadas cumplen con la capacidad jurídica,
+económica y técnica; y, resultan o no convenientes económicamente para los
+intereses institucionales;, si son varias, observará el mejor costo de
+conformidad con lo establecido en el número 17 el artículo 6 de la LOSNCP;
+considerando lo previsto en los incisos cuarto y quinto del artículo 361.2 de la
+Codificación de Resoluciones del SERCOP.
+
+9
+
+Si la máxima autoridad es quien realiza esta evaluación, en el mismo documento
+establecerá su decisión de adjudicar el contrato o declarar desierto el
+procedimiento. Si es un delegado elaborará su informe motivado recomendando
+la adjudicación o declaratoria de desierto, según corresponda; para decisión de
+la máxima autoridad.
+Art. 361.8.- Prohibición de realizar procedimientos de emergencia de bienes y
+servicios que se encuentran catalogados. - No se realizará procedimiento de
+emergencia, tratándose de bienes y servicios que consten en el catálogo
+electrónico; salvo que la máxima autoridad mediante resolución debidamente
+motivada establezca la inconveniencia de la provisión de los bienes y servicios
+catalogados por razones de orden técnico o de oportunidad en su provisión o
+cualquier otra circunstancia que, a su criterio, impida atender o superar la
+situación de emergencia; resolución que la remitirá al SERCOP, el mismo día
+de su expedición, para la supervisión respectiva.
+El SERCOP analizará la resolución y de encontrar motivos, remitirá al
+organismo de control.
+Art. 8.- A continuación de la Disposición Transitoria Vigésima Primera, agréguense las
+siguientes disposiciones:
+“VIGÉSIMA SEGUNDA.- El requisito de tener el certificado vigente para el
+uso de la firma electrónica a través del aplicativo FirmaEC, tanto para firmar
+los documentos como para validarlos conforme a lo establecido en los artículos
+10.1 y 24.1 de la presente Codificación, será exigible en el plazo de noventa
+días, contados a partir de la publicación en el Registro Oficial de la Resolución
+Externa Nro. RE-SERCOP-2020-0106.
+Una vez transcurrido este plazo, solo serán válidos los documentos que tengan
+firma electrónica.
+VIGÉSIMA TERCERA.- Para el caso de nuevos proveedores registrados en el
+RUP y solicitudes de incremento de CPC de los proveedores ya registrados, el
+requisito previsto en el artículo 24.2 de la presente Codificación será exigible
+dentro del plazo de noventa días, contados a partir de la entrada en vigencia de
+la Resolución Externa Nro. RE-SERCOP-2020-0106. Para tal efecto, los
+órganos administrativos competentes del SERCOP deberán actualizar el
+Manual “Registro Único de Proveedores a través de vía electrónica”, así como
+adecuar sus procedimientos internos y herramientas electrónicas, en el plazo
+antes señalado.
+Para el caso de proveedores que se encuentren registrados y habilitados en el
+RUP, el SERCOP realizará la correspondiente actualización, de acuerdo a la
+calendarización que para tales efectos se notificará a través del Sistema Oficial
+de Contratación Pública del Ecuador -SOCE.
+
+10
+
+DISPOSICIÓN FINAL
+ÚNICA.- La presente Resolución entrará en vigencia a partir de su publicación en el
+Registro Oficial.
+Dado en la ciudad de San Francisco de Quito, DM, a los 16 días del mes de julio del
+2020.
+Comuníquese y publíquese.-
+
+Firmado electrónicamente por:
+
+JUAN FERNANDO
+AGUIRRE
+RIBADENEIRA
+
+Dr. Juan Aguirre Ribadeneira
+DIRECTOR GENERAL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+
+Certifico que la presente Resolución fue aprobada y firmada el día de hoy 16 de julio
+del 2020.
+ARMAND Firmado
+digitalmente
+O
+por ARMANDO
+MAURICI MAURICIO
+IBARRA
+O IBARRA ROBALINO
+ROBALIN Fecha:
+Ab. Mauricio
+Ibarra Robalino
+2020.07.17
+10:13:17 -05'00'
+O
+
+DIRECTOR DE GESTIÓN DOCUMENTAL Y ARCHIVO
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+
+11
+
+

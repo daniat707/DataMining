@@ -1,0 +1,78 @@
+CALCULO PROYECTADO DE CONSUMO
+NUMERO
+
+CPC
+
+DESCRIPCION DEL CPC
+
+352901091
+
+INSUMOS DE USO GENERAL
+
+1
+
+DESCRIPCION DEL PRODUCTO
+
+UNIDAD DE
+MEDIDA
+
+CANTIDAD A
+SOLICITAR
+
+CPM
+
+STOCK
+
+TIEMPO DE
+ABASTECIMIE
+NTO ACTUAL
+
+Equipo de venoclisis, 220 cm (+/10
+cm).
+Polivinil,
+cámara
+cuentagotas, 20 gotas/ml, filtro de
+15 micras, línea de 220 cm (+/- 10
+cm) de longitud, filtro en la base de
+la cámara, filtro hidrófobo en el
+tapón protector, conector Luer
+Lock, regulador de flujo roller,
+puerto de acceso en Y, punzón
+universal, libre de látex, estéril,
+descartable.
+
+u
+
+23500
+
+4100
+
+9149
+
+2.23 MESES
+
+TIEMPO
+ESTIMADO DE
+LA COMPRA
+
+TIEMPO DE
+ABASTECIMIE
+NTO
+PROYECTADO
+
+5.73 MESES
+
+7.96 MESES
+
+Firmado electrónicamente por:
+
+ELABORADO POR:
+Nombres y Apellidos
+
+SILVIA MARLENE
+LOPEZ
+VILLAVICENCIO
+
+FIRMA
+
+

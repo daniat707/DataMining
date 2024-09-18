@@ -1,0 +1,626 @@
+PROYECTO DE CONTRATO
+
+
+
+
+
+IV. CONDICIONES PARTICULARES DEL CONTRATO DE SUBASTA INVERSA ELECTRÓNICA
+
+Versión SERCOP 2.1 (09 de junio de 2017)
+
+
+
+
+
+
+
+EMPRESA PÚBLICA ESTRATÉGICA
+
+CORPORACIÓN ELÉCTRICA DEL ECUADOR - CELEC EP
+
+
+
+UNIDAD DE NEGOCIO COCA CODO SINCLAIR
+
+
+
+CONTRATO Nro. CCS-CON-0xxx-22
+
+ 
+
+“CCS ADQUISICION DE ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL PARA LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA MANDURIACU”
+
+
+
+
+
+COMPARECIENTES:
+
+Comparecen a la suscripción de este Contrato, por una parte, la Unidad de Negocio CELEC EP-COCA CODO SINCLAIR, legalmente representada por la ingeniera Geovanna Patricia Castillo Rodríguez, en su calidad de Gerente Encargada de la Unidad de Negocio y Administradora debidamente autorizada por el Gerente General de la Empresa Pública Estratégica Corporación Eléctrica del Ecuador, CELEC EP, conforme consta del Poder Especial otorgado el 01 de julio de 2022, a quien en adelante y para efectos de este Contrato se le denominará la “CONTRATANTE”; y, por otra parte, *****, representada por ****, a quien en adelante y para efectos de este Contrato se la denominará, la “CONTRATISTA”. 
+
+
+
+Los comparecientes declaran que son hábiles para contratar y obligarse; y, en las calidades en las que intervienen, convienen suscribir este Contrato al tenor de las cláusulas siguientes:
+
+
+
+CLÁUSULA PRIMERA.- ANTECEDENTES:
+
+
+
+Mediante oficio Nro. CELEC-EP-2022-1017-OFI de 01 de julio de 2022, el Gerente General de la CELEC EP encargó la administración de la Unidad de Negocio Coca Codo Sinclair, bajo la denominación de Gerente de Unidad de Negocio Encargada, a la ingeniera Geovanna Patricia Castillo Rodríguez, y a través de escritura pública, celebrada el 01 de julio de 2022, ante el Notario Décimo Novena del Distrito Metropolitano de Quito, se otorgó el correspondiente Poder Especial, amplio y suficiente, para la Administración de la Unidad de Negocio COCA CODO SINCLAIR.
+
+
+
+De conformidad con los artículos 22 de la Ley Orgánica del Sistema Nacional de Contratación Pública (LOSNCP); y, 25 y 26 de su Reglamento General, en el Plan Anual de Contrataciones de la CONTRATANTE, se ha contemplado la “CCS ADQUISICION DE ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL PARA LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA MANDURIACU”.
+
+
+
+La Jefatura de Presupuesto de la Unidad de Negocio, mediante Certificación Presupuestaria Nro. CCS-2022-00468-C de 29 de junio de 2022, debidamente actualizada el ****, certificó la disponibilidad de recursos para esta contratación.
+
+
+
+Previo los informes y los estudios respectivos, la Gerencia de la Unidad de Negocio, mediante Resolución Nro. CCS-RES-****-22 de ****, resolvió aprobar los pliegos de Subasta Inversa Electrónica Nro. SIE-CELCCS-068-2022, de esta contratación.
+
+
+
+La publicación y la convocatoria para este proceso de contratación se realizó el ****, a través del portal www.compraspublicas.gob.ec.
+
+
+
+Luego del proceso de Subasta Inversa Electrónica Nro. SIE-CELCCS-068-2022, una vez llevada a cabo la sesión de puja y con la recomendación del delgado del proceso, la Gerencia de la Unidad de Negocio, mediante Resolución Nro. CCS-RES-****-22 de ****, adjudicó el contrato para la “CCS ADQUISICION DE ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL PARA LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA MANDURIACU” (en adelante el “Contrato”), en favor del oferente *****., por un valor ***** con **/100 dólares de los Estados Unidos de América (US$****), más IVA; y, con un plazo de ejecución de todas las obligaciones contractuales de NOVENTA (90) días, contados desde la fecha de notificación que el anticipo se encuentra disponible.
+
+
+
+Mediante memorando Nro. CELEC-EP-CCS-ADM-ADQ-2022-****-MEM de *****, la Jefatura de Adquisiciones de la Unidad de Negocio solicitó a la Subgerencia Jurídica la elaboración de este Contrato.
+
+
+CLÁUSULA SEGUNDA.- DOCUMENTOS DEL CONTRATO:
+
+
+
+2.1	Forman parte integrante del Contrato los siguientes documentos:
+
+
+
+Los pliegos (Condiciones Particulares del Pliego y Condiciones Generales del Pliego) incluyendo las especificaciones técnicas y términos de referencia del objeto de la contratación.
+
+
+
+Las Condiciones Generales de los Contratos de adquisición de bienes o prestación de servicios publicados y vigentes a la fecha de la convocatoria en la página institucional del Servicio Nacional de Contratación Pública.
+
+
+
+La Oferta del CONTRATISTA, con todos los documentos que la conforman.
+
+
+
+La Resolución de Adjudicación.
+
+
+
+La certificación presupuestaria que acredita la existencia y disponibilidad de recursos para el cumplimiento de las obligaciones derivadas del Contrato.
+
+
+
+Las Garantías Contractuales.
+
+
+
+CLÁUSULA TERCERA.- INTERPRETACIÓN DEL CONTRATO Y DEFINICIÓN DE TÉRMINOS:
+
+
+
+3.1	Los términos del Contrato se interpretarán en su sentido literal, a fin de revelar claramente la intención de los contratantes. En todo caso su interpretación sigue las siguientes normas: 
+
+
+
+Cuando los términos están definidos en la normativa del Sistema Nacional de Contratación Pública o en este Contrato, se atenderá su tenor literal.
+
+
+
+Si no están definidos se estará a lo dispuesto en el Contrato en su sentido natural y obvio, de conformidad con el objeto contractual y la intención de los contratantes. De existir contradicciones entre el Contrato y los documentos del mismo, prevalecerán las normas del Contrato.  
+
+
+
+El contexto servirá para ilustrar el sentido de cada una de sus partes, de manera que haya entre todas ellas la debida correspondencia y armonía.
+
+
+
+En su falta o insuficiencia se aplicarán las normas contenidas en el Título XIII del Libro IV de la Codificación del Código Civil, “De la Interpretación de los Contratos”. 
+
+
+
+3.2	Definiciones: En este Contrato, los siguientes términos serán interpretados de la manera que se indica a continuación:
+
+
+
+“ADJUDICATARIO”, es el oferente a quien la CONTRATANTE le adjudica el Contrato.
+
+
+
+“CONTRATISTA”, es el oferente adjudicatario.
+
+
+
+“LA CONTRATANTE”, es la entidad pública que ha tramitado el procedimiento del cual surge o se deriva este Contrato.
+
+
+
+“LOSNCP”, Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+
+
+“RGLOSNCP”, Reglamento General de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+
+
+“OFERENTE”, es la persona natural o jurídica, asociación o consorcio que presenta una "oferta", en atención al llamado al proceso de contratación.
+
+
+
+ “OFERTA”, es la propuesta para contratar, ceñida al pliego, presentada por el oferente a través de la cual se obliga, en caso de ser adjudicada, a suscribir el Contrato y a la provisión de bienes o prestación de servicios.
+
+
+
+“SERCOP”, Servicio Nacional de Contratación Pública.
+
+
+
+CLÁUSULA CUARTA.- OBJETO DEL CONTRATO: 
+
+
+
+La CONTRATISTA se obliga con la CONTRATANTE a proveer de los ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL PARA LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA MANDURIACU, de conformidad con las cantidades, características y especificaciones técnicas previstas en el numeral 2.3 (Especificaciones Técnicas o Términos de Referencia) de la Sección II (Objeto de la Contratación, Presupuesto Referencial, Especificaciones Técnicas o Términos de Referencia) de los Pliegos del Proceso Nro. SIE-CELCCS-068-2022 y del Anexo “Especificaciones tecnicas - CCS-ETE-112-22” que forma parte de los referidos Pliegos; del Acta de Preguntas, Respuestas y Aclaraciones de ** de ***** de 2022; de los términos de la oferta de la CONTRATISTA; y, de las demás estipulaciones previstas en este Contrato.
+
+
+
+La entrega e instalación de la totalidad de bienes objeto de esta contratación se realizará, en coordinación con el Administrador del Contrato, en las instalaciones de las bodegas de la central hidroeléctrica Manduriacu, ubicadas en la comuna de Cielo Verde, parroquia García Moreno, cantón Cotacachi, provincia de Imbabura.
+
+
+
+CLÁUSULA QUINTA.- PRECIO DEL CONTRATO:
+
+
+
+5.1	El valor total de este Contrato, que la CONTRATANTE pagará a la CONTRATISTA, es de ***** CON **/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$*****), más IVA.
+
+
+
+5.2	El precio del Contrato constituirá la única compensación a la CONTRATISTA por todos sus costos, directos e indirectos, inclusive cualquier impuesto, derecho o tasa que tuviese que pagar, excepto el IVA que será añadido al precio del Contrato.
+
+
+
+CLÁUSULA SEXTA.- FORMA DE PAGO:
+
+
+
+El pago del precio del Contrato se lo realizará conforme el siguiente detalle:
+
+
+
+Un anticipo del treinta por ciento (30%) del valor total del contrato, esto es la cantidad de ***** CON **/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$*****), que será entregado a la CONTRATISTA dentro de los quince (15) días término posteriores a la suscripción del Contrato, previa entrega de la garantía de Buen Uso de Anticipo, de conformidad con las condiciones y características determinadas en la LOSNCP y su Reglamento General, a completa satisfacción de la CONTRATANTE, por el cien por ciento (100%) de dicho anticipo. 
+
+
+
+	El valor por concepto de anticipo será depositado en una cuenta que la CONTRATISTA aperturará para tal fin, en una Institución Financiera Estatal o Privada de propiedad del Estado en más de un cincuenta por ciento (50%). La CONTRATISTA autoriza expresamente a que se levante el sigilo bancario de la cuenta en la que será depositado el anticipo.
+
+
+
+	El Administrador del Contrato verificará que los movimientos de la cuenta correspondan estrictamente al proceso de ejecución contractual. El anticipo que se otorgue a la CONTRATISTA, para la ejecución del objeto contractual, no podrá ser destinado a fines ajenos a esta contratación.
+
+
+
+El setenta por ciento (70%) restante del valor del contrato, esto es la cantidad de ***** CON **/100 DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$*****) más IVA, contra la entrega de los bienes objeto de la contratación, a entera satisfacción de la CONTRATANTE, contra la presentación de la factura, informe del Administrador del Contrato y suscripción del Acta de Entrega - Recepción Única del Contrato. 
+
+
+
+De los pagos se descontarán las multas y cualquier otro valor a cargo de la CONTRATISTA por aplicación del Contrato y de la Ley.
+
+
+
+Pagos indebidos: La CONTRATANTE se reserva el derecho de reclamar a la CONTRATISTA, en cualquier tiempo, antes o después de la ejecución de este Contrato, sobre cualquier pago indebido por error de cálculo o por cualquier otra razón debidamente justificada, obligándose a la CONTRATISTA a satisfacer las reclamaciones que por este motivo llegare a plantear la CONTRATANTE, reconociéndose el interés calculado a la tasa máxima del interés convencional, establecido por el Banco Central del Ecuador.
+
+
+
+CLÁUSULA SÉPTIMA.- GARANTÍAS CONTRACTUALES
+
+
+
+Garantía de Buen Uso de Anticipo.- La CONTRATISTA entrega a favor de la CONTRATANTE una garantía de Buen Uso del Anticipo, correspondiente al cien por ciento (100%) del desembolso que realizará la CONTRATANTE en calidad de anticipo, sin IVA, para asegurar que estos recursos se destinen al cumplimiento del objeto contractual.
+
+
+
+Características de la Garantía de Buen Uso de Anticipo.- Esta garantía es incondicional, irrevocable, de cobro inmediato, renovable a simple petición de la CONTRATANTE y a costo de la CONTRATISTA, válida para el sector público. Será renovada por la CONTRATISTA, por lo menos diez (10) días antes de su vencimiento, caso contrario la CONTRATANTE la renovará a costo de la CONTRATISTA o la hará efectiva.
+
+
+
+Devolución de las Garantías: Las garantías previstas en esta Cláusula se devolverán de conformidad con lo previsto en el artículo 118 del Reglamento General de la LOSNCP.
+
+
+
+CLÁUSULA OCTAVA.- PLAZO:
+
+
+
+
+
+
+
+El plazo para el cumplimiento total de las obligaciones previstas en la Cláusula Cuarta de este contrato, a entera satisfacción de la CONTRATANTE, es de NOVENTA (90) días contados desde la fecha de notificación que el anticipo se encuentra disponible.
+
+
+
+CLÁUSULA NOVENA.- PRÓRROGAS DE PLAZO:
+
+
+
+9.1. 	La CONTRATANTE prorrogará el plazo total del Contrato en los siguientes casos:
+
+
+
+a)	Cuando la CONTRATISTA así lo solicitare, por escrito, justificando los fundamentos de la solicitud dentro del término de cuarenta y ocho (48) horas siguientes a la fecha de producido el hecho, siempre que este se haya producido por motivos de fuerza mayor o caso fortuito aceptado como tal por la máxima autoridad de la CONTRATANTE o su delegado, previo informe del Administrador del Contrato. Tan pronto desaparezca la causa de fuerza mayor o caso fortuito, la CONTRATISTA está obligada a continuar con la ejecución del Contrato, sin necesidad de que medie notificación por parte del Administrador del Contrato para reanudarlo.
+
+
+
+b)	Por suspensiones en la ejecución del Contrato, motivadas por la CONTRATANTE u ordenadas por ella y que no se deban a causas imputables a la CONTRATISTA.
+
+
+
+c)	Si la CONTRATANTE no hubiera solucionado los problemas administrativos-contractuales en forma oportuna, cuando tales circunstancias incidan en la ejecución del Contrato.
+
+
+
+9.2.	Cuando se modifique el plazo total del Contrato se necesitará la autorización escrita de la CONTRATANTE.
+
+
+
+CLÁUSULA DÉCIMA.- MULTAS:
+
+
+
+10.1	La CONTRATISTA conviene en pagar a la CONTRATANTE, por concepto de multa, la cantidad equivalente al cinco por mil (5/1000) sobre el valor total del contrato, sin IVA, por cada día de retraso en la entrega del objeto contratado, o por incumplimiento de cualesquiera de las obligaciones que contrae en virtud de este instrumento. 
+
+
+
+Se exceptúan los eventos de caso fortuito o fuerza mayor, conforme a lo dispuesto en el artículo 30 de la codificación del Código Civil, debidamente comprobados y aceptados por el Administrador del Contrato. Las multas legítimamente impuestas no serán devueltas bajo ningún concepto.
+
+
+
+10.2 	La CONTRATANTE queda autorizada por la CONTRATISTA, para que haga efectiva la multa impuesta de los valores que por este Contrato le corresponde recibir, sin requisito o trámite previo alguno.
+
+
+
+CLÁUSULA DÉCIMA PRIMERA.- DEL REAJUSTE DE PRECIOS:
+
+
+
+El valor de este Contrato es fijo y no estará sujeto a reajuste de ningún concepto. 
+
+
+
+CLÁUSULA DÉCIMA SEGUNDA.- DE LA ADMINISTRACIÓN DEL CONTRATO:
+
+
+
+La CONTRATANTE designa a ****, como Administrador del Contrato, quien deberá atenerse a los términos de este Contrato y a las condiciones generales y particulares de los pliegos que forman parte del Contrato.
+
+
+
+La CONTRATANTE podrá cambiar de Administrador del Contrato, para lo cual bastará cursar a la CONTRATISTA la respectiva comunicación, sin que sea necesaria la modificación del texto contractual.
+
+
+
+El Administrador del Contrato tendrá, además, las siguientes obligaciones y atribuciones:
+
+
+
+12.1 Velar por el cabal y oportuno cumplimiento de todas y cada una de las obligaciones derivadas del Contrato.  Canalizará y coordinará todas y cada una de las obligaciones contractuales convenidas.
+
+
+
+12.2 	Exigir el cumplimiento de las leyes ecuatorianas, reglamentos, los pliegos y más disposiciones, por parte de la CONTRATISTA.
+
+
+
+12.3 	Controlar la ejecución del Contrato; cuantificar las demoras; proponer los correctivos pertinentes; y, aplicar las multas.
+
+
+
+12.4	Coordinar el ingreso de los bienes a bodega.
+
+
+
+12.5	Exigir que los bienes cumplan con las especificaciones técnicas y más requerimientos establecidos en los documentos precontractuales. Podrá rechazar y exigir la reposición de los bienes que no cumplan con las especificaciones correspondientes.
+
+
+
+12.6	Administrar las Garantías Contractuales.
+
+
+
+12.7 	Aprobar y solicitar los pagos en favor de la CONTRATISTA.
+
+
+
+12.8 	Elaborar y suscribir el Acta de Entrega Recepción Única del contrato.
+
+
+
+CLÁUSULA DÉCIMA TERCERA.- OBLIGACIONES DE LA CONTRATISTA:
+
+ 
+
+Además de las obligaciones señaladas en la Sección VI (Obligaciones de las Partes), numeral 6.2 de las Condiciones Particulares del pliego que son parte de este Contrato, serán responsabilidades de la CONTRATISTA, las siguientes:
+
+
+
+13.1	Ejecutar el Contrato sobre la base de las especificaciones técnicas establecidas en los pliegos elaborados por la CONTRATANTE y que fueron conocidos en la etapa precontractual y, en tal virtud, no podrá aducir error, falencia o cualquier inconformidad con los mismos, como causal para solicitar ampliación del plazo.
+
+
+
+13.2 	Cumplir con el porcentaje mínimo de valor agregado ecuatoriano ofertado.
+
+
+
+13.3 	Cumplir con cualquier otra obligación que se derive natural y legalmente del objeto del Contrato y sea exigible por constar en cualquier documento del mismo o en norma legal específicamente aplicable.
+
+
+
+13.4	Incorporar al Acta de Entrega-Recepción Única del Contrato la declaración de la CONTRATISTA respecto al cumplimiento del Valor Agregado Ecuatoriano propuesto y aceptado. Si la CONTRATANTE comprobare que los bienes y/o servicios proporcionados no son de origen ecuatoriano se observará lo dispuesto en los artículos 92 y 94 de la LOSNCP, así como en los artículos 122 y 146 de su Reglamento General.
+
+
+
+13.5 	Dar las facilidades para que el Administrador del Contrato cumpla eficientemente sus funciones.
+
+
+
+CLÁUSULA DÉCIMA CUARTA.- RECEPCIÓN ÚNICA DEL CONTRATO:
+
+
+
+14.1	La Recepción Única se realizará, a petición escrita de la CONTRATISTA, cuando a su juicio se hayan cumplido todas las obligaciones contractuales, para lo cual se contará con la aprobación del informe por parte del Administrador del Contrato. La Recepción Única se iniciará dentro de los diez (10) días de plazo siguientes a la notificación. La CONTRATANTE podrá negarse a realizar la recepción, fundamentando para tal efecto su negativa por escrito.
+
+
+
+14.2 	El Acta de Entrega Recepción Única será suscrita y contendrá los antecedentes, liquidación económica, liquidación de plazos, constancia de la recepción, conforme a lo establecido en el artículo 124 del Reglamento General de la LOSNCP.
+
+
+
+14.3	La CONTRATANTE declarará la recepción presunta a su favor, respecto de la CONTRATISTA, en el caso de que éste se negare expresamente a suscribir el Acta de Entrega - Recepción Única o si no la suscribiere en el término de diez (10) días, contado desde el requerimiento formal de la CONTRATANTE. La recepción presunta por parte de la CONTRATANTE, la realizará su máxima autoridad o su delegado mediante resolución motivada, que será notificada a la CONTRATISTA de conformidad con el procedimiento establecido en el Reglamento General de la LOSNCP.
+
+
+
+Operada la recepción presunta, a solicitud de la CONTRATISTA o declarada por la CONTRATANTE, producirá como único efecto la terminación del Contrato, dejando a salvo los derechos de las partes a la liquidación técnico-económica correspondiente.
+
+
+
+Las partes buscarán en el plazo de treinta (30) días posteriores a la recepción presunta suscribir el acta de la liquidación técnico-económica del Contrato, sin perjuicio de iniciar las acciones legales de las que se crean asistidas.
+
+
+
+14.4	Liquidación del Contrato: La liquidación del Contrato suscrita entre las partes se realizará en los términos previstos por el artículo 125 del RGLOSNCP.
+
+
+
+CLÁUSULA DÉCIMA QUINTA.- CESIÓN DEL CONTRATO:
+
+
+
+La CONTRATISTA no podrá ceder, asignar o transferir, en forma alguna, ni todo ni parte de este Contrato.
+
+
+
+CLÁUSULA DÉCIMA SEXTA.- TERMINACIÓN DEL CONTRATO:
+
+
+
+16.1 Terminación del Contrato.- El Contrato termina conforme a lo previsto en el artículo 92 de la LOSNCP y las Condiciones Particulares y Generales del Contrato.
+
+
+
+16.2	Causales de Terminación Unilateral del Contrato.- Tratándose de incumplimiento de la CONTRATISTA, el Administrador del Contrato, a través de un informe enviado a la Gerencia de la Unidad de Negocio, determinará la pertinencia de la aplicación del artículo 94 de la LOSNCP. Además se considerarán las siguientes causales:
+
+
+
+Si se verifica, por cualquier modo, que la participación ecuatoriana real en la provisión de bienes objeto del contrato es inferior a la declarada.
+
+
+
+Si la CONTRATISTA incumple con las declaraciones que ha realizado en el Formulario de la Oferta (1.1. Presentación y Compromiso).
+
+
+
+Si la CONTRATANTE encontrare que existe inconsistencia, simulación y/o inexactitud en la información presentada por la CONTRATISTA, en el procedimiento precontractual o en la ejecución del presente Contrato, dicha inconsistencia, simulación y/o inexactitud serán causales de terminación unilateral del Contrato por lo que, la máxima autoridad de la entidad contratante o su delegado, lo declarará CONTRATISTA incumplido, sin perjuicio, además, de las acciones judiciales a que hubiera lugar.
+
+
+
+Si la CONTRATISTA no notificare a la CONTRATANTE acerca de la transferencia, cesión, enajenación de sus acciones, participaciones, o en general de cualquier cambio en su estructura de propiedad, dentro de los cinco (5) días hábiles siguientes a la fecha en que se produjo tal modificación.
+
+
+
+Si la CONTRATANTE, en función de aplicar lo establecido en el artículo 78 de la LOSNCP, no consiente en la transferencia, cesión, capitalización, fusión, absorción, transformación o cualquier forma de tradición de las acciones, participaciones o cualquier otra forma de expresión de la asociación, que represente el veinticinco por ciento (25%) o más del capital social de la CONTRATISTA.
+
+
+
+16.3	Procedimiento de Terminación Unilateral.- El procedimiento a seguirse para la terminación unilateral del Contrato será el previsto en el artículo 95 de la LOSNCP.
+
+
+
+La declaratoria de terminación unilateral y anticipada del Contrato no se suspenderá por la interposición de reclamos o recursos administrativos, demandas contencioso administrativas, arbitrales o de cualquier tipo de parte de la CONTRATISTA.
+
+
+
+CLÁUSULA DÉCIMA SÉPTIMA.- TRIBUTOS Y RETENCIONES:
+
+
+
+La CONTRATANTE efectuará a la CONTRATISTA las retenciones que dispongan las leyes tributarias, conforme la legislación tributaria vigente.
+
+
+
+La CONTRATANTE retendrá el valor de los descuentos que el Instituto Ecuatoriano de Seguridad Social ordenare y que corresponda a mora patronal, por obligaciones con el seguro social provenientes de servicios personales para la ejecución del Contrato de acuerdo a la Ley de Seguridad Social.
+
+
+
+CLÁUSULA DÉCIMA OCTAVA.- LEVANTAMIENTO DEL SIGILO BANCARIO:
+
+
+
+En virtud de lo dispuesto en la Disposición General Décima de la Ley Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el SERCOP, las cuentas bancarias y sus movimientos, de todas las personas naturales o jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura accionaria de la CONTRATISTA, cuando estén relacionadas con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario, societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas declaradas como beneficiarios finales o cualquier persona que se beneficie de transacciones bancarias en el flujo de los recursos públicos.
+
+
+
+CLÁUSULA DÉCIMA NOVENA.- SOLUCIÓN DE CONTROVERSIAS:
+
+
+
+En caso de que, respecto de las divergencias o controversias suscitadas sobre el cumplimiento, interpretación y ejecución del presente contrato, no se lograre un acuerdo directo entre las partes, éstas renuncian expresamente a la jurisdicción ordinaria, y se someten a los mecanismos alternativos de resolución de conflictos previstos en la Ley de Arbitraje y Mediación de la República del Ecuador, al reglamento de funcionamiento del centro de mediación y arbitraje de la Cámara de Comercio de Quito y a las siguientes normas:
+
+
+
+Previamente a iniciar el trámite del arbitraje, las partes someterán la controversia a mediación para lograr un acuerdo mutuamente satisfactorio, en el Centro de Mediación de la Procuraduría General del Estado con sede en Quito.
+
+
+
+En el evento de que el conflicto no fuere resuelto mediante la mediación, las partes se someten a arbitraje administrado por el centro de arbitraje y mediación de la Cámara de Comercio de Quito. El Tribunal estará conformado por tres árbitros principales y un alterno, y serán seleccionados de la siguiente forma: cada una de las partes, en el término de cinco días contados desde la citación de la demanda arbitral, elegirá su árbitro de la lista oficial proporcionada por el centro de arbitraje y mediación, y los dos árbitros elegidos, en el mismo término de cinco días escogerán al tercer árbitro, quien presidirá el Tribunal, y al árbitro alterno. El tercer árbitro y el árbitro alterno serán seleccionados de la lista oficial proporcionada por el centro de arbitraje y mediación, y el término para su designación se contará a partir de la fecha en que los árbitros nombrados por las partes hayan manifestado por escrito su aceptación de desempeñar el cargo. Las Partes podrán objetar la designación de un árbitro si apareciere alguna revelación de dicho árbitro que comprometa su imparcialidad e independencia, para lo cual el centro de arbitraje y mediación de la Cámara de Comercio de Quito  suspenderá el término correspondiente hasta que se resuelva sobre tal revelación. En el evento en que alguna de las partes, o los árbitros designados por éstas, no efectuaren las designaciones que les corresponden dentro del término previsto, éstas se efectuarán por sorteo, a pedido de cualquiera de las partes, conforme lo establece el inciso quinto del artículo 16 de la Ley de Arbitraje y Mediación.
+
+
+
+Las partes autorizan al Tribunal Arbitral para que ordene y disponga medidas cautelares que procedan y se ajusten a la normativa procesal ecuatoriana, y para la ejecución de tales medidas; el Tribunal solicitará el auxilio de funcionarios públicos, judiciales, policiales y administrativos que sean necesarios, sin tener que recurrir a juez ordinario alguno.
+
+
+
+El laudo que expida el Tribunal Arbitral deberá fundarse en derecho y por consiguiente sujetarse al contrato, a la ley, a los principios universales del derecho, a la jurisprudencia y a la doctrina.
+
+
+
+Las partes se obligan a acatar el laudo arbitral que se expida.
+
+
+
+Los costos y gastos arbitrales que genere el proceso arbitral serán cubiertos por el demandante.
+
+
+
+El lugar del arbitraje será en la ciudad de Quito, en las instalaciones del centro de arbitraje y mediación de la Cámara de Comercio de Quito y su tramitación será confidencial.
+
+
+
+Si el Tribunal Arbitral declarara que no tiene competencia para resolver la controversia, ésta se someterá al procedimiento establecido en el Código Orgánico General de Procesos, siendo competente para conocer y resolver la controversia el Tribunal Distrital de lo Contencioso Administrativo que ejerce jurisdicción en el domicilio de la entidad contratante. Para tal efecto, el Tribunal Arbitral deberá conocer y resolver en la audiencia de sustanciación todas las excepciones previas que la parte demandada haya propuesto en su escrito de contestación a la demanda, con excepción de aquellas que se refieran a la caducidad y prescripción que serán resueltas en el laudo arbitral.
+
+
+
+La contratista renuncia a utilizar la vía diplomática para todo reclamo relacionado con este contrato. Si la contratista incumpliere este compromiso, la contratante podrá dar por terminado unilateralmente el contrato y hacer efectivas las garantías.
+
+
+
+La legislación aplicable a este contrato es la ecuatoriana. En consecuencia, la contratista declara conocer el ordenamiento jurídico ecuatoriano y, por lo tanto, se entiende incorporado el mismo en todo lo que sea aplicable al presente contrato.
+
+
+
+CLÁUSULA VIGÉSIMA.- COMUNICACIONES ENTRE LAS PARTES:
+
+
+
+Todas las comunicaciones entre las partes relativas al Contrato, sin excepción, serán formuladas por escrito y en idioma castellano. Las comunicaciones entre la Administración del Contrato y la CONTRATISTA se harán a través de documentos escritos o vía correo electrónico. 
+
+
+
+La CONTRATISTA declara la validez de las notificaciones que efectuare la CONTRATANTE a su casilla electrónica, consignada en la Cláusula Vigésima de este Contrato, por lo que los actos administrativos notificados a dicha casilla serán eficaces, conforme lo estipulado en el artículo 101 del Código Orgánico Administrativo. 
+
+
+
+CLÁUSULA VIGÉSIMA PRIMERA.- DOMICILIO: 
+
+
+
+21.1 	Para todos los efectos de este Contrato, las partes convienen en señalar su domicilio en el Distrito Metropolitano de Quito.
+
+
+
+21.2	Para efectos de comunicación o notificaciones, las partes señalan como su dirección, las siguientes:
+
+
+
+LA CONTRATANTE:
+
+
+
+Attn.:              *****
+
+Dirección: 	*****
+
+Teléfono: 	*****
+
+E-mail: 	*****
+
+
+
+LA CONTRATISTA: 
+
+
+
+Attn.:		*****
+
+Ruc:   		*****
+
+Dirección: 	*****
+
+Teléfono: 	*****
+
+E-mail: 	*****
+
+
+
+CLÁUSULA VIGÉSIMA SEGUNDA.- ACEPTACIÓN DE LAS PARTES:
+
+
+
+22.1	Declaración. - Las Partes libre, voluntaria y expresamente declaran que conocen y aceptan el texto íntegro de las Condiciones Generales de los Contratos de provisión de bienes y prestación de servicios, publicado en la página institucional del Servicio Nacional de Contratación Pública SERCOP, vigente a la fecha de la Convocatoria del procedimiento de contratación y que forma parte integrante de las Condiciones Particulares del Contrato que se están suscribiendo. 
+
+
+
+22.2.	Libre y voluntariamente, las Partes expresamente declaran su aceptación a todo lo convenido en el presente Contrato y se someten a sus estipulaciones.
+
+
+
+En virtud de lo cual, las partes suscriben este Contrato en tres (03) ejemplares del mismo contenido y valor, en Quito D.M., a xx de **** de 2022.
+
+
+
+
+
+
+
+
+
+Geovanna Patricia Castillo Rodríguez
+
+
+
+***********
+
+GERENTE - UNIDAD DE NEGOCIO
+
+CELEC EP - COCA CODO SINCLAIR
+
+
+
+
+
+
+
+
+
+NOTA: Este instrumento se encuentra sujeto a cambios, de conformidad con la LOSNCP, su Reglamento General, Resoluciones del SERCOP y las condiciones particulares del proceso de contratación.
+
+
+
+	Dirección: Av. 6 de Diciembre N31-110 y Whymper
+
+	Edf. Tenerife, piso 11.
+
+	Código Postal: 170517 / Quito - Ecuador
+
+Teléfono: 593 – 2 381 4300 - www.celec.gob.ec

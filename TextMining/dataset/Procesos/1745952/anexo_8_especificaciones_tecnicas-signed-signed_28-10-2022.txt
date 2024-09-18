@@ -1,0 +1,281 @@
+ESPECIFICACIONES TÉCNICAS
+
+“ADQUISICIÓN, INSTALACIÓN, PROGRAMACIÓN Y FUNCIONAMIENTO DE 6 RADARES DE
+VELOCIDAD PEDAGÓGICOS - INFORMATIVOS PARA EL CONTROL Y PREVENCIÓN DE
+ACCIDENTES DE TRÁNSITO EN EL CANTÓN AMBATO”
+
+La adquisición, instalación, programación y funcionamiento de los 6 radares de velocidad pedagógicos e
+informativos para el control y prevención de accidentes de tránsito en el cantón Ambato se sujetarán a las
+especificaciones técnicas que se detallan a continuación:
+
+ITEM
+
+BIEN
+
+ESPECIFICACIONES TÉCNICAS
+MÍNIMAS REQUERIDAS
+
+UNIDAD
+DE
+MEDIDA
+
+CPC
+
+CANTI
+DAD
+
+482200031
+
+6
+
+Generalidades del equipo:
+Radar detector de velocidad.
+Precisión de detección +/- 1km.
+(Detección de 2 carriles mínimo)
+Dimensiones mínimas: largo 60 cm ancho
+60 cm; espesor 13 cm.
+Dimensiones máximas: largo 80 cm; ancho
+80 cm; espesor 18 cm.
+Detección de velocidad: desde 15km/h hasta
+190 km/h o superior.
+Pantalla de Texto
+
+1
+
+Radares de
+Dígitos con una altura mínima de 30 cm
+velocidad
+Mínimo 2 líneas de texto
+pedagógicos e Mínimo 3 colores para dígitos o letras.
+informativos para Atenuación automática.
+el control y
+Visibilidad mínima 250 metros
+prevención de Consumo de energía entre 35 Wh/h y 90Wh
+accidentes de Mensajes configurables.
+tránsito en el
+cantón Ambato Revestimiento:
+
+U
+
+Carcasa termoplástica ultra resistente a los
+rayos UV con película antirreflejos.
+Protección ambiental IP65
+Impermeable NEMA 3R/IP 65.
+Peso no mayor a 12 Kilogramos (sin
+batería).
+Comunicación:
+Mediante USB, Bluetooth.
+Memoria para almacenamiento de datos
+mínimo 16 GB.
+Generación de datos estadísticos de tráfico
+clasificando por tipo de vehículos,
+velocidades, horas y fechas.
+
+Alimentación:
+Debe tener opciones de alimentación solar,
+1
+
+con baterías y alumbrado público.
+Debe incluir Batería de 12V de larga
+duración con autonomía mínima de 3 días
+(sin recibir carga).
+Cargador de batería externo 12 V.
+Panel solar.
+Sistema de carga rápida
+Dimensiones: mínimas 80x60 cm máximas:
+110*70 cm
+Poste para colocación Fija:
+Poste construido en tubería de acero ASTM
+A36 galvanizado en caliente norma ASTM
+A123 pintura electrostática verde oliva
+espesor mínimo 3 mm, altura mínima 4m,
+diámetro 110mm.
+Placa base Acero A-36 cuadrada de 30 x lado
+(soldada al poste con cuatro nervios de
+refuerzo) tendrá cuatro perforaciones para
+perno M16 o 5/8.
+
+2
+
+Mantenimiento
+Preventivo año
+2023
+
+Mantenimiento
+Preventivo año
+2024
+3
+
+Revisión y limpieza del panel solar
+Revisión de conexiones entre el panel solar
+y la unidad de radar
+Medir voltaje de generación del panel solar
+Limpieza interior y exterior de carcasa de
+radar con materiales no abrasivos
+recomendados por el fabricante
+Revisión y verificación de focos leds de la
+pantalla.
+Aplicación de silicón con protección rayos
+UV
+Revisión y limpieza de contactos
+electrónicos internos y externos
+Limpieza de bornera de batería
+Revisión de carga de batería
+Revisión de conexiones y cableado externo
+Medición de entrada y salida de voltaje
+Calibración programación de pantalla
+indicadora de velocidad
+Descarga de información almacenada en
+cada pantalla.
+Revisión y limpieza del panel solar
+Revisión de conexiones entre el panel solar
+y la unidad de radar
+Medir voltaje de generación del panel solar
+Limpieza interior y exterior de carcasa de
+radar con materiales no abrasivos
+recomendados por el fabricante
+Revisión y verificación de focos leds de la
+pantalla.
+Aplicación de silicón con protección rayos
+UV
+Revisión y limpieza de contactos
+electrónicos internos y externos
+Limpieza de bornera de batería
+Revisión de carga de batería
+Revisión de conexiones y cableado externo
+
+U
+
+841600111
+
+1
+
+841600111
+
+1
+
+U
+
+2
+
+Medición de entrada y salida de voltaje
+Calibración programación de pantalla
+indicadora de velocidad
+Descarga de información almacenada en
+cada pantalla.
+
+4
+
+5
+
+6
+
+Para el caso de mantenimientos correctivos,
+cuando el bien adquirido presente fallas o
+averías atribuidas a su normal
+funcionamiento el administrador del contrato
+Mantenimiento deberá solicitar al contratista una inspección
+Correctivo año del bien y junto a un informe técnico
+2025
+cotizará el valor de dicho servicio
+desglosando el costo de la mano de obra y de
+los repuestos a utilizar, los mismos que por
+ningún motivo podrán ser superiores a los
+del mercado.
+El pago se realizará mediante órdenes de
+servicio contra entrega.
+Este valor será cubierto en repuestos que no
+supere el valor del presupuesto asignado
+para el año.
+Revisión y limpieza del panel solar
+Revisión de conexiones entre el panel solar
+y la unidad de radar
+Medir voltaje de generación del panel solar
+Limpieza interior y exterior de carcasa de
+radar con materiales no abrasivos
+recomendados por el fabricante
+Revisión y verificación de focos leds de la
+pantalla.
+Mantenimiento Aplicación de silicón con protección rayos
+Preventivo año UV
+2026
+Revisión y limpieza de contactos
+electrónicos internos y externos
+Limpieza de bornera de batería
+Revisión de carga de batería
+Revisión de conexiones y cableado externo
+Medición de entrada y salida de voltaje
+Calibración programación de pantalla
+indicadora de velocidad
+Descarga de información almacenada en
+cada pantalla.
+Para el caso de mantenimientos correctivos,
+cuando el bien adquirido presente fallas o
+averías atribuidas a su normal
+funcionamiento el administrador del contrato
+Mantenimiento deberá solicitar al contratista una inspección
+Correctivo año del bien y junto a un informe técnico
+2027
+cotizará el valor de dicho servicio
+desglosando el costo de la mano de obra y de
+los repuestos a utilizar, los mismos que por
+ningún motivo podrán ser superiores a los
+del mercado.
+El pago se realizará mediante órdenes de
+servicio contra entrega.
+
+U
+
+U
+
+841600111
+
+1
+
+841600111
+
+1
+
+841600111
+
+1
+
+U
+
+3
+
+Este valor será cubierto en repuestos que no
+supere el valor del presupuesto asignado
+para el año.
+Los mantenimientos preventivos y correctivos se deberán realizar a los 6 equipos radares de velocidad
+pedagógicos implementados.
+
+Atentamente,
+Firmado electrónicamente por:
+
+LORENA ELIZABETH
+CORELLA SANGUIL
+
+Firmado electrónicamente por:
+
+JOHAN GEOVANETT
+ZAPATA VERDEZOTO
+
+Ing. Lorena Corella S.
+TÉCNICO EN MONITOREO
+SEMAFÓRICO CGTMA
+
+JEFE DE LA UNIDAD DE TRÁNSITO,
+TRANSPORTE TERRESTRE Y SEGURIDAD VIAL
+
+Ing. Johan Zapata V.
+
+Elaborado por:
+
+Revisado por:
+
+FECHA: 28 de octubre de 2022.
+
+4
+
+

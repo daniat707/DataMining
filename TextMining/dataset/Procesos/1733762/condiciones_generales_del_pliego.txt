@@ -1,0 +1,1234 @@
+
+|MODELO DE PLIEGO DE LOS PROCEDIMIENTOS DE CONTRATACIÓN BIENES Y/O  |
+|SERVICIOS                                                          |
+|Versión  SERCOP 2.1 (09 de junio de 2017)                          |
+
+   II.  CONDICIONES GENERALES PARA LA CONTRATACIÓN DE BIENES Y/O SERVICIOS
+                                   ÍNDICE
+|             |                                                    |
+|SECCIÓN I    |DEL PROCEDIMIENTO DE CONTRATACIÓN                   |
+|             |1.1 Comisión técnica                                |
+|             |1.2 Participantes                                   |
+|             |1.3 Presentación y apertura de ofertas              |
+|             |1.4 Inhabilidades                                   |
+|             |1.5 Obligaciones de los oferentes                   |
+|             |1.6 Preguntas, respuestas y aclaraciones            |
+|             |1.7 Modificación del pliego                         |
+|             |1.8 Convalidación  de errores de forma              |
+|             |1.9 Causas  de rechazo                              |
+|             |1.10 Adjudicación y notificación                    |
+|             |1.11 Garantías                                      |
+|             |1.12 Cancelación del procedimiento                  |
+|             |1.13 Declaratoria de procedimiento desierto         |
+|             |1.14 Adjudicatario  fallido                         |
+|             |1.15 Suscripción del contrato                       |
+|             |1.16  Precios y reajuste                            |
+|             |1.17 Moneda de cotización y pago                    |
+|             |1.18 Reclamos                                       |
+|             |1.19 Administración del contrato                    |
+|             |1.20 Transferencia tecnológica                      |
+|             |1.21 Oferta de origen ecuatoriano, metodología y    |
+|             |Valor Agregado Ecuatoriano                          |
+|             |1.22  Vigencia tecnológica                          |
+|             |1.23 Control ambiental                              |
+|             |1.24 Autoinvitación                                 |
+|             |1.25 Visitas al sitio de entrega/instalación de     |
+|             |bienes                                              |
+|             |1.26 Inconsistencias, simulación y/o inexactitud de |
+|             |la información                                      |
+|             |                                                    |
+|SECCIÓN II   |METODOLOGÍA DE EVALUACIÓN DE LAS OFERTAS            |
+|             |2.1. Metodología de evaluación de las ofertas       |
+|             |2.2.  Parámetros de evaluación                      |
+|             |2.3 De la evaluación                                |
+|             |2.4 Índices financieros                             |
+|             |2.5 Formulario para la elaboración de las ofertas   |
+|             |                                                    |
+|SECCIÓN III  |FASE CONTRACTUAL                                    |
+|             |3.1   Ejecución del contrato                        |
+
+NOTAS: Edición del modelo de  pliego.-  Las  condiciones  generales  no  son
+materia  de  ajuste  y/o  modificaciones  por   parte   de   las   entidades
+contratantes.   Las   condiciones   generales   son   principios    básicos,
+estipulaciones o  cláusulas  establecidas,  con  el  objeto  de  regular  la
+relación con los partícipes en el  presente  procedimiento  de  contratación
+pública,  en  el  marco  de  la  legislación  aplicable.   La  normativa   y
+disposiciones  administrativas  expedidas  por  el  Servicio   Nacional   de
+Contratación  Pública   que  se  emitan  durante  el  procedimiento,  quedan
+incorporadas al Pliego de Condiciones Generales y  se  aplicarán  de  manera
+obligatoria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   II.  CONDICIONES GENERALES PARA LA CONTRATACIÓN DE BIENES Y/O SERVICIOS
+|Las condiciones generales contenidas en el presente documento son  |
+|de aplicación general para los procedimientos de contratación de   |
+|bienes y/o servicios, por Subasta Inversa Electrónica, Menor       |
+|Cuantía, Cotización y Licitación, salvo las excepciones que en lo  |
+|pertinente se encuentran claramente especificadas.                 |
+
+                                  SECCIÓN I
+                      DEL PROCEDIMIENTO DE CONTRATACIÓN
+
+1.1 Comisión Técnica: El presente procedimiento  presupone  la  conformación
+obligatoria de una Comisión Técnica, integrada de  acuerdo  al  artículo  18
+del  Reglamento  General  de  la  Ley  Orgánica  del  Sistema  Nacional   de
+Contratación Pública, encargada del trámite del  procedimiento  en  la  fase
+precontractual. Para los procedimientos  de  Menor  Cuantía,  no  existe  la
+figura de Comisión Técnica; por lo que la máxima  autoridad  de  la  entidad
+contratante o  su  delegado  será  la  responsable  de  llevar  adelante  el
+procedimiento.
+
+Esta comisión analizará las  ofertas  de  bienes  y/o  servicios  de  origen
+ecuatoriano, incluso en el caso de haberse presentado una sola, a  excepción
+de  los  procedimientos  de  Menor  Cuantía,  en  cuyos  casos  la   entidad
+contratante  priorizará la contratación preferente  de  conformidad  con  el
+artículo 52  de  la  Ley  Orgánica  del  Sistema  Nacional  de  Contratación
+Pública, considerando los parámetros de calificación  establecidos  en  este
+pliego, y recomendará a la máxima autoridad de  la  entidad  contratante  la
+adjudicación o la declaratoria de procedimiento desierto.
+
+Cuando no hubiere oferta u ofertas consideradas de  origen  ecuatoriano,  la
+entidad contratante continuará el procedimiento con las  ofertas  de  bienes
+y/o servicios de origen extranjero.
+
+1.2 Participantes: La convocatoria está dirigida a las personas naturales  o
+jurídicas, nacionales o extranjeras, asociaciones  de  éstas  o  consorcios,
+que se encuentren habilitadas en  el  Registro  Único  de  Proveedores,  que
+oferten bienes y/o servicios de  origen  ecuatoriano  y  tengan  interés  en
+participar en este procedimiento.
+
+No será obligatoria la convocatoria a proveedores con  domicilio  fiscal  en
+el Ecuador, cuando se trate de procedimientos destinados  a  la  adquisición
+de bienes considerados de alta  complejidad  tecnológica  y  sobre  los  que
+tenga la certeza de que no existe producción ecuatoriana, tales  como,  pero
+sin limitarse a, aeronaves,  radares,  torres  de  acero,  equipos  médicos,
+equipos destinados a la seguridad interna y  externa,  etc.;  condición  que
+deberá  estar  expresamente  motivada  y  justificada  mediante   resolución
+administrativa expedida por la máxima autoridad de la entidad contratante.
+
+Cuando exista un compromiso de asociación o consorcio,  todos  los  miembros
+de  la  asociación  deberán  estar  habilitados  en  el  Registro  Único  de
+Proveedores al tiempo de presentar la oferta, y se designará  un  procurador
+común de entre  ellos,  que  actuará  a  nombre  de  los  comprometidos.  El
+compromiso  de  asociación  o  consorcio  deberá  encontrarse  suscrito   en
+instrumento público, de acuerdo con la normativa expedida  por  el  Servicio
+Nacional de Contratación Pública.
+
+En caso de  ser  adjudicados,  los  comprometidos  deberán  constituirse  en
+asociación o consorcio mediante escritura pública y  lo  inscribirán  en  el
+Registro Único de Proveedores, previa la  firma  del  contrato,  dentro  del
+término previsto para la firma del mismo; caso  contrario,  se  declarará  a
+los  integrantes   del   compromiso   de   asociación   o   consorcio   como
+adjudicatarios fallidos.
+
+Para el caso de  los  procedimientos  de  Menor  Cuantía  y  Cotización,  la
+convocatoria está dirigida a los profesionales, micro y pequeñas empresas  o
+actores de la economía popular y solidaria,  asociaciones  o  consorcios  de
+éstas, o  compromisos  de  asociación  domiciliados  en  la  circunscripción
+territorial donde se requieren los bienes y/o servicios, que tengan  interés
+en participar  en  el  procedimiento  y  se  encuentren  habilitados  en  el
+Registro  Único  de  Proveedores,  en  la  categoría   correspondiente.   El
+procedimiento  se  selección  se  realizará  según  determina  la  normativa
+expedida por el Servicio Nacional de Contratación Pública para el efecto.
+
+3. Presentación y apertura de ofertas: La oferta  se  deberá   presentar  de
+   forma física y a través del Portal Institucional del Servicio Nacional de
+   Contratación Pública. En forma física, se entregará en un sobre único  en
+   (nombre de la entidad contratante) ubicada en (dirección  de  la  entidad
+   contratante).  La oferta, en cualquiera de las formas  señaladas,  deberá
+   presentarse hasta la fecha y hora indicadas en la convocatoria. El  valor
+   de la propuesta deberá ser ingresado al Portal Institucional del Servicio
+   Nacional  de  Contratación  Pública,  hasta  la  fecha  límite  para   la
+   presentación de la oferta técnica.
+
+Si al analizar las ofertas presentadas la  entidad  contratante  determinare
+la existencia de uno o más errores de  forma,  comunicará  a  los  oferentes
+para efectos  de  que  sean  convalidados.  Para  tal  fin  otorgará  a  los
+oferentes  entre  dos  y  máximo  cinco  días  hábiles  a   partir   de   la
+correspondiente notificación.
+
+Para poder participar en el procedimiento, al momento de la presentación  de
+la propuesta, los oferentes interesados deberán encontrarse  habilitados  en
+el Registro Único de Proveedores.
+
+Después de  la  fecha  límite  para  la  presentación  de  las  ofertas,  se
+procederá a la apertura de la oferta presentada de forma física. El acto  de
+apertura de ofertas será público y se efectuará en  el  lugar,  día  y  hora
+fijados en la convocatoria.
+
+De la apertura, en la que  podrán  estar  presentes  los  oferentes  que  lo
+deseen, se levantará un acta que será suscrita por  los  integrantes  de  la
+Comisión Técnica o por la máxima autoridad o su delegado de ser el caso,  la
+cual  obligatoriamente  se  subirá  al  Portal  Institucional  del  Servicio
+Nacional de Contratación Pública, y que deberá contener:
+
+a) Nombre de los oferentes;
+b) Valor de la oferta económica, identificada por oferente;
+c) Plazo de ejecución propuesto por cada oferente;
+d) Número de hojas de cada oferta;
+e) La demás información considerada por la entidad contratante.
+
+En los casos  de  Subasta  Inversa  Electrónica,  no  serán  aplicables  los
+literales a) y b).
+
+4. Inhabilidades: No podrán participar en el  procedimiento  precontractual,
+   por sí o por interpuesta persona, quienes incurran en  las  inhabilidades
+   generales y especiales, contempladas en los artículos 62 y 63 de  la  Ley
+   Orgánica del Sistema Nacional de Contratación  Pública;  110  y  111  del
+   Reglamento  General  de  la  Ley  Orgánica  del   Sistema   Nacional   de
+   Contratación Pública; y,  en  la  normativa   expedida  por  el  Servicio
+   Nacional de Contratación Pública.
+
+
+De verificarse con posterioridad que un oferente incurso en una inhabilidad
+general  o  especial  hubiere  suscrito  el  contrato,  dará  lugar  a   la
+terminación unilateral del contrato conforme el numeral 5 del  artículo  94
+de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+
+5.  Obligaciones  de  los   oferentes:   Los   oferentes   deberán   revisar
+   cuidadosamente el  pliego y cumplir con todos los requisitos  solicitados
+   en él. Su omisión o descuido al revisar los documentos no le relevará  de
+   cumplir lo señalado en su propuesta.
+
+1.5.1 Obligaciones del adjudicatario en la aplicación  de  transferencia  de
+tecnología:
+
+En relación con los  bienes  que  se  encuentran  publicados  en  el  Portal
+Institucional del Servicio Nacional de Contratación Pública  y  que  constan
+en el Anexo 20 de la Codificación de Resoluciones del Servicio  Nacional  de
+Contratación Pública, es obligación del proveedor adjudicado,  previo  a  la
+suscripción del respectivo contrato, entregar a la entidad  contratante,  en
+calidad de documento habilitante, y dentro del término que establece la  Ley
+Orgánica del Sistema Nacional de Contratación Pública para  el  efecto,  los
+requerimientos  que  se  indican  a  continuación,   según   el   nivel   de
+transferencia de tecnología:
+
+Nivel de transferencia de tecnología TT 1:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología  nivel  1  “bienes   primarios,   bienes   de   baja   intensidad
+tecnológica, y bienes de media-baja intensidad tecnológica” que consta  como
+Anexo 20 de la Codificación y Actualización de Resoluciones emitidas por  el
+SERCOP,  mismos  que  podrán  ser  actualizados  o  modificados   según   la
+metodología definida por el Servicio Nacional de Contratación Pública,  para
+lo cual bastará su notificación y publicación  en  el  Portal  Institucional
+del Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Manual de uso y manejo de producto, en formato  digital  y  en  físico
+      (Para el repositorio del Servicio  Nacional  de  Contratación  Pública
+      bastará en formato digital);
+    • CD o información en línea  donde  se  dé  a  conocer  información  del
+      producto, procedencia  de  materias  primas,  fechas  y  registros  de
+      producción;
+    • Certificados de calidad o normativa (escaneados) bajo los  cual  fuere
+      desarrollado el producto (en caso que existiesen);
+    • Certificados de calibración del producto, dependiendo del caso; o,
+    • Cualquier otra información sobre estándares industriales  de  medidas,
+      pruebas y control de calidad.
+
+En caso que el proveedor adjudicado, dentro del término  para  suscribir  el
+respectivo contrato no presente los  requerimientos  correspondientes  a  la
+Transferencia de Tecnología  Nivel  1,  será  causal  para  que  la  entidad
+contratante lo declare adjudicatario fallido.
+
+Así mismo, en caso de que  el  Servicio  Nacional  de  Contratación  Pública
+identifique  el  incumplimiento  de  la  entrega   de   los   requerimientos
+correspondientes a la Transferencia  de  Tecnología  Nivel  1,  aplicará  el
+procedimiento establecido en los artículos 107 y 108 de la Ley Orgánica  del
+Sistema  Nacional  de  Contratación  Pública,  por  haberse  configurado  la
+infracción establecida en el literal d) del  artículo  106  de  la  referida
+Ley, y  notificará  a  la  entidad  contratante  para  que  proceda  con  la
+declaratoria  de  adjudicatario  fallido  o  contratista  incumplido,  según
+corresponda.
+
+Nivel de transferencia de tecnología TT 2:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 2 “bienes de  baja  intensidad  tecnológica,  y  bienes  de
+media-baja  intensidad  tecnológica”,  que  consta  como  Anexo  20  de   la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP,  mismos
+que podrán ser actualizados o modificados según la metodología definida  por
+el Servicio Nacional de  Contratación  Pública,  para  lo  cual  bastará  su
+notificación y publicación en el Portal Institucional del Servicio  Nacional
+de Contratación Pública.
+
+Requerimientos:
+
+    • Cronograma del  taller  o  curso  de  capacitación   para  conocer  el
+      correcto uso o manejo del producto; o,
+    • CD donde se exponga el curso o taller de capacitación que fue  dado  a
+      personal ecuatoriano.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1.
+
+En caso que el proveedor adjudicado, dentro del término  para  suscribir  el
+respectivo contrato, no presente los requerimientos  correspondientes  a  la
+Transferencia de Tecnología  Nivel  2,  será  causal  para  que  la  entidad
+contratante lo declare adjudicatario fallido.
+
+Así mismo, en caso de que  el  Servicio  Nacional  de  Contratación  Pública
+identifique  el  incumplimiento  de  la  entrega   de   los   requerimientos
+correspondientes a la Transferencia  de  Tecnología  Nivel  2,  aplicará  el
+procedimiento establecido en los artículos 107 y 108 de la Ley Orgánica  del
+Sistema  Nacional  de  Contratación  Pública,  por  haberse  configurado  la
+infracción establecida en el literal d) del  artículo  106  de  la  referida
+Ley, y  notificará  a  la  entidad  contratante  para  que  proceda  con  la
+declaratoria  de  adjudicatario  fallido  o  contratista  incumplido,  según
+corresponda.
+
+Nivel de transferencia de tecnología TT 3:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 3 “bienes de media-alta intensidad  tecnológica,  y  bienes
+de  alta  intensidad  tecnológica”,  que  consta  como  Anexo   20   de   la
+Codificación y Actualización de Resoluciones emitidas  por  el  SERCOP,  los
+mismos que podrán  ser  actualizados  o  modificados  según  la  metodología
+definida por el Servicio Nacional de  Contratación  Pública,  para  lo  cual
+bastará su  notificación  y  publicación  en  el  Portal  Institucional  del
+Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Compromisos para alcanzar mantenimiento preventivo en el país,  sea  a
+      través: de alianzas estratégicas para contar con  centros  autorizados
+      nacionales,  capacitación a empresas  locales,  o  capacitación  a  la
+      entidad requirente;
+    • Compromisos para alcanzar mantenimiento correctivo en el país,  sea  a
+      través de: alianzas estratégicas para contar con  centros  autorizados
+      nacionales,  capacitación a empresas  locales,  o  capacitación  a  la
+      entidad requirente; o,
+    • Cronograma para proveer de capacitación y entrenamiento especializado,
+      en los  talleres  o  centros   autorizados  conseguidos  con  el  ítem
+      anterior, para el personal universitario y de institutos técnicos.  El
+      objeto  es  involucrar  tanto  a  la  academia  como  a  los  técnicos
+      institucionales con la tecnología adquirida,  y  así,  difundir  dicho
+      conocimiento sin perjuicio de cumplir con los ítems anteriores.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1 y TT2.
+
+En el caso que, el proveedor adjudicado, dentro del término  para  suscribir
+el respectivo contrato no presente los requerimientos correspondientes a  la
+Transferencia de Tecnología  Nivel  3,  será  causal  para  que  la  entidad
+contratante lo declare adjudicatario fallido.
+
+Así mismo, en el caso que, el  Servicio  Nacional  de  Contratación  Pública
+identifique  el  incumplimiento  de  la  entrega   de   los   requerimientos
+correspondientes a la Transferencia  de  Tecnología  Nivel  3,  aplicará  el
+procedimiento establecido en los artículos 107 y 108 de la Ley Orgánica  del
+Sistema  Nacional  de  Contratación  Pública,  por  haberse  configurado  la
+infracción establecida en el literal d) del  artículo  106  de  la  referida
+Ley, y  notificará  a  la  entidad  contratante  para  que  proceda  con  la
+declaratoria  de  adjudicatario  fallido  o  contratista  incumplido,  según
+corresponda.
+
+
+6. Preguntas,  respuestas  y  aclaraciones:  Todo  interesado  en  presentar
+   propuestas en el procedimiento tiene la facultad y el derecho de,  en  el
+   caso de detectar un error, omisión o inconsistencia en el  pliego,  o  si
+   necesita una aclaración sobre una parte de los documentos, solicitar a la
+   Comisión Técnica o a la máxima autoridad o su delegado según corresponda,
+   a través del Portal Institucional del Servicio Nacional  de  Contratación
+   Pública, la respuesta a su inquietud o consulta.  La  entidad  responderá
+   las preguntas o realizará las aclaraciones que fueren necesarias a través
+   del Portal Institucional del Servicio Nacional de  Contratación  Pública,
+   de acuerdo a lo establecido en  la convocatoria.
+
+
+7. Modificación del pliego: La Comisión Técnica o la máxima autoridad de  la
+   entidad contratante  o  su  delegado  según  corresponda,  podrán  emitir
+   aclaraciones o modificaciones respecto de  las  condiciones  particulares
+   del pliego, por propia iniciativa o  por  pedido  de  los  participantes,
+   siempre que éstas no alteren el presupuesto referencial ni el objeto  del
+   contrato,  modificaciones  que  deberán  ser  publicadas  en  el   Portal
+   Institucional del Servicio Nacional  de  Contratación  Pública  hasta  el
+   término máximo para responder preguntas.
+
+La máxima autoridad de la entidad contratante o su delegado,  podrá  ajustar
+el  cronograma  de  ejecución  del  procedimiento  precontractual   con   la
+motivación  respectiva.  Todo   cambio   será   publicado   en   el   Portal
+Institucional  del  Servicio  Nacional  de  Contratación  Pública   y  podrá
+realizarse de conformidad a la normativa expedida por el  Servicio  Nacional
+de Contratación Pública.
+
+8. Convalidación de errores de forma: Si se presentaren  errores  de  forma,
+   los oferentes, en el término previsto en el cronograma contado  a  partir
+   de la fecha de notificación, podrán convalidarlos, previa petición de  la
+   entidad contratante, conforme  a  lo  previsto  en  al  artículo  23  del
+   Reglamento  General  de  la  Ley  Orgánica  del   Sistema   Nacional   de
+   Contratación Pública y en la normativa expedida  por el Servicio Nacional
+   de Contratación Pública  para el efecto.
+
+9. Causas de rechazo: Luego de evaluados los documentos  de  la  oferta,  la
+   Comisión Técnica o el delegado de la máxima  autoridad,  según  el  caso,
+   rechazará una oferta por las siguientes causas:
+
+
+   1. Si no cumpliera los requisitos exigidos en las condiciones generales y
+       particulares, que  incluyen las especificaciones técnicas o  términos
+      de referencia, y los formularios de este pliego.
+
+
+   2. Si se hubiera entregado y/o presentado la oferta en lugar distinto  al
+      fijado o después de la hora establecida para ello,  o  no  se  hubiera
+      subido el valor de la propuesta al Portal Institucional  del  Servicio
+      Nacional de Contratación Pública.
+
+
+   3. Cuando las ofertas contengan errores sustanciales, y/o evidentes,  que
+      no puedan ser convalidados, de acuerdo a lo señalado en  la  normativa
+      expedida por el Servicio Nacional de Contratación Pública.
+
+
+   4. Si el contenido de cualquiera  de  los  acápites  de  los  formularios
+      difiriere del previsto en el pliego, condicionándolo o  modificándolo,
+      de tal forma que se  alteren  las  condiciones  contempladas  para  la
+      ejecución del contrato. De igual forma, si se condicionara  la  oferta
+      con la presentación de cualquier documento o información.
+
+
+   5. Si el oferente no hubiere atendido la petición de convalidación, en el
+      término fijado para el  efecto,  de  acuerdo  a  lo  dispuesto  en  el
+      artículo 23 del Reglamento General de  la  Ley  Orgánica  del  Sistema
+      Nacional de Contratación Pública y en la normativa  expedida   por  el
+      Servicio Nacional de Contratación Pública, siempre y cuando  el  error
+      no convalidado constituya causal de rechazo.
+
+
+6. Si al momento de la presentación de la propuesta, el oferente  interesado
+no se encontrare habilitado en el Registro Único de Proveedores.
+
+1.9.7 Las ofertas de las personas jurídicas que no cumplan  con  las  reglas
+de participación expedidas por el Servicio Nacional de Contratación Pública
+para el efecto.
+
+
+Una oferta será descalificada  por  la  entidad  contratante  en  cualquier
+momento del procedimiento si, de la revisión de los documentos  que  fueren
+del caso, pudiere evidenciarse inconsistencia, simulación o inexactitud  de
+la información  presentada.  La  entidad  contratante  podrá  solicitar  al
+oferente la documentación que estime pertinente y que ha sido  referida  en
+cualquier documento de la oferta, no relacionada con el objeto mismo de  la
+contratación, para validar la oferta presentada del procedimiento.
+
+
+La  adjudicación  se  circunscribirá  a  las  ofertas  calificadas.  No  se
+aceptarán ofertas alternativas.
+
+
+Ningún oferente podrá intervenir con más de una oferta.
+
+
+10.  Adjudicación  y  notificación:  La  máxima  autoridad  de  la   entidad
+   contratante o su delegado, con base en el resultado de la  evaluación  de
+   las ofertas, reflejado en el informe elaborado por los integrantes de  la
+   Comisión Técnica o  el  responsable  de  evaluar  las  propuestas,  según
+   corresponda, adjudicará el contrato a la propuesta más  conveniente  para
+   los intereses institucionales, conforme a los términos establecidos en el
+   numeral 18 del artículo 6 de la Ley  Orgánica  del  Sistema  Nacional  de
+   Contratación Pública, mediante Resolución motivada,  y  con  sujeción  al
+   contenido  de  la  normativa  expedida   por  el  Servicio  Nacional   de
+   Contratación Pública  para el efecto.
+
+
+La  notificación  de  la  adjudicación  realizada  en  los  términos  antes
+referidos, se la realizará a través del Portal Institucional  del  Servicio
+Nacional de Contratación Pública.
+
+11. Garantías.- En forma previa a la suscripción de todo  contrato  derivado
+   de los procedimientos establecidos en este pliego, se  deberán  presentar
+   las garantías que fueren aplicables de  acuerdo  a  lo  previsto  en  los
+   artículos 74, 75 y  76  de  la  Ley  Orgánica  del  Sistema  Nacional  de
+   Contratación Pública, en cualquiera de  las  formas  contempladas  en  el
+   artículo 73 ibídem.
+
+
+   1. La garantía de fiel cumplimiento del contrato se rendirá por un  valor
+      igual al cinco por ciento (5%) del monto total del mismo,  en  una  de
+      las formas establecidas en el artículo  73  de  la  Ley  Orgánica  del
+      Sistema Nacional de Contratación Pública, la que deberá ser presentada
+      previo a la suscripción del contrato. No se exigirá esta  garantía  en
+      los contratos cuya cuantía sea  menor  a  multiplicar  el  coeficiente
+      0.000002 por el Presupuesto Inicial  del  Estado  del  correspondiente
+      ejercicio económico, ni en aquellos de adquisición de  bienes  muebles
+      que se entreguen al momento de efectuarse el pago.
+
+1.11.2 La garantía de buen uso del anticipo se rendirá por  un  valor  igual
+al determinado y previsto en el presente pliego, que respalde  el  100%  del
+monto a recibir por este concepto, la que deberá ser  presentada  previo  la
+entrega del mismo.
+
+
+El valor que por concepto de anticipo otorgará la  entidad  contratante  al
+contratista, no podrá ser superior al setenta por ciento  (70%)  del  monto
+adjudicado. El valor será depositado  en  una  cuenta  que  el  contratista
+aperturará en un banco estatal  o  privado,  en  el  que  el  Estado  tenga
+participación accionaria o de capital superior al cincuenta por ciento.  El
+adjudicatario, en forma  previa  a  la  suscripción  del  contrato,  deberá
+presentar, un certificado de la institución bancaria o financiera en la que
+tenga a su disposición una cuenta en la cual serán depositados los  valores
+correspondientes al anticipo, de haber sido concedido.
+
+
+El  contratista  deberá  autorizar   expresamente   en   el   contrato   el
+levantamiento del sigilo bancario de la cuenta en la que será depositado el
+anticipo  recibido.  El  administrador  del  contrato  o  el   fiscalizador
+designado por la entidad contratante verificará que los movimientos  de  la
+cuenta correspondan estrictamente al  procedimiento  de  devengamiento  del
+anticipo o ejecución contractual.
+
+
+1.11.3 Las garantías técnicas de los bienes materia del contrato que  deben
+ser entregadas por el contratista, cumplirán las  condiciones  establecidas
+en el artículo 76 de la Ley Orgánica del Sistema Nacional  de  Contratación
+Pública. En caso contrario, el adjudicatario deberá  entregar  una  de  las
+garantías señaladas en el artículo 73 de la referida Ley por el valor total
+de los bienes.
+
+
+Los  términos  de  la  garantía  técnica  solicitada  deberán  observar  lo
+establecido  en  la  normativa    expedida  por  el  Servicio  Nacional  de
+Contratación Pública en lo que respecta a  la  aplicación  de  la  vigencia
+tecnológica, en los casos pertinentes.
+
+
+La entidad contratante no podrá exigir  garantía  adicional  alguna  a  las
+previstas en la Ley Orgánica del Sistema Nacional de Contratación  Pública.
+Sin embargo, podrá requerir los seguros o condiciones  de  protección  para
+las  personas  que  presten  sus  servicios  en  la  provisión,  entrega  y
+colocación de bienes y en cualquier tipo de prestación  de  servicios,  que
+considere pertinentes.
+
+Las garantías se devolverán conforme lo previsto en los artículos 77 de  la
+Ley Orgánica del  Sistema  Nacional  de  Contratación  Pública  y  118  del
+Reglamento General de la Ley Orgánica del Sistema Nacional de  Contratación
+Pública.
+
+
+12. Cancelación del procedimiento: En cualquier  momento  comprendido  entre
+   la convocatoria y hasta veinticuatro (24) horas  antes  de  la  fecha  de
+   presentación  de  las  ofertas,  la  máxima  autoridad  de   la   entidad
+   contratante  podrá  declarar   cancelado   el   procedimiento,   mediante
+   resolución debidamente motivada,  de  acuerdo  a  lo  establecido  en  el
+   artículo 34 de la Ley  Orgánica  del  Sistema  Nacional  de  Contratación
+   Pública.
+
+
+13. Declaratoria de  procedimiento  desierto:  La  máxima  autoridad  de  la
+   entidad  contratante  o  su   delegado   podrá   declarar   desierto   el
+   procedimiento, en los casos  previstos  en  el  artículo  33  de  la  Ley
+   Orgánica del Sistema Nacional de Contratación Pública según corresponda.
+
+
+Dicha declaratoria se realizará mediante resolución de la máxima  autoridad
+de la entidad contratante o su delegado, fundamentada en razones  técnicas,
+económicas y/o jurídicas. Una vez declarado desierto el  procedimiento,  la
+máxima autoridad o su delegado podrá disponer su archivo o su reapertura.
+
+
+14. Adjudicatario fallido: En caso de que el  adjudicatario  no  suscribiere
+   el  contrato  dentro  del  término  previsto,  por  causas  que  le  sean
+   imputables, la máxima autoridad de la entidad contratante o  su  delegado
+   le declarará adjudicatario fallido conforme lo previsto en el artículo 35
+   de la Ley Orgánica  del  Sistema  Nacional  de  Contratación  Pública,  y
+   seguirá el procedimiento previsto en la referida Ley y  en  la  normativa
+   expedida por el  Servicio  Nacional  de  Contratación  Pública   para  el
+   efecto. Una vez que el Servicio Nacional de  Contratación  Pública   haya
+   sido  notificado  con  tal  resolución,  actualizará   el   Registro   de
+   Incumplimientos,  suspendiendo  del  Registro  Único  de  Proveedores  al
+   infractor y procederá de conformidad con lo prescrito en el  artículo  98
+   de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+
+Cuando la entidad contratante haya  cumplido  lo  previsto  en  el  párrafo
+precedente, llamará al oferente que ocupó el segundo lugar en el  orden  de
+prelación para que suscriba el  contrato,  quien  deberá  cumplir  con  los
+requisitos establecidos  para  el  oferente  adjudicatario,  incluyendo  la
+obligación de mantener su oferta, en los términos que fue presentada, hasta
+la  suscripción  del  contrato,  siempre  que  convenga  a  los   intereses
+nacionales o institucionales. Si el oferente llamado como segunda opción no
+suscribe el contrato, la entidad declarará desierto  el  procedimiento  por
+oferta fallida, sin perjuicio de  la  declaración  de  fallido  al  segundo
+adjudicatario.
+
+
+15. Suscripción del contrato: Dentro del  término  de  15  días,  contado  a
+   partir de la fecha de notificación de la adjudicación, es decir, a partir
+   de la fecha en la cual la entidad contratante haya publicado en el Portal
+   Institucional  del  Servicio  Nacional  de   Contratación   Pública    la
+   resolución correspondiente, la entidad  suscribirá  el  contrato  que  es
+   parte integrante de este pliego, de  acuerdo  a  lo  establecido  en  los
+   artículos 68 y 69 de la Ley Orgánica del Sistema Nacional de Contratación
+   Pública y 112 y 113 de  su Reglamento General y lo publicará en el Portal
+   Institucional del Servicio Nacional de Contratación Pública.  La  entidad
+   contratante realizará la publicación de la resolución de adjudicación  en
+   el mismo día en que ésta haya sido suscrita.
+
+Según lo previsto en la Ley Orgánica del Sistema  Nacional  de  Contratación
+Pública, los contratos cuya cuantía sea igual o superior a la base  prevista
+para la licitación de bienes  y  servicios  o  licitación  de  obras,  según
+corresponda,  se protocolizarán ante  Notario  Público,  incorporándose  los
+documentos establecidos en el artículo 112 del Reglamento General a  la  Ley
+Orgánica del Sistema Nacional de Contratación Pública.
+
+1.15.1  Levantamiento de sigilo bancario.- No obstante de lo señalado en  el
+tercer inciso del número 1.11.2  de  la  presente  Sección,  el  contratista
+deberá autorizar  expresamente  en  el  contrato  al  Servicio  Nacional  de
+Contratación Pública o a los  organismos  de  control  correspondientes,  el
+levantamiento del sigilo bancario de las cuentas nacionales  y  extranjeras,
+que se encuentran a su nombre y a nombre de su representante  legal,  en  el
+caso de personas jurídicas; o, del procurador común de  los  compromisos  de
+asociación o consorcio o de las asociaciones o consorcios constituidos;  así
+como, de los socios o partícipes del consorcio o asociación.
+
+16. Precios y reajuste: Todo contrato cuya  forma  de  pago  corresponda  al
+   sistema de precios unitarios se sujetará al reajuste  de  precios,  salvo
+   que el contratista renuncie expresamente al mismo y así se  haga  constar
+   en el contrato, tal como lo prevé el segundo inciso del artículo 131  del
+   Reglamento  General  de  la  Ley  Orgánica  del   Sistema   Nacional   de
+   Contratación Pública.
+
+No  hay  opción  ni  lugar  a  reclamo  alguno  por  los  precios  unitarios
+ofertados. Sin embargo, podrán ser reajustados si durante la  ejecución  del
+contrato se produjeren variaciones de los  costos  de  sus  componentes.  El
+reajuste se efectuará mediante la aplicación de fórmula(s) elaborada(s)  con
+base a  los  precios  unitarios  de  la  oferta  adjudicada  y  conforme  lo
+dispuesto en el Título IV, “De los contratos”, Capítulo  VII,  “Reajuste  de
+precios” de la Ley Orgánica del Sistema Nacional de Contratación  Pública  y
+en su Reglamento General.
+
+
+17. Moneda de cotización y pago: Las ofertas deberán presentarse en  dólares
+   de los Estados Unidos de América. Los pagos se  realizarán  en  la  misma
+   moneda.
+
+
+18.  Reclamos:  Para  el  evento  de  que  los  oferentes  o  adjudicatarios
+   presenten reclamos relacionados con su oferta, se  deberá  considerar  lo
+   establecido en los artículos 102 y 103 de la  Ley  Orgánica  del  Sistema
+   Nacional de Contratación Pública y el procedimiento correspondiente,  así
+   como lo establecido en la normativa expedida por el Servicio Nacional  de
+   Contratación Pública.
+
+
+19. Administración del contrato: La entidad contratante designará de  manera
+   expresa un administrador del  contrato,  quien  velará  por  el  cabal  y
+   oportuno cumplimiento de todas y cada una de las  obligaciones  derivadas
+   del contrato.  El administrador deberá canalizar y coordinar todas y cada
+   una de las obligaciones contractuales convenidas.
+ 
+El administrador del contrato, queda autorizado para realizar las  gestiones
+inherentes a su ejecución,  incluyendo  aquello  que  se  relaciona  con  la
+aceptación o  no  de  los  pedidos  de  prórroga  que  pudiera  formular  el
+contratista.
+
+El administrador será el encargado de la administración  de  las  garantías,
+durante todo el período de vigencia del contrato. Adoptará las acciones  que
+sean necesarias para evitar retrasos injustificados e impondrá las multas  y
+sanciones a que hubiere lugar,  así  como  también  deberá  atenerse  a  las
+condiciones  generales  y  específicas  del   pliego  que  forma  parte  del
+contrato.  Sin perjuicio de que esta actividad sea coordinada  con  el  área
+financiera (tesorería) de la entidad contratante a la que le corresponde  el
+control y custodia de las garantías.
+
+Respecto de su gestión reportará a la autoridad  institucional  señalada  en
+el contrato, debiendo comunicar todos  los  aspectos  operativos,  técnicos,
+económicos y de cualquier naturaleza que pudieren  afectar  al  cumplimiento
+del objeto del contrato.
+
+Tendrá bajo su responsabilidad la aprobación y validación de  los  productos
+e informes que emita y/o presente el contratista y suscribirá las actas  que
+para tales efectos se elaboren.
+
+20. Transferencia tecnológica: En  todos  los  contratos  de  provisión  de
+   bienes se observará y aplicará, en lo que fuere pertinente, la normativa
+   expedida por el Servicio Nacional de Contratación Pública al respecto de
+   la transferencia tecnológica,  que  permita  a  la  entidad  contratante
+   asumir la operación y utilización de la infraestructura y los bienes que
+   la  integran,  la  transferencia  de  conocimientos  técnicos   que   el
+   contratista debe cumplir con el personal y la  eventual  realización  de
+   posteriores desarrollos o procesos de  control  y  seguimiento,  de  así
+   requerirse. En las condiciones específicas del contrato se  agregará  la
+   cláusula pertinente, cuando corresponda.
+
+
+21. Oferta de origen ecuatoriano, metodología y Valor Agregado  Ecuatoriano:
+   Es obligatoria, la aplicación del Valor Agregado Ecuatoriano como uno  de
+   los criterios de evaluación y adjudicación en todos los procedimientos de
+   adquisición de bienes y/o prestación de servicios,  a  excepción  de  los
+   procedimientos  de  Menor  Cuantía,  en  cuyos  casos  se  priorizara  la
+   contratación preferente de conformidad con  el  artículo  52  de  la  Ley
+   Orgánica del Sistema Nacional de Contratación Pública,
+
+El porcentaje de Valor Agregado Ecuatoriano es el  valor  mínimo  a  cumplir
+para definir si un bien y/o servicio es de origen ecuatoriano.
+
+La  metodología  a  utilizar  para  la  determinación  del  Valor   Agregado
+Ecuatoriano de las ofertas en los procedimientos  para  la  contratación  de
+bienes  y  servicios,  será  la  expedida  por  el  Servicio   Nacional   de
+Contratación Pública.
+
+Para que una oferta sea considerada como de  origen  ecuatoriano,  el  Valor
+Agregado Ecuatoriano de ella, obtenido a  partir  de  la  aplicación  de  la
+metodología señalada en el párrafo precedente, deberá ser igual  o  superior
+al  dispuesto  en  la  normativa   expedida  por  el  Servicio  Nacional  de
+Contratación Pública  para el efecto.
+
+El Valor Agregado Ecuatoriano de una oferta se lo obtendrá a  partir  de  la
+información que  los  proveedores  suministrarán  a  través  del  formulario
+“Declaración de Valor Agregado Ecuatoriano” que es  parte  de  la  normativa
+expedida por el Servicio Nacional de Contratación Pública para el efecto.
+
+Se presentará un formulario por cada tipo de bienes y servicios  que  fueran
+parte del procedimiento de contratación, según su tipología, y se  utilizará
+la metodología señalada.
+
+Toda entidad contratante deberá, en forma  obligatoria,  incorporar  en  las
+actas de entrega-recepción, sean parciales  o  definitivas,  la  declaración
+del contratista respecto del cumplimiento  del  Valor  Agregado  Ecuatoriano
+propuesto y aceptado para los bienes y/o servicios entregados  o  prestados;
+y, para el caso de que  el  contratista  no  sea  productor  de  los  bienes
+contratados, como parte del proceso de entrega  recepción,  deberá  adjuntar
+obligatoriamente las facturas de su adquisición.
+
+1.22  Vigencia Tecnológica: Para el caso de la adquisición, arrendamiento  y
+prestación de servicios en los que  se  requiera  de  equipos  informáticos,
+equipos de impresión, vehículos, equipos médicos y  proyectores,  se  deberá
+aplicar el principio de  vigencia  tecnológica,  conforme  a  la  regulación
+emitida por el Servicio Nacional de Contratación Pública.
+
+1.23  Control ambiental: En los casos  que  sea  necesario,  el  contratista
+deberá realizar  todas  las  actividades  necesarias  para  evitar  impactos
+ambientales  negativos,  durante  el  período  de   ejecución   contractual,
+cumpliendo con la normativa ambiental vigente.
+
+
+1.24    Autoinvitación:   La   autoinvitación,   con   excepción   de    los
+procedimientos de Menor Cuantía, es una opción del Portal Institucional  del
+Servicio Nacional de Contratación  Pública  que   podrá  ser  utilizada  por
+cualquier oferente interesado en participar en  el  presente  procedimiento,
+que no se hubiere registrado  en  el  Código  del  Clasificador  Central  de
+Producto (CPC) correspondiente, para lo cual deberá proceder  previamente  a
+recategorizarse en el Servicio Nacional de Contratación Pública.
+
+
+1.25. Visitas al sitio de entrega/instalación de bienes: En el caso  de  que
+la entidad contratante considerare necesario el cumplimiento de  una  visita
+técnica al sitio donde se deberán entregar/instalar  los  bienes,  éstas  se
+podrán realizar en cualquier momento y hasta la fecha límite de  entrega  de
+ofertas. En ningún caso este requisito será obligatorio ni  las  condiciones
+de la visita podrán ser discriminatorias.
+
+1.26  Inconsistencia, simulación y/o inexactitud de la  información:  En  el
+caso de que la entidad contratante  encontrare  que  existe  inconsistencia,
+simulación o inexactitud en  la  información  presentada  por  el  oferente,
+adjudicatario o contratista, la máxima autoridad de la  entidad  contratante
+o  su  delegado,  descalificará  del  procedimiento   de   contratación   al
+proveedor, lo declarará  adjudicatario  fallido  o  contratista  incumplido,
+según corresponda y, en  último  caso,  previo  al  trámite  de  terminación
+unilateral, sin perjuicio además, de las acciones judiciales a  que  hubiera
+lugar.
+
+                                 SECCIÓN II
+                  METODOLOGÍA DE EVALUACIÓN DE LAS OFERTAS
+
+2.1   Metodología de evaluación  de  las  ofertas:   La  evaluación  de  las
+ofertas se encaminará a proporcionar una información imparcial sobre si  una
+oferta debe ser rechazada y cuál de ellas cumple con el  concepto  de  mejor
+costo en los términos establecidos en el numeral 18 del  artículo  6  de  la
+Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+Se establecen de manera general para  ello  dos  etapas:  la  primera,  bajo
+metodología “Cumple / No Cumple”, en  la  que  se  analizan  los  documentos
+exigidos cuya presentación permite habilitar las propuestas  (integridad  de
+la oferta), y la verificación del cumplimiento de capacidades mínimas; y  la
+segunda, en  la  que  se  evaluarán,  mediante  parámetros  cuantitativos  o
+valorados, las mayores capacidades  de  entre  los  oferentes  que  habiendo
+cumplido la etapa anterior, se  encuentren  aptos  para  esta  calificación.
+Únicamente en los procedimientos de  Subasta  Inversa  Electrónica  y  Menor
+Cuantía no se cumplirá la etapa de evaluación valorada, pues  de  entre  los
+participantes  que,  habiendo  presentado  su  manifestación   de   interés,
+cumplieran con las capacidades mínimas, las  especificaciones  técnicas  del
+bien y/o servicio, se invitará  a  uno  solo  de  ellos  para  presentar  su
+oferta.
+
+2.2 Parámetros de Evaluación: Las entidades contratantes deberán acoger  los
+parámetros de evaluación previstos por el Servicio Nacional de  Contratación
+Pública,  pudiendo  escoger  adicionalmente  otros  que   respondan   a   la
+necesidad, naturaleza y objeto de cada procedimiento  de  contratación;  los
+que serán analizados y evaluados  al  momento  de  la  calificación  de  las
+ofertas.
+
+La entidad contratante, bajo su responsabilidad,  deberá  asegurar  que  los
+parámetros de evaluación publicados en el Portal Institucional del  Servicio
+Nacional de Contratación Pública sean los que realmente se utilizarán en  el
+procedimiento.
+
+
+2.3 De la evaluación: Las capacidades requeridas a través de los  parámetros
+de evaluación serán analizadas con cualquiera de estas opciones:
+
+a) Utilizando una única etapa de evaluación  a  través  de  la  metodología
+   “Cumple/No Cumple”, cuando se  trate  de  un  procedimiento  de  Subasta
+   Inversa Electrónica, Menor Cuantía de  obras,  bienes  o  servicios,  y,
+   contratación directa de consultoría; y,
+
+
+b) Utilizando las dos etapas de evaluación señaladas  en  el  numeral  2.1,
+   para todos los demás procedimientos de contratación de Régimen Común; la
+   primera, bajo la metodología “Cumple / No Cumple” y posteriormente, solo
+   con los oferentes calificados, la  segunda  que  será  “Por  Puntaje”  a
+   través del Portal Institucional del Servicio  Nacional  de  Contratación
+   Pública.
+
+Se estará a la metodología “Cumple / No Cumple” cuando el  objetivo  sea  la
+determinación de cumplimiento de una condición o capacidad mínima por  parte
+del oferente y que  sea  exigida  por  la  entidad  contratante  (Requisitos
+mínimos).
+
+Los  índices  financieros  previstos  en  el  pliego,   en   caso   de   ser
+considerados,  no  constituirán   un   requisito   mínimo   de   obligatorio
+cumplimiento y en consecuencia tendrán un carácter informativo.
+
+Se estará a  la  metodología  “Por  Puntaje”  cuando  el  objetivo  sea  el
+establecimiento de mejores condiciones o capacidades de entre los oferentes
+que han acreditado previamente una condición o capacidad mínima requerida.
+
+
+a. Primera Etapa: Integridad de las ofertas  y  verificación  de  requisitos
+mínimos.  Metodología “Cumple/ No Cumple”
+
+a.1. Integridad de las ofertas.- Se revisará que las ofertas incluyan en  el
+formulario único los documentos requeridos en las  condiciones  particulares
+del pliego según la naturaleza del procedimiento de contratación  todos  los
+formularios definidos en el presente pliego, conforme el siguiente detalle:
+
+   I. Formulario Único de la Oferta
+
+  II. Formulario de compromiso de asociación o consorcio
+
+El Formulario Único  de  la  Oferta  contendrá  los  documentos,  claramente
+descritos  en  las  condiciones  particulares  de  los   pliegos   para   la
+contratación de bienes y/o servicios
+
+Aquellas ofertas que contengan los  Formularios  de  la  Oferta  debidamente
+elaborados y suscritos, pasarán a  la  etapa  de  evaluación  “cumple  /  no
+cumple”; caso contrario serán rechazadas.
+
+a.2.  Verificación  de  requisitos  mínimos  y  especificaciones   técnicas:
+Evaluación de la oferta técnica (cumple / no  cumple).-  Los  parámetros  de
+calificación  deberán  estar  definidos  y  dimensionados  por  la   entidad
+contratante,  no  darán  lugar  a  dudas,  ni  a  interpretación  o   a   la
+subjetividad del evaluador, se  considerarán  parámetros  técnico-económicos
+con dimensionamiento de mínimos admisibles y de obligatorio cumplimiento.
+
+De acuerdo a la naturaleza del objeto de la contratación, la  entidad  podrá
+acoger y considerar varios  parámetros  de  entre  los  establecidos  en  el
+Portal Institucional del Servicio Nacional de  Contratación  Pública  o  los
+sugeridos a manera de ejemplo: equipo mínimo,  experiencia  general  mínima,
+personal  técnico   mínimo,   experiencia   personal   técnico,   etc.    El
+cumplimiento de los parámetros deberá ser absoluto, de manera  afirmativa  o
+negativa.   Solamente  aquellas  ofertas  que  cumplieran  con   todos   los
+parámetros establecidos podrán  habilitarse  para  la  siguiente  etapa  del
+procedimiento.
+
+En el  caso  que  la  entidad  contratante  considere  necesario  añadir  un
+parámetro adicional éste deberá ser debidamente sustentado, relacionado  con
+el objeto de la contratación y no contravenir la Ley  Orgánica  del  Sistema
+Nacional de Contratación Pública, su  Reglamento  o  la  normativa  expedida
+por  el  Servicio   Nacional   de   Contratación   Pública;   deberá   estar
+completamente definido, no será  restrictivo  ni  discriminatorio  y  deberá
+establecer su indicador y el medio de comprobación.
+
+Aquellas ofertas que  cumplan  integralmente  con  los  parámetros  mínimos,
+pasarán a la etapa de evaluación de  ofertas  con  puntaje,  caso  contrario
+serán descalificadas.
+
+b. Segunda Etapa: Evaluación por puntaje
+
+En esta etapa (que no es aplicable en los procedimientos de Subasta  Inversa
+Electrónica y Menor Cuantía) se procederá a la ponderación valorada  de  las
+condiciones diferenciadoras de las ofertas para cada uno de  los  parámetros
+señalados en el pliego, a partir de la acreditación de  mejores  condiciones
+que las fijadas como mínimos o máximos. En las condiciones particulares  del
+presente pliego se describen los parámetros por la entidad contratante  para
+este  procedimiento  de  contratación,  los  cuales  estarán   completamente
+definidos, no serán restrictivos o discriminatorios y contarán con el  medio
+de medición y comprobación. Podrá incorporarse otros  siempre  y  cuando  no
+contravengan la Ley Orgánica del Sistema Nacional de  Contratación  Pública,
+su  Reglamento  o  la  normativa  expedida  por  el  Servicio  Nacional   de
+Contratación Pública;  debiendo  estar  completamente  definidos,  no  serán
+restrictivos ni discriminatorios y deberá establecerse  su  indicador  y  el
+medio de comprobación.
+
+Dicha calificación permitirá la adecuada aplicación del  criterio  de  mejor
+costo previsto en los numerales 17 y 18 del artículo 6 de  la  Ley  Orgánica
+del Sistema Nacional de Contratación Pública . Por regla general, se  deberá
+adjudicar a la  oferta  que  obtenga  el  mayor  puntaje  de  acuerdo  a  la
+valoración de los  parámetros  y  cuyos  resultados  combinen  los  aspectos
+técnicos, financieros, legales y económicos de las ofertas.
+
+Al  evaluar  las  ofertas  presentadas  por  una  asociación,  consorcio   o
+compromiso de asociación o consorcio,  las  entidades  contratantes  deberán
+considerar los aportes de cada participante, con base en la información  que
+deberá desglosarse a través del Formulario correspondiente.
+
+En la metodología de evaluación por puntajes se observará  el  principio  de
+la proporcionalidad  o  ponderación  y  en  consecuencia  la  aplicación  de
+puntajes de “cero” no es pertinente.
+
+2.4. Índices financieros.- Corresponde a la entidad contratante señalar  en
+los pliegos los índices financieros que va a utilizar en  el  procedimiento
+de contratación y cuál es el valor mínimo/máximo para cada  uno  de  ellos,
+por lo que, los señalados en  los  modelos  de  pliegos  expedidos  por  el
+Servicio Nacional de Contratación Pública , son referenciales.
+
+
+El incumplimiento de los índices financieros no será causal de  rechazo  de
+la oferta.
+
+
+2.5.  Formulario para la elaboración de las ofertas: El oferente  presentará
+su oferta en base a la información contenida en el Formulario  Único  de  la
+Oferta.
+
+
+
+                                 SECCIÓN III
+                              FASE CONTRACTUAL
+
+
+3.1   Ejecución del contrato:
+
+
+3.1.1  Inicio,  planificación  y  ejecución  contractual:  El   contratista
+prestará los servicios o entregará los bienes dentro del plazo  establecido
+en el contrato.
+
+
+Iniciada la ejecución del contrato y durante toda la vigencia del mismo, el
+contratista analizará conjuntamente con el administrador  del  contrato  el
+cumplimiento del mismo, de acuerdo con el cronograma entregado por él en su
+oferta.  Por  razones  no   imputables   al   contratista   y   debidamente
+justificadas, el administrador del contrato podrá modificar y actualizar el
+cronograma de ejecución contractual.
+
+
+Igual actualización se efectuará cada  vez  que,  por  una  de  las  causas
+establecidas  en  el  contrato,  se  aceptase   modificaciones   al   plazo
+contractual.  Estos  documentos  servirán  para  efectuar  el  control  del
+cumplimiento de la ejecución del contrato, a efectos de definir el grado de
+cumplimiento del contratista.
+
+3.1.2 Cumplimiento de especificaciones o términos de referencia: Todos  los
+bienes a entregar o servicios a prestar deben cumplir en forma estricta con
+las especificaciones y términos de referencia requeridos respectivamente en
+el pliego y constantes en el contrato y dentro de las medidas y tolerancias
+establecidas y aprobados por la entidad contratante.
+
+
+En caso de que el contratista descubriere discrepancias entre los distintos
+documentos, deberá indicarlo inmediatamente al administrador, a fin de  que
+establezca el documento que prevalecerá sobre los  demás;  y,  su  decisión
+será definitiva.
+
+
+En caso de que cualquier dato o información no hubieren sido establecidos o
+el contratista no pudiere obtenerla directamente,  ésta  se  solicitará  al
+administrador  del  contrato.  La  administración   proporcionará,   cuando
+considere    necesario,    instrucciones    adicionales    para    ejecutar
+satisfactoriamente el contrato.
+
+
+3.1.3 Personal del contratista: El contratista  de  ser  el  caso  empleará
+personal en número suficiente para el cumplimiento del contrato  y  con  la
+debida experiencia.
+
+
+El administrador del  contrato  podrá  requerir  en  forma  justificada  al
+contratista, el reemplazo de cualquier integrante de  su  personal  que  lo
+considere incompetente o negligente en su oficio, se negare a  cumplir  las
+estipulaciones  del  contrato  y  sus  anexos,  o  presente  una   conducta
+incompatible con sus obligaciones.
+
+3.1.4 Materiales: Todos los materiales, instalaciones, suministros  y  demás
+elementos  que  se  utilicen  para  le  cabal  cumplimiento  del   contrato,
+cumplirán íntegramente las especificaciones técnicas de la oferta,  y  a  su
+falta, las instrucciones que imparta la administración del contrato.
+
+Los bienes a ser suministrados por el contratista serán nuevos,  sin  uso  y
+de  la  mejor  calidad.  La  administración  podrá  exigir,  cuando  así  lo
+considere necesario, para aquellos bienes que requieran de un tratamiento  o
+manejo especial, se coloquen sobre plataformas o superficies firmes  o  bajo
+cubierta, o que se almacenen en sitios o bodegas  cubiertas,  sin  que  ello
+implique un aumento en los precios y/o en los plazos contractuales.
+
+Los bienes almacenados, aun cuando se haya aprobado antes de su  uso,  serán
+revisados al momento de su utilización, para verificar  su  conformidad  con
+las especificaciones.
+
+
+3.1.5 Obligaciones del  contratista:  El  contratista  debe  contar  con  o
+disponer de todos los permisos y autorizaciones que le  habiliten  para  el
+ejercicio  de  su  actividad,  especialmente,   pero   sin   limitarse   al
+cumplimiento  de  legislación  ambiental,  seguridad  industrial  y   salud
+ocupacional,  legislación  laboral,  y  aquellos  términos  o   condiciones
+adicionales que se hayan establecidos en el contrato. Asimismo,  y  de  ser
+necesario y lo disponga el administrador del contrato, deberá realizar  y/o
+efectuar, colocar o dar todos los avisos y advertencias requeridos  por  el
+contrato o las leyes vigentes (señalética, letreros de peligro, precaución,
+etc.), para la debida protección del público  y  personal  del  contratista
+mismo, especialmente si las  actividades  afectan  la  vía  pública  o  las
+instalaciones de servicios públicos.
+
+
+Los sueldos y salarios del contratista con los trabajadores se  estipularán
+libremente, pero no serán inferiores a los mínimos legales vigentes  en  el
+país.
+
+
+El contratista deberá pagar los sueldos, salarios  y  remuneraciones  a  su
+personal, sin otros descuentos que aquellos autorizados por la  ley,  y  en
+total conformidad con las leyes vigentes. Los contratos de trabajo  deberán
+ceñirse estrictamente  a  las  leyes  laborales  del  Ecuador.  Las  mismas
+disposiciones aplicarán los subcontratistas a su personal.
+
+
+Serán  también  de  cuenta  del  contratista  y  a  su  costo,  todas   las
+obligaciones a las que está sujeto según las leyes,  normas  y  reglamentos
+relativos a la seguridad social.
+
+El contratista se comprometerá a no contratar a  personas  menores  de  edad
+para realizar actividad alguna durante la ejecución contractual; y  que,  en
+caso de que  las  autoridades  del  ramo  determinaren  o  descubrieren  tal
+práctica, se someterá  y  aceptará  las  sanciones  que  de  aquella  puedan
+derivarse, incluso la terminación unilateral y anticipada del contrato,  con
+las consecuencias legales y reglamentarias pertinentes.
+
+El contratista, en general, deberá cumplir con todas  las  obligaciones  que
+naturalmente se desprendan o emanen del contrato suscrito.
+Si el lugar donde se va a ejecutar la obra o  se  destinarán  los  bienes  y
+servicios  objeto  de  la  contratación  pertenece  al  ámbito   territorial
+determinado en el artículo 2  de  la  Ley  Orgánica  para  la  Planificación
+Integral  de  la  Circunscripción   Territorial   Especial   Amazónica,   el
+contratista en la ejecución del contrato contará con  al  menos  el  70%  de
+servicios  o  mano  de  obra  de  residentes  de  esa  Circunscripción,  con
+excepción  de  aquellas  actividades  para  las  que  no   exista   personal
+calificado  o  que  el  bien  sea  de  imposible  manufacturación   en   esa
+Circunscripción.
+
+3.1.6 Obligaciones de la contratante:
+
+   a. Designar al administrador del contrato.
+   b. Cumplir con las obligaciones establecidas en el  contrato,  y  en  los
+      documentos del mismo, en forma ágil y oportuna.
+   c. Dar solución a los problemas que se  presenten  en  la  ejecución  del
+      contrato, en forma oportuna.
+   d. Las demás, determinadas en el pliego y en el contrato.
+
+3.1.6.1 Obligaciones del contratante en la aplicación  de  transferencia  de
+tecnología:
+
+La entidad contratante, para los bienes que  apliquen  la  transferencia  de
+tecnología, mismos que se encuentran publicados en el  Portal  Institucional
+del Servicio Nacional de Contratación Pública y que constan en el  Anexo  20
+de la Codificación de Resoluciones del  Servicio  Nacional  de  Contratación
+Pública, exigirá previo a la firma del contrato, de manera  obligatoria,  la
+entrega de los requerimientos determinados para cada nivel de  transferencia
+tecnológica, según corresponda.
+
+Para los bienes correspondientes a los CPCs que corresponden  a  la  entrega
+de transferencia de tecnología de niveles 1  y  2,  la  entidad  contratante
+exigirá, de manera obligatoria al proveedor,  en  calidad  de  documentación
+habilitante para  la  suscripción  del  respectivo  contrato  y  dentro  del
+término  que  dispuesto  por  la  Ley  Orgánica  del  Sistema  Nacional   de
+Contratación Pública, los requerimientos que se indican a continuación:
+
+Nivel de transferencia de tecnología TT 1:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología  nivel  1  “bienes   primarios,   bienes   de   baja   intensidad
+tecnológica, y bienes de  media-baja  intensidad  tecnológica”,  que  consta
+como Anexo 20 de la Codificación y Actualización  de  Resoluciones  emitidas
+por el SERCOP, mismos que podrán ser actualizados  o  modificados  según  la
+metodología definida por el Servicio Nacional de Contratación Pública,  para
+lo cual bastará su notificación y publicación  en  el  Portal  Institucional
+del Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Manual de uso y manejo de producto, en formato  digital  y  en  físico
+      (Para el repositorio del Servicio  Nacional  de  Contratación  Pública
+      bastará en formato digital);
+    • CD o información en línea  donde  se  dé  a  conocer  información  del
+      producto, procedencia  de  materias  primas,  fechas  y  registros  de
+      producción;
+    • Certificados de calidad o normativa (escaneados) bajo los  cual  fuere
+      desarrollado el producto (en caso que existiesen);
+    • Certificados de calibración del producto, dependiendo del caso; o,
+    • Cualquier otra información sobre estándares industriales  de  medidas,
+      pruebas y control de calidad.
+
+La  entidad  contratante,  en  los  bienes  relacionados  a  los  CPCs   que
+corresponden a la entrega de transferencia de tecnología de nivel 1:
+
+    - Deberá, previo a la suscripción del contrato, exigir y  verificar  que
+      el adjudicatario haya publicado en el Repositorio de Transferencia  de
+      Tecnología  del  Portal  Institucional  del   Servicio   Nacional   de
+      Contratación Pública, los requerimientos correspondientes.
+
+
+    - En el caso que, la entidad contratante verifique que el  adjudicatario
+      no cumpla con estas  condiciones  y  requerimientos  de  transferencia
+      tecnológica nivel 1 para la suscripción del respectivo contrato,  esta
+      declarará al proveedor como adjudicatario fallido.
+
+Es importante señalar  que,  de  evidenciarse  el  incumplimiento  de  estos
+requerimientos por parte de la entidad  contratante  a  la  suscripción  del
+contrato, el Servicio Nacional  de  Contratación  Pública,  en  base  a  sus
+atribuciones de control y supervisión, dispondrá la  terminación  unilateral
+y anticipada del contrato, además, notificará a la Contraloría  General  del
+Estado para que ejerza las respectivas acciones de control en el  ámbito  de
+sus competencias, y de ser el caso, determine las  responsabilidades  a  los
+funcionarios  de  la  entidad  contratante  que  omitieron  la  exigencia  y
+presentación de dichos requerimientos.
+
+Nivel de transferencia de tecnología TT 2:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 2 “bienes de  baja  intensidad  tecnológica,  y  bienes  de
+media-baja  intensidad  tecnológica”,  que  consta  como  Anexo  20  de   la
+Codificación y Actualización de Resoluciones emitidas  por  el  SERCOP,  los
+mismos que podrán  ser  actualizados  o  modificados  según  la  metodología
+definida por el Servicio Nacional de  Contratación  Pública,  para  lo  cual
+bastará su  notificación  y  publicación  en  el  Portal  Institucional  del
+Servicio Nacional de Contratación Pública.
+
+Requerimientos:
+
+    • Cronograma del  taller  o  curso  de  capacitación   para  conocer  el
+      correcto uso o manejo del producto; o,
+    • CD donde se exponga el curso o taller de capacitación que fue  dado  a
+      personal ecuatoriano.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1.
+
+La  entidad  contratante,  en  los  bienes  relacionados  a  los  CPCs   que
+corresponden a la entrega de transferencia de tecnología de nivel 2:
+
+    - Deberá, previo a la firma de  contrato,  exigir  y  verificar  que  el
+      adjudicatario  haya  publicado  en  su  totalidad  los  requerimientos
+      correspondientes, en el Repositorio de Transferencia de Tecnología del
+      Portal Institucional del Servicio Nacional de Contratación Pública.
+
+
+    - En el caso que, la entidad contratante verifique que el  adjudicatario
+      no cumpliere con estas condiciones y requerimientos  de  transferencia
+      tecnológica nivel 2 para la suscripción del respectivo contrato,  esta
+      declarará al proveedor como adjudicatario fallido.
+
+Es  importante  señalar  que,  de  evidenciarse  el  incumplimiento  de   la
+exigencia de estos requerimientos por parte de la entidad contratante  a  la
+firma del contrato, el Servicio Nacional de Contratación Pública, en base  a
+sus  atribuciones  de  control  y  supervisión  dispondrá   la   terminación
+unilateral y anticipada del contrato, además, notificará  a  la  Contraloría
+General del Estado para que ejerza las acciones de control en el  ámbito  de
+sus  competencias,  y  de  ser  el  caso,  determine  las  responsabilidades
+respectivas a los funcionarios de la entidad contratante  que  omitieron  la
+exigencia y presentación de dichos requerimientos.
+
+Nivel de transferencia de tecnología TT 3:
+
+Aplica a  los  CPCs  correspondientes  a  la  entrega  de  transferencia  de
+tecnología nivel 3 “bienes de media-alta intensidad  tecnológica,  y  bienes
+de  alta  intensidad  tecnológica”,  que  consta  como  Anexo   20   de   la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP,  mismos
+que podrán ser actualizados o modificados según la metodología definida  por
+el Servicio Nacional de  Contratación  Pública,  para  lo  cual  bastará  su
+notificación y publicación en el Portal Institucional del Servicio  Nacional
+de Contratación Pública.
+
+Requerimientos
+
+    • Compromisos para alcanzar mantenimiento preventivo en el país,  sea  a
+      través de: alianzas estratégicas para contar con  centros  autorizados
+      nacionales, capacitación a  empresas  locales,  o  capacitación  a  la
+      entidad requirente;
+    • Compromisos para alcanzar mantenimiento correctivo en el país,  sea  a
+      través de: alianzas estratégicas para contar con  centros  autorizados
+      nacionales, capacitación a  empresas  locales,  o  capacitación  a  la
+      entidad requirente; o,
+    • Cronograma para proveer de capacitación y entrenamiento especializado,
+      en los  talleres  o  centros   autorizados  conseguidos  con  el  ítem
+      anterior, para el personal universitario y de institutos técnicos.  El
+      objeto  es  involucrar  tanto  a  la  academia  como  a  los  técnicos
+      institucionales con la tecnología adquirida,  y  así,  difundir  dicho
+      conocimiento sin perjuicio de cumplir con los ítems anteriores.
+
+Adicionalmente, el proveedor adjudicado deberá presentar los  requerimientos
+nivel TT1 y TT2.
+
+Para cumplir con  estos  compromisos,  la  entidad  contratante  exigirá  la
+presentación  obligatoria   del   documento   que   permita   verificar   la
+formalización del acuerdo o alianza  estratégica  al  que  el  proveedor  ha
+llegado  con  una  universidad,  centro  de   transferencia   y   desarrollo
+tecnológico,  instituto  tecnológico,  empresa  pública  o  privada  u  otra
+organización  ecuatoriana,  que  permitan  garantizar  el  cumplimiento  del
+mantenimiento  preventivo,  correctivo;  y,  capacitación  y   entrenamiento
+especializados, que se realicen dentro del territorio ecuatoriano.
+
+La  ejecución   de   estos   compromisos,   capacitación   y   entrenamiento
+especializados, deberán  cumplirse  en  un  plazo  no  mayor  a  seis  meses
+contados desde la suscripción del contrato con la entidad contratante.
+
+Es  importante  señalar  que,  de  evidenciarse  el  incumplimiento  de   la
+exigencia de estos requerimientos por parte de la entidad contratante  a  la
+firma del contrato o su ejecución,  el  Servicio  Nacional  de  Contratación
+Pública, en base a sus atribuciones de control y  supervisión  dispondrá  la
+terminación unilateral y anticipada del contrato, además,  notificará  a  la
+Contraloría General del Estado para que ejerza las acciones  de  control  en
+el  ámbito  de  sus  competencias,  y  de  ser  el   caso,   determine   las
+responsabilidades respectivas a los funcionarios de la  entidad  contratante
+que  omitieron  la  exigencia,  presentación  y   cumplimiento   de   dichos
+requerimientos.
+
+3.1.7 Pagos: El trámite de pago seguirá  lo  estipulado  en  las  cláusulas
+respectivas del contrato. En caso de retención indebida  de  los  pagos  al
+contratista se cumplirá el artículo 101 de  la  Ley  Orgánica  del  Sistema
+Nacional de Contratación Pública  .
+
+
+3.1.8 Administrador del Contrato.- El administrador será designado  por  la
+máxima  autoridad  de  la  entidad  contratante,  o  su  delegado,   siendo
+responsable de la coordinación y seguimiento de la ejecución contractual.
+
+
+Tendrá a su cargo además, la administración de las garantías  de  modo  tal
+que asegure que éstas se encuentren vigentes, durante todo  el  período  de
+vigencia del contrato; ya sea hasta el  devengamiento  total  del  anticipo
+entregado (de ser el caso), como hasta la recepción definitiva  del  objeto
+del contrato.
+
+Respecto de su gestión reportará a la máxima autoridad institucional o  ante
+la autoridad prevista en el contrato (área requirente),  debiendo  comunicar
+todos  los  aspectos  operativos,  técnicos,  económicos  y   de   cualquier
+naturaleza que pudieren afectar al cumplimiento del objeto del contrato.
+

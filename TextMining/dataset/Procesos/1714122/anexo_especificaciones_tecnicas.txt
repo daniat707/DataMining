@@ -1,0 +1,434 @@
+“ESPECIFICACIONES TÉCNICAS PARA LA ADQUISICIÓN DE EQUIPOS DE
+LABORATORIO PARA EL PROYECTO: “ESTUDIO DE ESPECIES INVASORAS
+Y DIVERSIDAD DE INVERTEBRADOS TERRESTRES EN LAS ISLAS
+GALAPAGOS, EN EL MARCO DEL CONVENIO ESPOCH – FUNDACION
+CHARLES DARWIN”. IDI-ESPOCH
+O B J E T O:
+Adquisición de Equipos de Laboratorio para el Proyecto: “Estudio de Especies Invasoras y Diversidad de
+Invertebrados Terrestres en las Islas Galápagos, en el marco del Convenio ESPOCH – Fundación Charles
+Darwin” IDI- ESPOCH.
+
+P L A Z O D E EJ E C U C IÓ N:
+Plazo de ejecución del contrato a entera satisfacción de la entidad será de 120 días contados a partir de la
+fecha de acreditación del anticipo.
+
+V I G E N C I A D E L A O F E R T A:
+La Oferta tendrá vigencia de 120 días calendario
+
+F O R M A S Y C O N D I C I O N E S D E P A G O:
+El pago se realizará 70% como anticipo y 30% restante contraentrega de los bienes objeto de la
+contratación, previo Informe Técnico favorable de la Comisión Técnica de Recepción, firma del Acta Entrega
+Recepción Definitiva y entrega de la factura por parte del proveedor.
+P R O Y E C T O A L Q U E P E R T E N E C E LA C O N T R A T A C I O N:
+Proyecto de Investigación:” Estudio de Especies Invasoras y Diversidad de Invertebrados Terrestres en
+las Islas Galápagos, en el marco del Convenio ESPOCH – Fundación Charles Darwin”
+
+P R O D U C T O S Y S E R V I C I O S E S P E R A D O S:
+Todos los equipos y/o bienes objeto de la contratación deberán ser nuevos de paquete, bajo ningún
+concepto se aceptan equipos remanufacturados o usados, ni que hayan estado en exhibición.
+
+No.
+
+CODIGO CPC
+(SUGERIDO)
+
+UNIDAD
+DE
+CANTIDAD
+MEDIDA
+
+Procesos de Contratación – Subasta Inversa Electrónica
+
+Descripción
+
+DISPOSITIVO DE ALMACENAMIENTO DE
+INFORMACION
+DISPOSITIVO DE ALMACENAMIENTO DE INFORMACION
+16 TB - MY CLOUD,
+
+1
+
+452700022
+
+1
+
+Unidad
+
+Disco duro de escritorio HDD, USB 3.0
+Compatible con PC, Mac Transferencias de
+datos rápidas Almacenamiento adicional de
+alta capacidad Listo para conectar y usar
+para PC Windows
+MODULO DE ILUMINACION
+Módulo de iluminación 5000 HDI (iluminación muy
+difusa) led 5000 HDI.
+Esta iluminación difusa envolvente suprime las
+reflexiones y las sombras
+
+2
+483111211
+
+1
+
+Unidad
+
+Se elimina la luz parásita / luz externa Intensidad de
+iluminación constante.
+La posibilidad de elevación sencilla permite acceder
+fácilmente a la muestra para cambiar su orientación
+HDI (ILUMINACIÓN MUY DIFUSA)
+En la bóveda de la LED HDI se proyecta y se refleja la
+luz de múltiples formas en el lado interior y, de esta
+manera, prácticamente no se crean ni sombras ni
+reflexiones.
+LICENCIA CONTROL Z Y AUTOENFOQUE
+MEDIANTE SOFTWARE
+
+3
+
+512900021
+
+1
+
+Unidad
+
+Modulo de software las x para sistemas de campo
+amplio para controlar el motor de enfoque z de un
+microscopio automatizado y el enfoque fino super z.
+Defina posiciones de enfoque y capture Conjuntos
+posicionamiento de enfoque y adquisición de stacks
+de imágenes en z. Incluye autoenfoque mediante
+software
+MICROSCOPIO INVERTIDO:
+Microscopio invertido con slides para contraste de
+fases y cámara de 12 megapíxeles, Tecnología LED y
+la función de apagado automático de dos horas
+reducen la energía costos.
+
+4
+
+482610011
+
+1
+
+Unidad
+
+Condensador 40 / 0.45 (distancia de trabajo de 40-50
+mm) para
+una óptima resolución
+Espacio libre de 10 mm simplemente moviéndose
+hacia arriba
+- iluminación LED
+- FOV 20 con interfaz para oculares intercambiables
+- Dos oculares (ocular 10X / 20 con protector ocular y
+ocular de enfoque 10X / 20 con protector ocular)
+- Condensador
+
+Procesos de Contratación – Subasta Inversa Electrónica
+
+- Deslizador de 4 posiciones para condensador (BF,
+Ph0, Ph1, Ph2)
+- 4 objetivos (plan N 5x Ph0, plan Hi Ph1 (10x, 20x,
+40x)
+- Cubierta antipolvo
+- Incluye guía de objetos con estructura de bastidor
+DMi1 con un rango de ajuste (xy) de 126 x 83 mm
+acepta todos
+los diferentes insertos de un rango actual.
+Un dispositivo de sujeción especial en la superficie de
+la guía de objetos asegura una fijación precisa de cada
+parte de la gama de soportes. La unidad de control
+coaxial ergonómica y de baja altura es
+extremadamente precisa y sensible. La guía de
+objetos se puede adaptar fácilmente a la izquierda o
+derecha de cualquiera de las etapas de trabajo fijas.
+Marco de sujeción universal M, adecuado para
+platillos fijos de microscopios con guía de objetos.
+Para placas de Petri con un diámetro de 24 mm hasta
+68 mm y portaobjetos con una longitud de hasta 120
+mm.
+Camara 12 M píxeles, múltiples puertos (HDMI, USB,
+Ethernet)
+- Cable de energía
+- Kit independiente para camara: memoria USB,
+mouse inalámbrico (Dongle USB), fuente de
+alimentación, cable HDMI, se requiere cable de
+alimentación específico del país
+El equipo deberá permitir ver imágenes en Full HD o
+4K y grabar videos con hasta 30 fotogramas por
+segundo deberá tener:.
+- Amplio rango dinámico: proporciona colores reales.
+- Sensor CMOS de 12 MP con tamaño de píxel de
+1,55? M ×1,55? M: revela detalles finos en las
+imágenes adquiridas
+- Exposición automática rápida: permite la detección
+rápida de muestras con áreas brillantes y oscuras
+- Guarde imágenes en su red local o envíelas como
+adjunto de correo electrónico para compartirlas y
+almacenarlas fácilmente
+Filtro de color verde
+Filtro de color amarillo
+DESHUMIDIFICADOR
+
+439120011
+
+1
+
+Unidad
+
+Deshumidificador para espacios de hasta
+4500
+pies
+cuadrados.
+Nuestro
+deshumidificador elimina hasta 70 pintas ( 33
+litros ) (bajo 95 °F, 90% RH condición) de
+humedad por 24 horas, Apto para
+habitaciones medianas a grandes en áreas
+de hasta 4,500 pies cuadrados. Es capaz de
+ajustar la humedad del 30% al 85%, puedes
+
+Procesos de Contratación – Subasta Inversa Electrónica
+
+5
+
+mantener un rango de humedad saludable
+del 45% al 55% fácilmente. Hará la
+deshumidificación. Temporizador de 24
+horas: te permite preajustar el tiempo para
+encender o apagar la máquina.
+Apagado/encendido automático: se apaga
+automáticamente cuando el cubo está lleno,
+y se enciende de nuevo después de que el
+cubo se vacíe.
+P R E S U P U E S T O R E F E R E N C I A L:
+
+Descripción: Adquisición de Equipos de Laboratorio para el Proyecto: “Estudio de Especies Invasoras y
+
+Diversidad de Invertebrados Terrestres en las Islas Galápagos, en el marco del Convenio ESPOCH –
+Fundación Charles Darwin”
+Unidad: Instituto de Investigaciones.
+TOTAL ANUAL
+SIN IVA
+$ 900,00
+$ 5.338,00
+
+DESCRIPCIÓN
+DISPOSITIVO DE ALMACENAMIENTO DE INFORMACION
+MODULO DE ILUMINACION
+LICENCIA CONTROL Z Y AUTOENFOQUE MEDIANTE
+SOFTWARE
+MICROSCOPIO INVERTIDO
+DESHUMIDIFICADOR
+TOTAL
+
+$ 5.059,00
+$ 11.900,00
+$ 470,00
+$ 23.667,00
+
+P E R S O N A L T É C N I C O / E Q U I P O D E T R A B A J O:
+El oferente deberá acreditar la experiencia del personal técnico requerido, para lo cual podrá adjuntar la
+hoja de vida, contratos o copias simples de certificados que demuestren haber laborado en esta actividad
+en el tiempo mínimo solicitado.
+Cargo
+
+Técnico
+
+Nivel de
+educación
+
+Título (de ser
+requerido)
+
+Área de
+experiencia
+
+Tercer Nivel
+
+Ingeniero
+en
+Industrial, Bioquímico,
+o Biotecnología y/o a
+fin
+al
+área
+(Microbiólogo,
+Mecánico, Electrónico,
+Eléctrico.
+
+Manejo,
+Instalación,
+mantenimiento
+y
+calibración de equipos
+de laboratorio
+
+Experiencia
+
+2 años
+
+Número de
+Proyectos o
+contratos en
+los que haya
+participado
+
+1
+
+Monto de
+los
+Contratos
+
+0
+
+E X P E R I E N C I A:
+El oferente deberá acreditar experiencia en la comercialización, venta y manejo de equipos, para lo cual
+podrá adjuntar contratos, actas, facturas o certificados que acrediten la misma.
+
+Procesos de Contratación – Subasta Inversa Electrónica
+
+Tipo de
+experiencia
+
+Años de
+experiencia
+
+General
+
+15 años
+
+Específica
+
+5 años
+
+Área de experiencia
+
+Número de
+Contratos
+requeridos
+
+Monto del
+Contrato
+
+Se permite
+que los
+oferentes
+presenten
+contratos
+que sumen el
+monto de
+nuestra
+contratación
+
+En caso de
+respuesta
+afirmativa,
+cuántos
+contratos
+deben
+permitirse
+
+1
+
+$ 2.366,70
+
+No
+
+0
+
+1
+
+$ 1.183.35
+
+No
+
+0
+
+Comercialización
+de
+equipos de laboratorio.
+Comercialización, venta,
+manejo y calibración de
+equipos de laboratorio
+similares al presente
+contrato.
+
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados por el oferente
+para acreditar la experiencia mínima general o específica requerida, sino, al cumplimiento de estas
+condiciones en relación a los montos mínimos requeridos para cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima específica, el
+proveedor cumpliere el monto mínimo solicitado para la experiencia mínima general, este contrato o
+instrumento será considerado como válido para acreditar los dos tipos de experiencias.
+
+I N D I C E S F I N A N C I E R O S:
+Se tomará en cuenta los siguientes índices financieros:
+Solvencia - Mayor a 1.00
+Endeudamiento – Menor a 1.50
+Se debe adjuntar la declaración del Impuesto a la Renta del último ejercicio fiscal.
+
+OBLIGACIONES ADICIONALES DEL CONTRATISTA:
+1. INDUCCION:
+La empresa ofertante deberá proveer de inducción tanto teórica como práctica para 2 personas la misma
+que durará 2 horas en relación a calibración, mantenimiento y ajuste técnico de los equipos, el profesional
+que realice la inducción será el mismo presentado en la oferta como parte del personal técnico.
+
+2. S O P O R T E T É C N I C O:
+El soporte técnico requerido para la presente compra será tanto en visitas in situ como resolución de
+conflictos por teléfono o correos electrónicos según como lo requiera la institución en el caso de ser in situ
+el proveedor está obligado a asistir hasta La Escuela Superior Politécnica de Chimborazo – Instituto de
+Investigaciones a fin de realizar el respectivo soporte técnico en los equipos y en el caso de ser mediante
+llamada telefónica o correo electrónico el proveedor pondrá a disposición a un experto en manejo de los
+equipos.
+
+Procesos de Contratación – Subasta Inversa Electrónica
+
+Además, el proveedor deberá contar con un Stock de repuestos por el tiempo que dure la garantía del bien
+(equipos), el soporte técnico debe permitir acceder a los canales de mantenimiento especializado de los
+fabricantes de los equipos.
+
+3. G A R A N T I A T É C N I C A
+La Garantía Técnica de los Equipos será de al menos 1 año a partir de la fecha de entrega contra defectos
+de fabricación
+
+4. D O C U M E N T O S D E S O P O R T E:
+El proveedor debe presentar Certificados de Distribuidor Autorizado por el Distribuidor Nacional, o en su
+defecto por el fabricante, que estén vigentes a la presentación de la Oferta.
+
+E N T R E G A D E L O S B I E N E S:
+El proveedor, deberá coordinar con el Administrador del Contrato, el día y la hora específicos en los que se
+realizarán las entregas de los bienes, que constituirá la entrega recepción del objeto contractual.
+Se prohíbe expresamente la entrega de los bienes, mediante correos, servicio de Courier o similares. El
+proveedor o un representante deberá estar presente al momento de la entrega en las instalaciones de la
+Bodega Institucional y con la presencia de la Comisión de Recepción designada para el efecto.
+ELABORADO POR:
+Firmado electrónicamente por:
+
+YESENIA MARIBEL
+CAMPAÑA SANCHEZ
+
+Biol. Yesenia Campaña
+Técnica de Laboratorio – Facultad de Recursos Naturales
+
+REVISADO POR:
+Firmado electrónicamente por:
+
+JHON JAIRO
+CEVALLOS
+MEDINA
+
+Ing. Jhon Jairo Cevallos Msc.
+Analista de Proyectos y Transferencia de Tecnología 1 - IDI
+
+APROBADO
+Firmado electrónicamente por:
+
+HENRI WILLIAM
+HERRERA MORENO
+
+Ing. Henri Herrera Moreno PhD
+Director Proyecto de Investigación
+
+Procesos de Contratación – Subasta Inversa Electrónica
+
+

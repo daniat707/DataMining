@@ -1,0 +1,564 @@
+Hospital Vicente Corral Moscoso
+INFORME DE NECESIDAD DE DISPOSITIVOS MÉDICOS PARA LA
+ADQUISICIÓN DE: “EQUIPO DE VENOCLISIS, 220 CM (+/- 10 CM)”
+
+TIPO DE PROCESO:
+
+FECHA: 11/10/2022
+
+SUBASTA INVERSA
+
+Nº
+(ASIGNACIÓN
+EXCLUSIVA EN
+CONTRATACIÓN
+PÚBLICA)
+
+AREA REQUIRENTE:
+MEDICAMENTOS Y DISPOSITIVOS MÉDICOS
+
+ELECTRÓNICA
+1. ANTECEDENTES
+1.1 El Ministerio de Salud Pública fue creado el 16 de junio de 1967, cuya misión es “Ejercer la
+rectoría, regulación, planificación, coordinación, control y gestión de la Salud Pública ecuatoriana
+a través de la gobernanza y vigilancia y control sanitario y garantizar el derecho a la Salud a
+través de la provisión de servicios de atención individual, prevención de enfermedades, promoción
+de la salud e igualdad, la gobernanza de salud, investigación y desarrollo de la ciencia y tecnología;
+articulación de los actores del sistema, con el fin de garantizar el derecho a la Salud.”
+1.2 El Ministerio de Salud Pública, dentro de sus actividades tiene como objetivo principal el
+“Ejercerá plenamente la gobernanza del Sistema Nacional de Salud, con un modelo referencial en
+Latinoamérica que priorice la promoción de la salud y la prevención de enfermedades,
+garantizando la salud integral y el acceso universal a la red de servicios.”
+1.3 De conformidad con el “Estatuto de Gestión Organizacional Por Procesos de Hospitales”,
+emitido por el Ministerio de Salud Pública, mediante Acuerdo Ministerial No. 1537,
+publicado en el Registro Oficial Edición Especial No. 339 de 25 de septiembre de 2012,
+establece que la Subdirección de Medicamentos e Insumos Médicos será la responsable
+por la elaboración de requerimientos, adquisición, provisión, recepción, almacenamiento,
+conservación, distribución y reposición de medicamentos e insumos, sustentada en la
+normativa existente y de acuerdo con la cartera de servicios autorizada por el Ministerio
+de Salud Pública, para lo cual emitirá el respectivo informe de gestión de medicamentos
+e insumos médicos.
+1.4 El “Reglamento Sustitutivo Para La Gestión Del Suministro de Medicamentos y
+Dispositivos Médicos y Control Administrativo Financiero”, emitido en la Resolución
+Ministerial No. 00051-2020 de 19 de agosto de 2020, publicado en el Registro Oficial
+Edición Especial No. 1028 de 17 de septiembre de 2020, especifica la obligación de la
+Subdirección de Medicamentos e Insumos Médicos y del Comité de Farmacoterapia,
+respecto de la selección, estimación de necesidades y programación de compra, tanto de
+medicamentos como dispositivos médicos, además de desarrollar y promover el uso
+racional de los mismos y fomentar actividades de farmacovigilancia y tecnovigilancia.
+1.5 La programación obedece a necesidades evaluadas
+para la atención de pacientes en el Hospital Vicente
+Corral Moscoso en el servicio según el grupo
+poblacional, para un período determinado de 5.7
+meses.
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+1
+
+Hospital Vicente Corral Moscoso
+Para el cálculo del ítem consumo promedio mensual se estima el comportamiento de las
+cantidades consumidas y las probables de consumo, según registros del sistema Medysis,
+año 2021 y 2022. Se envían las necesidades según existencias en la Institución.
+
+2. BASE LEGAL APLICABLE
+2.1 La Constitución de la República establece:
+Artículo 32.- “La salud es un derecho que garantiza el Estado, cuya realización se vincula al
+ejercicio de otros derechos, entre ellos el derecho al agua, la alimentación, la educación, la cultura
+física, el trabajo, la seguridad social, los ambientes sanos y otros que sustentan el buen vivir”;
+El Estado garantizará este derecho mediante políticas económicas, sociales, culturales, educativas y
+ambientales; y el acceso permanente, oportuno y sin exclusión a programas, acciones y servicios de
+promoción y atención integral de salud, salud sexual y salud reproductiva. La prestación de los
+servicios de salud se regirá por los principios de equidad, universalidad, solidaridad,
+interculturalidad, calidad, eficiencia, eficacia, precaución y bioética, con enfoque de género y
+generacional.”;
+Artículo 35.- “Las personas adultas mayores, niñas, niños y adolescentes, mujeres embarazadas,
+personas con discapacidad, personas privadas de libertad y quienes adolezcan de enfermedades
+catastróficas o de alta complejidad, recibirán atención prioritaria y especializada en los ámbitos
+público y privado…”;
+Artículo 227.- “La administración pública constituye un servicio a la colectividad que se rige por
+los principios de eficacia, eficiencia, calidad, jerarquía, desconcentración, descentralización,
+coordinación, participación, planificación, transparencia y evaluación.”;
+Artículo 288.- “Las compras públicas cumplirán con criterios de eficiencia, transparencia, calidad,
+responsabilidad ambiental y social. Se priorizarán los productos y servicios nacionales, en
+particular los provenientes de la economía popular y solidaria, y de las micro, pequeñas y medianas
+unidades productivas”;
+2.2 La Ley Orgánica del Sistema Nacional de Contratación Pública, publicada en el
+Suplemento al Registro Oficial No. 395 de 04 de agosto de 2008, con última reforma
+efectuada a través del Segundo Suplemento del Registro Oficial No. 392 de 17 de febrero
+de 2021, dispone:
+Artículo 4.- “Para la aplicación de esta Ley y de los contratos que de ella deriven, se observaran los
+principios de legalidad, trato justo, igualdad, calidad, vigencia tecnológica, oportunidad,
+concurrencia, transparencia, publicidad y participación nacional”;
+Artículo 9.- “Son objetivos prioritarios del Estado, en materia de contratación pública, los
+siguientes: 1. Garantizar la calidad del gasto público y su
+ejecución en concordancia con el Plan Nacional de
+Desarrollo; 2. Garantizar la ejecución plena de los
+contratos y la aplicación efectiva de las normas
+contractuales; 3. Garantizar la transparencia y evitar la
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+2
+
+Hospital Vicente Corral Moscoso
+discrecionalidad en la contratación pública; 4. Convertir la contratación pública en un elemento
+dinamizador de la producción nacional; 5. Promover la participación de artesanos, profesionales,
+micro, pequeñas y medianas empresas con ofertas competitivas, en el marco de esta Ley; 6. Agilitar,
+simplificar y adecuar los procesos de adquisición a las distintas necesidades de las políticas públicas
+y a su ejecución oportuna; 7. Impulsar la participación social a través de procesos de veeduría
+ciudadana que se desarrollen a nivel nacional, de conformidad con el Reglamento; 8. Mantener una
+sujeción efectiva y permanente de la contratación pública con los sistemas de planificación y
+presupuestos del Gobierno central y de los organismos seccionales; 9. Modernizar los procesos de
+contratación pública para que sean una herramienta de eficiencia en la gestión económica de los
+recursos del Estado; 10. Garantizar la permanencia y efectividad de los sistemas de control de
+gestión y transparencia del gasto público; y, 11. Incentivar y garantizar la participación de
+proveedores confiables y competitivos en el SNCP.”;
+Artículo. 47.- “Para la adquisición de bienes y servicios normalizados que no consten en el
+catálogo electrónico, las Entidades Contratantes deberán realizar subastas inversas en las cuales los
+proveedores de bienes y servicios equivalentes, pujan hacia la baja el precio ofertado, en acto público
+o por medios electrónicos a través del Portal de COMPRASPÚBLICAS…”.;
+2.3 El Reglamento General a la Ley Orgánica del Sistema Nacional de Contratación Pública,
+emitido en el Decreto Ejecutivo No. 458, publicado en el Segundo Suplemento del
+Registro Oficial No. 87 de 20 de junio de 2022, reformado.
+Artículo 36.- “En todo procedimiento de contratación pública, la máxima autoridad de la entidad
+contratante o su delegado y las personas responsables de la gestión de las adquisiciones, deberán
+considerar las siguientes directrices de planificación de la compra: 1. Las contrataciones serán
+solicitadas, autorizadas y ejecutadas con la anticipación suficiente y en las cantidades apropiadas:
+2. La ejecución de las compras programadas para el año se realizará tomando en consideración el
+consumo real, la capacidad de almacenamiento, la conveniencia financiera y el tiempo que
+regularmente tome el trámite; y 3. Toda compra que se efectúe o proceso de contratación pública,
+deberá fundamentarse y limitarse en las competencias institucionales. Sólo por excepción, en las
+contrataciones por emergencia, no se aplicarán estas directrices generales.”
+Artículo 42.- (Sustituido por el Art. 4 del D.E. 550, R.O. 138-S, 31-VIII-2022).- El órgano
+
+administrativo requirente de la entidad contratante, con la finalidad de satisfacer y
+cumplir con los objetivos, metas y demandas institucionales, de acuerdo con sus
+competencias y atribuciones. Realizará la identificación específica, detallada, clara y
+concreta de la necesidad de contratación.
+Artículo 44.- (Sustituido por el Art. 5 del D.E. 550, R.O. 138-S, 31-VIII-2022).- La
+determinación de la necesidad incorporará un análisis de beneficio, eficiencia o efectividad,
+considerando la necesidad y la capacidad institucional instalada, lo cual se plasmará en el informe
+de necesidad de contratación, que será elaborado por la unidad requirente, previo a iniciar un
+procedimiento de contratación.
+Artículo 46.- “Antes de iniciar un procedimiento precontractual, de acuerdo con la naturaleza de
+la contratación, la entidad contratante deberá contar con
+los estudios y diseños completos, definitivos y
+actualizados… especificaciones técnicas… presupuesto
+referencial y demás información necesaria para la
+contratación, debidamente aprobados por las instancias
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+3
+
+Hospital Vicente Corral Moscoso
+correspondientes, vinculados al Plan Anual de Contratación de la entidad según corresponda…
+Toda contratación de estudios incluirá la determinación y justificación del presupuesto referencial
+con el fin de establecer la aplicación de la Ley Orgánica del Sistema Nacional de Contratación
+Pública y seleccionar el procedimiento precontractual, en los casos que corresponda, siguiendo las
+directrices que se establezcan en este Reglamento General y las disposiciones que para el efecto
+emita el Servicio Nacional de Contratación Pública…”
+
+3. OBJETIVO DE LA COMPRA
+3.1 General
+Garantizar la prestación servicios de salud con calidad y calidez en el ámbito de la
+asistencia especializada, a través de su cartera de servicios, cumpliendo con la
+responsabilidad de promoción, prevención, recuperación, rehabilitación de la salud
+integral, docencia e investigación, conforme a las políticas del Ministerio de Salud
+Pública y el trabajo en red, en el marco de la justicia y equidad social.
+3.2 Específicos
+a) Asegurar el abastecimiento hospitalario en concordancia a la normativa legal vigente.
+b) Promover una atención oportuna y de calidad, a través de la adquisición de
+medicamentos e insumos médicos que permitan brindar una asistencia especializada,
+acorde a las políticas públicas del Gobierno Nacional.
+c) Garantizar un adecuado desarrollo de las responsabilidades hospitalarias del personal
+del Hospital Vicente Corral Moscoso, contando para ello con los insumos necesarios.
+d) Cumplir con las metas institucionales, cumpliendo con la Misión – Visión del
+Hospital, concomitantemente con la red de servicios de salud integrados en el
+territorio nacional.
+e) Garantizar stock adecuados de dispositivos médicos de uso general.
+
+4. JUSTIFICACIÓN DE LA COMPRA
+El Equipo de Venoclísis; es un dispositivo médico de uso general empleado para
+Infusión intravenosa de medicamentos o líquidos.
+Se detalla la necesidad una vez revisados saldos actuales a la fecha 16/09/2022,
+productos esenciales que se encuentran próximos a ruptura de stock y presentan
+necesidad para pacientes en las Áreas de Centro
+Quirúrgico, Hospitalización, Consulta Externa,
+Emergencia, Atención pre hospitalaria.
+
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+4
+
+Hospital Vicente Corral Moscoso
+¿Cómo utilizará el dispositivo médico?
+
+Para Infusión intravenosa de medicamentos o
+líquidos.
+
+¿Cuál es la incidencia o frecuencia de Estos dispositivos médicos se usan en promedio de
+uso del dispositivo médico en 4100 unidades por mes.
+pacientes?
+¿Este dispositivo médico tiene ficha
+SI ( X )
+NO ( )
+técnica?
+
+(Se deberá efectuar un análisis pormenorizado del beneficio eficiencia o efectividad del objeto
+a adquirir considerando la necesidad y la capacidad institucional instalada del Hospital.
+4.1 Análisis-Beneficio
+Al disponer en la Institución de EQUIPO DE VENOCLISIS; se garantiza su uso en los
+
+pacientes, puesto que colocar un venoclisis es de gran utilidad cuando se necesita
+administrar medicamentos directamente en el torrente sanguíneo del paciente, a fin
+de alcanzar concentraciones terapéuticas lo más rápido posible.
+Cuando un fármaco se administra por vía oral, transcutánea o incluso mediante
+inyección intramuscular, es necesario que se absorba desde el sitio de administración
+hasta el torrente sanguíneo. Este proceso puede tomar desde algunos minutos hasta
+varias horas, e incluso días, dependiendo de la formulación del medicamento.
+Por el contrario, al administrar el medicamento directamente en el torrente sanguíneo
+no es necesario que este se absorba. De esta manera, las concentraciones plasmáticas
+terapéuticas del fármaco se alcanzan casi inmediatamente.
+Esto es algo muy útil en situaciones de emergencia, así como en aquellos casos donde
+es necesario un control estricto dosis-respuesta, como por ejemplo durante la
+anestesia general.
+Visto el objeto de la contratación, se sugiere que el proceso de contratación pública a
+emplearse sea el de Subasta Inversa Electrónica, mismo que de acuerdo al marco legal
+transcrito, prevé que una pluralidad de oferentes que, cumpliendo con las especificaciones
+técnicas solicitadas, postulen hacia la baja, obteniéndose el mejor costo por el dispositivo
+médico requerido.
+
+4.2 Análisis Eficiencia
+Cumplimiento de metas o resultados con la utilización
+de la menor cantidad de recursos
+
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+5
+
+Hospital Vicente Corral Moscoso
+Para el efecto, en busca de maximizar los recursos del Estado, tanto financieros como del
+talento humano, se ha considerado el Decreto Ejecutivo 457 de 18 de junio de 2022, publicado
+en el Segundo Suplemento del Registro Oficial No. 87 de 20 de junio 2022 que regula sobre los
+“Lineamientos Para La Optimización Del Gasto Público”, así como, el artículo 47 de la Ley
+Orgánica del Servicio Nacional de Contratación Pública y el artículo 129 de su Reglamento
+General; pudiéndose colegir que, el dispositivo médico requerido, al ser un bien normalizado,
+cuyo presupuesto referencial, determinado por el estudio de mercado, al superar el
+coeficiente equivalente al 0.0000002 del Presupuesto Inicial del Estado, y al no poder ser
+contratado a través del procedimiento de catálogo electrónico, debe ser adquirido
+necesariamente a través del proceso de Subasta Inversa Electrónica.
+
+4.3 Análisis Efectividad
+Evaluación de los efectos positivos frente a los resultados a alcanzarse o las metas a
+cumplirse
+Una vez que se ha verificado que, el objeto de la contratación es un bien normalizado, al
+contar con especificaciones técnicas estandarizadas, conforme documentación adjunta, y visto
+que el proceso de contratación pública recomendado, Subasta Inversa Electrónica, se
+encuentra definido por la norma de aplicación, se puede concluir que existe una calidad del
+gasto público, garantizando un uso eficaz y eficiente de los recursos públicos, procurando
+una concurrencia de proveedores que, cumpliendo las especificaciones técnicas requeridas,
+postularán hacia la baja sus ofertas económicas, consiguiendo mejores costes y beneficios para
+esta Casa de Salud; permitiendo una distribución más equitativa y productiva de recursos,
+financieros y de talento humano.
+
+5 CUADRO DE DESCRIPCIÓN DEL BIEN
+Para el efecto, ha de considerarse lo especificado por el Reglamento General a la Ley Orgánica
+del Sistema Nacional de Contratación Pública, mismo que reza:
+“Art. 52.- Especificaciones técnicas.- Para la elaboración de las especificaciones técnicas se considerará lo
+siguiente:
+Deben ser claras, completas e inequívocas: no deben presentar ambigüedades… ni indicaciones parciales.
+1. Para el caso de bienes, se establecerán en función de las propiedades de su uso y empleo, así como de
+sus características fundamentales, requisitos funcionales o tecnológicos, atendiendo los conceptos de
+capacidad, calidad y/o rendimiento, y de sostenibilidad en lo que fuera aplicable, para los que, de existir,
+se utilizarán rasgos técnicos, requisitos, símbolos y términos normalizados:
+2. No se podrá hacer referencia a marcas de fábrica o de comercio, nombres o tipos comerciales, patentes,
+derechos de autor, diseños o tipos particulares, ni a
+determinados orígenes, productores o proveedores…;
+3. Para el caso de obras, se establecerán para cada uno de los
+rubros y materiales del proyecto, atendiendo los aspectos de
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+6
+
+Hospital Vicente Corral Moscoso
+diseño y constructivos;
+4. Las especificaciones técnicas se basarán en las normas o reglamentos técnicos nacionales, y en
+ausencia de estos, en los instrumentos internacionales similares, en lo que fuera aplicable;
+5. No se podrá establecer o exigir especificaciones, condicionamientos o requerimientos técnicos que no
+pueda cumplir la oferta nacional, salvo justificación funcional debidamente motivada; y,
+6. Las especificaciones técnicas se establecerán con relación exclusiva a los bienes o rubros de obras
+integrantes del objeto del procedimiento y no con relación a los proveedores.”
+
+CÓDIG
+O CPC
+
+N°
+1
+
+3529010
+91
+
+OBJETO DE LA
+CONTRATACIÓ
+N
+Equipo de
+venoclisis, 220 cm
+(+/- 10 cm).
+
+ESPECIFIACIÓN TÉCNICA
+DETALLADA
+
+Polivinil, cámara cuentagotas, 20
+gotas/ml, filtro de 15 micras, línea de
+220 cm (+/- 10 cm) de longitud, filtro en
+la base de la cámara, filtro hidrófobo en
+el tapón protector, conector Luer Lock,
+regulador de flujo roller, puerto de
+acceso en Y, punzón universal, libre de
+látex, estéril, descartable.
+
+CANTI
+DAD
+23500
+
+UNIDAD
+DE
+MEDIDA
+UNIDAD
+
+La especificación técnica detalla debe obtener en el siguiente link:
+https://www.salud.gob.ec/direccion-nacional-de-medicamentos-y-dispositivos-medicos/
+CODIGO CPC N9
+https://app.powerbi.com/view?r=eyJrIjoiYjRlZjg5YzItOWM4Ni00MGNkLWI1OGYtZDA4MDAxNGYyNDQyIi
+widCI6ImQ2NDk2NzM4LWY5MTItNGExZS04NDE1LTQwY2E2ZjRhOTRlZCJ9
+
+6 CUADRO DE ABASTECIMIENTO, CONSUMOS PROMEDIOS Y STOCK
+(Copiar el cuadro obtenido del Estudio de Mercado constante en el punto “1.3.- ANASLISIS DE STOCK Y
+CONSUMO PROMEDIO MENSUAL”, mismo que se elabora en base a la información del Memorando de
+Bodega de verificación de stock y Memorando de Farmacia de verificación de consumo promedio mensual)
+
+1.3.- ANASLISIS DE STOCK Y CONSUMO PROMEDIO MENSUAL
+
+N°
+
+1
+
+Código CPC
+
+352901091
+
+Bien y/o servicio a
+contratar
+
+CPM
+
+Equipo de venoclisis,
+4100
+220 cm (+/- 10 cm).
+
+STOCK
+
+9149
+
+CANTIDAD A
+SOLICITAR
+
+23500
+
+TIEMPO DE
+ABASTECIMIENTO
+ACTUAL
+
+2.23 MESES
+
+TIEMPO DE
+TIEMPO ESTIMADO DE
+ABASTECIMIENTO
+LA COMPRA
+PROYECTADO
+
+5.73 MESES
+
+7.96 MESES
+
+7 CONTROL PRESUPUESTARIO
+
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+7
+
+Hospital Vicente Corral Moscoso
+Consta de la Certificación Presupuestaria y Memorando adjuntos, emitidos por el Responsable
+de la Unidad Financiera.
+
+8 PRESUPUESTO REFERENCIAL
+El presupuesto referencial será visible, el mismo se encuentra determinado en el ESTUDIO
+DE MERCADO ADJUNTO, mismo que será cargado en el Sistema Oficial de Contratación
+Pública al momento de la publicación de proceso de contratación, conforme numera 5, del
+artículo 130 del Reglamento General a la Ley Orgánica del Sistema Nacional de Contratación
+Pública.
+
+9 RECOMENDACIONES
+Con los antecedentes expuestos y de conformidad con la documentación adjunta, se
+recomienda el inicio de proceso de contratación, mediante Subasta Inversa Electrónica,
+cumpliendo con los principios establecidos en la Constitución de la República, la Ley
+Orgánica del Sistema Nacional de Contratación Pública y su Reglamento General, las
+Resoluciones emitidas por el Servicio Nacional de Contratación Pública y las disposiciones
+que al respecto emitan los entes de control, esto con la finalidad de responder a necesidad
+institucional en beneficio de los pacientes de esta Casa de Salud.
+
+En atención al artículo 58 del Reglamento General a la Ley Orgánica del Sistema Nacional de
+Contratación Pública, que determina: “Art. 58.- Comisión técnica.- La máxima autoridad de la
+entidad contratante o su delegado, conformará una comisión técnica para todos los procedimientos de
+contratación establecidos en la Ley Orgánica del Sistema Nacional de Contratación Pública y en el
+presente Reglamento, incluidos los procedimientos de régimen especial y procedimientos especiales
+cuyo presupuesto referencial sea igual o superior a multiplicar el coeficiente 0.000002 por el
+Presupuesto Inicial del Estado del correspondiente ejercicio fiscal… En los procedimientos de
+contratación cuyo presupuesto referencial sea inferior al establecido en el inciso primero de este
+artículo, le corresponderá llevar a cabo la fase precontractual a un servidor designado por la máxima
+autoridad de la entidad contratante o su delegado.”, los procesos cuya cuantía superen el monto de
+$ 67.799,47 USD, se sugiere como miembros de la Comisión Técnica a:
+
+NOMBRES Y APELLIDOS
+
+CARGO
+Presidente o Presidenta
+de Comisión
+Titular
+del
+Área
+Requirente
+o
+su
+Delegado(a)
+Profesional(a) a fin al
+objeto de la contratación
+
+CEDULA
+
+CELULAR
+
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+8
+
+Hospital Vicente Corral Moscoso
+Mgs.
+Francisco
+Ochoa Cobos
+
+Sebastián Secretario
+
+0105080881
+
+0984346308
+
+En caso de que el presupuesto referencial del proceso sea inferior al monto de $ 67.799,47
+USD, se sugiere como delegado de la máxima autoridad para llevar a cabo todas las etapas de
+la fase precontractual a:
+
+NOMBRES Y APELLIDOS
+CARGO
+CEDULA
+0106071624
+AVILA BAYOLIMA MONICA Delegado de la Máxima
+PAULA
+Autoridad
+
+CELULAR
+0939269789
+
+FIRMA DE RESPONSABLES DEL ÁREA REQUIRENTE
+RESPONSABLES
+Responsable de la
+solicitud
+(Elaboración)
+
+NOMBRES Y
+APELLIDOS
+
+Nº CÉDULA
+
+Dra. Silvia López V.
+
+0104218292
+
+FIRMA ELECTRÓNICA
+Firmado electrónicamente por:
+
+SILVIA MARLENE
+LOPEZ
+VILLAVICENCIO
+
+Responsable de la
+Subdirección o
+Unidad
+correspondiente
+(Revisión)
+
+Dra. Johana Alvarado
+
+0104141874
+
+Dirección Médica
+(Aprobación)
+
+Dr. Juan Pablo
+Carabajo Dután
+
+0104227822
+
+Firmado electrónicamente por:
+
+JOHANA CATALINA
+ALVARADO
+PALACIOS
+
+Firmado electrónicamente por:
+
+JUAN PABLO
+CARABAJO
+DUTAN
+
+AUTORIZACION DE INICIO DEL PROCESO
+Autorizador de
+gasto mayor a
+$1.000 (GERENTE).
+
+Dra. María José
+Vázquez Quezada
+
+Firmado electrónicamente por:
+
+0104443916
+
+MARIA JOSE
+VAZQUEZ
+QUEZADA
+
+La información que ha servido de base para la elaboración del presente documento, ha sido
+verificada por el área requirente; la veracidad de dicha
+información es responsabilidad de la misma.
+
+Av. Los Arupos y 12 de Abril
+Código Postal: 010204 Teléfono: 593 (07) 4096000 Ext.7824/7646
+www.hvcm.gob.ec / proveeduriahvcm@gmail.com
+
+9
+
+

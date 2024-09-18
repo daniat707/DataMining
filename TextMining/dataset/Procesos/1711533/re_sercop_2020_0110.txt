@@ -1,0 +1,608 @@
+RESOLUCIÓN Nro. RE-SERCOP-2020-0110
+LA DIRECTORA GENERAL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+CONSIDERANDO:
+Que, el artículo 226 de la Constitución de la República del Ecuador prescribe que:
+“Las instituciones del Estado, sus organismos, dependencias, las servidoras o
+servidores públicos y las personas que actúen en virtud de una potestad estatal
+ejercerán solamente las competencias y facultades que les sean atribuidas en la
+Constitución y la ley. Tendrán el deber de coordinar acciones para el
+cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos
+reconocidos en la Constitución”;
+Que, el artículo 227 de la citada Norma Suprema ordena que: “La administración
+pública constituye un servicio a la colectividad que se rige por los principios de
+eficacia, eficiencia, calidad, jerarquía, desconcentración, descentralización,
+coordinación, participación, planificación, transparencia y evaluación”;
+Que, el artículo 288 de la Constitución de la República del Ecuador dispone que: “Las
+compras públicas cumplirán con criterios de eficiencia, transparencia, calidad,
+responsabilidad ambiental y social. Se priorizarán los productos y servicios
+nacionales, en particular los provenientes de la economía popular y solidaria, y
+de las micro, pequeñas y medianas unidades productivas”;
+Que, el Código Orgánico Administrativo, en su artículo 130, en relación con la
+potestad normativa de carácter administrativo, dispone que: “Las máximas
+autoridades administrativas tienen competencia normativa de carácter
+administrativo únicamente para regular los asuntos internos del órgano a su
+cargo, salvo los casos en los que la ley prevea esta competencia para la máxima
+autoridad legislativa de una administración pública. La competencia
+regulatoria de las actuaciones de las personas debe estar expresamente
+atribuida en la ley”;
+Que, entre los principios del artículo 4 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública –LOSNCP, se encuentran contemplados los principios de
+legalidad y transparencia;
+Que, el artículo 9 de la Ley Ibídem establece que son objetivos prioritarios del Estado
+en materia de contratación pública, entre otros, los siguientes: “[…] 2.
+Garantizar la ejecución plena de los contratos y la aplicación efectiva de las
+normas contractuales; 3. Garantizar la transparencia y evitar la
+discrecionalidad en la contratación pública […] 6. Agilitar, simplificar y
+adecuar los procesos de adquisición a las distintas necesidades de las políticas
+públicas y a su ejecución oportuna; […] 10. Garantizar la permanencia y
+Página 1 de 14
+
+efectividad de los sistemas de control de gestión y transparencia del gasto
+público; y, 11. Incentivar y garantizar la participación de proveedores
+confiables y competitivos en el SNCP” (énfasis añadido);
+Que, de conformidad con lo determinado en el artículo 10 de la LOSNCP, el
+SERCOP ejerce la rectoría del Sistema Nacional de Contratación Pública SNCP, siendo sus atribuciones, entre otras, administrar el Registro Único de
+Proveedores -RUP, incorporar y modernizar herramientas conexas al sistema
+electrónico de contratación pública y subastas electrónicas, así como impulsar la
+interconexión de plataformas tecnológicas de instituciones y servicios
+relacionados, expedir modelos obligatorios de documentos precontractuales y
+contractuales, aplicables a las diferentes modalidades y procedimientos de
+contratación pública; y, dictar normas administrativas, manuales e instructivos
+relacionados con dicha Ley;
+Que, el artículo 14 de la misma Ley establece lo siguiente: “El control del Sistema
+Nacional de Contratación Pública será intensivo, interrelacionado y
+completamente articulado entre los diferentes entes con competencia para ello.
+Incluirá la fase precontractual, la de ejecución del contrato y la de evaluación
+del mismo. El Servicio Nacional de Contratación Pública tendrá a su cargo el
+cumplimiento de las atribuciones previstas en esta Ley, incluyendo en
+consecuencia, la verificación de: 1. El uso obligatorio de las herramientas del
+Sistema, para rendir cuentas, informar, promocionar, publicitar y realizar todo
+el ciclo transaccional de la contratación pública […]”;
+Que, el artículo 27 de la LOSNCP señala que: “Serán obligatorios los modelos y
+formatos de documentos precontractuales, y la documentación mínima
+requerida para la realización de un procedimiento precontractual y contractual,
+que serán elaborados y oficializados por el Servicio Nacional de Contratación
+Pública, para lo cual podrá contar con la asesoría de la Procuraduría General
+del Estado y de la Contraloría General del Estado”;
+Que, el artículo 78 de la Ley Ibídem establece que: “El contratista está prohibido de
+ceder los derechos y obligaciones emanados del contrato”;
+Que, la Disposición General Séptima de la LOSNCP, establece la obligación de los
+proveedores del Estado, al presentar sus ofertas, de demostrar el origen lícito
+de sus recursos y presentar la nómina de sus socios o accionistas para verificar
+que los mismos no tengan inhabilidades en materia de contratación pública. De
+igual manera, el SERCOP tiene la potestad de requerir a las personas jurídicas
+proveedoras del Estado, entidades contratantes, y demás instituciones del sector
+público con competencia para aquello, la información que trasparente su árbol
+accionario, incluso hasta identificar a la última persona natural. La regulación
+específica de esta disposición legal se encuentra desarrollada en la Sección I, del
+Capítulo I, del Título II [artículos 61 a 64], de la Codificación y Actualización
+de Resoluciones emitidas por el SERCOP; así, el precitado artículo 64 prevé una
+excepcionalidad en la aplicación de estas reglas para las personas jurídicas que
+cotizan sus acciones o participaciones en bolsas de valores, así como para los
+procedimientos de ínfima cuantía;
+Página 2 de 14
+
+Que, la Disposición General Décima de la Ley Ibídem manda que: “Toda la
+información relacionada con los pagos recibidos por los contratistas y sub
+contratistas del Estado, así como sus movimientos financieros, tendrá el
+carácter de pública y deberá ser difundida a través de un portal de información
+o página web, destinada para el efecto, que permita detectar con certeza el
+flujo de los fondos públicos. No se podrá alegar reserva tributaria, societaria,
+bursátil ni bancaria sobre este tipo de información. [...] En este proceso de
+interoperabilidad actuarán el Servicio de Contratación Pública, Ministerio de
+Economía y Finanzas, el Servicio de Rentas Internas, Banco Central del
+Ecuador, la Unidad de Análisis Financiero y Económico y demás entidades
+involucradas y que cuenten con información necesaria para el cumplimiento de
+los fines de esta Disposición. [...] El Banco Central del Ecuador, el Servicio de
+Rentas Internas y el ministerio encargado de las finanzas públicas emitirán la
+normativa secundaria necesaria para regular esta disposición” (énfasis
+añadido);
+Que, a través del Suplemento del Registro Oficial Nro. 802, de 21 de julio de 2016, se
+expidió la Ley Orgánica de Prevención, Detección y Erradicación del delito de
+lavado de activos y del financiamiento de delitos; uno de los fines principales de
+dicha ley, según su considerando séptimo, es: “[...] la coordinación entre las
+instituciones cuyos registros e información sirven para prevenir, combatir y
+erradicar el delito de lavado de activos”;
+Que, el inciso final del artículo 6 de la Ley Ibídem establece que: “Para fines de
+análisis, las instituciones del sector público que mantengan bases de datos
+tendrán la obligación de permitir el acceso de la Unidad de Análisis Financiero
+y Económico (UAFE) a las mismas, en los campos que no sean de carácter
+reservado”;
+Que, el levantamiento del sigilo bancario se fundamenta en el numeral 19 del artículo
+66, y artículo 288 de la Constitución de la República del Ecuador, en
+concordancia con el artículo 352 del Código Orgánico Monetario y Financiero, y
+los artículos 4, 5, 15 y Disposición General Décima de la LOSNCP; normativa
+que viabiliza dicho levantamiento en pro del principio de transparencia, y con el
+objeto de facilitar la auditoría y control en la trazabilidad de los recursos
+públicos;
+Que, el artículo 76 del Código Orgánico de Planificación y Finanzas Públicas
+prescribe que: “Se entienden por recursos públicos los definidos en el Art. 3 de
+la ley de la Contraloría General del Estado. […] Los anticipos
+correspondientes a la contratación pública no pierden su calidad de recursos
+públicos, hasta el momento de ser devengados; la normativa aplicable a la
+gestión de dichos recursos será la que corresponde a las personas jurídicas de
+derecho privado, con excepción de lo dispuesto en el tercer inciso del artículo
+299 de la Constitución de la República” (énfasis añadido);
+Página 3 de 14
+
+Que, ante la habilitación constitucional de limitar y regular el derecho de protección
+de datos personales, los artículos 352 y 353 del Código Orgánico Monetario y
+Financiero, que rige la actividad de las instituciones financieras, permite que la
+información de los usuarios de dicho sistema pueda ser entregada a su titular o a
+quien éste autorice, o por disposición del mismo Código. Es decir, el mentado
+cuerpo normativo recoge los mismos casos en los cuales la Constitución permite
+la limitación a la protección de datos: i) autorización expresa; ii) mandato de la
+Ley; y, iii) para el caso de los recursos de las entidades del sector público;
+Que, el numeral 4 del artículo 7 del Reglamento General de la Ley Orgánica del
+Sistema Nacional de Contratación Pública -RGLOSNCP, establece como
+atribución de la Directora General del SERCOP: “Emitir la normativa que se
+requiera para el funcionamiento del SNCP y del SERCOP, que no sea
+competencia del Directorio”;
+Que, el artículo 8 del mentado Reglamento General dispone que: “El proveedor que
+desee registrarse en el RUP observará el procedimiento que para el efecto dicte
+el SERCOP. Sin perjuicio de lo anterior, si existen interconexiones de sistemas o
+bases de datos, el SERCOP podrá establecer los mecanismos complementarios
+en cuanto a inscripción, habilitación y actualización de información [...]”;
+Que, el artículo 28 del Reglamento Ibídem establece que: “Los modelos y formatos
+obligatorios, serán expedidos por el Director General del SERCOP mediante
+resolución y serán publicados en el Portal Institucional. […] Cada entidad
+contratante deberá completar los modelos obligatorios. La entidad contratante
+bajo su responsabilidad podrá modificar y ajustarlos a las necesidades
+particulares de cada proceso de contratación, siempre que se cumpla con la Ley
+y el presente Reglamento General”;
+Que, la Disposición General Cuarta del RGLOSNCP, faculta al Servicio Nacional de
+Contratación Pública a expedir las normas complementarias ha dicho
+Reglamento, las cuales serán aprobadas mediante resolución por su Directora
+General;
+Que, mediante Resolución Externa Nro. R.E.-SERCOP-2016-0000072, de 31 de
+agosto de 2016, el Servicio Nacional de Contratación Pública expidió la
+Codificación y Actualización de Resoluciones emitidas por dicho Servicio; la
+cual se encuentra publicada en la Edición Especial del Registro Oficial Nro. 245,
+de 29 de enero de 2018, así como en la sede electrónica del SERCOP, junto con
+sus consecuentes reformas;
+Que, mediante Resolución Externa Nro. RE-SERCOP-2020-0103, de 07 de enero de
+2020, el Servicio Nacional de Contratación Pública expidió reformas a la
+Resolución Externa Nro. RE-SERCOP-2016-0000072, así como a los modelos
+de pliegos, versión SERCOP 2.1, de 09 de junio de 2017, en lo relacionado al
+levantamiento del sigilo bancario;
+Página 4 de 14
+
+Que, es importante ampliar y aclarar la Sección I, del Capítulo I, del Título II de la
+Codificación y Actualización de Resoluciones emitidas por el SERCOP, a
+efectos de que la excepción de consignar y transparentar la información de los
+accionistas de las personas jurídicas que coticen sus acciones o participaciones
+en la bolsa de valores, alcance no solo al oferente principal, sino a todas los
+personas jurídicas que consten como accionistas dentro de la primera persona
+jurídica, y que cumplan con la condición de cotizar sus acciones o
+participaciones en la bolsa de valores, sin importar el nivel en el que se
+encuentren, dentro del árbol accionario de la oferente principal. De igual
+manera, en observancia de la Disposición General Décima de la LOSNCP y los
+estándares internacionales de la materia, resulta imperioso implementar
+mecanismos que coadyuven a la detección y prevención de delitos relacionados
+al lavado de activos y al financiamiento del terrorismo, en las transacciones que
+se produzcan en el seno del SNCP;
+Que, se ha emitido el respectivo informe técnico-jurídico que sustenta la emisión de la
+presente resolución;
+Que, mediante Decreto Ejecutivo Nro. 1131, de 25 de agosto de 2020, se designó a la
+economista Silvana Vallejo Páez, como máxima autoridad institucional del
+Servicio Nacional de Contratación Pública; y,
+En ejercicio de sus atribuciones legales y reglamentarias,
+RESUELVE:
+EXPEDIR REFORMAS A LOS SIGUIENTES INSTRUMENTOS
+NORMATIVOS EMITIDOS POR EL SERVICIO NACIONAL DE
+CONTRATACIÓN PÚBLICA:
+TÍTULO I
+REFORMAS A LA RESOLUCIÓN EXTERNA NRO. RE-SERCOP-20160000072, DE 31 DE AGOSTO DE 2016, MEDIANTE LA CUAL SE
+EXPIDIÓ LA CODIFICACIÓN Y ACTUALIZACIÓN DE
+RESOLUCIONES EMITIDAS POR EL SERVICIO NACIONAL DE
+CONTRATACIÓN PÚBLICA
+Art. 1.- En el segundo inciso del artículo 61, elimínese la siguiente frase: “en donde se
+incorporará lo establecido en el Anexo 17”.
+Art. 2.- Al final del artículo 61, agréguense los siguientes incisos:
+“Los representantes legales de las personas jurídicas contratistas o
+subcontratistas del Estado, así como el procurador común de los compromisos
+de asociación o consorcio o de las asociaciones o consorcios constituidos,
+declararán la identidad de la persona natural que será el beneficiario final de
+los recursos públicos y/o quien ejerza el control de las cuentas bancarias
+relacionadas o inmersas en el flujo de los recursos públicos obtenidos como
+consecuencia del contrato respectivo.
+Página 5 de 14
+
+Las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la
+estructura accionaria de una persona jurídica o consorcio oferente, cuando
+estén relacionadas con el flujo de los recursos públicos, no estarán sujetas a
+sigilo bancario, tributario, societario ni bursátil. Estarán sujetas a esta
+disposición, inclusive las personas declaradas como beneficiarios finales, o
+cualquier persona que se beneficie de transacciones bancarias en el flujo de los
+recursos públicos.
+Sin perjuicio de la normativa secundaria que para el efecto emita la Unidad de
+Análisis Financiero y Económico (UAFE), para efectos de la aplicación del
+presente artículo, se entenderá por beneficiario final a la o las personas
+naturales que, través de sociedades u otros mecanismos societarios o
+asociativos, ejercen el control efectivo en la toma de decisiones de una persona
+jurídica o consorcio determinado; y/o, a la o las personas naturales que, a
+través de un tercero, realizan o se benefician de una transacción financiera
+derivada del flujo de los recursos públicos obtenidos de un contrato sujeto a la
+LOSNCP; todo esto, sin perjuicio de poseer, directa o indirectamente, una
+participación accionaria o derechos a voto de la persona jurídica contratista.
+Las declaraciones referentes a los beneficiarios finales y/o quienes ejercen el
+control efectivo final de los movimientos financieros del contratista o
+subcontratista, se realizarán a efectos de que los respectivos órganos de control
+puedan detectar con certeza, de acuerdo con sus atribuciones, el beneficiario
+final o real. Esta información tendrá el carácter de pública y será difundida a
+través de un portal de información o página web, determinadas para el efecto.
+Las disposiciones de este artículo estarán contempladas expresamente en los
+modelos de pliegos obligatorios emitidos por el SERCOP, de tal forma que tanto
+entidades contratantes como proveedores del Estado se sujeten a su
+cumplimiento en cada procedimiento de contratación pública.
+Al ser información declarada bajo entera responsabilidad del proveedor, en
+caso de detectarse inconsistencia entre lo declarado, y el beneficiario final
+comprobado efectivamente como parte de las acciones de control
+gubernamental posteriores al pago, se procederá conforme lo previsto en el
+artículo 106 de la LOSNCP, sin perjuicio de las sanciones que les competa
+aplicar a otras entidades o autoridades.”
+Art. 3.- Agréguese el siguiente inciso en el artículo 64:
+“La excepción establecida en el párrafo precedente, incluye no solo a la
+persona jurídica principal que cotiza sus acciones o participaciones en las
+bolsas de valores nacionales o extranjeras y que participa como oferente en los
+procedimientos de contratación pública; sino a todas aquellas personas
+jurídicas que coticen en bolsas de valores, y que consten como accionistas de la
+persona jurídica oferente, en todos los niveles del árbol accionario respectivo.”
+Página 6 de 14
+
+TÍTULO II
+REFORMAS A LOS MODELOS DE PLIEGOS, VERSIÓN SERCOP 2.1, DE 09
+DE JUNIO DE 2017
+Art. 4- Añádanse en el número 1.15.1 “Levantamiento de sigilo bancario”, de la
+SECCIÓN I “DEL PROCEDIMIENTO DE CONTRATACIÓN”, de las Condiciones
+Generales de los pliegos de los procedimientos de Subasta Inversa Electrónica; Menor
+Cuantía de Bienes, Servicios y Obras; Cotización de Bienes, Servicios y Obras; y,
+Licitación de Bienes, Servicios y Obras; que forman parte integrante de los modelos de
+pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por el Servicio
+Nacional de Contratación Pública, los siguientes incisos:
+“Adicionalmente, en virtud de lo dispuesto en la Disposición General Décima de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura
+accionaria de una persona jurídica o consorcio oferente, cuando estén relacionadas
+con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario,
+societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas
+declaradas como beneficiarios finales, o cualquier persona que se beneficie de
+transacciones bancarias en el flujo de los recursos públicos.
+En consecuencia, los representantes legales de las personas jurídicas contratistas o
+subcontratistas del Estado, así como el procurador común de los compromisos de
+asociación o consorcio o de las asociaciones o consorcios constituidos, declararán la
+identidad de la persona natural que será el beneficiario final de los recursos públicos
+y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas en el flujo
+de los recursos públicos obtenidos como consecuencia del contrato respectivo.”
+
+Art. 5.- Agréguense en el número 1.18.1 “Levantamiento de sigilo bancario”, de la
+Sección I “DEL PROCEDIMIENTO DE CONTRATACIÓN”, de las Condiciones
+Generales de los pliegos de Régimen Especial, que forman parte integrante de los
+modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por
+el Servicio Nacional de Contratación Pública, los siguientes incisos:
+“Adicionalmente, en virtud de lo dispuesto en la Disposición General Décima de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura
+accionaria de una persona jurídica o consorcio oferente, cuando estén relacionadas
+con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario,
+societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas
+declaradas como beneficiarios finales, o cualquier persona que se beneficie de
+transacciones bancarias en el flujo de los recursos públicos.
+
+Página 7 de 14
+
+En consecuencia, los representantes legales de las personas jurídicas contratistas o
+subcontratistas del Estado, así como el procurador común de los compromisos de
+asociación o consorcio o de las asociaciones o consorcios constituidos, declararán la
+identidad de la persona natural que será el beneficiario final de los recursos públicos
+y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas en el flujo
+de los recursos públicos obtenidos como consecuencia del contrato respectivo.”
+
+Art. 6.- Insértense en el número 1.16.1 “Levantamiento de sigilo bancario”, de la
+Sección I “DEL PROCEDIMIENTO DE CONTRATACIÓN”, de las Condiciones
+Generales de los pliegos de los procedimientos de Consultoría, que forman parte
+integrante de los modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de
+2017, publicados por el Servicio Nacional de Contratación Pública, los siguientes
+incisos:
+“Adicionalmente, en virtud de lo dispuesto en la Disposición General Décima de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura
+accionaria de una persona jurídica o consorcio oferente, cuando estén relacionadas
+con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario,
+societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas
+declaradas como beneficiarios finales, o cualquier persona que se beneficie de
+transacciones bancarias en el flujo de los recursos públicos.
+En consecuencia, los representantes legales de las personas jurídicas contratistas o
+subcontratistas del Estado, así como el procurador común de los compromisos de
+asociación o consorcio o de las asociaciones o consorcios constituidos, declararán la
+identidad de la persona natural que será el beneficiario final de los recursos públicos
+y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas en el flujo
+de los recursos públicos obtenidos como consecuencia del contrato respectivo.”
+
+Art. 7.- Agréguense en el numeral 17 del número 1.1 “Presentación y Compromiso”, de la
+Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los Formularios de la Oferta de
+los procedimientos de Subasta Inversa Electrónica; Menor Cuantía de Bienes, Servicios y
+Obras; Licitación de Bienes, Servicios y Obras; Cotización de Bienes, Servicios y Obras;
+procedimientos de Consultoría; y Régimen Especial, que forman parte integrante de los
+modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por el
+Servicio Nacional de Contratación Pública, los siguientes incisos:
+“Adicionalmente, en virtud de lo dispuesto en la Disposición General Décima de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura
+accionaria de una persona jurídica o consorcio oferente, cuando estén relacionadas
+con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario,
+societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas
+Página 8 de 14
+
+declaradas como beneficiarios finales, o cualquier persona que se beneficie de
+transacciones bancarias en el flujo de los recursos públicos.
+En consecuencia, los representantes legales de las personas jurídicas contratistas o
+subcontratistas del Estado, así como el procurador común de los compromisos de
+asociación o consorcio o de las asociaciones o consorcios constituidos, declararán la
+identidad de la persona natural que será el beneficiario final de los recursos públicos
+y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas en el flujo
+de los recursos públicos obtenidos como consecuencia del contrato respectivo.”
+
+Art. 8.- Añádase en el numeral 19 del número 1.1 “Presentación y Compromiso”, de la
+Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los Formularios de la Oferta
+de los procedimientos de Subasta Inversa Electrónica; Menor Cuantía de Bienes y
+Servicios; Licitación de Bienes, Servicios y Obras; Cotización de Bienes y Servicios;
+procedimientos de Consultoría; y Régimen Especial, que forman parte integrante de los
+modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por
+el Servicio Nacional de Contratación Pública, el siguiente inciso:
+“Así también, en la letra D, del numeral 1.3 de la Sección I del presente formulario,
+declaro la identidad de la persona natural que será el beneficiario final de los recursos
+públicos y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas
+en el flujo de los recursos públicos obtenidos como consecuencia del contrato
+respectivo, de conformidad con lo dispuesto en la Disposición General Décima de la
+Ley Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP.”
+
+Art. 9.- Agréguese en el numeral 20 del número 1.1 “Presentación y Compromiso”, de la
+Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los Formularios de la Oferta
+del procedimiento de Menor Cuantía de Obras, que forman parte integrante de los
+modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por
+el Servicio Nacional de Contratación Pública, el siguiente inciso:
+“Así también, en la letra D, del numeral 1.3 de la Sección I del presente formulario,
+declaro la identidad de la persona natural que será el beneficiario final de los recursos
+públicos y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas
+en el flujo de los recursos públicos obtenidos como consecuencia del contrato
+respectivo, de conformidad con lo dispuesto en la Disposición General Décima de la
+Ley Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP.”
+
+Art. 10.- Insértese luego del texto del tercer párrafo del numeral 19 del número 1.1
+“Presentación y Compromiso”, de la Sección I “FORMULARIO ÚNICO DE LA
+OFERTA”, de los Formularios de la Oferta del procedimiento de Cotización de Obras,
+que forman parte integrante de los modelos de pliegos, versión SERCOP 2.1, de fecha
+
+Página 9 de 14
+
+09 de junio de 2017, publicados por el Servicio Nacional de Contratación Pública, el
+siguiente inciso:
+“Así también, en la letra D, del numeral 1.3 de la Sección I del presente formulario,
+declaro la identidad de la persona natural que será el beneficiario final de los recursos
+públicos y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas
+en el flujo de los recursos públicos obtenidos como consecuencia del contrato
+respectivo, de conformidad con lo dispuesto en la Disposición General Décima de la
+Ley Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP.”
+
+Art. 11.- Sustitúyase la letra e), del numeral 23, del número 1.1 “Presentación y
+Compromiso”, de la Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los
+Formularios de la Oferta de los procedimientos de Licitación de Obras; Menor Cuantía
+de Obras; y Régimen Especial-Contratación de Obras; y, la letra e), del numeral 22, del
+número 1.1 “Presentación y Compromiso”, de la Sección I “FORMULARIO ÚNICO
+DE LA OFERTA”, de los Formularios de la Oferta de los procedimientos de Subasta
+Inversa Electrónica; Menor Cuantía de Bienes y Servicios; Licitación de Bienes y
+Servicios; Cotización de Bienes, Servicios y Obras; procedimientos de Consultoría; y
+Régimen Especial-Bienes y/o Servicios, que forman parte integrante de los modelos de
+pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por el Servicio
+Nacional de Contratación Pública, por el siguiente texto:
+“e) Autorizar al Servicio Nacional de Contratación Pública o a los organismos de
+control correspondientes, el levantamiento del sigilo bancario de las cuentas
+nacionales y extranjeras, que se encuentran a nombre del oferente y a nombre de su
+representante legal, en el caso de personas jurídicas; o, del procurador común de los
+compromisos de asociación o consorcio o de las asociaciones o consorcios
+constituidos; a partir de la etapa contractual del procedimiento en el cual participa con
+su oferta.
+Adicionalmente, en virtud de lo dispuesto en la Disposición General Décima de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura
+accionaria de una persona jurídica o consorcio oferente, cuando estén relacionadas
+con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario,
+societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas
+declaradas como beneficiarios finales, o cualquier persona que se beneficie de
+transacciones bancarias en el flujo de los recursos públicos.
+En consecuencia, en la letra D, del numeral 1.3 de la Sección I del presente formulario,
+declaro la identidad de la persona natural que será el beneficiario final de los recursos
+públicos y/o quien ejerza el control de las cuentas bancarias relacionadas o inmersas
+en el flujo de los recursos públicos obtenidos como consecuencia del contrato
+respectivo.
+
+Página 10 de 14
+
+Así mismo, declaro conocer que toda la información relacionada con los pagos
+recibidos como contratista o subcontratista del Estado; así como, sus movimientos
+financieros, tendrán el carácter de públicos y deberán ser difundidos a través de un
+portal de información o página web destinada para el efecto, que permitan detectar con
+certeza el flujo de los fondos públicos. No se podrá alegar reserva tributaria,
+societaria, bursátil ni bancaria sobre este tipo de información.”
+
+Art. 12.- Sustitúyase el título del numeral 1.3 de la Sección I “FORMULARIO ÚNICO
+DE LA OFERTA”, de los Formularios signados con el acápite “III” de los
+procedimientos de Menor Cuantía de Bienes, Servicios y Obras, Cotización de Bienes,
+Servicios y Obras, Licitación de Bienes, Servicios y Obras, Subasta Inversa Electrónica,
+Consultoría, y Régimen Especial, que forman parte integrante de los modelos de
+pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por el Servicio
+Nacional de Contratación Pública, por el siguiente texto: “NÓMINA DE SOCIO(S),
+ACCIONISTA(S) O PARTÍCIPE(S) DE PERSONAS JURÍDICAS Y DISPOSICIONES
+ESPECÍFICAS PARA PERSONAS NATURALES, OFERENTES.”
+Art. 13.- Añádase luego del numeral 1 de la Letra A. “Declaración”, del numeral 1.3 de la
+Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los Formularios signados con
+el acápite “III” de los procedimientos de Menor Cuantía de Bienes, Servicios y Obras,
+Cotización de Bienes, Servicios y Obras, Licitación de Bienes, Servicios y Obras,
+Subasta Inversa Electrónica, Consultoría, y Régimen Especial, que forman parte
+integrante de los modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de
+2017, publicados por el Servicio Nacional de Contratación Pública, el siguiente texto:
+“1.1.- Libre y voluntariamente autorizo a SERCOP a publicar la información declarada
+en esta oferta sobre las personas naturales identificadas como beneficiarios finales y/o
+que ejerzan el control de las cuentas bancarias relacionadas o inmersas en el flujo de
+los recursos públicos obtenidos como consecuencia del contrato respectivo,
+conjuntamente con el listado de participes, socios y accionistas que consta registrada
+en la Superintendencia de Compañías, Valores y Seguros. Información que le permitirá
+a la entidad contratante, al Servicio Nacional de Contratación Pública y a los
+organismos de control competentes, en un primer momento, verificar que el oferente se
+encuentra debidamente habilitado para participar del presente procedimiento de
+contratación pública; y, en un segundo momento, detectar con certeza el flujo de los
+fondos públicos, otorgados en calidad de pagos a los contratistas y subcontratistas del
+Estado.”
+
+Art. 14.- En los numerales 4 y 6 de la Letra A. “Declaración”, del numeral 1.3 de la
+Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los Formularios signados con
+el acápite “III” de los procedimientos de Menor Cuantía de Bienes, Servicios y Obras,
+Cotización de Bienes, Servicios y Obras, Licitación de Bienes, Servicios y Obras,
+Subasta Inversa Electrónica, Consultoría, y Régimen Especial, que forman parte
+integrante de los modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de
+2017, publicados por el Servicio Nacional de Contratación Pública, elimínese las
+palabras “mayoritario” y “mayoritarios”.
+Página 11 de 14
+
+Art. 15.- Elimínese la frase “mayoritario (s)” en la nota ubicada luego de la primera tabla
+de la letra B., del numeral 1.3 de la Sección I “FORMULARIO ÚNICO DE LA
+OFERTA”, de los Formularios signados con el acápite “III” de los procedimientos de
+Menor Cuantía de Bienes, Servicios y Obras, Cotización de Bienes, Servicios y Obras,
+Licitación de Bienes, Servicios y Obras, Subasta Inversa Electrónica, Consultoría, y
+Régimen Especial, que forman parte integrante de los modelos de pliegos, versión
+SERCOP 2.1, de fecha 09 de junio de 2017, publicados por el Servicio Nacional de
+Contratación Pública.
+Art. 16.- Agréguese el siguiente texto a continuación de la tabla contenida en la letra C.,
+del numeral 1.3 de la Sección I “FORMULARIO ÚNICO DE LA OFERTA”, de los
+Formularios signados con el acápite “III” de los procedimientos de los procedimientos
+de Menor Cuantía de Bienes, Servicios y Obras, Cotización de Bienes, Servicios y
+Obras, Licitación de Bienes, Servicios y Obras, Subasta Inversa Electrónica,
+Consultoría, y Régimen Especial, que forman parte integrante de los modelos de
+pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por el Servicio
+Nacional de Contratación Pública:
+“D. DECLARACIÓN DE BENEFICIARIO FINAL
+1. De conformidad a lo previsto en el artículo 61 de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP, sin perjuicio de la normativa secundaría que
+para el efecto emita la Unidad de Análisis Financiero y Económico (UAFE), se
+entenderá por beneficiario final a la o las personas naturales que, través de sociedades
+u otros mecanismos societarios o asociativos, ejercen el control efectivo en la toma de
+decisiones de una persona jurídica o consorcio determinado, y/o a la o las personas
+naturales que, a través de un tercero, realizan o se benefician de una transacción
+financiera derivada del flujo de los recursos públicos obtenidos de un contrato sujeto a
+la LOSNCP; todo esto, sin perjuicio de poseer, directa o indirectamente, una
+participación accionaria o derechos a voto de la persona jurídica contratista.
+2. Por consiguiente, declaro que la(s) siguiente(s) persona(s) natural(es), sea que
+consten o no como socios o accionistas, en cualquier nivel de la estructura accionaria
+de la persona jurídica, son los beneficiarios finales y/o ejercen el control efectivo final
+de los movimientos financieros del oferente:
+Nombre
+
+Cédula/Pasaporte
+
+Nacionalidad
+
+No (s). de
+Cuenta (s)
+
+Institución
+Financiera
+
+”
+Página 12 de 14
+
+Art. 17.- Agréguese en la Cláusula Undécima de las Condiciones Generales de los
+Contratos de los procedimientos de Subasta Inversa Electrónica, Menor Cuantía de
+Bienes y Servicios, Cotización de Bienes y Servicios, Licitación de Bienes y Servicios,
+y Régimen Especial; la Cláusula Décimo Tercera de las Condiciones Generales de los
+Contratos de los procedimientos de Menor Cuantía de Obras, Cotización de Obras y
+Licitación de Obras; y, la Cláusula Décima Cuarta, de las Condiciones Generales de los
+Contratos de los procedimientos de Consultoría, que forman parte integrante de los
+modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por
+el Servicio Nacional de Contratación Pública, siguiente inciso:
+“Adicionalmente, en virtud de lo dispuesto en la Disposición General Décima de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, en concordancia con el
+artículo 61 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP; las cuentas bancarias y sus movimientos, de todas las personas naturales o
+jurídicas que consten como socios o accionistas, en cualquier nivel de la estructura
+accionaria de una persona jurídica o consorcio oferente, cuando estén relacionadas
+con el flujo de los recursos públicos, no estarán sujetas a sigilo bancario, tributario,
+societario ni bursátil. Estarán sujetas a esta disposición, inclusive las personas
+declaradas como beneficiarios finales, o cualquier persona que se beneficie de
+transacciones bancarias en el flujo de los recursos públicos.”
+
+DISPOSICIÓN TRANSITORIA
+ÚNICA: A continuación de la Disposición Transitoria Vigésima Tercera de la
+Codificación y Actualización de Resoluciones emitidas por el Servicio Nacional de
+Contratación Pública, expedida mediante Resolución Externa Nro. RE-SERCOP-20160000072, de 31 de agosto de 2016, reformada, agréguese la siguiente disposición
+transitoria:
+“VIGÉSIMA CUARTA.- Hasta que el Servicio Nacional de Contratación
+Pública haya automatizado en la herramienta informática respectiva las
+mejoras funcionales pertinentes, las entidades contratantes y proveedores del
+Estado, al momento de elaborar y publicar los pliegos y ofertas,
+respectivamente, deberán adecuar los mismos, conforme lo dispuesto en la
+Resolución Externa Nro. RE-SERCOP-2020-0110, en lo que fuere aplicable.
+Para tal efecto, en cada procedimiento de contratación pública, al momento de
+cargar los pliegos u oferta en el Sistema Oficial de Contratación Pública de
+Ecuador -SOCE, se deberá publicar de forma obligatoria toda la
+documentación relacionada a la Resolución Externa Nro. RE-SERCOP-20200110, conforme las directrices operativas que emita el SERCOP.”
+
+Página 13 de 14
+
+DISPOSICIONES DEROGATORIAS
+PRIMERA. - Deróguese el Anexo 17 de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP, publicada en la Edición Especial del Registro
+Oficial Nro. 245, de 29 de enero de 2018, así como en la sede electrónica del SERCOP,
+junto con sus consecuentes reformas; toda vez que este ya ha sido incorporado en los
+modelos de pliegos, versión SERCOP 2.1, de fecha 09 de junio de 2017, publicados por
+el Servicio Nacional de Contratación Pública.
+SEGUNDA. - Deróguese el artículo 62 de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP, publicada en la Edición Especial del Registro
+Oficial Nro. 245, de 29 de enero de 2018, así como en la sede electrónica del SERCOP,
+junto con sus consecuentes reformas.
+DISPOSICIÓN FINAL
+ÚNICA. - La presente Resolución entrará en vigencia a partir de su publicación en el
+Registro Oficial.
+Dado en la ciudad de San Francisco de Quito, DM, a los 21 días del mes de septiembre
+de 2020.
+Comuníquese y publíquese. Firmado electrónicamente por:
+
+LAURA SILVANA
+VALLEJO PAEZ
+
+Econ. Silvana Vallejo Páez
+DIRECTORA GENERAL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+
+Certifico que la presente Resolución fue aprobada y firmada el día de hoy 21 de
+septiembre de 2020.
+Firmado electrónicamente por:
+
+ARMANDO MAURICIO
+IBARRA ROBALINO
+
+Ab. Mauricio Ibarra Robalino
+DIRECTOR DE GESTIÓN DOCUMENTAL Y ARCHIVO
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+
+Página 14 de 14
+
+

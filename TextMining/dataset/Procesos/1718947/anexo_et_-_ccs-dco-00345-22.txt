@@ -1,0 +1,84 @@
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:1 de 2
+
+SUBASTA INVERSA ELECTRÓNICA DE BIENES
+ESPECIFICACIONES TÉCNICAS
+OBJETO DE LA CONTRATACIÓN:
+CCS ADQUISICION DE ACCESORIOS E INSTRUMENTOS DE MEDICION Y CONTROL
+PARA LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELECTRICA
+MANDURIACU
+UNIDAD OPERATIVA:
+CELEC EP – CCS COCA CODO SINCLAIR
+
+CIELO VERDE, 12 de julio de 2022
+
+ÁREA TÉCNICA REQUIRENTE:
+SUBGERENCIA DE PRODUCCIÓN
+MANTENIMIENTO ELECTRÓNICO
+
+Nombres:
+Responsable
+
+Aprobador
+
+Juan Vasconez
+
+Cédula
+
+1803130986
+
+Cargo:
+
+Supervisor de mantenimiento
+electrónico
+
+Nombres:
+
+Graciano Silva E.
+
+Cédula
+Cargo:
+
+0501389845
+Jefe de Central Manduriacu (S)
+
+JUAN FERNANDO
+VASCONEZ
+FREIRE
+
+GRACIANO ANTONIO
+SILVA ESPINDOLA
+2022.07.12 09:52:00 05'00'
+
+M17.P01.S03-F04 Especificaciones técnicas para subasta inversa electrónica de
+bienes.
+M17 Gestión de Compras
+P01 Gestión de la planificación y preparación de las compras
+S03 Preparación de la contratación
+Versión: 4.0
+
+Página:2 de 2
+
+OTROS PARAMETROS RESUELTOS POR LA ENTIDAD CONTRATANTE
+Nro.
+
+1
+
+PARÁMETRO
+
+Catálogo y/o Fichas técnicas
+
+DESCRIPCIÓN DEL PARÁMETRO SOLICITADO
+Para la comprobación de este parámetro, los oferentes
+deberán adjuntar a su oferta los catálogos y/o Fichas técnicas
+emitidos por el fabricante del bien ofertado. La no
+presentación de este requisito será causal de descalificación
+de la oferta.
+
+

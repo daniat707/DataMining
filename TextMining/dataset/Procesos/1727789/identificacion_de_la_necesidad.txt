@@ -1,0 +1,221 @@
+IDENTIFICACIÓN DE LA NECESIDAD PARA LA CONTRATACIÓN DE
+
+“ADQUISICIÓN DE SISTEMA INFORMÁTICO INTEGRADO ADMINISTRATIVO-FINANCIEROCATASTRO PARA LA EMPRESA PUBLICA METROPOLITANA MERCADO MAYORISTA DE
+QUITO”
+Quito, 11 de julio de 2022
+1. ANTECEDENTES.
+Un sistema integrado de información, permite unificar en un solo sistema de gestión, dos o más
+sistemas, permitiendo a una organización o empresa unificar varias áreas de la misma, logrando
+una reducción de costos, disminución de esfuerzo y maximización de resultados.
+Los sistemas integrados, marcan una nueva tendencia hacia la adquisición de aplicaciones
+estandarizadas en lugar de personalizadas según las necesidades específicas de la institución y
+logran una integración mucho mayor al utilizar una plataforma tecnológica única y concentrar toda
+la información de la empresa en una base de datos compartida por todas las áreas organizativas.
+El Mercado Mayorista de Quito EP es una Institución en la que la mayoría de procesos no se
+encuentran automatizados, y en los procesos que se encuentran automatizados se manejan varios
+sistemas para la gestión de la información administrativa como operativa los mismos que obsoletos
+y sin soporte técnico vigente por parte del proveedor, además los procesos de Talento Humano,
+Activos Fijos y Planificación no cuentan con ningún sistema informático y sus actividades las realizan
+manualmente.
+Según el estatuto orgánico de la MMQ-EP, La Jefatura de Desarrollo Tecnológico tiene como Misión
+“Art. 53. - Proveer servicios informáticos y tecnología para el procesamiento de datos y acceso a la
+información, mediante la implantación de una infraestructura tecnológica de punta y el suministro
+de sistemas y aplicaciones para coadyuvar al desarrollo integral de la Empresa”.
+Motivo por el cual, según el Informe Técnico Nro. MMQEP-F-GDO-2022-0005, se hace una solicitud
+por parte de la Jefatura Financiera a la Jefatura de Desarrollo Tecnológico la identificación de la
+necesidad para la “ADQUISICIÓN DE SISTEMA INFORMÁTICO INTEGRADO ADMINISTRATIVOFINANCIERO-CATASTRO PARA LA EMPRESA PUBLICA METROPOLITANA MERCADO MAYORISTA DE
+QUITO”, también las áreas de Catastro, Talento Humano y Activos fijos realizan las solicitudes de
+necesidad, las mismas que son adjuntadas a este documento.
+
+2. OBJETIVO DE LA COMPRA
+2.1 GENERAL.
+Adquisición de un sistema informático integrado administrativo-financiero-catastro para la
+empresa pública metropolitano mercado mayorista de quito.
+
+1
+
+2.2 ESPECÍFICOS.
+
+
+
+
+
+
+
+Implementar el sistema de gestión administrativa-financiera-talento humano-catastro
+logrando contar con un solo sistema de información, para agilitar los procesos, reducir
+costos y maximizar resultados.
+Mejorar el tiempo de respuesta de los diferentes sistemas del MMQEP.
+Facilitar las integraciones de nuevos sistemas implementados en el Mercado Mayorista
+de Quito EP.
+Reducir tiempos de gestión y costes de mantenimiento del sistema.
+Disponer de un sistema web que ingrese en base al perfil asignado
+Evitar los sistemas cliente servidor, los cuales requieren de la instalación del aplicativo
+en cada computador y diferentes permisos de acuerdo al usuario.
+
+3. JUSTIFICACIÓN DE LA COMPRA
+El MMQEP tiene claramente definidas, entre otras, las áreas en las que basa su gestión: Gerencia
+Operativa (GO), Gerencia de Desarrollo Organizacional (GDO). La GDO en su Jefatura Financiera
+tiene en producción herramientas informáticas como Olympo V7 para la parte de facturación y
+recaudación, la cual al momento no cuenta con soporte técnico ya que la versión es obsoleta como
+lo determina el proveedor, Sistema SIG-AME para la parte contable el mismo que pertenece a la
+Asociación de manualidades del Ecuador (AME) la cual es software propietario y no se cuenta con
+un soporte técnico adecuado, Las Jefaturas de Talento Humano y Activos Fijos (Bienes) no cuentan
+con un sistema informático y realizan sus actividades de forma manual, sin embargo, por la mejora
+continua en la que se encuentra inmerso el MMQEP demanda de soluciones ágiles y concentradas,
+que se ajusten a los nuevos requerimientos de la institución.
+Al momento el enfoque se encuentra en la Gerencia de Desarrollo Organizacional y en la Gerencia
+Operativa, con el objetivo no solo integrar los diferentes procesos en uno solo, sino también poder
+contar con un módulo para talento humano, Activos fijos (bienes y existencias), un módulo de
+catastro que se debe integrar al módulo financiero, integración con el biométrico, contar con un
+bitácora del personal donde se pueda contar con sus permisos, vacaciones, contratos, comisión de
+servicios, disponer de la hoja de vida del empleado, la utilización de la firma electrónica en los
+diferentes procesos. Esto permitirá racionalizar esfuerzo, recursos y costos destinados a la
+optimización de la gestión del MMQEP asegurando la calidad de cada uno de los procesos de las
+diferentes áreas. Es crucial que todos dentro de la institución trabajen con la misma información, y
+en la parte técnica se maneje una sola base de datos compartida, permitiendo un eficaz y eficiente
+mantenimiento del sistema.
+La información en el Sistema Integral en el módulo de Catastro, debe ser estructurado sobre una
+base de datos y presentarse de manera sencilla a través de una plataforma para acceso de los
+diferentes niveles de usuarios, con el objeto de contribuir a un catastro integrado con diferentes
+usos como: planificar, ejecutar, operar, administrar y supervisar los procesos de comercialización
+en el MMQ EP.
+Además, se debe considerar el Código Orgánico de la Economía Social de los Conocimientos,
+Creatividad e Innovación que dice en el Artículo 145.- Migración a software de fuente abierta. - Las
+Instituciones del sector público deberán realizar una evaluación de factibilidad de migrar sus
+tecnologías digitales a tecnologías digitales libres con los criterios establecidos en el reglamento
+correspondiente. Se evaluará la criticidad del software, debiendo considerar los siguientes criterios:
+1. Sostenibilidad de la solución;
+2. Costo de oportunidad;
+3. Estándares de seguridad;
+4. Capacidad técnica que brinde el soporte necesario para el uso del software.
+2
+
+Art. 148.- Prelación en la adquisición de software por parte del sector público. - Para la contratación
+pública relacionada a software, las entidades contratantes del sector público deberán seguir el
+siguiente orden de prelación:
+1. Software de código abierto que incluya servicios de desarrollo de código fuente, parametrización
+o implementación con un importante componente de valor agregado ecuatoriano;
+Por lo que existen aún sistemas en la institución de código cerrado que necesitan de licenciamiento
+tanto para el motor de base de datos como para el desarrollo de software. En nuestro caso puntual
+el actual sistema es de código cerrado y propietario por lo que se depende de un tercero para
+actualizaciones, mejoras o desarrollos. Con la implementación del sistema integral se estaría
+aplicando el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación,
+antes mencionado en sus artículos más importantes. Al tener el código fuente del software de código
+abierto y los derechos del sistema de información a nombre del MMQEP la institución se encuentra
+facultada para ejecutar el software conforme a los propósitos institucionales, libertad para
+modificarlo y adaptarlo a nuestras necesidades cuando sus intereses lo requieran sin necesitar
+autorización o pago de licencias de uso.
+4. DESCRIPCIÓN DEL SERVICIO.
+La solución propuesta debe estar orientada a largo plazo para el MMQEP, con el fin de que
+obtenga una constante agilidad en la definición de nuevos procesos y el uso de la infraestructura
+tecnológica.
+La contratista presentará un informe de la concurrencia en línea de al menos 100 usuarios sin
+afectar el óptimo funcionamiento del sistema.
+Las pruebas técnicas previa a la implantación serán en coordinación con el personal de las
+diferentes áreas involucradas destinadas para este proyecto en un ambiente controlado.
+La aplicación deberá obedecer a los procedimientos establecidos revisados y aprobados que son
+utilizados en las diferentes áreas del MMQEP (Administrativa Financiera, Planificación, Talento
+Humano, Catastro, Activos Fijos).
+La información de datos se realizará en lo posible de todos los sistemas que tiene actualmente el
+MMQEP y que están dentro de la Implementación del sistema de información.
+Para la elaboración de la información requerida por el proveedor la MMQEP enviara la
+información en el formato Excel remitido al oferente.
+La customización de reportes serán entregada por parte de la MMQEP en formato Excel para el
+desarrollo en el sistema y que sean revisadas antes de entrar en funcionamiento de la aplicación
+informática.
+Se ha considerado que las especificaciones funcionales y no funcionales del sistema deban ser
+creadas y programadas de los siguientes módulos o parámetros:
+No.
+
+CPC
+
+Descripción CPC
+
+Cantidad
+
+Unidad
+
+1
+
+512900031
+
+SISTEMA DE GESTION INFORMATICO ERP
+
+1
+
+U
+
+3
+
+Orden
+
+Descripción del Bien
+
+1
+
+Modulo Administrativo - Financiero
+
+2
+
+Módulo de Talento Humano y Nomina
+
+3
+
+Módulo de Activos Fijos
+
+4
+
+Módulo de Recaudación, Rentas
+
+5
+
+Módulo de Catastro
+
+El lugar de entrega del servicio será en las instalaciones de la Empresa Pública Metropolitana
+Mercado Mayorista de Quito MMQEP, ubicado en la Avenida Teniente Hugo Ortiz y Ayapamba S/N.
+
+5. FORMA DE PAGO
+30% como anticipo.
+70% a la firma del acta de entrega recepción final de los productos esperados y presentación del
+informe técnico tanto del oferente y del administrador y factura.
+
+6. RECOMENDACIONES
+Se recomienda se proceda con el trámite correspondiente para la autorización del inicio de
+proceso para la “ADQUISICIÓN DE SISTEMA INFORMÁTICO INTEGRADO ADMINISTRATIVOFINANCIERO-CATASTRO PARA LA EMPRESA PUBLICA METROPOLITANA MERCADO MAYORISTA DE
+QUITO”.
+
+7. FIRMAS DE RESPONSABILIDAD
+
+NOMBRE
+
+4
+
+Elaborado Por:
+
+Ing. Mauricio Quilachamín
+Jefe de Desarrollo Tecnológico
+
+Revisado y
+Aprobado Por:
+
+Mgs. Juan Gabriel Jarrín
+Gerente de Desarrollo
+Organizacional
+
+FIRMA
+digitalmente por
+CARLOS MAURICIO Firmado
+CARLOS MAURICIO
+QUILACHAMIN SIMBAÑA
+QUILACHAMIN
+Fecha: 2022.07.11 20:17:54
+SIMBAÑA
+-05'00'
+
+digitalmente por JUAN
+JUAN GABRIEL Firmado
+GABRIEL JARRIN PEREIRA
+JARRIN PEREIRA Fecha: 2022.07.11 08:14:59 -05'00'
+
+

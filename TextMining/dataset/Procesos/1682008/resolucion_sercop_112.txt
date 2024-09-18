@@ -1,0 +1,905 @@
+RESOLUCIÓN No. RE-SERCOP-2021-0112
+LA DIRECTORA GENERAL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+CONSIDERANDO:
+Que,
+
+el artículo 226 de la Constitución de la República del Ecuador prescribe que: “Las
+instituciones del Estado, sus organismos, dependencias, las servidoras o servidores
+públicos y las personas que actúen en virtud de una potestad estatal ejercerán solamente
+las competencias y facultades que les sean atribuidas en la Constitución y la ley. Tendrán
+el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce
+y ejercicio de los derechos reconocidos en la Constitución”;
+
+Que,
+
+el artículo 227 de la citada Norma Suprema ordena que: “La administración pública
+constituye un servicio a la colectividad que se rige por los principios de eficacia,
+eficiencia, calidad, jerarquía, desconcentración, descentralización, coordinación,
+participación, planificación, transparencia y evaluación”;
+
+Que,
+
+el artículo 288 de la Norma Ibídem dispone que: “Las compras públicas cumplirán con
+criterios de eficiencia, transparencia, calidad, responsabilidad ambiental y social. […]”;
+
+Que,
+
+el artículo 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública [adelante
+LOSNCP] define que para la aplicación de la aludida Ley y de los contratos que de ella
+deriven, se observarán los principios de legalidad, trato justo, igualdad, calidad, vigencia
+tecnológica, oportunidad, concurrencia, transparencia, publicidad; y, participación
+nacional;
+
+Que,
+
+el artículo 10 de la LOSNCP, establece que el SERCOP es un organismo de derecho
+público, técnico-regulatorio, con personalidad jurídica propia y autonomía
+administrativa, técnica, operativa, financiera y presupuestaria; encargado de cumplir y
+hacer cumplir los objetivos prioritarios del Estado en materia de contratación pública,
+reconocidos en el artículo 9 de la Ley Ibídem. El máximo personero y representante legal
+de este Servicio Nacional es la Directora o Director General, teniendo dentro de sus
+atribuciones las siguientes: “[...] 9. Dictar normas administrativas, manuales e
+instructivos relacionados con esta Ley [...]”, en armonía con el numeral 6 del artículo 132
+de la Constitución de la República del Ecuador.
+
+Que,
+
+mediante Decreto Ejecutivo Nro. 1131, de 25 de agosto de 2020, se nombró a la
+Economista Laura Silvana Vallejo Páez como máxima autoridad institucional del
+SERCOP;
+
+Que,
+
+un solo procedimiento de contratación puede agrupar varios bienes o servicios; situación
+que la doctrina lo denomina como objetos mixtos y se refieren a los contratos de servicios
+con pluralidad de prestaciones. Asimismo, la normativa de la Unión Europea respecto a
+contratación pública, ha regulado a este tipo de contratos en la Directiva 2014/25/UE y
+en la Directiva 2004/18/CE, e incluso ha diferenciado de los contratos con pluralidad de
+prestaciones que correspondan a la misma categoría contractual de los contratos mixtos
+
+o complejos que poseen fusión o combinación de prestaciones correspondientes a
+distintos contratos (obras-servicios y suministros). En este sentido, se colige que en dichas
+contrataciones es exigible el desglose y enumeración de las unidades requeridas y del
+precio por cada unidad o ítem; no así, para desagregar o dividir los componentes de los
+cuales se conforman los bienes o servicios.;
+Que, en consideración a las atribuciones de la Dirección de Herramientas de la Contratación
+Pública de este Servicio Nacional, se requiere efectuar una reforma en lo referente a la
+localidad y al desarrollo de la fase preparatoria y precontractual en el procedimiento de
+Menor Cuantía, adaptando el mismo a las disposiciones normativas contenidas en el
+artículos 6 numerales 15, 50, 51 y 52 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública, en concordancia con lo dispuesto en los artículos 58 y 59 del
+Reglamento General a la Ley Ibídem;
+Que,
+
+si bien el estudio de mercado al que se refiere el artículo 23 de la LOSNCP, es una
+disposición transversal aplicable a las compras públicas, en consideración a que tales
+estudios son la base de las especificaciones generales y técnicas del procedimiento de
+contratación, de los cuales se obtiene el presupuesto referencial, mismo que constituye
+un requisito sine qua non para certificar la disponibilidad presupuestaria; es importante
+determinar y diferenciar que cada procedimiento goza de ciertas particularidades, según
+la naturaleza de cada obra, bien o servicio a ser adquirido;
+
+Que,
+
+el artículo 57 de la Norma Ibídem establece el procedimiento de contratación en caso de
+suscitarse situaciones de emergencia enmarcadas en las características generales del
+numeral 31 del artículo 6 de la Ley ut supra. Dichas contrataciones tienen como propósito
+reducir vulnerabilidades, prevenir, mitigar, atender y recuperar eventuales efectos
+negativos derivados de desastres o emergencias en el territorio nacional, de conformidad
+a los numerales 3, 5 y 6 del artículo 389 de la Norma Suprema. En este tipo de
+procedimiento las entidades contratantes tienen la posibilidad de realizar contrataciones
+directas, bajo su estricta responsabilidad y sujeta a controles concurrentes y posteriores.
+En este mismo sentido cabe indicar que, por su parte, la Corte Constitucional del Ecuador,
+a través de Sentencia Nro. 29-20-IS/20, de 01 de abril de 2020, dictada dentro del Caso
+Nro. 29-20-IS, señaló en el párrafo 72, que: “[...] durante un estado de excepción está
+plenamente vigente el derecho a hacer efectivo el principio de publicidad de los actos,
+contratos y gestiones de las instituciones del Estado, en sujeción a las regulaciones y
+limitaciones contempladas en nuestro ordenamiento jurídico”;
+
+Que,
+
+el artículo 59.1 de la LOSNCP, establece que la Feria Inclusiva es un procedimiento que
+se utilizará preferentemente por toda entidad contratante, con el objeto de adquirir obras,
+bienes y servicios de producción nacional, catalogados o normalizados, no catalogados o
+no normalizados. Con respecto a la contratación de obras, las entidades contratantes
+podrán realizar el procedimiento para obras, servicios de construcción, reparación,
+refacción, remodelación, adecuación o mejora de una construcción o infraestructura ya
+existente, de conformidad al artículo 338 de la Codificación y Actualización de
+Resoluciones emitidas por el SERCOP. Es importante resaltar que en dicho
+procedimiento únicamente podrán participar, en calidad de proveedores los productores
+individuales, las organizaciones de la Economía Popular y Solidaria, las unidades
+económicas populares, los artesanos, las micro y pequeñas unidades productivas, los
+
+Que,
+
+cuales deberán acogerse al igual que las entidades contratantes, a los procedimientos para
+feria inclusiva establecidos por el SERCOP, conforme lo establece el artículo 67 del
+RGLOSNCP;
+el segundo y tercer inciso del numeral 1 del artículo 132 de la Ley Orgánica de Economía
+Popular y Solidaria determina que: “La Feria Inclusiva será uno de los procedimientos de
+contratación que las entidades contratantes utilizarán para priorizar la adquisición de
+obras, bienes o servicios normalizados o no normalizados provenientes de las personas y
+organizaciones sujetas a esta Ley. El ente rector de las compras públicas en coordinación
+con el Instituto establecerá las obras, bienes y servicios normalizados y no normalizados
+que deberán ser adquiridos a través de Feria Inclusiva y otros procedimientos”;
+
+Que, la Disposición General Quinta y la Disposición Transitoria Tercera de la LOSNCP
+establecen que para la realización de los procedimientos electrónicos previstos en la
+aludida Ley, se emplearán métodos actualizados y confiables para garantizar el
+correcto funcionamiento del Portal Institucional y el uso eficiente y seguro de las
+herramientas informáticas y, que hasta que existan en el país empresas certificadoras
+de firma electrónica autorizadas por el organismo del Estado competente, el Servicio
+Nacional de Contratación Pública responsable de la administración del Portal
+COMPRASPUBLICAS, tomará todas las medidas técnicas necesarias para que el uso
+de las herramientas informáticas que utilice, den seguridad a las transacciones que se
+efectúen de conformidad con esta Ley;
+Que, el artículo 23 del RGLOSNCP, sobre la convalidación de errores determina que las
+ofertas, una vez presentadas no podrán modificarse. No obstante, si se presentaren errores
+de forma, podrán ser convalidados por el oferente a pedido de la entidad contratante,
+dentro del término mínimo de 2 días o máximo de 5 días, contado a partir de la fecha de
+notificación. Dicho término se fijará a criterio de la Entidad Contratante, en relación al
+procedimiento de contratación y al nivel de complejidad y magnitud de la información
+requerida. El pedido de convalidación será notificado a todos los oferentes, a través del
+Portal www.compraspublicas.gov.ec. Asimismo, dicho artículo establece que se
+entenderán por errores de forma aquellos que no implican modificación alguna al
+contenido sustancial de la oferta, tales como errores tipográficos, de foliado, sumilla o
+certificación de documentos; en este sentido, y de conformidad a lo expuesto, es necesario
+partir de la idea central que compone este artículo y revisar así el tratamiento dado a la
+convalidación de errores en la Codificación y Actualización de Resoluciones emitidas por
+el SERCOP. Es evidente que, partiendo de este razonamiento, deben establecerse formas
+de convalidación que alimenten la concurrencia de proveedores en la participación en
+procedimientos de contratación pública, señalando a la concurrencia como uno de los
+principios que rigen la contratación pública en concordancia a lo determinado en el
+artículo 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública, por lo que
+es imperante establecer ciertos criterios de convalidación de errores que no atenten contra
+los requisitos esenciales de la oferta, como son: el objeto, precio y términos de referencia
+o especificaciones técnicas dependiendo del procedimiento de contratación, y de eta
+forma encontrarse al unísono de lo planteado en el artículo 23 del Reglamento
+mencionado;
+Que,
+
+el Código Orgánico Administrativo en sus artículos 90 y 94, en concordancia con los
+numerales 4, 15 y 18 del artículo 3, los artículos 14 y 45 de la Ley Orgánica para la
+
+Optimización y Eficiencia de Trámites Administrativos y, el numeral 410-17 de las
+Normas de Control Interno de la Contraloría General del Estado, establecen que las
+actividades de las administraciones públicas deben instrumentarse a través de la gestión
+total de trámites en línea y el uso de medios electrónicos, tales como los certificados
+digitales de firma electrónica los cuales tendrán igual validez y se le reconocerán los
+mismos efectos jurídicos que a una firma manuscrita en relación con los datos
+consignados en documentos escritos. Por tal motivo, es importante resaltar que la
+implementación de dichas herramientas en materia de contratación constituirá un eje
+fundamental de transformación que permitirá dar cumplimiento a los principios
+rectores que se encuentran establecidos tanto en el artículo 288 de la CRE como en
+el artículo 4 de la LOSNCP;
+Que,
+
+el artículo 21 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP, establece: “[…] Las personas naturales y jurídicas, ecuatorianas y extranjeras
+que pretendan participar individualmente, en asociación o en consorcio, en los
+procedimientos de contratación regulados por la Ley Orgánica del Sistema Nacional de
+Contratación Pública, deberán registrarse y habilitarse en el Registro Único de
+Proveedores -RUP, como proveedores mediante el procedimiento simplificado por vía
+electrónica, quienes quedarán sujetos a la vigilancia y control del Servicio Nacional de
+Contratación Pública. […]”;
+
+Que,
+
+el artículo 56 de la Codificación y Actualización de Resoluciones emitidas por el
+SERCOP, establece: “[…]Las solicitudes o pedidos de asesoramiento versarán
+exclusivamente sobre asuntos que interesen directamente a las entidades solicitantes,
+relacionados con la implementación y operación de instrumentos y herramientas del
+Portal Institucional del Servicio Nacional de Contratación Pública, los procedimientos de
+contratación pública para la adquisición o arrendamiento de bienes, ejecución de obras y
+prestación de servicios, incluidos los de consultoría, previstos en la Ley Orgánica del
+Sistema Nacional de Contratación Pública, su Reglamento General de aplicación y la
+normativa emitida por el Servicio Nacional de Contratación Pública”;
+
+Que,
+
+el artículo 60 de la Codificación Ibídem, establece: “[…] Los contratistas, proveedores o
+personas interesadas en participar en procedimientos de selección previstos en la Ley
+Orgánica del Sistema Nacional de Contratación Pública recibirán asesoramiento del
+Servicio Nacional de Contratación Pública por intermedio de la Dirección de Registro y
+Atención a Usuarios a través de sus canales de atención”;
+
+Que,
+
+en el texto actual de la Codificación ut supra, no existen reglas claras respecto de la
+ejecución contractual, lo cual ocasiona que las entidades contratantes tengan la facultad
+de tomar decisiones discrecionales que en muchos casos lleguen a convertirse en reglas
+arbitrarias. En tal sentido, se considera necesario incluir normas jurídicas previas y claras
+que delimiten la fase de ejecución contractual, particularmente con relación a la
+administración de contratos, que establezcan las atribuciones del administrador del
+contrato, con el propósito de brindar seguridad jurídica, de conformidad a lo determinado
+en el artículo 82 de la CRE;
+
+Que,
+
+es importante mencionar que actualmente la contratación pública en general, y las
+contrataciones en situaciones de emergencia, en particular, son eminentemente dinámicas
+
+y se encuentran en constante cambio. Por tal razón, es necesario implementar ciertas
+reformas a la normativa secundaria emitida por el SERCOP, a efectos de regular y
+delimitar las contrataciones que realizan las distintas instituciones del sector público en
+situaciones de emergencia, con la finalidad de que dichas contrataciones se realicen con
+eficiencia y oportunidad, así como transparencia; y, las mismas, se orienten directamente
+a satisfacer las urgencias propias de la situación de emergencia, en procura de garantizar
+los derechos a la vida, salud e integridad física de la población;
+Que,
+
+es indispensable la implementación de definiciones para el buen entendimiento de la
+contratación pública en general; y, que permita el correcto direccionamiento de las
+compras públicas en concordancia con el artículo 288 de la Constitución de la República
+del Ecuador, en la que establece que las compras públicas se cumplirán con criterios de
+eficiencia, transparencia, calidad, responsabilidad ambiental y social;
+
+Que,
+
+varias resoluciones administrativas y Disposiciones Transitorias contenidas en la
+Codificación y Actualización de Resoluciones expedidas por el SERCOP, han perdido
+vigencia ya por la obsolescencia de sus preceptos; por haberse cumplido con el objeto de
+la normativa respectiva o por cuanto la existencia de disposiciones normativas emitidas
+de forma posterior las han derogado tácitamente, se ha efectuado una depuración
+normativa que garantice el cumplimiento del derecho a la seguridad jurídica según lo
+dispuesto en el artículo 82 de la Norma Suprema antes citada;
+
+Que,
+
+es necesario armonizar los parámetros de calificación establecidos para los
+procedimientos de obras en los modelos de pliegos, en base a unos de los principios que
+rigen la contratación pública, como es la concurrencia; ya que, si los parámetros se
+encuentran debidamente establecidos la participación de los oferentes sería mayor,
+favoreciendo así el desarrollo de los procedimientos de contratación pública, si
+necesidad de que se establezcan otros parámetros adicionalmente;
+
+En ejercicio de sus atribuciones conferidas en el numeral 9 del artículo 10 de la Ley Orgánica del
+Sistema Nacional de Contratación Pública, en concordancia con el numeral 4 del artículo 7 y
+Disposición General Cuarta del RGLOSNCP, y artículo 130 del Código Orgánico Administrativo,
+RESUELVE:
+EXPEDIR REFORMAS A LOS SIGUIENTES INSTRUMENTOS NORMATIVOS
+EMITIDOS POR EL SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA:
+TÍTULO I
+EXPEDIR REFORMAS A LA RESOLUCIÓN EXTERNA NRO. RE- SERCOP20160000072, PUBLICADA EN LA EDICIÓN ESPECIAL DEL REGISTRO OFICIAL NRO.
+NRO. 425, DE 29 DE ENERO DE 2018, MEDIANTE LA CUAL SE EXPIDIÓ LA
+CODIFICACIÓN Y ACTUALIZACIÓN DE RESOLUCIONES EMITIDAS POR EL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+Art.1.- En el artículo 2, realícense las siguientes modificaciones:
+1. A continuación del numeral 4.1 agréguese el siguiente numeral:
+
+“4.2 Bienes (en general).- Cosas corporales e incorporales de naturaleza mueble o inmueble
+que requiere una entidad contratante para el desarrollo de sus actividades y el cumplimiento
+de sus atribuciones y fines, a través de la utilización o consumo de estos.
+Se entenderá que cuando el contrato implique la fabricación, manufactura o producción de
+bienes muebles, el procedimiento será de adquisición de bienes. Se incluyen también dentro
+de la contratación de bienes a los de arrendamiento mercantil con opción de compra.”
+2. A continuación del numeral 36 agréguese el siguiente numeral:
+“36.1 Obra.- Construcción, reconstrucción, remodelación, mantenimiento, mejoramiento,
+demolición, renovación, ampliación, instalación, habilitación, y en general cualquier
+trabajo material sobre bienes inmuebles o sobre el suelo o subsuelo, tales como
+edificaciones, túneles, puertos, sistemas de alcantarillado y agua potable, presas, sistemas
+eléctricos y electrónicos, estructuras, excavaciones, perforaciones, carreteras, puentes,
+entre otros, que requieran dirección técnica, expediente técnico, mano de obra, materiales
+y/o equipos. En caso de que las actividades o trabajos no cumplan con las características
+antes expuestas, el objeto de la contratación corresponderá a la prestación de un servicio.”
+3. A continuación del numeral 65 agréguese el siguiente numeral:
+“65.1. Servicio (en general).- Prestaciones de hacer, consistentes en el desarrollo de una
+actividad o labor temporal, que realiza un proveedor, para atender una necesidad de la
+entidad contratante, pudiendo estar sujeta a resultados para considerar terminada tal
+prestación.”
+
+Art.2.- Sustitúyase el numeral 2 del artículo 9, por el siguiente:
+“2. Estudio de mercado para la definición de presupuesto referencial, que deberá contener
+las siguientes consideraciones mínimas: 1. Análisis del bien o servicio a ser adquirido:
+características técnicas, el origen (nacional, importado o ambos), facilidad de adquisición
+en el mercado, número de oferentes, riesgo cambiario en caso de que el precio no esté
+expresado en dólares; 2. Considerar los montos de adjudicaciones similares realizadas en
+años pasados; 3. Tomar en cuenta la variación de precios locales e/o importados, según
+corresponda. De ser necesario traer los montos a valores presentes, considerando la
+inflación (nacional e/o internacional); es decir, realizar el análisis a precios actuales; 4.
+Considerar la posibilidad de la existencia de productos o servicios sustitutos más eficientes;
+y, 5. Proformas de proveedores de bienes o servicios a contratar.
+En la elaboración de las especificaciones técnicas o términos de referencia por parte de la
+entidad contratante, en el estudio de mercado para la definición del presupuesto referencial,
+así como en la elaboración y entrega de proformas o cotizaciones por parte de los
+proveedores, se deberá desglosar y enumerar de forma detallada e individual el bien o
+servicio, denominado ítem, que conforman la contratación, especificando el código CPC, la
+cantidad de unidades requeridas y el desglose del precio por cada unidad o ítem, según
+corresponda.
+
+El desglose y enumeración a los que hace mención el inciso previo, se refiere a las
+contrataciones en las que se mezclan o agrupan varios bienes o servicios en el objeto
+contractual; es decir que, los varios bienes o servicios a contratarse puedan
+individualizarse, diferenciarse y ser plenamente identificables, cuantificables y utilizables
+por sí mismos.
+En todos los casos, la entidad contratante deberá realizar un análisis racional y minucioso
+de la contratación a desarrollarse, considerando para el efecto la naturaleza de la
+contratación y sus particularidades especiales, dando cumplimiento a los principios
+previstos en el artículo 4 de la Ley Orgánica del Sistema Nacional de Contratación Pública
+En los contratos de tracto sucesivo, donde el proveedor se obliga a entregar una pluralidad
+de bienes o prestar una serie de servicios, de forma sucesiva y por precio unitario, sin que
+la cuantía total se defina con exactitud, por estar subordinadas a las entregas conforme a
+la necesidad, la entidad podrá opta por no contemplar la cantidad de unidades requeridas”.
+
+Art.3.- En el artículo 10.1, efectúense las siguientes reformas:
+1. Sustitúyase el primer inciso por el siguiente texto:
+“Art. 10.1.- Documentos firmados electrónicamente. Los documentos relevantes
+correspondientes a las fases preparatoria, precontractual inclusive las ofertas,
+contractual y de ejecución contractual, dependiendo del procedimiento de contratación
+pública y conforme con las disposiciones y directrices que emita este Servicio Nacional,
+deberán estar firmados electrónicamente, tanto para las entidades contratantes como
+para los proveedores del Estado.”
+2. Sustitúyase el cuarto inciso por el siguiente texto:
+“Los documentos a los que se refiere el primer inciso, serán determinados por el
+SERCOP; los cuales, serán válidos únicamente si tienen firma electrónica. El sistema
+oficial de validación de documentos firmados electrónicamente será el sistema FIRMA
+EC, provisto por el Ministerio de Telecomunicaciones y de la Sociedad de la
+Información, conforme a las directrices que este emita por acuerdo ministerial.”
+
+Art.4.- En el artículo 24.1, efectúense las siguientes reformas:
+1. Sustitúyase el primer y segundo incisos, por el siguiente texto:
+“Art. 24.1.- Del certificado de firma Electrónica.- Para la presentación y suscripción
+de determinados documentos en las distintas fases de la contratación, los proveedores
+del Estado deberán poseer certificado vigente de firma electrónica expedido por una de
+
+las Entidades de Certificación de Información y Servicios Relacionados, autorizada y
+acreditada por la Agencia de Regulación y Control de las Telecomunicaciones.
+El certificado de firma electrónica deberá ser individual y estar vinculado
+exclusivamente a su titular. Para el caso de personas jurídicas, estará obligado a poseer
+el certificado de firma electrónica, quien ejerza la representación legal o quién esté
+facultado legalmente para actuar en dicha calidad. El certificado de firma electrónica
+de estos representantes legales se obtendrá conforme lo determine cada Entidad de
+Certificación.”
+2. Sustitúyase, en el quinto inciso, por el siguiente texto:
+“Las ofertas presentadas, dependiendo del procedimiento de contratación pública y
+conforme con las disposiciones y directrices que emita este Servicio Nacional, serán
+válidas únicamente si tienen una firma electrónica. El sistema oficial de validación de
+documentos firmados electrónicamente será el sistema FIRMA EC, provisto por el
+Ministerio de Telecomunicaciones y de la Sociedad de la Información, conforme a las
+directrices que este emita por acuerdo ministerial.
+En los casos de ofertas presentadas con firma electrónica, cada anexo o documentación
+de respaldo que se adjunte, y que hayan sido suscritos o emitidos por un tercero con
+firma manuscrita, deberán ser digitalizados y este documento será firmado
+electrónicamente por el oferente. Esta firma implicará la declaración de que todos los
+documentos presentados son auténticos, exactos y veraces, y que el oferente se hace
+responsable de los mismos dentro de los controles posteriores que se pueda realizar.
+
+Art.5.- Sustitúyase el artículo 24.2, por el siguiente texto:
+“Art. 24.2.- De las obras, bienes y/o servicios ofertados.- Las personas naturales y
+jurídicas, nacionales y extranjeras, interesadas en habilitarse como proveedores del
+Estado, al momento de inscribirse en el Registro Único de Proveedores - RUP, deberán
+seleccionar únicamente las obras, bienes y/o servicios cuyos códigos, dentro del
+Clasificador Central de Productos -CPC, guarden relación directa con su actividad
+económica, principal o adicional, registrada en el Registro Único de Contribuyentes RUC conforme a la regulación del Servicio Nacional de Rentas Internas – SRI.
+Para la habilitación en el RUP de consorcios o promesas de consorcio, cada uno de los
+miembros deberá cumplir con esta disposición.
+En los casos de actualización o inclusión de códigos CPC, el trámite respectivo deberá
+realizarse de forma oportuna, cumpliendo con las disposiciones y directrices que emita
+
+este Servicio Nacional. El SERCOP podrá eliminar y/o modificar los códigos CPCs que
+no se encuentren alineados a las actividades económicas registradas por el proveedor
+en el RUC.
+La verificación y control de lo previsto en este artículo le corresponde exclusivamente al
+SERCOP, por lo que, la entidad contratante no podrá requerir en los pliegos o
+descalificar una oferta porque el proveedor no cuenta en su RUP con un código CPC
+específico.
+En el caso de personas jurídicas extranjeras no domiciliadas en el Ecuador, para
+proceder con su registro en el RUP, deberán justificar documentadamente su actividad
+comercial. Si los documentos que acrediten la actividad comercial de esta clase de
+personas jurídicas se encontraren en un idioma distinto al castellano, deberán estar
+debidamente traducidos al idioma oficial de Ecuador.”
+Art.6.- A continuación del artículo 60, agréguese el siguiente texto:
+“El asesoramiento brindado por parte del SERCOP, a través de los canales de atención
+al usuario sea por vía telefónica o chat en línea, tiene carácter orientativo más no
+vinculante o interpretativo, por lo que no podrán ser utilizados como prueba, evidencia
+o justificación para actuaciones.”
+
+Art.7.- Elimínese del tercer inciso del artículo 68, la siguiente frase:
+“las contrataciones de Menor Cuantía,”
+
+Art.8.- A continuación del primer inciso del artículo 156, agréguese el siguiente inciso:
+“En el caso de procedimientos donde se utiliza la firma electrónica, se entenderá por
+presentación de documentación e información de manera física, a la presentación de esta
+en un dispositivo de almacenamiento magnético. La entidad también podrá optar por
+habilitar un correo electrónico para recibir esta documentación.”
+
+Art.9.- En el artículo 157, agréguese después del numeral 3, el siguiente numeral:
+“4. Cualquier oferta presentada con firma manuscrita digitalizada en los procedimientos
+en los que el SERCOP haya establecido la obligación de emplear firma electrónica. La
+convalidación consistirá en que el oferente proceda a firmar su oferta con firma
+electrónica.”
+Art.10.- Sustitúyase del segundo inciso del artículo 305, la frase: “una parroquia rural,” por la
+siguiente palabra: “un”.
+
+Art.11.- Suprímase del artículo 311, las frases: “la parroquia rural,”
+Art.12.- Sustitúyase la Sección I “CONFORMACIÓN DE LA LISTA DE INTERÉS DE
+OFERENTES DE BIENES Y/O SERVICIOS” del Capítulo IV “DISPOSICIONES
+RELATIVAS A LOS PROCEDIMIENTOS DE MENOR CUANTÍA” del Título V “DE LOS
+PROCEDIMIENTOS DE RÉGIMEN COMÚN”, por la siguiente:
+“Sección I
+Participación local en la contratación de bienes, servicios y en la ejecución de obras
+Art.312.- Determinación del lugar donde tendrá efecto el objeto de contratación.- La
+entidad contratante identificará el cantón y la provincia donde se destinarán los bienes, se
+prestará el servicio objeto de la contratación o se ejecutará la obra.
+Para el caso en que el destino de los bienes y/o servicios, tenga efecto en más de un cantón
+o provincias, se seleccionará el cantón y la provincia en que se destine la mayor inversión
+económica de acuerdo a los componentes establecidos en el precio referencial del objeto de
+la contratación.
+La selección incorrecta del lugar de la contratación invalidará el procedimiento
+precontractual y en tal situación deberá ser cancelado o declarado desierto, según
+corresponda.
+Art. 313.- Participación local.- Serán considerados como proveedores locales para efectos
+de la aplicación de la contratación preferente, las personas naturales registradas en el
+Registro Único de Proveedores -RUP que, de conformidad al numeral 22 del artículo 6 de
+la Ley Orgánica del Sistema Nacional de Contratación Pública, tengan su domicilio al
+menos seis (6) meses, en el cantón o provincia donde surtirá efectos el objeto de la
+contratación con los que se formará una lista de selección. En el caso de las personas
+jurídicas, serán consideradas locales aquellas cuya oficina principal o matriz estén
+domiciliadas, al menos seis (6) meses, en el cantón o provincia donde se destinen los bienes,
+se preste el servicio objeto de la contratación o se ejecute la obra.
+Para efectos de este capítulo, en el caso de personas naturales, el domicilio se acreditará
+única y exclusivamente con el registro y habilitación en el RUP así como en el código CPC.
+Respecto de las personas jurídicas dicha acreditación será con la habilitación de la oficina
+principal o matriz en el Registro Único de Proveedores –RUP y en el código CPC, el que
+deberá ser concordante con el Registro Único de Contribuyentes.
+Para el caso de los compromisos de asociación o consorcios, consorcios o asociaciones,
+todos los asociados deberán estar al menos seis (6) meses domiciliados obligatoriamente en
+el cantón o provincia donde se destinen los bienes, se presten los servicios o se ejecuten las
+obras.”
+
+Art.13.-Elimínese expresamente los artículos 314, 315, 316, 317, 318 y 319.
+
+Art.14.- Sustitúyase el artículo 320, por el siguiente texto:
+“Art.- 320.- Convocatoria.- La entidad contratante publicará la convocatoria junto con
+los términos básicos del requerimiento y conforme a los modelos de los pliegos publicados
+en el Portal Institucional del Servicio Nacional de Contratación Pública. En la
+convocatoria se deberá establecer el cronograma respectivo.
+La máxima autoridad de la entidad contratante o su delegado, de considerarlo, de manera
+motivada, podrá cambiar el cronograma del procedimiento, únicamente hasta la fecha
+límite establecida para realizar preguntas, respuestas y aclaraciones a los oferentes.
+Para el efecto, publicará en el Portal Institucional del Servicio Nacional de Contratación
+Pública la resolución motivada respectiva y procederá con el cambio requerido.”
+Art.15.- A continuación del artículo 320, añádase el siguiente:
+“Art.320.1.- Manifestaciones de interés.- Los proveedores invitados y habilitados que
+estén en condiciones de suministrar el bien o prestar el servicio requerido, enviarán su
+manifestación de interés a través del Portal Institucional del Servicio Nacional de
+Contratación Pública, la misma que deberá ser analizada por la entidad requirente.
+La manifestación de interés deberá contener los siguientes elementos:
+1. Carta de adhesión a las especificaciones técnicas del bien o los términos de referencia
+del servicio requerido.
+2. Oferta económica.”
+
+Art.16.- Sustitúyase el artículo 321, por el siguiente texto:
+“Art. 321.- Invitación, selección y reselección.- Una vez publicada la convocatoria para
+la adquisición de bienes o la prestación de servicios que se sigan a través del
+procedimiento de Menor Cuantía, la entidad contratante procederá de la siguiente
+manera:
+1. Se invitará a todos los proveedores de micro y pequeñas empresas, actores
+pertenecientes al sector de la economía popular y solidaria, profesionales o artesanos,
+registrados y habilitados en el Registro Único de Proveedores -RUP y que se encuentren
+domiciliados en el cantón donde surta efecto el objeto de contratación y en el código CPC
+objeto de dicha contratación.
+2. Los proveedores que estén en la capacidad de ofertar lo requerido por la entidad
+enviarán la manifestación de interés en el término máximo de veinte y cuatro (24) horas
+contadas a partir de la recepción de la publicación del cronograma inicial o de la
+
+reselección. Para participar en este procedimiento se deberá cumplir con los umbrales de
+Valor Agregado Ecuatoriano definido por la entidad.
+3. El Sistema Oficial de Contratación Pública ordenará las manifestaciones de interés en
+base a los criterios de localidad, precio, tamaño y cronología; y, le notificará a la entidad
+contratante para que proceda con las siguientes etapas con el proveedor seleccionado.
+Esta selección la realizará sobre la base de las manifestaciones de interés enviadas por
+los proveedores.
+Cada listado de manifestaciones de interés tendrá una vigencia de setenta y dos (72) horas,
+por lo que en caso de que la entidad no procediera con la selección del proveedor en el
+término indicado, se deberá realizar una reselección en el nivel territorial que
+corresponda, hasta llegar al nivel nacional.
+Si con el listado de manifestaciones de interés producto de una reselección a nivel
+nacional, la entidad contratante en el término de 72 horas no procediera con la selección
+del proveedor, el procedimiento se podrá: 1) declarar desierto, o 2) reiniciar las
+invitaciones desde el nivel cantonal acorde a lo previsto en este artículo.
+4. Si de la invitación a nivel cantonal, no se recibiere al menos tres (3) manifestaciones de
+interés por parte de los proveedores invitados, la entidad procederá con una reselección.
+Para el efecto, el SOCE invitará a todos los proveedores, sean micro y pequeñas empresas,
+artesanos o profesionales, y sectores de la economía popular y solidaria; registrados y
+habilitados en el RUP y que se encuentren domiciliados en la provincia donde surta efecto
+el objeto de contratación y en el código CPC objeto de dicha contratación; asimismo se
+volverá a invitar a los proveedores del cantón que fueron invitados inicialmente.
+En caso de no contar nuevamente con al menos tres (3) manifestaciones de interés, la
+entidad procederá con una nueva reselección, conforme lo descrito en el inciso anterior,
+pero esta vez adicionando a las invitaciones a los proveedores del nivel nacional.
+Si pese a lo indicado en los incisos anteriores, no se verifican al menos tres (3)
+manifestaciones de interés, se procederá al nivel sin preferencias, donde la entidad
+selecciona de forma directa al proveedor, de forma similar a lo previsto en el numeral 6 y
+7 de este artículo.
+5. Si de la selección no se concretare la contratación, la entidad contratante debe
+seleccionar un nuevo proveedor del listado de manifestaciones de interés, hasta agotar la
+lista. El Sistema Oficial de Contratación del Estado -SOCE automáticamente en cada
+selección generará un nuevo cronograma para el envío de la oferta en las mismas
+condiciones del procedimiento inicial.
+6. En el caso que se agote la lista de manifestaciones de interés y la contratación no se
+haya realizado, la entidad, mediante acto debidamente motivado, podrá invitar
+directamente a un proveedor categorizado como micro o pequeñas empresas o actores de
+la economía popular y solidaria registrado y habilitado en el Registro Único de
+Proveedores -RUP, de otra circunscripción territorial, siempre y cuando éste no haya sido
+descalificado en la circunscripción territorial donde se realizó la convocatoria.
+
+7. Solamente en el caso que no se concretara la contratación en la convocatoria realizada
+a micro o pequeñas empresas o actores de la economía popular y solidaria, de otra
+circunscripción territorial diferente a aquella donde surtirá efecto el objeto de la
+contratación, la entidad, mediante acto debidamente motivado, podrá invitar directamente
+a un proveedor registrado y habilitado en el Registro Único de Proveedores -RUP de
+cualquier circunscripción territorial a nivel nacional, sin importar el tamaño ni la
+localidad, siempre y cuando éste no haya sido descalificado en la circunscripción
+territorial donde se realizó la convocatoria.
+8. Si con esta selección no se concretare la contratación, la entidad contratante deberá
+realizar la declaratoria de desierto del procedimiento y la máxima autoridad o su delegado
+podrá disponer el archivo o la reapertura del procedimiento de persistir la necesidad.”
+
+Art.17.- Sustitúyase el inciso primero y segundo del artículo 326, por el siguiente texto:
+“Art. 326.- Selección.- Para el caso de la contratación de ejecución de obras a través de
+Menor Cuantía, serán invitados todos los profesionales, micro y pequeñas empresas, o
+actores pertenecientes al sector de la economía popular y solidaria, de forma individual o
+asociativa, registrados y habilitados en el Registro Único de Proveedores -RUP y que se
+encuentren domiciliados en el siguiente orden: cantón, provincia en que se ejecutará la obra
+y finalmente a nivel nacional.
+Solo en el caso que no existieren profesionales, micro y pequeñas empresas domiciliadas en
+el cantón o la provincia, el Sistema Oficial de Contratación del Estado-SOCE, se
+considerará los demás proveedores ecuatorianos invitados a nivel nacional. En la selección
+se procederá conforme a lo previsto en el artículo 59 del RGLOSNCP.”
+
+Art.18.- Elimínese expresamente el artículo 328.
+
+Art.19.- A continuación del último inciso del artículo 338, agréguese el siguiente texto:
+“Las entidades contratantes deberán obligatoriamente aplicar las reglas de participación
+establecidas en el Capítulo II del Título II de la presente Codificación y Actualización de
+Resoluciones emitidas por el SERCOP.”
+
+Art.20.- Sustitúyase el sexto y séptimo del artículo 361.2 por los siguientes:
+“La entidad contratante realizará la compra emergente a través de una selección de
+proveedores de forma ágil, inmediata, rápida, transparente y sencilla, buscando obtener los
+mejores costos según la naturaleza del bien, servicio, consultoría u obra.
+
+La entidad contratante deberá publicar su necesidad de contratación en la herramienta
+informática que el SERCOP habilite para el efecto, con la finalidad de realizar el análisis
+transparente de la oferta existente en el mercado. Sobre la base de las propuestas que reciba
+la entidad, seleccionará a la que más convenga a los intereses institucionales, verificando
+que cumplan con requisitos de idoneidad jurídicos, económicos y técnicos. En el referido
+análisis se deberá considerar como un parámetro indispensable la situación que a esa fecha
+exista en el mercado, es decir los factores imputables a las condiciones actuales de la oferta
+y demanda del bien o servicio objeto de contratación.”
+
+Art.21.- Elimínese los artículos 361.5 y 361.7.
+Art.22.- A continuación del artículo 529, agréguese como Título XV lo siguiente
+“TÍTULO XV
+DE LA EJECUCIÓN CONTRACTUAL
+CAPÍTULO I
+GENERALIDADES
+“Art. 530.- Inicio de la ejecución contractual.- Sólo con la suscripción del contrato
+administrativo o el instrumento que formalice la contratación se podrá dar inicio a la fase
+de ejecución contractual.
+Para efectos de cómputo del plazo en la ejecución de los contratos las entidades
+contratantes incluirán obligatoriamente en los documentos preparatorios o
+precontractuales los siguientes parámetros:
+1. En los contratos cuya forma de pago sea del 100% contra - entrega del producto, y
+siempre que no se haya establecido condición alguna respecto del inicio del plazo
+contractual, este inicia a partir del día siguiente de la suscripción del respectivo contrato.
+2. En los contratos cuya forma de pago sea con anticipo, el plazo inicia a partir del día
+siguiente de la notificación por escrito por parte del administrador del contrato respecto
+de la disponibilidad del anticipo.
+3. En las contrataciones de obras, el plazo inicia desde el día siguiente de la autorización
+por escrito de inicio de la obra por parte del administrador del contrato, para ello se
+deberá notificar previamente la disponibilidad del anticipo, si es que se hubiere
+contemplado. Sólo por excepción el administrador del contrato podrá autorizar el inicio
+de la obra, luego de suscrito el contrato y sin que se acredite el anticipo, siempre que el
+contratista así lo solicite por escrito, quien asumirá a su riesgo el inicio de la obra y luego
+no podrá alegar a su favor el principio de la mora purga la mora.
+4. En otros casos, debidamente justificados, el plazo de ejecución contractual corre a
+partir de día cierto y determinado en el proyecto de contrato; o de establecerse el
+
+cumplimiento de una condición, como por ejemplo la entrega de información por parte de
+la entidad contratante”.
+CAPÍTULO II
+DE LA ADMINISTRACIÓN DE CONTRATOS
+SECCIÓN I
+DISPOSICIONES COMUNES SOBRE LA ADMINISTRACIÓN DE CONTRATOS
+Art 530.1 - Del administrador del contrato.- En todo procedimiento que se formalice con
+un contrato u orden de compra, deberá designarse de manera expresa un administrador
+del contrato, quien velará por el cabal y oportuno cumplimiento de todas y cada una de
+las obligaciones contractuales. En ambos casos sus obligaciones y responsabilidades se
+regularán por el presente capítulo, en lo que fuere aplicable.
+Art. 530.2.- Designación.- La designación del administrador del contrato la realizará la
+máxima autoridad de la entidad contratante o su delegado, y podrá realizarla a partir de
+la resolución de adjudicación, misma que será notificada formalmente a la persona sobre
+la que recaiga esta responsabilidad.
+Al momento de suscribirse el contrato administrativo, en la cláusula pertinente se detallará
+con precisión la persona que asumirá la obligación de administrar el contrato; sin
+perjuicio de que posteriormente se designe a otra para la administración del contrato,
+particular que deberá ser notificado al contratista, sin necesidad de modificar el contrato.
+El administrador del contrato deberá sujetarse a las disposiciones de la Ley Orgánica del
+Sistema Nacional de Contratación Pública, su Reglamento General, las resoluciones que
+emita el SERCOP para el efecto, y las condiciones pactadas en el contrato.
+Supletoriamente se podrá recurrir a otras fuentes normativas como el Código Orgánico
+Administrativo, el Código Civil y cualquier norma que, de manera razonada, sean
+necesarias y pertinentes para dilucidar cualquier inconveniente con la fase de ejecución
+contractual.
+Art. 530.3.- Objeciones.- La designación sólo podrá ser objetada dentro del término de
+tres (3) días contados desde la notificación, en los siguientes casos:
+1) Conflicto de intereses; o cualquier causa de excusa y recusación previsto en el Código
+Orgánico Administrativo.
+2) Falta de competencia profesional; y,
+3) Atentar al ejercicio de derechos de los servidores públicos designados, tales como:
+maternidad, paternidad, y cualquier otro licencia o derecho reconocido a los servidores
+públicos que pueda representar una afectación personal.
+En cualquier caso la objeción a la designación deberá estar debidamente justificada y
+motivada. De haber mérito suficiente la máxima autoridad o su delegado designará un
+nuevo administrador del contrato.
+
+Art. 530.4.- Oposición al Administrador.- El contratista podrá solicitar a la máxima
+autoridad de la entidad contratante o su delegado, el cambio de administrador del
+contrato, por razones debidamente justificadas, que puedan alterar la correcta ejecución
+del contrato.
+En cualquier caso, la máxima autoridad o su delegado, procederá al análisis respectivo, y
+de ser pertinente designará un nuevo administrador del contrato.
+Art.530.5- Cambio de Administrador del contrato durante la ejecución.- Si durante la
+ejecución del contrato administrativo existiere mérito suficiente para cambiar al
+administrador del contrato, la máxima autoridad de la entidad contratante o su delegado,
+de oficio o petición de parte, podrá disponer en cualquier momento el cambio de
+administrador del contrato, para lo cual notificará formalmente a: 1) administrador
+saliente, 2) administrador entrante, 3) contratista, 4) fiscalizador si fuere del caso, y 5)
+usuario administrador del Portal de Compras Públicas para la habilitación del nuevo
+usuario del administrador entrante.
+Una vez notificada la nueva designación de administrador del contrato, el administrador
+saliente, en un término máximo de cinco días, emitirá un informe motivado dirigido a la
+máxima autoridad o su delegado con copia al administrador entrante, en el que contenga
+como mínimo la siguiente información:
+1. Resumen de las actividades realizadas durante la fase de ejecución contractual hasta el
+momento de entrega del informe.
+2. Actividades relevantes pendientes a considerar por parte del administrador entrante.
+3. Conclusiones y recomendaciones puntuales.
+En este informe se anexará toda la documentación de respaldo que se haya producido
+durante la fase de ejecución contractual, la cual pasará al administrador entrante para su
+custodia y toma de decisiones relacionadas con el contrato.
+En cualquier caso, el administrador saliente tiene la obligación de publicar en el Sistema
+Oficial de Contratación del Estado toda la información relevante referida en esta
+Resolución, en un término no mayor a cinco días de la notificación de la designación del
+nuevo administrador.
+Art.530.6- Contratos de alta complejidad.- En aquellos contratos que, por la naturaleza
+del objeto de contratación, implique la participación de profesionales de varias ramas del
+conocimiento, el administrador del contrato deberá coordinar con la máxima autoridad
+de la entidad contratante o su delegado, acciones con dichos profesionales u órganos de
+la entidad, para que por su conocimiento y perfil profesional intervengan y emitan
+informes que permitan garantizar una correcta administración y ejecución del contrato.
+Art.530.7.- Competencia profesional.- En todo caso, el administrador del contrato deberá
+tener la competencia profesional para administrar y dirigir la ejecución contractual.
+
+Excepcionalmente aquellas entidades contratantes que no cuenten en su nómina con
+personal técnico afín al objeto de contratación, de manera motivada podrán contratar la
+administración del contrato/s bajo la modalidad legal que corresponda.
+Las entidades contratantes procurarán requerir progresivamente a sus servidores públicos
+que obtengan la certificación como Operadores del Sistema Nacional de Contratación
+Pública, al menos como administradores de contratos.
+Art.530.8.- Principios.- A más de los principios establecidos en el artículo 4 de la Ley
+Orgánica del Sistema Nacional de Contratación Pública, el administrador del contrato
+actuará bajo los principios de juridicidad, proporcionalidad, imparcialidad, y buena fe,
+los cuales deberán garantizar la correcta ejecución del contrato que administra.
+Art.530.9.- Interpretaciones.- A más de lo que determina el artículo 5 de la Ley Orgánica
+del Sistema Nacional de Contratación Pública, el administrador del contrato emitirá sus
+decisiones de manera motivada y razonada, en ningún caso atentará contra el principio
+de interdicción de la arbitrariedad al que hace referencia el artículo 18 del Código
+Orgánico Administrativo.
+Todas las actuaciones del administrador del contrato se enmarcarán en el respeto al
+debido proceso y al derecho a la defensa.
+Art.530.10.- Atribuciones comunes del administrador del contrato.- A más de las
+establecidas en la Ley y en el respectivo instrumento contractual, son funciones comunes
+del administrador del contrato las siguientes:
+1. Coordinar todas las acciones que sean necesarias para garantizar la debida ejecución
+del contrato.
+2. Cumplir y hacer cumplir todas y cada de una de las obligaciones derivadas del contrato
+y los documentos que lo componen.
+3. Adoptar las acciones que sean necesarias para evitar retrasos injustificados, ya sea en
+las entregas parciales o totales, incluso evitará retrasos al cronograma valorado de
+trabajos, si el objeto es de obras.
+4. Imponer las multas a que hubiere lugar, las cuales deberán estar tipificadas en el
+contrato administrativo, para lo cual se deberá respetar el debido proceso.
+5. Administrar las garantías correspondientes, de conformidad con las normas que la
+regulan y en los casos que apliquen, esta obligación persistirá durante todo el periodo de
+vigencia del contrato, sin perjuicio que esta actividad sea coordinada con el tesorero de
+la entidad contratante o quien haga sus veces, a la que le corresponde el control y custodia
+de las garantías. En todo caso la responsabilidad por la gestión de las garantías será
+solidaria entre el administrador del contrato y el tesorero.
+
+6. Reportar a la máxima autoridad de la entidad contratante o su delegado, cualquier
+aspecto operativo, técnico, económico y de cualquier naturaleza que pudieren afectar al
+cumplimiento del contrato.
+7. Coordinar con los demás órganos y profesionales de la entidad contratante, que por su
+competencia, conocimientos y perfil, sea indispensable su intervención, para garantizar la
+debida ejecución del contrato.
+8. Notificar la disponibilidad del anticipo cuando este sea contemplado en el contrato como
+forma de pago, para lo cual deberá coordinar con el área financiera de la entidad
+contratante.
+9. Verificar que los movimientos de la cuenta del contratista correspondan estrictamente al
+procedimiento de devengamiento del anticipo y su ejecución contractual.
+10. Proporcionar al contratista todas las instrucciones que sean necesarias para garantizar
+el debido cumplimiento del contrato.
+11. Emitir instrucciones adicionales respecto del cumplimiento de especificaciones técnicas
+o términos de referencia, en caso de que cualquier dato o información no hubieren sido
+establecidos o el contratista no pudiere obtenerla directamente, en ningún caso dichas
+instrucciones modificarán las especificaciones técnicas o términos de referencia.
+12. Requerir motivadamente al contratista, la sustitución de cualquier integrante de su
+personal cuando lo considere incompetente o negligente en su oficio, se negare a cumplir
+las estipulaciones del contrato y los documentos anexos, o cuando presente una conducta
+incompatible con sus obligaciones. El personal con el que se sustituya deberá acreditar la
+misma o mejor capacidad, experiencia y demás exigencias establecidas en los pliegos.
+13. Autorizar o negar el cambio del personal asignado a la ejecución del contrato, para ello
+deberá cerciorarse que el personal que el contratista pretende sustituir al inicialmente
+propuesto, a más de acreditar la misma o mejor capacidad, experiencia y demás exigencias
+establecidas en los pliegos, desarrolle adecuadamente las funciones encomendadas.
+14. Verificar de acuerdo con la naturaleza del objeto de contratación, que el contratista
+cuente o disponga de todos los permisos y autorizaciones que le habiliten para el ejercicio
+de su actividad, especialmente al cumplimiento de legislación ambiental, seguridad
+industrial y salud ocupacional, legislación laboral, y aquellos términos o condiciones
+adicionales que se hayan establecidos en el contrato.
+15. Reportar a las autoridades de control, cuando tenga conocimiento que el contratista no
+cumpla con sus obligaciones laborales y patronales conforme a la ley.
+16. Verificar permanentemente y en los casos que sea aplicable, el cumplimiento de Valor
+de Agregado Ecuatoriano, desagregación y transferencia tecnológica así como el
+cumplimiento de cualquier otra figura legalmente exigible y que se encuentre prevista en el
+contrato o que por la naturaleza del objeto y el procedimiento de contratación sean
+imputables al contratista.
+
+17. Elaborar e intervenir en las actas de entrega recepción a las que hace referencia el
+artículo 81 de la Ley Orgánica del Sistema Nacional de Contratación Pública; así como
+coordinar con el contratista y el técnico que no intervino durante la ejecución del contrato,
+la recepción del contrato.
+18 . Manejar el Portal de Compras Públicas durante la fase contractual. Al momento de
+registrar la información del contrato administrativo por parte del usuario creador del
+proceso, se deberá habilitar el usuario para el administrador del contrato, quien publicará
+en el Portal toda la información relevante a la fase de ejecución contractual, de conformidad
+con los manuales de usuario o directrices que emita el SERCOP para el efecto.
+En cualquier caso, la finalización del proceso en el Portal le corresponde al usuario creador
+del proceso, o a quien se haya migrado el mismo, para el registro de las actividades finales
+del contrato, debiendo publicar cualquier otro documento relevante no imputable al
+administrador del contrato.
+En caso de darse un cambio de administrador del contrato, el administrador entrante una
+vez recibida la notificación de designación, deberá coordinar inmediatamente con los
+servidores encargados de la administración del Portal, para que se le habilite el usuario y
+pueda registrar toda la información relevante.
+19. Armar y organizar el expediente de toda la gestión de administración del contrato,
+dejando la suficiente evidencia documental a efectos de las auditorías ulteriores que los
+órganos de control del Estado, realicen.
+20. Cualquier otra que de acuerdo con la naturaleza del objeto de contratación sea
+indispensable para garantizar su debida ejecución, en todo caso, las entidades contratantes
+deberán describir con precisión las atribuciones adicionales del administrador del contrato
+en la cláusula respectiva del contrato administrativo.
+
+Art.23.- Sustitúyase la Disposición Transitoria Vigésima Quinta, por la siguiente:
+“VIGÉSIMA QUINTA.- Los procedimientos previstos en la Sección II del Capítulo II del
+Título VIII de la presente Codificación, entraron en vigencia a partir de la publicación en
+el Registro Oficial de la resolución RE-SERCOP-2020-0111.
+Las disposiciones contenidas en el artículo 424.72 y en los artículos que conforman el
+Acápite II de la Sección III del Capítulo II del Título VIII de la presente Codificación,
+expedidas mediante la resolución RE-SERCOP-2020-0111, entrarán en vigencia a partir
+de la publicación en el Registro Oficial de la Resolución RE-SERCOP-2021-0112.
+Por su parte los procedimientos previstos en el resto del articulado del Acápite I, y en los
+Acápites III y IV de la Sección III del Capítulo II del Título VIII, entrarán en vigencia
+cuando el operador logístico sea seleccionado y empiece a ejecutar la prestación del
+servicio de almacenamiento, distribución y entrega o dispensación, independientemente de
+si la entidad contratante pertenece o no a la RPIS.
+
+El SERCOP mediante oficio circular publicado en el Portal de COMPRASPÚBLICAS,
+comunicará a los actores del Sistema Nacional de Contratación Pública, cuando el
+operador logístico empiece a ejecutar la prestación del servicio.”
+Art.24.- Sustitúyase el segundo inciso de la Disposición Transitoria Vigésima Segunda por el
+siguiente texto:
+“El SERCOP de forma permanente y paulatina, determinará y emitirá directrices en
+cuanto a la implementación, modulación y aplicación de la firma electrónica en los
+procedimientos de contratación y sus fases. En los procedimientos, fases y documentos en
+los cuales se exija la firma electrónica, solo será válida este tipo de firma.”
+Art.25.- En las Disposiciones Transitorias, agréguese la siguiente:
+“VIGÉSIMA SÉPTIMA.- El procedimiento de ferias inclusivas, determinado en el
+Capítulo IV de la presente Codificación y Actualización de Resoluciones emitidas por el
+SERCOP, en el caso de contratación de obras, servicios de construcción, reparación,
+refacción, remodelación, adecuación o mejora de una construcción o infraestructura ya
+existente; se aplicará únicamente cuando el SERCOP haya implementado la herramienta
+tecnológica específica para la contratación de obras por este procedimiento. La
+comunicación de la implementación de esta herramienta tecnológica se realizará
+mediante oficio circular.”
+TITULO II
+EXPEDIR REFORMAS A LOS MODELOS DE PLIEGOS VERSIÓN SERCOP 2.1, DE
+09 DE JUNIO DE 2017
+Art.26.- Elimínese el contenido del numeral 4.1.7 de las Condiciones Particulares de los
+procedimientos de Menor Cuantía de Obras y Cotización de Obras, y del numeral 4.1.8 de las
+Condiciones Particulares de los procedimientos de Licitación Obras; que forman parte integrante
+de los modelos de pliegos versión SERCOP 2.1 de fecha 09 de junio de 2017, publicados por el
+Servicio Nacional de Contratación Pública.
+Mientras se adecúa el Módulo Facilitador a esta reforma, la entidad contratante será responsable
+de no incluir como requisito mínimo “otros parámetros” de calificación en esta sección del pliego.
+En caso de incumplimiento será sujeta a control.
+Art.27.- En el numeral 4.1.8 de las Condiciones Particulares de los procedimientos de Menor
+Cuantía de Obras y Cotización de Obras, y del numeral 4.1.9 de las Condiciones Particulares de
+los procedimientos de Licitación de Obras; que forman parte integrante de los modelos de pliegos
+versión SERCOP 2.1 de fecha 09 de junio de 2017, publicados por el Servicio Nacional de
+Contratación Pública; elimínese el parámetro: “Otro(s) parámetro(s) resuelto por la entidad
+contratante”.
+Mientras se adecúa el Módulo Facilitador a esta reforma, la entidad contratante será responsable
+de no incluir como requisito mínimo “otros parámetros” de calificación en esta sección del pliego,
+
+y deberá colocar en la celda ubicada entre la última fila “Otro(s) parámetro (s) resuelto por la
+entidad contratante” y la última columna “Observaciones” de la tabla constante en el numeral
+4.1.8 la siguiente frase: “Parámetro no calificable para este procedimiento”. En caso de
+incumplimiento será sujeta a control.
+Art.28.- En el numeral 4.2. “Evaluación por puntaje” de las Condiciones Particulares de los
+procedimientos de Cotización y Licitación de Obras; que forman parte integrante de los modelos
+de pliegos versión SERCOP 2.1 de fecha 09 de junio de 2017, publicados por el Servicio Nacional
+de Contratación Pública; efectúense las siguientes reformas:
+1. En la tabla de parámetro y valoración, sustitúyase la frase “hasta 5 puntos” del parámetro
+“Otro(s) parámetro(s) resuelto(s) por la Entidad*”, por la siguiente: “hasta 1 punto”.
+2. En la nota ubicada bajo la tabla de parámetro y valoración, sustitúyase la frase “5 puntos” por
+la siguiente: “1 punto”
+Mientras se adecúa el Módulo Facilitador a esta reforma, la entidad contratante será responsable
+de no incluir más de 1 punto en “otros parámetros” de calificación en esta sección del pliego. En
+caso de incumplimiento será sujeta a control.
+
+DISPOSICIONES DEROGATORIAS
+PRIMERA.- Deróguese los numerales 2, 4, 6, 7, 8 y 9 de la Disposición Transitoria Primera; los
+numerales 3 y 4 de la Disposición Transitoria Segunda, y las Disposiciones Transitorias Décima
+Tercera y Décima Novena, de la Resolución Externa Nro. RE¬SERCOP-2016-0000072.
+SEGUNDA.- Deróguese las siguiente Resoluciones:
+2.1 Resolución Nro. INCOP 039-2010 de 27 de febrero de 2010 que expide las
+“DISPOSICIONES PARA LOS PROCESOS DE COTIZACIÓN Y MENOR CUANTÍA, EN
+SUSTITUCIÒN DE LA RESOLUCIÓN INCOP Nro. 026-09”.
+2.2 Resolución INCOP Nro. 2013-000082 de 15 de febrero de 2013, que expide “LAS
+SIGUIENTES REGLAS DE PARTICIPACIÓN PARA LA CONTRATACIÓN DE OBRAS,
+BIENES Y SERVICIOS, INCLUIDOS LOS DE CONSULTORÍA”.
+2.3. Resolución Nro. INCOP-RE-2013-0000093 de 25 de julio de 2013, que resuelve
+“EFECTUAR UN ALCANCE A LAS REGLAS DE PARTICIPACIÓN PARA LA
+CONTRATACIÓN DE OBRAS BIENES Y SERVICIOS, INCLUIDOS LOS DE
+CONSULTORÍA”.
+2.4 Resolución INCOP Nro. RE-2013-0000089 de 28 de junio de 2013, por medio de la que se
+expide “LAS SIGUIENTES DISPOSICIONES PARA LA PRIORIZACIÒN DE LAS OFERTAS
+DE BIENES, SERVICIOS Y OTRAS DE ORIGEN ECUATORIANO EN LOS
+PROCEDIMIENTOS DE CONTRATACIÓN PÚBLICA”.
+
+2.5 Resolución INCOP Nro. RE-INCOP-2013-0000097 de 26 de julio de 2013, por medio de la
+que se expide “LAS SIGUIENTES NORMAS PARA LA EJECUCIÒN DE
+PROCEDIMIENTOS DE MENOR CUANTÌA DE BIENES O SERVICIOS”.
+2.6 Resolución Nro. RE-INCOP-2013- 0000098, de 26 de julio de 2013, que expide “LAS
+SIGUIENTES NORMAS PARA INCENTIVAR LA CONTRATACIÒN DE BIENES, OBRAS
+Y SERVICIOS DE ORIGEN ECUATORIANO EN EL PROCESO DE COTIZACIÒN”.
+2.7 Resolución Nro. RE.-SERCOP-2014-0000015, de 02 de octubre de 2014 por medio de la cual
+expide “LAS NORMAS DE USO DE LOS MÒDULOS FACILITADORES DE LA
+CONTRATACIÒN PÙBLICA DENOMINADOS 'USUAY'”.
+2.8 Resolución Nro. RE-SERCOP-2015-000025 de 06 de febrero de 2015, por la que resuelve
+expedir el Reglamento de Ferias Inclusivas y de Catálogo Dinámico Inclusivo.
+2.9 Resolución Nro. RE-SERCOP-2016-0000048, de 21 de abril de 2016, mediante el que expide
+“LAS SIGUIENTES DISPOSICIONES PARA LAS CONTRATACIONES DE
+EMERGENCIA”.
+2.10 Resolución Nro. RE-SERCOP-2014-0000014, de 01 de octubre de 2014, por medio de la
+que se expidieron “LOS PARÁMETROS DE EVALUACIÓN POR PUNTAJE EN LA
+CALIFICACIÓN DE OFERTAS”.
+DISPOSICIÓN FINAL
+ÚNICA.- La presente Resolución entrará en vigencia a partir de su publicación en el Registro
+Oficial.
+Dado en la ciudad de San Francisco de Quito, DM, a los 15 días del mes de enero de 2021.
+Comuníquese y publíquese.Firmado electrónicamente por:
+
+LAURA SILVANA
+VALLEJO PAEZ
+
+Econ. Silvana Vallejo Páez
+DIRECTORA GENERAL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+
+Certifico que la presente Resolución fue aprobada y firmada el día de hoy 15 de enero de 2021.
+Firmado electrónicamente por:
+
+DIEGO FERNANDO
+SANTAMARIA MUNOZ
+
+Econ. Diego Fernando Santamaría Muñoz
+DIRECTOR DE GESTIÓN DOCUMENTAL Y ARCHIVO
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA, SUBROGANTE
+
+

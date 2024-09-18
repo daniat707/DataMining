@@ -1,0 +1,1023 @@
+ESPECIFICACIONES TÉCNICAS PARA PROCESOS DE SUBASTA INVERSA ELECTRÓNICA DE BIENES
+Objeto de contratación:
+
+CORP ADQUISICION DE SELLOS DE SEGURIDAD GC
+
+Partida Presupuestaria:
+
+521030106000000
+
+CPC del producto (9 dígitos):
+
+363300421
+
+Presupuesto Referencial
+
+$ 516.673,27 (Quinientos diez y seis mil seiscientos setenta y tres
+con 27/100) sin incluir IVA
+
+Marque con una x en caso de
+que su compra contiene CPC
+restringido y/o de Catálogo
+Electrónico
+
+SI
+
+NO
+
+X
+
+Especificar el
+código de
+autorización
+
+Nota: "El área requirente, en uso de las herramientas informáticas del Sistema Oficial de Contratación Pública del
+Ecuador, deberá seleccionar el Código del Clasificador Central de Productos -CPC que se adecúe de mejor manera al
+objeto de la contratación, y garantizará que no se excluya arbitrariamente a proveedores por el uso erróneo de un
+CPC específico o la omisión en el uso de un CPC cuando este se encuentre oculto dentro de la descripción de las
+especificaciones técnicas o términos de referencia del procedimiento de contratación."
+*Si la compra utiliza CPC atado a los productos de catálogo electrónico, el área requirente deberá indicar el Código
+de Autorización emitido por el SERCOP.
+
+Plazo de Ejecución (en días
+calendarios):
+
+180 Días, a partir del día siguiente de la notificación por escrito por
+parte del administrador del contrato respecto de la disponibilidad del
+anticipo, conforme el cronograma propuesto.
+
+La ejecución del contrato inicia desde (marque con una x)
+Seleccione el tipo de condición bajo el cual corre el plazo de ejecución del contrato
+Fecha de
+notificación de
+anticipo
+
+La fecha de suscripción
+del contrato
+
+X
+
+Desde cualquier otra
+condición de acuerdo a la
+naturaleza del contrato
+
+X
+
+Pago contra
+entrega parcial
+
+.
+
+Forma de pago (marque con una x ):
+Pago a
+30 días
+
+Pago a
+45 días
+
+Se otorgará anticipo
+
+Pago contra
+entrega total
+SI
+
+Descripción de la forma de
+pago:
+
+X
+
+NO
+
+Porcentaje
+
+Otra
+
+50%
+
+Se otorgará el 50% del valor total del contrato en calidad de anticipo,
+previa entrega de las respectivas garantías de buen uso de anticipo,
+fiel cumplimiento de contrato y garantía técnica por parte del
+adjudicatario y luego de la suscripción del contrato.
+
+El saldo del 50% restante del valor total del contrato se cancelará
+contra entrega total de los bienes, a entera satisfacción de CNEL EP,
+adjunto a la cual debe constar el ingreso a bodega, la factura
+debidamente aprobada por el Administrador del Contrato, y el
+Informe Final emitido por el mismo, previa suscripción del acta de
+entrega recepción definitiva.
+Seleccione en caso de que contemple reajuste de precios:
+(Señalar si este procedimiento contempla o no, reajuste de precios. En
+caso de contemplar la entidad deberá adjuntar un anexo explicativo)
+
+Vigencia de la oferta:
+
+90 días calendarios
+
+Porcentaje de variación de la
+Puja:
+
+1% (uno por ciento)
+
+Tiempo de Puja: Mínimo 15
+minutos máximo 60 minutos
+
+15 MINUTOS
+
+Costo de reproducción de
+edición pliegos:
+
+NO
+
+Vigencia Tecnológica:
+
+SI
+
+COSTO
+
+SI
+
+NO
+
+x
+
+NO
+
+X
+
+USD$ 00,00
+
+La vigencia tecnológica aplica para los procesos de adquisición de vehículos, equipos de computación,
+equipos de impresión y equipos médicos (Resolución RE-SERCOP-2016-0000072). En caso de aplicar se
+debe detallar el CPC del servicio de vigencia tecnológica relacionada al BIEN.
+Tiempo de vida útil del bien (aplica únicamente si el bien tiene vigencia tecnológica):
+Mantenimiento correctivo
+
+Mantenimiento preventivo
+
+Garantía Técnica del fabricante
+
+Garantía técnica por vida útil
+
+Reposición Temporal
+
+Recompra
+
+LOCALIDAD EN DONDE SE EJECUTARÁ LA CONTRATACIÓN
+Provincia:
+
+GUAYAS
+
+Cantón:
+
+GUAYAQUIL
+
+DIRECCIÓN DE ENTREGA DE OFERTAS
+Acorde a lo señalado en la Codificación y Actualización de Resoluciones y Circular Nro. SERCOPSERCOP-2020-0022-C
+
+emitidas por el SERCOP, todas las ofertas deberán ser presentadas por los oferentes, única y exclusivamente a
+través del Portal de COMPRAS PÚBLICAS, serán validadas únicamente si tienen una firma electrónica. El sistema
+oficial de validación de documentos firmados electrónicamente será el sistema FIRMA EC.
+Solo para la recepción de las MUESTRAS requeridas deberán ser entregadas físicamente hasta hora y fecha límitede recepción de
+ofertas establecida en el cronograma del presente proceso a la siguiente dirección: Av. Del Bombero Km 6.5 Vía a la Costa Edifico
+Grace tercer piso, Dirección de Adquisiciones, referencia A lado del Mc´ Donalds de Los Ceibos.
+
+DIRECCIÓN APERTURA DE OFERTAS
+Calle Principal:
+
+Av. del Bombero km 6.5 vía a la costa Edificio Grace tercer piso,
+Gerencia Comercial
+
+Calle Secundaria:
+
+S/N
+
+Calle Número:
+
+S/N
+
+Referencia:
+
+A lado del Mc’ Donalds de los Ceibos
+
+OBLIGACIONES DE LAS PARTES
+Obligaciones adicionales del
+contratista:
+
+*Garantía Técnica. - Conforme lo estipula el artículo 76 de la LOSNCP,
+el adjudicatario al momento de la suscripción del contrato y como
+parte integrante del mismo debe presentar una garantía Técnica de
+los bienes que entregará. Tendrá una vigencia de 24 (VEINTE Y
+CUATRO) MESES para los bienes, contados a partir de la fecha de
+suscripción del acta entrega de recepción definitiva.
+Durante el plazo de vigencia de la garantía técnica, si la Empresa
+Eléctrica Pública Estratégica Corporación Nacional de Electricidad
+CNEL EP solicitare el cambio de piezas o partes de los bienes objeto
+del contrato consideradas defectuosas, éstas serán reemplazadas
+por otras nuevas de la misma calidad y condición sin costo adicional
+alguno para la Institución; y, en caso de que el daño o defecto sea de
+tal magnitud, que impida que los bienes objeto del contrato
+funcionen normalmente, estos serán cambiados por otros nuevos,
+sin que ello signifique costo adicional para la Empresa Eléctrica
+Pública Estratégica Corporación Nacional de Electricidad CNEL EP,
+excepto si los daños hubieren sido ocasionados por el mal uso de los
+mismos por parte del personal de la Institución o por fuerza mayor o
+caso fortuito, en los términos señalados en el Artículo 30 de la
+Codificación del Código Civil.
+De no presentarse la garantía técnica del fabricante, el Contratista
+deberá presentar, de manera sustitutiva, una garantía económica
+equivalente al valor total del bien respectivo, que deberá
+
+mantenerse vigente de acuerdo a los pliegos, y que podrá ser rendida
+en cualquiera de las formas determinadas en el Art. 73 de la LOSNCP.
+La ejecución de la garantía Técnica podrá ser ejecutada por la
+CONTRATANTE cuando se incumpla con el objeto de esta garantía,
+de acuerdo con lo establecido en el pliego y este contrato.
+El contratista se compromete a entregar la totalidad de los sellos en
+las bodegas de las Unidades de Negocio de acuerdo a las
+características técnicas, según siguiente detalle:
+Unidad de
+Negocio
+Bolívar
+El Oro
+Esmeraldas
+Guayaquil
+Guayas Los
+Ríos
+Los Ríos
+
+Manabí
+Milagro
+Santa Elena
+Santo
+Domingo
+Sucumbíos
+
+DIRECCION DE BODEGAS
+Guaranda, Barrio La Playa, entrando por el Parque Club de Leones
+en la S/E Guaranda.
+Machala, entrando por la Av. Loja entre Babahoyo y 25 de julio
+diagonal al campus de la UTM.
+Esmeraldas, entrando por la Calle Espejo y Río Cayapas (Barrio
+Santas Vainas)
+Guayaquil, Av. 1er Pasaje 32 NO entre Dr. Emilio Romero
+Menéndez (calle 18H NO) y Jorge Jara Grau(calle 18 I NO). Diagonal
+al City Mall. (Parque Industrial Satirión)
+Durán, Kilometro 6 1/2 via Durán Yaguachi (Bodegas Oreman)
+antes de llegar a la tercera etapa de la ciudadela El Recreo (Del
+lado izquierdo en la vía con dirección de Durán a Yaguachi)
+Babahoyo, Av. Chopitea y 6 de Octubre atrás de Clínica Babahoyo
+(Actual Hospital del día). Ingresar por el callejón que conecta
+directo a la Unidad de Negocio Los Ríos
+Portoviejo, En las Bodegas de CNEL EP Manabí Km 5 1/2 vía a
+Manta junto a las bodegas de Supan. Pasando al peaje de
+Portoviejo en dirección (Guayaquil - Portoviejo)
+Milagro, En la S/E Milagro Sur Km 1 1/2 de la autopista Milagro a
+Virgen de Fátima junto a Universidad Estatal de Milagro (UNEMI)
+La Libertad, Barrio General Enríquez Gallo, Avda. 12 s/n
+Intersección 33 y 34 queda diagonal a la Refinería de "La Libertad"
+Santo Domingo, Vía a Los Bancos Km 1.5 antigua Central Diésel
+antes de las piscinas de las Vegas del Toachi frente a las fábricas de
+ladrillos EQUINOX
+Lago Agrio,En las Bodegas de CNEL EP Sucumbíos Vía Colombia y
+Velasco Ibarra atrás de empresa Kate Masivo.
+CNEL EP
+
+Cantidad
+201.000
+357.500
+214.000
+278.100
+
+602.700
+
+382.000
+
+246.200
+206.100
+65.400
+261.000
+84.100
+2.898.100
+
+El contratista solicitará al administrador de contrato la numeración
+de los sellos a entregarse.
+El contratista entregará en un medio magnético al administrador de
+contrato, la distribución de la numeración de los sellos por cada
+Unidad de Negocio.
+El sello debe tener grabado el nombre del fabricante en el ancla o
+cuerpo del sello.
+Término para la atención o
+solución de peticiones o
+problemas:
+
+15 DÍAS
+
+Obligaciones adicionales del
+contratante:
+
+Designar Administrador de Contrato, suscribir las actas de entrega
+recepción, siempre que haya cumplido con lo previsto en la Ley para
+la entrega recepción.
+Proveer al contratista de toda la información necesaria para la
+ejecución de las actividades que resulten producto del contrato.
+
+Acorde con la naturaleza de la contratación la entidad contratante podrá establecer condiciones
+adicionales que considere pertinentes, siempre y cuando estas observen la normativa vigente y no
+constituyan disposiciones que resulten discriminatorias entre los participantes
+ÍNDICES FINANCIEROS
+Índice de solvencia
+
+SI
+
+X
+
+NO
+
+Indicador solicitado
+
+>=1.0
+
+Índice de
+endeudamiento
+
+SI
+
+X
+
+NO
+
+Indicador solicitado
+
+<1.5
+
+Otro
+
+SI
+
+NO
+
+X
+
+Indicador solicitado
+
+Nota: Para el cálculo de los índices financieros tomar en consideración la siguiente fórmula: Solvencia o
+Liquidez: Activo Corriente/ Pasivo Corriente; Endeudamiento: Total Pasivo/ Total Activo.
+CONDICIONES ADICIONALES DEL PRECIO DE LA OFERTA
+La entidad contratante requiere la provisión de los bienes que cumplan con todas las especificaciones y
+características establecidas en los pliegos, a fin de que la entrega se realice a plena satisfacción de la
+entidad contratante, El precio de la oferta deberá incluir el valor total de los bienes, transporte hasta el
+sitio de entrega, pruebas, los costos indirectos, impuestos, tasas y servicios; es decir, absolutamente todo
+lo necesario para entregar los bienes a plena satisfacción de CNEL EP. Los precios presentados por el
+oferente son de su exclusiva responsabilidad. Cualquier omisión se interpretará como voluntaria y
+tendiente a conseguir precios que le permitan presentar una oferta más ventajosa.
+** Para el caso de bienes: La entidad contratante requiere la provisión de (nombre de bien/objeto
+contractual) que cumpla con todas las especificaciones y características establecidas en los pliegos, a fin
+de que la entrega se realice a plena satisfacción de la entidad contratante. En este espacio se deberán
+establecer condiciones adicionales relacionadas con el precio, si se requiere que el mismo incluya:
+transporte hasta el sitio de entrega, costo del seguro correspondiente, instalación y montaje respectivo,
+costo de los materiales necesarios, costo de las pruebas, costo de la capacitación.
+REQUISITOS MÍNIMOS
+Equipo Mínimo (de ser necesario)
+
+El listado del equipo mínimo detallado por la entidad contratante en el pliego, deberá ser definido en
+función de su tipología (sin determinación de marcas) y utilizando especificaciones técnicas no
+direccionadas; no se fijarán condiciones que carezcan de soporte legal o que resultaren excesivas para el
+tipo de objeto a ejecutar.
+.
+a) Se considerará exclusivamente el equipo necesario para que el oferente cumpla con las condiciones
+establecidas en la adquisición o, preste el servicio y en consecuencia, si fuere del caso, se deberá
+fundamentar debidamente la necesidad de contar con equipamientos especiales.
+b) En todos los casos, se evaluará la disponibilidad del equipo mínimo solicitado, y no su propiedad. En
+esta lógica, bajo ningún concepto se considerará como criterio de admisibilidad de las ofertas o como
+parámetro de calificación, el establecimiento de porcentaje alguno de equipo mínimo de propiedad del
+oferente. La propiedad del equipo no será condición a calificar ni tampoco se construirán parámetros en
+función de esa condición.
+c) Se presentará las matrículas del equipo propuesto por parte de los oferentes, sea que el equipo sea de
+su propiedad, se ofrezca bajo arriendo o compromiso de arrendamiento, compromiso de compraventa o
+en general de cualquier forma de disponibilidad.
+Equipo y/o instrumentos
+
+N/A
+
+Características
+
+N/A
+
+Cantidad
+
+N/A
+
+NOTA: Se evaluará la disponibilidad de los equipos más no la propiedad, para lo cual los oferentes
+deberán adjuntar cualquier documento mediante el cual acredite la disponibilidad, ya sea: compromiso
+de compra o alquiler, factura, títulos de propiedad, o declaración juramentada. (De ser aplicable) En caso
+de vehículos deberán presentar la matrícula y revisión vigente sea que el equipo sea de su propiedad o
+se ofrezca bajo arriendo.
+Personal Técnico Mínimo (de ser necesario)
+A efectos de evaluar este parámetro, la entidad contratante deberá definir el listado del personal técnico
+necesario para que el oferente cumpla con las condiciones establecidas en la adquisición o, preste el
+servicio, las funciones que cumplirá o la posición que ocupará, la formación profesional que deberá
+acreditar y el instrumento por el que se comprometerá su participación. De ser el caso podrá establecer
+condiciones de experiencia mínima a ser acreditadas por cada uno de los miembros del equipo, en
+concordancia con la naturaleza y dimensión del proyecto a contratar.
+
+Función (detallar función y
+actividades de responsabilidad)
+
+Nivel de estudio
+Educació
+n Básica
+
+*el sistema solo permite las siguientes opciones:
+
+Bachill
+er
+
+Tecnólog
+o
+
+Titulación académica
+
+N/A
+
+Cantidad
+
+N/A
+
+Tercer
+Nivel
+Terminado
+
+Tercer
+Nivel con
+Título
+
+Cuarto
+Nivel
+
+Experiencia mínima del Personal Técnico (de ser necesario)
+a. De utilizarse, la entidad contratante deberá definir cuál es la experiencia que cada uno de los
+miembros del personal técnico mínimo deberá acreditar como mínimo, ya sea en años, número
+o monto de proyectos en los que haya participado.
+b. Se reconocerá la experiencia adquirida en relación de dependencia, si el certificado emitido por
+el empleador demuestra su participación efectiva, en la ejecución de determinado objeto
+contractual.
+c. Para cada caso ha de establecerse el instrumento o medio por el que se comprobará la
+experiencia adquirida.
+N/A
+Descripción
+Tiempo mínimo
+
+N/A
+
+Número de proyectos
+
+N/A
+
+Monto de proyectos
+
+N/A
+
+EXPERIENCIA
+a) La entidad contratante definirá con precisión cuál es la experiencia mínima que deberá acreditar el oferente, ya sea en
+número o dimensión de proyectos similares, o montos contractuales; se definirá exactamente qué tipo de contratos
+ejecutados se aceptarán como experiencia general y cuales como experiencia específica; así como el instrumento por el que
+se la demostrará.
+b) Para la determinación del cumplimiento de la experiencia general y específica mínima se estará a lo establecido, respecto
+de las reglas de participación, expedidas por el Servicio Nacional de Contratación Pública para los procedimientos de
+contratación.
+c) La experiencia específica mínima deberá estar directamente relacionada con el objeto de la contratación.
+d) La entidad contratante obligatoriamente deberá dimensionar los parámetros de calificación de experiencia general y
+específica mínima requerida de conformidad con el contenido de la siguiente tabla y en función del presupuesto referencial
+del procedimiento de contratación:
+Experiencia general y especifica mínima requerida para procedimientos de contratación pública
+
+Coeficiente respecto al
+presupuesto inicial del Estado
+
+Monto de
+experiencia
+general mínima
+requerida en
+relación al
+
+Monto de experiencia
+específica mínima
+requerida en relación al
+presupuesto referencial
+
+Monto mínimo
+requerido por cada
+contrato en
+relación al monto
+determinado en la
+experiencia
+mínima general o
+
+Tiempo durante el
+cual se podrá
+acreditar la
+experiencia
+específica
+
+presupuesto
+referencial
+
+Mayor a
+
+0,000002
+
+0,000002
+
+0,000007
+
+No mayor a 10 %
+
+No mayor a 20 %
+
+No mayor a 10 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+No mayor a 15 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+No mayor a 15 %
+
+No mayor a 20 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+No mayor a 20 %
+
+No mayor a 25 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+No mayor a 30 %
+
+Durante los últimos 7
+años previos a la
+publicación del
+procedimiento
+
+No mayor a 30 %
+
+Durante los últimos
+10 años previos a la
+publicación del
+procedimiento
+
+No mayor a 50 %
+
+Durante los últimos
+10 años previos a la
+publicación del
+procedimiento
+
+0,0002
+No mayor a 50 %
+
+0,0002
+
+No mayor a 10 %
+
+No mayor a 5%
+
+0,00003
+No mayor a 40 %
+
+0,00003
+
+No mayor a 5 %
+
+Durante los últimos 5
+años previos a la
+publicación del
+procedimiento
+
+0,000015
+No mayor a 30 %
+
+0,000015
+
+No mayor a 25 %
+
+0,0004
+No mayor a 60 %
+
+No mayor a 30 %
+
+0,0004
+0,0007
+
+Mayor a
+
+(años)
+
+Hasta
+
+0
+
+0,000007
+
+específica, según
+corresponda.
+
+0,0007
+
+No mayor a 70 %
+
+No mayor a 75 %
+
+No mayor a 40 %
+
+No mayor a 60 %
+
+Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados por el oferente para acreditar la
+experiencia mínima general o específica requerida, sino, al cumplimiento de estas condiciones en relación a los montos
+mínimos requeridos para cada tipo de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima específica, el proveedor cumpliere el
+monto mínimo solicitado para la experiencia mínima general, este contrato o instrumento será considerado como válido para
+
+acreditar los dos tipos de experiencias.
+La entidad contratante deberá solicitar como temporalidad de experiencia general 15 años previos a la publicación del
+procedimiento de contratación. Por tanto, el contratista podrá acreditar la experiencia general dentro de dicho período.
+e) La experiencia presentada por el oferente será acreditable y aceptada, siempre que se haya ejecutado legalmente dentro
+del límite de cualquier jurisdicción ecuatoriana. Únicamente, cuando la entidad contratante con la debida motivación técnica
+y legal así lo justifique, en la que compruebe que no existe experiencia previa suficiente obtenida por ningún oferente
+ecuatoriano dentro del límite de cualquier jurisdicción ecuatoriana, de conformidad a los requisitos del procedimiento de
+contratación, y, previa autorización de la máxima autoridad o su delegado, se podrá aceptar y acreditar experiencia
+legalmente obtenida en el extranjero. Sin perjuicio de lo anterior, cuando un consorcio o asociación o compromiso de
+asociación o consorcio conformado por una persona natural o jurídica ecuatoriana y una persona natural o jurídica extranjera
+que provea el financiamiento para la ejecución de una obra en un porcentaje superior al 60% del valor del objeto contractual,
+la experiencia que acredite el integrante extranjero del consorcio en el exterior, será acreditada.
+
+EXPERIENCIA GENERAL
+Descripción
+
+N/A
+
+Experiencia adquirida en los
+últimos
+
+N/A
+
+Número de proyectos similares
+
+N/A
+
+Valor del monto mínimo
+
+N/A
+
+Permite alcanzar el Monto
+Mínimo a través de la sumatoria
+del presupuesto de los contratos
+
+SI
+
+Si la respuesta es SI, indicar la
+cantidad de contratos permitidos
+
+N/A
+
+Monto mínimo por contrato
+
+N/A
+
+NO
+N/A
+
+N/A
+
+EXPERIENCIA ESPECIFICA
+Descripción
+
+El oferente deberá acreditar experiencia específica en VENTA DE SELLOS
+DE SEGURIDAD PARA MEDIDOR DE ENERGÍA ELECTRICA, por un monto de
+al menos USD$ 103.334,65 dólares, para lo cual deberá presentar
+certificados o actas de entrega recepción definitiva de contratos ejecutados
+durante los últimos 5 años previos a la publicación del presente
+procedimiento. La experiencia podrá ser acumulada siempre y cuando
+cada certificado o acta de entrega recepción definitiva sea al menos USD$
+20.666,93
+Los certificados deberán ser emitidos a favor del oferente y suscritos por
+el Representante Legal de la Entidad Contratante o la Máxima Autoridad
+del Área Requirente o el Administrador del contrato y debe contener por
+lo
+menos
+la
+siguiente
+información:
+a)
+Nombre
+de
+la
+entidad
+contratante;
+
+b)
+Descripción
+del
+proyecto;
+c) Periodo de ejecución del proyecto (especificar periodo) y monto;
+d)Nombre
+de
+la
+empresa
+encargada
+del
+proyecto;
+e) Dirección y número de teléfono otorgante del certificado;
+f) Nombre y firma de la persona otorgante del certificado.
+Las actas de entrega recepción definitivas serán suscritas por el contratista
+y los integrantes de la comisión designada por la máxima autoridad de la
+entidad contratante o su delegado conformada por el administrador del
+contrato y un técnico que no haya intervenido en el proceso de ejecución
+del contrato.
+NOTA: Art. 25 de la Resolución 77 del SERCOP: “Si con la presentación de
+un contrato o instrumento que acredite la experiencia mínima específica, el
+proveedor cumpliere el monto mínimo solicitado para la experiencia
+mínima general, este contrato o instrumento será considerado como válido
+para acreditar los dos tipos de experiencias.”
+Dentro de los requisitos mínimos para experiencia específica, se requiera
+para la experiencia relacionada a personas naturales o jurídicas privadas, a
+más de certificados o contratos, se anexe la factura y retención.
+Cuando se presenten facturas y retenciones emitidas el mismo mes en que
+se presente la oferta, el mes siguiente la Comisión Técnica o Delegado para
+la calificación tendrán la obligación de verificar que la factura no haya sido
+anulada y de haber sido anulada se procederá conforme corresponda con
+los artículos 33 literal d) y 94 numeral 5 de la LOSNCP.
+
+Experiencia adquirida en los
+últimos
+
+5 años
+
+Número de proyectos similares
+
+1
+
+Valor del monto mínimo
+
+103.334,65
+
+Permite alcanzar el Monto
+Mínimo a través de la sumatoria
+del presupuesto de los contratos
+
+SI
+
+Si la respuesta es SI, indicar la
+cantidad de contratos permitidos
+
+5
+
+Monto mínimo por contrato
+
+20.666,93
+
+X
+
+NO
+
+Otros parámetros (especificar)
+Nota: En el caso que la Entidad Contratante considere necesario añadir un parámetro adicional éste
+deberá ser debidamente sustentado, relacionado con el proyecto y no contravenir la LOSNCP, su
+reglamento o las resoluciones emitidas por el SERCOP; deberá estar completamente definido, no será
+restrictivo ni discriminatorio y deberá establecer su indicador y el medio de comprobación.
+
+Requiere muestras
+SI
+
+X
+
+NO
+
+ESPECIFICAR
+
+Requiere folletos explicativos y/o
+catálogos
+
+2 sellos de
+seguridad
+para realizar
+pruebas.
+En español
+
+SI
+
+X
+
+NO
+
+ESPECIFICAR
+
+Requiere Certificado de distribuidor
+o vendedor o representante
+autorizado emitido por el fabricante
+de los bienes ofertados
+
+SI
+
+X
+
+NO
+
+ESPECIFICAR
+
+A nombre
+del oferente
+en el que
+conste que
+es
+Distribuidor
+Exclusivo,
+vendedor o
+agente,
+emitido por
+el
+Fabricante,
+Si es
+fabricante
+no es
+necesario.
+
+Nota: Certificado de distribuidor o vendedor o representante autorizado emitido por el fabricante de los
+bienes ofertados. En caso de ser fabricante no es necesario.
+Requiere Certificado de
+Conformidad
+SI
+
+X
+
+NO
+
+ESPECIFICAR
+
+De acuarto a
+lo solicitado
+en las
+característic
+as técnicas o
+su
+equivalente
+
+Nota: Certificado de conformidad vigente y avalado por el Servicio de Acreditación Ecuatoriana (SAE) o su
+equivalente de acuerdo a lo señalado en el Art. 31 de la Ley del Sistema Ecuatoriano de la calidad. Además,
+el certificado del SAE o su equivalente deberá estar vigente a la presentación de la oferta.
+
+Requiere Certificados de pruebas
+
+SI
+
+x
+
+NO
+
+ESPECIFICAR
+
+De acuerdo
+a lo
+solicitado en
+las
+característic
+as técnicas o
+su
+equivalente.
+
+Nota: Certificado de conformidad vigente y avalado por el Servicio de Acreditación Ecuatoriana (SAE) o su
+equivalente de acuerdo a lo señalado en el Art. 31 de la Ley del Sistema Ecuatoriano de la calidad. Además,
+el certificado del SAE o su equivalente deberá estar vigente a la presentación de la oferta.
+
+Requiere Certificados de Reporte de
+Ensayos
+
+SI
+
+x
+
+NO
+
+ESPECIFICAR
+
+De acuerdo
+a lo
+solicitado en
+las
+característic
+as técnicas o
+su
+equivalente.
+
+Nota: Certificado de conformidad vigente y avalado por el Servicio de Acreditación Ecuatoriana (SAE) o su
+equivalente de acuerdo a lo señalado en el Art. 31 de la Ley del Sistema Ecuatoriano de la calidad. Además,
+el certificado del SAE o su equivalente deberá estar vigente a la presentación de la oferta.
+
+Requiere Certificados de
+Cumplimiento de normas
+
+SI
+
+x
+
+NO
+
+ESPECIFICAR
+
+Norma ISO
+9001:2015
+de calidad
+del producto
+o su
+equivalente
+
+OBSERVACIONES ADICIONALES: Con la finalidad de dar cumplimiento a las modificaciones que el
+SERCOP ha realizado en los Formularios de las ofertas, las ofertas presentadas deberán incluir los
+formularios 1.1. PRESENTACIÓN Y COMPROMISO, 1.3. NÓMINA DE SOCIO(S), ACCIONISTA(S) O
+PARTÍCIPE(S) MAYORITARIOS DE PERSONAS JURÍDICAS, Y DISPOSICIONES ESPECÍFICAS PARA PERSONAS
+NATURALES, OFERENTES y para el caso de los oferentes que participen en calidad de intensión de
+Asociación o Consorcio también deberán presentar el respectivo FORMULARIO DE COMPROMISO DE
+ASOCIACIÓN O CONSORCIO, de conformidad a los formatos establecidos en los anexos del pliego. La no
+presentación de los formularios indicados en el presente pliego será motivo de descalificación.
+Todos los oferentes participantes (incluidos consorcios o tener compromisos de asociación o
+consorcios) así como sus socios o accionista deberán cumplir con lo dispuesto en el Art. 13 de la Ley
+Orgánica para la Eficiencia en la Contratación Pública.
+GARANTÍAS REQUERIDAS:
+
+Garantía de Fiel Cumplimiento, Garantía de Buen Uso de Anticipo y Garantía Técnica.
+MULTAS: Por cada día de retardo en el cumplimiento de la ejecución de las obligaciones contractuales,
+se aplicará la multa de UNO POR MIL (1 X 1.000) sobre el porcentaje de las obligaciones que se encuentran
+pendientes de ejecutarse conforme lo establecido en el contrato, de acuerdo a lo establecido en el Art.
+71 de la LOSNCP vigente.
+FIRMA DE RESPONSABILIDAD
+* A estos TDR se deberá adjuntar el estudio de mercado (¿De qué manera se determinó el presupuesto
+referencial?),
+tomando
+en
+consideración
+la
+normativa
+vigente.
+**Se deberá estipular si el proceso contempla reajuste de precios. De ser así se indicará la fórmula
+respectiva como anexo a los TDR.
+***
+Anexar
+Características
+Técnicas
+de
+los
+bienes
+requeridos.
+****Se deberá adjuntar la Requisición de Bienes de Bodega, en caso de existir stock en la misma, se
+deberá incluir un Informe Justificativo para su respectiva adquisición.
+Elaborado por:
+Firmado electrónicamente por:
+
+RAMIRO VINICIO
+AGUILAR SANCHEZ
+
+Ing. Ramiro Aguilar Sánchez
+Líder de Sistemas de Medición (E)
+
+Revisado por:
+Firmado electrónicamente por:
+
+BYRON JAVIER
+RAMIREZ
+ANAZCO
+
+Firmado electrónicamente por:
+
+JOHANNA PAOLA
+TOMALA
+CASTANEDA
+
+Econ. Johanna Tomalá Castañeda
+Directora de Servicios al Cliente
+
+Ing. Byron Ramírez Añazco
+Coordinador Comercial Subrogante
+Autorizado por:
+Firmado electrónicamente por:
+
+ALVARO ENRIQUE
+CUEVA URGILEZ
+
+Ing. Álvaro Cueva Urgilez
+Gerente Comercial
+
+

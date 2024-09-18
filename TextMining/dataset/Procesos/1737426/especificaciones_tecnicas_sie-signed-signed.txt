@@ -1,0 +1,736 @@
+CUERPO DE BOMBEROS DEL CANTÓN NOBOL
+FORMULARIO REQUERIMIENTO DE CONTRATACIÓN /
+ESPECIFICACIONES TECNICAS
+IDENTIFICACION DEL
+OBJETO:
+ADQUISICIÓN DE UN CHASIS CABINADO PARA EL
+CUERPO DE BOMBEROS DE NOBOL
+TIPO DE PRODUCTO:
+CODIGO CPC:
+FECHA:
+AREA REQUIRENTE:
+RESPONSABLE DEL AREA
+TIPO DE
+PROCEDIMIENTO:
+
+BIEN
+
+X
+
+SERVICIO
+
+NORMALIZADO
+
+X
+
+OBRA
+
+CONSULTORIA
+NO NORMALIZADO
+
+491210011
+19-10-2022
+JEFATURA DEL CBN
+
+Tcrnel Jorge Alberto Veliz Martínez
+SUBASTA INVERSA ELECTRONICA
+
+1. ANTECEDENTES:
+
+El Art. 3 de la Constitución de la República del Ecuador estipula: “(…) Son deberes primordiales del
+Estado: Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la
+Constitución y en los instrumentos internacionales, en particular la educación, la salud, la
+alimentación, la seguridad social y el agua para sus habitantes (…)”.
+El Art. 32 de la Norma Suprema dispone: “(…) El Estado garantizará este derecho mediante políticas
+económicas, sociales, culturales, educativas y ambientales; y el acceso permanente, oportuno y sin
+exclusión a programas, acciones y servicios de promoción y atención integral de salud, salud sexual y
+salud reproductiva. La prestación de los servicios de salud se regirá por los principios de equidad,
+universalidad, solidaridad, interculturalidad, calidad, eficiencia, eficacia, precaución y bioética, con
+enfoque de género y generacional (…)”.
+El Art. 52 de dicho cuerpo normativo reza: “(…) Las personas tienen derecho a disponer de bienes y
+servicios de óptima calidad (…)”.
+El Art. 326 de la CRE dice: “(…) El derecho al trabajo se sustenta en los siguientes principios: 15. Se
+prohíbe la paralización de los servicios públicos de salud y saneamiento ambiental, educación, justicia,
+bomberos, seguridad social, energía eléctrica, agua potable y alcantarillado, producción
+hidrocarburífera, procesamiento, transporte y distribución de combustibles, transportación pública,
+correos y telecomunicaciones. La ley establecerá límites que aseguren el funcionamiento de dichos
+servicios (…)”.
+El artículo 389 de la Constitución de la República del Ecuador señala: “(…) El Estado protegerá a las
+personas, colectividades y la naturaleza frente a efectos negativos de los desastres de origen natural o
+antrópico mediante la prevención ante el riesgo, la mitigación de desastres, la recuperación y
+mejoramiento de las condiciones sociales, económicas y ambientales, con el objetivo de minimizar la
+condición de vulnerabilidad (…)”.
+El Art. 25.1. de la Ley Orgánica del Sistema Nacional de Contratación Pública respecto a la Participación
+Nacional establece: “(…) Los pliegos contendrán criterios de valoración que incentiven y promuevan la
+participación local y nacional, mediante un margen de preferencia para los proveedores de obras, bienes
+y servicios, incluidos la consultoría, de origen local y nacional, de acuerdo a los parámetros
+determinados por la entidad encargada de la Contratación Pública (…)”.
+El Art. 47 de la Ley Orgánica del Sistema Nacional de Contratación Pública sobre la Subasta Inversa
+Electrónica dice: “(…) Para la adquisición de bienes y servicios normalizados que no consten en el
+catálogo electrónico, las Entidades Contratantes deberán realizar subastas inversas en las cuales los
+
+proveedores de bienes y servicios equivalentes, pujan hacia la baja el precio ofertado, en acto público o
+por medios electrónicos a través del Portal de COMPRASPUBLICAS. Los resultados de los procesos de
+adjudicación por subasta inversa serán publicados en el Portal COMPRASPUBLICAS para que se
+realicen las auditorías correspondientes. De existir una sola oferta técnica calificada o si luego de ésta
+un solo proveedor habilitado presenta su oferta económica inicial en el portal, no se realizará la puja y
+en su lugar se efectuará la sesión única de negociación entre la entidad contratante y el oferente. El
+único objetivo de la sesión será mejorar la oferta económica. Si después de la sesión de negociación se
+obtiene una oferta definitiva favorable a los intereses nacionales o institucionales, la entidad procederá
+a contratar con el único oferente (…)”.
+El Art. 1 del Reglamento de la Ley de Defensa Contra Incendios manifiesta que los Cuerpos de Bomberos
+de la República: “(…) son organismos de derecho público, eminentemente técnicos, al servicio de la
+sociedad ecuatoriana, destinados específicamente a defender a las personas socorrer en catástrofes o
+siniestros y efectuar acciones de salvamento (…)”. En total sinergia con los Arts. 3 y 276 del Código
+Orgánico de Entidades de Seguridad Ciudadana y Orden Público, las funciones de los organismos de
+seguridad ciudadana, protección interna y orden público son las operaciones coordinadas para el
+control del espacio público, prevención, protección, apoyo, coordinación, socorro, rescate, atención pre
+hospitalaria, acciones de salvamento y en general respuesta ante desastres y emergencias.
+El último inciso del Art. 2 del Reglamento Sustitutivo para el control de los vehículos del sector público
+y de las entidades derecho privado que disponen de recursos públicos señala: “(…) Solo en el caso de
+vehículos de aplicación especial y en aquellos que se requieran para el mantenimiento de los sistemas
+de redes eléctricas, telefónicas, de agua potable, de alcantarillado, de obras públicas; y, los que sean
+indispensables para atender casos de emergencia y para mantener la continuidad y regularidad de los
+servicios públicos, así como los que por razones de seguridad sean blindados o vayan a ser blindados
+se podrá incrementar sin restricción el parque automotor”.
+El numeral 5 del Art. 4 de dicho cuerpo normativo establece la clasificación de vehículos: “(…) 5.
+Aplicación Especial.- En estos vehículos, se contempla los que se requieren para actividades específicas,
+con equipamiento adecuado a su operación, entre otros se señalan sin que la ejemplificación signifique
+limitación de ninguna especie: ambulancias, motobombas, camiones, plataformas, grúas, canastillas,
+montacargas, que están destinados a usuarios tales como: Cuerpo de Bomberos, Fuerzas Armadas,
+Ministerio de Salud Pública, IESS, Policía Nacional, Empresas de Telecomunicaciones, Empresas
+Eléctricas, Empresas de Agua Potable, entre otros (…)”.
+El Art. 129 del Reglamento General a la Ley Orgánica del Sistema Nacional de Contratación Pública
+referente a la Procedencia reza: “(…) La subasta inversa electrónica se realizará cuando las entidades
+contratantes requieran adquirir bienes y servicios normalizados cuya cuantía supere el monto
+equivalente al 0,0000002 del Presupuesto Inicial del Estado, que no se puedan contratar a través del
+procedimiento de Compras por Catálogo Electrónico, y en la que los proveedores de dichos bienes y
+servicios, pujan hacia la baja el precio ofertado por medios electrónicos a través del Portal
+www.compraspublicas.gov.ec (…)”.
+El Art. 140 del Código Orgánico de Organización Territorial, Autonomía y Descentralización señala que
+los Cuerpos de Bomberos del país son considerados como entidades adscritas a los gobiernos
+autónomos descentralizados municipales: “(…) La gestión de los servicios de prevención, protección,
+socorro y extinción de incendios, que de acuerdo con la Constitución corresponde a los gobiernos
+autónomos descentralizados municipales, se ejercerá con sujeción a la ley que regule la materia. Para
+tal efecto, los cuerpos de bomberos del país serán considerados como entidades adscritas a los gobiernos
+autónomos descentralizados municipales, quienes funcionarán con autonomía administrativa y
+financiera, presupuestaria y operativa, observando la ley especial y normativas vigentes a las que
+estarán sujetos (…)”.
+El Art. 92 de la Codificación y Actualización de las Resoluciones emitidas por el SERCOP en relación a
+la Prioridad a los bienes y/o servicios de origen nacional estipula: “(…) Las entidades contratantes, en
+los procedimientos de contratación pública, aplicarán los márgenes de preferencia a la producción
+nacional previstos en los artículos 25.1 y 25.2 de la Ley Orgánica del Sistema Nacional de Contratación
+Pública (…)”.
+El Art. 442 de la Codificación y Actualización de las Resoluciones emitidas por el SERCOP sobre
+Procedimiento Especial menciona: “(…) En los casos que la adquisición de vehículos para las entidades
+contratantes no se realice a través del Catálogo Electrónico por las causales antes expuestas, se aplicará
+el siguiente procedimiento: 1. Verificar la producción nacional de los vehículos a través de la
+
+herramienta informática correspondiente que se encuentra publicada en el Portal Institucional del
+Servicio Nacional de Contratación Pública, en la que se incluirán las características técnicas de los
+vehículos a adquirir. a) Las entidades contratantes deberán considerar los siguientes parámetros fijos
+de calificación dentro de la publicación del procedimiento: i. Capacidad de cumplir el contrato. - Se
+refiere al plazo en el cual el oferente debe cumplir conforme el requerimiento de las entidades
+contratantes. ii. Especificaciones técnicas y de calidad. - Oferentes nacionales que cumplan con las
+especificaciones técnicas y de calidad requeridas por las entidades contratantes. iii. Parámetros
+obligatorios vigentes. - Se considerarán los parámetros vigentes para determinar a un bien como de
+origen nacional en base a lo establecido por el Servicio Nacional de Contratación Pública, de
+conformidad con lo señalado en el numeral 21 del artículo 6 de la Ley Orgánica del Sistema Nacional
+de Contratación Pública. b) Los proveedores tendrán el término de tres (3) días contados desde la fecha
+de publicación hasta la fecha máxima de manifestación de interés para presentar sus ofertas. En el
+término de dos (2) días las entidades contratantes deberán realizar el análisis y evaluación de las
+mismas. En el sexto día se determinará la existencia de ofertas ecuatorianas y se analizará si estas
+cumplen o no con las especificaciones técnicas requeridas. c) Al finalizar el proceso de verificación de
+producción nacional las entidades contratantes deberán imprimir el Certificado de Producción Nacional
+del Portal Institucional del Servicio Nacional de Contratación Pública: y, 2. Presentar solicitud de
+autorización al Servicio Nacional de Contratación Pública para la adquisición de los vehículos,
+adjuntando los siguientes documentos: a) Certificado de Producción Nacional impreso del Portal
+Institucional del Servicio Nacional de Contratación Pública: b) Características técnicas de los vehículos
+a adquirir, y, c) Precio y procedencia. En el caso de que el vehículo de seguridad vaya a ser blindado,
+deberá adjuntarse la siguiente información: a) Nombre del taller autorizado donde se realizará el
+blindaje; b) Características completas del blindaje y tiempo en el cual se entregarán los vehículos
+blindados; y, c) Justificación motivada respecto a la necesidad de adquirir un vehículo de estas
+características. Una vez revisados los requisitos, el Servicio Nacional de Contratación Pública autorizará
+o denegará la adquisición de los vehículos requeridos por las entidades contratantes (…)”.
+El Art. 443 de la Codificación y Actualización de las Resoluciones emitidas por el SERCOP sobre la
+Autorización reza “(…) Con la debida autorización del Servicio Nacional de Contratación Pública, las
+entidades contratantes deberán realizar el procedimiento de contratación de conformidad con lo
+establecido en la Ley Orgánica del Sistema Nacional de Contratación Pública (…)”.
+El numeral 3.1.5.10 de los Principios y Normas Técnicas de Contabilidad Gubernamental en relación a
+la Vida Útil señala: “(…) La Propiedad, Planta y Equipo destinada a actividades administrativas,
+productivas o arrendadas a terceros, se depreciarán por el período durante el cual se espera que el
+activo esté disponible para su uso; o bien por el número de unidades de producción o similares que se
+espera obtener del activo (…)”, para el caso de vehículos la vida útil estimada es de 5 años.
+El Cuerpo de Bomberos de Nobol cuya misión es salvaguardar la vida y bienes de la comunidad mediante
+un rápido, profesional y humanitario servicio, cumpliendo con el compromiso a través de la prevención,
+combate y extinción de incendios, servicios de emergencias médicas Pre-Hospitalarias, rescate,
+educación a la ciudadanía para la autoprotección, atención en accidentes de tránsito y desastres
+naturales; de forma oportuna, profesional y calidad en el servicio.
+El Artículo 274 del Código Orgánico de las Entidades de Seguridad Ciudadana y Orden Público establece
+que Los Cuerpos de Bomberos son entidades de derecho público adscritas a los Gobiernos Autónomos
+Descentralizados municipales o metropolitanos, que prestan el servicio de prevención, protección,
+socorro y extinción de incendios, así como de apoyo en otros eventos adversos de origen natural o
+antrópico. Asimismo, efectúan acciones de salvamento con el propósito de precautelar la seguridad de
+la ciudadanía en su respectiva circunscripción territorial.
+2.
+
+JUSTIFICACIÓN:
+
+El Cantón Nobol es un cantón de la provincia del Guayas, localizado al norte de la ciudad de
+Guayaquil, entre un ramal de la cordillera del Congo y la Riviera del río Daule, posee una
+superficie total de 13.761,48 hectáreas, cubiertas en su mayoría por cultivos de arroz que
+ocupan gran parte del territorio del cantón con 5.458,50 hectáreas que corresponden al 39,67
+% y se ubican principalmente al norte y centro este; en el segundo lugar de importancia están
+
+las plantaciones de mango con 658,17 hectáreas que representan el 4,78%, distribuidas en
+todo el territorio cantonal. Sobresalen también las plantaciones de ciruelo, con una extensión
+de 354,10 hectáreas correspondientes al 2,57 %, localizadas en el centro este y sur del cantón.
+Estos tres cultivos: arroz, mango y ciruelo, cubren una extensión total de 6.470,77 hectáreas
+lo que representa el 47,02 % de la superficie total del cantón, lo cual implica y se evidencia la
+actividad agrícola que se desarrolla en este Cantón, por lo que según su tipo de suelo en tiempo
+de sequía esto origina a que se produzcan incendios forestales, afectando los sembríos y
+terrenos de los hacendados.
+Al ser el Cuerpo de Bomberos de Nobol una entidad que presta los servicios de salvamento y
+rescate en beneficio de la comunidad, cuya misión es la de brindar un eficiente y oportuno
+servicio de auxilio y defensa a las personas y sus propiedades del Cantón Nobol contra el fuego,
+socorrer en catástrofes y siniestros realizando acciones de salvamento y rescate, pero con
+mayor énfasis en la PREVENCIÒN, mediante la motivación y la capacitación de todos los
+miembros de la institución y la comunidad.
+sabiendo que la normativa legal vigente establece que los Cuerpos de Bomberos a nivel
+nacional prestan el servicio de prevención, protección, socorro y extinción de incendios, así
+como de apoyo en otros eventos adversos de origen natural o antrópico. Así mismo efectúan
+acciones de salvamento con el propósito de precautelar la seguridad de la ciudadanía en su
+respectiva circunscripción territorial, además que contamos con patrimonio y fondos propios,
+personalidad jurídica, autonomía administrativa,
+financiera, presupuestaria y operativa.
+De igual forma cabe mencionar las facultades atribuidas ante la ley, las cuales son: 1. Ejecutar
+los servicios de prevención, protección y extinción de incendios, así como socorrer en desastres
+naturales y emergencias, además de realizar acciones de salvamento;
+2. Actuar, según los protocolos establecidos para el efecto, en forma coordinada con los
+diferentes órganos del Sistema Nacional Descentralizado de Gestión de Riesgos;
+3. Estructurar y ejecutar campañas de prevención y control de desastres naturales o
+emergencias, orientadas a la reducción de riesgos, en coordinación con el ente rector nacional;
+4. Diseñar y ejecutar planes y programas de capacitación para prevenir y mitigar los efectos
+de desastres naturales y emergencias, en coordinación con los Gobiernos Autónomos
+Descentralizados metropolitanos o municipales y con el ente rector nacional de gestión de
+riesgos;
+5. Incentivar la participación, involucrar a la comunidad y realizar campañas para la
+prevención y reacción adecuada ante riesgos naturales y antrópicos; y,
+6. Cumplir y hacer cumplir las leyes y demás normativa vigente en el ámbito de sus
+competencias.
+Es por ello que, en calidad de Máxima Autoridad de esta noble institución, cumpliendo con las
+facultades que me otorga las leyes vigentes y en miras de mantener un parque automotor
+repotenciado que cuente con vehículos tecnificados que preste las garantías necesarias para
+ser usado en caso de siniestros, tal como lo es en los incendios es por ello que se desea adquirir
+un chasis cabinado para luego ser convertido en un vehículo de primera respuesta para el
+abastecimiento de agua en los conatos de incendios, los cuales según datos estadísticos por
+
+parte del Servicio Nacional de Riesgos y emergencias, la Provincia del Guayas es la que
+presenta el mayor número de incendios forestales a nivel nacional, y al ser parte nuestras
+funcione y obligaciones como entidad Bomberil, debemos contar con los recursos necesarios
+para este tipo de incidentes que se puedan presentar en cualquier fecha del año.
+3. OBJETIVOS:
+3.1 OBJETIVO GENERAL
+ADQUISICION DE UN CHASIS CABINADO DE CAMIÓN PARA LUEGO SER TRANSFROMADO
+EN VEHÍCULO AUTOBOMBA PARA EL CUERPO DE BOMBEROS DE NOBOL
+3.2 OBJETIVOS ESPECÍFICOS
+
+• Brindar una atención eficiente, eficaz y de calidad, a todo tipo de emergencia que se
+presente en la parte alta, zona agreste y minera del Cantón.
+• Dotar al Cuerpo de Bomberos del Cantón Nobol, con vehículos necesarios para brindar
+el servicio rápido y oportuno con unidades móviles especializada, seguras, rápidas y
+equipadas las 24 horas del día para la atención y respuesta inmediata.
+• Precautelar el bienestar del equipo de trabajo durante el traslado hacia los accidentes
+ante eventuales accidentes que se presentan en la zona agreste y parte alta del cantón,
+proveyendo adecuados sistemas de seguridad en la cabina y el habitáculo.
+4. ALCANCE:
+El alcance del proceso de contratación es la ADQUISICION DE UN CHASIS CABINADO PARA EL
+CUERPO DE BOMBEROS DEL CANTÓN NOBOL para fortalecer y renovar el parque automotor del
+CBN a fin de recuperar y mantener los niveles operativos de respuesta y atención a la Comunidad.
+5. METODOLOGÍA DE TRABAJO:
+El chasis cabinado de camión será entregado en las instalaciones del Cuerpo de Bomberos del Cantón
+Nobol por el proveedor adjudicado, conforme a las especificaciones técnicas y demás requerimientos
+establecidos por el CBN, a su entera satisfacción.
+Una vez que el chasis y sus componentes se encuentre a entera satisfacción de la entidad contratante,
+el Administrador del Contrato emitirá el informe respectivo de conformidad, con el registro de los
+trabajos realizados debidamente firmado por el contratista, factura y demás documentos habilitantes
+para el pago.
+6. FORMA DE PAGO:
+El valor del bien se cancelará 100% contra - entrega del mismo, con cargo a la partida presupuestaria
+840105, el contratista cumplirá con la totalidad del objeto de contratación a entera satisfacción de la
+entidad contratante, deberá haber entregado la respectiva garantía técnica y firmado el acta de entrega
+recepción definitiva.
+En cumplimiento al principio de vigencia tecnológica los mantenimientos preventivos se cancelarán
+contra prestación del servicio recibido según el plan de mantenimiento presentado por el fabricante o
+
+distribuidor autorizado con cargo a la partida presupuestaria 530405, estos recursos serán
+presupuestados proporcionalmente cada año durante la vida útil del vehículo y sus componentes.
+6.1 ANTICIPO:
+
+No se otorgará anticipo.
+6.2 DOCUMENTOS HABILITANTES PARA EL PAGO:
+El contratista firmará el acta de entrega recepción definitiva de los bienes a entera satisfacción
+de la entidad contratante, deberá haber entregado la respectiva garantía técnica, emitirá la
+factura y los documentos requeridos por la unidad financiera para el pago respectivo.
+7. PLAZO DE EJECUCION CONTRACTUAL:
+30 días, En aplicación al numeral 1 del Art. 530 de la Codificación y Actualización de las Resoluciones
+emitidas por el SERCOP el 31 de agosto del 2016, contados a partir del día siguiente de la suscripción
+del respectivo contrato.
+8. ENTREGA:
+Se receptará una única entrega recepción definitiva del bien objeto de la contratación, dentro del plazo
+de ejecución del contrato, el contratista efectuará la entrega de un chasis cabinado totalmente nuevo,
+cumpliendo con todas las especificaciones técnicas y demás obligaciones estipuladas en el contrato
+conforme lo determina el Art.319 del RLOSNCP, a entera satisfacción del Administrador del Contrato,
+la entrega se realizará en las instalaciones del Cuerpo de Bomberos del Cantón Nobol ubicado en el
+Cantón Nobol – Av. Rio Amazonas y Manabí.
+9. GARANTÍA:
+9.1 GARANTIA TECNICA: En total apego al Art. 76 de la LOSNCP, al momento de la suscripción del
+contrato y como parte integrante del mismo el contratista presentará una Garantía Técnica de:
+• Para el vehículo de mínimo 5 años o 100.000 km.
+• Mínimo 24 meses por el trabajo realizado trabajo realizado que comprenden mueble organizador,
+asientos, forros y sistema eléctrico, a partir de la fecha de entrega.
+Además, el proveedor adjudicado deberá dar fiel cumplimiento a lo que determina la Codificación de
+Resoluciones del SERCOP Art.121, el cual determina: (…) más de las garantías que prevé el artículo 8
+del Decreto Ejecutivo No. 1515 de 15 de mayo de 2013, en el caso de la adquisición y/o arrendamiento
+de bienes, en los pliegos y el contrato, se contemplará lo siguiente:
+1. En la adquisición de los bienes:
+a) Reposición inmediata ante defectos de fabricación, deficiencias en los trabajos de mantenimiento,
+ausencia de repuestos, accesorios, piezas y partes del bien, entre otros, que obstaculicen su normal
+funcionamiento y la continuidad en la prestación de los servicios a los ciudadanos;
+b) Vigencia de la garantía técnica durante la vida útil;
+c) Mantenimiento preventivo periódico y correctivo durante la vida útil; y,
+d) Reposición temporal de los bienes durante los trabajos de mantenimiento que impidan su utilización.
+(…)
+3. Además, en los dos casos, la garantía técnica deberá incluir:
+a) Cobertura de repuestos, accesorios, partes y piezas de los bienes, para lo cual el proveedor deberá
+garantizar su disponibilidad durante el tiempo de vigencia de la garantía técnica;
+
+b) Provisión de los repuestos, accesorios, partes y piezas necesarios para el mantenimiento preventivo
+periódico y correctivo;
+c) Procedimientos claros, precisos y efectivos para la ejecución de la garantía técnica y casos
+específicos en los cuales se garantice la reposición temporal y definitiva de los bienes, así como
+identificación clara de las exclusiones de cobertura de la garantía técnica;
+d) Tiempos de respuesta óptimos y plazos máximos para el mantenimiento preventivo periódico,
+correctivo y reposición temporal o definitiva de los bienes; y,
+e) Disposición de talleres de servicio autorizados para el mantenimiento preventivo periódico o
+correctivo del bien. Y demás normativa relacionada al Principio de Vigencia Tecnológica del Capitulo III
+de la Codificación de Resoluciones del SERCOP
+10. TIPO DE ADJUDICACIÓN:
+TOTAL
+11. MULTAS:
+
+Por cada día de retardo en la ejecución de las obligaciones contractuales por parte del
+contratista, se aplicará la multa del 1 por 1.000 sobre el porcentaje de las obligaciones que se
+encuentran pendientes de ejecutarse conforme a lo establecido en el contrato. De conformidad
+al Art. 71 de la LOSNCP, se establece un porcentaje prudente de acuerdo nivel de gravedad
+del incumplimiento.
+12. REQUISITOS MÍNIMOS:
+12.1
+
+EXPERIENCIA ESPECIFICA:
+
+El oferente deberá demostrar como experiencia específica la provisión de bienes de similares
+características al del objeto de la contratación durante los últimos 15 años monto mínimo acreditar
+$ 4.052,17.
+
+(Estas condiciones no estarán sujetas al número de contratos o instrumentos presentados por el oferente para
+
+acreditar la experiencia general, sino al cumplimiento de estas condiciones en relación al monto mínimo
+solicitado). Resoluciones SERCOP 077-2017 y 078-2017.
+12.1.1 FORMA DE ACREDITAR LA EXPERIENCIA:
+
+12.2
+
+El oferente acreditará su experiencia pública con la presentación de contratos y
+actas entrega recepción definitiva a satisfacción de la entidad contratante. El
+oferente acreditará su experiencia privada con la presentación de facturas y
+retenciones.
+PERSONAL TÉCNICO MÍNIMO:
+
+No requerido.
+
+12.4 EXPERIENCIA DEL PERSONAL TÉCNICO MÍNIMO:
+No requerido
+12.5 Equipo mínimo requerido:
+No requerido
+
+13
+
+PARAMETROS DE CALIFICACION POR PUNTAJE:
+No.
+
+Tipo de parámetro:
+
+Detalle:
+
+1
+
+Oferta económica:
+
+No aplica
+
+2
+
+Plazo propuesto:
+
+No aplica
+
+3
+
+Experiencia General
+adicional:
+
+No aplica
+
+4
+
+Experiencia Específica
+adicional:
+
+No aplica
+
+5
+
+Experiencia personal técnico No aplica
+adicional
+
+Cumple / No Cumple
+
+14. METODOLOGIA DE EVALUACION
+15. OTROS PARAMETROS DE EVALUACION:
+
+Talleres autorizados: Adjuntar un certificado emitido por el fabricante o distribuidor autorizado de la
+marca del vehículo ofertado, con los talleres autorizados para realizar los mantenimientos preventivos.
+Ficha técnica: Adjuntar la ficha técnica del chasis ofertado y sus componentes
+Plan mantenimiento: Adjuntar el plan de mantenimiento preventivo del vehículo ofertados para 5
+años o 100.000 km y su costo.
+Garantía técnica: Adjuntar una carta de compromiso que garantice la entrega de la garantía técnica
+al momento de la suscripción del contrato, la cual entrará en vigencia a partir de la entrega recepción
+definitiva del bien, para el vehículo de mínimo 60 meses o 100.000 km, de mínimo 24 meses por el
+trabajo realizado comprenden mueble organizador, asientos, forros y sistema eléctrico.
+Vigencia tecnológica: Adjuntar una carta de compromiso que garantice el cumplimiento del Principio
+de Vigencia Tecnológica durante el tiempo de la garantía técnica.
+16. ESPECIFICACIONES TECNICAS DEL OBJETO DE CONTRATACION
+
+CANTIDAD
+
+1
+
+DATOS GENERALES
+MARCA
+PAIS DE ORIGEN
+
+Por especificar
+Por especificar
+
+FABRICANTE
+AÑO MODELO
+CARACTERISTICAS
+
+Por especificar
+Mínimo 2022 o superior
+REQUISITOS BÁSICOS
+
+MOTOR
+MARCA MOTOR
+POTENCIA
+CILINDROS
+CILINDRAJE
+TORQUE
+
+Por especificar
+Mínimo 170hp @ A 2.600 RPM
+Mínimo 4
+Mínimo 3.800 CC
+Mínimo 61,20/1300-1700 rpm
+
+RELACIÓN DE COMPRENSIÓN
+
+Mínimo 17.2
+
+SISTEMA DE LUBRICACIÓN
+
+Mínimo Tipo Flujo Total, Bomba
+de Aceite, Filtro de Aceite,
+Enfriador o su equivalente
+
+SISTEMA DE ENFRIAMIENTO
+
+Mínimo radiador, ventilador y
+bomba de agua
+
+SISTEMA DE INYECCIÓN
+
+Mínimo sistema electrónico de
+inyección de combustible para
+motores Diésel de inyección
+directa por conducto común
+
+CAPACIDAD DEL TANQUE
+NORMA DE EMISIONES
+
+Mínimo 52,91 gls.
+Mínimo EURO III
+
+TRANSMISIÓN
+Mínimo Relación de Transmisión/Primera Directa o su equivalente
+COMBUSTIBLE
+Diésel del existente en el Ecuador
+VELOCIDADES
+SINCRONIZACIÓN
+RELACIÓN FINAL DEL EJE
+EMBRAGUE
+
+Mínimo 6 velocidades adelante y
+Mínimo 1 de reversa
+Mínimo 1era a 6ta
+Mínimo 5875 a 9000
+Mínimo Míxto
+
+CHASIS
+FRENOS
+DIRECCIÓN
+
+100% Aire Auto Ajustable,
+Bloqueador de Aire
+Mínimo Hidráulica de Potencia o
+su equivalente
+
+RADIO DE GIRO
+NEUMÁTICOS
+AROS
+SISTEMA ELECTRICO
+ALTERNADOR
+SUSPENSIÓN DELANTERA
+
+SUSPENSIÓN TRASERA
+CAPACIDAD DE EJE
+DELANTERO
+CAPACIDAD DE EJE
+POSTERIOR
+EJE TRASERO
+PESO BRUTO
+PESO NETO
+CAPACIDAD DE CARGA
+
+CABINA
+LARGO
+AMORTIGUADORES
+
+Mínimo 9m
+Mínimo 255/70 R22,5 o similar
+Del tamaño adecuado
+dependiendo del diseño y
+carga de la unidad
+Mínimo 2 Baterías 12 Voltios en
+paralelo
+Mínimo 28 Voltios 70amp
+Mínimo ballestas eje Rígido o su
+equivalente
+Mínimo ballestas eje Rígido o su
+equivalente
+Mínimo 3500Kg
+Mínimo 9000Kg
+Minimo totalmente flotante
+Mínimo 12000kg
+Mínimo 4000kg
+Al menos 8000kg
+Mínimo Sencilla con litera
+Mínimo 8425mm
+Mínimo hidráulicos de doble
+acción, telescópicos
+
+EXTRAS
+Radio +MP3
+Mandos al volante
+
+Deberá incluir
+Deberá incluir
+
+17. VIGENCIA TECNOLOGICA
+En cumplimiento al Decreto Ejecutivo 1515 del 15 de mayo de 2013 y al Capítulo III Principio de
+Vigencia Tecnológica de la Codificación y Actualización de las Resoluciones emitidas por el SERCOP
+de fecha 31 de agosto del 2016, el contratista deberá cumplir con lo que estipula:
+“(…) Artículo 3.- VIGENCIA TECNOLÓGICA. - El principio de vigencia tecnológica implica la obligación
+de que la adquisición y arrendamiento de los bienes, así como la prestación de servicios en los que se
+contempla el uso de bienes específicos señalados en este Capítulo, reúnan las condiciones de calidad
+necesarias para cumplir de manera efectiva la finalidad requerida, desde el momento de su adquisición
+
+hasta un tiempo determinado y previsible de vida útil, con la posibilidad de adecuarse, integrarse,
+repotenciarse y reponerse, según el caso, de acuerdo con los avances científicos y tecnológicos.
+Artículo 4.- APLICACIÓN DE LA VIGENCIA TECNOLÓGICA EN LA CONTRATACIÓN PÚBLICA. - Las
+entidades contratantes que adquieran, arrienden bienes o contraten la prestación de servicios en los
+que se contempla el uso de bienes específicos de entre los señalados en este Capítulo, de manera
+obligatoria determinarán en los documentos precontractuales y el contrato los términos y condiciones
+que el proveedor deberá cumplir respecto del mantenimiento preventivo periódico y correctivo del bien,
+las garantías técnicas y su reposición, a fin de asegurar el funcionamiento de los bienes para la
+prestación ininterrumpida del servicio al que se encuentran destinados y su vigencia tecnológica.
+Artículo 5.- MANTENIMIENTO PREVENTIVO PERIÓDICO. - El mantenimiento preventivo periódico de
+los bienes deberá comprender el soporte técnico regular o periódico, los insumos, partes, piezas y todas
+las acciones necesarias para garantizar el perfecto estado de funcionalidad del bien de conformidad
+con las recomendaciones establecidas en los manuales del fabricante, para lo cual se observará la
+periodicidad con la que este mantenimiento deberá ejecutarse o el tiempo que la entidad contratante
+establezca de conformidad a lo señalado en este Capítulo, en caso de no haber indicación del
+fabricante.
+Artículo 6.- MANTENIMIENTO CORRECTIVO. - El mantenimiento correctivo de los bienes debe
+comprender la reparación inmediata del bien en caso de daño o defecto de funcionamiento, la provisión
+e instalación de repuestos, accesorios, piezas o partes, así como la obligación de ejecutar todas las
+acciones necesarias para garantizar su funcionalidad y operatividad, incluyendo su reposición
+temporal.
+Artículo 7.- EXTENSIONES DEL MANTENIMIENTO. - En el caso específico de la adquisición de los
+bienes, el mantenimiento deberá considerarse y programarse para la vida útil establecida en la garantía
+técnica; en los casos de arrendamiento o contratación del servicio, éste se considerará y programará a
+lo largo del plazo contractual. Para la reposición del bien en aplicación de la garantía técnica y de las
+estipulaciones previstas en el contrato, la extensión del mantenimiento deberá contemplar las mismas
+condiciones del bien que haya sido reemplazado.
+Artículo 8.- GARANTÍAS TÉCNICAS. - En el caso de la adquisición o arrendamiento de bienes, se
+establecerá de manera obligatoria el otorgamiento de garantías técnicas por parte del fabricante, por
+intermedio de su representante, distribuidor, vendedor autorizado o proveedor, que al menos debe
+contemplar lo siguiente:
+8.1. En la Adquisición de bienes:
+8.1.1. Tiempo y condiciones para la reposición inmediata;
+8.1.2. Vigencia de la garantía técnica durante la vida útil;
+8.1.3. Mantenimiento preventivo periódico y correctivo durante la vida útil; y,
+8.1.4. Reposición temporal de los bienes durante los trabajos de mantenimiento que impiden su
+
+utilización.
+
+8.3. Además, en los dos casos la garantía técnica deberá incluir:
+8.3.1. Cobertura y provisión de repuestos, accesorios, partes y piezas y su disponibilidad para el
+
+mantenimiento preventivo y periódico y correctivo;
+8.3.2. Procedimientos claros, precisos y efectivos para la ejecución de la garantía técnica;
+8.3.3. Tiempos de respuesta óptimos y plazos máximos para el mantenimiento o reposición de bienes; y
+
+8.3.4. Disposición de talleres de servicio autorizados para el mantenimiento preventivo periódico o
+
+correctivo del bien a nivel nacional.
+
+Articulo 10.- REPOSICIÓN DEFINITIVA Y OBLIGACIÓN DE RECOMPRA. – La reposición definitiva se
+realizará cuando el bien deba ser reemplazado al no poder ser reparado efectivamente con un
+mantenimiento correctivo o al haber cumplido su vida útil. Las entidades contratantes dentro de los
+pliegos y contrato de adquisición de bienes bajo cualquier modalidad, de acuerdo a la naturaleza del
+bien y la
+oferta de mercado, deberán establecer la posibilidad de que el contratista pueda recomprar los bienes
+o recibirlos como parte de pago de nuevos bienes, de similares o mejores características (…)”.
+18. VIGENCIA DE LA OFERTA
+19. VARIACION MINIMA DE LA PUJA
+
+30 DÍAS
+1%
+
+20. INDICES FINANCIEROS
+
+INDICE DE SOLVENCIA: (mayor o igual a 1,0)
+INDICE DE ENDEUDAMIENTO: (menor a 1,5)
+Los índices son únicamente informativos, no
+serán causal de rechazo de la oferta. Los factores
+para su cálculo estarán respaldados en la
+correspondiente declaración de impuesto a la
+renta del ejercicio fiscal correspondiente y/o
+balances presentados al órgano de control
+respectivo.
+
+21. OBLIGACIONES DEL CONTRATISTA:
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Previo a la firma del contrato presentar la respectiva garantía conforme a los Arts. 73 y 76 de la
+LOSNCP. Firmar el contrato a partir del vencimiento del término de los tres días, contando desde la
+adjudicación.
+Cumplir con las especificaciones técnicas y demás requerimientos estipulados en los pliegos y en el
+contrato.
+Entregar el chasis cabinado dentro del plazo de 30 días, garantizando su correcto funcionamiento
+durante la entrega. Firmar el acta de entrega recepción definitiva de los bienes a entera satisfacción
+de la entidad contratante.
+En caso de evidenciar fallas de fabricación en el chasis, partes e insumos detectados en la recepción
+del bien objeto del contrato, el contratista realizará su reposición en máximo 12 días hábiles, sin
+ningún costo adicional.
+Los documentos entregados por el contratista constarán debidamente legalizados por el
+representante legal o su delegado.
+El contratista deberá entregar la factura correspondiente en el término de 10 días luego de suscrita
+el acta de entrega recepción definitiva del vehículo y sus componentes, conforme a los
+requerimientos que establezca la unidad financiera del CBN.
+El contratista efectuará la reposición temporal con la entrega inmediata del bien de las mismas o
+mayores características o especificaciones técnicas por el tiempo que dure el mantenimiento
+correctivo.
+En el caso de que el bien deba ser reemplazados por nuevos de iguales o mayores características o
+especificaciones técnicas al presentar defectos de fabricación o funcionamiento durante su
+operación, siempre que no se trate de un daño derivado del mal uso u operación el contratista
+efectuará su reposición definitiva.
+Cumplir con el Decreto Ejecutivo 1515 del 15 de mayo de 2013 y el Capítulo III Principio de Vigencia
+
+Tecnológica de la Codificación y Actualización de las Resoluciones emitidas por el SERCOP de fecha
+31 de agosto del 2016.
+22. OBLIGACIONES DEL CONTRATANTE
+•
+•
+•
+•
+
+•
+•
+•
+
+Firmar el contrato a partir del vencimiento del término de los 3 días contados desde la adjudicación.
+Firmar el contrato previo la recepción de la garantía correspondiente.
+Nombrar un administrador del contrato quien velará por el cabal cumplimiento del mismo.
+Dar facilidades necesarias para que el contratista cumpla con las obligaciones establecidas en los
+pliegos y en el contrato. Dar solución a cualquier solicitud realizada por el contratista en el plazo de
+5 días, contados a partir de la petición por escrita. Exigir el cumplimiento de todas las cláusulas
+especificadas en el contrato.
+Recibir el chasis cabinado en forma detallada y pormenorizada comprobando su adecuado
+funcionamiento.
+Nombrar una comisión para suscribir la correspondiente acta de entrega recepción definitiva a
+satisfacción de la entidad contratante. Firmar la correspondiente acta de entrega recepción definitiva
+del chasis cabinado a entera satisfacción de la entidad contratante.
+Cancelar los valores liquidados dentro de los 10 días siguientes a la liquidación.
+
+23. LUGAR DE ENTREGA DEL OBJETO DE CONTRATACION
+El chasis cabinado de camión se entregarán dentro del plazo establecido en el contrato, en jornada
+laboral de lunes a viernes de 08H00 a 17H00 en coordinación con el Administrador del Contrato, en
+las instalaciones del CUERPO DE BOMBEROS DEL CANTON NOBOL “CBN”, ubicado en la dirección
+Av. Rio Amazonas y Manabí.
+24. RECOMENDACION
+Dando cumplimiento a lo dispuesto en el numeral 5 del Art. 4 y el Art. 6 del Decreto Ejecutivo Nro.
+519 del Reglamento Sustitutivo de Adquisición de Vehículos para las Instituciones del Estado,
+publicado en Registro Oficial Nro. 315 del 08 de noviembre de 2010, y con el Art. 442 de la Resolución
+Nro. RE-SERCOP-2016-0000072 del 31 de Agosto de 2016 en la que el Servicio Nacional de
+Contratación Pública establece el procedimiento a seguir por parte de las entidades contratantes para
+la adquisición de vehículos que no se realicen a través del Catálogo Electrónico. Según el presente
+FORMULARIO REQUERIMIENTO DE CONTRATACION / ESPECIFICACIONES TÉCNICAS y ESTUDIO
+DE MERCADO PARA LA DEFINICION DEL PRESUPUESTO REFERENCIAL realizados para la
+ADQUISICION DE UN CHASIS CABINADO PARA EL CBN, de acuerdo a la naturaleza del objeto de
+contratación que son bienes normalizados, sugiero realizar el procedimiento de Subasta Inversa
+Electrónica (SIE).
+
+Firmado electrónicamente por:
+
+JORGE ALBERTO
+VELIZ MARTINEZ
+
+Firmado electrónicamente por:
+
+DIANA KALIPSO
+TORRES
+RONQUILLO
+
+Elaborado Por:
+Tcrnel Jorge Alberto Veliz Martínez
+
+Recibido Por:
+Ing. Diana Torres
+
+Primer Jefe del CBN
+
+Compras Públicas (E)
+
+

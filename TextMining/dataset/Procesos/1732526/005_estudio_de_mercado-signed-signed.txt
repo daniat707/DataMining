@@ -1,0 +1,675 @@
+ESTUDIO DE MERCADO PARA LA DETERMINACIÓN DEL PRESUPUESTO
+REFERENCIAL DEL PROCEDIMIENTO DE CONTRATACIÓN
+“ADQUISICIÓN DE FURGONETAS PARA EL CBDMQ”
+Quito, D.M., 13 de septiembre del 2022
+1. OBJETIVO
+El presente documento tiene por objetivo determinar el presupuesto referencial para realizar
+la contratación de la “ADQUISICIÓN DE FURGONETAS PARA EL CBDMQ”.
+
+2. ANTECEDENTE
+Con fecha 18 de julio del 2022, se realizó el estudio de mercado para la determinación del
+presupuesto referencial del procedimiento de contratación “Adquisición de Furgonetas para el
+CBDMQ”, el cual fue aprobado por el SERCOP, mediante el proceso de verificación de
+producción nacional de acuerdo al oficio Nro. SERCOP-DCPN-2022-1227-O, de fecha 30 de
+agosto de 2022.
+
+3. NORMATIVA VIGENTE
+Código Orgánico Integral Penal en Materia Anticorrupción
+“Art. 294.1.- Sobreprecios en Contratación Pública. - Las o los servidores públicos, las
+personas que actúen en virtud de una potestad estatal en alguna de las instituciones del
+Estado; o, los proveedores del Estado que realicen arbitrariamente los procesos de
+contratación pública con evidente y comprobado sobreprecio al precio ordinario establecido
+por el mercado y determinado como tal por la Contraloría General del Estado, serán
+sancionados con pena privativa de libertad de cinco a siete años”.
+Ley Orgánica del Sistema Nacional de Contratación Pública
+“Art. 23.- Estudios. - Antes de iniciar un procedimiento precontractual, de acuerdo a la
+naturaleza de la contratación, la entidad deberá contar con los estudios y diseños completos,
+definitivos y actualizados, planos y cálculos, especificaciones técnicas, debidamente
+aprobados por las instancias correspondientes, vinculados al Plan Anual de Contratación de
+la entidad. Los estudios y diseños incluirán obligatoriamente como condición previa a su
+aprobación e inicio del proceso contractual, el análisis de desagregación tecnológica o de
+Compra de Inclusión, según corresponda, los que determinarán la proporción mínima de
+participación nacional o local de acuerdo a la metodología y parámetros determinados por el
+Servicio Nacional de Contratación Pública. La máxima autoridad de la Entidad Contratante y
+los funcionarios que hubieren participado en la elaboración de los estudios, en la época en
+que éstos se contrataron y aprobaron, tendrán responsabilidad solidaria junto con los
+consultores o contratistas, si fuere del caso, por la validez de sus resultados y por los
+eventuales perjuicios que pudieran ocasionarse en su posterior aplicación”.
+
+Reglamento General a la Ley Orgánica del Sistema Nacional de Contratación Pública
+“Art. 49.- Definición del presupuesto referencial.- Las entidades contratantes deberán contar
+con un presupuesto referencial apegado a la realidad de mercado, al momento de publicar
+sus procesos de contratación, con base en los siguientes parámetros:
+1. Para el caso de adquisición de bienes, prestación de servicios, incluidos los de consultoría,
+y ejecución de obras, el Servicio Nacional de Contratación Pública podrá emitir los parámetros
+correspondientes.
+2. Adicionalmente, para el caso de obras, se considerará lo establecido en las normas de
+control interno expedidas por la Contraloría General del Estado.
+En aquellos bienes o servicios con precio oficial fijado por el Gobierno Nacional mediante
+Decreto Ejecutivo o algún otro mecanismo legalmente reconocido para el efecto, no será
+aplicable la metodología para la determinación de presupuesto referencial,
+Art. 50.- Monto del presupuesto referencial.- El presupuesto referencial que se utilizará para
+determinar el procedimiento de contratación a seguir, de conformidad con la Ley Orgánica del
+Sistema Nacional de Contratación Pública y el presente Reglamento General, luego del
+estudio de mercado, no deberá incluir impuestos”.
+Codificación y Actualización de las Resoluciones emitidas por el Servicio Nacional de
+Contratación Pública Resolución Nro. Re- SERCOP-2016-0000072, de 31 de agosto de
+2016,
+“Art. 2, numeral 26.1 Estudio de mercado.- Corresponde al análisis efectuado por la entidad
+contratante para la definición del presupuesto referencial, el cual deberá contener las
+siguientes consideraciones mínimas: 1. Análisis del bien o servicio a ser contratado:
+especificaciones técnicas o términos de referencia; 2. Consideración de los montos de
+adjudicaciones similares realizadas en los últimos dos años, previos a la publicación del
+proceso tanto de la entidad contratante como de otras instituciones; 3. Variación de precios
+locales o importados, según corresponda. De ser necesario traer los montos a valores
+presentes, considerando la inflación (nacional y/o internacional); es decir, realizar el análisis
+a precios actuales; y, 4. Siempre que sea posible, se exhorta a las entidades contratantes a
+que cuenten con al menos tres proformas.
+En los procedimientos de ínfima cuantía, el estudio de mercado para la definición del
+presupuesto referencial, deberá cumplir únicamente lo establecido en los numerales 1 y 4 del
+inciso precedente.
+Se exceptúa el cálculo del presupuesto referencial en los procedimientos de Catálogo
+Electrónico.
+En la elaboración de las especificaciones técnicas o términos de referencia por parte de la
+entidad contratante, en el estudio de mercado para la definición del presupuesto referencial,
+así como en la elaboración y entrega de proformas o cotizaciones por parte de los
+proveedores, se deberá desglosar y enumerar de forma detallada e individual el bien o
+servicio, denominado ítem, que conforman la contratación, especificando el código CPC, la
+cantidad de unidades requeridas y el desglose del precio por cada unidad o ítem, según
+corresponda.
+El desglose y enumeración a los que hace mención el inciso previo, se refiere a las
+contrataciones en las que se mezclan o agrupan varios bienes o servicios en el objeto
+
+contractual; es decir que, los varios bienes o servicios a contratarse puedan individualizarse,
+diferenciarse y ser plenamente identificables, cuantificables y utilizables por sí mismos.
+En todos los casos, la entidad contratante deberá realizar un análisis racional y minucioso de
+la contratación a desarrollarse, considerando para el efecto la naturaleza de la contratación y
+sus particularidades especiales, dando cumplimiento a los principios previstos en el artículo 4
+de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+En los contratos de tracto sucesivo, donde el proveedor se obliga a entregar una pluralidad
+de bienes o prestar una serie de servicios, de forma sucesiva y por precio unitario, sin que la
+cuantía total se definida con exactitud, por estar subordinadas a las entregas conforme a la
+necesidad, la entidad podrá establecer una cantidad aproximada o proyectada de acuerdo a
+los históricos de la institución.
+Se excluye en los procedimientos de ínfima cuantía para la elaboración y entrega de
+proformas o cotizaciones por parte de los proveedores, el detalle del código CPC”.
+Art. 114.- Del principio de Vigencia Tecnológica. - Las disposiciones establecidas en el
+presente capítulo son de cumplimiento obligatorio para las entidades contratantes, que
+requieran la adquisición y/o arrendamiento de equipos informáticos, equipos de impresión,
+vehículos, y equipos médicos, así como la prestación de los servicios en los que se contemple
+la utilización de los bienes mencionados, a través de procedimientos del Régimen Común y
+del Régimen Especial previstos en la Ley.
+4. Definición del presupuesto referencial:
+4.1 Análisis del bien y servicio a ser contratado.
+Especificaciones Técnicas:
+Se incluye en el documento Especificaciones Técnicas, elaborado por la Dirección de
+Vinculación con la Comunidad del Cuerpo de Bomberos del Distrito Metropolitano de Quito en
+el que consta las características técnicas de los bienes requeridos; documento que forma
+parte del expediente.
+4.2 Los bienes y/o servicios tiene precio oficial fijado por el Gobierno Nacional
+mediante Decreto Ejecutivo o algún otro mecanismo legalmente reconocido para el
+efecto.
+
+SI
+
+NO
+
+X
+
+4.3 Adjudicaciones similares realizadas en los dos últimos 2 años por el Cuerpo de
+Bomberos del Distrito Metropolitano de Quito y por otras Instituciones:
+Palabra clave: FURGONETA
+Enero – junio 2020
+
+Fecha de Adjudicación 19-05-2020
+Valor
+Unitario
+de
+Adjudicación
+29.602,300 MAS IVA
+
+Análisis
+
+Julio – diciembre 2020
+
+Del proceso adjudicado signado con código: CEE-LOG-SIE202-002, el ítem Furgoneta mínimo 17 pasajeros: tracción
+4x2, con cilindraje mínimo 2500 c.c., dirección hidráulica, con
+freno de disco posee características similares al bien que
+desea adquirir el CB-DMQ, sin embargo, no cumple con las
+especificaciones técnicas requeridas en el actual
+procedimiento de contratación ya que el cilindraje mínimo
+requerido en este proceso está muy por encima del bien que
+desea adquirir el CB-DMQ, por lo tanto NO se incluye su valor
+unitario de adjudicación en el presente estudio.
+
+No se encontraron Procesos adjudicados similares.
+
+Enero – junio 2021
+
+No se encontraron Procesos adjudicados similares.
+
+Julio – diciembre 2021
+
+Fecha de Adjudicación 22-09-2021
+Valor
+Unitario
+de
+Adjudicación
+52 391,55 MAS IVA
+
+Análisis
+
+Del proceso adjudicado signado con código: SIE-001-CBB2021, el ítem Adquisición de una furgoneta: tracción 4x2, con
+cilindraje mínimo 2500 c.c., con 4 cilindros en línea, tracción
+manual, posee características similares al bien que desea
+adquirir el CB-DMQ, sin embargo, no cumple con las
+especificaciones técnicas requeridas en el actual
+procedimiento de contratación ya que el cilindraje mínimo
+requerido en este proceso está muy por encima del bien que
+desea adquirir el CB-DMQ, por lo tanto NO se incluye su valor
+unitario de adjudicación en el presente estudio.
+
+Fecha de Adjudicación 04-11-2021
+Valor
+Unitario
+de
+Adjudicación
+34.127,000 MAS IVA
+
+Análisis
+
+Del proceso adjudicado signado con código: SIE-PPSSPz016-2021, el ítem ADQUISICIÓN DE UNA FURGONETA
+PARA LOS PROYECTOS SOCIALES DEL PATRONATO
+PROVINCIAL DE PASTAZA:
+dirección hidráulica, con
+cilindraje mínimo 3000 c.c., con 4 cilindros en línea, tracción
+manual, posee características similares al bien que desea
+adquirir el CB-DMQ, sin embargo, no cumple con las
+especificaciones técnicas requeridas en el actual
+procedimiento de contratación ya que el cilindraje mínimo
+requerido en este proceso está muy por encima del bien que
+desea adquirir el CB-DMQ, por lo tanto NO se incluye su valor
+unitario de adjudicación en el presente estudio.
+
+Enero – Junio 2022
+
+No se encontraron Procesos adjudicados similares.
+
+Julio – diciembre 2022
+
+Fecha de Adjudicación 11-08-2022
+Valor
+Unitario
+de
+Adjudicación
+$ 44.649,60 MAS IVA
+
+Análisis
+
+Del proceso adjudicado signado con código: SIE-GADMQ016-2022, el ítem ADQUISICION DE UNA FURGONETA
+PARA LA DIRECCIÓN DE DESARROLLO SOCIAL
+MUNICIPAL DE QUEVEDO CANTÓN QUEVEDO: dirección
+cremallera, con cilindraje mínimo 2746 c.c., con 4 cilindros en
+línea, tracción 4x2, posee características similares al bien que
+desea adquirir el CB-DMQ, sin embargo, no cumple con las
+especificaciones técnicas requeridas en el actual
+procedimiento de contratación ya que el cilindraje mínimo
+requerido en este proceso está muy por encima del bien que
+desea adquirir el CB-DMQ, por lo tanto NO se incluye su valor
+unitario de adjudicación en el presente estudio.
+
+Resumen:
+Se realizó la verificación en el portal de compras públicas, utilizando la palabra clave
+“furgoneta”, de dicha búsqueda se determina lo siguiente:
+Del proceso de verificación en el portal de compras públicas, se han encontrado
+procedimientos relacionados con la palabra clave de búsqueda “furgoneta”; sin embargo, no
+guardan relación con nuestro objeto del contrato “Adquisición de Furgonetas para el CBDMQ”,
+por las siguientes condiciones: los cilindrajes mínimos requeridos, así como la capacidad
+mínima de pasajeros en estos procesos están muy por encima del bien que desea adquirir el
+CB-DMQ, por lo que no existe relación alguna con las especificaciones técnicas y/o términos
+de referencia.
+4.4 Variación de precios locales o importados, según corresponda. De ser necesario
+traer los montos a valores presentes, considerando la inflación (nacional y/o
+internacional); es decir, realizar el análisis a precios actuales:
+
+No se tiene referencia de procedimientos de contratación similares que se puedan tomar
+como referencia los costos y variaciones de precios locales e importados conforme
+analizado en los puntos precedentes de este estudio.
+
+4.5 Proformas:
+En consideración al tipo de procedimiento y requerimiento, se han solicitado proformas, a
+varios potenciales proveedores detallando lo requerido por el CBDMQ, se recibieron tres
+proformas, según el siguiente detalle:
+PROVEEDOR:
+
+PROVEEDOR 1
+
+PROVEEDOR 2
+
+PROVEEDOR 3
+
+RAZÓN SOCIAL:
+
+NEOAUTO S.A.
+
+ASIAUTO S.A
+
+CORPORACION
+NEXUM
+NEXUMCORP S.A.
+
+NEOAUTO S.A.
+
+KIA MOTORS
+
+NEXUMCORP
+
+0190341526001
+
+1791754115001
+
+0992141913001
+
+NOMBRE
+COMERCIAL:
+RUC:
+CUADRO DE ANÁLISIS
+
+Los proveedores que ofertan los bienes requeridos son:
+1. RAZÓN SOCIAL: NEOAUTO S.A., RUC: 0190341526001, NOMBRE COMERCIAL:
+NEOAUTO S.A.
+2. RAZÓN SOCIAL: ASIAUTO S.A, RUC: 1791754115001, NOMBRE COMERCIAL:
+KIA MOTORS
+3. RAZÓN SOCIAL:
+CORPORACION NEXUM NEXUMCORP
+0992141913001, NOMBRE COMERCIAL: NEXUMCORP
+
+S.A.,
+
+RUC:
+
+Análisis comparativo Furgoneta
+
+PRECIOS UNITARIOS - REFERENCIALES
+
+REQUERIMIENTO DEL CBDMQ
+
+CALCULO DE
+INFLACIÓN
+ACUMULADA
+ACTUALIZADO
+
+NEOAUTO S.A.
+
+ASIAUTO S.A
+
+NEOAUTO S.A.
+
+ASIAUTO S.A
+
+CORPORACION
+NEXUM
+NEXUMCORP
+S.A.
+
+0190341526001
+
+1791754115001
+
+0992141913001
+
+PRECIO
+UNITARIO
+
+PRECIO
+TOTAL
+
+ITEM
+
+BIENES
+
+CANT
+
+Código CPC
+
+P. UNIT (SIN IVA)
+
+P. UNIT (SIN IVA)
+
+P. UNIT (SIN IVA)
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+1
+
+Furgoneta
+
+3
+
+491130022
+
+N/A
+
+41240.62
+
+49991.07
+
+41955.36
+
+41240.62
+
+123721.86
+
+SUBTOTAL
+
+123721.86
+
+IVA 12%
+
+14846.62
+
+TOTAL
+
+138568.48
+
+PRECIO
+UNITARIO
+
+PRECIO
+TOTAL
+
+Análisis comparativo Mantenimiento
+
+PRECIOS UNITARIOS POR AÑO - REFERENCIALES
+
+NEOAUTO S.A.
+REQUERIMIENTO DEL CBDMQ
+
+CALCULO DE
+INFLACIÓN
+ACUMULADA
+ACTUALIZADO
+
+ASIAUTO S.A
+
+CORPORACION
+NEXUM
+NEXUMCORP
+S.A.
+
+NEOAUTO S.A.
+
+ASIAUTO S.A
+
+0190341526001
+
+1791754115001
+
+0992141913001
+
+ITEM
+
+SERVICIO
+
+CANT
+
+Código CPC
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN IVA)
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+1
+
+Mantenimiento
+de Furgoneta
+100.000 km o
+5 años
+
+3
+
+871410012
+
+N/A
+
+24.363,65
+
+21.361,6
+
+23.732,15
+
+24.363,65
+
+73.090,95
+
+SUBTOTAL
+
+73.090,95
+
+IVA 12%
+
+8.770,914
+
+TOTAL
+
+81.861,864
+
+Nota: En referencia al valor del plan de mantenimiento se tomó como referencia el valor del
+mantenimiento de la proforma de los vehículos con menor valor, considerando que estos
+están relacionados directamente al objeto de la contratación.
+
+Cuadro comparativo TOTAL Furgoneta y Mantenimiento
+
+PRECIOS UNITARIOS - REFERENCIALES
+
+REQUERIMIENTO DEL CBDMQ
+
+CALCULO DE
+INFLACIÓN
+ACUMULADA
+ACTUALIZADO
+
+NEOAUTO S.A.
+
+ASIAUTO S.A
+
+CORPORACION
+NEXUM
+NEXUMCORP
+S.A.
+
+0190341526001
+
+1791754115001
+
+0992141913001
+
+NEOAUTO S.A.
+
+ASIAUTO S.A
+
+PRECIO
+UNITARIO
+SELECCIONADO
+
+PRECIO TOTAL
+
+BIENES
+
+CANT
+
+Código CPC
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+P. UNIT (SIN
+IVA)
+
+1
+
+Furgoneta
+
+3
+
+491130022
+
+N/A
+
+41240.62
+
+49991.07
+
+41955.36
+
+41240,62
+
+123721.86
+
+1
+
+Mantenimiento
+de Furgoneta
+por 5 años
+
+3
+
+871410012
+
+N/A
+
+24363.65
+
+21361.6
+
+23732.15
+
+24363.65
+
+73090.95
+
+SUBTOTAL
+
+196812.81
+
+IVA 12%
+
+23617.54
+
+TOTAL
+
+220430.35
+
+ITEM
+
+5. CONCLUSIONES:
+5.1
+
+De la búsqueda de los procedimientos en el Portal de Compras Públicas de años
+anteriores tanto en el Cuerpo de Bomberos del DMQ como en otras instituciones, se
+concluye que existen procedimientos similares en cuanto al nombre, sin embargo, no
+cumplen con las especificaciones técnicas y/o términos de referencia requeridos por
+el CBDMQ.
+
+5.2
+
+Al no existir procedimientos a nivel nacional que cumplan con las condiciones exactas
+establecidas por el CBDMQ, en el Portal Institucional del SERCOP, se requirieron
+varias proformas. Consecuentemente, del estudio realizado, se determinó que la
+proforma seleccionada más económica que cumple con las especificaciones técnicas
+requeridas, es del Concesionario NEOAUTO S.A. cuyo valor asciende a USD $
+196812.81 (CIENTO NOVENTA Y SEIS MIL OCHOCIENTOS DOCE CON 81/100)
+dólares de los Estados Unidos de América más IVA, valor que incluye tanto el precio
+total por las tres furgonetas, así como el valor total del mantenimiento por las tres
+furgonetas durante los cinco años de la garantía técnica.
+Siendo esta la mejor propuesta económica de las presentadas, en consecuencia, se
+considera como presupuesto referencial para el presente procedimiento de
+contratación.
+
+5.3
+
+6.
+
+De la búsqueda de los procedimientos de años anteriores en el Portal de Compras
+Públicas, que tienen similitud o están relacionados a los bienes y/o servicios detallados
+anteriormente, no se encontraron procedimientos que cumpliesen con las
+especificaciones técnicas requeridos por el Cuerpo de Bomberos del Distrito
+Metropolitano de Quito, en consecuencia, no fueron considerados para el cálculo del
+presupuesto referencial.
+RECOMENDACIÓN:
+
+Considerando lo expuesto y cumpliendo lo determinado en la Resolución Nro. RE-SERCOP2016-2016-0000072 y sus reformas correspondientes, emitidas por el Servicio Nacional de
+Contratación Pública, se recomienda establecer como presupuesto referencial para la
+contratación del procedimiento denominado “ADQUISICIÓN DE FURGONETAS PARA EL
+CBDMQ”, el VALOR de USD $196812.81 más IVA.
+RESPONSABLES DE ELABORACIÓN DEL ESTUDIO:
+
+RESPONSABLES DE
+ELABORACIÓN DEL DOCUMENTO
+
+Firma Electrónica
+
+Sr. Andrés Barreto
+1713213872
+Elaborado
+Oficinista 2 de
+por:
+Vinculación con la
+Comunidad
+
+Firmado electrónicamente por:
+
+ANDRES ALEJANDRO
+BARRETO LEGNA
+
+Código - Operadores
+del SNCP con el No.
+SERCOP
+
+SERCOP iZkmSRj0O9
+
+Mgs. Paty Palacios
+1716548142
+Revisado
+Directora de
+y
+Vinculación con la
+Aprobado
+Comunidad del
+por:
+CBDMQ
+
+Firmado electrónicamente por:
+
+PATY JANET
+PALACIOS
+
+Fecha de elaboración: 13 de septiembre del 2022
+
+SERCOP –
+0wAqXwLmvF
+
+

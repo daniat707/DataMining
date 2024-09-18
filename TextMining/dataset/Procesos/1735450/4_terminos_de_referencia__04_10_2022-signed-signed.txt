@@ -1,0 +1,3061 @@
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+DESCRIPCIÓN GENERAL
+
+Objeto de la contratación
+
+SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS
+DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION
+DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL
+DEL GUAYAS
+
+Unidad requirente
+
+GESTION DOCUMENTAL GUAYAS
+
+Número Certificación
+Catálogo Electrónico
+
+CATE-DPG-019-2022
+
+Número Certificación PAC
+
+CPAC-DPG-009-2022
+
+Fecha
+
+04/10/2022
+
+1.
+
+ANTECEDENTES:
+
+1.1. Normativa legal
+El Art. 370 de la Constitución de la República señala: “El Instituto Ecuatoriano de Seguridad
+Social, entidad autónoma regulada por la ley, será responsable de la prestación de las
+contingencias del seguro universal obligatorio a sus afiliados”.
+La Ley de Seguridad Social en su artículo 16 establece: “Naturaleza jurídica. - El Instituto
+Ecuatoriano de Seguridad Social (IESS) es una entidad pública descentralizada, creada por la
+Constitución Política de la República, dotada de autonomía normativa, técnica, administrativa,
+financiera y presupuestaria, con personería jurídica y patrimonio propio, que tiene por objeto
+indelegable la prestación del Seguro General Obligatorio en todo el territorio nacional. El IESS
+no podrá ejercer otras atribuciones ni desempeña otras actividades que las consignadas en la
+Constitución Política de la República y en esta Ley. (…)”.
+La Ley del Comercio Electrónico Art. 8, de Conservación de los mensajes de datos especifica
+que “Toda información sometida a esta Ley, podrá ser conservada; este requisito quedará
+cumplido mediante el archivo del mensaje de datos, siempre que se reúnan las siguientes
+condiciones:
+a. Que la información que contenga sea accesible para su posterior consulta;
+b. Que sea conservado con el formato en el que se haya generado, enviado o recibido, o con
+algún formato que sea demostrable que reproduce con exactitud la información generada,
+enviada o recibida;
+c. Que se conserve todo dato que permita determinar el origen, el destino del mensaje, la fecha
+y hora en que fue creado, generado, procesado, enviado, recibido y archivado; y,
+d. Que se garantice su integridad por el tiempo que se establezca en el reglamento a esta ley.
+Toda persona podrá cumplir con la conservación de mensajes de datos, usando los servicios de
+terceros, siempre que se cumplan las condiciones mencionadas en este artículo.
+La Resolución C.D. 621 Expide LA CODIFICACIÓN DEL PLAN DE AUSTERIDAD Y RESTRICCION
+DE GASTOS DEL INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL., en cuanto a SERVICIOS Y
+SUMINISTROS, indica lo siguiente:
+Página 1 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+a) Restrínjase a lo indispensable el uso de los servicios de energía eléctrica, telefonía, agua
+potable; así como la adquisición de suministros, materiales de oficina e impresión,
+combustibles y los egresos por concepto de mantenimiento de bienes muebles e
+inmuebles.
+b) Elimínese los servicios de televisión pagada, telefonía celular y tarjetas de viaje, excepto
+para los Miembros del Consejo Directivo, Director General y Subdirector General.
+c) Prohíbase la contratación y entrega de objetos promocionales, así como la impresión y
+contratación de agendas, calendarios, cuadernos y revistas, con excepción de la Memoria
+Anual y publicaciones institucionales.
+1.2. Antecedentes de la necesidad
+La Dirección Provincial del Guayas, de conformidad con la normativa nacional vigente, la
+misma que está orientada a mejorar la eficacia de los servicios que se prestan, así como a
+fortalecer la transparencia de la información, en atención a los procesos de modernización, de
+acuerdo con la Política Cero Papel y los productos presentados en los servicios en línea del
+portal web, busca como parte de su estrategia una eficiente gestión documental a través de la
+tecnología.
+En vista de estos fines, la Unidad de Gestión Documental Guayas, se encuentra en la labor de
+ejecutar el proceso de CONVERSIÓN DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN
+MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTIÓN
+DOCUMENTAL DE LA COORDINACIÓN DE AFILIACIÓN Y CONTROL TÉCNICO GUAYAS, con la
+finalidad de reducir el volumen de papel que, actualmente, existe para así brindar una
+atención ágil, inmediata y certera a través de la implementación de los Archivos Digitales.
+Con Memorando IESS-DPG-2022-0018-M, de fecha 4 de enero del 2022, suscrito por el Ing.
+Walter Luna Álvarez, Director Provincial de Guayas de la época, se realiza la socialización de la
+importancia del Manual de proceso de Gestión de Archivos y Digitalización a las
+Coordinaciones Provinciales del Guayas.
+Con Memorando IESS-CPAFG-2022-0105-M, de fecha 18 de enero del 2022, suscrito por el Ing.
+Guillermo Mosquera, Coordinador Provincial Administrativo Financiero de la época, se
+socializa el PAC 2022 de la Dirección Provincial del Guayas a las Coordinaciones Provinciales del
+CRP.
+Con el Memorando IESS-CPACTG-2022-0565-M, del 27 de enero del 2022, suscrito por el señor
+Holger Chancay Villafuerte, Asistente administrativo se realiza el insistido a necesidad del
+Servicio de conversión de ROLLOS JACKETS DE MICROFILM A DIGITAL Y MIGRACIÓN DE
+IMÁGENES AL SISTEMA.
+Por ello, mediante memorando IESS-CPAFG-2022-0266-M, de fecha 4 de febrero del 2022, el
+Ing. Guillermo Mosquera Acosta en calidad Coordinador Provincial Administrativo Financiero
+Guayas dirigido al Ing. Walter Luna Álvarez, Director Provincial del Guayas ambos de la época,
+solicitó el inicio de la fase preparatoria para contrata el SERVICIO DE CONVERSIÓN DE ROLLOS
+Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A
+Página 2 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+ARCHIVO BINARIO AL SISTEMA GESTIÓN DOCUMENTAL DE LA COORDINACIÓN DE AFILIACIÓN
+Y CONTROL TÉCNICO GUAYAS.
+Con sumilla inserta al Memorando IESS-CPAFG-2022-0266-M, del 04 de febrero del 2022, el
+Ing. Walter Luna Álvarez, Director Provincial del Guayas de la época autoriza el inicio de la Fase
+Preparatoria de la “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO
+AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL
+GUAYAS” indicando: “AUTORIZADO, ACOGER SUMILLA DEL ABOGADA DE LA DPG PARA FIN
+DE CONTINUAR TRÁMITE PERTINENTE CONFORME A LA NORMATIVA LEGAL VIGENTE"
+Con Memorando IESS-CPAFG-2022-0105-M, de fecha 18 de enero 2022 suscrito por Ing.
+Guillermo Andrés Mosquera Acosta, Coordinador Provincial Administrativo Financiero Guayas
+socializa de esa fecha el PAC aprobado para el periodo 2022, en la que se existe el ítem
+“SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS”, para
+el periodo C2 ( segundo trimestre)
+Mediante Circular No. IESS-CPAFG-2022-0011-C; de fecha 29 de marzo de 2022, suscrito por
+ingeniero Guillermo Andrés Mosquera Acosta Coordinador Provincial Administrativo
+Financiero IESS-Guayas, de aquella época remitió la Socialización de Recordatorio:
+Certificación como Operadores del Sistema Nacional de Contratación Pública.
+Mediante Memorando IESS-DPG-2022-1380-M, de fecha 26 de mayo 2022, suscrito por el
+Director Provincial de Guayas ingeniero Mario Aníbal Maldonado Director Provincial del
+Guayas de esa época, remite informe justificativo a la Subdirección Nacional de Compras la no
+ejecución del PAC 2022 y concluye lo que se transcribe a continuación:
+“..En consecuencia, de lo antes narrado, se puede determinar que uno de los motivos más
+influyentes por las cuales no se ha dado cumplimiento a la ejecución de planificado en el PAC
+2022 de la Dirección Provincial del Guayas, se debe a los cambios de administración dados en
+este CRP, habida cuenta que es conocido hasta la saciedad, que toda autoridad al posesionarse
+en un cargo, realiza una revisión prolija a todos los procesos y procedimientos que mantiene a
+cargo cada dependencia, a fin de verificar el cumplimiento de normativa, siendo así que con
+fecha 01 de abril del presente año, fui posesionado como Director Provincial.
+Por consiguiente, en esta administración se continuará con las gestiones para dar
+cumplimiento a lo programado tanto en el primer como en el segundo cuatrimestre.
+Con tal justificación se argumenta la no ejecución del PAC de la Dirección Provincial del Guayas
+en el primer cuatrimestre”
+Con Memorando IESS-CPAFG-2022-1138-M, de fecha 31 de mayo 2022, suscrito por la Mgs.
+Haydee Xiomara Moreta Monserrate, Coordinadora Provincial Financiera del Guayas de esa
+fecha, remitió los avances de procesos de compras planificados para el presente periodo y se
+retoma la necesidad de conformidad a los justificativos expuestos en memorando IESS-DPG2022-1380-M.
+Se remite INFORME DE JUSTIFICACION DE LA NECESIDAD elaborado por Ing. Diana Sánchez
+Saavedra, Analista Económico del Departamento de Gestión Documental, trasladado con
+Memorando IESS-GDG-2022-0371-M, de fecha 06 de junio 2022, suscrito por la Econ. María
+Página 3 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Isabel Eguez Responsable de Gestión Documental Guayas de conformidad a las gestiones
+inmersas en la etapa preparatoria.
+Con Memorando IESS-CPAFG-2022-1200-M, de fecha 06 de junio 2022, suscrito por Ing. Luis
+Fernando Chávez Guevara Coordinador Provincial Financiero del Guayas de ese época, remitió
+la “Solicitud de Autorización Para Inicio de la Propuesta de Segunda Fase Servicio de Conversión
+de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado Archivo
+Binario al Sistema Gestión Documental Para Los Archivos Afiliación”
+En Memorando IESS-CPAFG-2022-1200-M, de fecha 06 de junio de 2022, mediante sumilla
+inserta “Se autoriza preparatoria” documento, suscrito por el Ing Mario Aníbal Maldonado
+Director Provincial del Guayas, de esa época.
+Con Memorando IESS-GDG-2022-0444-M, de fecha 11 de julio de 2022, suscrito por el Luis
+Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA
+DISPONIBILIDAD PRESUPUESTARIA PARA EL PROCESO DE "SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS
+ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS”
+Con Memorando IESS-CPAFG-2022-1492-M, de fecha 12 de julio 2022, suscrito por la Mgs.
+Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada de esa fecha, RESPONDE A LA SOLICITUD DE DISPONIBILIDAD PRESUPUESTARIA
+PARA EL PROCESO "SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL
+SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL
+GUAYAS”
+Con Memorando IESS-GDG-2022-0454-M, de fecha 12 de julio 2022, suscrito por el Luis Walter
+Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA SALDOS PAC
+PARA PROCESO "SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE
+MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL
+SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL
+GUAYAS”
+Con Memorando IESS-UPPG-2022-0140-M, de fecha 13 de julio 2022, por el Mgs. Carlos
+Alberto Barahona Quituisaca, Responsable de la Unidad Provincial de Planificación Guayas,
+REMITIO SALDOS PAC PROCESO DE "SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y
+JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL
+DEL GUAYAS”
+Con Memorando IESS-GDG-2022-0458-M, de fecha 14 de julio 2022, suscrito por el Econ. Luis
+Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA
+APROBACION DEL INFORME TECNICO NRO. 013-2022-DPG Y LA ELABORACION DE LA
+RESOLUCION MOTIVADA DE REFORMA AL PAC PARA SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS
+ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS, mediante sumilla inserta de la Mgs. Bertha
+
+Página 4 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas, Encargada,
+de esa época, recibido en base a lo expuesto, ya se remitió solicitud a la Dirección Provincial
+del Guayas.
+Con Memorando IESS-CPAFG-2022-1526-M, de fecha 14 de julio 2022, suscrito por la Mgs.
+Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada, de esa fecha, REMITIO SOLICITUD DE APROBACION DEL INFORME TECNICO NRO.
+013-2022-DPG Y LA ELABORACION DE LA RESOLUCION MOTIVADA DE REFORMA AL PAC PARA
+SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS.
+Con Memorando IESS-DPG-2022-1846-M, de fecha 15 de julio 2022, suscrito por el Ing. Mario
+Aníbal Vásconez Flores, Director Provincial del Guayas, de esa fecha, REMITIO SOLICITUD DE
+ELABORACION DE LA RESOLUCION MOTIVADA DE REFORMA AL PAC PARA SEGUNDA FASE
+SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO
+MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL
+PARA LOS ARCHIVOS DE DIRECCION PROVINCIAL DEL GUAYAS.
+Con Memorando IESS-DPG-2022-1906-M, de fecha 22 de julio 2022, suscrito por el Ing. Mario
+Aníbal Vásconez Flores, Director Provincial del Guayas, de esa fecha, remitió Solicitud Emisión
+de Certificación de existencia de SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y
+JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG.
+Con Memorando IESS-SDNCP-2022-1965-M, de fecha 25 de julio 2022, suscrito por la Ing. Celia
+Priscila Ojeda Pico, Subdirectora Nacional de Compras Públicas, en el que remite CPAC-DPG007-2022 “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG”.
+Con Memorando IESS-GDG-2022-0524-M, de fecha 04 de agosto de 2022, suscrito por el Econ.
+Luis Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, SOLICITA
+CERTIFICACION PRESUPUESTARIA PARA EL PROCESO DE SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS
+ARCHIVOS DE DPG.
+Con Memorando IESS-GDG-2022-0526-M, de fecha 04 de agosto de 2022, suscrito por el Econ.
+Luis Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, remitió
+ALCANCE A LA SOLICITUD DE CERTIFICACION PRESUPUESTARIA PARA EL PROCESO SEGUNDA
+FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN
+MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION
+DOCUMENTAL PARA LOS ARCHIVOS DE DPG.
+Con Memorando IESS-CPAFG-2022-1757-M, de fecha 09 de agosto de 2022, suscrito por la
+Mgs. Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada, remitió EMISION DE CERTIFICACION PRESUPUESTARIAS PARA EL PROCESO DE
+PROCESO DE “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+
+Página 5 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG”.
+Con Memorando IESS-CPAFG-2022-1784-M, de fecha 14 de agosto de 2022, suscrito por la
+Mgs. Bertha Janina Cardona Bravo, Coordinadora Provincial Administrativa Financiera Guayas,
+Encargada, de esa fecha, remitió SOLICITUD DE AUTORIZACION DE GASTO E INICIO DEL
+PROCESO “SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA
+GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DPG”.
+Con Memorando IESS-GDG-2022-0558-M, de fecha 16 de agosto de 2022, suscrito por el Econ.
+Luis Walter Garate Vacacela, Responsable de Gestión Documental de esa fecha, TRASLADA
+ESPEDIENTE PARA INICIO DE LA FASE PRECONTRACTUAL “SEGUNDA FASE SERVICIO DE
+CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y
+TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS
+ARCHIVOS DE DPG”.
+Con Memorando No. IESS-CPG-2022-0640-M, de fecha 22 de agosto de 2022, suscrito por la
+Ing. Teresa Josefina Espinoza Beltrán en calidad de Responsable de Compras Públicas Guayas
+de esa fecha, remite “DEVOLUCION DE EXPEDIENTE FISICO Y DIGITAL DEL PROCESO: "SEGUNDA
+FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN
+MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL SISTEMA GESTION
+DOCUMENTAL PARA LOS ARCHIVOS DE DPG" documento que transcribo para conocimiento del
+acto:
+“Mediante Decreto Ejecutivo Nro. 458 del 18 de junio de 2022 se expidió el nuevo
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, en cuya
+DISPOSICION FINAL señala: “El presente Reglamento entrará en vigencia en el plazo
+de un mes a partir de su publicación en el Registro Oficial”
+En el Registro Oficial Suplemento Nro. 87 del 20 de junio de 2022, se publicó el nuevo
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública.
+Con Decreto Ejecutivo Nro. 488 del 12 de julio de 2022 se expidió una reforma al Nuevo
+Reglamento a la Ley Orgánica del Sistema Nacional de Contratación Pública, en cuyo
+artículo 14 se dispone: “En la Disposición Final del Reglamento General a la Ley
+Orgánica del Sistema Nacional de Contratación Pública, reemplácese la frase “un
+mes” por “ dos meses”.
+Por ende, el Nuevo Reglamento a la Ley Orgánica del Sistema Nacional de Contratación
+Pública entrará en vigencia a partir del 20 de agosto del presente año.
+En dicho instrumento legal, se hace una actualización respecto a establecer con claridad
+los procedimientos a efectuarse en relación a los distintos contenidos de la Ley, sin
+exceder las disposiciones legales establecidas en la misma.
+Según la Disposición Transitoria Cuarta señala: “Los procedimientos de contratación
+iniciados hasta antes de la entrada en vigencia de este Reglamento, se concluirán
+aplicando los pliegos y las normas que estuvieron vigentes al momento de su
+convocatoria”
+Por lo expuesto en líneas anteriores, se devuelve el expediente físico y digital, a fin de
+
+Página 6 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+actualizar la información.
+Lo que comunico para los fines pertinentes.”
+
+
+
+Con Memorando No. IESS-GDG-2022-0592-M, de fecha 30 de agosto de 2022, suscrito
+por la Mgs. María Isabel Eguez Santana, Responsable de Gestión Documental Guayas
+remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial Administrativa
+Financiera Guayas, Encargada de esa fecha, Solicitud de Aprobación de Estudio de
+Viabilidad y Autorización de Inicio del Proceso Segunda Fase Servicio de Conversión de
+Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental para los Archivos de Dirección
+Provincial del Guayas.
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-1967-M, de fecha 30 de agosto de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió al Mgs. Felix
+Eduardo Pilco del Salto Director Provincial del Guayas, Encargado, Solicitud de
+Aprobación de Informe de Necesidad de Necesidad y Autorización de Inicio de Fase
+Preparatoria de La Segunda Fase Servicio de Conversión de Rollos y Jackets de
+Microfilm Almacenado en Medio Magnético y Transformado a Archivo Binario al
+Sistema Gestión Documental.
+
+
+
+En hoja de ruta IESS-CPAFG-2022-1967-M, de fecha 30 de agosto 2022, solicitud que
+refiere APROBACION DE INFORME DE NECESIDAD Y AUTORIZACION DE INICIO DE FASE
+PREPARATORIA DE LA SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS
+DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL, la Abg de despacho de Dirección
+Provincial Mishel Estefanía Rosero Hermenejildo mediante sumilla inserta indica
+“Estimado Director: En virtud de la revisión de la documentación preparatoria se
+recomienda autorizar inicio de fase preparatoria del proceso, en cumplimiento a la
+normativa legal vigente.”
+
+
+
+En hoja de ruta IESS-CPAFG-2022-1967-M de fecha 30 de agosto 2022, solicitud que
+refiere APROBACION DE INFORME DE NECESIDAD Y AUTORIZACION DE INICIO DE FASE
+PREPARATORIA DE LA SEGUNDA FASE SERVICIO DE CONVERSION DE ROLLOS Y JACKETS
+DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO
+BINARIO AL SISTEMA GESTION DOCUMENTAL, el Mgs. Felix Eduardo Pilco del Salto
+Director Provincial del Guayas “Se acoge sumilla de la abogada de despacho y se
+autoriza inicio del proceso acorde a la normativa legal vigente.”
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0593-M, de fecha 30 de agosto de 2022, suscrito
+por la Mgs. María Isabel Eguez Santana, Responsable de Gestión Documental Guayas,
+remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial Administrativa
+Financiera Guayas, Encargada de esa fecha, Solicitud de Autorización de Gasto e Inicio
+del Proceso "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+
+Página 7 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de DPG"
+
+
+Con Memorando Nro. IESS-CPAFG-2022-1978-M, de fecha 30 de agosto de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa época, remitió al Mgs. Felix
+Eduardo Pilco del Salto Director Provincial del Guayas, Encargado, Solicitud de
+Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio de Conversión de
+Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental para los Archivos de DPG"
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0594-M, de fecha 30 de agosto de 2022, suscrito
+por la Mgs. María Isabel Eguez Santana, Responsable de Gestión Documental Guayas,
+remitió a la Ing. Teresa Josefina Espinoza Beltrán Responsable de Compras Públicas
+Guayas de esa fecha, Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio
+de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental para los Archivos de
+DPG"
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-1118-M, de fecha 10 de mayo de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras
+Públicas, Encargada remitió a la Mgs. Verónica Alexandra Tómala Tejada, Responsable
+de Compras Públicas Guayas de esa fecha, remitió respuesta: Servidores que
+Intervienen en la Fase Preparatoria que No Cuentan con la Certificación de Operadores
+del SNCP
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0597-M, de fecha 31 de agosto de 2022, suscrito
+por Mgs. María Isabel Eguez Santana Responsable de Gestión Documental Guayas
+remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial Administrativa
+Financiera Guayas, Encargada de esa fecha, Solicitud Información sobre certificación
+como Operadora en el SNCP.
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0598-M, de fecha 01 de septiembre de 2022,
+suscrito por la Ing. Celia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, remitió Solicitud de Anulación de Certificación CPAC-DPG-007-2022 de la
+Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental
+para los Archivos de la Dirección Provincial del Guayas.
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0599-M, de fecha 01 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Solicitud de Disponibilidad
+Presupuestaria para el Proceso de "Segunda Fase Servicio de Conversión de Rollos y
+Jackets de Microfilm Almacenado en Medio Magnético y Transformado a Archivo
+
+Página 8 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Binario al Sistema Gestión Documental para los Archivos de Dirección Provincial del
+Guayas
+
+
+Con Memorando Nro. IESS-GDG-2022-0600-M, de Fecha 01 de Septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Alcance al Memorando
+IESS-GDG-2022-0599-M de la Solicitud de Disponibilidad Presupuestaria Para El
+Proceso Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de Dirección Provincial del Guayas
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0601-M, de fecha 01 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada, Solicitud de Anulación de Certificación
+Presupuestaria Otorgadas para Segunda Fase Servicio de Conversión de Rollos y
+Jackets de Microfilm Almacenado en Medio Magnético y Transformado a Archivo
+Binario al Sistema Gestión Documental para los Archivo.
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2016-M, de fecha 01 de septiembre de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió a la Mgs. María
+Isabel Eguez Santana Responsable de Gestión Documental Guayas, Respuesta a La
+Solicitud de Disponibilidad Presupuestaria para Proceso de Adquisición De "Segunda
+Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al sistema Gestión Documental
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0606-M, de fecha 02 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió al Mgs. Carlos Alberto Barahona Quituisaca Responsable de la Unidad
+Provincial de Planificación Guayas, Solicitud de Saldos PAC para la "Segunda Fase
+Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al sistema Gestión Documental.
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2508-M, de fecha 06 de septiembre de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras
+Públicas, Encargada, remitió Anulación de Certificación PAC Nro. CPAC-DPG-007-2022
+"Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en
+Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental
+para los Archivos de la DPG"
+
+
+
+Con Memorando Nro. IESS-UPPG-2022-0185-M, de fecha 06 de septiembre de 2022,
+suscrito por el Mgs. Carlos Alberto Barahona Quituisaca Responsable de la Unidad
+Provincial de Planificación Guayas, remitió a la Mgs. María Isabel Eguez Santana
+Responsable de Gestión Documental Guayas, Saldos PAC para proceso "Segunda
+Página 9 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+Fase servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario Al sistema Gestión Documental
+
+
+Con Memorando Nro. IESS-GDG-2022-0630-M, de fecha 09 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió a la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Solicitud de Aprobación del
+Informe Técnico NRO.18-2022-DPG y la Elaboración de la Resolución Motivada de
+Reforma al PAC para Segunda Fase Servicio de Conversión de Rollos y Jackets de
+Microfilm Almacenado en Medio Magnético y Transformado a Archivo Binario Al
+sistema Gestión Documental
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2128-M, de fecha 09 de septiembre de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió al Mgs. Felix
+Eduardo Pilco del Salto Director Provincial del Guayas, Encargado, Solicitud de
+Aprobación del Informe Técnico NRO.18-2022-DPG y la Elaboración de la Resolución
+Motivada de Reforma al PAC para Segunda Fase Servicio de Conversión de Rollos y
+Jackets de Microfilm Almacenado en Medio Magnético y Transformado a Archivo
+Binario al sistema Gestión Documental.
+
+
+
+Con Memorando Nro. IESS-DPG-2022-2382-M, de fecha 10 de septiembre de 2022,
+suscrito por el Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas,
+Encargado, remitió al Mgs. Carlos Alberto Barahona Quituisaca, Responsable de la
+Unidad Provincial de Planificación Guayas, remitió Solicitud Elaboración de la
+Resolución Motivada de Reforma al PAC para Segunda Fase Servicio de Conversión de
+Rollos y Jackets de Microfilm Almacenado en Medio Magnético y Transformado a
+Archivo Binario al Sistema Gestión Documental
+
+
+
+Con Memorando Nro. IESS-DPG-2022-2392-M, de fecha 12 de septiembre de 2022,
+suscrito por el Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas,
+remitió a la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas,
+Encargada, Solicitud de Certificación PAC, para el Proceso "Segunda Fase Servicio de
+Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental"
+
+
+
+Con Memorando Nro. IESS-UPPG-2022-0206-M, de fecha 16 de septiembre de 2022,
+suscrito por el Mgs. Carlos Alberto Barahona Quituisaca Responsable de la Unidad
+Provincial de Planificación Guayas, remitió Mgs. María Isabel Eguez Santana
+Responsable de Gestión Documental Guayas, Solicitud PAC para el Proceso "Segunda
+Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al Sistema Gestión Documental"
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2638-M, de fecha 16 de septiembre de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras
+
+Página 10 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Públicas, Encargada, remitió al Mgs. Carlos Alberto Barahona Quituisaca
+Responsable de la Unidad Provincial de Planificación Guayas, Devolución de la
+Resolución de Reforma al PAC Nro. IESS-UPPG-2022-0058-R.
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2642-M, de fecha 16 de septiembre de 2022,
+suscrito por la Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras
+Públicas, Encargada, remitió al Mgs. Felix Eduardo Pilco del Salto Director Provincial
+del Guayas, Respuesta: Solicitud de Certificación PAC, para el proceso "Segunda Fase
+Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio
+Magnético y Transformado a Archivo Binario al Sistema Gestión Documental”
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0642-M, de fecha 16 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, Solicitud PAC para el
+Proceso "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental"
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2195-M, de fecha 16 de septiembre de 2022,
+suscrito por la Mgs. Bertha Janina Cardona Bravo Coordinadora Provincial
+Administrativa Financiera Guayas, Encargada de esa fecha, remitió al Mgs. Felix
+Eduardo Pilco del Salto Director Provincial del Guayas, Solicitud de Aprobación del
+Informe Técnico Nro.20-2022-DPG y la elaboración de la Resolución Motivada de
+Reforma al PAC para Segunda Fase Servicio de Conversión de Rollos y Jackets de
+Microfilm Almacenado en Medio Magnético y Transformado a Archivo Binario al
+Sistema Gestión Documental”
+
+
+
+Con Memorando Nro. IESS-DPG-2022-2482-M, de fecha 19 de septiembre de 2022,
+suscrito por el Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas,
+remitió al Mgs. Carlos Alberto Barahona Quituisaca, Responsable de la Unidad
+Provincial de Planificación Guayas, Instituto Ecuatoriano de Seguridad Social, Solicitud
+Elaboración de Resolución Motivada de Reforma al PAC para Segunda Fase Servicio de
+Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental.
+
+
+
+Con Memorando Nro. IESS-SDNCP-2022-2770-M, de fecha 23 de septiembre de 2022,
+Ing. Cecilia Priscila Ojeda Pico Subdirectora Nacional de Compras Públicas, Encargada,
+remitió al Mgs. Felix Eduardo Pilco del Salto Director Provincial del Guayas, CPAC-DPG009-2022 "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental.
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0683-M, de fecha 27 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió al Econ. Janio Darío Arroyo Torres, Coordinador Provincial
+Página 11 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Administrativo Financiero Guayas, Solicitud de Certificación Presupuestaria para el
+Proceso de "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de DPG”
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2306-M, de fecha 28 de septiembre de 2022,
+suscrito por el Econ. Janio Darío Arroyo Torres, Coordinador Provincial Administrativo
+Financiero Guayas, remitió a la Mgs. María Isabel Eguez Santana Responsable de
+Gestión Documental Guayas, Emisión de Certificación Presupuestarias para Proceso
+de "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm Almacenado
+en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión Documental
+para los Archivos de DPG"
+
+
+
+Con Memorando Nro. IESS-GDG-2022-0684-M, de fecha 28 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitió al Econ. Janio Darío Arroyo Torres, Coordinador Provincial
+Administrativo Financiero Guayas, Solicitud de Autorización de Gasto e Inicio del
+Proceso "Segunda Fase Servicio de Conversión de Rollos y Jackets de Microfilm
+Almacenado en Medio Magnético y Transformado a Archivo Binario al Sistema Gestión
+Documental para los Archivos de DPG”
+
+
+
+Con Memorando Nro. IESS-CPAFG-2022-2306-M, de fecha 28 de septiembre de 2022,
+suscrito por el Econ. Janio Darío Arroyo Torres, Coordinador Provincial Administrativo
+Financiero Guayas, remitió al Mgs. Felix Eduardo Pilco del Salto Director Provincial del
+Guayas, Solicitud de Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio
+de Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental para los Archivos de
+DPG”
+Con Memorando Nro. IESS-GDG-2022-0686-M, de fecha 29 de septiembre de 2022,
+suscrito por la Mgs. María Isabel Eguez Santana Responsable de Gestión Documental
+Guayas, remitio a la Ing. Celia Nataly Quimí Reyes, Responsable de Compras Públicas
+Guayas, Autorización de Gasto e Inicio del Proceso "Segunda Fase Servicio de
+Conversión de Rollos y Jackets de Microfilm Almacenado en Medio Magnético y
+Transformado a Archivo Binario al Sistema Gestión Documental para los Archivos de
+Dirección provincial del Guayas”
+Mediante Correo electrónico de fecha 30 de septiembre 2022 Ing. Celia Nataly Quimí
+Reyes, Responsable de Compras Públicas Guayas, remite solicitud de actualización de
+información en el término de 2 días, para continuidad de la gestión de conformidad a
+la normativa legal vigente.
+
+
+
+
+
+2. JUSTIFICACION DE LA NECESIDAD
+La Constitución de la República del Ecuador en su artículo 18 numeral 2, dispone “Acceder
+libremente a la información generada en entidades públicas, o en las privadas que manejen
+fondos del Estado o realicen funciones públicas. No existirá reserva de información excepto en
+los casos expresamente establecidos en la ley. En caso de violación a los derechos humanos,
+ninguna entidad pública negará la información”.
+
+Página 12 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+El artículo 92 ibídem, determina “Toda persona, por sus propios derechos o como
+representante legitimado para el efecto, tendrá derecho a conocer de la existencia y a acceder
+a los documentos, datos genéticos, bancos o archivos de datos personales e informes que sobre
+sí misma, o sobre sus bienes, consten en entidades públicas o privadas, en soporte material o
+electrónico. Asimismo, tendrá derecho a conocer el uso que se haga de ellos, su finalidad, el
+origen y destino de información personal y el tiempo de vigencia del archivo o banco de datos”.
+El artículo 4 de la Ley Orgánica de Transparencia y Acceso a la Información Pública, manda:
+“Principios de Aplicación de la Ley. - En el desarrollo del derecho de acceso a la información
+pública se observarán los siguientes principios: a) La información pública pertenece a los
+ciudadanos y ciudadanas, El estado y las instituciones privada depositarias de archivos
+públicos, son sus administradores y están obligados a garantizar el acceso a la información…”.
+La Ley de Seguridad Social en su artículo 16 establece: “Naturaleza jurídica. - El Instituto
+Ecuatoriano de Seguridad Social (IESS) es una entidad pública descentralizada, creada por la
+Constitución Política de la República, dotada de autonomía normativa, técnica, administrativa,
+financiera y presupuestaria, con personería jurídica y patrimonio propio, que tiene por objeto
+indelegable la prestación del Seguro General Obligatorio en todo el territorio nacional. El IESS
+no podrá ejercer otras atribuciones ni desempeña otras actividades que las consignadas en la
+Constitución Política de la República y en esta Ley. (…)”.
+A través del Acuerdo de la Contraloría General del Estado Nro. 39 publicado en el Registro
+Oficial, Suplemento Nro. 87, de 14 de diciembre de 2009, se expiden las Normas de control
+interno para las entidades, organismos del sector público y personas jurídicas de derecho
+privado que dispongan de recursos públicos, se establece: 405-04 Documentación de respaldo
+y su archivo. La máxima autoridad dispondrá la adopción e implementación de políticas y
+procedimientos para la conservación y mantenimiento de archivos físicos, magnéticos y/o
+digitales, en atención a las disposiciones técnicas y jurídicas vigentes, así como incentivar los
+procesos de digitalización de la información.
+Para efectos del ejercicio de las actividades de control, la documentación generada mediante
+archivos digitales, electrónicos o desmaterializados, tendrán el mismo valor jurídico que los
+documentos físicos.
+Toda entidad pública dispondrá de evidencia documental de sus operaciones, suficiente,
+pertinente y legal. La documentación sustentatoria de transacciones financieras, operaciones
+administrativas o decisiones institucionales estará disponible en formato físico, o en medios
+magnéticos, electrónicos o desmaterializados y se utilizará para acciones de verificación o
+auditoría, así como para información de otros usuarios autorizados, en ejercicio de sus
+derechos…”.
+Mediante Resolución Administrativa Nro. IESS-DG-AL-2019-0009-RFDQ de junio 18 de 2019,
+artículo 1 resuelve “Expedir y aprobar los Manuales de los Procesos de “Gestión de Archivos” y
+Digitalización de Documentos”, versiones 1.0 y 1.1, respectivamente, así como la Guía de
+Actividad “Almacenar y Custodiar Documentación en Obra”, versión 1.0…”.
+Mediante la Resolución CD 535, el Consejo Directivo del Instituto Ecuatoriano de Seguridad
+Social, emitió el Reglamento Orgánico Funcional de la entidad cuyo numeral 6.3.4 “Gestión
+Provincial Administrativa Financiera dentro de las Atribuciones y Responsabilidades de la
+
+Página 13 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Coordinación Provincial Administrativa Financiera, literal hh) “administrar los procesos de
+almacenamiento y provisión de bienes y servicios”.
+Las aplicaciones de la tecnología del microfilm en archivos de gestión, en el Instituto
+Ecuatoriano de Seguridad Social han sido nulos, por lo que en el periodo 2021 se realizó la
+primera fase de conversión de rollos y jakets microfilmados en que la actualidad se ha
+atendido varias solicitudes rezagada por la eficiencia de acceso a la información, siendo
+práctico por su velocidad de consulta, la reproducción de los documentos en medios digitales,
+por lo que se justifica la necesidad expuesta por lo que al adquirir esta herramienta
+obtendremos:
+2.1 Riesgo laboral: Actualmente estamos experimentando el golpe en la salud de los
+ecuatorianos a causa del virus COVID-19, por lo que se debe evitar la manipulación directa con
+este tipo de archivo, ya que el material del mismo se encuentra debilitado por el pasar del
+tiempo por ende se deterioran producto de la erosión del material y por ende, es propenso a
+la proliferación de hongos y ácaros.
+Este tipo de archivo no se puede realizar una limpieza profunda como es el agua y jabón o
+fumigación de los mismos ya que al implementar esta metodología perdería su información,
+los rollos microfilmados jaquets están conformados por químicos que mediante su
+manipulación y condiciones de almacenamiento que en nuestro clima cálido húmedo se
+deterioran y esto no permite un buen estado de los microfilm. Los rollos de microfilmación
+dañados emiten sustancias nocivas para la salud por su material de producción, si no son
+almacenados en lugares adaptados para que este sea protegido, se dañan y por ende se pierde
+la información.
+2.2 Reducción de Costos Operativos: el uso del microfilm no es práctico ni económico
+2.2.1 Análisis:
+Los costos son altos para la conservación del microfilm o del Jaket para obtener un
+información del microfilm se debe ilustrar mediante búsqueda manual la imagen digital para
+que posteriormente sea impresa, es importante indicar que el equipo para el relevado e
+impresión a la película actualmente es un concepto antiguo y lento.
+El microfilm tiene que ser almacenado en condiciones muy exigentes de temperatura y
+humedad, el almacenamiento digital tiene sus propios requisitos, pero no es tan exigente
+como la película, las imágenes digitales deben ser respaldadas de vez en cuando por lo que
+incrementa considerablemente los costos y esta necesidad no es considerada en los
+presupuestos institucionales
+2.3 Mantener la Información en el tiempo: El mantenimiento de los archivos de microfilm
+deben contar con 17°C de temperatura con una tolerancia de 5°C y de humedad relativa de
+35% con variación máxima de 5% además considerar que las paredes, puertas y piso deberán
+tener un sistema de protección al fuego, es decir, pintura no inflamable, deberá contar con un
+sistema de limpieza constante para que esté libre de polvo, los Gabinetes metálicos donde se
+almacenan este tipo de archivo no deben estar oxidado, evitar hongos y microorganismos que
+causan el daño en la información.
+
+Página 14 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+Existe una primera fase del “SERVICIO DECONVERSIÓN DE ROLLOS Y JACKETS DE MICROFILM
+ALMACENADO ENMEDIO MAGNÉTICO Y TRANSFORMADO A ARCHIVO BINARIO AL
+SISTEMAGESTIÓN DOCUMENTAL DE LA COORDINACIÓN DE AFILIACIÓN YCONTROL TÉCNICO
+GUAYAS" con número de proceso SIE-IESS-DPG-010-20, el cual fue entregada a satisfacción
+total por el administrador del contrato el 27 de agosto 2021 al Instituto Ecuatoriano de
+Seguridad Social Dirección Provincial del Guayas, con este producto se obtuvo una
+herramienta de trabajo importante para nuestra institución, que alcanza una demanda diaria
+de atención 423 solitudes que refiere a las aportaciones antiguas de los afiliados para así
+migrar a la historia laboral, hoy en día se tiene:
+Tipo información:
+
+Planillas de Aportes Patronales Privados desde 1945 hasta el año 2000 (Jakets hasta el año
+1992 y rollos desde el año 1945)
+Solicitantes:
+
+
+
+
+
+Solicita el Usuario por Ventanilla de Gestión Documental
+Solicita unidades de Negocio (ocho Coordinaciones Provinciales)
+Direcciones Provinciales y Nivel Central
+
+Productos que se utilizan este tipo de Información:
+
+
+
+
+
+
+Reliquidación
+Jubilación
+Certificación de Documentos
+Depuración de Aportes
+
+Uso de la Herramienta Gestor Documental
+
+
+
+
+
+72 usuarios activos que usan la herramienta (modulo gestor documental de imágenes
+digitales).
+Apertura de enlaces a la Dirección Provincial de Santa Elena, los Ríos, El Oro y Galápagos
+Soporte de información para el área de Gestión de Afiliación de la Coordinación Provincial
+de Afiliación y Control Técnico Guayas
+
+Tiempo de espera
+Antes de Conversión de Microfilm a Digital 41 días laborables
+Después de servicio se obtiene el documento en minutos
+
+Página 15 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+Búsqueda de la Información Antes del servicio adquirido
+
+Conocimiento General del Proceso
+
+Herramienta Modulo Gestor Documental
+
+Beneficio del Producto recibido
+•
+•
+•
+•
+
+Mejorar la disponibilidad de documentos para la atención al usuario
+Evitar el deterioro de los Rollos por la manipulación o humedad en el ambiente
+Eliminar el Riesgo de Trabajo producto de la erosión del rollo por descomposición químicos
+dañinos a la salud
+Optimizar tiempos de respuestas al Usuario
+
+Página 16 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+•
+•
+
+Mantener Información histórica y contar con una herramienta de gestión documental para la
+administración del archivo digital.
+Almacenamiento de las imágenes en formatos estándares e integración al módulo Gestor
+Documental IESS
+
+Rollos y Jakets Pendientes
+
+Con el Memorando IESS-CPACTG-2022-0565-M del 27 de enero del 2022, suscrito por el Sr.
+Holger Chancay Villafuerte Asistente administrativo, se realiza INFORME TECNICO DE ARCHIVO
+sobre los rollos y Jackets pendientes, por lo que transcribo el punto medular que da inicio a
+esta justificación de necesidad:
+“4.1 Resumen de la necesidad
+El requerimiento de la Coordinación de Afiliación Control Técnico Guayas se resume en:
+ROLLOS: Requiere se considere para su intervención inmediata de 668 rollos
+enfatizando la importancia de preservar esta información la cual corresponde a los aportes de
+los afiliados, y que se implemente a el servidor que almacenas las imágenes ya convertidas a
+digital , evitando así el riesgo de daño y pérdida de información valiosa para el afiliado
+JACKETS: quedarían pendiente según lo estimado 4 bandejas metálicas y 1 estante de Jackets
+tiene un total de 58459”
+
+Con Memorando IESS-CPACTG-2022-0688-M de fecha 2 de febrero del 2022, suscrito por Mgs.
+Lida Soraya Triviño Segovia, Coordinadora Provincial de Afiliación y Control Técnico Guayas de
+la época, solicita al Director Provincial del Guayas dar atención a la necesidad del Servicio de
+conversión de rollos Jacker de Microfilm a Digital y Migración de imágenes al sistema, ya es
+importante preservar la información que reposa en la Coordinación, necesidad que fue
+derivado al Responsable de Gestión Documental con la siguiente sumilla “Gestión
+Documental: Sírvase atender de conformidad al Manual de Archivos y Digitalización emitido
+por Nivel Central”
+3. OBJETIVOS
+3.1. OBJETIVO GENERAL
+
+
+Contratar un personal natural o jurídico para la conversión de rollos y jackets de
+microfilm almacenado en medio magnético y transformado a archivo binario al
+sistema gestión documental de la Coordinación De Afiliación Y Control Técnico Guayas.
+3.2. OBJETIVOS ESPECÍFICOS
+
+
+
+
+
+
+Mejorar la disponibilidad de documentos para la atención al usuario.
+Evitar el deterioro de los Rollos por la manipulación o humedad en el ambiente.
+Optimizar tiempos de respuestas al Usuario al momento de requerir documentos con
+información requerida por los mismos.
+Eliminación del riesgo laboral en deterioro de los rollos que expone químicos dañinos a
+la salud.
+Página 17 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+
+
+
+
+Mantener Información histórica y contar con una herramienta de gestión documental
+para la administración del archivo digital.
+Almacenamiento de las imágenes en formatos estándares e integración de los índices
+asociados a cada una de las bases de datos/servidores autorizados por el IESS.
+Coordinar con la Dirección Nacional de Tecnologías de la Información la Estructura las
+gestiones pertinentes para la entrega recepción de la solución conforme los
+lineamientos pertinentes.
+Dar cumplimiento a las siguientes directrices:
+ “Manual del Proceso Gestión de Archivo”, emitido por la Dirección Nacional de
+Servicios Corporativos – Subdirección Nacional de Gestión Documental – Marzo
+2019.
+ Recomendaciones de los Organismos de Control.
+ “Lineamiento técnico para Recepción de soluciones tecnológicas no adquiridas y
+no desarrolladas por la Dirección Nacional de Tecnología de la Información en el
+Instituto Ecuatoriano de Seguridad Social” de Febrero 2019.
+ “Manual del proceso Digitalización de Documentos” emitido por la Dirección
+Nacional de Servicios Corporativos Subdirección Nacional de Gestión Documental
+de Marzo 2019.
+4.- ALCANCE
+
+El alcance está en exportar o convertir 668 rollos y 58.459 jakets que contiene imágenes
+microfilmadas a digital, éste tipo de archivo se encuentra en el piso 1 archivos de la Dirección
+Provincial del Guayas IESS.
+La contratación se realización en la Provincia del Guayas, cantón Guayaquil.
+5.
+NATURALEZA DEL OBJETO DE LA CONTRATACIÓN Y SUGERENCIA DE
+PROCEDIMIENTO
+El servicio es NORMALIZADO porque es un proceso que tiene lineamientos y directrices desde
+nivel central en la que se describe metodología y gestión a realizar a través de normativa legal
+vigente, por lo que se recomienda realizar la contratación bajo la modalidad de Subasta Inversa
+Electrónica, requerimiento que se encuentra en el PAC 2022, con la finalidad de recibir varias
+ofertas y poder realizar comparaciones.
+6. CÓDIGO CPC
+Se establece que el código CPC que corresponde 859600021
+
+Página 18 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+7.- METODOLOGÍA DE TRABAJO
+ Conversión de rollos y jaquets de imágenes microfilmadas a una imagen pdf
+almacenada en el servidor de la institución,
+ Levantar un Inventario de ésta categoría de archivo en el formato establecido por la
+institución
+ Organización de los rollos o archivo microfilmado puesto en cajas con etiquetas con la
+información de contenido evidenciado
+ Realizar Actas Estructurales en la que se registrará series y subseries. como
+compromiso entre Custodio de los Archivos y empresa contratada
+ Cumplirá con cada uno de los objetivos Específicos referidos.
+ Se define que un documento es igual a una imagen.
+ La Resolución de captura debe ser mínima de 300 DPI o (PPP).
+ Debe contener Software utilizado para escaneo
+ Software visor de los documentos escaneados.
+ Trazabilidad de la herramienta con bitácoras o log de eventos.
+ Permisibilidad del software para integración con otros sistemas.
+ Software que permita indexación a través de la metadata proporcionada por la
+Entidad contratante
+ Software con control de administración de usuarios a través del cual se otorguen
+permisos, accesos y restricciones a la base de datos.
+ Base de datos que permita su crecimiento exponencial de manera distribuida.
+ Acceso al aplicativo a través de “web service” para su uso óptimo en su acceso.
+ Los archivos Convertidos/Indexados deben permitir la inclusión de la Firma
+electrónica.
+ La documentación Convertidos/Indexados deberá tener un control de calidad
+estableciendo mecanismos de supervisión y muestreo periódico para que al
+momento de efectuar el proceso de Convertir/Indexación los mismos sean
+efectuados acorde a las necesidades de clasificación y ordenamiento de los
+documentos de cada coordinación y/o área, esto deberá ser previamente definido
+por cada área requirente antes que se ejecute el proceso de indexación.
+ Mejorar la disponibilidad de documentos a través del módulo gestor de imágenes.
+ Deberá obtener las siguientes operaciones :
+Página 19 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+*Login
+*Consultar
+*Descargar
+*Busqueda avanzada
+*Lon on
+*Hojas de datos
+*Visor de imágenes
+*Email
+*Exportar
+*Firma electrónica
+El aplicativo tiene las siguientes características relevantes evidenciables:
+Proporciona un esquema de almacenamiento gestor de base de datos en modalidad
+distribuida para evitar un colapso tanto en el almacenamiento como expansión de la solución
+informática proporcionada sin que esto afecte al usuario final visor de los documentos
+digitalizados.
+Posee dos tipos de accesos:
+ Aplicativo: su rol es ejecutar el proceso de escaneo y almacenamiento de la
+información en el repositorio documental.
+ Visor Web: su rol es visualizar mediante un servicio web a través de los navegadores
+de internet.
+La indexación de la metadata conforme las necesidades de la coordinación
+
+
+
+
+
+
+
+
+
+
+
+
+
+El Oferente deberá incluir en su propuesta la metodología que aplicará para el proceso
+de conversión de rollos y jackets de microfilm almacenado en medio magnético y
+transformado a archivo binario al sistema gestión documental de la coordinación de
+afiliación y control técnico la generación de datos relacionados para cada una de las
+tareas que incluye el servicio.
+El Oferente debe detallar todos los procedimientos a utilizar para realizar la operación y
+supervisión del Servicio de conversión de rollos y jackets de microfilm almacenado en
+medio magnético y transformado a archivo binario al sistema gestión documental de la
+coordinación de afiliación y control técnico
+Debe incluir los procedimientos para revisión de las imágenes y procesos de sustitución
+de imágenes mal procesadas.
+Así mismo, deberá especificar claramente cuáles son sus requerimientos tecnológicos de
+acuerdo a su motor gestor de base de datos nativo y su modo de operar desde el punto
+de vista técnico, almacenamiento acorde al dimensionamiento del archivo general y
+memoria necesaria en el equipamiento requerido
+Procedimientos y diagramas de flujo de operación y control del proceso
+Documentación funcional de los aplicativos que usarán.
+Tiempos de respuesta y capacidad de producción esperada.
+El Control y aseguramiento de la Calidad debe efectuarse a lo largo de todo el proceso a
+fin de garantizar la calidad del servicio, debe ser evidenciado a través de registros,
+controles y procedimientos, que deben estar detallados en la propuesta del Oferente.
+Para asegurar los niveles de calidad de las imágenes procesadas que se incorporen a la
+Base de Datos, se ubicarán las imágenes procesadas, de manera conjunta y realizando
+Página 20 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+pruebas, se determinara que nivel de calidad será calificada como Ilegible, Media Legible
+y Legible, tanto para los documentos originales, como para las respectivas imágenes
+convertidas a pdf, función que facilitará el proceso de revisión y aceptación de las
+imágenes que el Oferente entregue como ya procesadas.
+El Control y aseguramiento de la calidad debe incluir como mínimo los siguientes
+reportes entregables de acuerdo a la periodicidad señaladas:
+.1.
+Reporte estadístico de lotes de documentos recibidos, por tipo de documento
+y lugar de origen.
+.2.
+Reporte de documentos procesados por tipo de documento.
+El Oferente deberá presentar como parte de la propuesta el Plan de Soporte Técnico
+para la atención de incidentes. Deberá contener como mínimo- Objetivos, Alcances,
+metodología y personal técnico especializado, el cual debe describir los niveles de
+servicio propuestos en favor de la Dirección Provincial Guayas IESS que deben tener
+como premisa referencial general.
+Una vez notificado un error/incidente, no deberá ser mayor a 2 horas para su atención y
+no mayor a 24 horas para su solución, con el objetivo de garantizar un mantenimiento
+trimestral (cuatro veces al año) del equipamiento que conforma la línea de digitalización
+diaria.
+Luego de la entrega definitiva y durante la vigencia de la garantía técnica del servicio y de
+la herramienta de gestión documental propuesta el Oferente debe incluir una cantidad
+de recursos técnicos relacionados con asistencia técnica informática para realizar el
+acompañamiento en sitio por un lapso no menor a 30 días hábiles sin costo adicional
+para la entidad contratante.
+El personal que realizará este proceso deberá estar debidamente uniformado con sus
+respectivas credenciales.
+No se permite destrucción de archivo en ningún caso.
+Parámetros de brillo, contraste, intensidad y exposición, deberán estar conforme a
+criterios adecuados y aprobados por la Dirección Provincial del IESS Guayas.
+Los archivos, para el caso de las imágenes de documentos, deben generarse en formato
+TIFF deberá especificarle el grado de compresión- del gestor documental a usarse en ti
+proyecto.
+Manejo de trazabilidad/bitácora transaccional donde se registren todas las operaciones
+realizadas por el usuario(s).
+La herramienta de gestor documental del oferente debe tener la capacidad de integrarse
+a cualquier otro aplicativo institucional existente sin que ocasione inconvenientes de
+índole técnico informático de integración.
+En el caso que el proveedor necesite contar con servicio de internet la entidad
+contratante dotará de una dirección IP para proveer del servicio para un solo
+computador y que no forme parte de la red independiente del proveedor, el computador
+en mención no debe tener virus ni software malicioso que ponga en riesgo la red interna
+de datos de la entidad contratante.
+La entidad contratista instalará una red totalmente independiente a la red de datos
+institucional para los trabajos de digitalización con sus propios equipos de computación
+impresión escaneo y dispositivos de red de datos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. INFORMACIÓN QUE DISPONE LA ENTIDAD
+
+
+
+Estructura de Serie y Subserie formato establecido
+Manuales vigentes
+Página 21 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+9. ESPECIFICACIONES TECNICAS O TERMINOS DE REFERENCIA
+El proveedor entregará a la Coordinación Provincial de Afiliación y Control Técnico de la
+Dirección Provincial Guayas lo siguiente:
+
+
+
+
+Conversión de 668 rollos y 58.459 jackets microfilmadas a imágenes
+Inventario de los archivos en formato establecido por la institución
+Organización de los rollos o archivo microfilmado puesto en cajas con etiquetas con la
+información de contenido
+Realizar Actas Estructurales y de conformidad como compromiso entre Custodio de los
+Archivos y empresa contratada, para determinar
+Cumplirá con cada uno de los objetivos Específicos referidos.
+Se define que un documento es igual a una imagen.
+La Resolución de captura debe ser mínima de 300 DPI o (PPP).
+Trazabilidad de la herramienta con bitácoras o log de eventos.
+Permisibilidad del software para integración con otros sistemas.
+Software que permita indexación a través de la metadata proporcionada por la
+Entidad contratante
+Software con control de administración de usuarios a través del cual se otorguen
+permisos, accesos y restricciones a la base de datos.
+Base de datos que permita su crecimiento exponencial de manera distribuida.
+Acceso al aplicativo a través de “web service” para su uso óptimo en su acceso.
+Los archivos Convertidos/Indexados deben permitir la inclusión de la Firma
+electrónica.
+La documentación Convertidos/Indexados deberá tener un control de calidad
+estableciendo mecanismos de supervisión y muestreo periódico para que al momento
+de efectuar el proceso de Convertir/Indexación los mismos sean efectuados acorde a
+las necesidades de clasificación y ordenamiento de los documentos de cada
+coordinación y/o área, una foja o un expediente puede ser equivalente a una
+digitalización, esto deberá ser previamente definido por cada área requirente antes de
+que se clasifique, ordene e indexe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.1 PROCESO DE INDEXACIÓN
+
+
+
+
+
+
+
+Se entiende como el almacenamiento de criterios de búsqueda de la documentación
+convertida en imagen, lo cual facilitará las búsquedas sobre la base de datos al
+momento de requerir información.
+Mínimo 5 campos de indexación
+Producto a conformidad del Custodio del Archivo
+Informe y Estructuras sobre grupos de indexación
+Seguridad en su sistema previo a la migración de las imágenes a cualquier sistema
+Documental.
+Para el proceso de indexación de los metadatos dentro del proceso como uno de sus
+pasos:
+1.
+Conversión de imagen microfilmada mediante el equipo.
+2.
+Indexado de la información o metadatos extraídos del documento.
+
+Página 22 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+3.
+
+
+
+
+Archivado del documento y la información asociada que se ha extraído para
+posteriores búsquedas.
+Los metadatos extraídos dependerán de las necesidades o procesos posteriores que se
+quieran llevar a cabo. Siendo habitual extraer algunos como el número expediente,
+cédula, etc., acorde a las necesidades de cada dependencia, coordinación y/o área, la
+cual debe registrar la conformidad por parte de le entidad en este caso del custodio de
+este tipo de archivo.
+Son estos datos los que permitirán posteriormente clasificar y buscar los documentos
+de una forma más rápida y precisa.
+
+9.2. DEL EQUIPO CONVERTIDOR DE ROLLOS Y JAKETS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El deberán ser multifuncional, es decir, que puedan convertir en imagen los rollos y
+jakets con la misma unidad.
+Los escáneres deberán de poder escanear rollos de 16mm de 95 pies en un tiempo de
+5 minutos a 200 DPI con radios de reducción de 24x
+Los escáneres deberán de poder escanear fichas jacket en 20 segundos por jacket, a
+200 DPI con radios de reducción de 24x
+Los sistemas de escaneo deberán de poder entregar imágenes en blanco y negro
+escala de grises al mismo tiempo sin mermar la productividad y velocidad del escáner.
+Los equipos de escaneo deberán de ser capaces de generar un archivo digital crudo,
+sin manipulación o compresión, que incluya todo el contenido de los rollos o las fichas
+de principio a fin, desde el cual se deberán de procesar las imágenes.
+Los equipos de escaneo deberán de contar con sistemas de iluminación
+estroboscópico que sincronicen la frecuencia de iluminación con la velocidad lineal del
+film pasando enfrente de la cámara en el paso de captura.
+Los equipos de escaneo deberán de contar con sistemas de almacenamiento temporal
+para guardar y procesar los archivos crudos generados como paso número uno de la
+digitalización
+Los sistemas deberán de ser compatibles con WIN 10 64- bit.
+O superior
+
+SERVIDOR
+La contratista debe proporcionar lo(s) servidores de almacenamiento necesarios de la
+solución hasta que la entidad contratante adquiera su propio sitio de alojamiento de
+información que se encontrará indexada y almacenada en el software de gestor
+documental, sin costo alguno para la entidad contratante y así obtenga suficiente
+capacidad para el almacenaje, procesamiento, acceso y/o publicación de la
+información histórica y futura que se genere, esto es en espacio en disco duro y
+memoria en dichos equipos que tengan el rol de servidores principales, funcionarán en
+producción y de contingencia o “backup” los mismos que deberán funcionar sin
+inconveniente en el caso fortuito que los servidores principales sufran algún daño no
+previsto.
+Servicio de asistencia o mantenimiento del proyecto en mención para garantizar que
+los servidores en producción como de contingencia funcionen sin inconvenientes y que
+la información de manera integral se encuentre replicada entre los servidores
+principales y en los de contingencia.
+Página 23 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+
+
+CAPACITACIÓN
+Capacitación funcional y técnicamente al personal de la Dirección Provincial Guayas,
+para que puedan conferir imágenes digitalizada, mismo quien será designado por
+escrito por la autoridad competente, así como también personal involucrado en el
+manejo de los documentos y archivos.
+SOPORTE ASISTENCIA TÉCNICA Y/O FUNCIONAL
+El Oferente deberá proporcionar a la entidad contratante soporte técnico y funcional
+de la solución durante y posterior a la entrega recepción de la misma en un tiempo no
+menor a 15 días calendario sin costo alguno para la entidad contratante.
+
+10. Informes de validación
+No aplica para la presente necesidad, se deberá cumplir con el Manual de Proceso de
+Archivo de manera integral.
+11. Plazo de ejecución:
+El plazo de ejecución del presente objeto de contratación, es de 180 días contados, a
+partir de la entrega del anticipo. En el cómputo del plazo de prórrogas y multas se
+cuentan todos los días.
+Se podrá realizar prórrogas, la misma que deberá ser solicitada por escrito, siempre y
+cuando justifique los fundamentos de la solicitud, a la fecha de producido el hecho que
+motive la solicitud que puede ser:
+-Por fuerza mayor o caso fortuito aceptado como tal por la máxima autoridad de la
+entidad contratante o su delegado, previo informe del administrador del contrato,
+debidamente motivado.
+Tan pronto desaparezca la causa de fuerza mayor o caso fortuito, el consultor está
+obligado a continuar con la prestación del servicio, sin necesidad de que medie
+notificación por parte del administrador del contrato.
+-Cuando se suspendan los trabajos o se cambien las actividades previstas en el
+cronograma por orden de la entidad contratante y que no se deban a causas imputables
+a la consultora.
+-Si la contratante no hubiera solucionado los problemas administrativos-contractuales
+en forma oportuna, cuando tales circunstancias incidan en la prestación del servicio.
+En casos de prórroga de plazo, las partes elaborarán un nuevo cronograma, que suscrito
+por ellas, sustituirá al original o precedente y tendrá el mismo valor contractual del
+sustituido. Y en tal caso se requerirá la autorización de la máxima autoridad de la
+contratante, previo informe del administrador del contrato.
+12. Evaluación de la oferta
+
+Página 24 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+La evaluación de las ofertas se encaminará a proporcionar una información imparcial
+sobre si una oferta debe ser rechazada y cuál de ellas cumple con el concepto de mejor
+costo en los términos establecidos en el numeral 18 del artículo 6 de la Ley Orgánica del
+Sistema Nacional de Contratación Pública.
+Se establecen de manera general para ello dos etapas: la primera, bajo metodología
+“Cumple / No Cumple”, en la que se analizan los documentos exigidos cuya presentación
+permite habilitar las propuestas (integridad de la oferta), y la verificación del
+cumplimiento de capacidades mínimas; y la segunda, en la que se evaluarán, mediante
+parámetros cuantitativos o valorados, las mayores capacidades de entre los oferentes
+que habiendo cumplido la etapa anterior, se encuentren aptos para esta calificación.
+Únicamente en los procedimientos de Subasta Inversa Electrónica y Menor Cuantía no
+se cumplirá la etapa de evaluación valorada.
+Se estará a la metodología “Cumple / No Cumple” cuando el objetivo sea la
+determinación de cumplimiento de una condición o capacidad mínima por parte del
+oferente y que sea exigida por la entidad contratante (Requisitos mínimos).
+Los índices financieros previstos en el pliego, en caso de ser considerados, no
+constituirán un requisito mínimo de obligatorio cumplimiento y en consecuencia
+tendrán un carácter informativo.
+Las Unidades Requirentes deben acoger los parámetros de evaluación previstos por el
+SERCOP, de acuerdo a la naturaleza de la adquisición o contratación, sin que estos sean
+discriminatorios o limiten la participación y la concurrencia de los proveedores,
+garantizando la transparencia, legalidad y el trato justo, principios establecidos en el
+artículo 4 de la LOSNCP.
+El incumplimiento de cualquiera de los requisitos mínimos determinados por la entidad
+contratante bajo la metodología “Cumple / No Cumple” será causal de rechazo de la
+oferta y descalificación del oferente según lo indica el Art. 168 de la Resolución 072 del
+SERCOP.
+Metodología Cumple/No Cumple
+12.1 Integralidad de la oferta:
+Se revisará que las ofertas incluyan en el formulario único los documentos requeridos en las
+condiciones particulares del pliego según la naturaleza del procedimiento de contratación
+todos los formularios definidos en el presente pliego, conforme el siguiente detalle:
+
+
+Formulario Único de la Oferta
+
+
+
+Formulario de compromiso de asociación o consorcio
+
+El Formulario Único de la Oferta contendrá los documentos, claramente descritos en las
+condiciones particulares de los pliegos para la contratación de bienes y/o servicios
+
+Página 25 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Aquellas ofertas que contengan los Formularios de la Oferta debidamente elaborados y
+suscritos, pasarán a la etapa de evaluación “cumple / no cumple”; caso contrario serán
+rechazadas.
+El oferente deberá presentar lleno y actualizado el formulario 1.1 Presentación y
+Compromiso, y Formulario 1.3 Nómina de Socio/s, accionista/s o partícipe/s mayoritarios de
+personas jurídicas y disposiciones específicas para personas naturales, según última reforma
+del SERCOP Resolución 124.
+El oferente deberá presentar su oferta, utilizando la última versión del módulo facilitador de
+ofertas para proveedores del Estado y considerando las recomendaciones de aplicación
+emitidas por el SERCOP.
+La oferta debe ser obligatoriamente entregada en forma íntegra hasta el día y hora señalados
+en el Portal Institucional del Sistema Oficial de Contratación Pública firmada
+electrónicamente con el archivo en el que conste la firma electrónica para su posterior
+validación mediante el aplicativo FIRMA EC. SOLO SE RECEPTARAN LAS OFERTAS SUBIDAS AL
+SOCE.
+12.2 Personal técnico mínimo:
+El personal técnico mínimo requerido para esta contratación es:
+No.
+
+Función
+
+Cantid
+ad
+
+Nivel de
+estudio
+
+1
+
+Gerente
+de
+Proyecto
+
+1
+
+Cuarto nivel
+
+2
+
+Supervisor
+
+1
+
+Tercer Nivel o
+Estudiante
+universitario
+
+3
+
+Indexador
+es
+
+15
+
+Bachiller
+
+Titulación
+académica
+Master en
+administración
+de empresas
+Titulo Tercer
+Nivel en
+Ingeniería
+comercial,
+administración,
+economía o
+similar
+Bachiller en
+Informática
+
+Fuente o medio de verificación
+Certificado de registro en la
+SENESCYT o copia del título
+universitario.
+
+Certificado de registro en la
+SENESCYT o copia del título
+universitario.
+
+Titulo o certificado de registro
+del Ministerio de educación
+
+Nota. La información se validará en las páginas de la SENESCYT y del MIINISTERIO DE
+EDUCACIÓN.
+12.3. Experiencia mínima del personal técnico:
+No.
+
+Función
+
+Descripción
+
+Tiempo
+mínimo
+
+Fuente o medio de verificación
+
+1
+
+Gerente de
+Proyecto
+
+Experiencia
+en procesos
+de
+
+5 años
+
+Certificados emitidos por la entidad
+contratante o la persona jurídica o
+personal natural con la que se mantuvo
+Página 26 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+No.
+
+Función
+
+Descripción
+
+Tiempo
+mínimo
+
+indexación/
+convertidos
+
+Fuente o medio de verificación
+o mantiene relación de dependencia
+donde haya participado como gerente
+de proyecto, documento que deberá
+considerar lo siguiente:
+ Hoja membretada
+ Firma del representante o jefe
+inmediato
+ Rango de fechas laboradas
+ Fecha de emisión
+ Detalle de los trabajos
+realizados
+ Monto
+Hoja de vida actualizada, copia de
+cédula de ciudadanía y certificado de
+votación actual.
+
+2
+
+3
+
+Supervisor
+
+Indexadores
+
+Experiencia
+en procesos
+de
+indexación,
+digitalización
+y archivos /
+convertidos
+
+Experiencia
+en procesos
+de
+indexación/
+convertidos
+
+2 años
+
+2 años
+
+Certificados emitidos por la entidad
+contratante o la persona jurídica o
+personal natural con la que se mantuvo
+o mantiene relación de dependencia
+donde haya participado como
+supervisor, documento que deberá
+considerar lo siguiente:
+ Hoja membretada
+ Firma del representante o jefe
+inmediato
+ Rango de fechas laboradas
+ Fecha de emisión
+ Detalle de los trabajos
+realizados
+ Monto
+Hoja de vida actualizada, copia de
+cédula de ciudadanía y certificado de
+votación actual.
+Certificados emitidos por la entidad
+contratante o la persona jurídica o
+personal natural con la que se mantuvo
+o mantiene relación de dependencia
+donde haya participado como
+indexadores, documento que deberá
+considerar lo siguiente:
+ Hoja membretada
+ Firma del representante o jefe
+inmediato
+ Rango de fechas laboradas
+Página 27 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+No.
+
+Función
+
+Descripción
+
+Tiempo
+mínimo
+
+Fuente o medio de verificación
+
+
+
+
+Fecha de emisión
+Detalle de los trabajos
+realizados
+Monto
+
+Hoja de vida actualizada, copia de
+cédula de ciudadanía y certificado de
+votación actual.
+Requisitos adicionales que debe presentar el personal.
+El Oferente deberá presentar en la oferta, un certificado de honorabilidad por
+cada persona asignada al cumplimiento del objeto de la contratación.
+El Oferente emitirá un certificado en el que conste el nombre del personal
+asignado para el cumplimiento del objeto de la contratación, que manifieste que
+el personal detallado en el mencionado documento es calificado e idóneo para el
+cumplimiento del objeto contractual y que se compromete a prestar sus servicios
+en caso de ser adjudicado.
+Los certificados de trabajos emitidos por el oferente que acredite la experiencia
+del personal será válidos solo mientras este personal se mantenga laborando en
+ella. Para el efecto deberá presentar MECANIZADO DEL IESS.
+El proveedor en caso de ser adjudicado deberá sujetarse a todas las disposiciones legales
+vigentes, establecidas por el Ministerio de Trabajo.
+
+12.4. Equipo mínimo
+Nro.
+
+1
+
+Equipos y/
+instrumentos
+
+EQUIPO
+CONVERTIDOR DE
+668 ROLLOS Y
+58.459 FICHAS A
+DIGITAL
+
+Características
+
+Cantidad
+
+Fuente o medio de
+verificación
+
+2
+
+Factura, Contrato de
+arrendamiento
+o
+compromiso
+de
+compra
+venta
+o
+compromiso
+de
+alquiler
+
+Los equipos deberán ser
+multifuncionales,
+es
+decir,
+que
+puedan
+realizar una limpieza
+integral de los rollos y
+jakets de microfilm.
+El equipo convertidor de
+las
+imágenes
+microfilmadas deberá
+poder intervenir rollos
+de 16mm de 95 pies en
+un tiempo de 5 minutos
+a 200 DPI con radios de
+reducción de 24x
+
+Página 28 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+Nro.
+
+Equipos y/
+instrumentos
+
+Características
+
+Cantidad
+
+Fuente o medio de
+verificación
+
+2
+
+Factura, Contrato de
+arrendamiento
+o
+compromiso de compra
+venta o compromiso de
+alquiler
+
+15
+
+Factura, Contrato de
+arrendamiento
+o
+compromiso de compra
+
+Los equipos deberán de
+poder convertir fichas
+jacket en 20 segundos
+por jacket, a 200 DPI con
+radios de reducción de
+24x
+Los
+procesos
+de
+conversión deberán de
+poder
+entregar
+imágenes en blanco y
+negro escala de grises al
+mismo
+tiempo
+sin
+mermar la productividad
+y velocidad del equipo.
+Los
+equipos
+de
+conversión deberán de
+contar con sistemas de
+almacenamiento
+temporal para guardar y
+procesar los archivos
+crudos generados como
+paso número uno de la
+digitalización
+
+Escáner convertidor de
+rollos y tarjetas de
+aperturas (deberá incluir
+módulo de rollo y
+fichas
+
+2
+
+3
+
+ESCANER
+CONVERTIDOR DE
+ROLLOS Y TARJETAS
+DE APERTURA
+
+COMPUTADORAS
+
+Los equipos de escaneo
+deberán de ser capaces
+de generar un archivo
+digital
+crudo,
+sin
+manipulación
+o
+compresión, que incluya
+todo el contenido de los
+rollos o las fichas de
+principio a fin, desde el
+cual se deberán de
+procesar las imágenes.
+Con Procesador I5 con
+memoria de 2GB y disco
+duro de 500GB
+
+Página 29 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Equipos y/
+instrumentos
+
+Nro.
+
+4
+
+IMPRESORA
+
+Características
+
+Cantidad
+
+Impresora multifunción
+para impresión de
+reportes
+
+1
+
+Fuente o medio de
+verificación
+venta o compromiso de
+alquiler
+Factura, Contrato de
+arrendamiento
+o
+compromiso de compra
+venta o compromiso de
+alquiler
+
+NOTA:
+ Los equipos deberán de contar con sistemas de iluminación estroboscópico que
+sincronicen la frecuencia de iluminación con la velocidad lineal del film pasando
+enfrente de la cámara en el paso de captura.
+ Los sistemas deberán de ser compatibles con WIN 10 64- bit O superior
+Fuente de verificación:
+Se deberá justificar la disponibilidad de los equipos con la presentación del título de
+propiedad (factura o documento equivalente), compromiso de alquiler, contrato de
+arrendamiento y/o compromiso de compra- venta. No se evaluará la propiedad sino
+disponibilidad.
+En el caso del contrato de arrendamiento ò compromiso de alquiler, deberá adjuntar la
+copia de la cédula del propietario, así como documentos que avalen la propiedad de
+estos, en caso de persona jurídica deberá presentar la cedula del Representante Legal,
+Nombramiento y RUC de la compañía que se compromete a realizar el arriendo. Los
+compromisos deberán estar suscritos por ambas personas.
+
+Servidor
+
+
+
+
+La Institución alberga un servidor por lo que la contratista deberá almacenar la
+información en el servidor en mención hasta que la entidad contratante adquiera su
+propio sitio de alojamiento de información que se encontrará indexada y almacenada
+en el software de gestor documental, sin costo alguno para la entidad contratante
+Servicio de asistencia o mantenimiento del proyecto en mención para garantizar que
+los servidores en producción como de contingencia funcionen sin inconvenientes y que
+la información de manera integral se encuentre replicada entre los servidores
+principales y en los de contingencia.
+
+Capacitación
+12. Capacitar funcional y técnicamente al personal de la Dirección Provincial Guayas, quien
+será designado por escrito por la autoridad competente, así como también personal
+involucrado en el manejo de los documentos y archivos.
+
+Página 30 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+
+
+El cronograma para la entrega de todos estos productos se lo realizará dentro de los
+cinco (5) primeros dial laborables luego de la suscripción del contrato y acordado con
+el Administrador del contrato.
+La entrega de los documentos indexados / convertidos se realizará en entregas
+parciales o totales mediante informe mensual del proveedor adjudicado coordinado
+con el administrador del Contrato.
+
+Soporte Asistencia Técnica Y/O Funcional
+El Oferente deberá proporcionar a la entidad contratante soporte técnico y funcional de la
+solución durante y posterior a la entrega recepción de la misma en un tiempo no menor a 15
+días calendario sin costo alguno para la entidad contratante.
+Experiencia general y específica mínima
+Estas condiciones no están sujetas al número de contratos o instrumentos presentados por el
+oferente para acreditar la experiencia mínima general o específica requerida, sino, al
+cumplimiento de estas condiciones en relación a los montos mínimos requeridos para cada tipo
+de experiencia.
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima
+específica, el proveedor cumpliere el monto mínimo solicitado para la experiencia mínima
+general, este contrato o instrumento será considerado como válido para acreditar los dos tipos
+de experiencia. Para acreditar la experiencia general, el contratista puede presentar contratos o
+instrumentos hasta 15 años previos a la publicación del presente procedimiento de
+contratación.
+
+Experiencia general
+DESCRIPCIÓN
+
+FUENTE O
+MEDIO DE
+VERIFICACIÓN
+
+TEMPORALIDAD
+
+MONTO DE
+EXPERIENCIA
+MÍNIMA
+REQUERIDA
+EN RELACIÓN
+AL
+PRESUPUESTO
+REFERENCIAL
+
+El oferente deberá
+acreditar experiencia
+servicios de captura y
+conversión de
+imágenes, almacenado
+en medio magnético y
+transformado a archivo
+binario a un sistema
+gestión documental,
+en sector público o
+
+Para acreditar
+experiencia en
+el
+sector
+público:
+el
+oferente
+deberá
+presentar copia
+de actas de
+entrega
+recepción
+
+15 años previos (USD)$
+a la publicación 341652
+del
+procedimiento
+de contratación.
+
+MONTO
+NÚMERO DE
+MÍNIMO
+PROYECTOS
+REQUERIDO
+POR CADA
+PROYECTO
+EN
+RELACIÓN
+AL MONTO
+MÍNIMO
+REQUERIDO
+(USD)
+$ Estas
+68.330,00
+condiciones
+no
+están
+sujetas
+al
+número
+de
+contratos
+o
+instrumentos
+presentados
+por
+el
+oferente para
+
+Página 31 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+DESCRIPCIÓN
+
+privado
+
+FUENTE O
+MEDIO DE
+VERIFICACIÓN
+
+definitiva con
+su respectivo
+contrato
+OBLIGATORIOS
+
+Parra acreditar
+la experiencia
+en el sector
+privado:
+el
+oferente
+deberá
+presentar
+certificados con
+sus respectivas
+facturas
+y
+comprobantes
+de retención,
+legibles,
+debidamente
+suscrita.
+Los certificados
+deberán venir
+impresos
+en
+hojas
+membretadas
+(en caso de
+personas
+jurídicas)
+debiendo
+contener
+la
+siguiente
+información:
+Objeto
+de
+contrato,
+monto
+de
+contrato,
+plazo
+
+TEMPORALIDAD
+
+MONTO DE
+EXPERIENCIA
+MÍNIMA
+REQUERIDA
+EN RELACIÓN
+AL
+PRESUPUESTO
+REFERENCIAL
+
+MONTO
+MÍNIMO
+REQUERIDO
+POR CADA
+PROYECTO
+EN
+RELACIÓN
+AL MONTO
+MÍNIMO
+REQUERIDO
+
+NÚMERO DE
+PROYECTOS
+
+acreditar
+la
+experiencia
+mínima
+general
+o
+específica
+requerida,
+sino,
+al
+cumplimiento
+de
+estas
+condiciones
+en relación a
+los
+montos
+mínimos
+requeridos
+para cada tipo
+de
+experiencia.
+Si
+con
+la
+presentación
+de
+un
+contrato
+o
+instrumento
+que acredite
+la experiencia
+mínima
+específica, el
+proveedor
+cumpliere el
+monto
+mínimo
+solicitado para
+la experiencia
+mínima
+general, este
+contrato
+o
+instrumento
+será
+considerado
+
+Página 32 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+DESCRIPCIÓN
+
+FUENTE O
+MEDIO DE
+VERIFICACIÓN
+
+TEMPORALIDAD
+
+MONTO DE
+EXPERIENCIA
+MÍNIMA
+REQUERIDA
+EN RELACIÓN
+AL
+PRESUPUESTO
+REFERENCIAL
+
+contractual,
+nombre de la
+entidad a la
+que prestó el
+servicio
+(persona
+jurídica
+o
+natural),
+nombre,
+números
+telefónicos
+y
+cargo de la
+persona
+que
+emitió
+el
+documento
+
+MONTO
+MÍNIMO
+REQUERIDO
+POR CADA
+PROYECTO
+EN
+RELACIÓN
+AL MONTO
+MÍNIMO
+REQUERIDO
+
+NÚMERO DE
+PROYECTOS
+
+como válido
+para acreditar
+los dos tipos
+de
+experiencia.
+Para acreditar
+la experiencia
+general,
+el
+contratista
+puede
+presentar
+contratos
+o
+instrumentos
+hasta 15 años
+previos a la
+publicación
+del presente
+procedimiento
+de
+contratación.
+
+Experiencia específica
+DESCRIPCIÓN
+
+El oferente deberá
+acreditar experiencia
+servicios de captura y
+conversión de
+imágenes, almacenado
+
+FUENTE O
+MEDIO DE
+VERIFICACIÓN
+
+TEMPORALIDAD
+
+Para acreditar 5 años
+experiencia en
+el
+sector
+público:
+el
+oferente
+
+MONTO DE
+EXPERIENCIA
+MÍNIMA
+REQUERIDA
+EN RELACIÓN
+AL
+PRESUPUESTO
+REFERENCIAL
+
+(USD)
+170826,00
+
+MONTO
+NÚMERO DE
+MÍNIMO
+PROYECTOS
+REQUERIDO
+POR CADA
+PROYECTO
+EN
+RELACIÓN
+AL MONTO
+MÍNIMO
+REQUERIDO
+$ (USD)
+$ Estas
+34165,00
+condiciones
+no
+están
+sujetas
+al
+número
+de
+Página 33 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+en medio magnético y
+transformado a archivo
+binario a un sistema
+gestión documental,
+con al menos 5 campos
+de indexación y carga o
+migración a un sistema
+documental
+
+deberá
+presentar copia
+de actas de
+entrega
+recepción
+definitiva con
+su respectivo
+contrato
+OBLIGATORIO.
+
+Parra acreditar
+la experiencia
+en el sector
+privado:
+el
+oferente
+deberá
+presentar
+certificados con
+sus respectivas
+facturas
+y
+comprobantes
+de retención,
+legibles,
+debidamente
+suscrita.
+Los certificados
+deberán venir
+impresos
+en
+hojas
+membretadas
+(en caso de
+personas
+jurídicas)
+debiendo
+contener
+la
+siguiente
+información:
+Objeto
+de
+contrato,
+monto
+de
+contrato,
+plazo
+contractual,
+nombre de la
+entidad a la
+que prestó el
+servicio
+
+contratos
+o
+instrumentos
+presentados
+por
+el
+oferente para
+acreditar
+la
+experiencia
+mínima
+general
+o
+específica
+requerida,
+sino,
+al
+cumplimiento
+de
+estas
+condiciones
+en relación a
+los
+montos
+mínimos
+requeridos
+para cada tipo
+de
+experiencia.
+Si
+con
+la
+presentación
+de
+un
+contrato
+o
+instrumento
+que acredite
+la experiencia
+mínima
+específica, el
+proveedor
+cumpliere el
+monto
+mínimo
+solicitado para
+la experiencia
+mínima
+general, este
+contrato
+o
+instrumento
+será
+considerado
+como válido
+para acreditar
+los dos tipos
+de
+experiencia.
+
+Página 34 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+(persona
+jurídica
+o
+natural),
+nombre,
+números
+telefónicos
+y
+cargo de la
+persona
+que
+emitió
+el
+documento
+
+Para acreditar
+la experiencia
+general,
+el
+contratista
+puede
+presentar
+contratos
+o
+instrumentos
+hasta 15 años
+previos a la
+publicación
+del presente
+procedimiento
+de
+contratación.
+
+Si con la presentación de un contrato o instrumento que acredite la experiencia mínima
+especifica el proveedor cumpliere el monto mínimo solicitado para la experiencia mínima
+general, este contrato o instrumento será considerado como válido para acreditar los dos tipos
+de experiencias
+Se permite la sumatoria de los contratos para cumplir los montos solicitados.
+Para el cumplimiento de esto, también se tomará en consideración lo previsto en el Art. 65
+numeral 1 de la resolución Nro. RE- SERCOP- 2016-0000072; esto es, para procedimientos de
+contratación cuyo presupuesto referencial sea igual o inferior a USD $ 500.000,00 (Quinientos
+mil dólares de los Estados Unidos de América con 00/100), la experiencia de una persona
+jurídica podrá ser acreditada a través de una tercera persona natural, siempre y cuando ésta
+se encuentre en relación de dependencia con la persona jurídica participante por un tiempo
+que no sea menor al de doce (12) meses consecutivos a partir de la presentación de la oferta.
+En el caso que la persona jurídica posea un tiempo de constitución menor a doce (12) meses,
+la experiencia podrá ser acreditada por sus accionistas, representante legal o personal en
+relación de dependencia.
+
+12.5.
+
+Cumplimiento de Especificaciones Técnicas
+
+Todos los bienes a entregar o servicios a prestar deben cumplir en forma estricta con las
+especificaciones y términos de referencia requeridos respectivamente en el pliego y
+dentro de las medidas y tolerancias establecidas y aprobados por la entidad contratante.
+En caso de que el contratista descubriere discrepancias entre los distintos documentos,
+deberá indicarlo inmediatamente al administrador, a fin de que establezca el documento
+que prevalecerá sobre los demás; y, su decisión será definitiva.
+En caso de que cualquier dato o información no hubieren sido establecidos o el contratista
+no pudiere obtenerla directamente, ésta se solicitará al administrador del contrato. La
+administración proporcionará, cuando considere necesario, instrucciones adicionales para
+ejecutar satisfactoriamente el contrato.
+
+Página 35 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Se verificará que cada oferente en la oferta que ha presentado, dé cumplimiento expreso y
+puntual a las especificaciones técnicas de los bienes que se pretende adquirir o, términos
+de referencia para los servicios que se pretende contratar, de conformidad con lo
+detallado en este documento.
+El oferente deberá tener la capacidad de proporcionar un esquema para que la
+información convertida sea almacenada en el servidor institucional o con la capacidad de
+albergar la mayor cantidad de conversión de Rollos y Jackets de microfilm almacenado en
+medio magnético y transformado a archivo binario al sistema gestión documental de La
+Coordinación de Afiliación Y Control Técnico incluso de manera distribuida para evitar un
+colapso tanto en el almacenamiento como expansión de la solución informática
+proporcionada sin que esto afecte al usuario final visor de los documentos.
+
+12.6
+
+Patrimonio:
+
+En el caso de personas jurídicas, se verificará que el patrimonio cumpla con la normativa
+establecida por el Servicio Nacional de Contratación Pública para el efecto.
+En caso de personas jurídicas, la entidad contratante verificará que el patrimonio del oferente
+sea igual o superior a la siguiente relación con el presupuesto referencial del procedimiento de
+contratación.
+El patrimonio de las personas jurídicas se puede justificar con la presentación del formulario de
+declaración de impuesto a la renta del ejercicio fiscal inmediato anterior que fue entregada al
+Servicio de Rentas Internas SRI y/o los balances presentados al órgano de control respectivo.
+Se verificará que el patrimonio cumpla con la normativa establecida por el Servicio Nacional de
+Contratación Pública para el efecto.
+El patrimonio del oferente, como parámetro de evaluación, se aplicará siempre que el
+presupuesto referencial sea igual o superior al valor que resulte de multiplicar el coeficiente
+0.000002 por el PIE.
+MONTO QUE DEBE CUMPLIRSE DEL PATRIMONIO
+U.S.D.
+PATRIMONIO
+EXIGIDO
+SOBRE LA
+PATRIMONIO EXIGIDO SOBRE EL
+FRACCION
+EXCESO
+FRACCION
+EXCEDENTE DE LA FRACCION
+BASICA
+HASTA
+BASICA
+BASICA
+BIENES Y/O SERVICIOS, INCLUIDOS CONSULTORIA
+500.000
+5% SOBRE EL EXCESO DE 250.000
+0
+INCLUIDO
+0
+INLCUIDO
+1.000000
+10% SOBRE EL EXCESO DE LA
+500.000,01
+INCLUIDO
+15.000,00
+FRACCION BASICA
+5,000,000
+12.5% SOBRE EL EXCESO DEL A
+1.000.000,01
+INCLUIDO
+75.000,00
+FRACION BASICA
+10,000,000
+15% SOBRE EL EXCESO DE LA
+5.000.000,01
+INCLUIDO
+625.000,00
+FRACCION BASICA
+PRESUPUESTO REFERENCIAL
+
+Página 36 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+10.000.000,01
+
+EN
+ADELANTE
+
+1.500.000,00
+
+17,5% SOBRE EL EXCESO DE LA
+FRACCION BASICA
+
+12.7 Existencia legal
+En armonía con el numeral 2 del Art. 65 de las Reglas de Participación, de la Codificación y
+Actualización de Resoluciones del SERCOP, para los procedimientos de contratación cuyo
+presupuesto referencial sea igual o inferior a USD$ 500.000,00 (Quinientos mil dólares de los
+Estados Unidos de América con 00/100), no habrá tiempo de existencia legal mínima requerida.
+Para los procedimientos de contratación que sobrepasen el monto del presupuesto referencial
+antes mencionado el tiempo de existencia legal será mínimo de tres (3) años.
+
+12.8
+
+Metodología y cronograma propuesto de trabajo del proyecto
+
+Se propone el siguiente cronograma para el proceso:
+
+12.9 Porcentaje de Valor Agregado Ecuatoriano Mínimo
+La entidad contratante deberá aplicar obligatoriamente la metodología definida por el Servicio
+Nacional de Contratación Pública para la determinación de Valor Agregado Ecuatoriano en la
+adquisición de bienes y/o prestación de servicios, según corresponda, que será considerado
+como uno de los criterios de participación, evaluación y adjudicación.
+Para que una oferta sea considerada ecuatoriana el Valor Agregado Ecuatoriano de la misma
+deberá ser igual o superior al umbral del Valor Agregado Ecuatoriano del procedimiento de
+contratación pública, publicado por la entidad contratante conforme lo establecido por el Sistema
+Oficial de Contratación del Estado -SOCE.
+
+Página 37 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+La entidad contratante deberá verificar si el oferente acredita Valor Agregado Ecuatoriano de los
+bienes y/o servicios propuestos, conforme la normativa expedida por el Servicio Nacional de
+Contratación Pública.
+Únicamente en el caso de que la oferta presentada no acreditare Valor Agregado Ecuatoriano, la
+entidad contratante considerará y analizará la oferta de origen extranjero que se hubieren
+presentado
+Por tratarse de un servicio de organización, clasificación de archivos que aporta a la
+conservación
+documental
+y
+una
+vez
+revisado
+en
+la
+página
+web:
+https://portal.compraspublicas.gob.ec/sercop/valor-agregado-ecuatoriano/, en el Listado de
+CPC en sus umbrales de VAE se desprende los indicadores de productos que se asemejan al
+objeto del contrato:
+Umbrales de VAE del procedimiento
+Identificador
+del Producto
+85960021
+
+Descripción del Producto
+SERVCIO DE MICROFILMACION DE
+DOCUMENTOS
+
+12.10.
+
+Umbral VAE
+0.00%
+
+Otros parámetros:
+
+Carta de compromiso de:
+El oferente deberá entregar el listado de personas que conformen el equipo de trabajo.
+
+
+
+Cumplir con el ordenamiento del archivo microfilmado esto se encuentra en los
+lineamientos del Manual de Archivo, este tipo de archivo no se podrá destruir.
+Compromiso de confidencialidad de no difundir información de IESS, sea en registros
+administrativos o de afiliados así como también no difundir imágenes (fotos y videos) de
+los archivos, para esto deberá presentar la carta de compromiso de cumplimiento de
+cada uno de los requisitos que se solicitan en los términos de referencia.
+12.11.
+
+Verificación del cumplimiento de integridad y requisitos mínimos de la oferta
+
+PARÁMETROS
+
+CUMPLE
+
+NO CUMPLE
+
+Integridad de la Oferta
+Equipo Mínimo
+Personal Técnico Mínimo
+Experiencia del personal
+técnico
+Experiencia General
+Experiencia Específica
+VAE
+Página 38 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+Especificaciones técnicas
+Patrimonio
+Existencia legal
+Otros parámetros
+
+12.12.
+
+Información Financiera de Referencia:
+
+Los índices financieros constituirán información de referencia respecto de los participantes en
+el procedimiento y en tal medida, su análisis se registrará conforme el detalle a continuación:
+VERIFICACIÓN DE CUMPLIMIENTO Y REQUISITOS MÍNIMOS DE LOS INDICES
+FINANCIEROS
+ÍNDICE
+INDICADOR
+SOLICITADO
+OBSERVACIONES
+MAYOR O IGUAL A 1,0
+SOLVENCIA
+MENOR A 1,5
+ENDEUDAMIENTO
+
+Para la verificación se requiere que el oferente presente el formulario de declaración de
+impuesto a la renta del ejercicio fiscal inmediato anterior que fue entregada al servicio de
+rentas internas SRI y/o los balances presentados al órgano de control respectivo.
+13.
+
+Presupuesto referencial
+
+El presupuesto referencial del proceso de SEGUNDA FASE SERVICIO DE CONVERSION DE
+ROLLOS Y JACKETS DE MICROFILM ALMACENADO EN MEDIO MAGNÉTICO Y TRANSFORMADO
+A ARCHIVO BINARIO AL SISTEMA GESTION DOCUMENTAL PARA LOS ARCHIVOS DE DIRECCION
+PROVINCIAL DEL GUAYAS” es de USD $ 854.129,80 (Ochocientos cincuenta y cuatro mil ciento
+veintinueve 80/100 Dólares de los Estados Unidos de América) sin incluir IVA.
+Se anexa Estudio de Mercado elaborado con fecha 30 de agosto de 2022.
+14.
+
+FORMA Y CONDICIONES DE PAGO
+
+
+
+Anticipo: Se otorgará el 50 % del valor total del contrato en calidad de anticipo, previo la
+presentación de las garantías correspondientes de conformidad con el articulo 75.Garantía por Buen uso de Anticipo; por parte del adjudicatario y luego de la suscripción del
+contrato.
+
+
+
+Saldo: El 50% restante del valor total del contrato será cancelado en pagos parciales
+mensuales, conforme al avance del servicio recibido (mes a mes), con entrega del informe
+del oferente y deberá ser aprobado a entera satisfacción por el administrador del contrato,
+con acta entrega recepción y factura correspondiente mediante previo informe técnico del
+administrador del contrato, firma del Acta Entrega Recepción Parcial/total a entera
+satisfacción del Instituto Ecuatoriano de Seguridad Social.
+
+Página 39 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+El valor por concepto de anticipo será depositado en una cuenta que el contratista apertura en
+una institución financiera estatal o privada de propiedad del estado en más de un cincuenta
+por ciento.
+El contratista autoriza expresamente se levante el sigilo bancario de la cuenta en la que será
+depositado el anticipo. El administrador de contrato designado por la contratante verificara
+que los movimientos de la cuenta correspondan estrictamente a procesos de ejecución
+contractual.
+Requisitos Mínimos para la Presentación de Planillas y en su orden:
+ Avances porcentuales de trabajo realizado
+ Registro Fotográfico que evidencia el desarrollo del trabajo(evidenciables del
+servicio recibido)
+ Acta de satisfacción del custodio del archivo IESS
+ Bitacoras de control y seguimiento
+ Factura(s) del contratista.
+ Copia de Contrato.
+ Certificado Bancario.
+ Certificado actualizado de NO adeudar al IESS del contratista.
+ RUC
+ RUP
+ SRI
+ Otros
+
+15.
+
+Lugar y forma de entrega
+
+Los trabajos serán realizados en la ciudad de Guayaquil, en la Av. Olmedo 401ª y calle Boyacá,
+Edificio Institucional Caja del Seguro IESS en el Piso 1 y 5.
+El presente término de referencia fue realizado con base de la necesidad de la Institución. Se
+recomienda realizar la adquisición del servicio a través de los tipos de procesos estipulados en
+la LOSNCP y su Reglamento (RGLOSNCP).
+La entrega será validada por parte de la Coordinación de Afiliación y Control Técnico Guayas,
+en lo correspondiente a los documentos indexados/ convertidos, cada área delegará un
+servidor que en modalidad de muestreo verificará la existencia de los documentos en el
+sistema informático que albergará los documentos digitalizados. En caso de conformidad
+emitirá un informe de favorabilidad.
+Asimismo, en el ámbito tecnológico, el área de Tecnologías de la Información Guayas emitirá el
+informe respectivo de la puesta en marcha respectiva de la solución habiendo constatado la
+estabilidad de la misma.
+Todos los informes en mención serán consolidados por el Administrador del Contrato
+designado por la máxima autoridad, el cual emitirá un solo informe final para el acta de
+entrega recepción de la solución.
+16.
+
+Garantías
+Página 40 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+De acuerdo al objeto de la contratación y a lo establecido en los artículos 74, 75, 76 LOSNCP, se
+pueden establecer garantía de fiel cumplimiento; garantía por anticipo y garantía técnica:
+De conformidad a lo establecido en la LOSNCP Ley Orgánica del Sistema Nacional de
+Contratación Pública:
+Art. 74.- Garantía de Fiel Cumplimiento.- Para seguridad del cumplimiento del contrato y para
+responder por las obligaciones que contrajeren a favor de terceros, relacionadas con el
+contrato, el adjudicatario, antes o al momento de la firma del contrato, rendirá garantías por
+un monto equivalente al cinco (5%) por ciento del valor de aquel. En los contratos de obra, así
+como en los contratos integrales por precio fijo, esta garantía se constituirá para garantizar el
+cumplimiento del contrato y las obligaciones contraídas a favor de terceros y para asegurar la
+debida ejecución de la obra y la buena calidad de los materiales, asegurando con ello las
+reparaciones o cambios de aquellas partes de la obra en la que se descubran defectos de
+construcción, mala calidad o incumplimiento de las especificaciones, imputables al proveedor.
+En los contratos de obra o en la contratación de servicios no normalizados, si la oferta
+económica adjudicada fuese inferior al presupuesto referencial en un porcentaje igual o
+superior al diez (10%) por ciento de éste, la garantía de fiel cumplimiento deberá
+incrementarse en un monto equivalente al veinte (20%) por ciento de la diferencia entre el
+presupuesto referencial y la cuantía del contrato.
+Tales cauciones podrán constituirse mediante la entrega de las garantías contempladas en los
+números: 1, 2; y, 5 del artículo 73 de esta Ley.
+No se exigirá este tipo de garantía en los contratos de compraventa de bienes inmuebles y de
+adquisición de bienes muebles que se entreguen al momento de efectuarse el pago.
+Tampoco se exigirá esta garantía en los contratos cuya cuantía sea menor a multiplicar el
+coeficiente 0,000002 por el Presupuesto Inicial del Estado del correspondiente ejercicio
+económico.
+Con cargo a la garantía de fiel cumplimiento se podrá efectivizar las multas que le fueren
+impuestas al contratista.
+Art. 75.- Garantía por Buen uso de Anticipo.- Si por la forma de pago establecida en el
+contrato, la Entidad Contratante debiera otorgar anticipos de cualquier naturaleza, sea en
+dinero, giros a la vista u otra forma de pago, el contratista para recibir el anticipo, deberá
+rendir previamente garantías por igual valor del anticipo, que se reducirán en la proporción
+que se vaya amortizando aquél o se reciban provisionalmente las obras, bienes o servicios. Las
+cartas de crédito no se considerarán anticipo si su pago está condicionado a la entrega recepción de los bienes u obras materia del contrato.
+El monto del anticipo lo regulará la Entidad Contratante en consideración de la naturaleza de la
+contratación, estas garantías son independientes y subsistirán luego de cumplida la obligación
+principal.
+De no presentarse esta garantía, el contratista entregará una de las previstas en esta Ley por
+igual valor del bien a suministrarse, de conformidad con lo establecido en los pliegos y en el
+contrato. Cualquiera de estas garantías entrará en vigencia a partir de la entrega recepción del
+bien.
+17.
+
+Multas
+Página 41 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+De conformidad con el artículo 71 de la Ley Orgánica del Sistema Nacional de Contratación
+Pública, por cada día de retraso en la ejecución de las obligaciones contractuales por parte del
+Contratista, se aplicará la multa del 1 por 1000 por cada día de retardo; salvo casos de fuerza
+mayor o caso fortuito debidamente comunicados y justificados dentro de las 48 horas hábiles
+de producido el incidente, y que sean aceptados por la contratante. Las multas se calcularán
+sobre el porcentaje de las obligaciones que se encuentran pendientes de ejecutarse conforme
+a lo establecido en el contrato. En todos los casos, las multas serán impuestas por el
+Administrador del Contrato, el cual establecerá el incumplimiento, fechas y montos.
+La multa se establecerá sobre el valor que se encuentra pendiente de planilla.
+
+18.
+
+Vigencia de la oferta
+
+El tiempo de vigencia de la oferta es de 90 días calendario hasta la suscripción del contrato.
+19.
+
+ADMINISTRADOR DEL CONTRATO
+
+El Instituto Ecuatoriano de Seguridad Social Guayas designará de manera expresa un
+administrador del contrato, quien velará por el cabal y oportuno cumplimiento de todas y cada
+una de las obligaciones derivadas del contrato. El administrador será el encargado de la
+administración de las garantías durante todo el período de vigencia del contrato, adoptará las
+acciones que sean necesarias para evitar retrasos injustificados e impondrá las multas y
+sanciones a que hubiere lugar según lo dispone el artículo 121 del Reglamento General de la
+LOSNCP.
+El servicio requirente tiene características similares al Manual del Proceso archivo de
+Documentos suscrito por la Dirección Nacional de Servicios Corporativos Subdirección Nacional
+de Gestión Documental.
+Por lo expuesto, de conformidad a al conocimiento, atribuciones y responsabilidades se
+sugiere la designación como administrador del contrato al Responsable de Gestión
+Documental del Provincia del Guayas:
+Nombres:
+Cargo:
+Correo electrónico:
+Cédula de ciudadanía:
+
+Ing. Diana Carolina Véliz Pérez
+Asistente Administrativo, Gestión
+Documental
+diana.veliz@iess.gob.ec
+1308540275
+
+Mismo que cuenta con certificado como operador de compras Públicas
+20.
+
+Sugerencia de designación de comisión técnica o Delegado Responsable de la Ejecución
+Precontractual.
+
+Se sugiere la designación de la comisión técnica o delegados de la siguiente manera:
+
+Página 42 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+DESCRIPCIÓ
+N
+Delegado
+máxima
+autoridad /
+Presidente
+Delegado de
+Unidad
+requirente:
+
+Profesional
+a fin al
+objeto de
+contratación
+
+21.
+
+NOMBRES
+
+CARGO
+
+CORREO ELECTRÓNICO
+
+Econ.
+Elizabeth
+Malena Jijón
+Gordillo
+Sr. Holger
+Chancay
+
+Asistente
+Administrativo,
+Dirección
+Provincial Guayas
+Asistente
+Administrativo,
+Coordinación
+Provincial de
+Afiliación y
+Control Técnico
+Asistente
+Administrativo,
+Gestión
+Documental
+Guayas
+
+elizabeth.jijon@iess.gob
+.ec
+
+Ing. Leonardo
+Livino Freire
+Chavez
+
+CÉDULA DE
+CIUDADANÍA
+0911693281
+
+holger.chancay@iess.go
+b.ec
+
+0911938397
+
+leonardo.freire@iess.go
+b.ec
+
+0917648461
+
+PUJA
+
+De conformidad con el artículo 136. – Puja: En el día y hora señalados se realizará la puja en
+precios hacia la baja con una duración de quince (15) minutos.
+El porcentaje de variación mínimo durante la puja será del 5%).
+De conformidad con el artículo 130: -Reglas comunes del Reglamento General a la Ley
+Orgánica Sistema Nacional de contratación Pública; indica en sus numerales lo siguiente:
+8. En caso de haber una puja, si la oferta económica del mejor postor no fuese inferior al cinco
+por ciento (5%) del presupuesto referencial de la subasta inversa convocada, la entidad
+contratante deberá negociar el valor de la oferta económica con el proveedor que resultare
+ganador de la puja;
+9. En todos los casos, se propenderá a que la oferta económica ganadora de la puja sea
+inferior al menos en un 5% del presupuesto
+
+22. Obligaciones del contratista
+El proveedor seleccionado se obliga a:
+
+
+
+
+
+Suscribir un acuerdo de confidencialidad del IESS del oferente y del personal técnico
+Garantizar el cumplimiento de porcentaje Valor Agregado Ecuatoriano ofertado.
+Brindar oportunamente el Servicio de conversión de rollos y jackets de microfilm
+almacenado en medio magnético y transformado a archivo binario al sistema gestión
+documental de la coordinación de afiliación y control técnico.
+El proveedor asumirá la total responsabilidad sobre el servicio entregado, instalado y
+puesto en funcionamiento. No se permite subrogación de obligaciones. (De ser el caso)
+
+Página 43 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dar cumplimiento cabal a lo establecido en el presente pliego de acuerdo con los
+términos y condiciones del contrato.
+Suscribir el contrato en el término de quince días contados a partir de la fecha de
+notificación de la Resolución de Adjudicación.
+Obrar con lealtad y buena fe en las distintas etapas contractuales, evitando dilaciones
+y contratiempos tanto en cumplimiento de requisitos de ejecución como en el
+desarrollo del contrato.
+Cumplir con el objeto del contrato en la forma y tiempo pactado.
+Además de las obligaciones ya establecidas en estos términos de referencia y en las
+especificaciones técnicas, el PROVEEDOR está obligado a cumplir con cualquier
+condición que se derive natural y legalmente del objeto del contrato y sea exigible por
+constar en cualquier documento del mismo o en norma legal específicamente
+aplicable.
+Todo lo señalado en las Especificaciones Técnicas y Términos de referencia.
+Serán también de cuenta del contratista y a su costo, todas las obligaciones que se
+deriven del contrato suscrito.
+El Oferente deberá incluir en su propuesta la metodología que aplicará para el proceso
+de conversión de rollos y jackets de microfilm almacenado en medio magnético y
+transformado a archivo binario al sistema gestión documental de la coordinación de
+afiliación y control técnico y la generación de datos relacionados para cada una de las
+tareas que incluye el servicio.
+El Oferente debe entregar el cronograma en el detalle estructurado de todas las
+actividades que realizará para cumplir a cabalidad el servicio requerido, incluyendo
+equipos, recursos técnicos, recursos humanos, capacitación, tiempos y responsables,
+siendo de su estricta responsabilidad cumplir con el alcance de la contratación del
+servicio dentro del plazo establecido.
+El Oferente debe detallar todos los procedimientos a utilizar para realizar la operación
+y supervisión del Servicio de conversión de rollos y jackets de microfilm almacenado en
+medio magnético y transformado a archivo binario al sistema gestión documental de la
+coordinación de afiliación y control técnico.
+La Metodología de trabajo a utilizar debe incluir un detalle de Esquema de los
+procesos de Recepción, Inventario, Ordenamiento, Digitalización, Indexación,
+capacitación técnica y funcional, instalación y configuración.
+Documentación funcional de los aplicativos que usarán.
+Tiempos de respuesta y capacidad de producción esperada.
+El Control y aseguramiento de la Calidad debe efectuarse a lo largo de todo el proceso
+a fin de garantizar la calidad del servicio, debe ser evidenciado a través de registros,
+controles y procedimientos, que deben estar detallados en la propuesta del Oferente.
+Para asegurar los niveles de calidad de las imágenes procesadas que se incorporen al
+servidor, se ubicarán las imágenes digitalizadas, de manera conjunta y realizando
+pruebas, se determinarán que nivel de calidad será calificada como Ilegible, Media
+Legible y Legible, tanto para los documentos originales, como para las imágenes
+convertidas, defunción que facilitará el proceso de revisión y aceptación de las
+imágenes que el Oferente entregue como ya procesadas
+El Control y aseguramiento de la calidad debe incluir como mínimo los siguientes
+reportes entregables de acuerdo a la periodicidad señaladas
+El Oferente deberá presentar como parte de la propuesta el Plan de Soporte Técnico
+para la atención de incidentes. Deberá contener como mínimo- Objetivos, Alcances,
+Página 44 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+
+
+
+
+
+
+
+
+
+
+metodología y personal técnico especializado, el cual debe describir los niveles de
+servicio propuestos en favor de la Dirección Provincial Guayas IESS que deben tener
+como premisa referencial general.
+Una vez notificado un error/incidente, no deberá ser mayor a 2 horas para su atención
+y no mayor a 24 horas para su solución, con el objetivo de garantizar un
+mantenimiento trimestral (cuatro veces al año) del equipamiento que conforma la
+línea de digitalización diaria.
+Luego de la entrega definitiva y durante la vigencia de la garantía técnica del servicio y
+de la herramienta de gestión documental propuesta el Oferente debe incluir una
+cantidad de recursos técnicos para realizar el acompañamiento en sitio por un lapso
+no menor a 30 días hábiles sin costo adicional para la entidad contratante.
+Informe mensual de avances realizados del servicio de conversión de rollos y jackets
+de microfilm almacenado en medio magnético y transformado a archivo binario al
+sistema gestión documental de la coordinación de afiliación y control técnico se
+especifique la implementación de lo indicado en los puntos anteriores.
+Garantizar mediante un Acuerdo de Integridad y Confidencialidad la completa
+integridad, reserva para el manejo de la información entregada y de no retener copias
+de la información.
+Contar con personal calificado para realizar el ordenamiento del archivo y los
+documentos deberán ser guardados en cajas debidamente etiquetadas con sus series
+documentales.
+El oferente deberá tener la capacidad de proporcionar un esquema de
+almacenamiento gestor de base de datos lo suficientemente estable con la capacidad
+de albergar la mayor cantidad de documentos digitalizados incluso de manera
+distribuida para evitar un colapso tanto en el almacenamiento como expansión de la
+solución informática proporcionada sin que esto afecte al usuario final visor de los
+documentos digitalizados.
+23. Obligaciones del contratante
+
+
+
+
+
+
+
+
+
+
+Hacer cumplir con cada uno de los ítems indicados en las especificaciones técnicas y
+metodología de trabajo
+Supervisar el correcto desarrollo del proceso para la recepción de los productos
+esperados
+Dar solución a las peticiones y problemas que se presentaren en la ejecución del
+servicio, en el término de 3 días contadas desde la solicitud entregada por el
+contratista.
+Habilitar y autorizar el paso a los espacios de archivo objeto del contrato para que se
+pueda iniciar el trabajo.
+Suscribir el acta de entrega recepción definitiva por el trabajo recibido siempre que se
+haya cumplido con lo previsto en la ley para la entrega recepción; y, en general,
+cumplir con las obligaciones derivadas del contrato.
+Designar al administrador del contrato y a la comisión de recepción del servicio.
+Cumplir con las obligaciones establecidas en el contrato, y en los documentos del
+mismo, en forma ágil y oportuna.
+Coordinar con la comisión de veedores designada por el área de gestión documental
+para que estén inmersos con la logística de trabajo para contribuir con la transparencia
+durante la ejecución del servicio, puesta en marcha y usabilidad de la solución.
+
+Página 45 de 46
+
+DIRECCION PROVINCIAL DEL GUAYAS
+TÉRMINOS DE REFERENCIA O ESPECIFIACIONES TÉCNICAS
+
+
+
+
+
+
+
+Incluir un delegado Técnico y funcional operativo para la entrega total del servicio
+adquirido.
+Realizar el pago oportuno del servicio de conformidad con lo establecido
+Las demás, determinadas en el Instructivo de Gestión Documental.
+Velar por el cumplimiento de las directrices de Gestión Documental mediante el
+manual del proceso de digitalización y evitar que se genere nuevamente una
+desorganización por descuido y/o falta de acciones que tiendan a organizar y depurar
+sus archivos.
+La Unidad Provincial de Gestión Documental del Guayas deberá determinar el lugar en
+el cual se va a almacenar la documentación oficial de la provincia. Este lugar debe
+cumplir con las condiciones ambientales y de seguridad necesarias para garantizar la
+confidencialidad, integridad y disponibilidad de la documentación, garantizando su
+preservación.
+
+Guayaquil, 04 de octubre 2022.
+FIRMA DE RESPONSABILIDAD
+
+Firmado electrónicamente por:
+
+DIANA MARIUXI
+SANCHEZ
+SAAVEDRA
+
+Elaborado por
+Lcda. Diana Mariuxi Sánchez Saavedra
+Analista Económico - Gestión Documental Guayas
+FIRMA DE RESPONSABILIDAD
+Firmado electrónicamente por:
+
+MARIA ISABEL
+EGUEZ SANTANA
+
+Aprobado por
+Mgs. María Isabel Eguez Santana
+Responsable de Gestión Documental Guayas
+
+Página 46 de 46
+
+

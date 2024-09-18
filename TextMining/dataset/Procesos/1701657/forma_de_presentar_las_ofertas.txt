@@ -1,0 +1,29 @@
+FORMA DE PRESENTAR LAS OFERTAS
+
+
+
+Los oferentes interesados en participar en el presente proceso de contratación, deberán presentar sus ofertas según los siguientes lineamientos establecidos en la Circular No. SERCOP-SERCOP-2020-022-C, los mismos que se detallan a continuación:
+
+
+
+Una vez ingresada toda la información y documentación de la oferta, presionar el botón “Vista previa de la oferta”, mismo que se encuentra en la parte superior derecha de la pantalla, para generar la vista previa de la oferta en formato PDF.
+
+Descargar el archivo de la vista previa de la oferta y firmar electrónicamente en cada uno de los formularios. Cada formulario de la oferta, o sus particiones debido a que su tamaño supera los 10 Mb, deben ser firmados electrónicamente de manera individual; para así cumplir con el mandato de integridad de estos mensajes de datos;
+
+Cargar el archivo firmado electrónicamente en la sección “Anexos” de la oferta en el Módulo Facilitador de la Contratación Pública. 
+
+De conformidad con el artículo 3 de la Ley de Comercio Electrónico, Firmas Electrónicas y Mensajes de Datos, se reconoce validez jurídica a la información no contenida directamente en una oferta firmada electrónicamente, siempre que figure en la misma, en forma de remisión o de anexo, y cumpla con los parámetros establecidos en los artículos 1 y 2 del Reglamento General a la Ley antes mencionada. 
+
+Generar Oferta en el Módulo Facilitador de la Contratación Pública y descargar el archivo en .ushay 
+
+Cargar oferta generada en .ushay al procedimiento de contratación en el SOCE tanto en formato ushay como en PDF, que se haya firmado electrónicamente. 
+
+
+
+Las ofertas podrán ser remitidas mediante dos vías:
+
+Al correo institucional del funcionario encargado del proceso, que se encuentra registrado en la pestaña “Descripción” del proceso de contratación, desde el correo registrado por el oferente dentro del RUP.
+
+Remitir al correo del funcionario a través del aplicativo “WeTransfer”, tomando en cuenta que las ofertas constituyen una cantidad grande de archivos y por lo cual, el peso del archivo de la oferta puede superar el permitido para ser remitido por correo electrónico.
+
+En caso de que la oferta no sea remitida al correo electrónico, se tomará en consideración solo los archivos que se encuentran subidos al Portal Institucional del SERCOP a través de su documento .ushay, por lo que la información contenida en el mismo será la documentación participante.

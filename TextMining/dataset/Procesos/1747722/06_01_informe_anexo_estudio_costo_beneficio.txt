@@ -1,0 +1,133 @@
+REVISIÓN
+
+No. 04
+
+ESTUDIO COSTO - BENEFICIO
+
+ABRIL
+
+2021
+
+FECHA
+
+HOJA
+
+1
+
+1. DATOS INFORMATIVOS
+Fecha de elaboración del estudio:
+
+27 de mayo de 2022
+
+Empresa:
+
+Empresa Pública Metropolitana de Agua Potable y Saneamiento
+
+Gerencia:
+
+Operaciones
+
+Departamento:
+
+Producción
+
+Unidad Requirente:
+
+Sistema Puengasí
+
+2. NOMBRE DE LA CONTRATACIÓN
+
+ADQUISICIÓN Y MONTAJE DE COMPUERTAS DESLIZANTES PARA CLARIFICADORES DE LA
+PLANTA PUENGASÍ
+3. ANÁLISIS COSTO BENEFICIO
+Existen dos tipos de mantenimiento que se realizar a los clarificadores:
+1)
+
+2)
+
+Frecuencia: 8 clarificadores / mes. Duración del trabajo: 4 horas / clarificador. Detalle del trabajo: se cierra la
+compuerta del clarificador, se realiza el vaciado hasta aproximadamente el nivel medio de agua, para proceder
+a realiza el lavado de paredes, canaleta y anillo central.
+Frecuencia: 1 clarificador / mes. Duración del trabajo: 8 horas / clarificador. Detalle del Trabajo: se cierra la
+compuerta del clarificador, se realiza el vaciado completo, para proceder a lavar los pisos y las paredes bajas.
+
+Para realizar el siguiente análisis, se tomará el rango de consumo de 12 a 18 m3, es decir un costo comercial de USD
+0.43 por cada m3 de agua tratada, de acuerdo al siguiente cuadro:
+
+Con estos datos podemos observar que, en el caso de presentarse algún tipo de daño o acumulación excesiva de lodo,
+en los clarificadores del 1 al 4, se deberá paralizar los 4 clarificadores, por el tiempo que se tome la reparación, por la
+falta de compuertas de control, lo que representa un costo aproximado de USD $ 1,321.85 por cada hora, considerando
+que si se cuenta con las compuertas, el cerrar un clarificador representa USD $ 330.46 por cada hora.
+Al no contar con las compuertas, para realizar el mantenimiento 1, se debe vaciar hasta el nivel medio a los 4
+clarificadores, es decir salen de operación por 4 horas, para lavar uno solo, lo que representa una pérdida económica
+para la empresa por valor de USD $ 15.862,08. (USD $ 330.46 * 3 clarificadores * 4 horas * 4 veces en el mes).
+
+1
+
+REVISIÓN
+
+No. 04
+
+ESTUDIO COSTO - BENEFICIO
+
+ABRIL
+
+2021
+
+FECHA
+
+HOJA
+
+2
+
+En cambio, para el mantenimiento 2, se debe realizar el vaciado completo de los clarificadores de 1 al 4, es decir salen
+de operación por 8 horas para lavar uno solo, lo que representa una pérdida económica para la empresa por el valor de
+USD $ 7.931,04 (USD $ 330.46 * 3 clarificadores * 8 horas * 1 vez en el mes)
+Es decir, que el no contar con las compuertas, genera pérdidas económicas mensuales a la empresa por el valor de
+23.793,12 (USD $ 15.862,08 + USD $ 7.931,04). Si se realiza una relación entre el costo que representa realizar la
+adquisición y montaje de compuertas deslizantes, que de acuerdo al PAC es de USD $ 63.500,00, y las pérdidas
+mensuales que se generan por la falta de compuertas USD $ 23.793,12, tenemos que en un tiempo de 3 meses, la
+adquisición estaría solventada.
+A más de lo descrito, el contar con las compuertas, garantizará la ejecución adecuada de la limpieza de unidades
+operativas programadas, que retribuyen directamente en la vida útil de las unidades operativas y en una mejor calidad
+de agua.
+Un adecuado mantenimiento correctivo y preventivo, permite contar con las siguientes ventajas:
+•
+•
+•
+•
+•
+•
+
+Óptimo funcionamiento del tren de tratamiento
+Cumplir con la programación de trabajos de Obras civiles
+Evita la acumulación de sólidos en las paredes, canaletas y anillo central de clarificadores.
+Permite mantener las horas óptimas de lavado de filtros.
+Evita el incremento en la dosificación de los químicos utilizados en el proceso.
+Permite cumplir con una mejor turbiedad de salida del agua tratada.
+
+La EPMAPS, al ser una empresa que brinda un servicio público vital, no busca rentabilidad en sus procesos, por lo que
+este tipo de adquisiciones lo único que garantiza es contar con los instrumentos mínimos necesarios para mantener
+una adecuada operación.
+Cabe indicar que no existen materiales sustitutos al presentado en este proceso, ya que ningún otro tipo de material
+cumple con las especificaciones técnicas solicitadas.
+
+CONCLUSIÓN:
+La ADQUISICIÓN Y MONTAJE DE COMPUERTAS DESLIZANTES PARA CLARIFICADORES DE LA PLANTA
+PUENGASÍ, se traduce en la eficacia del proceso de tratamiento del agua potable y preservación de la vida útil de las
+unidades operativas de los diferentes sistemas de tratamiento, lo cual permitirá garantizar una mejor calidad del agua
+que se distribuye a gran parte de la ciudad, además evitará pérdidas económicas para la empresa y la preservación de
+la buena imagen empresarial de la EPMAPS.
+
+Firmado electrónicamente por:
+
+ADRIANA DEL
+ROSARIO MENA
+MENA
+
+Bioq. Adriana Mena M.
+JEFE SISTEMA PUENGASI (E)
+
+2
+
+

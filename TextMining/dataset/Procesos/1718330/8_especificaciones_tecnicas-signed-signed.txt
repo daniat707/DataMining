@@ -1,0 +1,239 @@
+ESPECIFICACIONES TÉCNICAS PARA
+ADQUISICIÓN DE EQUIPOS PARA RADIO ENLACES
+Tabla 1. Equipo para enlace de larga distancia
+Descripción
+Cantidad
+Año de fabricación
+Garantía
+Procedencia
+Marca
+Modelo
+Dimensiones
+Peso
+Fuente de alimentación
+Suministro de energía
+Máx. consumo de energía
+Rango de voltaje admitido
+Frecuencia de operación MHz
+Ganancia
+Interfaces de red
+Especificaciones del procesador
+Memoria
+LEDs
+LED de intensidad de la señal
+Max. VSWR
+Tamaños de canal
+Polarización
+Revestimiento
+Herrajeria
+Carga de viento
+Protección ESD/EMP
+Temperatura de funcionamiento
+Humedad de funcionamiento
+Aprobaciones inalámbricas
+Conformidad con la RoHS
+Prueba de niebla salina
+Test de vibración
+Prueba de “temperature shock”
+Prueba UV
+Prueba “wind-driven rain”
+
+Especificación
+100
+Mínimo 2021
+1 año
+Especificar
+Especificar
+Especificar
+620 x 620 x 386 mm
+6.4 kg
+24V, 0.5A Gigabit PoE
+Pasivo PoE (Pairs 4, 5+; 7, 8 Return)
+8.5W
+20-26VDC
+5150 - 5875
+29dBi
+(1) 10/100/1000 Puerto Ethernet
+Atheros MIPS 74Kc, 720 MHz
+128 MB DDR2, 16 MB Flash
+(1) Power, (1) LAN, (4) WLAN
+Ajustable por software para niveles de RSSI
+1.6:1
+PtP Mode: 10/20/30/40/50/60/80 MHz
+PtMP Mode: 10/20/30/40 MHz
+Doble lineal
+Plástico estabilizado UV para exteriores
+Incluye para montaje en polo
+mínimo 1510 N @ 200 km/h
+Air: ± 24 kV, Contacto: ± 24 kV
+-40 a 70° C
+5 a 95% sin condensación
+FCC, IC, CE
+SI
+IEC 68-2-11 (ASTM B117), Equivalente: MILSTD-810 G Método 509.5
+IEC 68-2-6
+IEC 68-2-14
+IEC 68-2-5 at 40° C, Equivalente: ETS 300 0191-4
+ETS 300 019-1-4, Equivalente: MIL-STD-810 G
+Método 506.5
+
+Data rate Avg. TX
+(Tolerancia de +/- 2dB)
+
+1 x BPSK (1/2) 24dBm
+2 x QPSK (1/2) 24dBm
+2 x QPSK (3/4) 24dBm
+
+Requerido
+
+4 x 16QAM (1/2) 24dBm
+4 x 16QAM (3/4) 24dBm
+6 x 64QAM (2/3) 23dBm
+6 x 64QAM (3/4) 23dBm
+6 x 64QAM (5/6) 22dBm
+8 x 256QAM (3/4) 20dBm
+8 x 256QAM (5/6) 20dBm
+Data rate Sensivity
+(Tolerancia de +/- 2dB)
+
+1 x BPSK (1/2) -96dBm
+2 x QPSK (1/2) -95dBm
+2 x QPSK (3/4) -92dBm
+4 x 16QAM (1/2) -90dBm
+4 x 16QAM (3/4) -86dBm
+6 x 64 QAM (2/3) -83dBm
+6 x 64 QAM (3/4) -77dBm
+6 x 64QAM (5/6) -74dBm
+8 x 256QAM (3/4) -69dBm
+8 x 256 QAM (5/6) -65dBm
+
+Requerido
+
+Tabla 2. Equipo para enlace de corta distancia
+Descripción
+Cantidad
+Año de fabricación
+Garantía
+Procedencia
+Marca
+Modelo
+Dimensiones
+Peso
+Fuente de alimentación
+Máx. Consumo de energía
+Método de alimentación
+Rango de voltaje
+Interfaz de red
+Especificaciones del procesador
+Memoria
+LED
+LED de intensidad de la señal
+Máx. VSWR
+Polarización
+Revestimiento
+Herrajeria
+Carga de viento
+Resistencia al viento
+Protección ESD/EMP
+Temperatura de funcionamiento
+Humedad de funcionamiento
+Aprobaciones inalámbricas
+
+Especificación
+100
+Mínimo 2021
+1 año
+Especificar
+Especificar
+Especificar
+520 x 520 x 308 mm
+2,35 kg (6,95 libras)
+24 V, 0,5 A Gigabit PoE
+8.5W
+PoE pasivo (pares 4, 5+; 7, 8 retorno)
+20-26 VCC
+(1) Puerto Ethernet 10/100/1000
+Atheros MIPS 74Kc, 720 MHz
+DDR2 de 128 MB, Flash de 16 MB
+(1) Alimentación, (1) LAN, (4) WLAN
+Ajustable por software para niveles de RSSI
+1,5:1
+Dual Lineal
+Plástico estabilizado UV para exteriores
+Incluye para montaje en polo
+264,6 N a 96 km/h
+96 km/h
+Aire: ± 24 kV, Contacto: ± 24 kV
+-40 a 70 °C
+5 a 95 % sin condensación
+FCC, IC, CE
+
+Conformidad con RoHS
+Prueba de vibración
+Prueba de “temperature shock”
+Prueba UV
+Prueba “wind-driven rain”
+Ganancia
+Data rate Avg. TX
+
+Sí
+IEC 68-2-6
+IEC 68-2-14
+IEC 68-2-5 a 40 °C,
+Equivalente: ETS 300 019-1-4
+ETS 300 019-1-4,
+Equivalente: MIL-STD-810 G Método 506.5
+27 dBi
+
+(Tolerancia de +/- 2dB)
+
+1 x BPSK (1/2) 24dBm
+2 x QPSK (1/2) 24dBm
+2 x QPSK (3/4) 24dBm
+4 x 16QAM (1/2) 24dBm
+4 x 16QAM (3/4) 24dBm
+6 x 64QAM (2/3) 23dBm
+6 x 64QAM (3/4) 22dBm
+6 x 64QAM (5/6) 21dBm
+8 x 256QAM (3/4) 20dBm
+8 x 256QAM (5/6) 19dBm
+Data rate Sensivity
+
+Requerido
+
+(Tolerancia de +/- 2dB)
+
+1 x BPSK (1/2) -96dBm
+2 x QPSK (1/2) -95dBm
+2 x QPSK (3/4) -92dBm
+4 x 16QAM (1/2) -90dBm
+4 x 16QAM (3/4) -86dBm
+6 x 64 QAM (2/3) -83dBm
+6 x 64 QAM (3/4) -77dBm
+6 x 64QAM (5/6) -74dBm
+8 x 256QAM (3/4) -69dBm
+8 x 256 QAM (5/6) -65dBm
+
+Requerido
+
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+CARLOS
+SANTIAGO
+TAPIA CHICA
+
+ENRIQUE OCTAVIO
+PALACIOS
+RIQUETTI
+
+________________________
+Ing. Santiago Tapia C.
+Elaborador
+
+________________________
+Ing. Enrique Palacios R.
+Revisor
+
+

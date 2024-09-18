@@ -1,0 +1,1662 @@
+ANSI/AWWA C561-04
+(First Edition)
+
+The Authoritative Resource for Safe Drinking WaterSM
+
+AWWA Standard
+
+Fabricated Stainless
+Steel Slide Gates
+
+Effective date: March 1, 2004.
+First edition approved by AWWA Board of Directors Jan. 18, 2004.
+Approved by American National Standards Institute Dec. 31, 2003.
+
+Advocacy
+Communications
+Conferences
+Education and Training
+䉴 Science and Technology
+Sections
+
+6666 West Quincy Avenue
+Denver, CO 80235-3098
+T 800.926.7337
+www.awwa.org
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+AWWA Standard
+This document is an American Water Works Association (AWWA) standard. It is not a specification. AWWA standards
+describe minimum requirements and do not contain all of the engineering and administrative information normally
+contained in specifications. The AWWA standards usually contain options that must be evaluated by the user of the
+standard. Until each optional feature is specified by the user, the product or ser vice is not fully defined. AWWA
+publication of a standard does not constitute endorsement of any product or product type, nor does AWWA test, certify,
+or approve any product. The use of AWWA standards is entirely voluntary. AWWA standards are intended to represent a
+consensus of the water supply industr y that the product described will provide satisfactory service. When AWWA revises
+or withdraws this standard, an official notice of action will be placed on the first page of the classified adver tising
+section of Journal AWWA. The action becomes effective on the first day of the month following the month of Journal
+AWWA publication of the official notice.
+
+American National Standard
+An American National Standard implies a consensus of those substantially concerned with its scope and provisions. An
+American National Standard is intended as a guide to aid the manufacturer, the consumer, and the general public. The
+existence of an American National Standard does not in any respect preclude anyone, whether that person has
+approved the standard or not, from manufacturing, marketing, purchasing, or using products, processes, or procedures
+not conforming to the standard. American National Standards are subject to periodic review, and users are cautioned
+to obtain the latest editions. Producers of goods made in conformity with an American National Standard are
+encouraged to state on their own responsibility in advertising and promotional materials or on tags or labels that the
+goods are produced in conformity with particular American National Standards.
+CAUTION NOTICE: The American National Standards Institute (ANSI) approval date on the front cover of this standard
+indicates completion of the ANSI approval process. This American National Standard may be revised or withdrawn at
+any time. ANSI procedures require that action be taken to reaffirm, revise, or withdraw this standard no later than five
+years from the date of publication. Purchasers of American National Standards may receive current information on all
+standards by calling or writing the American National Standards Institute, 25 W. 43rd St., Fourth Floor, New York, NY
+10036; (212) 642-4900.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Science and Technology
+AWWA unites the drinking water community by developing and distributing authoritative scientific and technological
+knowledge. Through its members, AWWA develops industry standards for products and processes that advance public
+health and safety. AWWA also provides quality improvement programs for water and wastewater utilities.
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic
+or mechanical, including photocopy, recording, or any information or retrieval system, except in the form of brief
+excerpts or quotations for review purposes, without the written permission of the publisher.
+Copyright © 2004 by American Water Works Association
+Printed in USA
+
+ii
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+Committee Personnel
+The AWWA Standards Committee on Slide Gates, which developed this standard, had the
+following personnel at the time of approval:
+David C. Wheelock, Chair
+Consumer Members
+R.J. Alberts, City of Pasco, Pasco, Wash.
+
+(AWWA)
+
+Ronald Arrington, US Bureau of Reclamation, Denver, Colo.
+
+(USBR)
+
+Arshed Ramankutty, Detroit Water and Sewerage, Detroit, Mich.
+
+(AWWA)
+
+H.C. Suan, Edmonton Public Works, Edmonton, Alta.
+
+(AWWA)
+
+General Interest Members
+L.C. Gerbig, URS Greiner, Denver, Colo.
+
+(AWWA)
+
+S.C. Danos,* Standards Council Liaison, Littleton Water Department,
+Littleton, Mass.
+
+(AWWA)
+
+K.H. Hipps, Consoer Townsend Envirodyne, Chicago, Ill.
+
+(AWWA)
+
+M.R. Johnson, R.H. White Construction, Auburn, Mass.
+
+(AWWA)
+
+P.J. Olson,* Standards Engineer Liaison, AWWA, Denver, Colo.
+
+(AWWA)
+
+D.C. Wheelock, Brazos River Authority, Waco, Texas
+
+(AWWA)
+
+Producer Members
+P.E. Brunelle, Rodney Hunt Company, Orange, Mass.
+
+(AWWA)
+
+Philippe Cote, H. Fontaine Ltd., Magog, PQ, Quebec
+
+(AWWA)
+
+David Niblett, Ashbrook Corporation, Houston, Texas
+
+(AWWA)
+
+G.E. Whipps, Whipps Inc., Athol, Mass.
+
+(AWWA)
+
+*Liaison, nonvoting
+
+iii
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+This page intentionally blank.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+Foreword
+This foreword is for information only and is not a part of AWWA C561.
+I. Introduction.
+I.A. Background. A slide gate is a single-faced valve consisting of an open
+frame and a slide. Examples of where this type of “valve” is used include controlling
+flow at openings in tank walls and at ends of pipes. The term slide gate has been
+adopted for use by this series of standards, which supersede AWWA C501-92. The
+standards are
+C560—Cast Metal Slide Gates
+C561—Fabricated Stainless Steel Slide Gates
+C562—Fabricated Aluminum Slide Gates
+C563—Fabricated Nonmetal Slide Gates
+Other terms used to describe single-faced valves include penstocks and sluice gates.
+These gates are raised and lowered by means of a stem or rod, usually manually
+actuated or power-actuated hoists.
+The slide gates represented by the C-560 through C-563 series differ in material
+and in the means of sealing between the slide and the fixed frame.
+C560 gates have a cast-metal slide and frame with machined metal seating faces
+and wedges to force the slide to seal between the seating faces on the slide and frame.
+C561 gates have a fabricated, reinforced stainless steel slide and frame with ultra
+high molecular weight (UHMW) polyethylene seating faces.
+C562 gates have a fabricated, reinforced aluminum slide and frame with
+UHMW polyethylene seating faces.
+C563 gates have a fiberglass reinforced composite plastic or rigid compressed
+plastic slide and fiberglass reinforced composite plastic or stainless steel frame with
+UHMW polyethylene seating faces.
+I.B. History. The original AWWA standard for slide gates (then referred to as
+sluice gates) was approved as tentative in June 1941 and described cast-iron gates.
+The tentative standard was revised and approved in 1967 as AWWA Standard C501.
+Subsequent editions were approved in January 1980, June 1987, and June 1992.
+Following the latest revision, the Standards Council authorized the development of
+additional standards for slide gates to recognize the widespread use of slide gates
+similar to C501 gates in performance but manufactured by different methods and of
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+vii
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+requirements more stringent than those required by the state. To evaluate the health
+effects of products and drinking water additives from such products, state and local
+agencies may use various references, including
+1. An advisory program formerly administered by USEPA, Office of Drinking
+Water, discontinued on April 7, 1990.
+2. Specific policies of the state or local agency.
+Two standards developed under the direction of NSF, ANSI†/NSF‡60, Drinking
+Water Treatment Chemicals—Health Effects, and ANSI/NSF 61, Drinking Water
+System Components—Health Effects.
+Other references, including AWWA standards, Food Chemicals Codex, Water
+Chemical Codex,§ and other standards considered appropriate by the state or local
+agency.
+
+*Persons outside the United States should contact the appropriate authority having jurisdiction.
+†American National Standards Institute, 25 W. 43rd St., Fourth Floor, New York, NY 10036.
+‡NSF International, 789 N. Dixboro Rd., Ann Arbor, MI 48105.
+§Both publications available from National Academy of Sciences, 2102 Constitution Ave. N.W.,
+Washington, DC 20418.
+
+viii
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+different materials. For consistency among the new standards and recognizing the
+new designs employed, the Standards Council directed that all of the standards use
+the name “slide gate” in lieu of the term “sluice gate.” The Standards Council also
+directed that C501 be redesignated C560, with subsequent slide gate standards
+numbered consecutively. This is the first edition of C561, Standard for Fabricated
+Stainless-Steel Slide Gates, and was approved on Jan. __, 2004.
+I.C. Acceptance. In May 1985, the US Environmental Protection Agency
+(USEPA) entered into a cooperative agreement with a consortium led by NSF
+International (NSF) to develop voluntary third-party consensus standards and a
+certification program for all direct and indirect drinking water additives. Other
+members of the original consortium included the American Water Works Association
+Research Foundation (AWWARF) and the Conference of State Health and
+Environmental Managers (COSHEM). The American Water Works Association
+(AWWA) and the Association of State Drinking Water Administrators (ASDWA)
+joined later.
+In the United States, authority to regulate products for use in, or in contact with,
+drinking water rests with individual states.* Local agencies may choose to impose
+
+ix
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Various certification organizations may be involved in certifying products in
+accordance with ANSI/NSF 61. Individual states or local agencies have authority to
+accept or accredit certification organizations within their jurisdiction. Accreditation
+of certification organizations may vary from jurisdiction to jurisdiction.
+Annex A, “Toxicology Review and Evaluation Procedures,” to ANSI/NSF 61
+does not stipulate a maximum allowable level (MAL) of a contaminant for substances
+not regulated by USEPA final maximum contaminant level (MCL). The MALs of an
+unspecified list of “unregulated contaminants” are based on toxicity testing guidelines
+(noncarcinogens) and risk characterization methodology (carcinogens). Use of Annex
+A Procedures may not always be identical, depending on the certifier.
+AWWA C561 does not address additives requirements. Thus, users of this
+standard should consult the appropriate state and local agency having jurisdiction in
+order to
+1. Determine additive requirements, including applicable standards.
+2. Determine the status of certifications by all parties offering to certify products
+for contact with, or treatment of, drinking water.
+3. Determine current information on product certification.
+II. Special Issues. In creating this standard, the committee initially drafted a
+standard governing a slide gate design with an integral seat–seal system utilizing
+ultrahigh molecular weight polyethylene as the resilient material providing the seat
+and seal. This design and material, it was felt, offered the widest application to the
+water industry, particularly to high head applications and those applications subject
+to abrasive conditions. However, an older gate design utilizing a resilient seal separate
+from the seat has been in use for a number of years and performs well. Accordingly,
+this standard was broadened to include the older design with a seal separate from the
+seat. The purchaser is urged to consult with the manufacturers on the application of
+the different slide gate designs to the particular application.
+III. Use of This Standard. It is the responsibility of the user of an AWWA
+standard to determine that the products described in that standard are suitable for use
+in the particular application being considered.
+III.A. Purchaser Options and Alternatives. The following items should be
+covered in the purchaser’s specifications:
+1. Standard used—that is, AWWA C561, Standard for Fabricated Stainless
+Steel Slide Gates, of latest revision.
+2. Number of units required.
+
+3. Size and type of closure—conventional or flush-bottom.
+4. Any drawings and material specifications required of the supplier or of the
+manufacturer (Sec. 4.1 and 4.2).
+5. If test records must be viewed (Sec. 4.3.2).
+6. Acceptable materials (Sec. 4.3.3).
+7. Design head measured from the surface of water to centerline of gate, in feet
+(meters), for the following:
+a. Seating head
+b. Unseating head
+8. Operating head measured from surface of water to centerline of gate, in feet
+(meters).
+9. Type of gate mounting used: If a wall thimble is used, required length and
+shape (Sec. 4.4.10).
+10. If seals, separate from seats, are to be provided (Sec. 4.3.3.8 and 4.4.3).
+11. Rising stem or nonrising stem (Sec. 4.4.7 and 4.4.11).
+12. Type of actuator—manual, electric-motor-driven, or hydraulic-cylinder. If
+electric-motor or hydraulic-cylinder, the purchaser should refer to ANSI/AWWA
+C540, Standard for Power-Actuating Devices for Valves and Slide Gates.
+13. If hydraulic or pneumatic actuators are specified, provide cylinder operating
+media and pressure (refer to ANSI/AWWA C540).
+14. Omission of stem covers if not required (Sec. 4.4.13.6).
+15. If a gate position indicator is to be provided with the actuator (Sec. 4.4.13.7).
+16. Weld inspections, if required (Sec. 4.5.2.2).
+17. Inspection by purchaser, if required (Sec. 5.1).
+18. Leakage tests in the shop (Sec. 5.2.1) and in the field (Sec. 5.2.2), if required.
+19. Separate shipment of embedded items, if required (Sec. 6.2).
+20. Affidavit of compliance, if required (Sec. 6.3).
+21. Definition of any special design and construction required for conditions
+beyond the scope of this standard, such as throttling service or downward acting gates,
+including intended operation frequency and duration.
+22. Frequency of operation and special operating conditions, such as ice
+formation.
+23. An installation-requirement drawing showing clearances, wall to floor thicknesses, details of wall pipe and thimble installation, and location of actuator.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+x
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+III.B. Modification to Standard. Any modification to the provisions, definitions, or terminology in this standard must be provided in the purchaser’s
+specifications.
+IV. Major Revisions. This is the first edition of this standard.
+V. Comments. If you have any comments or questions about this standard,
+please call the AWWA Volunteer and Technical Support Group at 303.794.7711,
+FAX 303.795.7603, or write to the group at 6666 West Quincy Avenue, Denver, CO
+80235-3098, or by e-mail at standards@awwa.org.
+
+xi
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+This page intentionally blank.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth Tech Inc/5906698001, User=Yanez, Simon
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+Contents
+All AWWA standards follow the general format indicated subsequently. Some variations from this format
+may be found in a particular standard.
+PAGE
+
+SEC.
+
+PAGE
+
+Foreword
+
+4
+
+Requirements
+
+I
+I.A
+I.B
+I.C
+II
+III
+III.A
+
+4.1
+
+4.3
+4.4
+4.5
+4.6
+
+Data to Be Provided by
+the Supplier .................................... 4
+Data to Be Provided by
+the Manufacturer ............................ 5
+Materials ............................................ 5
+General Design .................................. 7
+Manufacture ......................................13
+Installation ....................................... 15
+
+5
+
+Verification
+
+5.1
+5.2
+
+Inspection ........................................ 16
+Test Procedures................................ 16
+
+Standard
+
+6
+
+Delivery
+
+1
+
+General
+
+1.1
+1.2
+1.3
+
+Scope ................................................. 1
+Purpose .............................................. 1
+Application ........................................ 1
+
+6.1
+6.2
+6.3
+
+Marking ........................................... 17
+Shipment ......................................... 17
+Affidavit of Compliance................... 17
+
+III.B
+IV
+V
+
+Introduction..................................... vii
+Background...................................... vii
+History............................................. vii
+Acceptance ...................................... viii
+Special Issues.......................................ix
+Use of This Standard ........................ ix
+Purchaser Options and
+Alternatives .................................... ix
+Modification to Standard....................xi
+Major Revisions ................................ xi
+Comments ........................................ xi
+
+4.2
+
+Appendix
+2
+
+References.......................................... 2
+
+3
+
+Definitions ........................................ 4
+
+A
+
+Force Required to Actuate
+Fabricated Stainless Steel Gates..... 19
+
+v
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+SEC.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+This page intentionally blank.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+ANSI/AWWA C561-04
+(First Edition)
+
+AWWA Standard
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Fabricated Stainless
+Steel Slide Gates
+SECTION 1:
+
+GENERAL
+
+Sec. 1.1 Scope
+This standard describes fabricated stainless steel slide gates with full aperture
+closure, designed for either seating or unseating head, or both, in ordinary water
+supply service. The stainless steel gates have nonmetallic seats, which may be of selfadjusting design or may cooperate with adjustable wedging devices or pressure pads.
+The gates may be used for square, rectangular, or round openings. The gates may be
+conventional-closure or of flush-bottom-closure type.
+
+Sec. 1.2
+
+Purpose
+The purpose of this standard is to provide the minimum requirements for the
+above-defined fabricated stainless steel slide gates, including materials, general design,
+manufacture, testing, inspection, and shipment.
+
+Sec. 1.3
+
+Application
+This standard can be referenced in specifications for purchasing and receiving
+stainless steel slide gates and can also be used as a guide for designing and
+
+1
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+2 AWWA C561-04
+
+manufacturing these gates. The stipulations of this standard apply when this
+document has been referenced and then apply only to fabricated stainless steel gates
+in water supply service applications.
+
+SECTION 2:
+
+REFERENCES
+
+This standard references the following documents. In their latest editions, they
+form part of this standard to the extent specified within the standard. In any case of
+conflict, the requirements of this standard shall prevail.
+AISI* 1117—Standard Designation for Low-Carbon Steel.
+AISI 4140—Standard Designation for Low-Alloy Hardenable Steel.
+AISI 8620—Standard Designation for Low-Alloy Hardenable Steel.
+ANSI†/ASME‡ B16.1—Cast-Iron Pipe Flanges and Flanged Fittings.
+ANSI/AWWA C540—Power-Actuating Devices for Valves and Slide Gates.
+ASME Welding Code—Section IX.
+ASTM§ A36/A36M—Standard Specification for Carbon Structural Steel.
+ASTM A48—Standard Specification for Gray Iron Castings.
+ASTM A126—Standard Specification for Gray Iron Castings for Valves,
+Flanges, and Pipe Fittings.
+ASTM A167—Standard Specification for Stainless and Heat-Resisting Chromium-Nickel Steel Plate Sheet and Strip.
+ASTM A240/A240M—Standard Specification for Heat-Resisting ChromiumNickel Stainless Steel Plate, Sheet, and Strip for Pressure Vessels.
+ASTM A249—Standard Specification for Welded Austenitic Steel Boiler,
+Superheater, Heat-Exchanger, and Condenser Tubes.
+ASTM A269—Standard Specification for Seamless and Welded Austenitic
+Stainless Steel Tubing for General Service.
+ASTM A276—Standard Specification for Stainless Steel Bars and Shapes.
+ASTM A312—Standard Specification for Seamless and Welded Austenitic
+Stainless Steel Pipes.
+*American Iron & Steel Institute, 1101 17th St. N.W., Washington, DC 20036.
+†American National Standards Institute, 25 W. 43rd St., Fourth Floor, New York, NY 10036.
+‡American Society of Mechanical Engineers, Three Park Ave., New York, NY 10016.
+§ASTM International, 100 Barr Harbor Dr., West Conshohocken, PA 19428.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+FABRICATED STAINLESS STEEL SLIDE GATES 3
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+ASTM A356—Standard Specifications for Steel Castings, Carbon, Low-Alloy
+and Stainless Steel, Heavy-Walled for Steam Turbines.
+ASTM A376—Standard for Seamless Austenitic Steel Pipe for High-Temperature Central-Station Service.
+ASTM A536—Standard Specification for Ductile Iron Castings.
+ASTM A743—Standard Specification for Castings, Iron Chromium, IronChromium-Nickel, Corrosion Resistant, for General Application.
+ASTM B85—Alloy SC84B.
+ASTM B98/B98M—Standard Specification for Copper-Silicon Alloy Rod, Bar,
+and Shapes.
+ASTM B139—Standard Specification for Phosphor Bronze Rod, Bar, and
+Shapes.
+ASTM B179—Standard Specification for Aluminum Alloys in Ingot and
+Molten Forms for Castings from All Casting Processes.
+ASTM B505—Standard Specification for Copper-Base Alloy Continuous
+Castings.
+ASTM B584—Standard Specification for Copper-Alloy Sand Castings for
+General Application.
+ASTM D471—Standard Test Method for Rubber Property—Effect of Liquids.
+ASTM D1149—Standard Test Method for Rubber Deterioration—Surface
+Ozone Cracking in a Chamber.
+ASTM D2000—Standard Classification System for Rubber Products in
+Automotive Applications.
+ASTM D4020—Standard Specifications for Ultra-High-Molecular-Weight
+Polyethylene Molding and Extrusion Materials.
+ASTM F593—Standard Specifications for Stainless Steel Bolts, Hex Cap
+Screws, and Studs.
+ASTM F594—Standard Specifications for Stainless Steel Nuts.
+AWS* D 1.6—Structural Welding Code, Stainless Steel.
+CDA†—Copper Alloy Numbers. (Note: CA precedes alloy numbers defined by CDA.)
+SSPC‡ SP6—Commercial Blast Cleaning.
+
+*American Welding Society, 550 N.W. LeJeune Rd., Miami, FL 33126.
+†Copper Development Association, Greenwich Office Park 2, P.O. Box 1840, Greenwich, CT 06836.
+‡Society for Protective Coatings, 40 24th St., Sixth Floor, Pittsburgh, PA 15222.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+4 AWWA C561-04
+
+DEFINITIONS
+
+The following definitions shall apply in this standard:
+1. Constructor: The party that provides the work and materials for
+placement and installation.
+2. Design head: Design head (seating or unseating) is the maximum
+differential head that will actually be applied to the gate under worst-case conditions.
+3. Manufacturer: The party that manufactures, fabricates, or produces
+materials or products.
+4. Operating head: Operating head is the highest differential head on the
+gate when it must be operated.
+5. Purchaser: The person, company, or organization that purchases any
+materials or work to be performed.
+6. Seal: Resilient material attached to the gate slide or gate frame to
+prevent leakage.
+7. Seat: Horizontal and vertical bearing surfaces that support the gate.
+Seats can be attached to the gate frame or to the gate slide and can also serve to
+prevent leakage.
+8. Sill: Gate frame bottom contact surface for the slide on flush-bottom
+gates.
+9. Supplier: The party that supplies material or services. A supplier may or
+may not be the manufacturer.
+
+SECTION 4:
+Sec. 4.1
+
+REQUIREMENTS
+
+Data to Be Provided by the Supplier
+When required, the supplier shall provide certified drawings and material
+specifications of the equipment to be supplied under the provisions of this standard.
+The drawings shall be in sufficient detail for the purchaser to determine if the
+proposed equipment meets the specifications. The drawings shall show the
+dimensions of the gate opening.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+SECTION 3:
+
+FABRICATED STAINLESS STEEL SLIDE GATES 5
+
+Sec. 4.2
+
+Data to Be Provided by the Manufacturer
+When required, the manufacturer shall submit, for acceptance by the purchaser,
+certified drawings showing the principal dimensions, general construction, and
+materials used for all parts of the slide gates and actuator. All slide gates shall be
+manufactured and provided in accordance with these drawings after they have been
+accepted by the purchaser. The manufacturer shall also provide illustrated catalog
+data and parts schedules in sufficient detail to serve as a guide for assembly and
+disassembly of the gate and for ordering repair parts.
+
+Materials
+4.3.1 Physical and chemical properties. The requirements of all AWWA,
+ANSI, ASTM, CDA, or other standards referenced in this text shall govern the
+physical and chemical characteristics of the slide gate components. Dual certified
+stainless steel permits “L” grades to be used with higher mechanical properties
+associated with the standard grades of 304 and 316 stainless steel.
+4.3.2 Tests. Whenever slide gate components are to be made in conformance with industry standards that include test requirements or testing procedures,
+such requirements or procedures shall be met by the manufacturer. The records of
+such tests shall be made available if required by the purchaser.
+4.3.3 Requirements. All material designated hereinafter, when used in slide
+gates produced according to this standard, shall conform to the requirements of the
+standards designated for each material listed.
+Materials shall conform to the following specifications:
+4.3.3.1 Thimble, frame, guides, slide, yoke, and stem guides: stainless steel
+ASTM A167, ASTM A240, ASTM A249, ASTM A269, Type 304 and 304L or
+Type 316 and 316L. “L” grades shall be used for all welded components.*
+4.3.3.2 Actuator pedestal and gear housing: cast iron—ASTM A126, class B
+or ASTM A48, class 30, or steel ASTM A36/A36M, or aluminum†—ASTM A356,
+ASTM B179, or stainless steel—ASTM A276, Type 304 or 316, or ASTM A312, or
+ASTM A376, or Ductile Iron-ASTM A536 grade 65-45-12.
+4.3.3.3 Gears: steel—AISI 8620, AISI 4140, or AISI 1117.
+*Gates produced according to this standard may be fabricated of other grades of stainless steel if
+specified by the purchaser, to meet particular application conditions. Consult the manufacturer
+regarding availability.
+†Not recommended for use with stainless steel gates where aluminum is in direct contact with stainless
+steel.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Sec. 4.3
+
+6 AWWA C561-04
+
+4.3.3.11 Anchor bolts and fasteners: stainless steel—ASTM F593 or ASTM
+F594, alloy group 1 or group 2, or ASTM A276, Type 304 or 316.
+4.3.3.12 Flush-bottom sill: Resilient sills for flush-bottom-type gates shall
+be extruded or molded neoprene. Reclaimed rubber, as described in ASTM D2000,
+shall not be used.
+4.3.3.13 Flush-bottom sill retainer: stainless steel—ASTM A276, Type 304
+or 316.
+4.3.3.14 Wedges and pressure pads: stainless steel—ASTM A276 Type 304
+or 316, or ASTM A743 Type CF8 or CF8M, or UHMW polyethylene ASTM
+D4020.
+
+*If bronze is not acceptable, consult the manufacturer for alternatives.
+†Some materials described in the cited documents are subject to dealuminization or dezincification in
+some waters. In the absence of specific provisions by the purchaser, any material listed shall be
+acceptable. However, it is recommended that the purchaser prohibit the use of materials identified as
+being subject to dezincification or dealuminization unless experience has shown that dezincification
+or dealuminization has not been a problem.
+‡When immersed, Type 303 stainless steel is potentially susceptible to end grain attack at machined or
+cut faces.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+4.3.3.4 Thrust nuts:
+4.3.3.4.1 Rising stem thrust nuts: stainless steel ASTM A276, Type 304 or
+316 or ASTM A743, grade CF8 or CF8M.
+4.3.3.4.2 Nonrising stem thrust nuts: bronze ASTM B584.*
+4.3.3.5 Stem couplings: stainless steel—ASTM A276, Type 304 or 316, or
+bronze ASTM B584 (CA 863, CA 865, or CA 873).†
+4.3.3.6 Gate actuator lift nut: bronze—ASTM B584 (CA 865, CA 863)
+or ASTM B505 (C95800).
+4.3.3.7 Seats: cast or extruded ultrahigh molecular weight polyethylene
+(UHMW-PE), ASTM D4020.
+4.3.3.8 Seals: When used, seal material is to be nonmetallic resilient
+material, such as neoprene, EPDM, or polyethylene. Reclaimed rubber, as described
+in ASTM D2000, shall not be used.
+4.3.3.9 Stem guide bushings: cast or extruded UHMW-PE ASTM D4020,
+or stainless steel ASTM A276 Type 304 or 316, or bronze ASTM B584 (CA 932 or
+CA 873), ASTM B98/B98M (CA 651 or CA 655), or ASTM B139 (CA 510).
+4.3.3.10 Stems: stainless steel ASTM A276, Type 304, 316, or 303.‡
+
+FABRICATED STAINLESS STEEL SLIDE GATES 7
+
+General Design
+4.4.1 Frames.
+4.4.1.1 Material. The frame shall be made of wrought stainless steel of the
+specified grade. The minimum material thickness of all members except seal retainers
+shall be ¼ in. (6.4 mm).
+4.4.1.2 Design. The frame shall be designed for the design head indicated
+with a minimum safety factor of 4 with regard to ultimate tensile, compressive, and
+shear strength and a minimum safety factor of 2 with regard to tensile, compressive,
+and shear yield strength. All mating surfaces shall be accurately formed to ensure
+proper operation.
+4.4.2 Slides.
+4.4.2.1 Material. The slide shall be made of wrought stainless steel of the
+specified grade. The minimum thickness of all members except seal retainers shall be
+1
+
+/4 in. (6.4 mm).
+4.4.2.2 Design. The slide shall be designed for the minimum safety factor
+of 4 with regard to ultimate tensile, compressive, and shear strength, and a minimum
+safety factor of 2 with regard to the tensile, compressive, and shear yield strength.
+The slide shall have surfaces to engage the guides for its full length. Slide deflection
+should not exceed 1/360 of gate width at maximum design head. All mating surfaces
+shall be accurately formed to ensure proper operation. The lateral clearance between
+the frame and the guides shall be controlled so as to permit free travel.
+4.4.3 Seats and seals.
+4.4.3.1 Design. The gate may have an integral seat–seal system or a seal
+separate from the seat. Seats and seals shall be secured to the frame or to the slide
+in a manner to ensure they will remain in place, free of distortion or loosening during
+the life of the gate.
+4.4.3.2 Seat contact. The seating–sealing surfaces shall contact their mating
+surfaces so as to meet the specified leakage requirements in Sec. 5.2.2.1. Seat contact
+pressure shall not exceed 600 psi at the design head. For this calculation, the top seat
+and bottom seat, if any, shall not be considered as load bearing.
+4.4.4 Flush-bottom sill.
+4.4.4.1 Design. The design of the sill shall be such as to provide resistance
+against leakage. The maximum allowable leakage is specified in Sec. 5.2.2.1. The seal
+at the sill shall be mounted on the slide or the frame and shall be held securely in
+place.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Sec. 4.4
+
+8 AWWA C561-04
+
+4.4.4.2 Material tests. Rubber compounds shall be capable of withstanding
+an ozone-resistance test when tested in accordance with ASTM D1149. The tests shall
+be conducted on unstressed samples for 70 hr at 104°F (40°C) without visible
+cracking in the surfaces of the test samples after the tests. Rubber compounds shall
+have less than 2 percent volume increase when tested in accordance with ASTM
+D471, after being immersed in distilled water at 73.4°F ± 2°F (23°C ± 1°C) for 70 hr.
+4.4.5 Guides.
+4.4.5.1 Material. Guides shall be stainless steel of the specified material type.
+The minimum material thickness, except for seal retainers, shall be 1/4 in. (6.4 mm).
+4.4.5.2 Design. Guides shall be integral with the frame or bolted to the
+frame. Guides, including their bolting, if any, shall be designed to resist the design
+head indicated and the wedging action, if any, with a safety factor of 4 with regard to
+ultimate tensile, compressive, and shear strength and a minimum safety factor of 2
+with regard to the tensile, compressive, and shear yield strength. The guides shall
+support at least one half of the slide height when the slide is in full open position.
+Guides of self-contained gates shall be designed to adequately support the yoke and
+resist all operating loads with a safety factor of 4 on the ultimate or 2 on the yield
+with regard to the tensile, compressive, and shear strengths of the material.
+4.4.6 Yoke. Self-contained gates shall be provided with a wrought stainless
+steel yoke designed to withstand the thrust of the actuator when a 40-lb (178-N)
+effort is placed on the handwheel or crank, with a minimum safety factor of 4 with
+regard to ultimate tensile, compressive, and shear strength and a minimum safety
+factor of 2 with regard to the tensile, compressive, and shear yield strength. Yokes for
+hydraulic cylinders shall meet the above criteria at the output thrust at maximum
+working pressure (pressure relief valve setting). In addition to the above criteria for
+manual operation, yokes for electric actuators shall be designed for a safety factor of
+1.5 with regard to yield strength at the locked-rotor torque of the actuator. Yoke
+deflection should not exceed 1/360 of gate width at maximum operating load. The
+actuator mounting and guide contact surfaces shall be accurately formed to ensure
+proper stem alignment. The yoke shall be designed to allow removal of the slide from
+the gate assembly.
+4.4.7 Stem connection. The stem shall be connected to the slide by a thrust
+nut or by a thru-bolt connection. The connection shall be designed to prevent
+rotation of the thrust nut. Rising stem thrust nuts shall be threaded and keyed or
+threaded and pinned to the stem. Nonrising stem thrust nuts shall be threaded but not
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+FABRICATED STAINLESS STEEL SLIDE GATES 9
+
+keyed. The connection shall be designed to withstand the stated design load with a
+minimum safety factor of 4 with regard to ultimate tensile, compressive, and shear
+strength and a minimum safety factor of 2 with regard to the tensile, compressive, and
+shear yield strength. The design load for the stem connection shall be (1) for manual
+actuator—the output thrust developed when 40-lb (178-N) effort is applied to the
+handwheel or crank; (2) for electric actuators—1.25 times the output thrust developed
+in the motor-locked rotor torque condition; (3) for hydraulic actuators—1.25
+times the output thrust developed by the maximum working pressure (pressure
+relief valve setting).
+4.4.8 Wedging devices and pressure pads. Adjustable wedges or pressure pads
+shall be provided to ensure seat contact when the gate is fully closed, for gates with
+seats that are not self-adjusting, when deemed necessary by the gate manufacturer to
+meet the specified leakage. The mating surfaces of these devices shall be accurately
+made and of sufficient contact area to assure proper operation. Adjusting mechanisms
+shall be so designed as to remain securely in place after adjustment.
+4.4.9 Assembly bolts, studs, nuts, and anchor bolts. All assembly bolts, studs,
+nuts, and anchor bolts shall be of such size and spacing as required to resist the design
+forces with a minimum safety factor of 4 with regard to ultimate tensile, compressive,
+and shear strength and a minimum safety factor of 2 with regard to the tensile,
+compressive, and shear yield strength. Bolting on circular flanged-back gates mounting
+to pipe flanges shall mate with class 25-lb or class 125-lb drilling as specified in ANSI/
+ASME B16.1. Mounting bolts or studs shall be of adequate number and spacing to
+seal the mounting flange and resist the shearing action caused by operating forces.
+Where adhesive anchors or expansion anchors are used, the bolt loads shall not exceed
+the bolt manufacturer’s recommendations.
+4.4.10 Wall thimbles.
+4.4.10.1 Material. Where thimbles are used, they shall be fabricated of the
+specified grade of wrought stainless steel. The minimum material thickness shall be
+1
+/4 in. (6.4 mm).
+4.4.10.2 Design. The cross section of the thimble shall be of a shape to
+inhibit pullout and water seepage. Provision for pipe attachment shall be made when
+specified. The front, or mounting flange shall be accurately formed to provide a
+suitable mounting surface and shall be provided with mounting fasteners that mate
+the gate frame drilling. Gate mounting studs shall be attached by nuts, no thinner
+than American Standard Finish Hex nuts, welded to the back of the thimble or by
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+10
+
+AWWA C561-04
+
+tapped holes in the thimble. Tapped holes, where used, shall have a minimum thread
+engagement of one-stud diameter. A ring or a flange around the outside of the wall
+box shall be provided to form a water stop and anchor ring in the concrete.
+4.4.10.3 Release of air. To permit entrapped air to escape as the thimble is
+being encased in concrete, holes shall be provided in each entrapment zone, formed
+by the reinforcing ribs, flanges, and water stops. The holes shall be 1½ in. (38 mm)
+in diameter and no more than 2 ft (600 mm) apart.
+4.4.11 Stem and stem couplings.
+4.4.11.1 Material. The stem shall be solid stainless steel of the specified
+grade.
+4.4.11.2 Design. The operating stem shall be rising or nonrising and shall
+be designed to withstand a manual actuator (or electric motor actuator in manual
+mode) tension load caused by the application of 40-lb (178-N) effort on the crank or
+handwheel or a 50-ft/lb (68-N/m) torque on a wrench nut without exceeding onefifth of the ultimate tensile strength of the stem material. In compression, the
+operating stem shall be designed for a critical buckling compressive load assuming a
+40-lb (178-N) effort on the crank or handwheel or a 50-ft/lb (68-N/m) torque on a
+wrench nut with a safety factor of 2. The critical buckling load shall be determined
+by using the Euler Column formula,* where C = 2. Where hydraulic-cylinder
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+actuators are used, the stem design force shall not be less than 1.25 times the output
+thrust of the hydraulic cylinder with a pressure equal to the maximum working
+pressure (pressure relief valve setting) of the hydraulic fluid supply. Where electricmotor-driven actuators are used, the stem design force shall not be less than 1.25
+times the output thrust of the unit in the stalled motor condition.
+4.4.11.3 Threads. Stem threads which generate gate motion (rising stem
+threads at the actuator lift nut or nonrising stem threads at the gate thrust nut) shall
+be machine cut or rolled American Standard general purpose Acme or stub Acme
+type. Stem coupling threads and rising stem thrust nut threads may be American
+Standard general purpose Acme or stub Acme or may be unified screw threads.
+Where unified screw threads are used, typically hydraulic-cylinder stem connections,
+the pitch may not be finer than Unified National Coarse (UNC). On rising-stem
+
+* Euler Column formula: P = Cπ2 EA (r/l )2, where P = axial load on stem, C defines end restraints
+conditions, E = modulus of elasticity, l = length or span between supports, r = radius of gyration, and
+A = area of stem, minor diameter for threaded portion of stem.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+FABRICATED STAINLESS STEEL SLIDE GATES 11
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+gates with manual actuators, the top of the stem shall be provided with a stop collar
+to be field adjusted according to the manufacturer’s instructions at the time of gate
+installation to prevent overclosing the gate.
+4.4.11.4 Coupling. Where stems are provided in more than one piece, the
+sections shall be joined together by solid couplings. The couplings shall be threaded
+and keyed or threaded and bolted and shall be of greater strength than the stem.
+4.4.11.5 Inverted gates. For all inverted-gate applications where the gate is
+lowered to open, a stop collar or other positive means shall be provided to prevent
+the loss of the slide from the guides.
+4.4.12 Stem guides. Stem guides shall be provided as required to meet the
+stem design requirements of Sec. 4.4.11.2. The stem guide brackets may be mounted
+on the gate guides or yoke or may be mounted on the wall of the chamber. Wallmounted guides shall provide lateral adjustment between the wall and the guide
+bracket and between the guide bracket and the guide for field alignment. Guides,
+which are mounted on the gate assembly, shall be designed and fabricated to assure
+proper alignment. The guides shall have adequate adjustment to permit proper
+alignment. The stem guide assemblies and their anchor bolts shall be designed to
+maintain the alignment under all operating loads. The stem guide shall be bushed
+with a maximum diametral clearance of 1/8 in. (3.2 mm). Guides shall be placed
+according to the manufacturer’s recommendations. The length–radius of gyration of
+the stem ratio shall not exceed 200.
+4.4.13 Manual actuators.
+4.4.13.1 Operation. The manual actuator shall have either a direct drive
+handwheel without reduction gearing or shall be crank-actuated with either single- or
+double-reduction gearing as necessary to meet lifting capacity required. The actuator
+shall be sized to permit slide operation with an effort of not more than 40-lb (178-N)
+pull on the handwheel–handcrank or 50-ft/lb (68-N/m) torque on the lift nut or
+input shaft, depending on the lift type. Maximum pull or torque to start the slide in
+motion must not exceed one and one-half times this amount. All components of the
+actuator shall be designed to withstand these input efforts or torques with a minimum
+safety factor of 5 with regard to ultimate tensile, compressive, and shear strength.
+4.4.13.2 General design. The actuators shall have a bronze lift nut threaded
+to fit the operating stem. Tapered roller or ball bearings shall be provided above and
+below the flange on the lift nut to take the thrust developed during gate operation.
+All bearings (and gears) shall be enclosed in a cast iron, ductile iron, or cast
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+12
+
+AWWA C561-04
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+aluminum housing with oil seals and O-rings or mechanical seals used to seal the
+unit. Fittings shall be provided so that all bearings (and gears) can be periodically
+lubricated. The actuator shall be supplied with a pedestal, torque tube, or baseplate,
+machined and drilled for mounting the lift housing and ready for bolting to the
+operating floor, top wall mounting bracket, or gate yoke, as required.
+4.4.13.3 Gear reducing actuators. The drive gears used in gear reduction
+actuators shall be of steel and accurately machined, with cut teeth to provide smooth
+and proper operation. Input shafts shall be stainless steel and supported by tapered
+roller or other roller-type bearings designed to withstand the radial and thrust loads
+generated during operation. All geared actuators shall be suitable for operation by use
+of a portable motor apparatus.
+4.4.13.4 Crank–handwheel. The crank shall be removable and fitted with
+a corrosion-resistant rotating handle. The maximum crank radius shall be 15 in.
+(380 mm), and the maximum handwheel diameter shall be 30 in. (760 mm).
+4.4.13.5 Opening direction. The direction of wheel or crank rotation to
+open the gate shall be indicated on the actuator. Single-speed actuators shall open
+counterclockwise. Two-speed actuators shall open counterclockwise for the low
+mechanical-advantage gear ratio (high-speed pinion shaft).
+4.4.13.6 Stem cover. Each rising stem unit shall be provided with a stem
+cover unless otherwise specified by the purchaser. The cover shall be made of
+galvanized steel pipe, or aluminum pipe, or a clear plastic pipe that will not discolor,
+crack, or become opaque for at least five years after installation. Slotted metal stem
+covers used to indicate a position shall have clear plastic windows. The cover shall be
+of sufficient diameter and length to permit full travel of the threaded stem without
+obstruction. The stem cover shall be vented, drained, and mounted in a housing or
+adaptor plate for easy field installation.
+4.4.13.7 Indicator. When specified, each rising-stem type actuator with a
+solid galvanized steel or aluminum pipe cover and all nonrising-stem actuators shall
+be provided with a dial or counter-type positions indicator to show the position of
+the gate at all times. The indicator shall be geared to the actuator.
+4.4.13.8 Dual actuators. All gates 48 in. (1,200 mm) and wider and having
+widths greater than twice their height shall be provided with dual stems and with two
+actuators connected by a tandem shaft for simultaneous operation. Cross shafting
+shall be stainless steel or aluminum. Flexible couplings shall be provided at each end
+of the cross shaftings.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+4.4.13.9 Surface preparation. All carbon steel and alloy surfaces shall be
+prepared in accordance with Sec. 4.5.3.1 and shall have a high-solids epoxy protective
+coating or equivalent applied. Coating does not have to be suitable for potable water
+unless the actuator is immersed.
+4.4.14 Powered actuators.
+4.4.14.1 Speed of operation. The normal rate of movement of the slide
+during gate operation shall be 10–14 in./min (254–356 mm/min) under specified
+operating conditions.
+4.4.14.2 Finish.
+4.4.14.2.1 Cleaning and preparation. Surfaces shall be prepared in accordance with Sec. 4.5.3.1.
+4.4.14.2.2 Submerged surfaces or surfaces subjected to splashing. After
+cleaning, these surfaces shall be primed and finish-coated in the manufacturer’s shop
+with a minimum two-coat high-solids epoxy coating or equivalent suitable for use in
+potable water. After coated surfaces are dry, all machined or bearing surfaces and the
+holes, both plain and threaded, shall be coated with a protective grease suitable for
+potable water until time of installation.
+4.4.14.2.3 Exposed abovegrade surfaces. After cleaning, these surfaces shall
+be primed and finish-coated in the manufacturer’s shop with a high-solids epoxy
+coating or equivalent suitable for outdoor exposure. The coating does not have to be
+suitable for potable water.
+4.4.14.3 Electric motor actuators. Electric motor actuators shall be per
+ANSI/AWWA C540, Sec. 3, except for speed of operation and finish previously
+noted.
+4.4.14.4 Cylinder actuators. Except for speed of operation and finish previously noted, cylinder actuators shall be in accordance with ANSI/AWWA C540, Sec. 4,
+with the exception of piston rods. All piston rods shall be 30,000 psi (206.8 Mpa)
+minimum yield strength, type 303, 304 or 17-4 PH stainless steel, hard chrome plated,
+0.0005-in. (0.0127 mm) thick and shall have a 20-micro in. (0.000508 mm) finish or
+smoother.
+
+Sec. 4.5
+
+Manufacture
+4.5.1 Workmanship. All parts in the slide gate and accessories shall be
+accurately manufactured. All like parts shall be interchangeable so that replacement
+parts can be provided at any time and attached in the field with a minimum of
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+FABRICATED STAINLESS STEEL SLIDE GATES 13
+
+AWWA C561-04
+
+fitting. All parts shall conform to the design dimensions and shall be free from defects
+in material and workmanship. All attaching bolt holes shall be drilled accurately to
+layout indicated on the drawings.
+4.5.1.1 Castings. All castings shall be clean, sound, and without defects that
+could impair their function.
+4.5.1.2 Welding. All welding of stainless steel shall be in accordance with
+AWS D 1.6 and ASME Welding Code—Section IX.
+4.5.2 Fabrication and finish.
+4.5.2.1 Workmanship. The gate, slide, and frame shall be fabricated to
+within 1/8 in. (3.2 mm) squareness, flatness, and dimensional tolerance with respect
+to gate opening. All bolt holes shall be accurately located to mounting patterns
+indicated on the drawings and shall be drilled or punched and free of all burrs and
+defects. All machined parts shall be accurately machined with interchangeable parts,
+so that replacement parts can be provided at any time and replaced in the field with
+minimal effort. All parts shall conform to the design dimensions and shall be free
+from defects in material and workmanship. Castings shall be clean, sound, and
+without defects that could impair their function.
+4.5.2.2 Welding
+4.5.2.2.1 Stainless steel. Gates shall be welded using the welding process
+described in AWS D 1.6 and ASME Welding Code—Section IX. Welding processes
+and welders shall be qualified and maintained as required by AWS D 1.6 section 4.
+All welds shall be visually inspected in accordance with AWS D 1.6 section 6.
+4.5.2.2.2 Additional inspection. No additional weld inspection is required
+unless specifically requested by the constructor or purchaser. If requested, the specific
+weld inspection shall be identified as required in reference to AWS D 1.6.
+4.5.3 Protective coatings and surface treatment.
+4.5.3.1 Items to be coated. The only items requiring protective coating are
+carbon and alloy steels, exposed to weather. All surfaces shall be cleaned to SSPC
+SP6, dry and free of grease before coating. After cleaning, the surfaces shall be primed
+and finished in the manufacturer’s shop with a high-solids epoxy coating or
+equivalent.
+4.5.3.2 Noncoated material. Galvanized or aluminum manual actuator
+housings, stem covers, or other hardware do not require protective coating.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+14
+
+FABRICATED STAINLESS STEEL SLIDE GATES 15
+
+4.5.3.3 Coating. After cleaning, the surfaces to be coated shall be primed
+and finished in the manufacturer’s shop with a high-solids epoxy coating or
+equivalent.
+4.5.3.4 Stainless steel cleaning. Stainless steel does not require protective
+coatings for corrosion resistance, and protective coatings are generally not recommended. All stainless steel parts shall be cleaned and free of grease and dirt, and all
+stainless steel weldments shall be cleaned and free of slag, weld spatter, and heat tint
+discoloration.
+
+Sec. 4.6
+
+Installation
+Handle, store, and install the wall thimble or other connection device, gate,
+actuator mechanism, stem, stem guides, and accessories in accordance with the
+manufacturer’s drawings and recommendations. Care shall be taken to avoid warping
+the gate frame and to maintain tolerances between seating faces. All gates, thimbles,
+stems, and actuators shall be plumbed, shimmed, and aligned accurately.
+4.6.1 Hole protection. Tapped holes in thimbles shall be plugged for
+protection.
+4.6.2 Surface protection. During construction, the surfaces of the connecting device, wall thimble, gate, actuators, and appurtenances shall be covered or
+otherwise protected from concrete spillage, paint, oil, and debris. Any damage that
+occurs to the connecting device or gate in storage or handling shall be corrected prior
+to installation of the gate or operating and testing the gate.
+4.6.3 Thimble. Thimbles shall be positioned accurately and supported to
+prevent shifting during the pouring of the surrounding concrete. Thimbles shall be
+carefully braced both horizontally and vertically to prevent distortion. Concrete shall
+be poured carefully to provide a good bond to the thimble without voids. Concrete
+shall be forced under the thimble up to the air-vent holes.
+4.6.4 Slide. After actuated gates have been completely installed, adjusted,
+and properly lubricated, each slide shall be operated for one complete cycle, openclose-open or close-open-close.
+4.6.5 Switch setting. After installation of gates with electric motor actuators,
+torque switches shall be adjusted and limit switches set according to the
+manufacturer’s recommendations. The gate shall then be operated through one
+complete cycle, open-close-open or close-open-close.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+AWWA C561-04
+
+4.6.6 Actuator storage. If hydraulic–cylinder actuators are to be stored at the
+jobsite for one month or longer, the cylinders shall be filled with oil at the storage
+site. If oil-filled cylinders are stored horizontally, they shall be rotated at least once
+per month. If electric actuators are to be stored at the jobsite for one month or
+longer, provisions shall be made to energize the electrical enclosure strip heaters.
+4.6.7 Cylinder. After installation of gates with hydraulic-cylinder actuators,
+the alignment of the cylinder with the gate shall be checked by opening the gate
+before water is turned into the gate chamber. Binding or side thrust on the cylinder
+rod shall be eliminated to ensure proper cylinder operation and long life of seals. All
+connections shall be carefully checked for leaks. After proper alignment has been
+obtained and absence of leaks assured, the gate, submerged or subjected to normal
+operating heads, shall be checked through another complete cycle of operation, openclose-open, or close-open-close.
+
+SECTION 5:
+Sec. 5.1
+
+VERIFICATION
+
+Inspection
+All work performed according to this standard shall be subject to inspection and
+approval by the purchaser. The purchaser shall have access to all places of
+manufacture where materials are produced or fabricated or where tests are conducted,
+and they shall be accorded full facilities for inspection and observation. Any slide gate
+or part that does not conform to the requirements of this standard shall be made
+satisfactory or shall be rejected and replaced.
+
+Sec. 5.2
+
+Test Procedures
+5.2.1 Shop testing.
+5.2.1.1 Performance tests. After completion, all seating and wedging surfaces shall be cleaned thoroughly of all foreign materials and final adjustments shall
+be made. The slide gate shall then be operated in the shop from the fully closed to
+the fully open positions to verify that the assembly is functional. A shop leakage test,
+meeting the requirements of Sec. 5.2.2, shall be made when specified in the
+purchaser’s specifications.
+Note: Shop leakage tests cannot be carried out for all types and sizes of gates.
+Purchasers should consult the manufacturer involved before specifying such tests.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth Tech Inc/5906698001, User=Yanez, Simon
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+16
+
+FABRICATED STAINLESS STEEL SLIDE GATES 17
+
+5.2.2 Field leakage test. A field leakage test may be performed by the
+purchaser after installation of the slide gate. The manufacturer shall be notified of the
+test so as to allow sufficient time to enable a representative of the manufacturer to be
+present at the test site. After all adjustments have been made and the mechanism
+properly lubricated, each gate slide shall be operated through one complete cycle as a
+final check on proper operation before starting the leakage test. Seating and unseating
+heads shall be measured from the top surface of the water to the center of the gate.
+5.2.2.1 Head. Under the design head, seating or unseating, as specified, the
+leakage shall not exceed 0.10 gpm/ft (1.24 lpm/m) of seating perimeter.
+
+SECTION 6:
+Sec. 6.1
+
+DELIVERY*
+
+Marking
+This standard has no applicable information for this section.
+
+Sec. 6.2
+
+Shipment
+Slide gates shall be complete when shipped. The manufacturer shall use all due
+and customary care in preparing them for shipment to avoid damage in handling or
+in transit. Particular care shall be taken to make certain that the parts are completely
+closed and locked in position before shipment. Parts that are to be embedded in
+concrete may be shipped separately if requested by the purchaser. Slide gates 24 in.
+(600 mm) and larger shall be bolted securely or otherwise fastened to skids in such a
+manner that they be safely handled.
+
+Sec. 6.3
+
+Affidavit of Compliance
+When required, the manufacturer shall provide an affidavit of compliance with
+all applicable provisions of this standard and with the purchaser’s specifications.
+
+*Governmental marking, packaging, and shipping references reflect US requirements. Users of AWWA
+C561 outside the US should verify applicable local and national regulatory requirements.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+This page intentionally blank.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+APPENDIX A
+Force Required to Actuate Fabricated Stainless Steel Gates
+
+The maximum force required to actuate a slide gate occurs during the unseating
+and raising of the weight of the slide. In closing, normally the downward motion of
+the gate, the weight of the stem and slide act in the direction of motion and reduce
+the force required.
+The force required to actuate the slide is, in part, empirically determined. The
+force may be calculated as shown below. For design purposes, the force should not be
+taken as less than 50 lb per lineal inch of gate opening height.
+F = 62.4 × f × A × H + 1.5 × P1 + P2
+([metric] F = 1,000 × f × A × H + 1.5 × P1 + P2)
+Where:
+F = total maximum force required to open slide, lb (N)
+f = friction factor of slide against seat
+A = area of gate opening, ft2 (m2)
+H = head of water at gate centerline, ft (m)
+P1 = weight of slide, lb (kg)
+P2 = weight of stem, lb (kg)
+The friction factor f between the slide and the seats may be taken as 0.20 for
+UHMW-PE seats. Appropriate changes in opening force calculations (bearing
+pressure and friction factor) must be made if seals, separate from the seats, are
+utilized. The weight of the stem and slide should be obtained from the manufacturer
+of the gate. It has not been general practice to reduce the weight of the slide or stem
+because of the buoyant effect of the water.
+The force required to overcome the frictional effect of the wedges is accounted
+for by empirically assigning one half of the weight of the slide to the opening force.
+
+19
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+This appendix is for information only and is not a part of AWWA C561.
+
+20
+
+AWWA C561-04
+
+On partially opened parallel closure gates and on wedge type gates, after release
+from the wedges, the force becomes
+F1 = 62.4 × f × A × H + P1 + P2 + P3
+([metric] F1 = 1,000 × f × A × H + P1 + P2 + P3)
+Where:
+F1 = total maximum force required for sustained effort on the actuator, lb (kg)
+P3 = 62.4 × H × a × c, lb
+([metric] P3 = 1,000 × H × a × c, N)
+Where:
+a = cross sectional area of gate slide (gate width x bottom rib plan
+dimension), ft2 (m2)
+c = coefficient
+P3 accounts for the downpull force caused by the flow velocity when the gate is
+slightly open. It is significant only on large gates and higher heads. The coefficient
+varies with the shape of the gate lip. The c coefficient can range from less than 0 to
+more than 1.0.
+The above forces are based on the use of a handwheel, crank, or electric-motoractuated gate where the lift nut turns around a threaded rising stem or where the
+threaded stem turns inside a thrust nut on nonrising stem applications.
+When cylinder actuators are employed, it is suggested that the total forces
+calculated above are to be multiplied by a 1.3 safety factor when starting the gate
+from closed to open.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+This page intentionally blank.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+This page intentionally blank.
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+This page intentionally blank.
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+--`,,`,,`,`````,````,`,`,,``,,,-`-`,,`,,`,`,,`---
+
+AWWA is the authoritative resource for knowledge, information and advocacy to improve the quality
+and supply of drinking water in North America and beyond. AWWA is the largest organization of water
+professionals in the world. AWWA advances public health, safety and welfare by uniting the efforts of
+the full spectrum of the drinking water community. Through our collective strength we become better
+stewards of water for the greatest good of the people and the environment.
+
+1P-4.2M-43561-2/04-CM
+
+Copyright American Water Works Association
+Provided by IHS under license with AWWA
+No reproduction or networking permitted without license from IHS
+
+Printed on recycled paper.
+
+Licensee=Earth
+Tech Inc/5906698001,
+Copyright © 2004 American Water Works
+Association,
+All User=Yanez,
+Rights Simon
+Reserved.
+Not for Resale, 06/23/2008 12:55:27 MDT
+
+

@@ -1,0 +1,745 @@
+ESPECIFICACIONES TÉCNICAS
+FECHA:
+29 de Marzo de 2022
+
+UNIDAD REQUIRENTE
+ADMINISTRATIVA
+
+OBJETO DE CONTRATACIÓN
+ADQUIRIR GENERADORES ELECTRICOS PARA EL GADMC LATACUNGA
+CPC: 461110113
+1. BASE LEGAL:
+ CONSTITUCIÓN DE LA REPÚBLICA DEL ECUADOR
+“Art. 260.- El ejercicio de las competencias exclusivas no excluirá el ejercicio concurrente de la
+gestión en la prestación de servicios públicos y actividades de colaboración y
+complementariedad entre los distintos niveles de gobierno.”
+ REGLAMENTO ADMINISTRACIÓN Y CONTROL DE BIENES DEL SECTOR
+PÚBLICO
+Art. 105.- Mantenimiento. - Estará a cargo de la Unidad responsable de esta actividad en cada
+entidad u organismo, conforme a las leyes ambientales que se dicten sobre esta materia a fin de
+minimizar el impacto ambiental. La unidad que requiera mantenimiento de sus bienes informará
+al titular de la Unidad Administrativa o la que hiciere sus veces de esta necesidad, para las
+correcciones respectivas, manteniéndose de esta forma buenas condiciones de los bienes de la
+entidad u organismo.
+ REGLAMENTO A LA LEY ORGANICA DEL SISTEMA NACIONAL DE
+CONTRATACIÓN PÚBLICA
+Art. 44.- Procedencia.- La subasta inversa electrónica se realizará cuando las entidades
+contratantes
+requieran adquirir bienes y servicios normalizados cuya cuantía supere el monto
+equivalente al 0,0000002 del Presupuesto Inicial del Estado, que no se puedan contratar a través
+del procedimiento de Compras por Catálogo Electrónico, y en la que los proveedores de
+dichos bienes y servicios, pujan hacia la baja el precio ofertado por medios electrónicos
+a través del Portal www.compraspublicas.gob.ec.
+ RESOLUCIÓN No. RE- SERCOP-2016-0000072
+Art. 105.- Formulación de las especificaciones técnicas y términos de referencia. - Antes de
+iniciar un procedimiento de contratación pública, la entidad contratante deberá contar con las
+especificaciones técnicas de los bienes o rubros requeridos; o, los términos de referencia para
+servicios, incluidos los de consultoría, de conformidad con lo que establezcan los análisis,
+diseños, diagnósticos, o estudios con los que, como condición previa, debe contar la entidad
+
+contratante.
+Art. 106.- Sujeción a los principios que rigen la contratación pública. - Las especificaciones
+técnicas o términos de referencia establecidos, se sujetarán a los principios que rigen la
+contratación pública, por lo tanto, las entidades contratantes no podrán afectar el trato justo e
+igualitario aplicable a todos los oferentes, ni establecer diferencias arbitrarias entre éstos, a
+través de dichas especificaciones técnicas o términos de referencia.
+Art. 107.- Empleo de especificaciones técnicas o términos de referencia. - Se entenderá como
+"especificación técnica" a las características fundamentales que deberán cumplir los bienes o
+rubros requeridos, mientras que los "términos de referencia" constituirán las condiciones
+específicas bajo las cuales se desarrollará la consultoría o se prestarán los servicios.
+La contratación de servicios estará sujeta a la formulación de términos de referencia. No
+obstante, atendiendo a la naturaleza del servicio requerido, se podrán incorporar adicionalmente
+especificaciones técnicas relativas a los bienes necesarios para su ejecución.
+Art. 109.- Elaboración de los términos de referencia. - Para elaborar los términos de referencia
+se tomarán en cuenta los siguientes aspectos: 1. Se establecerán en función de las necesidades
+específicas a ser cubiertas, de los objetivos, características y condiciones de prestación o
+desarrollo requeridos, así como, de los requisitos técnicos, funcionales o tecnológicos bajo los
+que deben ser prestados; 2. Los términos de referencia han de ser claros, completos y detallados
+de tal forma que no haya lugar a ambigüedades o contradicciones que propicien o permitan
+diferentes interpretaciones de una misma disposición, ni indicaciones parciales sobre
+determinado tópico; 3. Los términos de referencia para la contratación de servicios incluidos los
+de consultoría contendrán obligatoriamente los siguientes aspectos:
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+
+Antecedentes.
+Objetivos (¿Para qué?).
+Alcance (¿Hasta dónde?).
+Metodología de trabajo (¿Cómo?).
+Información que dispone la entidad (Diagnósticos, estadística, etc.).
+Productos o servicios esperados (¿Qué y cómo?).
+Plazo de ejecución: parciales y/o total (¿Cuándo?).
+Personal técnico/equipo de trabajo/recursos (¿Con quién o con qué?); y,
+Forma y condiciones de pago.
+
+4. Los términos de referencia se establecerán con relación exclusiva a los servicios objeto del
+procedimiento y no con relación a los consultores o proveedores.
+Art. 24. LEY ORGÁNICA DEL SECTOR PÚBLICO: Art 24, literal c).- Retardar o negar
+en forma injustificada el oportuno despacho de los asuntos o la prestación del servicio a que está
+obligado de acuerdo a las funciones de su cargo.
+Literal, h) Paralizar a cualquier título los servicios públicos, en especial los de salud, educación,
+
+justicia y seguridad social; energía eléctrica, agua potable y alcantarillado, procesamiento,
+transporte y distribución de hidrocarburos y sus derivados; transportación pública, saneamiento
+ambiental, bomberos, correos y telecomunicaciones;
+
+2. ANTECEDENTES
+Como lo detalla el Estatuto de Gestión Organizacional por procesos del Gobierno Autónomo
+Descentralizado Municipal del Cantón Latacunga en el Cap. 1, Art 3.- Filosofía de la Gestión
+por Procesos: Las actividades que se ejecutan en el Gobierno Autónomo Descentralizado
+Municipal de Latacunga, son parte de un ciclo de mejora continua que demanda incrementar
+las capacidades institucionales, mediante sistemas de evaluación permanentes, orientados a
+la innovación e identificación de oportunidades que buscan brindar un servicio que agregue
+valor al ciudadano. La gestión por procesos, su filosofía y herramientas, forman parte del
+modelo de gestión de la institución, se orientan a coadyuvar al cumplimiento de
+estrategias, programas y proyectos contemplados en el Plan de Ordenamiento Territorial PDOT y planes operativos
+El GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DEL CANTON
+LATACUNGA está conformado por varias Direcciones y dentro de las mismas varias Jefaturas.
+La Dirección Administrativa tiene como misión Administrar los bienes de propiedad
+municipal mediante la entrega de servicios generales y procesos de compras públicas, con
+la finalidad de que se facilite el accionar de los procesos municipales, brindando asesoramiento
+técnico al Alcalde o Alcaldesa, Concejo Municipal y demás procesos operativos del Gobierno
+Autónomo Descentralizado Municipal de Latacunga. Entre sus principales competencias es
+realizar gestiones administrativas a nivel interno y externo, para la generación de bienes y
+prestación de servicios con eficiencia y eficacia. Por otra parte dirige la prestación de servicios
+generales, tales como mantenimiento de vehículos, instalaciones, equipos y otros bienes de la
+municipalidad. A la vez es la encargada de autorizar y asegurar una gestión oportuna y
+efectiva de los recursos materiales; así como los servicios de la institución.
+En este contexto la Dirección Administrativa tiene dentro de sus atribuciones y
+responsabilidades, entre ellas la de i) Administrar los bienes muebles e inmuebles de la
+Municipalidad, l) Autorizar y asegurar una gestión oportuna y efectiva de los recursos
+materiales; así como los servicios de la institución. Entre sus principales edificaciones se
+encuentra el edificio nuevo, ubicado en la Laguna en el cual laboran varias direcciones que
+brindan atención directa a la ciudadanía, a continuación se detalla:
+
+
+Dirección de Ordenamiento Territorial
+
+
+
+
+
+
+Dirección de Regulación Cantonal
+Dirección de Avalúos y Catastros
+Registro de la Propiedad Inmobiliaria y Mercantil
+Dirección de Talento Humano
+
+Cabe recalcar que en dicho edificio se encuentran instalados los servidores informáticos data
+center (infraestructura tecnológica e información digital del GAD Municipal Latacunga) que
+contiene todas las conexiones de red e internet.
+Por otra parte el Centro de Faenamiento Municipal, Administrado por la Dirección de
+Servicios Públicos del GAD Municipal del Cantón Latacunga, tiene dentro de sus productos y
+servicios:
+
+
+
+Faenamiento de ganado bovino, porcino, ovino y caprino.
+Despacho de productos y subproductos cárnicos en condiciones óptimas de higiene y
+salubridad en cumplimiento de normas sanitarias
+ Controles técnicos y sanitarios sobre el ganado y las carnes
+ Mingas, baldeos, desinfección y señalización de plazas, mercados, centro comercial,
+cementerios, centro de Faenamiento.
+Para realizar dichas actividades se necesitan equipos, herramientas, instrumentos, utensilios y
+accesorios los cuales se encuentran en contacto con los animales y los operarios. Es importante
+mencionar que la mayoría de las máquinas y equipos que intervienen en el proceso de
+Faenamiento, funcionan mediante energía eléctrica.
+3. JUSTIFICACIÓN:
+Las Direcciones mencionadas anteriormente en cumplimiento de la LOSEP y en los principios
+de cumplimiento con la ciudadanía no pueden interrumpir su servicio ni tampoco retardar o
+negar en forma injustificada el oportuno despacho de los asuntos o la prestación del servicio. Por
+tal motivo y como se expuso anteriormente, al estar instalado el data center de la institución en
+dicho edificio, con los frecuentes cortes de energía eléctrica no solo se paralizan las actividades
+allí, sino en todas las edificaciones municipales, como son Palacio Municipal, Casona de Santo
+Domingo, Casa de los Marqueses, Edificio Nuevo, Terminal Terrestre, Centro Comercial
+Popular, Mercado el Salto, entre otros. En los últimos años, los frecuentes cortes de energía
+han aumentado la demanda de soluciones de energía de reserva para diversos lugares en
+los cuales se la utilizan. Cuando existiese un corte de energía, aparte de desperdiciar
+corriente o variedad de productos, también se puede poner en peligro la vida de los
+equipos, así como también el riesgo de incumplir ciertas actividades con clientes tanto internos
+como externos. Una fuente de energía de reserva permite seguir usando los aparatos
+esenciales y la iluminación durante un corte de energía o proporcionar electricidad a un edificio
+entero. Los generadores eléctricos son el tipo más común y menos caro de fuentes de energía de
+reserva.
+Por los expuesto se pretende ubicar un generador eléctrico en el Edificio del sector la Laguna,
+
+para lo cual se han generado las acciones que se detalla a continuación:
+Mediante Oficio No. DPDYOT-0701-2021 suscrito por la Directora de Planificación en el cual
+manifiesta que una vez realizada la inspección con el técnico electricista Sr. Carlos Cañizares en
+el área del edificio administrativo se pudo evidenciar que existe un espacio designado para el
+generador el cual necesita ser adecuado con obras complementarias para ajustarse a la normativa
+técnica, en este caso la adecuada ventilación y el espacio necesario para maniobrar el equipo
+solicitado, a su vez controlar que no exceda los 70 decibelios que la normativa lo permite. Por
+otra parte adjunta las especificaciones técnicas del generador que debe ser adquirido y cumplirá
+con las necesidades institucionales.
+Mediante Oficio Nro. 2022-052-SG-DA-D/N suscrito por la Especialista 2 de Servicios
+Generales en el cual manifiesta (…) solicitar a quien corresponda se actualice los informes
+correspondientes a la Adquisición de Generadores Eléctricos, presentados mediante Of No.
+DPDYOT-0701-2021 con fecha 13 de Septiembre del 2021, y mediante Of. DPDYOT-UP-N.231-2021 de fecha 17 de Marzo del 2021. Ambos documentos suscritos por la DIRECCIÓN DE
+PLANIFICACIÓN DEL DESARROLLO Y DEL ORDENAMIENTO TERRITORIAL. Cabe
+mencionar el requerimiento de dichos informes para realizar el respectivo proceso de
+Contratación Pública conforme al POA 2021-2022 (…). Dicho requerimiento es solicitado
+Mediante Oficio N.- 2022-0065-DA por la Directora Administrativa.
+Mediante Oficio Nro. DOT-UP-103-2022 suscrito por el Director de Proyectos en el cual
+manifiesta que se han actualizado las cotizaciones realizadas a los proveedores y sugiere
+proceder la adquisición del grupo electrógeno con las características técnicas mencionadas en
+dicho documento. (Especificaciones técnicas revisar en Anexos del informe de necesidad )
+
+
+Equipo electrógeno-Generador de energía eléctrica min 150 KVA (Incluye tablero de
+transferencia, TTA, y lo necesario para su puesta en marcha).
+
+Mediante Memorando Nro.- GADCL-USIS-2022-0047-M suscrito por el ESPECIALISTA 2 DE
+INFRAESTRUCTURA DE REDES Y SOPORTES TICS en el cual pone en conocimiento que
+el Data Center municipal ubicado en el edificio de la Av. Cívica, en donde se encuentran todos
+los equipos informáticos principales que dan servicios a la Municipalidad y a la Ciudadanía
+(servidores, routers, switches, etc.), al momento no cuentan con un respaldo de energía eléctrica
+que permita dar continuidad a los servicios que estos equipos ofrecen siendo que si hay algún
+problema con la energía principal, estos máximo durarán encendidos por 15 minutos adicionales
+por el UPS al cual se encuentran conectados pero una vez pasado este lapso de tiempo, se
+apagarán abruptamente generando daños en los dispositivos internos de los mismos lo cual
+puede causar pérdida de información, que algún equipo ya no se vuelva a encender, entre otros.
+Es por este motivo que se recomienda tomar esta información en cuenta para la adquisición de
+un generador eléctrico secundario de respaldo para no perder la continuidad de la energía
+eléctrica en el Data Center y evitar posibles daños en los equipos informáticos.
+Referente a la obra complementaria mediante memorando Nro.- GACL-DIR_ADMNIS-20220249-M se solicitó las especificaciones técnicas, civiles y operativas del cuarto de máquinas del
+
+Edificio Nuevo de la Laguna para la respectiva instalación del Generador Eléctrico.
+Mediante Of No. DPDYOT-UP-206-2022 suscrito por el Director de Ordenamiento Territorial
+del GADMCL en el cual adjunta las especificaciones técnicas y civiles del cuarto de máquinas
+del Edificio Nuevo de la Laguna.
+Mediante Oficio Nro.2022-121-SG-DA-D/N, la Especialista 2 de Servicios Generales solicita se
+oficie a la Dirección de Obras Públicas a fin de que se proceda a informar si es factible la
+realización de la obra complementaria. Dicho requerimiento es enviado mediante Oficio N.2022-0206-DA suscrito por la Directora Administrativa.
+Mediante Oficio N.- DOPM-0218-2022 suscrito por la Arq. Ana Belén Velasteguí, Directora de
+Obras Públicas en el cual manifiesta que de acuerdo al informe técnico remitido con oficio N.DOPM-UCM-151-2022, es factible la realización de la obra antes mencionada por
+Administración Directa.
+Mediante Oficio 2021-082-ACFL suscrito por la Administradora del Centro de Faenamiento en
+el cual solicita se oficie a la Dirección de Planificación del GAD Municipal Latacunga para que
+realice la inspección del área y la determinación de las especificaciones técnicas que se
+requieren para ejecutar el objeto de contratación “Adquirir un generador eléctrico para el centro
+de Faenamiento”. Dicho requerimiento enviado a la Dirección de Planificación mediante Oficio:
+382-DSP-2021
+Mediante Oficio DPDYOT-UP-N.-231-2021, la Directora de Planificación manifiesta (…) nos
+permitimos adjuntar la demanda de los equipos que actualmente se encuentran instalados, con
+esta información se procedió a obtener las especificaciones idóneas para la adquisición de un
+generador o grupo electrógeno (…).
+Mediante Memorando Nro. GADCL-DSP-2021-0079-M suscrito por el Director de Servicios
+Públicos, en el cual manifiesta (…) Se ha planificado la adquisición de un generador para ser
+utilizado en el Centro de Faenamiento. Siendo que la Dirección Administrativa realizará un
+proceso de adquisición similar, me permito solicitar comedidamente se sirva disponer a quien
+corresponda la inclusión en el proceso de contratación del generador, a fin de evitar la
+subdivisión de procesos (…).
+Mediante Memorando Nro. GADCL-DSP-2022-0371-M la Administradora del Centro de
+Faenamiento adjunta informe actualizado de necesidad y especificaciones técnicas para la
+adquisición del Generador Eléctrico para el Centro de Faenamiento y solicita que se envié a la
+Dirección Administrativa siendo la Dirección que va a realizar la compra. Dicho requerimiento
+es suscrito por el Director de Servicios Públicos mediante Memorando Nro. GADCL-DSP2022-0391-M en el cual solicita se continúe con el proceso de adquisición. (Especificaciones
+técnicas revisar en Anexos del informe de necesidad )
+
+4. OBJETIVOS DE LA CONTRATACIÓN:
+a. Objetivo General
+ Adquisición, instalación y puesta en marcha de generadores eléctricos para el Edificio
+Nuevo y Centro de Faenamiento del GADMC LATACUNGA.
+
+b. Objetivo Especifico
+ Dotar de generadores eléctricos a dependencias que no poseen los bienes a fin de
+garantizar el suministro de energía eléctrica ininterrumpidamente.
+ Garantizar la continuidad del servicio eléctrico en caso de falla o corte en el suministro
+eléctrico.
+5. ALCANCE
+Adquisición, instalación y puesta en funcionamiento de dos generadores eléctricos para
+dependencias que no poseen el equipo, a fin de garantizar el suministro de energía eléctrica en el
+caso que se presenten fallas o cortes por parte de la empresa eléctrica. Dichos generadores serán
+instalados en el Edificio Nuevo ubicado en la Av. Trajano Naranjo y Av. Santiago Zamora y en
+el Centro de Faenamiento ubicado en el barrio San Martín.
+6. INFORMACIÓN QUE DISPONE LA ENTIDAD
+El GADMCL al momento de la suscripción del contrato entregará al proveedor la siguiente
+información.
+ Diseño y diagrama del cuarto de máquinas del Edificio nuevo
+ Diseño del cuarto de máquinas del Centro de Faenamiento.
+7. METODOLOGÍA DE TRABAJO
+Una vez suscrito el contrato, el Administrador del Contrato y el Contratista elaborarán un
+cronograma
+de trabajo para la instalación de los generadores eléctricos, dentro de los cinco
+días calendario posterior a la suscripción del mismo. El cronograma deberá contemplar:
+ Instalación de equipos.
+ Prueba de funcionamiento final.
+ Capacitación al personal a utilizar
+Para la instalación y puesta en marcha del grupo electrógeno se debe considerar la colaboración
+de un empleado municipal con conocimientos mecánicos.
+
+8. PRODUCTOS O SERVICIOS ESPERADOS
+ESPECIFICACIONES TÉCNICAS
+CANTI
+CPC
+CARACTERÍSTICAS, REQUISITOS DEL BIEN
+DAD
+EQUIPO ELECTRÓGENO - GENERADOR DE ENERGÍA
+461110113
+ELÉCTRICA MIN 150 KVA ( INCLUYE TABLERO DE
+1
+TRANSFERENCIA, PUESTA EN MARCHA, MANTENIMIENTO
+PREVENTIVO DURANTE LA VIGENCIA DE LA GARANTÍA)
+461110113
+EQUIPO ELECTRÓGENO - GENERADOR DE ENERGÍA
+1
+ELÉCTRICA MIN 30 KVA ( INCLUYE TABLERO DE
+TRANSFERENCIA, PUESTA EN MARCHA, MANTENIMIENTO
+PREVENTIVO DURANTE LA VIGENCIA DE LA GARANTÍA)
+Se adjunta Anexo de especificaciones técnicas de los bienes a contratar en el informe de
+necesidad y requerimiento. Memorando Nro. GADCL-DSP-2022-0391-M, Oficio Nro. DOTUP-103-2022.
+9. PRESUPUESTO REFERENCIAL
+El Presupuesto Referencial a ser utilizado en el presente proceso de contratación se encuentra
+establecido en el Estudio de Mercado en el que se describe los precios unitarios de cada ítem
+descrito.
+
+10. VARIACIÓN MÍNIMA DE LA OFERTA DURANTE LA PUJA:
+1.50%
+11. PLAZO DE EJECUCIÓN
+
+Plazo:
+
+90 días
+
+Termino:
+
+días
+
+Tiempo
+en días
+
+ Desde la fecha de suscripción del
+contrato
+ Desde la fecha de notificación que el
+anticipo se encuentre disponible
+ Desde cualquier otra condición de
+acuerdo a la naturaleza del contrato:
+
+12. LOCALIDAD DONDE SE EJECUTARÁ LA CONTRATACIÓN:
+Se realizará en la ciudad de Latacunga :
+ Av. Trajano Naranjo y Av. Santiago Zamora – Edificio Nuevo la Laguna.
+ Sector San Martin – Centro de Faenamiento.
+
+X
+
+13. MULTAS:
+El valor mínimo de la multa diaria por retraso injustificado será el 1x1000, en caso de ser
+un valor mayor justifique conforme el principio de proporcionalidad establecido en el
+numeral 6 del Art. 76 de la Constitución de la República del Ecuador.
+a) Retraso injustificado
+1 x 1000
+porcentaje diario:
+El contratista conviene en pagar al Gobierno Autónomo
+Descentralizado Municipal de Latacunga, en concepto de multa,
+la cantidad equivalente al 1 x 1.000 del valor del contrato, las
+multas se impondrán por retardo en la ejecución de las
+obligaciones contractuales, así como por incumplimientos de las
+demás obligaciones contractuales, las que se determinarán por
+cada día de retardo; las multas se calcularán sobre el porcentaje
+de las obligaciones que se encuentran pendientes de ejecutarse
+conforme lo establecido en el contrato, sin el IVA. Excepto en el
+evento de caso fortuito o fuerza mayor, conforme lo dispuesto en
+b) Justificación:
+el artículo 30 de la Codificación del Código Civil, debidamente
+comprobado y aceptado por el ADMINISTRADOR DE
+CONTRATO; para lo cual se notificará al ADMINISTRADOR
+DE CONTRATO dentro de las (48) horas subsiguientes de
+ocurridos los hechos o de enterado el Contratista de los mismo.
+De ocurrido este término, de no mediar dicha notificación, se
+entenderán como no ocurridos los hechos que alegue el
+contratista como causa para la no entrega de los bienes, a la cual
+está obligada, se le impondrá la multa prevista anteriormente.
+14. FORMA Y CONDICIONES DE PAGO
+Tipo
+Descripción
+El 40% por ciento se lo realizará por concepto de
+anticipo conforme lo estable el artículo 75 de la
+Anticipo
+ley Orgánica del Sistema Nacional de
+Contratación publica
+El pago del 60% se realizará contra entrega,
+suscripción del acta entrega recepción definitiva
+de manera del bien objeto de la contratación,
+previa presentación de la factura correspondiente,
+Pago contra
+el informe del Administrador del contrato para el
+entrega
+proceso pertinente de pago, de conformidad a lo
+establecido en los artículos 124 y 125 del
+Reglamento General de la Ley Orgánica del
+Sistema Nacional de Contratación Pública.
+
+Porcentaje
+40%
+
+60%
+
+15. OBLIGACIONES DE LAS PARTES
+a. Obligaciones del contratista:
+ Entregar los bienes en óptima calidad que cumplan con las especificaciones técnicas
+requeridas en los pliegos.
+ Dar cabal cumplimiento a lo establecido en las especificaciones técnicas y condiciones del
+contrato.
+ Comunicar en forma inmediata por escrito, de cualquier novedad que se presente durante el
+proceso y que pueda ocasionar un retraso en su entrega.
+ Una vez instalados los equipos, el ofertante efectuará las pruebas necesarias, demostrando
+que el servicio se encuentra operativo.
+ La propuesta deberá incluir instructivos, capacitación, recomendaciones de mantenimiento,
+chequeo de funcionamiento y recomendaciones para conservar adecuadamente los equipos
+instalados.
+ El oferente debe ser representante en el Ecuador de la marca presentada, para lo cual deberá
+presentar un certificado del fabricante, en el que se deberá obligatoriamente incluir el
+nombre, cargo, teléfono y dirección electrónica para su validación.
+ El oferente debe contar con talleres autorizados por el fabricante para reparación y
+mantenimiento, en caso que se requiera, durante el tiempo de vigencia de la garantía.
+ El oferente debe contar y certificar stock de repuestos, partes y piezas que garantice su
+suministro por al menos cinco años, para lo cual deberá adjuntar un certificado del
+fabricante, así como fotografías de los mismos.
+ El contratista deberá realizar la instalación y puesta en marcha de los bienes a adquirir.
+ El/la contratista deberá entregar la garantía técnica referente a defectos de fábrica o
+desperfectos de materiales por un periodo de 36 meses a la suscripción del acta entrega de
+recepción.
+ El proveedor realizará los mantenimientos preventivos que considere necesarios a partir de
+la puesta en funcionamiento durante el tiempo de garantía.
+b. Obligaciones de la Entidad Contratante:
+ Designar al administrador del contrato y dar a conocer oportunamente al contratista.
+ Proporcionar al contratista la información disponible para el cumplimiento del Contrato.
+ Cumplir con las obligaciones establecidas en el contrato, y en los documentos del mismo, en
+forma ágil y oportuna.
+ Pagar oportunamente los valores a que tenga derecho el/la contratista, con sujeción a las
+estipulaciones contractuales.
+ Término para la atención o solución de peticiones o problemas (10) diez días a partir de la
+petición escrita formulada por el contratista.
+ Suscribir las actas de entrega recepción de los bienes recibidos, siempre que se haya
+cumplido con lo previsto en la ley para la entrega recepción; y, en general, cumplir con las
+obligaciones derivadas del contrato.
+16. ÍNDICES FINANCIEROS
+Índice
+
+Indicador Solicitado
+
+Observaciones
+
+Endeudamiento = (Pasivo Total (menor a 1,5)
+/ Patrimonio Neto)
+Solvencia = (Activo corriente / (mayor o igual a 1,0)
+pasivo corriente)
+
+Presentar
+correspondiente
+Presentar
+correspondiente
+
+IR
+IR
+
+17. REQUISITOS MÍNIMOS:
+a. Integridad de la Oferta
+La integridad de la oferta se evaluará considerando la presentación de todos los formularios
+actualizados según la versión SERCOP 2.1 (09 de junio de 2017), los formularios 1.1 y 1.3
+deben estar debidamente firmados caso contrario su oferta será descalificada. Los requisitos
+mínimos previstos en los términos de referencia, de acuerdo con lo detallado:
+1.1 Presentación y compromiso actualizado y firmado electrónicamente.
+1.2 Datos generales del oferente.
+1.3 Nómina de socio(s), accionista(s) o partícipe(s) de personas jurídicas y disposiciones
+específicas para personas naturales, oferentes actualizado y firmado electrónicamente.
+1.4 Situación financiera. Si es obligado a llevar contabilidad deberá presentar el RUC del
+contador.
+1.5 Tabla de cantidades y precios.
+1.6 Componentes de los (bienes o servicios) ofertados
+1.7 Experiencia del oferente.
+1.8 Personal técnico mínimo requerido y su experiencia
+1.9 Equipo mínimo requerido.
+1.10 Declaración del valor agregado ecuatoriano de la oferta.
+1.11 Cálculo del porcentaje de valor agregado ecuatoriano. Se deberá presentar el respaldo del
+Cálculo del VAE.
+1.12 Formulario para la declaración de valor agregado ecuatoriano de la oferta de desarrollo de
+software y, adquisición de software.
+1.13 Otros parámetros de calificación propuestos por la entidad contratante.
+1.14 Formulario de compromiso de asociación o consorcio (de ser procedente)
+b. EQUIPO MÍNIMO: N/A
+Notas Importantes a tomar en cuenta:
+El Gobierno Autónomo Descentralizado, verificará la disponibilidad y no la propiedad del
+equipo e instrumentos requeridos.
+Los oferentes para acreditar la propiedad o disponibilidad de los equipos deberán presentar lo
+siguiente:
+ En caso de que el equipo sea de propiedad del oferente, presentará copia de la factura o el
+título de propiedad demostrando la legalidad de los equipos mencionados.
+ En caso de que el equipo se proponga bajo compromiso de compra venta, el oferente deberá
+presentar la carta compromiso de compra venta debidamente suscrita, adjuntando copia del
+RUC del vendedor para verificar el giro de negocio.
+ En caso que el equipo se proponga como arrendado, deberá presentar cartas de compromiso
+de arrendamiento o contrato de arrendamiento del equipo, junto con la copia simple de la
+factura o título de propiedad que demuestre que el arrendador dispone del equipo.
+
+c. Personal Técnico Mínimo (Referencia Of No. DPDYOT-UP-206-2022)
+Titulación
+Cantidad
+Función:
+Nivel de estudio:
+académica:
+
+01
+
+INGENIERO
+ELÉCTRICO/ELECTR
+ÓNICO
+
+01
+
+01
+
+INGENIERO
+MECÁNICO
+
+AYUDANTE
+TÉCNICO
+
+Medio de
+verificación
+
+Título de tercer
+nivel
+
+Título de
+tercer nivel en
+carreras de
+mecánica,
+eléctrica o
+electrónica
+
+Hoja de vida y
+copia de registro
+del título en
+Ministerio de
+Educación y/o
+SENESCYT
+
+Título de tercer
+nivel
+
+Ingeniero en
+carreras de
+mecánica,
+electromecáni
+ca
+
+Hoja de vida y
+copia de registro
+del título en
+Ministerio de
+Educación y/o
+SENESCYT
+
+Título de
+bachiller
+
+Hoja de vida y
+copia de registro
+del título en
+Ministerio de
+Educación y/o
+SENESCYT
+
+Bachiller
+
+d. Experiencia mínima del personal técnico
+Función:
+
+Experiencia:
+
+Tiempo:
+
+Numero de
+proyecto:
+
+Monto de
+proyecto
+
+INGENIERO
+ELÉCTRICO/
+ELECTRÓNIC
+O
+
+Para acreditar la experiencia
+mínima
+deberá
+presentar
+certificado de experiencia en
+venta,
+instalación
+y/o
+mantenimiento de generadores
+eléctricos, justificando mediante
+actas
+entrega
+recepción
+definitiva o facturas, que
+acredite experiencia mínima
+dentro de los 3 años.
+
+3 años
+
+1
+
+$1,829.736
+
+INGENIERO
+MECÁNICO
+
+AYUDANTE
+TÉCNICO
+
+Para acreditar la experiencia
+mínima
+deberá
+presentar
+certificado de experiencia en
+instalación y/o mantenimiento
+de
+generadores
+eléctricos,
+justificando mediante actas
+entrega recepción definitiva o
+facturas,
+que
+acredite
+experiencia mínima dentro de
+los 3 años.
+Para acreditar la experiencia
+mínima
+deberá
+presentar
+certificado de experiencia en
+instalación y/o mantenimiento
+de
+generadores
+eléctricos,
+justificando mediante actas
+entrega recepción definitiva o
+facturas,
+que
+acredite
+experiencia mínima dentro de
+los 3 años.
+
+3 años
+
+1
+
+$1,829.736
+
+3 años
+
+1
+
+$91,4868
+
+e. Experiencia General del Oferente: (DE CONFORMIDAD A LA RESOLUCIÓN
+EMITIDA POR EL SERCOP No 0000077 y No 0000078)
+Monto Mínimo Monto Mínimo
+Descripción
+Tiempo
+Requerido
+Por Contrato
+No aplica
+f. Experiencia Específica del Oferente: (DE CONFORMIDAD A LA RESOLUCIÓN
+EMITIDA POR EL SERCOP No 0000077 y No 0000078)
+Monto Mínimo Monto Mínimo
+Descripción
+Tiempo
+Requerido
+Por Contrato
+Para acreditar la experiencia específica, el
+oferente deberá
+presentar actas de
+entrega recepción definitiva o facturas
+certificadas que acredite su experiencia en
+5 AÑOS
+$1,829.736
+$91,4868
+la provisión de equipo electrógenogeneradores eléctricos a instituciones
+públicas o privadas.
+18. OTRO(S) PARÁMETRO(S) RESUELTO POR LA ENTIDAD CONTRATANTE:
+Parámetro
+Dimensión
+Certificados de calidad
+Aplica.- El oferente adjuntará a la
+oferta el certificado de calidad de
+la marca ofertada.
+
+Catálogo con ficha técnica
+Compromiso de garantía técnica
+
+19. ANEXO
+Descripción del documento
+No
+01
+02
+03
+04
+
+Informe de necesidad y requerimiento
+Estudio de mercado
+Certificado de existencia de bodegas
+Anexos
+
+Aplica.- El oferente adjuntará el
+catálogo con la ficha técnica
+Aplica.- El oferente deberá
+presentar el compromiso de
+garantía técnica de los bienes
+adquiridos incluido repuestos por
+el lapso de 36 meses desde la
+suscripción del acta de entregarecepción
+
+Físico
+
+Digital
+
+X
+X
+X
+X
+
+X
+X
+X
+
+No de
+páginas
+11
+3
+1
+74
+
+20. FIRMAS DE RESPONSABILIDAD
+Elaborado:
+
+Revisado y Aprobado
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+JUAN NICOLAS
+SIMON
+GUTIERREZ
+
+Ing. Nicolás Simon
+Asistente Técnico 2 de Servicios Generales
+
+DENISSE SUSANA
+NOGALES LOPEZ
+
+Ing. Denisse Nogales
+Especialista 2 de Servicios Generales
+
+

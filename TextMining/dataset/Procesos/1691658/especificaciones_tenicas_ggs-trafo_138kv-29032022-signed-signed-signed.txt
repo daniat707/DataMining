@@ -1,0 +1,3703 @@
+V1-2021
+
+ESPECIFICACIONES TÉCNICAS
+SUBASTA INVERSA ELECTRÓNICA - BIENES
+1. OBJETO DE CONTRATACIÓN Y CPC
+Objeto de la
+Contratación:
+
+TRANSFORMADORES DE POTENCIA 138/23 KV - 27/33/40 MVA.
+
+Nro. Solicitud:
+
+23202
+
+CPC:
+
+Código CPC: 461210011
+Descripción SERCOP:
+TRANSFORMADORES DE POTENCIA PARA CENTRALES Y SUBESTACIONES
+
+CPC Restringido
+
+NO contempla CPC restringido
+
+X
+
+SI CONSTA EN ANEXO 20: (detallar CPC’s)
+
+X
+
+CPC ANEXO 20
+
+Con fecha 09 de marzo de 2022, se verificó que el código CPC 461210011, CONSTA en el Anexo
+Nro. 20 (REQUERIMIENTOS DE TRANSFERENCIA DE TECNOLOGÍA PARA BIENES IMPORTADOS
+ADQUIRIDOS EN LA CONTRATACIÓN PÚBLICA POR CPC), de la Resolución No. RE-SERCOP2016-0000072 de 31 de agosto de 2016 misma que expide la codificación y actualización de
+resoluciones emitidas por el SERCOP.
+
+Definición del tipo de proceso
+Tomando en consideración que el objeto de contratación constituye bienes, que a su vez al ser bienes con características
+estándares, esto es bienes normalizados, mismos que no se encuentran en el catálogo electrónico y tomando en consideración
+que el presupuesto referencial del presente proceso es superior al valor que resulte multiplicar el coeficiente 0,0000002 por el
+PIE; se recomienda que el procedimiento a aplicar corresponda a Subasta Inversa Electrónica.
+En aplicación de lo dispuesto en el Art. 47 de la Ley Orgánica del Sistema Nacional de Contratación Pública, en concordancia con
+el Art. 44 del Reglamento General a la Ley Orgánica del Sistema Nacional de Contratación Pública; y una vez que se ha constatado
+que los BIENES normalizados objeto de esta contratación NO constan en el Catálogo Electrónico del SERCOP.
+
+2. ALINEACIÓN ESTRATÉGICA
+2.1 Antecedentes y Justificación
+La Empresa Eléctrica Quito a través del Departamento de Diseño y Construcción de Líneas y Subestaciones en cumplimiento con su Plan de
+Expansión 2018 - 2021, tiene a su cargo la ejecución de la construcción de cuatro nuevas subestaciones: Parque Metropolitano, El Auqui, La
+Morita y Chillo Jijón cuya potencia proyectada es de 40 MVA a un nivel de voltaje de 138/23 Kv, para cada uno.
+El propósito principal del proyecto de la construcción de estas subestaciones es atender el crecimiento de la demanda de energía, debido al
+constante incremento de clientes (residencial, industrial y/o comercial) mediante el incremento de la capacidad instalada y mejorando la
+confiabilidad del sistema eléctrico de la Empresa Eléctrica Quito.
+2.2 Justificación de cantidades
+La justificación para la realización de proceso, está considerada en el Plan de Expansión 2021 - 2025 de la Empresa Eléctrica Quito y los
+informes técnicos justificativos elaborados por la Gerencia de Planificación, donde se detalla el desarrollo de un sistema de subtransmisión
+en el área de concesión de la EEQ, con el propósito de mejorar la calidad y confiabilidad del servicio técnico en su sistema.
+De acuerdo a la proyección de demanda expuesta en la pág. 37 del Plan de Expansión, se determina que se requiere 4 TRANSFORMADORES
+DE POTENCIA 138/23 KV - 27/33/40 MVA para las subestaciones La Morita, Auqui, Chillo Jijón y Parque Metropolitano.
+
+V1-2021
+2.3 Objetivo de la Contratación
+2.3.1. GENERALES: Adquirir TRANSFORMADORES DE POTENCIA 138/23 KV - 27/33/40 MVA para la instalación en nuevas
+subestaciones de la EEQ.
+2.3.2. ESPECÍFICOS:
+Realizar el proceso de compra pública oportunamente.
+2.4 Objetivo estratégico al que se alinea esta contratación (Plan Estratégico de la EEQ 2018- 2021)
+OEI 1. Incrementar la calidad del servicio público de electricidad en el área de servicio de la EEQ
+OEI 2. Incrementar la eficiencia del servicio eléctrico en la producción, distribución y comercialización de la electricidad en el
+área de servicio de la EEQ
+3. DATOS GENERALES
+3.1 Presupuesto Referencial
+El presupuesto referencial se determinó sobre la base de lo dispuesto en la Resolución No. RE-SERCOP-2016-0000072 que se expidió el
+31 de agosto de 2016 y que ha sido reformada periódicamente, en la cual se establece la metodología para establecer el presupuesto
+referencial, de las contrataciones. Al respecto, el estudio realizado determinó el valor referencial correspondiente mismo que será
+publicado en el portal de Compras Públicas en conjunto con la Resolución del Procedimiento, Adjudicación, desierto o cancelación, según
+corresponda.
+3.2 Metodología de Trabajo
+ETAPA
+Actualización del
+cronograma
+Levantamiento y
+confirmación de
+información
+Ingeniería de detalle
+
+Revisión ingeniería de
+detalle
+Procura de materiales y
+equipos
+Fabricación en taller
+Pruebas de fábrica
+Montaje
+
+Pruebas y puesta en
+servicio
+Entrenamiento para
+operación y
+mantenimiento del
+equipo
+Cierre
+
+DESCRIPCIÓN DE ACTIVIDADES
+RESPONSABLE
+Hasta 10 días término después de suscrito el Contrato, el Administrador se
+reunirá con el Contratista y realizarán la reprogramación del cronograma
+Administrador
+del proyecto entregado en la oferta, sin que esto implique modificación del
+/Contratista
+plazo contractual.
+Inspección del área en donde se instalará el equipo, en la cual se levantará
+información (en acta) de detalles adicionales como: transporte,
+Contratista /
+movilización, detalles técnicos entre otros. Se suscribirá el acta
+Administrador
+correspondiente.
+Elaborar y proporcionar la memoria técnica eléctrica en donde se detalle los
+planos, diseños y demás información relevante para la verificación del
+Contratista
+cableado y accesorios del equipo.
+El Administrador del contrato procederá a revisar la ingeniería de detalle y
+podrá autorizar el proceso de fabricación en un plazo máximo de 5 días
+términos contados desde la fecha de entrega de la ingeniería de detalle.
+Administrador
+Si bien la responsabilidad de la ingeniería de detalle es exclusiva del
+contratista, el administrador podrá realizar observaciones a la misma.
+Adquisición de materiales y equipos requeridos para el proyecto, según las
+Contratista
+especificaciones técnicas requeridas.
+Fabricación de los elementos que se requieren para su construcción (tramos
+Contratista
+de ductos, acoples, estructura metálica de soporte, etc.).
+Realización de las pruebas recomendadas por la normativa.
+Los resultados de las pruebas de fábrica se remitirán al administrador del
+Contratista
+contrato quien los analizará y liberará o no, el embarque respectivo.
+El montaje se lo realizará in situ con personal de la EEQ, bajo la supervisión,
+del contratista; el cual estará supeditado a un cronograma específico para la Contratista/Administrador
+actividad, mismo que será aprobado por el administrador del contrato.
+Realización de las pruebas recomendadas por la normativa y puesta en
+servicio del transformador. Los equipos necesarios para la realización de las
+pruebas serán suministrados por el contratista. Las fechas para realizar las
+Contratista/Administrador
+pruebas se coordinarán con el administrador del contrato.
+Para la puesta en servicio debe realizar la integración del sistema de
+monitoreo del trasformador (TMS) al sistema SCADA de la EEQ.
+El contratista realizará el entrenamiento para el personal técnico de la
+Empresa, en el cual se instruirá las condiciones especiales del
+Contratista/
+funcionamiento del equipo, condiciones especiales de montaje, pruebas,
+Administrador
+integración, operación y funcionamiento.
+Entrega de la documentación AS-BUILT por parte del contratista,
+Contratista/
+suscripción del acta de entrega recepción definitiva y trámite de pago
+Administrador
+correspondiente.
+
+V1-2021
+3.3 Bienes Esperados
+•
+
+Cuatro TRANSFORMADORES DE POTENCIA 138/23 KV - 27/33/40 MVA funcionales y listos para su utilización inmediata.
+
+3.4 Consideraciones para la entrega del bien
+Lugar de entrega:
+Los bienes se entregarán in situ en las subestaciones: S/E Parque Metropolitano, S/E El Auqui, S/E La Morita y S/E Chillo Jijón, de forma
+coordinada con el Administrador del Contrato; no obstante, el administrador del contrato definirá y coordinará el lugar de la entrega que
+podría ser las bodegas de la EEQ:
+Bodega:
+Ubicación:
+Referencia:
+
+Epiclachima de la Empresa Eléctrica.
+Avenida Pedro Vicente Maldonado S1920 y Pasaje Argelia
+Junto a la Fosforera Nacional Ecuatoriana
+
+3.5 Plazo de ejecución
+
+400
+
+días plazo:
+
+A partir del día siguiente de la notificación por escrito por parte del administrador del contrato respecto de la
+disponibilidad del anticipo.
+3.6 Vigencia de la oferta
+Vigencia de la Oferta: 120 días plazos contados a partir de su presentación.
+3.7 Forma de pago
+.
+Anticipo:
+Tipo
+
+Descripción
+
+Anticipo
+
+El anticipo se cancelará en un término de hasta 30 días
+contados desde la suscripción del contrato conforme lo
+establece el artículo 71 de la LOSNCP, previa la
+presentación de las garantías correspondientes, de ser el
+caso; mismo que se devengará de conformidad con lo
+establecido en el Art. 75 de la LOSNCP.
+
+Porcentaje
+
+70%
+
+Este anticipo se devengará proporcionalmente de los
+pagos que se detallan a continuación, hasta su total
+amortización.
+Detalle:
+No.
+
+Tipo
+
+Descripción
+
+Porcentaje
+
+1
+
+Pago 1
+
+90%
+
+2
+
+Pago 2
+
+3
+
+Pago 3
+
+4
+
+Pago 4
+
+5
+
+pago 5
+
+Una vez entregados el 100% de los bienes, posterior a la suscripción del
+acta de entrega-recepción parcial y la entrega de la factura respectiva.
+Posterior a la energización del transformador de 138/23 kV, S/E Parque
+Metropolitano; previa a la suscripción del acta de entrega-recepción
+parcial pertinente.
+Posterior a la energización del transformador de 138/23 kV, S/E El
+Auqui; previa a la suscripción del acta de entrega-recepción parcial
+pertinente.
+Posterior a la energización del transformador de 138/23 kV, S/E La
+Morita; previa a la suscripción del acta de entrega-recepción parcial
+pertinente.
+Posterior a la energización del transformador de 138/23 kV, S/E Chillo
+Jijón; previa a la suscripción del acta de entrega-recepción parcial
+pertinente.
+TOTAL
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+100%
+
+X
+
+V1-2021
+3.8 Condiciones de Pago
+Los pagos se realizarán, obligatoriamente, a través del “Sistema de Pagos Interbancario”, para lo cual el adjudicatario deberá cumplir
+los siguientes requisitos: Ingresar en la página web www.eeq.com.ec en el link Proveedores/Transferencias y proceder de la
+siguiente forma: Llenar los datos, imprimir y suscribir el formulario allí indicado y adjuntar los siguientes documentos: Certificado
+bancario original de cuenta activa (actualizado), copia de la cédula de identidad del Representante Legal y copia del RUC.
+Los documentos impresos se entregarán en el Departamento de Estudios Económicos de la Empresa Eléctrica Quito, en el edificio
+matriz ubicado en la Av. 10 de Agosto y las Casas, cuarto piso (Teléfono: 3964-700, extensión 2440), dentro del plazo de 10 días
+laborables a partir de la fecha de adjudicación en el portal de compras públicas.
+(NOTA: los párrafos anteriores fueron establecidos por la Dirección de Compras Públicas en coordinación con la Dirección Financiera.)
+4.
+
+REQUISITOS MÍNIMOS
+
+4.1 Especificaciones Técnicas
+ESTE FORMATO SE ENTREGARÁ DE FORMA OBLIGATORIA POR EL OFERENTE COMO PARTE INTEGRANTE DE SU OFERTA
+TRANFORMADOR DE POTENCIA 138/ 23 kV; 27/33/40 MVA
+
+ÍTEM
+
+ESPECIFICACIONES TÉCNICAS
+
+1
+2
+
+Cantidad
+
+REQUERIMIENTOS EEQ
+
+−
+
+−
+
+−
+
+−
+2.01
+
+Normas de Fabricación
+
+−
+−
+−
+
+2.02
+
+Guía Estándar Aplicable a ensayos
+eléctricos y dieléctricos; transporte y
+comisionamiento
+
+4
+NORMAS A CUMPLIR
+ANSI/IEEE C57.12.00: Requeriments for LiquidImmersed Distribution, Power, and Regulating
+Transformers o su equivalente a IEC.
+ANSI/IEEE C57.12.90: Test Code for Liquid-Immersed
+Distribution, Power, and Regulating Transformers, o su
+equivalente a IEC.
+ANSI/IEEE C57.19.00: General Requeriments and Test
+Procedure for Power Apparatus Bushings, o su
+equivalente a IEC.
+ANSI/IEEE Std. C57.13: Standard Requirements for
+Instrument Transformers, o su equivalente a IEC.
+ASTM D3487: Standard Specification for Mineral
+Insulating Oil Used in Electrical Apparatus.
+IEC 60214-1 (2003-02): On-Load Tap-changers, o su
+equivalente a ANSI.
+IEC 60529: Degrees of protection provided by
+enclosures (IP Code), o su equivalente a ANSI.
+
+Nota: Cumple con cada una de las guías requeridas por la
+EEQ en sus últimas versiones, para validar el cumplimiento
+de las mismas, el oferente debe incluir los protocolos de
+prueba de un equipo similar donde se indique claramente la
+norma utilizada.
+−
+IEEE Std. C57.152: Guide for Diagnostic Field Testing
+of Fluid-Filled Power Transformers, Regulators, and
+Reactors, o su equivalente a IEC.
+−
+IEEE Std. C57.149: Guide for the Application and
+Interpretation of Frequency Response Analysis for OilImmersed Transformers, o su equivalente a IEC.
+−
+IEEE Std. C57.161: Guide for Dielectric Frequency
+Response Test, o su equivalente a IEC.
+−
+IEEE Std. C57.150: Guide for the Transportation of
+Transformers and Reactors Rated 10 000 kVA or
+Higher, o su equivalente a IEC.
+−
+IEEE Std. C57.130: Guide for the Use of Dissolved Gas
+
+ESPECIFICACIONES
+TÉCNICAS
+OFERTADAS
+
+Hoja de
+Respaldo
+en la
+Oferta
+(Se debe
+incluir
+nombre del
+archivo / y
+Nro. de
+página del
+mismo)
+
+V1-2021
+
+3
+3.01
+3.02
+
+Clase
+Norma de Fabricación
+
+3.03
+
+Unidades de Medida
+
+3.04
+3.05
+3.06
+4
+4.01
+4.02
+4.03
+4.04
+4.05
+4.06
+4.07
+4.08
+4.09
+
+Marca
+Procedencia
+Año de Fabricación
+Tipo de Montaje
+Rango de variación de la temperatura
+ambiente
+Temperatura ambiente promedio del
+equipo al exterior
+Temperatura ambiente máxima del equipo
+al exterior
+Humedad Relativa
+Aceleración para grado antisísmico
+(g = aceleración gravitacional)
+Altura de montaje
+Voltaje de Alimentación de Equipos
+Auxiliares AC
+Voltaje de Alimentación de Equipos
+Auxiliares DC
+
+4.10
+
+Cableado y equipo auxiliar
+
+4.11
+
+Calefactores
+
+4.12
+
+Grado de protección de los cubículos y
+tableros
+
+5
+
+Analysis Applied to Factory Temperature Rise Tests for
+the Evaluation of Mineral Oil-Immersed Transformers
+and Reactors, o su equivalente a IEC.
+−
+IEEE Std. C57.104: Guide for the Interpretation of
+Gases Generated in Mineral Oil-Immersed
+Transformers, o su equivalente a IEC.
+−
+IEEE Std. C57.106: Guide for Acceptance and
+Maintenance of Insulating Mineral Oil in Electrical
+Equipment, o su equivalente a IEC.
+−
+IEEE Std. C57.93: Guide for Installation and
+Maintenance of Liquid-Immersed Power
+Transformers, o su equivalente a IEC.
+Nota: el oferte debe cumplir con cada una de las guías
+requeridas por la EEQ en sus últimas versiones, para validar el
+cumplimiento de las mismas, el oferente debe incluir los
+protocolos de prueba de un equipo similar donde se indique
+claramente la norma utilizada.
+CARACTERÍSTICAS GENERALES DEL TRANSFORMADOR
+Potencia
+Estándar Americano ANSI / IEEE Std. C57.12.00
+- Longitud: Metro (m)
+- Área: Metro cuadrado (m2)
+- Volúmen: Metro cúbico (m3)
+- Masa: Kilogramo (kg)
+- Tiempo: Segundo (s)
+- Temperatura: Célsius (°C)
+- Fuerza: Newton (N)
+- Energía: Kilovatio-hora (kWh)
+- Presión: Pascal (Pa)
+- Caudal: Metro cúbico hora (m3/h)
+- Voltaje: Voltio (V)
+- Corriente: Amperio (A)
+- Resistencia Eléctrica: Ohmio (Ohm)
+- Capacitancia: Faradio (F)
+- Inductancia: Henrio (H)
+- Frecuencia: Hertz (Hz)
+Nota: El oferente debe expresar las unidades de medida
+ofertadas en todos los documentos, diseños, cálculos, planos
+y placa de características del transformador.
+INDICAR*
+INDICAR*
+No menor al 2022
+CONDICIONES DE SERVICIO DEL EQUIPO
+Exterior / Intemperie
+Debe funcionar en un rango de 0° C a 40° C
+22 °C
+40 °C
+85%
+0.5 g
+3000 m.s.n.m.
+220 - 127 V, 3 Fases + Neutro, 60Hz
+125 VDC
+Tropicalizado para hongos y plantas parásitas, cable de
+control estañado
+Calefactores en cada uno de los tableros CON CONTROL
+HIGROSCOPICO Y TERMOSTATO, PROTECCIÓN
+TERMOMAGNÉTICO, en cada uno de los tableros en los que
+se instale equipos con riesgo de deterioro por humedad tales
+como relés, regletas, contactos auxiliarles, etc.
+IP ≥ 55
+CARACTERÍSTICAS GENERALES DEL TRANSFORMADOR
+
+V1-2021
+5.01
+5.02
+5.03
+5.04
+5.05
+5.06
+5.08
+5.08.01
+5.08.02
+5.09
+5.10
+5.11
+5.12
+5.13
+5.14
+5.15
+
+Número de Fases
+Frecuencia de Operación
+Voltaje nominal en Alto Voltaje HV (H
+winding)
+Voltaje nominal en Medio Voltaje MV (X
+winding)
+Máximo voltaje de operación fase–fase,
+sistema de 138 kV
+Máximo voltaje de operación fase–fase,
+sistema de 23 kV
+Potencia nominal [MVA] (ONAN / ONAF1 /
+ONAF2)
+Potencia Alto Voltaje HV [MVA]
+Potencia Medio Voltaje MV [MVA]
+Capacidad nominal con refrigeración a
+plena capacidad
+Método de conexión de devanados y
+desplazamiento angular
+Polaridad
+Conexión HV
+Conexión MV
+Nivel de ruido (NEMA Standards
+Publication No. TR 1-993 (R2000)
+Impedancia en potencia a su capacidad
+nominal 40 MVA, 138/23 kV y a 75 °C y 60
+Hz
+
+5.16
+
+Impedancia de cortocircuito a 75 °C, en las
+distintas etapas de refrigeración
+
+5.17
+
+La impedancia de secuencia positiva
+referida a 27 MVA, 138 kV, y a 75°C en tap
+central y entre los extremos del tap
+
+5.18
+
+Características de Funcionamiento
+
+5.19
+
+Funcionamiento de transformador de
+potencia
+
+5.20
+
+Cambiador de derivaciones a instalarse en
+los devanados de alto voltaje (HV
+windings).
+
+5.21
+
+Sistema de preservación de aceite
+
+5.22
+
+Tipo de puesta a tierra del sistema
+
+5.23
+
+Eficiencia Energética
+
+5.24
+
+Peso máximo una vez armado. Incluido
+parte activa, tanque, accesorios y aceite
+
+5.25
+
+Dimensiones máximas de la base de la
+cuba
+
+5.26
+
+Pernos de anclaje
+
+5.27
+
+Diseño de Placa de Características
+
+6
+6.01
+
+Voltaje RMS nominal del sistema
+
+6.01.01
+6.01.02
+7
+
+138 kV
+23 kV
+
+3
+60 Hz
+138 kV
+23 kV
+160 kV
+27 kV
+27 / 33 / 40
+27 / 33 / 40
+27 / 33 / 40
+ONAN / ONAF1 / ONAF2
+Dyn1
+Sustractiva
+Delta
+Estrella
+≤ 77 dB a 40 MVA
+27 [MVA] ≤ 7.00%
+33 [MVA] ≤ 8.50%
+40 [MVA] ≤ 10.00%
+TAP MENOR
+(Indicar*)
+TAP CENTRAL
+(Indicar*)
+TAP MAYOR
+(Indicar*)
+≤ 7%
+Step Down
+Sumergido en Aceite Mineral Aislante (Tipo II según
+D3487)
+Potencia nominal continua en todas las posiciones de los
+conmutadores de tomas como: enfriamiento natural (ONAN)
+/1a. etapa de enfriamiento forzado (ONAF1) / 2a. etapa de
+enfriamiento forzado (ONAF2), para un incremento promedio
+del cobre de 65°C
+OLTC Cambiador de derivaciones bajo carga de ±8 pasos
+(1.875% cada paso), Extinción de arco en vacío, aislamiento
+de contactos a tierra onda 1.2/50[BIL] mínimo 650kV
+Tanque conservador con celda de aire; sello flexible entre el
+aceite y el aire; y deshidratador
+Multigrounded
+Especificar según datos de pérdidas del ítem 9
+La eficiencia máxima debe conseguirse al 100% de su carga
+en su capacidad ONAF II y 0.8 de factor de potencia en
+retraso.
+-
+
+≤ 70 Toneladas
+≤ 5.50m x 4.0 m
+Nota: Restricción dimensional, establecida por el diseño civil
+de la base del transformador.
+Diseñados por el fabricante y suministrados por el
+contratista, para grado sísmico 0.5g
+Conforme a los requerimientos de la sección 5.12 de IEEE Std.
+C57.12.00, cuyo diseño será aprobado por EEQ.
+AISLAMIENTO INTERNO
+Nivel Básico de Aislamiento (BIL), CRESTA [kV], onda 1.2/50
+µs [kV]
+≥ 650 kV
+≥ 150 kV
+AISLAMIENTO EXTERNO
+
+V1-2021
+7.01
+7.01.01
+7.02.02
+7
+7.01
+7.02
+8
+8.01
+
+8.02
+
+8.03
+
+8.04
+9
+9.01
+9.02
+
+9.03
+
+9.04
+
+9.05
+10
+10.01
+10.02
+10.02.01
+10.03
+10.03.01
+
+10.04
+
+11
+11.01
+11.02
+12
+12.01
+12.02
+
+Nivel Básico de Aislamiento (BIL), CRESTA [kV], onda 1.2/50
+µs [kV]
+138 kV
+≥ 750 kV
+23 kV
+≥ 200 kV
+NIVEL BÁSICO DE AISLAMIENTO (BIL) DE LOS DEVANADOS DEL TRANSFORMADOR
+Devanados de alto voltaje (HV)
+≥ 650 kV
+Devanados de medio voltaje (MV)
+≥ 150 kV
+ELEVACIÓN DE TEMPERATURA DE LOS DEVANADOS CON TEMPERATURA AMBIENTAL DE PROMEDIO 30°C
+No exceder los límites permitidos por ANSI/IEEE C57.12.00 y
+será determinado de acuerdo con guía IEEE Std. C57.91, o su
+Temperatura del aceite
+equivalente en IEC.
+(anexar cálculo y valor)
+No exceder los límites permitidos por ANSI/IEEE C57.12.00 y
+Temperatura del punto más caliente del será determinado de acuerdo con guía IEEE Std. C57.91, o su
+aceite (Hot-Spot)
+equivalente en IEC.
+(anexar cálculo y valor)
+No exceder los límites permitidos por ANSI/IEEE C57.12.00 y
+será determinado de acuerdo con guía IEEE Std. C57.91, o su
+Temperatura de los devanados
+equivalente en IEC.
+(anexar cálculo y valor)
+No exceder los límites permitidos por ANSI/IEEE C57.12.00 y
+Temperatura punto más caliente de los será determinado de acuerdo con guía IEEE Std. C57.91, o su
+devanados (Hot-Spot)
+equivalente en IEC.
+(anexar cálculo y valor)
+PÉRDIDAS
+Perdidas sin carga (Núcleo) 100% del
+≤ 27.00 kW
+voltaje nominal y con frecuencia de 60Hz
+(anexar cálculo preliminar)
+Perdidas en carga (Cobre) posición
+≤ 150.00 kW
+nominal HV a potencia ONAN (27 MVA) a
+(anexar cálculo preliminar)
+75 °C y con frecuencia de 60Hz
+Perdidas en carga (Cobre) posición
+≤ 330.00 kW
+nominal HV a potencia ONAF2 (40 MVA) a
+(anexar cálculo preliminar)
+75 °C y con frecuencia de 60Hz
+Impedancia del transformador potencia
+≤ 7.00%
+ONAN (27 MVA) posición nominal HV a
+(anexar cálculo preliminar)
+75°C
+Impedancia del transformador potencia
+≤ 10.00%
+ONAF2 (40 MVA) posición nominal HV a
+(anexar cálculo preliminar)
+75°C
+BUSHINGS OFERTADOS
+Norma de Fabricación
+ANSI/IEEE C57.19.00
+Lado de Alto Voltaje (HV)
+Indicar* marca y código de producto (fases)
+Número de Bushings
+3
+Indicar* marca y código de producto (fases)
+Lado de Medio Voltaje (MV)
+Indicar* marca y código de producto (neutro)
+Número de Bushings incluyendo neutro
+4
+Los bushings de medio voltaje (23 kV), deben instalarse en
+Ubicación de los bushings del lado de 23kV
+una caja con aislamiento de aire (air filled terminal chamber
+for cable entrance). Esta caja será suficientemente grande y
+reforzada para permitir la salida de dos cables aislados TRXLPE de 750 MCM por fase. La ubicación de esta caja será
+conforme con la figura Nro. 1. Se debe suministrar una viga
+horizontal aislada para soporte de los cables, con su
+respectivo sistema de bridas para sujetar los mismos y
+apoyarlos, a fin de evitar que los cables colgantes causen
+esfuerzos sobre las bases de los bushings.
+Voltaje RMS nominal del sistema
+
+El suministro del transformador debe ir acompañado de un
+juego terminales para cables aislados de calibre 750 - 1000
+Figura Nro. 1
+MCM para el devanado de 23kV.
+Nota: Todos los Bushings del transformador deben ser sintético impregnado con resina RIS
+RIGIDEZ DIELÉCTRICA DE LOS BUSHING A IMPULSOS ATMOSFÉRICOS (Los niveles de BIL solicitados ya consideran la corrección de altura a
+3000 m.s.n.m)
+Lado de alta tensión (HV) 138 kV
+≥ 750 kV
+Lado de alta tensión (MV) 23 kV
+≥ 200 kV, incluido neutro
+RIGIDEZ DIELÉCTRICA DE LOS BUSHING A FRECUENCIA INDUSTRIAL (Los niveles de BIL solicitados ya consideran la corrección de altura a
+3000 m.s.n.m)
+Lado de alta tensión (HV) 138 kV
+≥ 325 kV
+Lado de alta tensión (MV) 23 kV
+≥ 80 kV, incluido neutro
+
+V1-2021
+13
+13.01
+13.02
+13.03
+13.04
+13.05
+13.06
+13.07
+13.08
+
+CARACTERÍSTICAS ADICIONALES DE LOS BUSHING DEL TRANSFORMADOR
+Material de los bushings HV y MV
+Sintético impregnado con resina hidrofóbico autolimpiable
+Distancia mínima entre fases en 138 [kV]
+≥1500 mm
+Distancia mínima entre fases en 23 [kV]
+≥380 mm
+- RIP (resin – impregnated Paper) o RIS (resin – impregnated
+Tipo de bushing
+synthetic)
+Grado de contaminación HV y MV
+Tipo III
+Lateral
+Ubicación bushing 23 [kV]
+Conforme Figura No 1
+Suministro de terminales para 138 kV
+Para conductor de Cobre o Aluminio 600-1000 MCM.
+Para conductor de Cobre o Aluminio 2 por fase de 1000-1500
+Suministro de terminales para 23 kV
+MCM (6 unidades).
+Terminal acorde con barraje o conductor de cobre con
+recubrimiento de plata para calibre, según diseño de fábrica.
+
+13.09
+
+Suministro de terminal y barraje de neutro
+
+14
+14.01
+
+CAMBIADOR DE DERIVACIONES BAJO CARGA OLTC (No se admite conmutador de tres columnas)
+Cambiador de derivaciones bajo carga
+Indicar* marca y código de producto (3 fases)
+Certificado de cumplimiento Norma IEC
+Sí
+60214 o su equivalente ANSI
+Ubicación del OLTC
+Lado de 138 kV
+Tecnología de conmutación
+En vacío
+Regulación sobre el voltaje nominal
+8 pasos de 1,875% c/u
+Regulación bajo el voltaje nominal
+8 pasos de 1,875% c/u
+Interno en compartimento adyacente al tanque principal del
+Ubicación del intercambiador de taps
+transformador
+Voltaje paso soportado
+Indicar* el voltaje máximo de paso soportado (V)
+Nivel de aislamiento BIL completo OLTC y
+650 kV y 250 Amp
+Corriente de Trabajo
+Tipo de conmutador
+Trifásico, tecnología en vacío
+Hasta un 10% de la potencia nominal, por tiempos > 2 horas
+Capacidad de sobrecarga
+en c/u de las posiciones, siendo en máximo o mínimo voltaje
+de rango de duración.
+
+14.02
+14.03
+14.04
+14.05
+14.06
+14.07
+14.08
+14.09
+14.10
+14.11
+14.12
+
+Permite operación manual
+
+14.13
+
+Localización de la palanca de operación
+
+Sí
+Indicar* la altura desde la base del transformador, deberá
+poseer aditamentos de bloqueo instalando candados u otro
+tipo de seguridades.
+La protección del cambiador de tomas bajo carga deberá ser
+hecha a través de un relé de flujo, instalado entre el
+cambiador y el conservador de aceite. El relé de flujo deberá
+poseer un mecanismo de prueba y clara indicación visual y
+remota de operación.
+El estado del relé de flujo debe ser visualizado en el sistema
+de monitoreo del transformador (TMS), y un contacto
+disponible en bornera del transformador (libre del sistema de
+monitoreo del transformador – TMS), para el circuito de
+desconexión del transformador.
+
+14.14
+
+Protección
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, etc.; con el propósito de monitorear el estado del
+equipo de forma remota vía protocolo IEC 61850 versión 2
+configurable.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+El Indicador del nivel de aceite deberá disponer:
+•
+
+14.15
+
+Indicador del nivel de aceite
+•
+
+Señal eléctrica por nivel máximo de aceite, misma que
+deberá ser integrada en el sistema de monitoreo del
+transformador (TMS).
+Señal eléctrica por nivel mínimo de aceite, misma que
+deberá ser integrada en el sistema de monitoreo del
+transformador (TMS).
+
+V1-2021
+•
+
+Señal de 4 – 20 mA, para visualización del nivel de
+aceite en el sistema de monitoreo del transformador
+(TMS)
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, etc.; con el propósito de monitorear el estado del
+equipo de forma remota vía protocolo IEC 61850 versión 2
+configurable.
+
+14.16
+
+Contador de operaciones
+
+14.17
+
+Indicador de posición
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Deberá señalar el número acumulado de operaciones
+realizadas.
+Indicador de posición deberá enviarse una señal hacia el relé
+de regulación de voltaje, el cual grabará esta información y
+llevará sus parámetros y señales al SCADA de la EEQ vía
+protocolo IEC 61850.
+Manual – Off – Auto – Remoto.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará el estado de cada uno de los switch de selección
+de operación.
+
+14.18
+
+14.19
+
+Switch para selección de operación
+
+Relé regulador de voltaje
+
+El estado de cada uno de los switch de selección de operación
+será monitoreado por el sistema de monitoreo del
+transformador (TMS), mismo que enviará esta información al
+sistema SCADA de forma remota vía protocolo IEC 61850.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Generalidades:
+•
+Suministro de Voltaje:
+o
+Un: 125 +/- 20% Vcc.
+•
+Frecuencia de Operación en Régimen CA: 60 Hz
+•
+Potencia: ≤ 15VA
+•
+Display: LCD gráfico
+•
+Indicadores Luminosos de servicio y señalización:
+Tipo Led, ≥ 4
+•
+Cubierta Exterior: Incluido
+•
+Control Manual / Automático: Incluido
+•
+Control Local / Remoto: Incluido
+•
+Marcha en paralelo Maestro – Seguidor y
+corrientes circulante.
+•
+Comportamiento de la regulación: Lineal e Integral
+•
+Protocolo de Comunicación: IEC 61850 edición 1 y
+2 configurable.
+Configuración Rápida del Regulador de Voltaje:
+•
+Rango de Consigna: ≥ 49 - ≤ 140V
+Regulación de Voltaje:
+•
+Rango de Consigna: ≥ 49V - ≤ 140V
+•
+Ancho de Banda: ≥ 0.50% - ≤ 9%
+•
+Tiempo de retardo para la regulación: ≥ 0 - ≤ 600 s
+•
+Tiempo de retardo para la regulación Rápida: ≥ 0 ≤ 10 s
+•
+Función adicional de control de sobre voltaje
+mediante operación rápida del cambiador de TAPS
+•
+Función adicional de bloqueo del cambiador de
+TAPS por bajo voltaje
+Compensación:
+
+V1-2021
+•
+
+Método de compensación: LDC (Line drop
+compensación R&X) / Z
+•
+Compensación de Línea: ≥ -25 - ≤ 25V
+Trabajo en Paralelo:
+•
+Sensibilidad de la corriente reactiva circulante: ≥ 0
+- ≤ 100 %
+•
+Bloqueo de la corriente reactiva circulante: ≥ 0.50
+- ≤ 40 %
+•
+Retardo falla en Paralelo: ≥ 1 - ≤ 999 s
+•
+Sentido de Tomas en Seguidor: Estándar / Reverso
+Entradas y Salidas Digitales (Binarias) configurables:
+•
+Entradas: ≥ 5
+•
+Salidas: ≥ 5
+Registro de Posición de Tomas:
+•
+Analógico:
+0 – 20 mA y/o
+4 – 20 mA
+Ajuste remoto del valor consigna:
+•
+Modos de Ajuste remoto:
+Apagado
+0 – 20 mA
+4 – 20 mA
+•
+Valor mínimo de consigna configurable: ≥ 0 - ≤ 140
+V
+•
+Valor máximo de consigna configurable: ≥ 0 - ≤
+140 V
+Detalle de Montaje del Regulador:
+•
+
+•
+
+El regulador de voltaje debe ser instalado en una
+caja metálica, con conexión para tierra disponible
+y grado de protección ≥ IP54.
+Los conductores y bloques terminales (borneras)
+deberá disponer del 10% adicional a los
+requeridos.
+
+Nota: El dispositivo será instalado en el gabinete de control
+del transformador.
+Para indicación del voltaje en el lado secundario del
+transformador, que será alimentado desde un transformador
+de potencial.
+14.20
+
+14.21
+
+Voltímetro
+
+Monitoreo
+
+15
+
+15.01
+
+15.02
+
+Tipo
+
+Montaje
+
+Nota: La señal de voltaje será suministrada por Empresa
+Eléctrica Quito a punto de bornera del voltímetro, ubicado en
+tablero de control del transformador.
+La información de los instrumentos de la operación del
+intercambiador de derivaciones bajo carga, regulador de
+voltaje, incluyendo la posición del cambiador de tomas,
+deben ser integrados en el concentrador de señales y a su
+vez, este deberá enviar vía protocolo IEC 61850 versión 2
+configurable, al SCADA de la EEQ.
+RADIADORES
+Los transformadores deberán suministrarse con los
+radiadores requeridos para el enfriamiento del aceite, de
+chapa de acero, según Norma DIN 42559/pk 6600.
+Cada radiador tendrá:
+•
+Un (1) tapón de drenaje y un (1) tapón de escape.
+•
+Un perno de ojo para levantar cada radiador del
+transformador
+•
+Ventilador/es requerido/os para el enfriamiento
+especificado.
+Nota: Los radiadores serán diseñados de tal manera que no
+tengan huecos o superficies que puedan acumular agua y
+debe estar colocados de tal manera que todas las superficies
+sean accesibles para repintado y limpieza sin remover los
+radiadores del tanque.
+Cada radiador debe ser montado en forma independiente y
+estar interconectado al tanque por medio de válvulas que
+
+V1-2021
+permitan quitar cualquiera de los radiadores o reemplazarlos
+sin pérdida de aceite, con el transformador en servicio.
+
+15.03
+
+Resistencia mecánica
+
+15.04
+
+Válvulas
+
+15.05
+
+Pérdida de un radiador
+
+16
+16.01
+
+Operación
+
+16.02
+
+Protección
+
+16.03
+
+Funcionamiento
+
+16.06
+
+Arranque
+
+17
+
+17.01
+
+Materiales
+
+17.02
+
+Cuba y tanque de expansión
+
+17.03
+
+Presiones de operación
+
+17.04
+
+Llenado al vacío
+
+Nota: Se proveerán empaques nuevos para montaje in situ.
+Todos los radiadores deberán poseer suficiente resistencia
+mecánica para soportar la presión atmosférica exterior
+cuando se efectúe el vacío absoluto (< 133 Pa) en su interior y
+la misma presión interna que la del tanque, que puede ser
+causada por un arco eléctrico.
+Nota: Durante el proceso de montaje, los radiadores deberán
+soportar presiones de vacío inferiores a 133 Pa por al menos
+24 horas.
+Los radiadores deben poseer una válvula superior y una
+inferior que permita el sangrado del aceite para el llenado.
+El transformador deberá ser capaz de funcionar dentro de sus
+parámetros nominales (100% de la capacidad máxima del
+transformador en su segunda etapa de enfriamiento) en el
+caso de pérdida de uno de sus radiadores.
+VENTILADORES
+Los ventiladores deberán ser del tipo de operación silenciosa
+(low noise) y de bajas revoluciones. Los motores de
+propulsión deberán ser para alimentación a tensión trifásica
+220 voltios y 60 Hz y para trabajo industrial.
+Los ventiladores deberán poseer:
+•
+Alarmas de fallo a través de indicadores lumínicos
+instalados en el gabinete de control del transformador.
+•
+Señal eléctrica por falla de ventilador (independiente
+por cada equipo de ventilación), misma que deberá ser
+integrada en el sistema de monitoreo del
+transformador (TMS).
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, etc.; con el propósito de monitorear el estado del
+equipo de forma remota vía protocolo IEC 61850 versión 2
+configurable.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+La operación de estos elementos deberá ser manual y
+automática por acción de los termómetros (aceite o
+devanados), y/o través de señal del sistema de monitoreo del
+transformador (TMS) y/o a través de señal remota (SCADA).
+A través del sistema de monitoreo del transformador (TMS),
+se visualizará el estado de cada ventilador (Encendido /
+Apagado / Falla); con el propósito de monitorear el estado
+del equipo de forma remota vía protocolo IEC 61850.
+Se requiere al arranque mediante dos etapas por medio de
+relés auxiliares que deberán instalarse para impedir que
+varios motores arranquen en forma simultánea.
+MATERIALES Y ACABADOS INTERNOS Y EXTERNOS DEL TRANSFORMADOR
+Todos los materiales empleados en la fabricación que
+deberán suministrarse en este proyecto serán nuevos y
+deberán cumplir con las normas indicadas en las presentes
+especificaciones técnicas.
+Nota: Los materiales a ser utilizados en la fabricación del
+transformador, estarán sujetos a la aprobación de la EEQ.
+Acero conforme ASTM A283, Grado B o INEN equivalente
+>25% a la máxima presión de operación resultante del
+sistema de preservación del aceite utilizado, sin deformación
+permanente.
+Deberán estar diseñado para el llenado al vacío (presión
+
+V1-2021
+
+17.05
+
+Protocolo de pruebas
+
+17.06
+
+Presiones máximas positivas y negativas
+
+17.07
+
+Alojamiento de empaques
+
+17.08
+17.09
+
+17.09.01
+
+17.10
+17.11
+
+Válvulas de aislamiento (Tanque de
+expansión)
+Soldadura consistente con el tipo de grado
+de acero
+
+Ensayos no destructivos en soldaduras
+
+Accesos de inspección o de inspección en
+la cubierta
+Acceso para conexiones de bushings, TC´s,
+OLTC, etc.
+
+17.12
+
+Guías dentro del tanque
+
+17.13
+
+Conectores soldados al tanque para
+puesta a tierra
+
+17.14
+
+Base de la cuba
+
+17.15
+
+Tapa superior del tanque
+
+17.16
+
+Integridad del tanque
+
+17.17
+
+Partes expuestas a la acumulación de agua
+
+17.18
+
+externa de una atmósfera, esencialmente vacío total) en el
+campo.
+Conforme a la sección 8, tabla 17 de ANSI / IEEE Std.
+C57.12.00, o equivalente a INEN o IEC.
+Diseño Conforme a la sección 6.5 de ANSI / IEEE Std.
+C57.12.00 o equivalente a INEN o IEC.
+Indicar *en placa de denominación según sección 5.8 de
+ANSI / IEEE Std. C57.12.10 o equivalente a INEN o IEC.
+Las superficies donde se coloca los empaques deben ser
+maquinadas, lisas y planas, así como disponer la suficiente
+rigidez para asegurar una compresión adecuada de los
+empaques.
+De bronce y conexión mediante brida, aptas para trabajo con
+aceite caliente.
+Conforme norma ASME sección VIII, libre de rebaba y
+substancias corrosivas.
+Todas las soldaduras efectuadas se examinarán con 100% por
+ultrasonido y deberá cumplir con la sección VIII de las normas
+ASME. Para juntas que no aplique el examen de ultrasonido
+se realizará partículas magnéticas y/o tintas penetrantes.
+
+Recubrimiento Superficial Exterior
+
+El oferente deberá indicar* en una carta compromiso, que
+entregará los resultados de los ensayos realizados por
+pruebas de ultrasonido en soldaduras sin costo adicional para
+EEQ, como parte integral de las pruebas FAT.
+Mediciones conforme sección 5.8.3 de ANSI / IEEE Std.
+C57.12.10 o su equivalente IEC o INEN.
+Manholes y handholes.
+Se incluye las guías dentro del tanque para facilitar el
+movimiento del núcleo y de los devanados cuando estos se
+introduzcan o se saquen del tanque.
+Debe alojar un rango de calibres conductor entre 2/0 AWG y
+300 MCM, como se indica:
+- Dos (2) en la base de las paredes del tanque principal
+lados opuestos diagonalmente;
+- Uno (1) en cubierta o paredes del tanque principal cerca
+del bushing del neutro.
+Será fabricada con vigas de acero soldadas al fondo del
+tanque. La base tendrá un mínimo de 4 (cuatro) puntos de
+apoyo para gatas (Jacks), los cuales deberán ser diseñados
+para elevar el transformador completamente ensamblado y
+lleno de aceite.
+Debe ser sujeta únicamente con pernos, no se admite
+soldadura.
+El oferente debe presentar una carta compromiso en donde
+indique que una vez sea instalada la tapa superior del tanque
+registrará el torque de cada uno de los pernos, esta
+información será enviada como documentación adicional del
+transformador.
+Se debe eliminar toda perforación o barreno sobre la pared o
+cubierta del tanque. El oferente debe fijar o soportar los
+accesorios sin hacer perforaciones.
+Se requiere que por diseño se evite la acumulación de agua
+en la cubierta del tanque, en todas las tapas y superficies de
+los tableros, tanque conservador y del intercambiador.
+Nota: El diseño del transformador estará sujetos a la
+aprobación de la EEQ.
+Previo a cualquier actividad de pintura, todas las piezas de la
+máquina deberán ser granalladas para lograr una superficie
+totalmente limpia y donde se observe directamente el metal
+libre de toda clase de adherencias.
+Las superficies de exteriores recibirán, en fábrica, un mínimo
+de 4 (cuatro) capas de pintura, con acabado brillante según el
+siguiente detalle:
+
+V1-2021
+Base: Una capa de pintura de zinc inorgánico que contenga
+85% de zinc una vez seca (espesor de la capa seca
+aproximadamente 80 micrones).
+Capa intermedia: Una capa de base de pintura vinílica
+universal, modificada con una proporción en volumen de 25%
+de sólidos (espesor de la capa seca aproximadamente 50
+micrones).
+Terminación: Dos capas de esmalte líquido siliconado, con
+una proporción en volumen de 40% de sólidos (espesor de la
+capa seca aproximadamente 40 micrones).
+
+17.18.01
+
+Espesor de la pintura externa
+
+17.18.02
+
+Recubrimiento Superficial Interior
+
+17.18.03
+17.18.04
+
+Espesor de la pintura interna
+Color pintura externa
+
+17.19
+
+Devanados
+
+El oferente obligatoriamente deberá presentar un
+documento de fábrica en el cual se evidencie que el
+procedimiento de pintura cumple con las especificaciones
+técnicas requeridas por la EEQ.
+> 170 µm
+El interior de los tanques o de otras cámaras que se llenarán
+de aceite, será pintado con un barniz o esmalte resistente al
+aceite, y de color claro blanco.
+> 200 µm
+Indicar*
+Bobinado de cobre electrolítico, capaces de soportar pruebas
+dieléctricas especificadas en las características nominales.
+Las conexiones de los devanados a los bushings deben estar
+soportadas para evitar daños por vibración y se recomienda
+que
+sea
+en
+conductor
+circular
+entrelazado.
+Nota: El material a ser utilizado, estará sujeto a la aprobación
+de la EEQ.
+Papel Termoestabilizado ANSI/IEEE Std. C57.100, Clase E
+120°C ó equivalente a IEC o INEN.
+
+17.19.01
+
+Papel de aislamiento
+
+Para el sistema de amarre entre el sistema superior e inferior,
+usar uso tie rods, para permitir un mejor comportamiento a
+las fuerzas de cortocircuito.
+Nota: El material a ser utilizado, estará sujeto a la aprobación
+de la EEQ.
+VAPOUR PHASE (≤0.5% de humedad)
+
+17.19.02
+
+Proceso de secado Núcleo – Bobinas
+
+17.20
+
+Grado de polimerización al finalizar el
+proceso
+Madera utilizada
+
+17.21
+
+Núcleo
+
+17.19.03
+
+17.22
+
+Habilidad para soportar cortocircuitos
+
+17.23
+
+Cables de control
+
+Nota: El oferente obligatoriamente deberá presentar un
+documento de fábrica en el cual se evidencie que el
+procedimiento de secado de la parte activa cumple con las
+especificaciones técnicas requeridas por la EEQ.
+Mínimo: 1000
+Norma IEC 61061 ó equivalente INEN o ANSI.
+Láminas de acero eléctrico al silicio con cristales orientados,
+libre de fatiga por envejecimiento, con pérdidas de histéresis
+reducidas y con una gran permeabilidad y exentas de rebabas
+o salientes afilados (rebaba de corte de laminación: < 0.025
+mm).
+Nota: El material a ser utilizado, estará sujeto a la aprobación
+de la EEQ.
+Según la norma de construcción ANSI / IEEE C57.12.00,
+especificar el nivel de cortocircuito que puede soportar el
+transformador para HV y MV
+Multiconductor de cobre blindado super flexible, clase K,
+aislado con XLPE, retardante a la llama, con calibre de cada
+hilo superior o igual 14 AWG, temperatura de operación 105°
+C.
+Las conexiones se deben efectuar en bloques terminales con
+terminal metálico tipo puntera.
+
+V1-2021
+17.24
+
+17.25
+
+18
+
+18.01
+
+Bidireccional de acuerdo con las hojas de cableado y planos
+aprobados por EEQ.
+Se debe utilizar tubería rígida para cablear todas las señales
+de control y protección, supervisión y comunicación del
+transformador al tablero de control y coraza metálica flexible
+Cableado externo
+solamente para la llegada de los conductores a los accesorios.
+Los tubos se fabricarán con acero galvanizado según normas
+ASTM A-653, ASTM A-527.
+DISPOSITIVOS DE TRANSPORTE, MOVILIZACIÓN Y ANCLAJE DEL TRANSFORMADOR
+Con el tanque principal se deberán suministrar ganchos u
+otros aditamentos que permitan levantar tanto al tanque
+principal como al transformador, completamente armado y
+Para elevar el transformador
+con aceite.
+Etiquetado de cables
+
+Las superficies de estos aditamentos deberán estar libre de
+bornes afilados.
+La base debe ser provista de patines (skids) u otro dispositivo,
+que permita deslizar el transformador sobre rodillos tanto en
+sentido longitudinal como transversal.
+
+18.02
+
+Para la movilización del transformador
+
+18.03
+
+Para anclaje
+
+18.04
+
+Aplicación de gatas
+
+19
+19.01
+
+Aceite
+
+19.02
+19.03
+19.04
+19.05
+20
+20.01
+20.02
+20.03
+20.04
+20.05
+20.06
+
+Cantidad
+Año de Fabricación
+Tipo
+Norma
+
+20.07
+
+Elemento sensitivo
+
+20.08
+
+Principio de medición
+
+20.09
+
+Microswitch del termómetro
+
+Termómetro de aceite (OTI)
+Año de Fabricación
+Grado de protección
+Precisión
+Rango de Medición
+Voltaje de Aislamiento
+
+Esta base deberá ser adecuadamente diseñada con el fin de
+que, estando el transformador preparado para transporte,
+con aceite o sin aceite, el centro de gravedad no caiga fuera
+de la base cuando se efectúe una inclinación del
+transformador de 15 grados con respecto a la horizontal.
+Igualmente se deberán proveer ganchos (pulling eyes) para el
+arrastre en cualquier dirección del transformador.
+Los transformadores deberán ser suministrados con su
+sistema de anclaje antisísmico (Anti-Earthquake Clamping
+Device), el proveedor establecerá como método de cálculo
+los lineamientos establecidos en la norma IEEE 693-2005 o
+equivalente INEN o ANSI, con un nivel de calificación sísmica
+de 0,5g (Moderada), los pernos de anclaje a ser suministrados
+serán de acero galvanizado y deben dimensionarse para un
+grado sísmico 0.5 g.
+El Contratista deberá suministrar la memoria de Cálculo
+Sísmico.
+El tanque principal del transformador deberá diseñarse y
+construirse dejando los puntos de apoyo necesarios para la
+aplicación de gatas (Jacks) para levantar el transformador
+completamente armado. El fabricante suministrará las
+láminas de acero necesarias para instalación en la base del
+transformador; sobre estas láminas se ubicarán las gatas para
+levantar el transformador.
+ACEITE DEL TRANSFORMADOR
+Indicar* marca y código de producto
+Presentar Hoja de Datos Técnicos (Datasheet) del producto
+La cantidad requerida para el transformador más un 10%
+No menor a 2022
+Mineral, tipo II (Inhibido) – ISOPARAFÍNICO
+ASTM D 3487, tipo II (Inhibido)
+TERMÓMETRO PARA MEDICIÓN DE TEMPERATURA DE ACEITE
+Marca y código del producto
+No menor al 2022
+≥ IP 55
+≤ +/- 3° C de la escala total
+0 a ≥+120° C
+2500 VCA / 1 min bornes contra tierra
+PT100
+El elemento sensitivo del termómetro (temperature sensitive
+bulb), deberá localizarse en la parte superior del tanque, en
+el sitio en que se obtendrá la máxima temperatura del aceite.
+El principio de medición de la temperatura debe ser hecho
+por sistema tipo Bourdon, con un capilar instalado en un
+termopozo.
+El medidor de temperatura del aceite (OTI) deberá poseer un
+
+V1-2021
+sistema de transmisión de la temperatura del tipo de líquido
+orgánico a presión (Organic liquid filled pressure system), con
+microswitches ajustables de contactos sin puesta a tierra
+(nongrounded contacs), estos serán utilizados en los
+siguientes propósitos:
+- Contacto 1. Arranque de la etapa I de los ventiladores,
+ajustable entre 55 grados centígrados y 90 grados
+centígrados.
+- Contacto 2. Arranque de la etapa II de los ventiladores,
+ajustable entre 65 grados centígrados y 90 grados
+centígrados.
+
+- Contacto 3. Señal de alarma de sobre temperatura de
+aceite, ajustable entre 85 grados centígrados y 115 grados
+centígrados.
+- Contacto 4. Señal de disparo del disyuntor de
+alimentación, ajustable entre 95 grados centígrados y 115
+grados centígrados.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, temperatura, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850 versión 2 configurable.
+
+20.10
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Indicador de aceite (OTI) deben ser calibrados en fábrica para
+sus diferentes aplicaciones.
+4 – 20 mA
+
+Contactos del termómetro
+
+El medidor de temperatura del aceite (OTI) deberá poseer un
+sistema de transmisión del valor de temperatura de aceite al
+sistema de monitoreo del transformador (TMS).
+
+20.11
+
+Transmisión analógica
+temperatura
+
+del
+
+20.12
+21
+21.01
+21.02
+21.03
+
+Dispositivo anti vibraciones
+
+21.04
+
+Cantidad
+
+21.05
+21.06
+21.07
+
+Precisión
+Rango
+Voltaje de Aislamiento
+
+valor
+
+Termómetro de devanados (WTI)
+Año de Fabricación
+Grado de protección
+
+de
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, temperatura, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850 versión 2 configurable.
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Incluido en base soporte del dispositivo
+TERMÓMETRO PARA MEDICIÓN DE TEMPERATURA DE DEVANADOS
+Marca y código del producto
+No menor al 2022
+≥ IP55
+Dos (2)
+- Uno (1) para medición de temperatura del bobinado de HV
+(Hot Spot)
+- Uno (1) para medición de temperatura del bobinado de
+MV (Hot Spot)
+≤ +/- 3° C de la escala total
+0 a ≥+160° C
+2500 VCA / 1 min bornes contra tierra
+
+V1-2021
+PT100
+
+21.08
+
+Elemento sensitivo
+
+21.09
+
+Tipo de medición
+
+El elemento sensitivo del termómetro (temperature sensitive
+bulb), deberá localizarse en la parte superior del tanque, en
+el sitio en que se obtendrá la máxima temperatura de
+devanados (Hot Spot) de HV y MV a través de imagen
+térmica.
+Imagen térmica, ubicado en una fase de uno de los
+devanados.
+El medidor de temperatura de devanados (WTI) deberá
+poseer microswitches ajustables de contactos sin puesta a
+tierra (nongrounded contacs), estos serán utilizados en los
+siguientes propósitos:
+- Contacto 1. Arranque de la primera etapa de los
+ventiladores, ajustable entre 65 grados centígrados y 90
+grados centígrados.
+- Contacto 2. Arranque de la segunda etapa de los
+ventiladores, ajustable entre los 75 grados centígrados y
+105 grados centígrados.
+- Contacto 3. Señal de alarma de sobre temperatura de
+devanados, ajustable entre 90 grados centígrados y 140
+grados centígrados.
+
+21.10
+
+Microswitch del termómetro
+- Contacto 4. Señal de disparo del disyuntor de
+alimentación, ajustable entre 95 grados centígrados y 140
+grados centígrados.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, temperatura, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850 versión 2 configurable.
+
+21.11
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Indicador de temperatura de devanados (WTI), debe ser
+calibrado en fábrica para sus diferentes aplicaciones.
+4 – 20 mA
+
+Contactos del termómetro
+
+El medidor de temperatura de devanados (WTI) deberá
+poseer un sistema de transmisión del valor de temperatura
+de aceite al sistema de monitoreo del transformador (TMS).
+
+21.12
+
+21.13
+22
+22.01
+22.02
+22.03
+
+Transmisión analógica
+temperatura
+
+del
+
+valor
+
+Dispositivo anti vibraciones
+Válvula de alivio de sobrepresión
+Año de Fabricación
+Grado de protección del dispositivo
+
+de
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, temperatura, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850 versión 2 configurable.
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Incluido en base soporte del dispositivo
+DISPOSITIVOS DE ALIVIO DE PRESIÓN DEL TANQUE PRINCIPAL
+Indicar* marca y código del producto
+No menor al 2022
+≥ IP 55
+
+V1-2021
+22.04
+22.05
+22.06
+22.07
+
+Grado de protección del microswitch
+Presión de Activación
+Tiempo de activación
+Voltaje de Aislamiento
+
+≥ IP 55
+≥ 50 kPa, sin interferencia de presión atmosférica y clima.
+≤ 2ms
+2500 VCA / 1 min bornes contra tierra
+La válvula de alivio de presión del tanque principal deberá
+poseer microswitches ajustables de contactos sin puesta a
+tierra (nongrounded contacs), estos serán utilizados en los
+siguientes propósitos:
+- Contacto 1. Señal de disparo, conectado directamente al
+sistema de monitoreo del transformador (TMS).
+- Contacto 2. Señal de disparo, libre del sistema de
+monitoreo del transformador (TMS), identificado en
+borneras del gabinete de control del transformador, para
+uso interno de EEQ.
+
+22.08
+
+Microswitch asociados a la operación del
+dispositivo
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, temperatura, etc.; con el propósito de monitorear
+el estado del equipo de forma remota vía protocolo IEC
+61850.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+
+22.09
+
+Mecanismo de Visualización de Activación
+Física
+
+Semáforo o Bandera
+
+22.10
+
+Ducto de Descarga de Aceite
+
+Incluido, a través de un sistema tubular para conducir el
+aceite
+
+22.11
+
+Material de la Cubierta y Ducto de
+Descarga de Aceite
+
+Acero Inoxidable
+
+23
+23.01
+
+23.02
+
+Presión que soportar
+
+Accesorios del tanque conservador
+
+SISTEMA DEL TANQUE DE EXPANSIÓN O CONSERVADOR
+El equipo de preservación de aceite debe soportar una
+presión de vacío absoluto a nivel del mar o bien una presión
+interna de 103 kPa durante 24 horas, sin sufrir deformaciones
+permanentes.
+El tanque de expansión, deben incluir las siguientes partes y
+accesorios:
+- Una válvula para filtrado, colocada en la parte superior.
+- Una válvula que sirva para muestreo, filtrado y drenado
+total, colocada en la parte inferior.
+- Una válvula de ecualización entre el diafragma de hule
+sintético y el tanque de expansión.
+- Una válvula de ecualización entre el diafragma de hule
+sintético y el compartimento de aceite del cambiador de
+tomas.
+- Un tubo de conexión entre el tanque principal y el tanque
+conservador para acoplar el relevador Buccholtz.
+- Un indicador de nivel de aceite tipo magnético para el
+tanque conservador.
+- Un indicador de nivel de aceite tipo magnético para el
+compartimento de aceite del cambiador de tomas.
+- Un manhole de registro que permita la limpieza e
+inspección del interior del tanque conservador.
+- Un sistema de sello tipo diafragma de hule sintético
+resistente al aceite (bolsa elástica).
+- Un sensor óptico de indicación de rotura del diafragma de
+hule sintético.
+- Un respiradero o secador de aire de silicagel (Dehydrating
+breather), libre de mantenimiento (no serán aceptados
+dispositivos que utilicen silicagel con contenido cobalto),
+para el tanque conservador.
+- Un respiradero o secador de aire de silicagel (Dehydrating
+breather), libre de mantenimiento (no serán aceptados
+
+V1-2021
+dispositivos que utilicen silicagel con contenido cobalto),
+para el compartimento de aceite del cambiador de tomas.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará el estado de cada uno de los respiradores de aire
+de silicagel, sensor óptico de indicación de rotura de hule
+sintético, nivel de aceite del tanque conservador y del
+compartimento de aceite del cambiador de tomas; con el
+propósito de monitorear el estado del equipo de forma
+remota vía protocolo IEC 61850.
+
+24
+24.01
+24.02
+24.03
+24.04
+
+24.05
+
+24.06
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+DESHIDRATADOR DE AIRE (LIBRE DE MANTENIMIENTO)
+Deshidratador de Aire
+Indicar* marca y código del producto
+Año de Fabricación
+No menor al 2022
+Grado de protección del dispositivo
+≥ IP 55
+Grado de protección del panel de control
+≥ IP 55
+Dos (2):
+- Uno (1) a ser instalado para deshidratar el aire del tanque
+Cantidad
+conservador del transformador (hule sintético).
+- Uno (1) a ser instalado en el compartimento de aceite del
+cambiador de tomas.
+Indicar*
+Capacidad
+Acorde a la potencia y tipo del Transformador
+- Falla en el Equipo.
+- Funcionamiento.
+
+24.07
+
+Señalizaciones del Equipo
+
+25
+25.01
+25.02
+25.03
+25.04
+25.05
+
+Relé de Presión Súbita
+Año de Fabricación
+Grado de protección del dispositivo
+Presión máxima y mínima de operación
+Tipo de Interruptor
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará los estados de falla y señalización de cada uno de
+los deshidratadores de aire; con el propósito de monitorear el
+estado del equipo de forma remota vía protocolo IEC 61850.
+RELÉ DE ELEVACIÓN RÁPIDA DE PRESIÓN
+Indicar* marca y código del producto
+No menor al 2022
+≥ IP 55
+≥ -14.7 - ≤ 20 PSI (G)
+Acción Rápida, SPDT
+Dos señales:
+- Uno (1), para señalización de activación de la protección
+en el sistema de monitoreo del transformador (TMS)
+- Uno (1), para TRIP del transformador.
+
+25.06
+
+Señalización de Fallo
+
+26
+26.01
+26.02
+26.03
+
+Relé Buccholtz
+Año de Fabricación
+Grado de protección del dispositivo
+
+26.04
+
+Visor de Inspección
+
+26.05
+
+Temperatura de Operación
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, presión súbita, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+RELÉ BUCCHOLTZ
+Indicar* marca y código del producto
+No menor al 2022
+≥ IP 55
+Incluido.
+Vidrio Templado con filtro para rayos UV
+≥ -40 a ≥ 115 °C
+
+V1-2021
+26.06
+
+Mecanismo de Operación
+
+Flotadores independientes
+El relé buccholtz deberá poseer microswitches sin puesta a
+tierra (nongrounded contacs) ni en contacto con aceite, estos
+serán utilizados en los siguientes propósitos:
+- Un contacto auxiliar por Alarma, deberá ser conectada al
+sistema de monitoreo del transformador (TMS).
+- Un contacto auxiliar por Disparo (TRIP), deberá ser
+conectada al sistema de monitoreo del transformador
+(TMS).
+- Un contacto auxiliar por Disparo (TRIP), libre del sistema de
+monitoreo del transformador (TMS), para uso de EEQ,
+mismo que estará identificado en puntos de bornera del
+gabinete de control del transformador.
+
+26.07
+
+Microswitch asociados a la operación del
+relé buccholtz
+
+- Un contacto auxiliar por Alarma, libre del sistema de
+monitoreo del transformador (TMS), para uso de EEQ,
+mismo que estará identificado en puntos de bornera del
+gabinete de control del transformador.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, relé buccholtz, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850.
+
+26.08
+
+Suministro Incluido con el dispositivo
+
+27
+27.01
+27.02
+27.03
+
+Relé de Flujo
+Año de Fabricación
+Grado de protección del dispositivo
+
+27.04
+
+Visor de Inspección
+
+27.05
+
+Temperatura de Operación
+
+27.06
+
+Mecanismo de Operación
+
+27.07
+
+Microswitch asociados a la operación del
+relé de flujo
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+- Botón de pruebas para todos los contactos por gas, nivel
+de aceite y flujo. En el caso de operación por flujo, el
+flotador debe permanecer en la posición accionada,
+indicando claramente su operación.
+- Cápsula toma de muestras, con opción para prueba de
+funcionalidad por inyección de aire.
+- Ducto de cobre para conducción de aceite entre el relé
+buccholtz y cápsula toma muestra.
+- Reporte de pruebas del equipo indicando resultados de
+las pruebas funcionales y de estanqueidad con gas Helio.
+RELÉ DE FLUJO PARA OLTC
+Indicar* marca y código del producto
+No menor al 2022
+≥ IP 55
+Incluido.
+Vidrio Templado con filtro para rayos UV
+≥ -40 a ≥ 115 °C
+Por el caudal de aceite que se dirija de la cámara del aceite
+del cambiador de toma en carga al recipiente de expansión
+del aceite.
+El relé de flujo deberá poseer microswitches sin puesta a
+tierra (nongrounded contacs) ni en contacto con aceite, estos
+serán utilizados en los siguientes propósitos:
+- Un contacto auxiliar por Disparo (TRIP), deberá ser
+conectada al sistema de monitoreo del transformador
+(TMS).
+- Un contacto auxiliar por Disparo (TRIP), libre del sistema de
+monitoreo del transformador (TMS), para uso de EEQ,
+mismo que estará identificado en puntos de bornera del
+gabinete de control del transformador.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+
+V1-2021
+gases DGA, relé de flujo para OLTC, etc.; con el propósito de
+monitorear el estado del equipo de forma remota vía
+protocolo IEC 61850.
+
+28
+28.01
+28.02
+
+Sistema de Monitoreo DGA
+Año de Fabricación
+
+28.03
+
+Fuente de Alimentación
+
+28.04
+
+Grado de protección del dispositivo
+
+28.05
+
+Parámetros y rangos de medición
+
+28.06
+
+Precisión y repetitividad
+
+28.07
+
+Tecnología de Adquisición de Gases
+
+28.08
+28.09
+29
+
+Protocolo de Comunicación
+Adicionales
+
+29.02
+29.03
+29.04
+
+Sistema de Monitoreo Continuo del
+Transformador
+Año de Fabricación
+Fuente de Alimentación
+Grado de protección del dispositivo
+
+29.05
+
+Variables para Monitorear
+
+29.01
+
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+SISTEMA DE MONITOREO DE GASES DGA
+Indicar* marca y código del producto
+No menor al 2022
+- 110 - 240 Vac ± 10%, 60 Hz
+- 125 Vdc ± 10% (opcional)
+≥ IP 65
+- H2: rango 20-10 000 ppm de concentración
+- H2O: rango 0-100% RS
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, etc.; con el propósito de monitorear el estado del
+equipo de forma remota vía protocolo IEC 61850.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+- H2:
+- Precisión +/- 15% o +/- 20 ppm
+- Repetitividad +/- 5% o +/- 10 ppm
+- H2O:
+- Precisión +/- 5%
+Libre de consumibles y a través de una sola válvula:
+Nota: No se aceptará tecnología basada en gas de arrastre y
+calibración.
+IEC 61850 versión 2 configurable.
+Incluye: licencias más software de lectura y configuración.
+SISTEMA DE MONITOREO CONTÍNUO DEL TRANSFORMADOR (TMS)
+Indicar* marca y código del monitor del transformador
+No menor al 2022
+125 Vdc ± 10%
+≥ IP 55
+- Temperatura de Bobinado de HV – WTI (Señal Analógica)
+- Temperatura de Bobinado de MV – WTI (Señal Analógica)
+- Temperatura de Aceite del Tanque Principal – OTI (Señal
+Analógica)
+- Temperatura del Aceite del OLTC (Señal Analógica)
+- Temperatura Ambiente (Señal Analógica)
+- Temperatura de Entrada y Salida del Sistema de
+Refrigeración a través de PT100 (Señal Analógica)
+- Posición del OLTC (Señal Analógica)
+- Presión del Tanque Principal (Señal Analógica)
+- Nivel de Aceite del Tanque Conservador (Señal Analógica)
+- Nivel de Aceite del compartimento del OLTC (Señal
+Analógica)
+- Corriente de Carga del Transformador (Señal Analógica)
+- Corriente total de carga de los ventiladores (Señal
+Analógica)
+- Corriente del Motor del OLTC (Señal Analógica)
+- Estado individual de TODAS Y CADA UNA de las
+protecciones termomagnéticas instalados en el gabinete
+de control del transformador (Señales Binarias)
+- Estado de falla individual de los ventiladores (Señales
+
+V1-2021
+Binarias)
+- Estado de Activación de los bancos de ventiladores
+(Señales Binarias)
+- Estado del Respirador Libre de Mantenimiento del Tanque
+Conservador (Señal Binaria)
+- Estado del Respirador Libre de Mantenimiento del OLTC
+(Señal Binaria)
+- Monitoreo del Sistema DGA del Transformador
+- Alarma por Relé Buccholtz (Señal Binaria)
+- Alarma por Alto Nivel de Aceite del Tanque Conservador
+(Señal Binaria)
+- Alarma por Alto Nivel de Aceite del Compartimento del
+OLTC (Señal Binaria)
+- Alarma por Alta Temperatura de Bobinado de HV – WTI
+(Señal Binaria)
+- Alarma por Alta Temperatura de Bobinado de MV – WTI
+(Señal Binaria)
+- Alarma por Alta Temperatura de Aceite del Tanque
+Principal – OTI (Señal Analógica)
+- Alarma por Alta Temperatura de Aceite del OLTC (Señal
+Analógica)
+- Alarma de Ruptura de Membrana (membrana de hule)
+- Disparo del Relé Buccholtz (Señal Binaria)
+- Disparo del Relé de Flujo (Señal Binaria)
+- Disparo del dispositivo de alivio de presión (Señal Binaria)
+- Disparo del Relé de Elevación Rápida de Presión (Señal
+Binaria)
+- Disparo por Alta Temperatura de Bobinado de HV (Señal
+Binaria)
+- Disparo por Alta Temperatura de Bobinado de MV (Señal
+Binaria)
+- Disparo por Bajo Nivel de Aceite del Tanque Conservador
+(Señal Binaria)
+- Disparo por Bajo Nivel de Aceite del Compartimento del
+OLTC (Señal Binaria)
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, etc.; con el propósito de monitorear el estado del
+equipo de forma remota vía protocolo IEC 61850 versión 2
+configurable.
+
+29.06
+
+Sistema de monitoreo térmico del
+transformador, hot spot, análisis de
+sobrecarga en régimen continuo y de
+corta duración
+
+29.07
+
+Simulación y Tendencia
+
+29.08
+
+Vida útil del Transformador
+
+29.09
+
+Control y eficiencia del sistema de
+refrigeración del transformador
+
+Las protecciones principales del transformador (únicamente
+señales de DISPARO), el sistema de monitoreo del
+transformador (TMS) registrará su activación, sin embargo,
+estos dispositivos de protección deberán disponer UN
+CONTACTO ADICIONAL al utilizado, debidamente indicado y
+señalizado en bornera del gabinete de control del
+transformador, toda vez que éstas señales serán llevadas a
+través de conductor de cobre al relé de protección principal
+del transformador o disyuntor asociado a su desconexión
+(Actividad a ser realizada con personal de EEQ).
+Incluido
+De acuerdo a la norma IEEE Std. C57.91 o su equivalente a
+ANSI.
+Incluido, para todas las variables del transformador a ser
+monitoreadas.
+Incluido
+De acuerdo a la norma IEEE Std. C57.91 o su equivalente a
+ANSI.
+Incluido, a través del control de los bancos de ventiladores en
+función de la demanda, así como de las temperaturas de
+entrada y salida de los grupos de refrigeración.
+Permite el control REMOTO de los bancos de ventiladores.
+Nota: Que permita la rotación automática de los bancos para
+
+V1-2021
+
+29.10
+
+Cálculo de Humedad en el Sistema de
+Aislamiento Sólido del Transformador
+
+29.11
+
+Análisis y Tendencias DGA
+
+29.12
+
+Monitoreo del OLTC
+
+un desgaste uniforme.
+Incluido, a través de Curvas de Oommen conforme IEEE Std.
+C57.106 o su equivalente ANSI.
+Incluido
+- De acuerdo a norma IEEE Std. C57.104, Rogers, Duval o su
+equivalente a ANSI.
+- Registro de Tendencias
+- Alarmas por concentración individual de gases
+Incluido
+- Contador de número de Operaciones
+- Registro de Tendencias de Corriente de Arranque del
+Motor del OLTC
+- Identificación de Resistencia Dinámica del OLTC
+- Temperatura diferencial entre la temperatura superior
+del tanque y la temperatura del cambiador bajo carga
+- Nivel de aceite dentro del tanque del cambiador
+≥ Cuatro (4)
+- Una (1) para control remoto de Banco 1 de Ventiladores.
+- Una (1) para control remoto de Banco 2 de Ventiladores.
+- Una (1) ALARMA GENERAL (Disponible para uso de EEQ)
+- Una (1) TRIP (DISPARO) GENERAL (Disponible para uso de
+EEQ)
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, etc.; con el propósito de monitorear el estado del
+equipo de forma remota vía protocolo IEC 61850 versión 2
+configurable.
+
+29.13
+
+Salidas Digitales
+
+29.14
+
+Señales de alarmas digitales para integrar
+al sistema SCADA a través de protocolo de
+comunicación.
+
+29.15
+
+Protocolos de comunicación con SCADA
+
+29.16
+
+Entradas digitales y analógicas
+
+30
+30.01
+30.02
+30.02.01
+30.03
+30.02.01
+
+Fuente de Alimentación
+Ethernet
+Velocidad
+F/O
+Velocidad
+
+En el caso de protecciones principales del transformador
+(únicamente señales de DISPARO), el sistema de monitoreo
+del transformador (TMS) registrará su activación, sin
+embargo, estos dispositivos de protección deberán disponer
+UN CONTACTO ADICIONAL al utilizado, debidamente indicado
+y señalizado en bornera del gabinete de control del
+transformador, toda vez que éstas señales serán llevadas a
+través de conductor de cobre al relé de protección principal
+del transformador o disyuntor asociado a su desconexión
+(Actividad a ser realizada con personal de EEQ).
+Así también personal de EEQ utilizará la SEÑAL DE ALARMA Y
+DISPARO GENERAL (señales debidamente indicadas y
+señalizadas en bornera del gabinete de control del
+transformador), como redundancia al sistema de protección
+del transformador.
+- Alarmas por concentración individual de gases (DGA)
+- Alarma por Relé Buccholtz
+- Alarma por Alto Nivel de Aceite del Tanque Conservador
+- Alarma por Alto Nivel de Aceite del Compartimento del
+OLTC
+- Alarma por Alta Temperatura de Bobinado de HV – WTI
+- Alarma por Alta Temperatura de Bobinado de MV – WTI
+- Alarma por Alta Temperatura de Aceite del Tanque
+Principal – OTI
+- Alarma por Alta Temperatura de Aceite del OLTC
+- Alarma de Ruptura de Membrana
+- Alarma por temperatura del burbujeo
+- Humedad en el sistema de aislamiento sólido de
+transformadores.
+Modbus IP, DNP 3, IEC61850 (Versión 2 configurable)
+Especificar la cantidad de entradas para cumplir punto 29.05
+variables para monitorear
+SWITCH EHTERNET
+- 125 Vdc ± 10%
+≥ 6 Puertos (RJ45)
+10/100BASE-T(X)
+≥ 3 Puertos (RJ45)
+100 Mbit/s
+
+V1-2021
+
+30.02.03
+
+Características Adicionales
+
+30.03
+
+Switch de comunicaciones desde gabinete
+de control del transformador hasta la Sala
+de Control
+
+31
+31.01
+
+Válvulas de la cuba, de intercambiador, de
+tanque de expansión, del OLTC
+
+HI = 88-300VDC or 85-264VAC XX = No power supply 2 D =
+DIN Rail Mounting xx = none C01 = Manufacturing
+modification: Conformal Coating ML-L2 = 1 x 100FX Multimode 1300nm, LC connector
+Para la arquitectura de comunicación, el transformador debe
+contar con un conmutador ETHERNET de 9 puertos
+totalmente administrado para entornos industriales;
+Encriptación de 129 bits; Hasta 9 puertos: 6 x 10/100 BASE
+con mínimo de 3 puertos de fibra óptica multimodo de larga
+distancia que debe permitir distancias Gigabit de hasta 90km.
+Tipo de conector para fibra óptica LC.
+Puertos de 100 Mbits FO
+Cobre 10/100 (Ajuste Autom)
+ACCESORIOS INCLUIDOS
+De bronce y conexión mediante brida, aptas para trabajo con
+aceite caliente.
+Indicar* en placa de denominación
+Indicar* marca y código de producto
+El indicador de nivel de aceite deberá poseer contactos
+auxiliares no puestos a tierra (nongrounded contacts), para
+señalización de nivel alto y nivel bajo de aceite; así como
+lectura analógica del nivel de aceite
+- Un contacto auxiliar por Alto Nivel de Aceite del Tanque
+Conservador, deberá ser conectada al sistema de
+monitoreo del transformador (TMS).
+- Un contacto auxiliar por Bajo Nivel de Aceite del Tanque
+Conservador, deberá ser conectada al sistema de
+monitoreo del transformador (TMS).
+- Señal analógica (4 – 20mA), deberá ser conectada al
+sistema de monitoreo del transformador (TMS) para
+registro del nivel de aceite del tanque conservador del
+transformador.
+
+31.02
+
+Indicador de nivel de aceite del tanque
+conservador del transformador
+
+- Un contacto auxiliar por Bajo Nivel de Aceite del Tanque
+Conservador (TRIP), libre del sistema de monitoreo del
+transformador (TMS), para uso de EEQ, mismo que estará
+identificado en puntos de bornera del gabinete de control
+del transformador.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, nivel de aceite del tanque conservador del
+transformador, etc.; con el propósito de monitorear el estado
+del equipo de forma remota vía protocolo IEC 61850 versión
+2 configurable.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+Indicar* marca y código de producto
+
+31.03
+
+Indicador de nivel de aceite OLTC
+
+El indicador de nivel de aceite deberá poseer contactos
+auxiliares no puestos a tierra (nongrounded contacts), para
+señalización de nivel alto y nivel bajo de aceite; así como
+lectura analógica del nivel de aceite
+- Un contacto auxiliar por Alto Nivel de Aceite del Tanque
+Conservador, deberá ser conectada al sistema de
+monitoreo del transformador (TMS).
+
+V1-2021
+- Un contacto auxiliar por Bajo Nivel de Aceite del Tanque
+Conservador, deberá ser conectada al sistema de
+monitoreo del transformador (TMS).}
+- Señal analógica (4 – 20mA), deberá ser conectada al
+sistema de monitoreo del transformador (TMS) para
+registro del nivel de aceite del tanque conservador del
+transformador.
+- Un contacto auxiliar por Bajo Nivel de Aceite del Tanque
+Conservador (TRIP), libre del sistema de monitoreo del
+transformador (TMS), para uso de EEQ, mismo que estará
+identificado en puntos de bornera del gabinete de control
+del transformador.
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, nivel de aceite del tanque conservador del
+transformador, etc.; con el propósito de monitorear el estado
+del equipo de forma remota vía protocolo IEC 61850 versión
+2 configurable.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+El transformador deberá ser suministrado con válvulas
+especiales de bronce para equipo eléctrico para los siguientes
+fines:
+- Obtención de muestras de aceite de la parte alta y baja del
+tanque principal del transformador.
+- Para conexión inferior de equipo de tratamiento de aceite
+dieléctrico y/o drenaje total del aceite del tanque (2
+pulgadas).
+
+- Para conexión inferior de equipo de tratamiento de aceite
+dieléctrico (2 pulgadas).
+31.04
+
+Válvulas
+- Para aislar totalmente cada radiador.
+- Para aislar cada uno de los tanques anexos al tanque
+principal, p. Eje.: el conservador del tanque principal.
+
+- Para ecualizar diafragma de hule de tanque conservador.
+
+- Para ecualizar tanque conservador de compartimento de
+aceite del OLTC.
+
+31.06
+
+Gabinete de control
+
+31.07
+
+Cable de Control
+
+31.08
+
+Borneras
+
+Nota: Cada una de las válvulas deberá estar equipada con su
+brida ciega y empaquetaduras únicamente de transporte y se
+proveerá empaquetaduras nuevas para montaje.
+IP ≥ 65 con iluminación tipo LED
+Multiconductor de cobre blindado super flexible, clase K,
+aislado con XLPE, retardante a la llama, con calibre de cada
+hilo superior o igual 14 AWG, temperatura de operación 105°
+C.
+Las conexiones se deben efectuar en bloques terminales con
+terminal metálico tipo puntera.
+Incluido, conexión según norma IEC/EN 60079-7
+
+V1-2021
+-
+
+Alimentación Circuitos Principal 220 Vac: Borne
+universal de paso color azul, conexión por tornillo,
+montaje NS35 para cable 6 AWG (3 F + N)
+
+-
+
+Alimentación Circuitos Principal 125 Vdc: Borne
+universal de paso color azul, conexión por tornillo,
+montaje NS35 para cable 6 AWG (Positivo + Negativo)
+
+-
+
+Alimentación Señales de Distribución AC/DC secundaria:
+Borne universal de paso color gris, conexión por tornillo,
+montaje NS35, para cable AWG 26 - 10 (Anchura: 6.2
+mm), corriente nominal 32 A.
+
+-
+
+Alimentación Circuitos Auxiliares: Borne universal de
+paso color gris, conexión por tornillo, montaje NS35,
+para cable AWG 26 - 10 (Anchura: 6.2 mm), corriente
+nominal 32 A.
+
+-
+
+Señales de Control: Borne universal de paso color
+verde/amarillo, conexión por tornillo, montaje NS35,
+para cable AWG 26 - 10 (Anchura: 6.2 mm), corriente
+nominal 32 A.
+
+-
+
+Señales de Tierra: Borne universal de paso color
+verde/amarillo, conexión por tornillo, montaje NS35,
+para cable AWG 26 - 10 (Anchura: 6.2 mm), corriente
+nominal 32 A.
+
+-
+
+Señales de Corriente (TC’s): Borne de interrupción para
+circuitos de medida color gris, con eslabón deslizante,
+conexión por tornillo, montaje NS35, para cable AWG 20
+- 10 (Anchura: 8.2 mm), corriente nominal 32 A.
+
+Nota: El sistema de monitoreo del transformador (TMS)
+concentrará todos los parámetros, señales, alarmas y estados
+de las protecciones del transformador, OLTC, monitor de
+gases DGA, nivel de aceite del tanque conservador del
+transformador, etc.; con el propósito de monitorear el estado
+del equipo de forma remota vía protocolo IEC 61850 versión
+2 configurable.
+En el caso de protecciones principales del transformador
+(señales de TRIP), el sistema de monitoreo del transformador
+(TMS), registrará su activación, sin embargo, las señales serán
+llevadas a través de conductor de cobre al relé de protección
+principal del transformador o disyuntor asociado a su
+desconexión (Actividad a ser realizada con personal de EEQ).
+
+31.09
+
+Registrador de impactos
+
+31.11
+
+Estructura para montaje pararrayos 138
+kV, incluye el suministro de los pararrayos
+óxido de zinc
+Contadores de descarga
+
+31.12
+
+Pernos y tuercas
+
+31.13
+
+Barra de neutro - tierra
+
+31.10
+
+Todas las señales analógicas y binarias del transformador
+deberán ser integradas y señalizadas en bornera del gabinete
+de control del transformador, para uso de EEQ.
+Para transporte desde fábrica hasta sitio de entrega, mide las
+aceleraciones en los tres ejes, y permite descargar los
+eventos durante el transporte, este registrador debe estar
+colocado en la cuba principal del transformador (1 por
+transformador).
+Nota: EL REGISTRADOR DE IMPACTOS SERÁ DEVUELTO AL
+CONTRATISTA UNA VEZ QUE SE ENTREGUE EL
+TRANSFORMADOR A LA EEQ.
+Incluido
+Incluido, uno por fase HV.
+Incluido, conforme ASTM A307 grado B (pernos) y ASTM
+A143 aleación 2A (tuercas)
+Nota: Toda la tornillería externa debe ser de acero inoxidable
+de alta resistencia mecánica o galvanizados en caliente
+después de su fabricación, adecuada para evitar su oxidación.
+Incluido e indicar* tamaño (MCM) de acuerdo con el diseño
+
+V1-2021
+del fabricante.
+Nota: Tamaño de acuerdo con el diseño del fabricante
+(MCM), se deberá incluir una barra de cobre con baño de
+plata en sus puntos de conexión, para integrar el punto
+neutro (23 kV) con el punto de conexión a tierra en el tanque
+principal.
+Incluido
+
+31.14
+
+Cable para conexión de pararrayos,
+contadores de descargas y núcleo del
+transformador
+
+Nota: Al menos 50 metros de cable TTU 2 kV de cobre de
+calibre mayor o igual a 2/0 AWG, de acuerdo con diseño de
+fábrica que será instalado en los siguientes dispositivos:
+Para la conexión entre pararrayos y contadores de
+descarga (HV).
+- Para aterrizar el terminal del núcleo del transformador.
+Incluido
+-
+
+31.15
+
+Cable para conexión de puesta a tierra del
+transformador.
+
+Nota: Al menos 50 metros de cable de cobre desnudo con
+calibre mínimo 2/0 AWG, de acuerdo al diseño de fábrica,
+mismo que será instalado en los siguientes dispositivos:
+Para la conexión entre los contadores de descarga el
+punto de conexión de tierra del transformador.
+- Para la conexión del Transformador y la Malla de Tierra
+de la Subestación (mínimo 25 metros).
+Incluido
+-
+
+31.16
+
+Conectores de compresión
+
+31.17
+
+Amarras Metálicas Regulables
+
+Nota: Juego de 300 Amarras Metálicas regulables tipo
+abrazadera para instalación de ductos tipo manguera BX de
+cada uno de los accesorios del transformador.
+Incluido
+
+31.18
+
+Prensaestopas
+
+31.19
+
+Empaquetaduras de accesorios del
+Transformador
+
+Nota: Se colocarán prensaestopas de acero inoxidable para
+cada una de las terminaciones de cables blindados a ser
+instalados.
+Juego de Empaques para Montaje de todos y cada uno de los
+accesorios del transformador, incluye:
+•
+Radiadores
+•
+Válvulas y Tuberías en general
+•
+Torretas HV/MV
+•
+Bushings HV/MV
+•
+Relé Buchoolz.
+•
+Relé de Presión Súbita
+•
+Relé de Flujo
+•
+Dispositivo de Sobrepresión
+•
+Todos los accesorios para instalar en sitio y que no
+se encuentran en el listado anterior.
+Incluido
+
+31.20
+
+Escalera para acceso a tapa superior del
+tanque principal del transformador
+
+32
+32.01
+32.01.01
+32.01.02
+32.01.03
+32.01.04
+32.01.05
+
+Alto Voltaje HV
+Norma de Fabricación
+Cantidad
+Relación de transformación
+Clase y precisión
+Burden
+
+32.01.06
+
+Alojamiento de Circuitos Secundarios
+
+Nota: Tipo ojo y de barril largo, de acuerdo a los calibres de
+conductor requeridos en los puntos 27.19 y 27.20
+Incluido
+
+Nota: El fabricante deberá incluir dentro de su diseño una
+escalerilla metálica con puerta para bloqueo, adosada a la
+pared del tanque principal del transformador, con la finalidad
+de permitir el acceso a la tapa de tanque principal del
+transformador.
+TRANSFORMADORES DE CORRIENTE DE PROTECCIÓN
+Marca y código del producto
+IEEE Std. C57.13 o su equivalente a ANSI.
+2 por fase
+300/5 A
+5P20
+25 VA
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+
+V1-2021
+32.02
+32.02.01
+32.02.02
+32.02.03
+32.02.04
+32.02.05
+32.02.06
+32.03
+32.03.01
+32.03.02
+32.03.03
+32.03.04
+32.03.05
+32.03.06
+33
+33.01
+33.01.01
+33.01.02
+33.01.03
+33.01.04
+33.01.05
+33.01.06
+33.02
+33.02.01
+33.02.02
+33.02.03
+33.02.04
+33.02.05
+33.02.06
+34
+34.01
+34.01.01
+34.01.02
+
+corriente nominal 32 A.
+Marca y código del producto
+IEEE Std. C57. 13 o su equivalente a ANSI.
+2 por fase
+1500/5 A
+5P20
+25 VA
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+Alojamiento de Circuitos Secundarios
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+Neutro
+Marca y código del producto
+Norma de Fabricación
+IEEE Std. C57.13 o su equivalente a ANSI.
+Cantidad
+1
+Relación de transformación
+1500/5 A
+Clase y precisión
+5P20
+Burden
+25 VA
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+Alojamiento de Circuitos Secundarios
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+TRANSFORMADORES DE CORRIENTE DE MEDICIÓN
+Alto Voltaje HV
+Marca y código del producto
+Norma de Fabricación
+IEEE Std. C57.13
+Cantidad
+1 por fase
+Relación de transformación
+300/5 A
+Clase de precisión
+0.2
+Burden
+12.5 VA
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+Alojamiento de Circuitos Secundarios
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+Medio Voltaje MV
+Marca y código del producto
+Norma de Fabricación
+IEC
+Cantidad
+1 por fase
+Relación de transformación
+1500/5 A
+Clase de precisión
+0.2
+Burden
+12.5 VA
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+Alojamiento de Circuitos Secundarios
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+TRANSFORMADORES DE CORRIENTE DE MEDICIÓN PARA INSTRUMENTOS DEL TRANSFORMADOR
+WTI – HV
+Marca y código del producto
+Norma de Fabricación
+IEEE Std. C57.13 o su equivalente a ANSI.
+Cantidad
+1
+Indicar*
+Medio Voltaje MV
+Norma de Fabricación
+Cantidad
+Relación de transformación
+Clase y precisión
+Burden
+
+34.01.03
+
+Relación de transformación
+
+Nota: El oferente deberá indicar* esta especificación,
+considerando la característica del termómetro y el
+requerimiento del fabricante del transformador.
+Indicar
+
+34.01.04
+
+Clase de precisión
+
+Nota: El oferente deberá indicar* esta especificación,
+considerando la característica del termómetro y el
+requerimiento del fabricante del transformador.
+Indicar
+
+34.01.05
+
+Especificaciones ampliadas
+
+34.01.06
+
+Alojamiento de Circuitos Secundarios
+
+34.02
+34.02.01
+34.02.02
+
+WTI – MV
+Norma de Fabricación
+Cantidad
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del termómetro y el requerimiento del
+fabricante del transformador.
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+Marca y código del producto
+IEEE Std. C57.13 o su equivalente a ANSI.
+1
+
+V1-2021
+Indicar*
+34.02.03
+
+Relación de transformación
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del termómetro y el requerimiento del
+fabricante del transformador.
+Indicar*
+
+34.02.04
+
+Clase de precisión
+
+Nota: El oferente deberá indicar esta especificación,
+considerando la característica del termómetro y el
+requerimiento del fabricante del transformador.
+Indicar*
+
+34.02.05
+
+Especificaciones ampliadas
+
+34.02.06
+
+Alojamiento de Circuitos Secundarios
+
+34.03
+34.03.01
+34.03.02
+
+Regulación en Medio Voltaje
+Norma de Fabricación
+Cantidad
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del termómetro y el requerimiento del
+fabricante del transformador.
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+Marca y código del producto
+IEEE Std. C57.13 o su equivalente a ANSI.
+1
+Indicar*
+
+34.03.03
+
+Relación de transformación
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del termómetro y el requerimiento del
+fabricante del transformador.
+Indicar*
+
+34.03.04
+
+Clase de precisión
+
+34.03.05
+
+Especificaciones ampliadas
+
+34.03.06
+
+Alojamiento de Circuitos Secundarios
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del termómetro y el requerimiento del
+fabricante del transformador.
+Indicar*
+Nota: El oferente indicará esta especificación, considerando
+la característica del termómetro y el requerimiento del
+fabricante del transformador.
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+
+34.04.01
+34.04.02
+
+Corriente de Carga del Transformador
+medio voltaje
+Norma de Fabricación
+Cantidad
+
+34.04.03
+
+Relación de transformación
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del sistema de monitoreo del transformador
+(TMS) y el requerimiento del fabricante del transformador.
+Indicar*
+
+34.04.04
+
+Clase de precisión
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del sistema de monitoreo del transformador
+(TMS) y el requerimiento del fabricante del transformador.
+Indicar*
+
+34.04.05
+
+Especificaciones ampliadas
+
+34.04.06
+
+Alojamiento de Circuitos Secundarios
+
+Nota: El oferente indicará esta especificación, considerando
+la característica del sistema de monitoreo del transformador
+(TMS) y el requerimiento del fabricante del transformador.
+Alojados en bornes de interrupción para circuitos de medida
+color gris, con eslabón deslizante, conexión por tornillo,
+montaje NS35, para cable AWG 20 - 10 (Anchura: 8.2 mm),
+corriente nominal 32 A.
+PROTOCOLO DE PRUEBAS
+
+34.04
+
+35
+35.01
+
+Protocolo de pruebas de un
+transformador similar al ofertado
+
+36
+36.01
+
+Repuestos para suministrar por cada
+transformador
+
+Marca y código del producto
+IEEE Std. C57.13 o su equivalente a ANSI.
+Uno (1) por fase
+Indicar*
+
+- Adjuntar conforme Normas
+SUMINISTRO DE REPUESTOS
+- Un (1) relé de control de bajo voltaje de cada tipo, utilizado
+en la ingeniería de control.
+
+V1-2021
+
+36.02
+
+37
+37.01
+
+37.02
+
+- Una (1) protección termomagnética de bajo voltaje de cada
+tipo, utilizada en la ingeniería de control.
+- Un (1) interruptor térmico de bajo voltaje de cada tipo,
+utilizado en la ingeniería de control
+- Un (1) kit de 20 borneras de paso para control.
+- Un kit de diez (10) bornes de interrupción para circuitos de
+medida color gris, con eslabón deslizante, conexión por
+tornillo, montaje NS35, para cable AWG 20 - 10 (Anchura:
+8.2 mm), corriente nominal 32 A.
+- Un kit de 20 puentes de cortocircuito para bornes de
+interrupción para circuitos de medida de paso.
+- Un (1) termómetro de devanados (OTI).
+- Un (1) termómetro de aceite (WTI).
+- Un (1) termómetro de temperatura ambiente
+- Un (1) termómetro de temperatura de entrada y salida del
+sistema de refrigeración
+- Un (1) contador de descargas.
+- Cien (100) metros de cable de control color verde para
+tierras de las mismas características del cable instalado.
+- Un (1) ventilador
+- Un (1) dispositivo de alivio de presión del tanque principal
+- Un (1) deshidratador de aire (Libre de Mantenimiento) del
+tanque conservador
+- Un (1) deshidratador de aire (Libre de Mantenimiento) del
+aceite del cambiador del OLTC
+- Un (1) relé buccholtz para tanque principal
+- Un (1) relé de flujo para OLTC
+- Una (1) membrana (funda de hule), utilizada en el tanque
+conservador
+- Un (1) bushing (pasatapa) de alto voltaje, con su respectivo
+conector
+- Un (1) bushing (pasatapa) de bajo voltaje, con su
+respectivo conector
+- Un (1) indicador de nivel de aceite del tanque conservador
+- Un (1) indicador del tanque conservador del OLTC
+- Un (1) medidor de corriente del motor del OLTC.
+Repuestos Generales, como parte de todo
+- Un medidor de presión del tanque principal
+el lote de transformadores de este ítem.
+- Una (1) manguera de 1-1/2” plástica 50 metros anillada
+tipo BX.
+- Diez (10) porciento (%) adicional de aceite dieléctrico
+inhibido total, que contenga similares características al
+suministrado
+- Un kit de pintura de características similares a la utilizada
+en cubiertas externas del transformador
+- Doscientas (200) unidades de terminales tipo puntera
+12AWG
+- Doscientas (200) unidades de terminales tipo puntera
+10AWG
+- Doscientas (200) unidades de terminales tipo puntera
+8AWG
+- Un (1) indicador de posiciones del OLTC digital.
+- Un (1) pararrayo de HV
+- Un (1) pararrayo de MV.
+- Un (1) kit de todas las empaquetaduras de las mismas
+características a las utilizadas en el transformador.
+PARARRAYOS TIPO INTEMPERIE PARA 138 KV y 23 KV
+Cantidad
+Tres (3) para HV uno por cada fase (138 kV)
+a.
+Poseer características mecánicas de acuerdo con las
+normas descritas de resistencia a los esfuerzos que
+produzca el paso de la corriente de descarga, las
+características dieléctricas sean equivalentes a las de la
+porcelana, las características de disipación de calor sean
+las adecuadas y el fabricante demuestre que tiene
+Características mecánicas
+suficiente experiencia en la utilización de ese material
+para la fabricación de pararrayos.
+b. Los terminales de línea deben ser de cobre con
+recubrimiento de plata o estañados con perforaciones
+según norma NEMA.
+c.
+Cada descargador estará provisto en su base, de un
+terminal de puesta a tierra adecuado para el conductor
+
+V1-2021
+
+37.03
+
+Herrajes y accesorios
+
+37.04
+
+Características eléctricas
+
+37.05
+
+Normas aplicables
+
+de cobre cableado de 62 mm² a 125 mm² (2/0 AWG a
+250 MCM).
+d. Cada descargador llevará una placa metálica de
+identificación en idioma español, a prueba de
+intemperie, que contenga por lo menos las
+informaciones señaladas en las normas
+correspondientes.
+e.
+Cada descargador estará provisto de herrajes que
+permitan levantarlo completamente ensamblado en el
+caso que sea necesario.
+a.
+Pedestal de acero galvanizado para montaje.
+b. Base aislante.
+c.
+Anillo ecualizador de potencial (en caso de requerirse).
+d. Se suministrará un contador de descargas, montaje y
+operación de este será de acuerdo con la ingeniería del
+equipo.
+a.
+Los descargadores serán de óxido de zinc, sin
+espinterómetros (gaps) en serie.
+b. Los descargadores serán para trabajo pesado (heavy
+duty), con rigidez dieléctrica.
+c.
+La capacidad térmica será suficiente para garantizar el
+funcionamiento satisfactorio de los descargadores
+frente a sobretensiones múltiples, guardando un
+margen térmico adecuado para evitar el riesgo de
+elevación descontrolada de temperatura (Thermal
+runaway), de modo que después de cesadas las
+sobretensiones, la temperatura y la corriente de fuga de
+las resistencias no lineales del descargador, retornen a
+estado estable y normal con el voltaje máximo de
+operación del sistema.
+BIL 138 kV: 750 kV, MCOV: 115 Kv
+Los pararrayos ofertados deben cumplir la norma IEEE Std.
+C62.11 o IEC 60099-6.
+Nota: El oferente debe presentar un catálogo (datasheet) de
+los pararrayos ofertados, así como también las pruebas de
+equipos de similares características para evidenciar los
+requerimientos técnicos solicitados por la EEQ.
+
+INDICAR*: el oferente debe cumplir con la marca, procedencia y todos los parámetros indicados en su oferta.
+
+4.2 Equipo Mínimo
+No aplica
+4.3 Personal Técnico Mínimo
+No.
+1
+
+Función
+TÉCNICO DE PRUEBAS A TRANSFORMADORES
+Será el responsable de realizar las pruebas a los
+transformadores.
+
+Nivel de Estudio
+TERCER NIVEL
+CON TÍTULO
+
+Titulación Académica
+Tecnólogo o Ingeniero en
+Electricidad,
+mecánica
+o
+electromecánica o superior.
+
+Cantidad
+1
+
+Medio de comprobación: Se acreditará la formación académica a través de los títulos registrados en la SENESCYT y/o registrados en
+el Ministerio de Educación, para lo cual deberán detallar el número de cédula del personal propuesto, en el caso de títulos obtenidos
+en el extranjero se deberá presentar copia del título salvo que la legislación exija para el ejercicio de tal profesión su homologación e
+inscripción en la SENESCYT, caso en el cual se aceptará únicamente como medio de verificación el registro del título obtenido en el
+extranjero en la SENESCYT.
+4.4 Experiencia del personal técnico mínimo
+No.
+
+Descripción
+
+1
+
+Experiencia en: venta y/o montaje de equipos para
+subestaciones en voltajes mayor o igual a 46 kV.
+Realizando pruebas a los transformadores de
+
+Tiempo Mínimo
+(horas/días/meses/años)
+15 días
+
+Número de
+Proyectos
+0
+
+Monto de
+Proyectos
+N/A
+
+V1-2021
+potencia demostrable de 15 días en los últimos 10
+años.
+Medio de comprobación: Presentar certificados laborales o actas entregas recepción definitivas acompañados del historial laboral
+del IESS, cuando haya trabajado bajo relación de dependencia, o facturas cuando haya trabajo por servicios profesionales; el
+certificado o acta entrega recepción definitiva como mínimo deben contener la siguiente información: Identificación del contratista,
+identificación de la contratante, objeto de contratación, monto, plazo, función desempeñada, fecha de emisión del documento. El
+certificado o acta debe estar debidamente suscrito por el emisor o las partes, en el caso de actas.
+La EEQ se reserva el derecho de validar los datos consignados.
+4.5 Experiencia General
+.
+No aplica
+
+MONTO
+MÍNIMO
+
+5
+
+1
+
+$1.210.100,00
+
+CONTRATOS
+PERMITIDOS
+
+Experiencia en: venta y/o montaje de equipos para
+subestaciones en voltajes mayor o igual a 46 kV.
+
+NÚMERO DE
+PROYECTOS
+
+DESCRIPCIÓN
+
+TEMPORALIDAD
+
+4.6 Experiencia Específica
+
+MONTO MÍNIMO
+POR CONTRATO
+
+4
+
+$ 302.525,00
+
+Medio de comprobación: Los oferentes para acreditar la experiencia deberán presentar certificados, contratos o actas entregas
+recepción definitiva, acompañados de la copia de factura o factura electrónica; el certificado, contrato o acta entrega recepción
+definitiva como mínimo deben contener la siguiente información: Identificación del contratista, identificación de la contratante, objeto
+de contrato, monto, plazo, fecha de emisión del documento. El certificado debe estar debidamente suscrito por el emisor (dueño del
+proyecto más no por el oferente) y en el caso de contratos y actas por las partes.
+La experiencia adquirida en calidad de asociación o consorcio será reconocida y aceptada por la entidad contratante en su totalidad,
+siempre y cuando tenga directa relación con el objeto contractual.
+La EEQ se reserva el derecho de validar los datos consignados.
+NOTA: La evaluación de estas condiciones no estarán sujetas al número de contratos o instrumentos presentados por el oferente para
+acreditar la experiencia específica requerida, sino, al cumplimiento de estas condiciones en relación a los montos mínimos requeridos
+para la experiencia referida. Se aceptará únicamente documentos en inglés o español.
+4.7 Otros Parámetros Resueltos por la Entidad Contratante
+NO.
+
+DESCRIPCIÓN
+
+DIMENSIÓN
+
+1
+
+Protocolo de pruebas expedido
+en un laboratorio acreditado.
+Catálogos de los equipos.
+
+Presentar protocolo de pruebas de transformadores similares al objeto de esta contratación,
+en idioma español o inglés.
+Presentar catálogos y documentos correspondientes a transformador, equipo de monitoreo
+en línea, analizador de gases y regulador de voltaje.
+
+2
+
+4.8 Patrimonio
+La Entidad Contratante verificará que el patrimonio del oferente sea igual o superior a la relación que se determine con respecto del
+presupuesto referencial conforme las regulaciones expedidas por el SERCOP. (Aplicable a personas jurídicas y contrataciones con
+presupuesto referencial igual o mayor que el monto máximo de Menor Cuantía de Bienes y Servicios). Monto calculado automáticamente al
+momento de la generación de los pliegos.
+5.
+
+ÍNDICES FINANCIEROS
+
+Los índices financieros constituirán información de referencia respecto de los participantes en el procedimiento y en tal medida, su
+análisis se registrará conforme el detalle a continuación:
+
+V1-2021
+ÍNDICE
+Solvencia
+Endeudamiento
+
+INDICADOR SOLICITADO
+Solvencia = Activo Corriente / Pasivo Corriente
+Endeudamiento = Pasivo Total/ Patrimonio
+
+OBSERVACIONES
+Mayor o igual 1,0.
+Igual o menor 1,5.
+
+Los factores para su cálculo estarán respaldados en la correspondiente declaración del impuesto a la renta del ejercicio fiscal
+correspondiente y los balances presentados al órgano de control respectivo.
+Nota: El incumplimiento de los valores de los índices financieros establecidos por la entidad contratante no será causal de rechazo
+de la oferta, por no ser estos requisitos mínimos de obligatorio cumplimiento.
+6.
+
+MULTAS Y SANCIONES
+
+Multa por mora:
+Por cada día de retardo en la ejecución del objeto contractual por responsabilidad del Contratista, se aplicará la multa del 1 por 1.000.
+Las multas se calcularán sobre el porcentaje de las obligaciones que se encuentran pendientes de ejecutarse de conformidad con el art. 71
+de la LOSNCP.
+Adicionalmente las multas se podrán imponer por incumplimiento con la entrega del cronograma reprogramado en 10 días termino o de
+acuerdo al numeral 3.2.
+
+7. CONDICIONES ADICIONALES AL PRECIO DE LA OFERTA
+El precio de la oferta, por tratarse de una venta local para entrega Delivery Duty Paid (DDP) en las instalaciones de la Empresa Eléctrica
+Quito S.A., deberá incluir todos los costos tales como: el precio de los bienes, su transporte hasta el sitio de entrega, embalaje,
+manipulación (carga y descarga), aranceles de importación, seguro, impuestos, integración, entrenamiento, etc., es decir, absolutamente
+todo lo necesario y listos para su utilización inmediata.
+8.
+
+REAJUSTE DE PRECIOS
+
+El oferente es consciente de que la presente contratación no considera reajuste de precios por lo cual renuncia tácitamente al mismo.
+9.
+
+GARANTÍAS APLICABLES
+
+En esta contratación, por su naturaleza y forma de pago se deberán presentar las siguientes garantías previstas en la LOSNCP:
+•
+•
+•
+
+La garantía de fiel cumplimiento del contrato, que se rendirá por un valor igual al 5% del monto total del contrato.
+La garantía del anticipo que respalde el 100% del valor a recibir por este concepto.
+La garantía técnica de acuerdo al formato definido en la Pág. 34 de este documento.
+
+Nota: Las garantías serán entregadas en cualquiera de las formas establecidas en el Artículo 73 de la LOSNCP; sin embargo, para la
+garantía de fiel cumplimiento del contrato únicamente se utilizarán las formas establecidas en los numerales 1, 2 y 5 del artículo 73 de la
+LOSNCP. La garantía técnica cumplirá las condiciones establecidas en el artículo 76 de la LOSNCP, caso contrario se la remplazará por una
+de las garantías señaladas en el artículo 73 de la LOSNCP, por el valor total de los bienes.
+10. OBLIGACIONES DE LAS PARTES
+10.1 Obligaciones del adjudicatario
+El proveedor adjudicado previo a la suscripción del contrato deberá presentar los siguientes documentos:
+Garantía técnica de acuerdo al formato definido en este documento, para garantizar el cumplimiento de las especificaciones
+técnicas y funcionalidad de los bienes adquiridos a partir de la firma del acta de entrega recepción definitiva de los bienes.
+Carta de Compromiso y Adhesión al Código de Ética y Transparencia para socios de Negocio, suscrito de acuerdo al modelo
+que se adjunta, misma que podrá ser actualizada por la EEQ.
+10.2 Obligaciones adicionales del contratista
+Entregar a la entidad contratante, en calidad de documento habilitante, y dentro del término que establece la Ley Orgánica del Sistema
+Nacional de Contratación Pública para el efecto, los requerimientos del nivel de transferencia de tecnología:
+
+V1-2021
+Transferencia tecnológica nivel TT2:
+•
+•
+•
+
+Requerimientos de Nivel TT1.
+Taller o curso de entrenamiento para conocer el correcto uso o manejo del producto.
+CD o (preferible) memoria USB donde se exponga el curso o taller de entrenamiento que fue dado a personal Ecuatoriano
+
+Además, se debe cumplir con:
+•
+Cronograma del taller o entrenamiento para conocer el correcto uso o manejo del producto para un máximo de 40 personas,
+en dos grupos.
+•
+El contratista será el responsable de supervisar y coordinar el montaje del transformador que estará a cargo del grupo de
+Construcción de Subestaciones de la EEQ. Para el efecto designará un profesional calificado por la fábrica.
+•
+Proporcionar el desglose de los bienes a ser entregados identificando precios unitarios.
+•
+Los Transformadores objetos de esta contratación deben ser entregados con sus pruebas, puesta en servicio e integración;
+por lo cual, el contratista debe proporcionar el cronograma respectivo.
+•
+Enlistar y entregar todas los equipos, accesorios, repuestos y manuales necesarios para el montaje, operación y posterior
+mantenimiento de los transformadores de 138kV, previa coordinación con la administración del contrato.
+10.3 Obligaciones de la contratante (EEQ)
+-
+
+Dar atención o solución de peticiones o problemas en un término de 5 días.
+Socializar el Código de Ética y Transparencia vigente en la EEQ al contratista.
+Designar al Administrador de Contrato.
+Deberá, previo a la firma de contrato, exigir y verificar que el adjudicatario haya publicado en su totalidad los
+requerimientos correspondientes, en el Repositorio de Transferencia de Tecnología del Portal Institucional del Servicio
+Nacional de Contratación Pública. En el caso que, la entidad contratante verifique que el adjudicatario no cumpliere con
+estas condiciones y requerimientos de transferencia tecnológica nivel 2 para la suscripción del respectivo contrato, esta
+declarará al proveedor como adjudicatario fallido.
+
+11. OTRAS CONSIDERACIONES
+11.1 Información que dispone la entidad
+Anexo 1: Código de Ética y Transparencia.
+Anexo 2: Política Anticorrupción de la EEQ.
+Anexo 3: Carta compromiso de adhesión al Código Ética y Transparencia para Socios de Negocios. (Documento que deberá suscribir
+únicamente el adjudicatario).
+Anexo 4: Reglamento Interno de Seguridad Higiene y Salud en el Trabajo de la EEQ.
+Anexo 5: Memoria del Plan de Expansión 2021 – 2025, ubicado en el siguiente enlace:
+https://drive.google.com/drive/folders/1RA_Aht6mDLlwXm0TTAcrWRFfZjBNdWtC?usp=sharing
+Anexo 6: Consideraciones de entrega de ofertas y convalidaciones procedimientos generados mediante MFC.
+11.2 Autorizaciones Otras Entidades
+Informe de pertinencia favorable por parte de la Contraloría General del Estado
+11.3 Variación mínima de la oferta durante la puja
+Variación mínima: 1%
+11.4 Compromiso de asociación o consorcio
+En caso de participación como compromiso de asociación o consorcio, LOS OFERENTES deberán observar y entregar todos los
+requisitos contenidos en el artículo 35 de la Codificación de Resoluciones emitidas por el SERCOP (Resolución RE-SERCOP-2016000072).
+11.5 Entrega de Ofertas
+Los participantes deberán entregar su oferta de acuerdo a lo determinado en el documento denominado “Consideraciones de entrega
+de ofertas y convalidaciones procedimientos generados mediante MFC”, el mismo que se adjunta al presente documento, como anexo 6.
+11.6 Costo de levantamiento de texto, reproducción de edición de los pliegos
+No aplica.
+
+V1-2021
+12. ACUERDO DE CONFIDENCIALIDAD
+Declaro que utilizaré la información en virtud de mis competencias, y con la suscripción de este documento me comprometo a
+mantener el sigilo y reserva; y, me obligo a no divulgar, revelar, transmitir, duplicar, copiar o cualquier otra forma de reproducir, de
+tal forma que pueda poner en riesgo la transparencia y la legalidad de los procedimientos previo a la publicación en el Portal de
+Compras Públicas.
+Reconozco y acepto que la violación o incumplimiento de lo previsto en este numeral “Acuerdo de Confidencialidad”, provocará
+sanciones disciplinarias de conformidad con lo determinado en la normativa interna de la Empresa Eléctrica Quito, sin perjuicio de
+que la Institución tenga el derecho que le asiste para ejercer las acciones penales, civiles y administrativas, si fuere el caso.
+13. FIRMAS DE RESPONSABILIDAD
+Fecha: martes, 29 de marzo de 2022.
+.
+Elaborado por:
+
+Revisado Por:
+
+Aprobado por:
+
+Firmado electrónicamente por:
+Firmado electrónicamente por:
+
+SANDRA
+CATALINA
+BARAHONA IZA
+
+Ing. Catalina Barahona
+Departamento de Diseño y
+Construcción de Líneas y
+Subestaciones
+
+SANTIAGO JAVIER
+PENAFIEL
+GUERRERO
+
+Ing. Santiago Peñafiel
+Director de Subtransmisión
+
+Firmado electrónicamente por:
+
+JUAN OSWALDO
+MERIZALDE
+MARTINEZ
+
+Ing. Oswaldo Merizalde
+Gerente de Generación y
+Subtransmisión
+
+.
+MODELO DE GARANTÍA TÉCNICA
+GARANTÍA TÉCNICA
+Yo
+........................................................................................................................
+en
+mi
+calidad
+de
+representante
+legal
+de
+la
+firma........................................................................................., me comprometo a garantizar por 36 meses, a partir de la firma del acta de entregarecepción definitiva, el cumplimiento de las especificaciones técnicas y funcionalidad de TRANSFORMADORES DE POTENCIA 138/23 KV
+- 27/33/40 MVA, tiempo durante el cual la Empresa Eléctrica Quito podrá devolver los bienes que no cumplan con las estipulaciones
+contractuales, los cuales serán sustituidos por unidades nuevas y originales, en un plazo justificado y convenido con el Administrador del
+Contrato, luego de la notificación correspondiente, sin ningún costo adicional para la Empresa Eléctrica Quito.
+En el caso de que la devolución de bienes represente el 10% o más de la cantidad de ítems con fallas, el contratista deberá cubrir los
+costos de desinstalación, instalación y transporte, probados.
+La garantía técnica cubrirá el 100% de los bienes y considerará desperfectos ocasionados por: daños de fábrica, mal funcionamiento por
+calidad de los componentes o mano de obra. El lugar de entrega-recepción de los bienes defectuosos y reemplazo será la Bodega de:
+Epiclachima de la Empresa Eléctrica, ubicada en Avenida Pedro Vicente Maldonado S1920 y Pasaje Argelia, junto a la Fosforera Nacional
+Ecuatoriana.
+Este trámite se realizará en coordinación con el Administrador del Contrato.
+
+………......................................................
+NOMBRE REPRESENTANTE LEGAL
+
+………..................................................
+FIRMA REPRESENTANTE LEGAL
+
+Lugar y fecha: ....................................................
+Nota: La Garantía Técnica debe ser emitida según el Artículo 76 de la Ley Orgánica del Sistema Nacional de Contratación Pública.
+
+

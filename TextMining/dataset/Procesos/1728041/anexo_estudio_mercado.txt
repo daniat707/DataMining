@@ -1,0 +1,2918 @@
+ANEXO 1
+ANALISIS DE VALORES PARA ESTABLECER EL PRESUPUESTO REFERENCIAL PARA LA “ADQUISICIÓN DE DISPOSITIVOS MÉDICOS (REACTIVOS E INSUMOS) CON APOYO
+TECNOLÓGICO PARA EL LABORATORIO CLÍNICO DEL HOSPITAL BÁSICO 7 BI LOJA”
+ADJUDICACIONES SIMILARES
+
+Unidad de
+Medida
+
+CANT.
+
+MSP-CZ7-11D07-SALUD2022-002-CTO
+
+RUC. 0914427356001
+
+RUC. 1792542065001
+PROFORMA No.
+OF-00327-2022
+OF-00328-2022
+OF-00329-2022
+F. PROFORMA
+03/08/2022
+
+FECHA ADJUDICACIÓN:
+
+26/05/2021
+
+FECHA
+ADJUDICACIÓN:
+
+21/03/2022
+
+PROFORMA No.
+2022-01-448
+2022-01-449
+2022-01-450
+
+3,99%
+
+INFLACIÓN:
+
+1,80%
+
+F. PROFORMA
+03/08/2022
+
+V. U. ADJUD.
+
+V. U. ADJUD.
+
+PRESUPUESTO REFERENCIAL ESTIMADO
+
+IESS-HD-SD-CP-2021- N°
+005
+CONTRATO:
+
+V.UNIT
+
+ESPECIFICACIONES TECNICAS
+
+N°
+CONTRATO:
+
+INFLACIÓN:
+
+V. U. +
+INFLACIÓN
+
+NOMBRE DEL BIEN
+
+SIE-DD11D07-2022-002
+
+V. U. +
+INFLACIÓN
+
+4,07%
+
+B
+DISMALAB
+DISTRIBUIDOR DE
+MATERIALES DE
+LABORATORIO CIA.
+LTDA.
+
+SIE-IESS-HDSD-02-21
+
+VALOR UNIT.
+INFLACION
+
+INFLACIÓN:
+
+A
+CHOEZ CHIQUITO MARIBEL
+ANTONIA
+(INSUMELAB)
+
+V. U. +
+INFLACIÓN
+
+23/04/2021
+
+VALOR UNIT.
+INFLACION
+
+CÓDIGO CPC
+
+MSP-HM2-C-2021-004
+
+FECHA
+ADJUDICACIÓN:
+
+V. U. ADJUD.
+ORD
+
+SIE-HM2-004-2021
+
+3
+CODIGO DE
+PROCESO:
+
+VALOR UNIT.
+INFLACION
+
+N°
+CONTRATO:
+
+2
+
+CODIGO DE PROCESO:
+
+VALOR UNITARIO MAS BAJO
+
+1
+CODIGO DE
+PROCESO:
+
+PROFORMAS
+
+PROGRAMA 86, FONDO 01, PARTIDA 530810 - (CONSULTA EXTERNA, EMERGENCIA Y HOSPITALIZACIÓN)
+
+3529010726
+
+HORMONA DE TSH ELISA
+
+Inmunoanálisis. Método ELISA. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+400
+
+4,75
+
+4,85
+
+4,75
+
+1900,00
+
+2
+
+3529010726
+
+HORMONA
+TRIYODOTIRONINA (T3)
+ELISA
+
+Inmunoanálisis. Método quimioluminiscencia
+(CLIA). Determinación cuantitativa. Incluye
+controles y calibradores. Reactivos listos para
+usar. Compatible con el equipo que el
+proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+200
+
+4,75
+
+4,85
+
+4,75
+
+950,00
+
+3
+
+3529010726
+
+HORMONA TIROXINA (T4)
+TOTAL MÉTODO
+AUTOMATIZADO
+
+Inmunoanálisis. Método quimioluminiscencia
+(CLIA). Determinación cuantitativa. Incluye
+controles y calibradores. Reactivos listos para
+usar. Compatible con el equipo que el proveedor
+proporcione en calidad de apoyo tecnológico.
+
+DETERMINACION
+
+400
+
+4,75
+
+4,85
+
+4,75
+
+1900,00
+
+4
+
+3529010729
+
+HEMOGLOBINA
+GLICOSILADA
+
+Método inmunoturbidimétrico. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+300
+
+3,73
+
+4,85
+
+2,29
+
+687,00
+
+SUBTOTAL PROGRAMA 86, FONDO 01, PARTIDA 530810
+
+5437,00
+
+1
+
+2,20
+
+0,09
+
+2,29
+
+7,29
+
+0,13
+
+7,42
+
+PROGRAMA 86, FONDO 02, PARTIDA 530810 - (CONSULTA EXTERNA, EMERGENCIA Y HOSPITALIZACIÓN)
+1
+
+2
+
+352901091
+
+3529010729
+
+ASA DE SIEMBRA
+DESCARTABLE 10 UL
+
+De plástico, termina en un aro, calibrada a 10 µl,
+estéril y descartable.
+
+ANTIESTREPTOLISINA O
+(ASO LATEX)
+
+Aglutinación por látex. El kit contiene:
+• Reactivo: suspensión de partículas de látex
+recubiertas con anti-estreptolisina O
+• Controles
+• Tarjetas visualizadoras
+• Palillos plásticos desechables
+• Inserto
+Límite de detección: 200 UI/ml
+Reactivos listos para usar
+
+UNIDAD
+
+500
+
+0,27
+
+0,30
+
+0,27
+
+135,00
+
+DETERMINACION
+
+100
+
+0,26
+
+0,45
+
+0,26
+
+26,00
+
+3
+
+4
+
+5
+
+6
+
+7
+
+FACTOR REUMATOIDEO
+(LATEX)
+
+Aglutinación por látex. El kit incluye:
+• Reactivo: suspensión de partículas de látex
+recubiertas con inmunoglobulinas
+• Controles
+• Tarjetas visualizadoras
+• Palillos plásticos desechables
+• Inserto
+Límite de detección: 8 UI/ml
+Reactivos listos para usar
+
+DETERMINACION
+
+100
+
+3529010752
+
+AMILASA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico..
+
+DETERMINACION
+
+360
+
+1,30
+
+0,05
+
+1,35
+
+0,40
+
+0,02
+
+0,42
+
+3529010770
+
+ACIDO URICO
+AUTOMATIZADA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+300
+
+0,39
+
+0,02
+
+0,41
+
+0,40
+
+0,02
+
+0,42
+
+3529010760
+
+CREATININA
+COLORIMETRICA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+800
+
+0,40
+
+0,02
+
+0,42
+
+0,45
+
+0,01
+
+UREA COLORIMETRICA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+400
+
+0,40
+
+0,02
+
+0,42
+
+0,49
+
+0,01
+
+UNIDAD
+
+44
+
+3529010729
+
+3529010769
+
+1,55
+
+0,03
+
+0,26
+
+0,45
+
+0,26
+
+26,00
+
+2,00
+
+1,80
+
+0,42
+
+151,20
+
+0,57
+
+0,65
+
+0,41
+
+123,00
+
+0,46
+
+0,70
+
+0,80
+
+0,42
+
+336,00
+
+0,50
+
+0,70
+
+0,80
+
+0,42
+
+168,00
+
+6,70
+
+6,00
+
+6,00
+
+264,00
+
+0,62
+
+0,65
+
+0,35
+
+175,00
+
+1,31
+
+1,40
+
+1,31
+
+1414,80
+
+1,58
+
+8
+
+3529010985
+
+CONTENEDOR DE
+POLIPROPILENO X 3 L
+
+Polipropileno alta densidad, resistente a la
+perforación, al impacto, con símbolo universal
+de riesgo biológico en las dos caras, con tapa de
+seguridad y sistema de cierre al final del uso,
+desempatador de agujas y orificio para desechar
+otro tipo de objetos cortopunzantes, de color
+rojo, capacidad de 3 litros, descartable.
+
+9
+
+3529010758
+
+COLESTEROL TOTAL
+ENZIMATICO
+AUTOMATIZADO
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+500
+
+0,34
+
+0,01
+
+0,35
+
+0,40
+
+0,02
+
+0,42
+
+10
+
+3529010762
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+COLESTEROL HDL
+Incluye controles y calibradores. Reactivos
+DIRECTO AUTOMATIZADO listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+1080
+
+1,26
+
+0,05
+
+1,31
+
+2,10
+
+0,08
+
+2,18
+
+11
+
+3529010711
+
+De papel filtro, impregnado de 50 µg de
+DISCO DE SENSIBILIDAD
+fosfomicina, debe llevar impreso la
+DE FOSFOMICINA 50 UG X
+abreviatura y concentración del disco, diámetro:
+50 DISCOS
+6 mm.
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+12
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE NITROFURANTOINA
+300 UG X 50 DISCOS
+
+De papel filtro, impregnado de 300 µg de
+nitrofurantoína, debe llevar impreso la
+abreviatura y concentración del disco, diámetro:
+6 mm.
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+13
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE ACIDO NALIDIXICO 30
+ug x 50
+DISCOS
+
+De papel filtro, impregnado de 30 µg de ácido
+nalidíxico, debe llevar impreso la abreviatura y la
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+14
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 30 µg de
+DE CEFTRIAXONA 30 UG X ceftriaxona, debe llevar impreso la abreviatura
+50 DISCOS
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+15
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE CEFUROXIMA 30 UG X
+50 DISCOS
+
+De papel filtro, impregnado de 30 µg de
+cefuroxima, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+16
+
+3529010711
+
+De papel filtro, impregnado de 30 µg de
+DISCO DE SENSIBILIDAD
+eritromicina, debe llevar impreso la
+DE ERITROMICINA 30 ug x
+abreviatura y concentración del disco, diámetro:
+50 DISCOS
+6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+0,45
+
+0,01
+
+0,46
+
+17
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE IMIPENEM 10 UG X 50
+DISCOS
+
+De papel filtro, impregnado de 10 µg de
+imipenen, debe llevar impreso la abreviatura y
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+18
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 10 UG de
+DE PENICILINA 10 UG X 50 penicilina, debe llevar impreso la abreviatura y
+DISCOS
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+19
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+De papel filtro, impregnado de 23.75 µg de
+DE
+sulfametoxazol y 1.25 µg de trimetoprima
+SULFAMETOXAZOL+TRIME
+debe llevar impreso la abreviatura y
+TOPRIMA 23.75 ug+1.25 ug
+concentración del disco, diámetro: 6 mm
+x 50 DISCOS
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+20
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE VANCOMICINA 30 ug x
+50 DISCOS
+
+De papel filtro, impregnado de 30 µg de
+vancomicina, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+21
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel de filtro, impregnado de 30 µg de
+DE CEFALEXINA 30 ug x 50 cefalexina, debe llevar impreso la abreviatura y
+DISCOS
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+22
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE AZITROMICINA 15 ug x
+50 DISCOS
+
+De papel filtro, impregnado de 15 µg de
+azitromicina, debe llevar impreso la abreviatura y
+concentración del disco, diámetro: 6 - 6.35 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+23
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE CIPROFLOXACINO 5
+UG X 50 DISCOS
+
+De papel filtro, impregnado de 5 µg de
+ciprofloxacina, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+24
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE CLARITROMICINA 15
+UG X 50 DISCOS
+
+De papel filtro, impregnado de 15 µg de
+claritromicina, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+25
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE TETRACICLINA 30 ug x
+50 DISCOS
+
+De papel filtro, impregnado de 30 µg de
+tetraciclina, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+26
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel de filtro, impregnado de 0.04 UI de
+DE BACITRACINA 0.04 UI X bacitracina, debe llevar impreso la abreviatura y
+50 DISCOS
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+27
+
+3529010711
+
+Disco de papel filtro, impregnados con
+DISCO DE SENSIBILIDAD
+optoquina (clorhidrato de etilhidrocupreína) 5
+DE OPTOQUINA 5 UG X 50
+µg, debe llevar impreso la abreviatura y
+DISCOS
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+28
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 10 UG de
+DE PENICILINA 10 UG X 50 penicilina, debe llevar impreso la abreviatura y
+DISCOS
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+29
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 10 µg de
+DE AMPICILINA 10 UG X 50 ampicilina, debe llevar impreso la abreviatura
+DISCOS
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+30
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 10 µg de
+DE
+ampicilina y 10 µg de sulbactam, debe llevar
+AMPICILINA+SULBACTAM impreso la abreviatura y la concentración del
+10 UG+10 UG X 50 DISCOS disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+31
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE OXACILINA 1 UG X 50
+DISCOS
+
+De papel filtro, impregnado de 1 µg de
+oxacilina, debe llevar impreso la abreviatura y
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+32
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE DICLOXACILINA 30 UG
+X 50 DISCOS
+
+De papel filtro, impregnado de 30 µg de
+dicloxacilina, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+33
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE CEFEPIME 30 UG X 50
+DISCOS
+
+De papel de filtro, impregnado de 30 µg de
+cefepime, debe llevar impreso la abreviatura y
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+34
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 30 µg de
+DE AMIKACINA 30 UG X 50 amikacina, debe llevar impreso la abreviatura
+DISCOS
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+35
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE GENTAMICINA 120 UG
+X 50 DISCOS
+
+De papel filtro, impregnado de 120 µg de
+gentamicina, debe llevar impreso la abreviatura y
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+36
+
+3529010711
+
+DISCO DE SENSIBILIDAD De papel filtro, impregnado de 20 µg de
+DE AMOXICILINA+ACIDO
+amoxicilina y 10 µg de ácido clavulánico, debe
+CLAVULANICO 20 ug+10 ug llevar impreso la abreviatura y concentración del
+x 50 DISCOS
+disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+37
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE CLINDAMICINA 2 UG X
+50 DISCOS
+
+De papel filtro, impregnado de 2 µg de
+clindamicina, debe llevar impreso la
+abreviatura y concentración del disco, diámetro:
+6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+38
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE AMOXICILINA 25 ug x
+50 DISCOS
+
+De papel filtro, impregnado de 25 µg de
+amoxicilina, debe llevar impreso la abreviatura
+y concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+39
+
+3529010711
+
+DISCO DE SENSIBILIDAD
+DE CEFOXITINA 30 UG X
+50 DISCOS
+
+De papel filtro, impregnado de 30 µg de
+cefoxitina, debe llevar impreso la abreviatura y
+concentración del disco, diámetro: 6 mm
+
+UNIDAD
+
+2
+
+5,13
+
+5,10
+
+5,10
+
+10,20
+
+40
+
+352901091
+
+ETIQUETA
+AUTOADHESIVA PARA
+LABORATORIO
+
+Etiquetas pegables, varias medidas, de acuerdo
+al equipo biomédico. Compatible con el equipo
+que el proveedor proporcione en calidad de
+apoyo tecnológico.
+
+UNIDAD
+
+20000
+
+0,014
+
+0,01
+
+0,01
+
+200,00
+
+41
+
+35290107104
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+GLUCOSA AUTOMATIZADA Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo
+proporcionado por el proveedor.
+
+DETERMINACION
+
+1000
+
+0,35
+
+0,01
+
+0,36
+
+0,40
+
+0,02
+
+0,42
+
+0,54
+
+0,65
+
+0,36
+
+360,00
+
+42
+
+3529010761
+
+GAMMA GLUTAMIL
+TRANSFERASA (GGT)
+
+Espectroscopía. Método cinético. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+300
+
+0,70
+
+0,03
+
+0,73
+
+0,40
+
+0,02
+
+0,42
+
+0,77
+
+0,80
+
+0,42
+
+126,00
+
+43
+
+3529010727
+
+IgE ALERGENO
+ESPECIFICA METODO
+QUIMIOLUMINISCENCIA
+
+Espectroscopía. Método quimioluminiscencia
+(CLIA). Determinación cuantitativa. Incluye
+controles y calibradores. Reactivos listos para
+usar. Compatible con el equipo que el proveedor
+proporcione en calidad de apoyo tecnológico.
+
+DETERMINACION
+
+150
+
+9,60
+
+5,75
+
+5,75
+
+862,50
+
+44
+
+3529010722
+
+REACTIVO PARA
+ELECTROLITOS
+SANGUINEOS
+
+Método electroquímico, electrodo de ión
+selectivo. Determinación cuantitativa. Incluye
+controles y calibradores. Reactivos listos para
+usar. Compatible con el equipo que el proveedor
+proporcione en calidad de apoyo tecnológico.
+
+DETERMINACION
+
+300
+
+2,30
+
+2,50
+
+2,30
+
+690,00
+
+45
+
+352901091
+
+LAMINA PORTA OBJETO
+25 mm x 75 mm
+
+De vidrio, bordes cortados o esmerilados,
+medidas aproximadas: 25 x 75 mm,
+transparente. Posee banda mate al extremo.
+
+UNIDADES
+
+750
+
+0,05
+
+0,05
+
+0,05
+
+37,50
+
+46
+
+352901091
+
+LAMINILLA CUBRE
+OBJETO 22 mm x 22 mm
+
+Finas láminas de vidrio borosilicato, delgadas,
+incoloras, claras, resistente a químicos.
+Dimensiones 22 mm x 22 mm y espesor
+0.13 mm - 0.16 mm, aproximadamente.
+Descartable.
+
+UNIDADES
+
+6400
+
+0,02
+
+0,02
+
+0,02
+
+128,00
+
+47
+
+352901091
+
+MARCADOR DE TINTA
+INDELEBLES PUNTA
+MEDIANA COLOR AZUL
+
+Marcador de trazo 3 – 5mm.
+Punta redonda y resistente.
+Seca rápidamente.
+Para marcar en todo tipo de superficie.
+Libre de Xileno y Tolueno.
+
+UNIDAD
+
+20
+
+2,50
+
+3,00
+
+2,50
+
+50,00
+
+48
+
+3529010727
+
+MICROALBUMINURIA
+
+Tira plástica que contienen anticuerpos
+monoclonales anti albúmina humana (IgG)
+unidos a una fase sólida. Concentración mínima
+detectable de 20 mg/dL. Debe incluir inserto.
+
+DETERMINACION
+
+210
+
+3,70
+
+3,90
+
+3,70
+
+777,00
+
+49
+
+3529010997
+
+De plástico, base circular, paredes de altura baja
+PLACA PETRI DE
+(aproximadamente 15 mm de alto), cubierta de
+PLASTICO ESTERIL 15 mm similar forma pero de diámetro más grande para
+x 90 mm
+que encaje como una tapa, un compartimento,
+estéril y descartable.
+
+UNIDAD
+
+300
+
+0,40
+
+0,45
+
+0,40
+
+120,00
+
+2,38710
+
+0,10
+
+2,49
+
+0,56
+
+0,01
+
+0,57
+
+50
+
+3529010997
+
+De plástico, base circular, paredes de altura baja
+PLACA PETRI DE
+(aproximadamente 15 mm de alto), cubierta de
+PLASTICO DESCARTABLE
+similar forma pero de diámetro más grande para
+15 mm x 90 mm CON 2
+que encaje como una tapa, dos compartimentos,
+DIVISIONES
+estéril y descartable.
+
+UNIDAD
+
+300
+
+0,41
+
+0,45
+
+0,41
+
+123,00
+
+51
+
+352901091
+
+PUNTERA (TIPS)
+UNIVERSAL PARA PIPETA
+AUTOMATICA 5 uL 200 uL
+COLOR AMARILLO
+
+De polipropileno, para uso universal (debe
+ser compatible con la pipeta automática a ser
+utilizada), capacidad: 5 - 200 µl, graduada,
+descartable.
+
+UNIDAD
+
+1000
+
+0,01
+
+0,01
+
+0,01
+
+10,00
+
+PRUEBA RÁPIDA PARA
+HELICOBACTER PYLORI
+
+Inmunoanálisis cromatográfico. El kit contiene:
+• Dispositivo de prueba: cassette conformado por
+una zona para la muestra y una membrana de
+nitrocelulosa que posee una banda de control (C)
+y una banda de prueba (T) recubierta de
+anticuerpos de H. pylori. Dispositivos
+almacenados de forma individual en bolsas de
+aluminio selladas que en su interior contienen un
+desecante.
+• Frasco con aplicador y solución tampón. El
+número de frasco será en cantidad acorde con el
+número de dispositivos de prueba que
+conforman el kit
+• Inserto
+Sensibilidad: ≥85%
+Especificidad: ≥90%
+
+DETERMINACION
+
+299
+
+3,20
+
+3,50
+
+3,20
+
+956,80
+
+DETERMINACION
+
+120
+
+3,60
+
+3,50
+
+3,50
+
+420,00
+
+4,50
+
+5,00
+
+2,08
+
+728,00
+
+52
+
+3529010727
+
+53
+
+3529010727
+
+PRUEBA RAPIDA DE
+ROTAVIRUS Y
+ADENOVIRUS
+
+Inmunoanálisis cromatográfico. El kit contiene:
+• Dispositivo de prueba: cassettes conformados
+por una zona para la muestra y una membrana
+de nitrocelulosa que posee una banda de control
+(C) y una banda de prueba (T) recubierta con
+anticuerpos de rotavirus y adenovirus.
+Dispositivos almacenados de forma individual en
+bolsas de aluminio selladas que en su interior
+contienen un desecante.
+• Frascos con aplicador y solución tampón. En
+cantidad acorde con el número de dispositivos
+de prueba que conforman el kit
+• Inserto
+Sensibilidad: ≥95%
+Especificidad: ≥95%
+
+54
+
+3529010727
+
+PROTEINA C REACTIVA
+CUANTITATIVA (PCR)
+
+Inmunoanálisis. Método inmunoturbidimétrico.
+Determinación cuantitativa. Incluye controles y
+calibradores. Reactivos listos para usar.
+Compatible con el equipo que el proveedor
+proporcione en calidad de apoyo tecnológico.
+
+DETERMINACION
+
+350
+
+55
+
+3529010726
+
+ANTIGENO PROSTATICO
+ESPECIFICO (PSA) LIBRE
+
+Inmunoanálisis. Método ELISA. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+350
+
+4,50
+
+5,00
+
+4,50
+
+1575,00
+
+56
+
+3529010726
+
+Inmunoanálisis. Método ELISA. Determinación
+cuantitativa. Incluye controles y calibradores.
+ANTIGENO PROSTATICO
+Reactivos listos para usar. Compatible con el
+ESPECIFICO (PSA) TOTAL
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+350
+
+4,50
+
+5,00
+
+4,50
+
+1575,00
+
+57
+
+352901091
+
+•Con 2 áreas de depósito en la plancha de
+plástico
+PLACA PORTA PLASTILINA
+•Con cera e ingrediente de relleno y cera de
+PARA
+abeja natural, sin químicos dañinos al material
+MICROHEMATOCRITO
+plástico
+•Numeradas 1-24
+
+UNIDAD
+
+3
+
+2,50
+
+3,00
+
+2,50
+
+7,50
+
+3529010725
+
+REACTIVO PARA
+ANALIZADOR
+HEMATOLOGICO DE 18
+PARAMETROS
+
+DETERMINACION
+
+2000
+
+1,88
+
+2,00
+
+1,88
+
+3760,00
+
+58
+
+Método citometría de flujo. El kit contiene:
+diluyente, lisante, soluciones limpiadoras,
+entre otros reactivos que requiera cada
+equipo para su correcto funcionamiento.
+Determinación cuantitativa. Incluye controles y
+calibradores. Reactivos listos para usar.
+Compatible con el equipo que el proveedor
+proporcione en calidad de apoyo tecnológico.
+
+2,00
+
+0,08
+
+2,08
+
+1,85
+
+0,03
+
+1,88
+
+Contiene: un colorante básico (cristal violeta),
+solución mordiente (solución diluida de yodo),
+agente decolorante (alcohol acetona), colorante
+de contraste (safranina).
+
+3529010730
+
+SET COLORANTE GRAM
+DE 1 L (4 FRASCOS DE 1
+LITRO C/U)
+
+60
+
+3529010730
+
+Tira plástica que contiene reactivos desecados
+unidos a una fase sólida en diferentes zonas,
+permitiendo medir 10 parámetros:
+• pH
+• Densidad
+• Urobilinógeno (URO)
+TIRAS PARA PRUEBAS DE • Glucosa (GLU)
+ANALISIS DE ORINA
+• Cetonas (KET)
+• Bilirrubina (BIL)
+• Proteínas (PRO)
+• Nitritos (NIT)
+• Sangre (BLO)
+• Leucocitos (LEU)
+Debe incluir inserto
+
+61
+
+3529010751
+
+TRANSAMINASA
+GLUTAMICA PIRUVICA
+(TGP) AUTOMATIZADA
+
+62
+
+3529010753
+
+59
+
+UNIDAD
+
+1
+
+99,00
+
+110,00
+
+99,00
+
+99,00
+
+UNIDADES
+
+1100
+
+0,48
+
+0,55
+
+0,48
+
+528,00
+
+Espectroscopía. Método cinético. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+750
+
+0,34
+
+0,01
+
+0,35
+
+0,40
+
+0,02
+
+0,42
+
+0,49
+
+0,01
+
+0,50
+
+0,62
+
+0,70
+
+0,35
+
+262,50
+
+TRANSAMINASA
+GLUTAMICA
+OXALACETICA (TGO)
+AUTOMATIZADA
+
+Espectroscopía. Método cinético. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+750
+
+0,34
+
+0,01
+
+0,35
+
+0,40
+
+0,02
+
+0,42
+
+0,49
+
+0,01
+
+0,50
+
+0,62
+
+0,70
+
+0,35
+
+262,50
+
+3529010729
+
+TIRA REACTIVA PARA
+GLUCOMETRO PORTATIL
+ACCU CHEK ACTIVE
+
+Tira plástica, manejable, rápida absorción
+capilar, contiene reactivo impregnado en un
+extremo de la tira, rango de medición entre el
+límite inferior de 10 mg/dl hasta el límite superior
+de 600 mg/dl. Compatible con el equipo ACCU
+CHEK ACTIVE que posee el hospital. Debe
+incluir inserto.
+
+UNIDADES
+
+100
+
+0,90
+
+1,00
+
+0,90
+
+90,00
+
+64
+
+3529010767
+
+TRIGLICERIDOS
+ENZIMATICO
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+1800
+
+0,67
+
+0,65
+
+0,42
+
+756,00
+
+65
+
+352901091
+
+TUBO CENTRIFUGA DE
+PLASTICO- FONDO
+CONICO X 12 ML
+
+De plástico, graduado, fondo cónico, posee
+tapa rosca o a presión, estéril y descartable.
+
+UNIDAD
+
+1000
+
+0,20
+
+0,25
+
+0,20
+
+200,00
+
+SUBTOTAL PROGRAMA 86, FONDO 02, PARTIDA 530810
+
+17819,10
+
+63
+
+0,40
+
+0,02
+
+0,42
+
+0,40
+
+0,02
+
+0,42
+
+0,57
+
+0,01
+
+0,58
+
+PROGRAMA 55- FONDO 01 -PARTIDA 530810 (FICHA MEDICA)
+
+1
+
+2
+
+3529010729
+
+3529010727
+
+RPR
+
+El kit incluye:
+• Reactivo: partículas de carbón con una mezcla
+de lípidos, cardiolipina, lecitina, buffer, entre
+otros componentes
+• Controles
+Sensibilidad: ≥96%
+Especificidad: ≥96%
+Reactivos listos para usar
+
+DETERMINACION
+
+900
+
+0,25
+
+0,30
+
+0,25
+
+225,00
+
+ANTIGENO CORE P24 DE
+VIH
+
+Inmunoanálisis cromatográfica. El kit contiene:
+• Dispositivos de prueba: cassettes conformados
+por una zona para la muestra y una membrana
+de nitrocelulosa que posee una banda de control
+(C) y dos bandas de prueba, una recubierta con
+antígenos recombinantes VIH-1/VIH-2 y otra con
+anticuerpos monoclonales anti-VIH-p24.
+Dispositivos almacenados de forma individual en
+bolsas de aluminio selladas que en su interior
+contienen un desecante
+• Pipeta plástica con bulbo (pipeta de
+transferencia) desechable, que permita la
+recolección de la cantidad correcta de muestra y
+su dispensación controlada y reproducible, en
+gotas según lo descrito en el inserto. El número
+de pipetas plásticas debe estar acorde con el
+número de dispositivos de prueba que
+conforman el kit
+• Frasco de solución tampón o diluyente, en
+cantidad suficiente para el número de pruebas
+del kit
+Sensibilidad: ≥99%
+Especificidad: ≥99%
+
+DETERMINACION
+
+900
+
+3,52
+
+3,75
+
+3,52
+
+3168,00
+
+3
+
+3529010770
+
+ACIDO URICO
+AUTOMATIZADA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo
+proporcionado por el proveedor.
+
+DETERMINACION
+
+900
+
+4
+
+3529010760
+
+CREATININA
+COLORIMETRICA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que el
+proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+900
+
+3529010985
+
+CONTENEDOR DE
+POLIPROPILENO X 3 L
+
+Polipropileno alta densidad, resistente a la
+perforación, al impacto, con símbolo universal
+de riesgo biológico en las dos caras, con tapa de
+seguridad y sistema de cierre al final del uso,
+desempatador de agujas y orificio para desechar
+otro tipo de objetos cortopunzantes, de color
+rojo, capacidad de 3 litros, descartable
+
+UNIDAD
+
+10
+
+6
+
+3529010758
+
+COLESTEROL TOTAL
+ENZIMATICO
+AUTOMATIZADO
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+900
+
+0,34
+
+0,01
+
+0,35
+
+0,40
+
+0,02
+
+0,42
+
+7
+
+3529010762
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+COLESTEROL HDL
+Incluye controles y calibradores. Reactivos
+DIRECTO AUTOMATIZADO listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+900
+
+1,26
+
+0,05
+
+1,31
+
+2,10
+
+0,08
+
+2,18
+
+8
+
+352901091
+
+ETIQUETA
+AUTOADHESIVA PARA
+LABORATORIO
+
+UNIDAD
+
+6300
+
+9
+
+35290107104
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+GLUCOSA AUTOMATIZADA
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+900
+
+10
+
+352901091
+
+LAMINA PORTA OBJETO
+25 mm x 75 mm
+
+De vidrio, bordes cortados o esmerilados,
+medidas aproximadas: 25 x 75 mm,
+transparente. Posee banda mate al extremo.
+
+UNIDAD
+
+11
+
+352901091
+
+LAMINILLA CUBRE
+OBJETO 22 mm x 22 mm
+
+Finas láminas de vidrio borosilicato,
+delgadas, incoloras, claras, resistente a
+químicos. Dimensiones 22 mm x 22 mm y
+espesor 0.13 mm - 0.16 mm,
+aproximadamente. Descartable
+
+12
+
+352901091
+
+MARCADOR DE TINTA
+INDELEBLES PUNTA
+MEDIANA COLOR AZUL
+
+13
+
+352901091
+
+14
+
+352901091
+
+5
+
+0,57
+
+0,65
+
+0,41
+
+369,00
+
+0,70
+
+0,80
+
+0,42
+
+378,00
+
+6,70
+
+6,00
+
+6,00
+
+60,00
+
+0,62
+
+0,65
+
+0,35
+
+315,00
+
+1,31
+
+1,40
+
+1,31
+
+1179,00
+
+0,014
+
+0,01
+
+0,01
+
+63,00
+
+0,54
+
+0,65
+
+0,36
+
+324,00
+
+1800
+
+0,05
+
+0,05
+
+0,05
+
+90,00
+
+UNIDAD
+
+1800
+
+0,02
+
+0,02
+
+0,02
+
+36,00
+
+Marcador de trazo 3 – 5mm.
+Punta redonda y resistente.
+Seca rápidamente.
+Para marcar en todo tipo de superficie.
+Libre de Xileno y Tolueno.
+
+UNIDAD
+
+10
+
+2,50
+
+3,00
+
+2,50
+
+25,00
+
+PUNTERA (TIPS)
+UNIVERSAL PARA PIPETA
+AUTOMATICA 5 uL 200 uL
+COLOR AMARILLO
+
+De polipropileno, para uso universal (debe
+ser compatible con la pipeta automática a ser
+utilizada), capacidad: 5 - 200 µl, graduada,
+descartable.
+
+UNIDAD
+
+1800
+
+0,01
+
+0,01
+
+0,01
+
+18,00
+
+PUNTERA AZUL 200 UL
+1000 UL
+
+De polipropileno, para uso universal (debe
+ser compatible con la pipeta automática a ser
+utilizada), capacidad: 1000 µl, graduada,
+descartable.
+
+UNIDAD
+
+900
+
+0,02
+
+0,02
+
+0,02
+
+18,00
+
+Etiquetas pegables, varias medidas, de acuerdo
+al equipo biomédico. Compatible con el equipo
+que el proveedor proporcione en calidad de
+apoyo tecnológico.
+
+0,39
+
+0,35
+
+0,02
+
+0,01
+
+0,41
+
+0,36
+
+0,40
+
+0,02
+
+0,42
+
+0,40
+
+0,02
+
+0,42
+
+0,40
+
+0,02
+
+0,42
+
+0,45
+
+0,45
+
+0,56
+
+0,01
+
+0,01
+
+0,01
+
+0,46
+
+0,46
+
+0,57
+
+15
+
+3529010727
+
+PRUEBA RAPIDA PARA
+DETECTAR SANGRE
+OCULTA EN HECES
+
+Método inmunocromatográfico. El kit contiene:
+• Dispositivo de prueba: cassettes conformados
+por una zona para la muestra y una membrana
+de nitrocelulosa que posee una banda de control
+(C) y una banda de prueba (T) recubierta de
+antígenos de anticuerpo anti-hemoglobina.
+Dispositivos almacenados de forma individual en
+bolsas de aluminio selladas que en su interior
+contienen un desecante
+• Frascos con aplicador y solución tampón. En
+cantidad acorde con el número de dispositivos
+de prueba que conforman el kit
+Sensibilidad: ≥95%
+Especificidad: ≥95%
+
+16
+
+3529010726
+
+ANTIGENO PROSTATICO
+ESPECIFICO (PSA) LIBRE
+
+Inmunoanálisis. Método ELISA. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+100
+
+4,50
+
+5,00
+
+4,50
+
+450,00
+
+17
+
+3529010726
+
+Inmunoanálisis. Método ELISA. Determinación
+cuantitativa. Incluye controles y calibradores.
+ANTIGENO PROSTATICO
+Reactivos listos para usar. Compatible con el
+ESPECIFICO (PSA) TOTAL
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+100
+
+4,50
+
+5,00
+
+4,50
+
+450,00
+
+3529010725
+
+REACTIVO PARA
+ANALIZADOR
+HEMATOLOGICO DE 18
+PARAMETROS
+
+Método citometría de flujo. El kit contiene:
+diluyente, lisante, soluciones limpiadoras,
+entre otros reactivos que requiera cada
+equipo para su correcto funcionamiento.
+Determinación cuantitativa. Incluye controles y
+calibradores. Reactivos listos para usar.
+Compatible con el equipo que el proveedor
+proporcione en calidad de apoyo tecnológico.
+
+DETERMINACION
+
+900
+
+1,88
+
+2,00
+
+1,88
+
+1692,00
+
+19
+
+3529010730
+
+Tira plástica que contiene reactivos desecados
+unidos a una fase sólida en diferentes zonas,
+permitiendo medir 10 parámetros:
+• pH
+• Densidad
+• Urobilinógeno (URO)
+TIRAS PARA PRUEBAS DE
+• Glucosa (GLU)
+ANALISIS DE ORINA
+• Cetonas (KET)
+• Bilirrubina (BIL)
+• Proteínas (PRO)
+• Nitritos (NIT)
+• Sangre (BLO)
+• Leucocitos (LEU)
+
+UNIDAD
+
+900
+
+0,48
+
+0,55
+
+0,48
+
+432,00
+
+20
+
+3529010753
+
+TRANSAMINASA
+GLUTAMICA
+OXALACETICA (TGO)
+AUTOMATIZADA
+
+Espectroscopía. Método cinético. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+900
+
+0,34
+
+0,01
+
+0,35
+
+0,40
+
+0,02
+
+0,42
+
+0,49
+
+0,01
+
+0,50
+
+0,62
+
+0,70
+
+0,35
+
+315,00
+
+21
+
+3529010751
+
+TRANSAMINASA
+GLUTAMICA PIRUVICA
+(TGP) AUTOMATIZADA
+
+Espectroscopía. Método cinético. Determinación
+cuantitativa. Incluye controles y calibradores.
+Reactivos listos para usar. Compatible con el
+equipo que el proveedor proporcione en calidad
+de apoyo tecnológico.
+
+DETERMINACION
+
+900
+
+0,34
+
+0,01
+
+0,35
+
+0,40
+
+0,02
+
+0,42
+
+0,49
+
+0,01
+
+0,50
+
+0,62
+
+0,70
+
+0,35
+
+315,00
+
+22
+
+352901091
+
+TORNIQUETES PLANOS
+CON DESPRENDIMIENTO
+AUTOMATICO
+
+Banda elástica, medidas aproximadas: 38 cm x
+2.5 cm, posee seguro plástico o clip de
+seguridad para un buen ajuste y fácil apertura.
+
+UNIDAD
+
+15
+
+3,50
+
+5,00
+
+3,50
+
+52,50
+
+23
+
+3529010767
+
+TRIGLICERIDOS
+ENZIMATICO
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+900
+
+0,67
+
+0,65
+
+0,42
+
+378,00
+
+24
+
+352901091
+
+TUBO CENTRIFUGA DE
+PLASTICO- FONDO
+CONICO X 12 ML
+
+De plástico, graduado, fondo cónico, posee tapa
+rosca o a presión, estéril y descartable.
+
+UNIDAD
+
+900
+
+0,20
+
+0,25
+
+0,20
+
+180,00
+
+18
+
+DETERMINACION
+
+900
+
+2,50
+
+3,00
+
+2,50
+
+2250,00
+
+1,85
+
+0,40
+
+0,02
+
+0,42
+
+0,40
+
+0,02
+
+0,42
+
+0,57
+
+0,03
+
+0,01
+
+1,88
+
+0,58
+
+25
+
+3529010769
+
+UREA COLORIMETRICA
+
+Espectroscopía. Método enzimático
+colorimétrico. Determinación cuantitativa.
+Incluye controles y calibradores. Reactivos
+listos para usar. Compatible con el equipo que
+el proveedor proporcione en calidad de apoyo
+tecnológico.
+
+DETERMINACION
+
+900
+
+0,40
+
+0,02
+
+0,42
+
+0,49
+
+0,01
+
+0,50
+
+0,70
+
+0,80
+
+0,42
+
+378,00
+
+SUBTOTAL PROGRAMA 55- FONDO 01 -PARTIDA 530810
+
+13160,50
+
+TOTAL PRESUPUESTO REFERENCIAL
+
+36416,60
+
+Loja, 05 de agosto de 2022
+
+ELABORADO POR:
+
+REVISADO POR
+Firmado electrónicamente por:
+
+Firmado electrónicamente por:
+
+WILFRIDO
+FREDDY QUIROZ
+CUVI
+CBOP. QUIROZ CUVI FREDDY
+ENCARGADO DE BODEGA DEL LABORATORIO CLÍNICO
+Certificación de competencias Nº dA4fxycHHN
+
+DIANA ELIZABETH
+PAREDES MACHUCA
+
+CAPT. DE SND. DIANA PAREDES
+JEFE DE LOGISTICA DEL HOSPITAL BASICO 7 BI LOJA
+Certificación de competencias No. BFcS1YCVqd
+
+

@@ -1,0 +1,1174 @@
+
+NECESIDADES DE CONTRATACIÓN Y RECEPCIÓN DE PROFORMAS
+Buscador > NC-1260040520001-2022-00001
+
+Detalle de Necesidad de Contratación
+Datos del Proceso
+
+Funcionario Encargado
+
+ Nombre Entidad: EMPRESA PUBLICA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO CANTON
+
+ Nombre: Ing. Javier Idrovo
+
+QUEVEDO
+ Tipo de necesidad: Necesidad de Contratación
+
+ Correo Electrónico:
+compras_publicas@epmapaq.gob.ec
+
+ Código Necesidad de Contratación: NC-1260040520001-2022-00001
+ Estado de la necesidad: Finalizada
+
+Lugar de entrega
+
+ Objeto de compra:
+ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO DE SISTEMAS DE REDES DE AGUA POTABLE EN EL
+CANTON QUEVEDO
+
+ Provincia: LOS RIOS
+ Cantón: QUEVEDO
+ Parroquia: QUEVEDO
+
+ Fecha de Publicación de la Necesidad:
+2022-09-16 16:00:00
+
+ Dirección: Av. Quito, Ciudadela Nuevo
+Quevedo
+
+ Fecha Límite para la entrega de Proformas:
+2022-09-21 16:01:00
+
+Detalle del objeto de compra
+
+No.
+
+CPC
+
+Descripción del Producto
+
+Unidad
+
+Cantidad
+
+1
+
+375700015
+
+TUBOS
+
+TUBERÍA PVC U/Z 0.8 MPA. 6M X 63MM
+
+Unidad
+
+200.00
+
+2
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 0.8 Mpa. 6m x Ø 75 mm
+
+Unidad
+
+10.00
+
+3
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 0.8 Mpa. 6m x Ø 90 mm
+
+Unidad
+
+10.00
+
+4
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 0.8 Mpa. 6m x Ø 110 mm
+
+Unidad
+
+25.00
+
+5
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 1.0 Mpa. 6m x Ø 160 mm
+
+Unidad
+
+2.00
+
+6
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 1.0 Mpa. 6m x Ø 200 mm
+
+Unidad
+
+4.00
+
+7
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 1.0 Mpa. 6m x Ø 250 mm
+
+Unidad
+
+3.00
+
+8
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 1.0 Mpa. 6m x Ø 315 mm
+
+Unidad
+
+3.00
+
+9
+
+375700015
+
+TUBOS
+
+Tubería PVC U/Z 1.0 Mpa. 6m x Ø 355 mm
+
+Unidad
+
+1.00
+
+10
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tee PVC E/C 63 mm
+
+Unidad
+
+20.00
+
+11
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tee PVC E/C 90 mm
+
+Unidad
+
+5.00
+
+12
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tee PVC E/C 110 mm
+
+Unidad
+
+10.00
+
+13
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Codo PVC E/C 63 mm x 90
+
+Unidad
+
+10.00
+
+14
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Codo PVC E/C 63 mm x 45
+
+Unidad
+
+6.00
+
+15
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Reductor corto PVC E/C 110x63mm
+
+Unidad
+
+10.00
+
+16
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión de Reparación larga U/Z 63 mm
+
+Unidad
+
+60.00
+
+PVC
+No.
+
+CPC
+
+Descripción del Producto
+
+Unidad
+
+Cantidad
+
+17
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø63 mm
+
+Unidad
+
+10.00
+
+18
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø75 mm
+
+Unidad
+
+14.00
+
+19
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø90 mm
+
+Unidad
+
+10.00
+
+20
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø110 mm
+
+Unidad
+
+25.00
+
+21
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø160 mm
+
+Unidad
+
+10.00
+
+22
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø200 mm
+
+Unidad
+
+6.00
+
+23
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø250 mm
+
+Unidad
+
+6.00
+
+24
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø315 mm
+
+Unidad
+
+4.00
+
+25
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Ø355 mm
+
+Unidad
+
+2.00
+
+26
+
+3632060121
+
+UNION PARA TUBOS DE ACUEDUCTO EN
+PVC
+
+Unión Gibault Asimétrica Ø 4 PULGADAS
+
+Unidad
+
+8.00
+
+27
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 63 mm x 1/2"
+
+Unidad
+
+30.00
+
+28
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 63 mm x 3/4"
+
+Unidad
+
+30.00
+
+29
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 63 mm x 1"
+
+Unidad
+
+30.00
+
+30
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 75 mm x 1/2"
+
+Unidad
+
+5.00
+
+31
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 75 mm x 3/4"
+
+Unidad
+
+5.00
+
+32
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 75 mm x 1"
+
+Unidad
+
+5.00
+
+33
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 90 mm x 1/2"
+
+Unidad
+
+5.00
+
+34
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 90 mm x 3/4"
+
+Unidad
+
+5.00
+
+35
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 90 mm x 1"
+
+Unidad
+
+5.00
+
+36
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 110 mm x 1/2"
+
+Unidad
+
+5.00
+
+37
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 110 mm x 3/4"
+
+Unidad
+
+10.00
+
+38
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Collarín PVC 110 mm x 1"
+
+Unidad
+
+10.00
+
+39
+
+375700015
+
+TUBOS
+
+Tubería PVC roscable 6m x Ø1/2"
+
+Unidad
+
+40.00
+
+40
+
+375700015
+
+TUBOS
+
+Tubería PVC roscable 6m x Ø3/4"
+
+Unidad
+
+30.00
+
+41
+
+375700015
+
+TUBOS
+
+Tubería PVC roscable 6m x Ø1"
+
+Unidad
+
+15.00
+
+42
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tapones HG hembra Ø 1/2"
+
+Unidad
+
+80.00
+
+43
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tapones HG Macho Ø 1/2"
+
+Unidad
+
+80.00
+
+44
+No.
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+CPC
+
+Tapones HG hembra Ø 3/4"
+Descripción del Producto
+
+Unidad
+Unidad
+
+80.00
+Cantidad
+
+45
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tapones HG Macho Ø 3/4"
+
+Unidad
+
+80.00
+
+46
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tapones HG hembra Ø 1"
+
+Unidad
+
+80.00
+
+47
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Tapones HG Macho Ø 1"
+
+Unidad
+
+80.00
+
+48
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Nudo HG Ø 3/4"
+
+Unidad
+
+80.00
+
+49
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Nudo HG Ø 1"
+
+Unidad
+
+60.00
+
+50
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Unión HG Ø 1/2"
+
+Unidad
+
+40.00
+
+51
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Unión HG Ø 3/4"
+
+Unidad
+
+40.00
+
+52
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Unión HG Ø 1"
+
+Unidad
+
+20.00
+
+53
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Bushin Ø 3/4" x 1/2" HG
+
+Unidad
+
+40.00
+
+54
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Bushin Ø 1" x 1/2" HG
+
+Unidad
+
+30.00
+
+55
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Bushin Ø 1" x 3/4" HG
+
+Unidad
+
+40.00
+
+56
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Reductor Ø 3/4" x 1/2" HG
+
+Unidad
+
+40.00
+
+57
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Reductor Ø 1" x 1/2" HG
+
+Unidad
+
+30.00
+
+58
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Reductor Ø 1" x 3/4" HG
+
+Unidad
+
+40.00
+
+59
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Codo HG Ø 3/4"
+
+Unidad
+
+40.00
+
+60
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Codo HG Ø 1"
+
+Unidad
+
+40.00
+
+61
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Copas reductoras HG 3/4" a 1/2"
+
+Unidad
+
+20.00
+
+62
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Copas reductoras HG 1" a 3/4"
+
+Unidad
+
+20.00
+
+63
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Adaptador de Manguera a tubería PVC Ø 1/2"
+
+Unidad
+
+90.00
+
+64
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Adaptador de Manguera a tubería PVC Ø 3/4"
+
+Unidad
+
+90.00
+
+65
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Adaptador de Manguera a tubería PVC Ø 1"
+
+Unidad
+
+10.00
+
+66
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Uniones de Manguera PVC Ø 1/2"
+
+Unidad
+
+60.00
+
+67
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Uniones de Manguera PVC Ø 3/4"
+
+Unidad
+
+60.00
+
+68
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Teflón industrial amarillo grande
+
+Unidad
+
+100.00
+
+69
+
+448311013
+
+DISCOS PARA PULIDORAS
+
+Discos de corte para metal, medida: 4 1/2?
+
+Unidad
+
+20.00
+
+70
+
+448311013
+
+DISCOS PARA PULIDORAS
+
+Discos de corte diamantado, medida: 4 1/2?
+
+Unidad
+
+10.00
+
+71
+
+448311014
+
+HOJAS CORTADORAS Y TRITURADORAS
+
+Hojas de sierra para metal
+
+Unidad
+
+20.00
+
+72
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Neplos con tuerca PVC 1/2"
+
+Unidad
+
+25.00
+
+73
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Neplos con tuerca PVC 3/4"
+
+Unidad
+
+25.00
+
+74
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Neplos con tuerca PVC 1"
+
+Unidad
+
+25.00
+
+75
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Codos PVC 3/4"
+
+Unidad
+
+50.00
+
+76
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+C d
+
+U id d
+
+50 00
+
+PVC 1"
+
+76
+No.
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+CPC
+
+Codos PVC 1"
+Descripción del Producto
+
+Unidad
+Unidad
+
+50.00
+Cantidad
+
+77
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Adaptadores rosca macho para manguera de polietileno tipo pead
+1/2"
+
+Unidad
+
+50.00
+
+78
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Adaptadores rosca hembra para manguera de polietileno tipo
+pead 1/2"
+
+Unidad
+
+50.00
+
+79
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Reducciones PVC 3/4" a 1/2"
+
+Unidad
+
+50.00
+
+80
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Reducciones PVC 1" a 3/4"
+
+Unidad
+
+50.00
+
+81
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Bushin Ø 3/4" x 1/2" PVC
+
+Unidad
+
+50.00
+
+82
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Bushin Ø 1" x 1/2" PVC
+
+Unidad
+
+50.00
+
+83
+
+375700017
+
+ACCESORIOS PARA TUBERIA
+
+Teflón industrial amarillo grande
+
+Unidad
+
+50.00
+
+84
+
+335001013
+
+PEGANTE INSTANTANEO
+
+Permatex café de alta temperatura
+
+Unidad
+
+20.00
+
+85
+
+351100212
+
+PINTURA
+
+Spray color café
+
+Unidad
+
+5.00
+
+86
+
+448311014
+
+HOJAS CORTADORAS Y TRITURADORAS
+
+Hojas de sierra para metal
+
+Unidad
+
+10.00
+
+87
+
+448311013
+
+DISCOS PARA PULIDORAS
+
+Discos de corte para metal, medida: 4 1/2?
+
+Unidad
+
+10.00
+
+Estimado usuario, de requerir mayor información con respecto a los bienes, servicios u obras de la necesidad de Contratación puede ponerse en contacto
+con el responsable de la contratación.
+
+Forma de Pago
+TRANSFERENCIA SPI
+
+Documentos Anexos
+
+ARCHIVO QUE CONTIENE LAS ESPECIFICACIONES TÉCNICAS / TÉRMINOS DE REFERENCIA
+Descripción del Archivo
+
+Descargar Archivo
+
+TDR
+
+Regresar
+
+Contacto Ciudadano
+
+Portal Trámites Ciudadanos
+
+Sistema Nacional de Información (SNI)
+
+Av. Los Shyris 38-28 y el Telégrafo
+Quito - Ecuador
+593-2 2440050
+Teléfono: 1700- 737267
+
+

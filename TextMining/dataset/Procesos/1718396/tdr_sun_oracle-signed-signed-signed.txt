@@ -1,0 +1,2476 @@
+TÉRMINOS DE REFERENCIA
+
+RENOVACIÓN DEL SOPORTE DE FÁBRICA,
+MANTENIMIENTO Y SOPORTE TÉCNICO DE
+SERVIDORES Y ALMACENAMIENTO SUN
+ORACLE A NIVEL NACIONAL
+
+BCE-DIO-086-2022
+
+Banco Central del Ecuador
+
+2022
+
+Contenido
+1.
+
+ANTECEDENTES ................................................................................................................. 4
+
+2.
+
+BASE LEGAL ........................................................................................................................ 5
+
+3.
+
+JUSTIFICACIÓN ................................................................................................................... 9
+
+4.
+
+OBJETO DE LA CONTRATACIÓN ..................................................................................... 10
+
+5.
+
+OBJETIVOS DE LA CONTRATACIÓN ............................................................................... 10
+
+5.1.
+
+Objetivo General.............................................................................................................. 10
+
+5.2.
+
+Objetivos Específicos ...................................................................................................... 10
+
+6.
+
+ALCANCE ............................................................................................................................ 10
+
+7.
+
+METODOLOGÍA DE TRABAJO. ......................................................................................... 10
+
+8.
+
+INFORMACIÓN QUE DISPONE LA ENTIDAD .................................................................. 11
+
+9.
+
+PRODUCTOS Y/O SERVICIOS ESPERADOS .................................................................. 12
+
+10.
+
+ESPECIFICACIONES DEL SERVICIO ........................................................................... 13
+
+10.1.
+
+SOPORTE DE FÁBRICA ............................................................................................. 13
+
+10.2.
+
+MANTENIMIENTO ...................................................................................................... 14
+
+10.3.
+
+SOPORTE TÉCNICO .................................................................................................. 17
+
+11.
+
+ACUERDO DE NIVEL DE SERVICIO – SLA. ................................................................. 17
+
+11.1.
+
+Penalizaciones ............................................................................................................ 19
+
+12.
+
+FORMA DE PRESENTAR LA OFERTA ......................................................................... 20
+
+13.
+
+PARÁMETROS DE CALIFICACIÓN Y MÉTODOS DE EVALUACIÓN. ......................... 21
+
+13.1.
+
+Integridad de la Oferta ................................................................................................. 21
+
+13.2.
+
+EXPERIENCIA GENERAL MÍNIMA ............................................................................ 22
+
+13.3.
+
+EXPERIENCIA ESPECÍFICA MÍNIMA ........................................................................ 22
+
+13.4.
+
+Personal Técnico Mínimo ............................................................................................ 22
+
+13.5.
+
+Experiencia mínima del personal técnico .................................................................... 22
+
+13.6.
+
+Cumplimiento de los Términos de Referencia ............................................................ 23
+
+13.7.
+
+Patrimonio ................................................................................................................... 23
+
+13.8.
+
+Otros parámetros de calificación ................................................................................. 23
+
+14.
+
+Porcentaje de valor agregado ecuatoriano mínimo: ....................................................... 23
+
+15.
+
+FORMA Y CONDICIONES DE PAGO ............................................................................ 24
+
+16.
+
+PRECIO DE LA OFERTA ................................................................................................ 24
+
+17.
+
+PLAZO DE EJECUCIÓN ................................................................................................. 24
+
+18.
+
+VALIDEZ DE LA OFERTA .............................................................................................. 24
+
+19.
+
+GARANTÍAS .................................................................................................................... 24
+
+19.1.
+
+GARANTÍA DE FIEL CUMPLIMIENTO DEL CONTRATO ......................................... 24
+
+19.2.
+
+GARANTÍA DE SERVICIO Y SOPORTE .................................................................... 25
+
+20.
+
+MULTAS Y PENALIDADES ............................................................................................ 25
+
+20.1.
+
+MULTAS ...................................................................................................................... 25
+
+20.2.
+
+PENALIDADES ........................................................................................................... 25
+
+21.
+
+INFORMACIÓN FINANCIERA REFERENCIAL .............................................................. 26
+
+22.
+
+OBLIGACIONES DE LAS PARTES ................................................................................ 26
+
+22.1.
+
+Obligaciones del Proveedor ........................................................................................ 26
+
+22.2.
+
+Obligaciones del contratante ....................................................................................... 27
+
+23.
+
+ADMINISTRADOR DEL CONTRATO ............................................................................. 28
+
+24.
+
+COMISIÓN TÉCNICA SUGERIDA.................................................................................. 29
+
+25.
+
+PUJA ............................................................................................................................... 29
+
+26.
+
+PRESUPUESTO REFERENCIAL ................................................................................... 29
+
+27.
+
+VERIFICACIÓN EN EL PORTAL INSTITUCIONAL SERCOP ....................................... 29
+
+28.
+
+CPC A SER UTILIZADO EN ESTE PROCESO .............................................................. 30
+
+29.
+
+TIPO DE PROCESO ....................................................................................................... 30
+
+1. ANTECEDENTES
+El Banco Central del Ecuador como parte de su plataforma tecnológica tiene servidores de
+arquitectura Sparc, y almacenamiento Oracle, cuyo sistema operativo es Solaris, en donde se
+tiene configurados servicios críticos, tanto para clientes internos como externos.
+El detalle de los servicios críticos que se encuentran alojados en la infraestructura objeto de
+esta contratación se detallan en la tabla 1.
+DIRECCIÓN
+
+DIRECCION
+NACIONAL DE
+SISTEMAS DE
+PAGO
+
+NOMBRE DEL PROCESO
+
+PRODUCTOS
+
+Gestión de operaciones SPI
+
+Transferencias de Pagos
+interbancarias
+
+Sistema Nacional de Pagos
+Red Pública y Red Privada
+
+Gestión de operaciones SCI
+
+Transferencias
+interbancarias de Cobros
+
+Sistema Nacional de Pagos (SPI, SSP,
+OPE, SPL)
+Red Pública y Red Privada
+
+Gestión de operaciones CCC
+
+Cámara de
+Compensación
+de Cheques
+
+Cámara de Compensación de Cheques
+
+Gestión de Pago Internacional Giros del exterior
+
+SERVICIOS
+
+Sistema de Giros Internacionales
+
+Operaciones del Sistema
+SRP (Servicio que
+permite al sistema
+Financiero corresponsal
+entregar la información
+de los depósitos
+recaudados por las
+Entidades Públicas en
+sus cuentas
+recaudadoras).
+
+Sistema de Recaudación Pública
+
+Conciliación de la base de
+Riesgo de LA/FT de la
+DIRECCION
+institución con la base de
+NACIONAL DE
+datos transaccional de las
+CUMPLIMIENTO
+operaciones de transferencias
+al Exterior
+
+Informe de verificación
+de las operaciones de
+TRANSFERENCIAS AL
+EXTERIOR
+
+Sistema Nacional de Cumplimiento
+
+DIRECCION
+NACIONAL DE
+DEPOSITO
+Gestión de operación
+CENTRALIZADO
+DE VALORES
+
+Ingreso de información
+desde las Bolsas de
+Valores
+
+Depósito Centralizado de Valores
+
+Operación Sistema SRP
+
+Tabla 1. Tabla de Servicios que Soporta los componentes a contratar
+
+El 26 de julio de 2019, el Banco Central del Ecuador suscribió el contrato No. 037-C,
+relacionado al proceso Nro.SIE-BCE-019-2019 con la empresa COMWARE S.A., por el valor
+de USD 290.655,00 más IVA. Dentro del mencionado proceso de contratación se cuenta con
+un contrato de soporte y asistencia técnica de fábrica, servicios de mantenimiento preventivo y
+correctivo y la revisión del estado de los componentes integrados en la misma para garantizar
+la disponibilidad de los servicios por un periodo 3 años (1095 días) el cual culminará el próximo
+25/07/2022.
+Mediante Memorando Nro. BCE-DIO-2022-0028-M de 28 de enero de 2022, el Director de
+Infraestructura y Operaciones TI, delegó al Ing. Byron Ponce, gestionar el proceso
+precontractual, para la contratación de la RENOVACIÓN DEL SOPORTE DE FÁBRICA,
+
+MANTENIMIENTO Y SOPORTE TÉCNICO DE SERVIDORES Y ALMACENAMIENTO SUN
+ORACLE A NIVEL NACIONAL.
+Mediante Oficio Nro. MINTEL-SGERC-2022-0666-O de 31 de mayo de 2022, Ministerio de
+Telecomunicaciones y de la Sociedad de la Información (MINTEL) aprobó el proyecto
+RENOVACIÓN DEL SOPORTE DE FÁBRICA, MANTENIMIENTO Y SOPORTE TÉCNICO DE
+SERVIDORES Y ALMACENAMIENTO SUN ORACLE A NIVEL NACIONAL con el siguiente
+detalle.
+CTI No: 7169
+Proyecto: RENOVACIÓN DEL SOPORTE DE FÁBRICA, MANTENIMIENTO Y SOPORTE
+TÉCNICO DE SERVIDORES Y ALMACENAMIENTO SUN ORACLE A NIVEL NACIONAL.
+Nombre de la Institución: Banco Central del Ecuador
+Funcionario responsable que postuló el proyecto: Paúl Lenin Iturralde Salazar
+Plazo de ejecución: 731 de soporte 8 de activación TOTAL 739 días
+Plazo de garantía/soporte/servicio: 731 días
+
+2. BASE LEGAL
+CONSTITUCIÓN DE LA REPÚBLICA DEL ECUADOR
+“Art 226.- Las Instituciones del Estado, sus organismos, dependencias, las servidoras y
+servidores públicos y las personas que actúen en virtud de una potestad estatal ejercerán
+solamente las competencias y facultades que le sean atribuidas en la Constitución y en la ley.
+Tendrán el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el
+goce y ejercicio de los derechos reconocidos en la Constitución.”.
+“Art. 288.- Las compras públicas cumplirán con criterios de eficiencia, transparencia, calidad,
+responsabilidad ambiental y social. (…)”.
+"Art. 302.- Las políticas monetaria, crediticia, cambiaria y financiera tendrán como objetivos: / 1.
+Suministrar los medios de pago necesarios para que el sistema económico opere con eficiencia;
+/ 2. Establecer niveles de liquidez global que garanticen adecuados márgenes de seguridad
+financiera; / 3. Orientar los excedentes de liquidez hacia la inversión requerida para el
+desarrollo del país. / 4. Promover niveles y relaciones entre las tasas de interés pasivas y
+activas que estimulen el ahorro nacional y el financiamiento de las actividades productivas, con
+el propósito de mantener la estabilidad de precios y los equilibrios monetarios en la balanza de
+pagos, de acuerdo al objetivo de estabilidad económica definido en la Constitución.”.
+"Art. 303.- La formulación de las políticas monetaria, crediticia, cambiaria y financiera es
+facultad exclusiva de la Función Ejecutiva y se instrumentará a través del Banco Central. La ley
+regulará la circulación de la moneda con poder liberatorio en el territorio ecuatoriano. (...) El Banco
+Central es una persona jurídica de derecho público cuya organización y funcionamiento será
+establecido por la ley.".
+"Art. 425.- EI orden jerárquico de aplicación de las normas será el siguiente: La Constitución;
+los tratados y convenios internacionales; las leyes orgánicas; las leyes ordinarias; las normas
+regionales y las ordenanzas distritales; los decretos y reglamentos; las ordenanzas; los
+acuerdos y las resoluciones; y los demás actos y decisiones de los poderes públicos. / En caso
+de conflicto entre normas de distinta jerarquía, la Corte Constitucional, las juezas y jueces,
+autoridades administrativas y servidoras y servidores públicos, lo resolverán mediante la
+aplicación de la norma jerárquica superior. (…)”.
+ACUERDOS MULTIPARTES
+ACUERDO COMERCIAL ENTRE LA UNIÓN EUROPEA Y SUS ESTADOS MIEMBROS POR
+UNA PARTE Y COLOMBIA, EL PERÚ Y ECUADOR, POR OTRA
+
+El “Acuerdo Comercial entre la Unión Europea y sus Estados Miembros por una parte y
+Colombia, el Perú y Ecuador, por otra”, fue publicado en el Registro Oficial Edición Especial
+No. 780 de 24 de noviembre de 2016 y su Protocolo de Adhesión publicado en el Registro
+Oficial Suplemento No. 900 de 12 de diciembre de 2016, el cual entró en vigencia el 1 de enero
+de 2017;
+De conformidad con el Acuerdo Comercial entre la Unión Europea y sus Estados Miembros
+comúnmente denominado Acuerdo Comercial Multipartes (AMP), se sujetan al mismo las
+contrataciones de bienes y servicios que efectúen las entidades del Gobierno Central que
+alcancen el monto igual o superior al establecido en el acuerdo, que no estén incluidas en
+las excepciones del Acuerdo; y, que se encuentren en la lista positiva;
+En el numeral 8 de Banca Pública de la Subsección I, “SECCION D”, Anexo XIX del Acuerdo
+Comercial entre la Unión Europea y sus Estados Miembros por una parte y Colombia, Perú y
+Ecuador, por otra, consta el Banco Central del Ecuador como entidad del Nivel Central de
+Gobierno, por tanto, la Entidad está cubierta por el Acuerdo, y, por la cuantía de la presente
+contratación que no supera los valores previstos en el acuerdo, no es aplicable el mismo.
+ACUERDO ECONÓMICO INCLUSIVO ENTRE LA REPÚBLICA DEL ECUADOR Y LA UNIÓN
+EUROPEA Y LA ASOCIACIÓN EUROPEA DE LIBRE COMERCIO AELC
+El Acuerdo Económico inclusivo entre la República del Ecuador y la Unión Europea y la
+Asociación Europea de Libre Comercio AELC o EFTA de 25 de junio de 2018, cuya aprobación
+por la Corte Constitucional del Ecuador fue publicada Registro Oficial Edición Constitucional No.
+66 de 25 de marzo de 2019, tiene como objetivo establecer un área de libre comercio entre
+la República del Ecuador y los Estados pertenecientes al AELC (Islandia, el Principado de
+Liechtenstein, el Reino de Noruega y la Confederación Suiza).
+A través de este instrumento el Ecuador se compromete a otorgar concesiones arancelarias a
+las mercancías originarias de los Estados AELC, entre otros. El Banco Central del Ecuador
+como entidad del Nivel Central de Gobierno, está cubierto por el Acuerdo, y, por la cuantía de
+la presente contratación que no supera los valores previstos en el acuerdo, no es aplicable
+
+el mismo.
+ACUERDO COMERCIAL REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE,
+POR UNA PARTE Y DE LA REPÚBLICA DE COLOMBIA, LA REPÚBLICA DEL ECUADOR
+Y LA REPÚBLICA DEL PERÚ, POR OTRA
+El Acuerdo Comercial Reino Unido de Gran Bretaña e Irlanda del Norte, por una parte y de la
+República de Colombia, la República del Ecuador y la República del Perú, por otro, se firmó el
+15 de mayo de 2019. Este Instrumento tiene por objeto preservar los derechos y obligaciones
+entre las Partes según lo previsto en el Acuerdo Comercial entre la Unión Europea y los Países
+Andinos. De conformidad con este Acuerdo, el Banco Central del Ecuador como entidad del
+Nivel Central de Gobierno, está cubierto por el mismo, y, por la cuantía de la presente
+contratación que no supera los valores previstos en el acuerdo, no es aplicable el mismo.
+CÓDIGO ORGÁNICO MONETARIO Y FINANCIERO
+“Art. 26.- Naturaleza jurídica del Banco Central del Ecuador y normativa específica. El Banco
+Central del Ecuador es una persona jurídica de derecho público, parte de la Función Ejecutiva,
+de duración indefinida, con autonomía institucional, administrativa, presupuestaria y técnica. /
+El Banco Central del Ecuador en el ejercicio de sus funciones y atribuciones se regirá por la
+Constitución de la República, este Código, su estatuto, las regulaciones expedidas por el
+órgano del gobierno, los reglamentos internos y las demás leyes aplicables en razón de la
+materia. / La instrumentación del régimen monetario le corresponde exclusivamente al Banco
+
+Central del Ecuador de conformidad con la Constitución de la República del Ecuador y las
+disposiciones de este Código”.
+“Art. 26.1.- Capacidad jurídica. El Banco Central del Ecuador podrá realizar todos los actos,
+contratos y operaciones financieras en el país o en el exterior, que sean necesarias para el
+cumplimiento de su objetivo. / El Banco Central del Ecuador, a los efectos de sus operaciones
+oficiales, utilizará y administrará los bienes, muebles e inmuebles de su propiedad o aquellos
+que hubiere recibido en comodato, donación o aquellos que se deriven de contratos legalmente
+celebrados”.
+“Art. 27.- Objetivo. De conformidad con el artículo 303 de la Constitución de la República del
+Ecuador y demás normas aplicables, el Banco Central del Ecuador instrumentará la política
+monetaria, formulada por la Junta de Política y Regulación Monetaria, tendiente a fomentar y
+mantener un sistema monetario estable, coadyuvar a la estabilidad financiera y administrar su
+balance con el fin de preservar la integridad de la dolarización, incluyendo el funcionamiento
+seguro, sólido y eficiente de los sistemas y medios de pago”.
+LEY ORGÁNICA DEL SISTEMA NACIONAL DE CONTRATACIÓN PÚBLICA
+“Art. 23.- Estudios.- Antes de iniciar un procedimiento precontractual, de acuerdo a la
+naturaleza de la contratación, la entidad deberá contar con los estudios y diseños completos,
+definitivos y actualizados, planos y cálculos, especificaciones técnicas, debidamente
+aprobados por las instancias correspondientes, vinculados al Plan Anual de Contratación de la
+entidad (...)”.
+“Art. 46.- Obligaciones de las Entidades Contratantes.- Las Entidades Contratantes deberán
+consultar el catálogo electrónico previamente a establecer procesos de adquisición de bienes y
+servicios. Solo en el caso de que el bien o servicio requerido no se encuentre catalogado se
+podrá realizar otros procedimientos de selección para la adquisición de bienes o servicios, de
+conformidad con la presente Ley y su Reglamento (...)”.
+“Art. 47.- Subasta Inversa. - Para la adquisición de bienes y servicios normalizados que no
+consten en el catálogo electrónico, las Entidades Contratantes deberán realizar subastas
+inversas en las cuales los proveedores de bienes y servicios equivalentes, pujan hacia la baja
+el precio ofertado, en acto público o por medios electrónicos a través del Portal de COMPRAS
+PUBLICAS. / Los resultados de los procesos de adjudicación por subasta inversa serán
+publicados en el Portal COMPRASPÚBLICAS para que se realicen las auditorías
+correspondientes. / De existir una sola oferta técnica calificada o si luego de ésta un solo
+proveedor habilitado presenta su oferta económica inicial en el portal, no se realizará la puja y
+en su lugar se efectuará la sesión única de negociación entre la entidad contratante y el
+oferente. El único objetivo de la sesión será mejorar la oferta económica. Si después de la
+sesión de negociación se obtiene una oferta definitiva favorable a los intereses nacionales o
+institucionales, la entidad procederá a contratar con el único oferente. / El Reglamento a la
+presente Ley establecerá los procedimientos y normas de funcionamiento de las subastas
+inversas. / Para participar de cualquier mecanismo electrónico en el portal se tiene que estar
+registrado en el RUP.".
+REGLAMENTO GENERAL A LA LEY ORGÁNICA DEL SISTEMA NACIONAL DE
+CONTRATACIÓN PÚBLICA:
+“Art. 44.- Procedencia.- La subasta inversa electrónica se realizará cuando las entidades
+contratantes requieran adquirir bienes y servicios normalizados cuya cuantía supere el monto
+equivalente al 0,0000002 del Presupuesto Inicial del Estado, que no se puedan contratar a
+través del procedimiento de Compras por Catálogo Electrónico, y en la que los proveedores de
+dichos bienes y servicios, pujan hacia la baja el precio ofertado por medios electrónicos a
+través del Portalwww.compraspublicas.gov.ec”.
+
+“Art. 48.- Adjudicación.- La máxima autoridad de la entidad contratante o su delegado, una vez
+concluido el período de puja o de la negociación realizada, de ser el caso, adjudicará o
+declarará desierto el procedimiento, mediante resolución, de conformidad con la ley”.
+CÓDIGO ORGÁNICO DE LA ECONOMÍA SOCIAL DE CONOCIMIENTOS, CREATIVIDA E
+INNOVACIÓN
+”Art. 148.- Prelación en la adquisición de software por parte del sector público.- Para la
+contratación pública relacionada a software, las entidades contratantes del sector público
+deberán seguir el siguiente orden de prelación: 1. Software de código abierto que incluya
+servicios de desarrollo de código fuente, parametrización o implementación con un importante
+componente de valor agregado ecuatoriano; 2. Software en cualquier otra modalidad que
+incluya servicios con un componente mayoritario de valor agregado ecuatoriano; 3. Software de
+código abierto sin componente mayoritario de servicios de valor agregado ecuatoriano; 4.
+Software internacional por intermedio de proveedores nacionales; y 5. Software internacional
+por intermedio de proveedores extranjeros.”
+RESOLUCIÓN NRO. RE-SERCOP-2016-0000072 DE 31 DE AGOSTO DE 2016 CODIFICACIÓN Y ACTUALIZACIÓN DE LAS RESOLUCIONES EMITIDAS POR EL
+SERVICIO NACIONAL DE CONTRATACIÓN PÚBLICA
+"Art. 9.- Fase preparatoria y precontractual.- En las fases preparatoria y precontractual de
+los procedimientos de contratación pública se publicará en el Portal Institucional del Servicio
+Nacional de Contratación Pública, los siguientes documentos considerados como relevantes: /
+1. Estudios, diseños o proyectos; / 2. Estudio de mercado para la definición de presupuesto
+referencial, que deberá contener las siguientes consideraciones mínimas: 1. Análisis del bien o
+servicio a ser adquirido: características técnicas; 2. Considerar los montos de adjudicaciones
+similares realizadas en los últimos dos años, previos a la publicación del proceso tanto de la
+entidad contratante como de otras instituciones; 3. Tomar en cuenta la variación de precios
+locales o importados, según corresponda. De ser necesario traer los montos a valores
+presentes, considerando la inflación (nacional e/o internacional); es decir, realizar el análisis a
+precios actuales; y, 4. Siempre que sea posible, se exhorta a las entidades contratantes a que
+cuenten con al menos tres proformas. / En la elaboración de las especificaciones técnicas o
+términos de referencia por parte de la entidad contratante, en el estudio de mercado para la
+definición del presupuesto referencial, así como en la elaboración y entrega de proformas o
+cotizaciones por parte de los proveedores, se deberá desglosar y enumerar de forma detallada
+e individual el bien o servicio, denominado ítem, que conforman la contratación, especificando
+el código CPC, la cantidad de unidades requeridas y el desglose del precio por cada unidad o
+ítem, según corresponda.”.
+"Art. 10.1.- Documentos firmados electrónicamente. Los documentos relevantes
+correspondientes a las fases preparatoria, precontractual inclusive las ofertas, contractual y de
+ejecución contractual, dependiendo del procedimiento de contratación pública y conforme con
+las disposiciones y directrices que emita este Servicio Nacional, deberán estar firmados
+electrónicamente, tanto para las entidades contratantes como para los proveedores del Estado.
+/ En general, el uso del certificado de firma electrónica tendrá igual validez y se le reconocerán
+los mismos efectos jurídicos que a una firma manuscrita en relación con los datos consignados
+en documentos escritos, de conformidad con las disposiciones de la Ley de Comercio
+Electrónico, Firmas y Mensajes de Datos. En tal virtud, el titular del certificado de firma
+electrónica responderá por las obligaciones derivadas de su uso, así como de la vigencia de
+esta. / Es responsabilidad de los servidores públicos de la entidad contratante mantener
+vigente su certificado de firma electrónica. / Los documentos a los que se refiere el primer
+inciso, serán determinados por el SERCOP; los cuales, serán válidos únicamente si tienen
+firma electrónica. El sistema oficial de suscripción y validación de documentos firmados
+electrónicamente será el sistema FIRMA EC, provisto por el Ministerio de Telecomunicaciones
+y de la Sociedad de la Información, conforme a las directrices que este emita por acuerdo
+ministerial. / Las ofertas que, dependiendo del procedimiento de contratación pública y
+
+conforme con las disposiciones y directrices que emita este Servicio Nacional, requieran ser
+presentadas con firma electrónica, no requieren ser foliadas ni sumilladas por el oferente.".
+"Art. 12.- Subasta Inversa Electrónica.- En los procedimientos de contratación bajo la
+modalidad de Subasta Inversa Electrónica, en los cuales exista negociación, se publicará en el
+Portal Institucional del Servicio Nacional de Contratación Pública, el acta de negociación con
+los detalles y términos del acuerdo, de haberse alcanzado el mismo, o con la indicación de que
+aquella no tuvo éxito. / Adicionalmente, para la adquisición de bienes y/o prestación de
+servicios bajo la modalidad de Subasta Inversa Electrónica, las entidades contratantes previo a
+la publicación del procedimiento en el Portal Institucional del Servicio Nacional de Contratación
+Pública, deberán contar de forma obligatoria, con toda la documentación requerida para el
+desarrollo de procedimiento de conformidad a lo previsto en la Ley Orgánica del Sistema
+Nacional de Contratación Pública, su Reglamento General y normativa emitida por el Servicio
+Nacional de Contratación Pública para el efecto. / Las entidades contratantes, a fin de dar
+cumplimiento con lo dispuesto en el artículo 265 de la presente Codificación, una vez se haya
+finalizado la fase de puja o la negociación, respectivamente, es decir, dentro de la etapa por
+adjudicar; o, en caso de que se haya cancelado o declarado desierto el procedimiento, en la
+etapa de cancelación o declaratoria de desierto, según corresponda, deberán publicar de forma
+obligatoria dentro del procedimiento el Portal Institucional del Servicio Nacional de Contratación
+Pública, los estudios de mercado para la definición de presupuesto referencial; la certificación
+presupuestaria para el objeto de contratación; los avales de autorización, de ser el caso; y, toda
+la documentación considerada como relevante que contenga información referente al
+presupuesto referencial del procedimiento. / Asimismo, las entidades contratantes, al momento
+de crear y publicar la documentación del procedimiento de contratación quedan prohibidas de
+publicar a través del Portal Institucional del Servicio Nacional de Contratación Pública
+información que permita identificar el presupuesto referencial del objeto de contratación, con el
+fin de cumplir con lo señalado en el artículo 265 de esta Codificación. / En caso de que se
+evidencia incumplimiento respecto a las disposiciones del presente artículo, el Servicio
+Nacional de Contratación Pública notificará a la Contraloría General del Estado para el control
+correspondiente.".
+3. JUSTIFICACIÓN
+De acuerdo al Estatuto Orgánico de Gestión Organizacional por Procesos del Banco Central
+del Ecuador, reformado el 8 de septiembre de 2021, mediante Resolución No. 433-2017-G,
+señala en el numeral 1.4.1.5, la misión de la Gestión de Tecnologías de la Información y
+Comunicación:
+“Proveer productos y servicios de tecnologías de información y comunicación, segura, eficiente
+y de vanguardia, a fin de contribuir al logro de los objetivos del Banco Central del Ecuador.”.
+Entre las atribuciones y responsabilidades de la Gestión de Infraestructura y Operaciones TI en
+el numeral 1.4.1.5.2. Señala lo siguiente:
+“Asegurar la continuidad de la infraestructura tecnológica que soporta los servicios críticos de la
+institución, alineados a las directrices y disposiciones del Banco Central del Ecuador.”.
+El Banco Central del Ecuador posee una infraestructura de servidores y almacenamiento SUN
+ORACLE, que soporta ambientes de desarrollo, QA, pre-producción y producción en donde se
+encuentran servicios de seguridad informática, capa media y base de datos, considerados
+críticos.
+Al respecto, la norma de Seguridad de la Información para la Gestión Física y de Entorno en el
+numeral 8, Seguridad de los Equipos Tecnológicos, literal 8.3. Mantenimiento de los equipos
+que apoyan el funcionamiento del centro de datos, establece:
+d) Realizar mantenimientos periódicos a los equipos e infraestructura, de acuerdo a las
+especificaciones y recomendaciones del proveedor o fabricante.
+
+Así también la norma NT-008 Norma de Seguridad de la Información para la Gestión Operativa,
+en el numeral 6.2. Gestión de capacidades, establece:
+a) Mantener un procedimiento que permita gestionar las capacidades de los recursos
+(almacenamiento, procesamiento, memoria y recursos de red) de la infraestructura
+tecnológica:
+En este sentido, para asegurar la continuidad tecnológica, garantizar la disponibilidad y
+confiabilidad de sistemas y servicios institucionales que están dentro de infraestructura de
+servidores y almacenamiento SUN ORACLE, el Banco Central del Ecuador requiere disponer
+del soporte técnico del fabricante, mantenimiento y soporte técnico local.
+En consecuencia, en concordancia con la misión de la Coordinación General de Tecnologías
+de la Información y Comunicación, las atribuciones y responsabilidades de la Dirección de
+Infraestructura y Operaciones TI, es necesaria la RENOVACIÓN DEL SOPORTE DE
+FÁBRICA,
+MANTENIMIENTO
+Y
+SOPORTE
+TÉCNICO
+DE
+SERVIDORES
+Y
+ALMACENAMIENTO SUN ORACLE A NIVEL NACIONAL.
+4. OBJETO DE LA CONTRATACIÓN
+RENOVACIÓN DEL SOPORTE DE FÁBRICA, MANTENIMIENTO Y SOPORTE TÉCNICO DE
+SERVIDORES Y ALMACENAMIENTO SUN ORACLE A NIVEL NACIONAL.
+5. OBJETIVOS DE LA CONTRATACIÓN
+5.1. Objetivo General
+Garantizar la disponibilidad de los servicios que se encuentran sobre los servidores y
+almacenamiento Sun Oracle.
+5.2. Objetivos Específicos
+
+
+Renovar el soporte con el fabricante para la solución de incidentes que pudiesen
+presentarse en la infraestructura tecnológica de servidores y almacenamiento Sun
+Oracle.
+
+
+
+Disponer de servicio de mantenimiento sobre la infraestructura tecnológica de
+servidores y almacenamiento Sun Oracle.
+
+
+
+Disponer de horas de soporte técnico local, para la resolución de requerimientos
+que solicite el Banco Central del Ecuador y referentes a SUN CLUSTER instalado
+en la plataforma del Banco Central del Ecuador.
+
+6. ALCANCE
+La RENOVACIÓN DEL SOPORTE DE FÁBRICA, MANTENIMIENTO Y SOPORTE TÉCNICO
+DE SERVIDORES Y ALMACENAMIENTO SUN ORACLE A NIVEL NACIONAL, permitirá al
+Banco Central del Ecuador, disponer Servicio de soporte del fabricante, el mismo que incluye:
+remplazo de partes y piezas, acceso al portal del fabricante para descarga de versiones, parches,
+actualizaciones tanto del sistema operativo y/o del firmware ; además del servicio de mantenimiento
+y soporte técnico local por 731 días (2 años) contados a partir de la activación del soporte con
+el fabricante, en los centros de datos principal y alterno.
+7. METODOLOGÍA DE TRABAJO.
+El oferente adjudicado, tendrá 8 días contados a partir de la suscripción del contrato para
+presentar una carta que demuestre la activación del soporte con el fabricante por 731 días (2
+
+años). El soporte técnico con el fabricante que se está contratando, le permitirá al Banco
+Central del Ecuador el derecho a recibir las actualizaciones y mejoras del producto cuando el
+fabricante libere nuevas versiones, el remplazo de partes y piezas, entre otros.
+Para el caso del reemplazo de partes y piezas, el oferente adjudicado, deberá disponer de un
+stock de piezas y partes que permitan reemplazar las afectadas, realizar todas las acciones
+necesarias para recuperar la operatividad del equipo y de ser el caso, el reemplazo total del
+equipo por uno igual o de mejores características sin costo adicional para la institución. El
+servicio deberá contemplar un esquema de 24 horas al día, 7 días a la semana y 365 días al
+año sin límite de horas para la solución de algún problema.
+
+Una vez activado el soporte con el fabricante, el oferente adjudicado brindará el servicio de
+mantenimiento y soporte técnico local por 731 días (2 años).
+El servicio de mantenimiento consistirá en:
+
+
+Revisión del estado de los equipos detallados en el numeral 8 (incluido los servidores
+virtuales que se encuentran alojados en la infraestructura). La Revisión del estado de
+los equipos se lo realizará de manera semestral. Los periodos semestrales serán
+definidos mediante un cronograma suscrito en conjunto con el administrador del
+Contrato y el proveedor adjudicado. Para realizar la revisión del estado de los equipos,
+el proveedor adjudicado, coordinará y planificará conjuntamente con los técnicos de la
+Dirección de Infraestructura y Operaciones TI del Banco Central del Ecuador las
+actividades a realizarse
+
+
+
+Asesorar, instalar, configurar y/o afinar las nuevas versiones, parches liberados por el
+fabricante en los equipos del numeral 8 de los términos de referencia (incluido los
+servidores virtuales que se encuentran alojados en la infraestructura). El oferente
+adjudicado, realizará la actualización de versiones, parches, actualizaciones tanto del
+sistema operativo y/o del firmware embebido en los equipos del numeral 8 de estos
+términos de referencia (incluido los servidores virtuales que se encuentran alojados en
+la infraestructura), en coordinación con el personal técnico de la Dirección de
+Infraestructura y Operaciones TI del Banco Central del Ecuador, previa evaluación de
+su pertinencia.
+
+
+
+Atención y solución a inconvenientes reportados sobre los equipos detallados en el
+numeral 8 (incluido los servidores virtuales que se encuentran alojados en la
+infraestructura). El oferente adjudicado, brindará la atención y solución a
+inconvenientes reportados sobre los equipos detallados en el numeral 8 (incluido los
+servidores virtuales que se encuentran alojados en la infraestructura).
+
+.
+
+El oferente adjudicado, deberá considerar un paquete de 50 horas de soporte técnico local para
+requerimientos puntuales que el Banco Central solicite.
+Finalmente, el proveedor del servicio deberá cumplir con los “Acuerdo de Nivel de Servicios
+SLA” definido en el presente documento.
+
+8. INFORMACIÓN QUE DISPONE LA ENTIDAD
+Los equipos de Infraestructura tecnológica considerada para esta contratación es la siguiente:
+N°
+
+NÚMERO DE SERIE
+
+DESCRIPCIÓN
+
+UBICACIÓN
+
+N°
+
+NÚMERO DE SERIE
+
+DESCRIPCIÓN
+
+UBICACIÓN
+
+1
+
+1119NND3CY
+
+Servidor Blade (Sparc T3)
+
+2
+3
+4
+5
+6
+
+1119NND3CU
+
+Servidor Blade (Sparc T3)
+
+1244NN10MX
+1244NN10N4
+1302NN16EC
+Nodo 1: 1118FMM147
+
+Servidor Sun Sparc T4-8-CORE PROCESSOR
+Servidor Sun Sparc T4-8-CORE PROCESSOR
+Servidor Sun Sparc T4-8-CORE PROCESSOR
+
+7
+
+Nodo 2: 1118FMM15N
+
+VALLE DE LOS
+CHILLOS
+
+SISTEMA DE ALMACENAMIENTO 7320
+Tabla 2: Quito Ítems a contratar (Bien Hardware)
+
+NUMERO DE SERIE
+
+DESCRIPCIÓN
+
+UBICACIÓN
+
+1
+2
+3
+4
+5
+
+1108BD0887
+119NND3FN
+119NND3FP
+1119NND3CX
+Nodo 1: 1118FMM15B
+
+Chasis para servidores Blade C6000
+Servidor Blade (Sparc T3)
+Servidor Blade (Sparc T3)
+Servidor Blade (Sparc T3)
+
+6
+
+Nodo 2: 1118FMM1HE
+
+SISTEMA DE ALMACENAMIENTO 7320
+
+GUAYAQUIL
+
+Tabla 3: Guayaquil Ítems a contratar (Bien Hardware)
+
+9. PRODUCTOS Y/O SERVICIOS ESPERADOS
+Los productos y/o servicios esperados por parte del Banco Central del Ecuador son:
+
+
+Activación del soporte de fábrica para los equipos listados en el numeral 8 de este
+término de referencia.
+
+
+
+Servicio de Mantenimiento para los equipos detallados en el numeral 8 de este término
+de referencia, incluido firmware y/o sistema operativo de la infraestructura considerada
+en el proceso de contratación y los servidores virtuales que se alojan en ella
+
+
+
+Contratación de 50 horas de soporte técnico.
+
+Ítem
+CANT.
+
+CPC
+
+DESCRIPCIÓN
+
+SERVICE TAG
+
+P. UNITARIO
+SIN IVA
+
+P. TOTAL SIN
+IVA
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+A.- Activación del soporte de Fábrica
+QUITO
+1 871300011
+1
+1
+1
+
+1
+
+1
+1
+1
+
+Servidor Blade (Sparc T3)
+
+1119NND3CY
+
+871300011 Servidor Blade (Sparc T3)
+Servidor Sun Sparc T4-8871300011 CORE PROCESSOR
+Servidor Sun Sparc T4-8871300011 CORE PROCESSOR
+Servidor Sun Sparc T4-8871300011 CORE PROCESSOR
+SISTEMA DE
+871300011 ALMACENAMIENTO 7320
+SISTEMA DE
+871300011 ALMACENAMIENTO 7320
+
+1119NND3CU
+1244NN10MX
+1244NN10N4
+1302NN16EC
+Nodo 1:
+1118FMM147
+Nodo 2:
+1118FMM15N
+
+GUAYAQUIL
+1 871300011
+
+Chasis para servidores
+Blade C6000
+
+1108BD0887
+
+1 871300011
+
+Servidor Blade (Sparc T3)
+
+119NND3FN
+
+1 871300011
+
+Servidor Blade (Sparc T3)
+
+119NND3FP
+
+1
+1
+1
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+
+Ofertar por el
+oferente
+Ofertar por el
+VALOR TOTAL HORAS DE SOPORTE oferente
+Ofertar por el
+VALOR TOTAL POR SERVICIOS ÍTEM 1 2 y 3
+oferente
+Tabla 4: Detalle de Servicios Esperados.
+
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+Ofertar por el
+oferente
+
+871300011 Servidor Blade (Sparc T3)
+SISTEMA DE
+871300011 ALMACENAMIENTO 7320
+SISTEMA DE
+871300011 ALMACENAMIENTO 7320
+
+1119NND3CX
+Nodo 1:
+1118FMM15B
+Nodo 2:
+1118FMM1HE
+
+VALOR TOTAL POR ACTIVACIÓN DEL SOPORTE DE FÁBRICA
+
+B.- SERVICIO DE MANTENIMIENTO
+2
+2
+
+871300011
+Servicio de Mantenimiento
+VALOR TOTAL POR MANTENIMIENTO
+
+3
+
+C.- HORAS DE SOPORTE TÉCNICO
+50
+
+871300011
+
+Horas de soporte Especializado
+
+10. ESPECIFICACIONES DEL SERVICIO
+El oferente deberá sujetarse de manera obligatoria a las especificaciones técnicas establecidas
+por el Banco Central del Ecuador.
+El cumplimiento de todas las especificaciones técnicas deberán ser llenados en la columna
+“OFERTADO” y en la columna “REFERENCIA” el oferente de forma obligatoria deberá señalar
+en qué documento(s) (link, PDF, etc.), número de página, sección y/o párrafo de la oferta o
+catálogos se encuentra la evidencia que respalde el cumplimiento de los requerimientos
+técnicos solicitados.
+
+10.1.
+
+SOPORTE DE FÁBRICA
+REQUERIMIENTO
+
+El oferente deberá renovar el servicio de soporte de
+fábrica Oracle Premier Support for Systems, para
+todos los equipos listados en el numeral 8 de estos
+términos de referencia, por el periodo de 731 días (2
+años) contados a partir de la activación del soporte
+con el fabricante.
+Como constancia de la renovación del servicio con el
+fabricante; el proveedor, dentro de los primeros 8 días
+contados a partir de la suscripción del contrato, deberá
+entregar una carta donde demuestre que el servicio se
+encuentra activado.
+El soporte de fábrica dará el Derecho al Banco Central
+del Ecuador a Derecho a descarga de versiones,
+parches, actualizaciones tanto del sistema operativo
+y/o del firmware, el remplazo de partes y piezas,
+
+entre otros.
+El reemplazo de partes y piezas lo realizará fábrica a
+través del proveedor. El Proveedor coordinará con
+fábrica la recepción e instalación de las partes y
+
+OFERTADO
+
+REFERENCIA
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+
+REQUERIMIENTO
+
+OFERTADO
+
+piezas
+que sean necesarias para el correcto
+funcionamiento de los equipos listados en el numeral 8
+de los términos de referencia. Las partes y/o piezas
+requeridas, deberán ser nuevas de fábrica.
+En caso asociado a un problema físico de un equipo y
+el mismo deba ser trasladado por el oferente a los
+talleres para su reparación o chequeo, el oferente
+instalará un equipo de igual o mejores características y
+dará el soporte que garantice su operatividad hasta
+que el equipo sea reparado o remplazado.
+En caso de que uno de los equipos de esta
+contratación no pueda ser reparado, se deberá
+reemplazar las partes y/o piezas o el equipo completo
+con uno de iguales o mejores características, sin costo
+adicional para el Banco Central del Ecuador.
+En caso de que los equipos listados en el numeral 8
+de los términos de referencia dejen de ser soportados
+por el fabricante, será responsabilidad del proveedor
+soportar los mismos sin deterioro de la calidad de
+servicio y tiempos de respuesta.
+En caso de que el Banco Central del Ecuador requiera
+trasladar algún equipo o componente fuera o dentro de
+sus instalaciones, el proveedor realizará todas las
+actividades necesarias para que se cumpla con el
+movimiento de la infraestructura solicitada a fin de que
+el soporte de fabrica contratado, no se vea afectado
+
+REFERENCIA
+el cumplimiento de lo
+solicitado.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+
+Tabla 5: Soporte y asistencia técnica de fábrica
+
+10.2.
+
+MANTENIMIENTO
+
+El servicio de mantenimiento deberá contener las siguientes características:
+REQUERIMIENTO
+
+OFERTADO
+(SI/NO)
+
+REFERENCIA
+
+El servicio de mantenimiento será provisto directamente
+por el oferente, sin límite de horas de técnico invertidos,
+por 731 días (2 años) contados a partir de la activación
+del soporte con el fabricante.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el
+cumplimiento
+de
+lo
+solicitado
+
+El servicio de mantenimiento se los realizará
+remotamente o en sitio en las instalaciones del Banco
+Central del Ecuador en el Valle de los Chillos y en la
+ciudad de Guayaquil. La modalidad la definirá el Banco
+Central del Ecuador, de acuerdo a las necesidades.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el
+cumplimiento
+de
+lo
+solicitado
+
+El servicio de mantenimiento deberá ser realizado por
+personal técnico capacitado en infraestructura SUN –
+ORACLE.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+
+El servicio de mantenimiento contemplará:
+
+Revisión del estado de los equipos detallados
+en el numeral 8 (incluido los servidores
+virtuales que se encuentran alojados en la
+infraestructura)
+
+Asesorar, instalar, configurar y/o afinar las
+nuevas versiones, parches liberadas por el
+fabricante para los equipos del numeral 8 de
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el
+cumplimiento
+de
+lo
+solicitado
+
+REQUERIMIENTO
+
+
+
+OFERTADO
+(SI/NO)
+
+REFERENCIA
+
+los términos de referencia (incluido los
+servidores virtuales que se encuentran
+alojados en la infraestructura).
+Atención y solución a inconvenientes
+reportados sobre los equipos detallados en el
+numeral 8 (incluido los servidores virtuales que
+se encuentran alojados en la infraestructura)
+en modalidad (24x7x365).
+Revisión del Estado de los Equipos
+
+La revisión del estado de los equipos se realizará sobre
+la infraestructura detallados en el numeral 8 con todas
+sus piezas, partes, componentes y software(firmware
+y/o sistema operativo, incluidos los servidores virtuales
+que se encuentran alojados en la infraestructura)
+
+Las actividades a realizarse como parte de la
+revisión del estado de los equipos, debe
+contemplar:
+o
+o
+o
+o
+o
+o
+
+o
+
+Situación inicial
+Respaldo de configuraciones
+Revisión de logs de funcionamiento
+Revisión física del funcionamiento
+Ajustes y calibración de los equipos,
+entre otras.
+Limpieza física anual de los equipos
+y/o
+elementos
+que
+puedan
+desmontarse o tengan redundancia.
+Listado de los componentes, con las
+respectivas versiones del firmware y
+sistema operativo por cada equipo ya
+sea físico o virtual.
+
+La Revisión del estado de los equipos será semestral,
+de acuerdo a la planificación elaborada en conjunto con
+el personal técnico de la Dirección de Infraestructura y
+Operaciones de TI del Banco Central del Ecuador.
+La Revisión del estado de los equipos incluye la
+revisión del sistema operativo y/o firmare embebido de
+todos los equipos listados en el numeral 8 de estos
+términos de referencia; incluidos los servidores virtuales
+alojados en la infraestructura.
+El oferente deberá realizar un análisis de la situación
+actual del sistema operativo y/o firmware embebido en
+cada uno de los equipos del numeral 8, detallados a
+través de estos términos de referencia. El análisis
+incluye a los servidores virtuales alojados en la
+infraestructura.
+El oferente deberá realizar un chequeo de las
+versiones, parches, actualizaciones tanto del sistema
+operativo y/o del firmware embebido de todos los
+equipos indicado en el numeral 8 de estos términos de
+referencia, a fin de determinar si las mismas cumplen
+con los requerimientos técnicos que garanticen el
+normal funcionamiento de los mismos. El análisis
+incluye a los servidores virtuales alojados en la
+infraestructura.
+En el caso de existir nuevas versiones, parches,
+actualizaciones tanto del sistema operativo y/o del
+firmware embebido en los componentes indicados a
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el
+cumplimiento
+de
+lo
+solicitado
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+el cumplimiento de lo
+solicitado.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre
+
+REQUERIMIENTO
+
+OFERTADO
+(SI/NO)
+
+REFERENCIA
+
+través del numeral 8 de estos términos de referencia,
+el cumplimiento de lo
+el proveedor adjudicado, deberá informar al Banco
+solicitado.
+Central del Ecuador. El Banco Central del Ecuador
+definirá la pertinencia de instalación de las mismas de
+acuerdo a su necesidad.
+Asesorar, instalar, configurar y/o afinar las nuevas versiones, parches liberadas por el fabricante
+El proveedor adjudicado deberá apoyar, asesorar,
+Incluir la referencia técnica,
+instalar, configurar y/o afinar las características que las
+número de página, sección y
+nuevas versiones, actualizaciones y/o parches
+párrafo donde se demuestre
+liberadas por el fabricante traigan incorporadas.
+el
+cumplimiento
+de
+lo
+Estas actividades serán realizadas por personal técnico
+solicitado.
+del oferente en coordinación con el personal de la
+Dirección de Infraestructura y Operaciones de TI de la
+Institución en días y horas no laborables en las
+instalaciones del Banco Central del Ecuador ubicadas
+en la ciudad de Quito o en el Valle de los Chillos y en la
+ciudad de Guayaquil.
+En caso de que el firmware y/o sistema operativo deje
+Incluir la referencia técnica,
+de ser soportado por el fabricante; es responsabilidad
+número de página, sección y
+del oferente soportar los mismos sin deterioro de la
+párrafo donde se demuestre
+calidad de servicio y tiempos de respuesta.
+el
+cumplimiento
+de
+lo
+solicitado.
+Atención y solución a inconvenientes reportados
+El Banco Central del Ecuador podrá solicitar la atención
+Incluir la referencia técnica,
+y solución, en modalidad 7x24x365, a inconvenientes
+número de página, sección y
+reportados sobre los equipos detallados en el numeral
+párrafo donde se demuestre
+8 de este TDR (incluido los servidores virtuales que se
+el cumplimiento de lo
+encuentran alojados en la infraestructura), los mismos
+solicitado.
+incluyen: la solución a problemas físicos, firmware,
+ILOM, ALOM, problemas asociados a bugs, versiones,
+actualizaciones y/o parches del sistema operativo
+embebido en los equipos indicados en el numeral 8 de
+estos términos de referencia, incluidos los servidores
+virtuales alojados en la infraestructura.
+Se deberá presentar un documento en el que se
+Incluir la referencia técnica,
+garantice que el tiempo de respuesta para la atención y
+número de página, sección y
+solución a inconvenientes reportados sobre los equipos
+párrafo donde se demuestre
+detallados en el numeral 8 (incluido los servidores
+el cumplimiento de lo
+virtuales que se encuentran alojados en la
+solicitado
+infraestructura), cumpla con el Acuerdo de Nivel de
+Servicio (SLA), definido en los términos de referencia.
+Se deberá presentar por escrito el modelo de
+Incluir la referencia técnica,
+seguimiento y escalamiento para el servicio
+número de página, sección y
+mantenimiento de los equipos listados en el numeral 8
+párrafo donde se demuestre
+de los términos de referencia. Este debe incluir:
+el cumplimiento de lo
+
+Alcance
+solicitado
+
+Cómo solicitar el servicio
+
+Cómo escalar problemas
+Como productos entregables para validar el
+Incluir la referencia técnica,
+cumplimiento del servicio de mantenimiento, la
+número de página, sección y
+empresa oferente deberá entregar la siguiente
+párrafo donde se demuestre
+documentación:
+el cumplimiento de lo
+solicitado.
+
+Órdenes de trabajos debidamente firmadas,
+
+Y el informe de actividades relacionadas al
+servicio de mantenimiento
+Tabla 6: Servicio de Mantenimiento
+
+10.3.
+
+SOPORTE TÉCNICO
+REQUERIMIENTO
+
+OFERTADO
+
+El oferente deberá considerar en su oferta un paquete de
+50 horas para brindar el servicio de soporte técnico
+especializado en modalidad 7x24x365. Las horas de
+soporte técnico especializado no forman parte, ni serán
+consideradas para las actividades del servicio de
+mantenimiento.
+Se reconocerá únicamente las
+horas efectivamente
+consumidas independientemente del número de técnicos
+que el proveedor designe para la consecución de este fin.
+El paquete de 50 horas de soporte especializado será
+utilizado para:
+
+La programación de scripts y shells para automatizar
+algún proceso de administración.
+
+Remediación de temas relacionados con Ethical
+Hacking
+
+REFERENCIA
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre el
+cumplimiento de lo solicitado.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre el
+cumplimiento de lo solicitado.
+
+
+
+Creación, instalación y configuración de máquinas
+virtuales.
+
+Asesoría técnica para rediseño y mejora de la red de
+gestión de la plataforma SUN –ORACLE y la
+integración con otros componentes tecnológicos
+existentes en los centros de datos orientando este
+trabajo al manejo de esquemas de Alta Disponibilidad
+y Seguridad de la Información.
+
+Soporte técnico para requerimientos referentes al SUN
+CLUSTER instalado en la plataforma del Banco
+Central del Ecuador.
+El proveedor deberá presentar un informe anual de horas
+de soporte técnico, donde se describa en resumen, el
+número de requerimiento, detalle del requerimiento, total
+de horas invertidas y total de horas disponibles.
+Se deberá presentar un documento en el que se garantice
+que el tiempo de respuesta para la atención y solución a
+casos de soporte técnico, cumpla con el Acuerdo de Nivel
+de Servicio (SLA), definido en los términos de referencia.
+Como productos entregables de las actividades de soporte
+técnico, deberá entregar al Banco Central del Ecuador la
+siguiente documentación:
+
+Órdenes de trabajos debidamente firmadas.
+
+Un informe que incluya al menos la siguiente
+información:
+o
+o
+o
+o
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre el
+cumplimiento de lo solicitado.
+
+Incluir la referencia técnica,
+número de página, sección y
+párrafo donde se demuestre el
+cumplimiento de lo solicitado.
+
+Descripción del Requerimiento
+Procedimiento de solución detallado
+Reporte
+de
+horas
+efectivamente
+invertidas
+Conclusiones y recomendaciones
+Tabla 7: Soporte técnico especializado
+
+11. ACUERDO DE NIVEL DE SERVICIO – SLA.
+Niveles de servicio: La empresa oferente deberá comprometerse a cumplir con los acuerdos
+de nivel de servicio propuestos por el Banco Central del Ecuador para los casos de
+mantenimiento para la atención y solución a inconvenientes reportados sobre los equipos
+detallados en el numeral 8 (incluido los servidores virtuales que se encuentran alojados en la
+
+infraestructura) y los casos de soporte técnico especializado, de acuerdo a las siguientes
+características:
+ Periodo de Evaluación: El periodo de evaluación de este SLA será anual
+ Tiempos de Respuesta:
+
+Tiempo
+Tiempo de
+Modalidad
+de máximo
+de
+Respuesta
+comunicación
+diagnóstico de
+inicial
+problemas
+
+Prior.
+
+Descripción
+
+1
+(ALTA)
+
+El equipo no está
+operativo y no es
+posible evitarlo, o es
+posible
+evitar
+el Dos
+problema, pero es horas
+inaceptable por el
+impacto en el negocio
+del CLIENTE.
+
+El
+equipo
+está
+2
+operativo, pero su
+(MEDIA) funcionalidad
+está
+seriamente afectada.
+
+3
+(BAJA)
+
+El
+equipo
+está
+operativo, pero el
+CLIENTE tiene una
+pregunta o desearía
+someter
+un
+requerimiento
+de
+mejora.
+
+Vía telefónica y/o
+e-mail, al contacto
+indicado por el
+(2)
+proveedor,
+para
+constancia
+y
+registro
+respectivo.
+
+Vía telefónica y/o
+e-mail, al contacto
+indicado por el
+Cuatro
+(4)
+proveedor,
+para
+horas
+constancia
+y
+registro
+respectivo.
+Vía telefónica y/o
+Seis
+(6) e-mail, al contacto
+horas
+indicado por el
+laborables
+proveedor,
+para
+constancia
+y
+registro
+respectivo.
+Tabla 8: SLA
+
+Forma
+de
+Tiempo
+Trabajo, para
+máximo
+diagnóstico o
+solución
+solución
+
+Dos (2) horas
+posteriores a la
+comunicación
+Sitio/Remoto
+inicial, bajo la
+modalidad
+7x24x365
+Doce (12) horas
+laborables
+posteriores a la
+comunicación
+Remoto/sitio
+inicial, bajo la
+modalidad
+7x24x365
+36
+horas
+laborables
+posteriores a la
+comunicación
+Remoto
+inicial, bajo la
+modalidad
+7x24x365
+
+de
+
+6
+horas
+posteriores a la
+comunicación
+inicial
+
+24
+horas
+laborables
+posteriores a
+la
+comunicación
+inicial
+48
+horas
+laborables
+posteriores al
+resultado del
+diagnóstico
+
+Identificación de prioridades
+Prioridad 1 – Alta
+El problema causa pérdida completa del servicio. El trabajo no puede continuar
+razonablemente, la operación es de misión crítica para el negocio y la situación es una
+emergencia. Un problema de Severidad 1 tiene una o más de las siguientes características:
+ El equipo se paraliza indefinidamente, causando demoras inaceptables o indefinidas
+para recursos o respuestas.
+ El equipo falla repetidamente después de intentos para re-inicializarlo
+ Caída ó una alta degradación del servicio que afecta a todos los usuarios.
+Prioridad 2 – Media
+El problema causa una interrupción inaceptable del servicio. Está disponible una alternativa o
+“workaround” aceptable; sin embargo, la operación puede continuar de un modo restringido.
+Severidad 2 tiene una o más de las siguientes características:
+ Se obtiene resultados incorrectos de una operación y esto es imputable a una falla del
+software.
+ Los servicios están activos, pero con bajo rendimiento ó afecta a un grupo de usuarios.
+Prioridad 3 – Baja
+El equipo está operativo, pero se tiene alguna consulta sobre la funcionalidad del mismo, o se
+requiere plantear un requerimiento de mejora. Severidad 3 tiene una o más de las siguientes
+características:
+ Consultas generales sobre el uso del software.
+ Es necesario actualizaciones de parches
+ Afinamiento de los servicios.
+
+11.1.
+
+Penalizaciones
+
+Valor de los servicios:
+El valor de la factura a pagar por el Banco Central del Ecuador al oferente se calculará
+basándose en la siguiente fórmula:
+DESCUENTO = VALOR TOTAL DEL CONTRATO * COEFICIENTE DE DESCUENTO
+VALOR A PAGAR = VALOR TOTAL DEL PERIODO – DESCUENTO
+En el caso de que el valor de penalización sea superior al valor del periodo de pago, el mismo
+será cubierto con el siguiente pago.
+Si por causas atribuibles al oferente, existieran tiempos de reparación superiores a lo ofertado
+en este SLA, el Banco Central del Ecuador descontará del valor al pagar, por concepto de
+compensación el valor aplicable de acuerdo a la siguiente tabla:
+PRIORIDAD
+
+PRIORIDAD ALTA
+
+PRIORIDAD MEDIA
+
+PRIORIDAD BAJA
+
+TIEMPO
+
+COEFICIENTE
+DE DESCUENTO
+
+≤ 6 horas
+
+0.0000
+
+> 6 horas ≤ 12 horas
+
+0.0625
+
+> 12 horas ≤ 24 horas
+
+0.1250
+
+> 24 horas
+
+0.2500
+
+≤ 24 horas
+
+0.0000
+
+> 24 horas ≤ 36 horas
+
+0.0625
+
+> 36 horas ≤ 48 horas
+
+0.1250
+
+> 48 horas
+
+0.2500
+
+≤ 48 horas
+
+0.0000
+
+> 48 horas ≤ 72 horas
+
+0.0625
+
+> 72 horas ≤ 96 horas
+
+0.1250
+
+> 96 horas
+
+0.2500
+
+Tabla 9: Prioridad
+
+Este descuento no será aplicable si se suscitaren causas de fuerza mayor debidamente
+justificadas o por acciones y omisiones del cliente del servicio, que no permitan cumplir con los
+niveles de atención establecidos en el presente SLA.
+Si en un mismo periodo de evaluación existieran varios incumplimientos de este SLA, el
+descuento será igual a la suma de todas las penalizaciones aplicables, y la suma de las
+mismas por ningún concepto podrá ser superior al 5% del monto total del contrato.
+Las penalizaciones constituyen un mecanismo para garantizar tiempos de respuesta ágiles por
+parte del Contratista durante el período de mantenimiento para la atención y solución a
+inconvenientes reportados sobre los equipos detallados en el numeral 8 (incluido los servidores
+virtuales que se encuentran alojados en la infraestructura) y los casos de soporte técnico
+especializado, en virtud de garantizar el equilibrio económico del contrato estas deducciones se
+realizarán con cargo al valor del período de pago a cancelar por dicho concepto, si el valor total
+de los descuentos que se acumule durante la vigencia del contrato, llegare a superar el 5% del
+monto total del contrato, el CONTRATANTE podrá declarar, anticipada y unilateralmente la
+terminación del mismo, conforme a lo dispuesto en el numeral 3 del artículo 94 de la LOSNCP;
+así mismo, en caso de que se excedieran los tiempos máximos previstos en la tabla anterior, el
+Banco Central del Ecuador analizará en coordinación con el Administrador del Contrato, las
+circunstancias y características del incidente, y podrá de ser el caso proceder con la
+terminación unilateral del contrato en virtud del numeral 1 del artículo 94 de la LOSNCP.
+
+Si un incidente no es resuelto dentro del periodo de evaluación del Acuerdo de Nivel de
+Servicio en el cual fue reportado, este incidente será reactivado automáticamente al inicio del
+siguiente periodo de evaluación y se aplicarán los mismos criterios para calcular el descuento,
+a partir del primer día del siguiente período de evaluación.
+Nota: El oferente deberá también presentar dentro de su oferta un documento en el que se
+compromete cumplir con los Acuerdos de Niveles de Servicios (SLA).
+
+12. FORMA DE PRESENTAR LA OFERTA
+El oferente o los oferentes deberán obligatoriamente desglosar los valores unitarios y totales
+de todos los servicios contemplados en el numeral 9 de estos términos de referencia; así
+mismo una vez adjudicado, el oferente deberá remitir los valores finales desglosados de los
+servicios a ser contratados.
+
+
+Dar cumplimiento a lo establecido en la Circular Nro. SERCOP-SERCOP-2020-0022-C de
+27 de octubre de 2020, con especial atención a: (…) “Atendiendo a la Disposición
+Transitoria Vigésima Segunda de la Resolución Externa Nro.RE-SERCOP-2020-106, una
+vez fenecido el plazo previsto en dicha disposición, las entidades contratantes, así como
+los proveedores del Estado deberán cumplir con lo dispuesto en la Resolución Externa en
+mención."
+
+
+
+Bajo este marco argumentativo, en virtud de lo dispuesto en el inciso segundo del artículo
+21, Disposición General Quinta y Disposición Transitoria Tercera de la LOSNCP, en
+concordancia con el numeral 1.6 de la Condiciones Generales de los Modelos de Pliegos
+oficializados por el SERCOP, las entidades contratantes obligatoriamente deberán
+establecer en los correspondientes pliegos del procedimiento de contratación, la forma de
+entrega de ofertas a través del Portal de COMPRAS PÚBLICAS; para lo cual, el Banco
+Central del Ecuador establece la entrega de ofertas a través del Portal
+COMPRASPÚBLICAS, sitio web oficial donde la oferta será subida con firma electrónica
+(válida), conforme lo establecido en la convocatoria del pliego del procedimiento.
+
+
+
+Es importante considerar que la firma manuscrita escaneada no puede ser considerada
+como firma electrónica; los proveedores deberán tomar las medidas necesarias para evitar
+esta práctica.
+
+
+
+La Institución, remitirá a la cuenta de correo electrónico, identificada en la oferta y
+registrada en el RUP, del proveedor, la constancia de recepción y código con el que
+participa en el proceso de contratación.
+
+
+
+Considerar los pasos a seguir para generación de las ofertas a través del Módulo
+Facilitador de la Contratación Pública, los usuarios del Sistema Nacional de Contratación
+Pública, indicados en la Circular Nro. SERCOP-SERCOP-2020-0022-C del 27 de octubre
+de 2020.
+
+
+
+Dar cumplimiento a la Resolución SERCOP: RE-SERCOP-2020-0103 de 07 de enero de
+2020 y Resolución RE-SERCOP-2020-0110, de 21 de septiembre de 2020, donde deberá
+presentar el formulario único de oferta de la biblioteca del SERCOP, caso contrario la
+Entidad procederá de conformidad con el artículo 158 de la Codificación de Resoluciones
+del SERCOP.”
+
+
+
+Dar cumplimiento a la Resolución SERCOP: RE- SERCOP-2020-0106 de 16 de julio de
+2020, artículo 8, “Vigésima Segunda”.
+
+
+
+Dar cumplimiento a la Resolución SERCOP: RE- SERCOP-2021-0112 de 15 de enero de
+2021, Art. 3, inciso 1,2.
+
+
+
+La comisión técnica o delegados para la calificación del proceso procederán a validar la
+firma electrónica de la documentación presentada por los proveedores conforme numeral
+5.2.- Validación de los documentos firmados electrónicamente del Oficio Circular Nro.
+SERCOP-SERCOP-2020-0022-C de 27 de octubre de 2020.
+
+
+
+La apertura de ofertas se realizará el día y hora señalado conforme cronograma
+establecido en el proceso de contratación conectándose al link establecido en los pliegos.
+
+
+
+De conformidad con la resolución RE-SERCOP-2021-0116 con Registro Oficial Nro. 425,
+de 28 de julio de 2021: “Los documentos a los que se refiere el primer inciso, serán
+determinados por el SERCOP; los cuales, serán válidos únicamente si tienen firma
+electrónica. El sistema oficial de suscripción y validación de documentos firmados
+electrónicamente será el sistema FIRMA EC, provisto por el Ministerio de
+Telecomunicaciones y de la Sociedad de la Información, conforme a las directrices que
+este emita por acuerdo ministerial.”
+
+13. PARÁMETROS DE CALIFICACIÓN Y MÉTODOS DE EVALUACIÓN.
+Para la verificación del cumplimiento de los requisitos mínimos se estará a la metodología
+“cumple o no cumple”.
+
+PARÁMETRO
+
+CUMPLE
+
+NO
+OBSERVACIONES
+CUMPLE
+
+Integridad de la Oferta
+Experiencia general mínima
+Experiencia especifica mínima
+Personal técnico mínimo
+Experiencia mínima del personal técnico
+Términos de Referencia (Especificaciones
+del servicio numeral 10)
+Patrimonio
+Otros parámetros de calificación
+Tabla 10: Verificación del cumplimiento
+
+Únicamente aquellas ofertas que cumplan integralmente con los parámetros mínimos
+requeridos por la entidad contratante, se habilitarán a fin de que los oferentes envíen sus
+ofertas a través del portal del SERCOP para participar en la puja.
+
+13.1.
+
+Integridad de la Oferta
+
+La integridad de la oferta técnica se evaluará considerando la presentación de los Formularios y
+requisitos mínimos previstos en el pliego, conforme el siguiente detalle:
+I.
+
+Formularios de la Oferta
+1.1. Presentación y Compromiso
+1.2. Datos generales del Oferente
+1.3. Identificación de socios, accionistas, partícipes mayoritarios del oferente en
+caso de ser persona jurídica;
+1.4. Situación Financiera del Oferente
+1.5. Tabla de Cantidades y Precios.
+1.6. Componente de los bienes y servicios ofertados
+1.7. Oferta Económica Inicial
+1.8. Experiencia del Oferente
+
+1.9. Personal Técnico propuesto para el proyecto y experiencia mínima del personal
+técnico.
+1.10. Equipo mínimo
+1.11. Valor Agregado Ecuatoriano de la Oferta
+1.12. Cálculo del porcentaje de valor agregado ecuatoriano de los bienes o servicios
+respecto del costo de producción;
+1.13. Otros Parámetros de Calificación
+II.
+
+Formulario de compromiso de asociación o consorcio (de ser procedente).
+
+13.2.
+
+EXPERIENCIA GENERAL MÍNIMA
+
+El oferente o los oferentes deberán presentar copias de actas entrega recepción, contratos o
+certificados de cumplimiento otorgados por entidades públicas o privadas que avalen su
+experiencia en proyectos relacionados, mantenimiento y soporte en los últimos quince (15)
+años previos a la publicación de este proceso de contratación.
+El monto mínimo para acreditar la experiencia general mínima no podrá ser inferior a USD
+25.825.29
+
+13.3.
+
+EXPERIENCIA ESPECÍFICA MÍNIMA
+
+El oferente para acreditar su experiencia en prestación de servicios de mantenimiento y soporte
+técnico en plataformas SUN-ORACLE, debe presentar copias de actas de entrega recepción
+definitivas, o certificados de cumplimiento, o contratos, otorgados por entidades públicas o
+privadas durante los últimos cinco (5) años previos a la fecha de publicación del procedimiento
+de contratación,
+El monto mínimo para acreditar la experiencia específica mínima no podrá ser inferior a USD
+12.912.65.
+
+13.4.
+
+Personal Técnico Mínimo
+
+El oferente o los oferentes deberán contar con el siguiente personal:
+Nivel
+Estudio
+
+No
+
+Rol
+
+1
+
+Profesional
+Infraestructura
+Tecnológica
+
+en
+
+de
+
+Tercer
+Nivel
+Terminado
+
+Titulación Académica
+
+Cantidad
+
+Informática,
+Redes
+y
+Comunicaciones,
+Sistemas
+Informáticos,
+Telecomunicaciones y afines.
+
+1
+
+Tabla 11: Personal Técnico Mínimo
+
+NOTA: Para lo cual deberá presentar copias simples del título profesional requerido avalado
+por el SENESCYT.
+13.5.
+
+Experiencia mínima del personal técnico
+
+El Técnico de Soporte debe contar con experiencia relacionada con el servicio de soporte y
+mantenimiento de la plataforma objeto del presente contrato dentro de los últimos cinco años,
+para lo cual deberá entregar la empresa oferente el listado del personal, las hojas de vida y los
+certificados que avalen la experiencia otorgada por instituciones públicas o privadas.
+
+Adicional, el oferente deberá presentar al menos un curso de capacitación realizado por el
+personal técnico en plataforma SUN-ORACLE dentro de los últimos cinco años.
+
+13.6.
+
+Cumplimiento de los Términos de Referencia
+
+El oferente o los oferentes deberán detallar toda y cada una de las condiciones requeridas en
+el numeral 10 de los términos de referencia, caso contrario la oferta será descalificada.
+
+13.7.
+
+Patrimonio
+
+El Banco Central del Ecuador verificará que el patrimonio del oferente sea igual o superior a la
+relación que se determine con respecto del presupuesto referencial conforme las regulaciones
+expedidas por el SERCOP (Resolución Codificada No. RE-SERCOP-2016-0000072 del 31 de
+Agosto de 2016) y sus reformas según corresponda.
+En caso de personas jurídicas, la entidad contratante verificará que el patrimonio del oferente
+sea igual o superior a la siguiente relación con el presupuesto referencial del procedimiento de
+contratación:
+Presupuesto Referencial
+
+Monto que debe cumplirse de Patrimonio USD
+
+Fracción Básica Exceso hasta
+
+Patrimonio
+Patrimonio exigido sobre el excedente de
+exigido sobre la
+la fracción básica
+fracción básica
+
+BIENES Y/O SERVICIOS, INCLUIDOS CONSULTORÍA
+500,000
+Incluido
+
+0
+
+5% sobre el exceso de 250.000
+incluido
+
+0
+Tabla 12: Patrimonio
+
+Sin embargo, en razón del artículo 3 de la Resolución No. RE-SERCOP-2018-000089 de 12 de
+junio de 2018, el Patrimonio a cumplir para el caso de personas jurídicas será de 0 (cero
+dólares de los Estados Unidos de América).
+Únicamente en el caso de que ninguna de las ofertas presentadas cumpliera el porcentaje
+mínimo sectorial ecuatoriano, el Banco Central del Ecuador considerará y analizará las ofertas
+que se hubieren presentado.
+13.8.
+
+Otros parámetros de calificación
+
+REQUERIMIENTOS
+OFERENTE
+
+MÍNIMOS
+
+DEL
+
+OFERTADO
+(SI/NO)
+
+El oferente deberá presentar copia del
+certificado de ser distribuidor autorizado en
+el país, emitido por parte del fabricante o el
+mayorista de los componentes solicitados.
+
+REFERENCIA
+Incluir la referencia técnica, número
+de página, sección y párrafo donde
+se demuestre el cumplimiento de lo
+solicitado.
+
+Tabla 13: Otros parámetros de calificación
+
+14. Porcentaje de valor agregado ecuatoriano mínimo:
+El Banco Central del Ecuador deberá verificar si alguno o algunos o todos los oferentes
+cumplen con el porcentaje mínimo sectorial ecuatoriano, determinado por el SERCOP, en la
+
+codificación de la resolución SERCOP-0000072-2016 Solo él o los participantes que cumplen
+con el porcentaje mínimo sectorial ecuatoriano continuarán en el procedimiento
+15. FORMA Y CONDICIONES DE PAGO
+El contrato se pagará de la siguiente manera:
+a) El 80.64% del valor total del contrato por el valor de la activación del soporte técnico de
+fábrica será cancelado posterior a la entrega de una carta del proveedor donde se
+demuestre la activación del soporte de fabrica de todos los componentes detallados en
+el numeral 8 de los términos de referencia, suscripción del acta entrega-recepción
+parcial, presentación de la factura correspondiente y el informe favorable del
+administrador del contrato.
+
+b) El 15.49% del valor total del contrato por el valor del servicio de mantenimiento
+cancelado en 2 pagos anuales de igual valor a partir de la activación del soporte de
+fábrica, con la entrega de las órdenes de trabajo, informes, presentación de la factura
+correspondiente y el informe favorable del administrador del contrato.
+c) El 3.87% del valor total del contrato por el concepto de 50 horas de soporte técnico
+será cancelado anualmente, por las horas consumidas, previa entrega del informe
+anual de horas de soporte técnico, presentación de la factura correspondiente y el
+informe favorable del administrador del contrato.
+
+16. PRECIO DE LA OFERTA
+El precio de la oferta deberá cubrir todas las actividades y costos necesarios para que el oferente
+active el soporte con el fabricante, brinde el servicio de mantenimiento; así como, el soporte
+técnico a plena satisfacción del Banco Central del Ecuador.
+Los precios presentados por el oferente son de su exclusiva responsabilidad. Cualquier omisión
+se interpretará como voluntaria y tendiente a conseguir precios que le permitan presentar una
+oferta ventajosa. El Banco Central del Ecuador no reconocerá reajuste de precios, por lo que el
+contratista renuncia expresamente a solicitar el mismo.
+
+17. PLAZO DE EJECUCIÓN
+El plazo de ejecución es de 739 días calendario, contados a partir del siguiente día de la
+suscripción del contrato desglosados de la siguiente manera:
+ 8 días contados a partir de la suscripción del contrato para la entrega de la carta que
+demuestre la activación de las garantías de fábrica de hardware acorde a lo solicitado
+en el numeral 10.1 del término de referencia.
+
+
+731 días (2 años) contados a partir de la activación del soporte con el fabricante de
+hardware, destinados para brindar el servicio de mantenimiento y soporte técnico.
+
+18. VALIDEZ DE LA OFERTA
+El plazo de validez de la oferta será de noventa (90) días a partir de la presentación de la
+misma.
+19. GARANTÍAS
+
+19.1.
+
+GARANTÍA DE FIEL CUMPLIMIENTO DEL CONTRATO
+
+La garantía de fiel cumplimiento del contrato se rendirá por un valor igual al (5%) del monto
+total del mismo en una de las formas establecidas en el artículo 74 de la LOSNCP, la que
+deberá ser presentada previo a la suscripción del contrato No se exigirá esta garantía en el
+caso de adquisición de bienes muebles que se entreguen al momento de efectuarse el pago.
+Tampoco se exigirá esta garantía en los contratos cuya cuantía sea menor a multiplicar el
+coeficiente 0.000002 por el Presupuesto Inicial del Estado del correspondiente ejercicio
+económico.
+19.2.
+
+GARANTÍA DE SERVICIO Y SOPORTE
+
+La contratista Adjudicada deberá presentar un documento donde se comprometa a brindar el
+Servicio de Mantenimiento y Soporte Técnico especializado acorde a las especificaciones de
+los servicios.
+
+20. MULTAS Y PENALIDADES
+20.1.
+
+MULTAS
+
+Por cada día de retraso en la entrega de la carta de activación del servicio de soporte
+de fabrica y ejecución del servicio de mantenimiento conforme cronograma establecido
+por parte de la contratista, se aplicara, se aplicará la multa de 1 por 1.000 por retardo
+en la ejecución de las obligaciones contractuales conforme al cronograma valorado,
+excepto en el evento de caso fortuito o fuerza mayor, conforme lo dispuesto en el
+artículo 30 de la Codificación del Código Civil, debidamente comprobado y aceptado
+por el CONTRATANTE.
+
+20.2.
+
+PENALIDADES
+
+Las penalidades se ejecutarán conforme al acuerdo de niveles de servicio SLA que consta en
+el presente término de referencia, y se aplicará a los servicios de mantenimiento correctivo y
+soporte.
+a) Las penalidades se ejecutarán conforme al acuerdo de niveles de servicio SLA que
+consta en estas especificaciones técnicas.
+b) La CONTRATANTE queda autorizada por la CONTRATISTA para que haga efectiva la
+multa y/o penalidad impuesta, de los valores que por este contrato le corresponde
+recibir al mismo, sin requisito o trámite previo alguno.
+c) Si el valor de las multas y/o penalidades, llegaren a superar el 5% del monto total del
+contrato, la CONTRATANTE podrá declarar, anticipada y unilateralmente la
+terminación del mismo, conforme a lo dispuesto en el numeral 3 del artículo 94 de la
+LOSNCP.
+d) Las multas y/o penalidades causadas no serán revisadas ni devueltas por ningún
+concepto a la CONTRATISTA.
+e) En todos los casos, las multas y/o penalidades serán impuestas por el administrador
+del contrato el cuál establecerá el incumplimiento, fechas y montos.
+f)
+
+Las multas y/o penalidades impuestas al contratista pueden ser impugnadas en sede
+administrativa, a través de los respectivos recursos, o en sede judicial o arbitral.
+
+21. INFORMACIÓN FINANCIERA REFERENCIAL
+Los índices financieros constituirán información de referencia respecto de los participantes en
+el procedimiento y en tal medida, su análisis se registrará conforme el detalle a continuación:
+
+Solvencia*
+
+INDICADOR
+SOLICITADO
+Mayor o igual a 1,0
+
+Endeudamiento*
+
+Menor o igual a 1,9
+
+ÍNDICE
+
+OBSERVACIONES
+-----------------------------------------
+
+Nota: Conforme Resolución Administrativa N° Banco Central del Ecuador-010-2014 de 24 de
+febrero de 2014 suscrita por el Gerente General del Banco Central del Ecuador.
+Los factores para su cálculo estarán respaldados en la correspondiente declaración de
+impuesto a la renta del ejercicio fiscal correspondiente y/o los balances presentados al órgano
+de control respectivo para lo cual se deberá presentar:
+
+
+En el caso de personas jurídicas el formulario 101 (Declaración del Impuesto a la
+Renta del año) y el formulario 102 cuando se trate de personas naturales no obligadas
+a llevar contabilidad, presentados al Servicio de Rentas Internas, correspondientes al
+último ejercicio fiscal.
+
+
+
+Las personas jurídicas y naturales obligadas a llevar contabilidad, deberán adjuntar
+copia del balance y copia del estado de resultados del penúltimo mes al de la
+publicación del proceso de contratación, firmados por el representante legal y el
+contador.
+
+
+
+Para el caso de los compromisos de asociación o consorcio, se atenderá a los previsto
+en estos pliegos, su evaluación se cumplirá a partir de promedio ponderado de los
+índices de cada uno de los participes en concordancia directa con su grado de
+participación.
+
+El incumplimiento de los valores de los índices financieros establecidos por el
+Banco Central del Ecuador no será causal de rechazo de la oferta, por no ser
+éstos requisitos mínimos de obligatorio cumplimiento.
+22. OBLIGACIONES DE LAS PARTES
+22.1.
+
+Obligaciones del Proveedor
+
+
+
+Garantizar el cumplimiento del porcentaje del Valor Agregado Ecuatoriano
+
+
+
+Realizar el servicio de mantenimiento y soporte técnico, en base a lo establecido a
+través de estos términos de referencia.
+
+
+
+Atender los requerimientos referentes a la garantía de servicio y soporte dentro de los
+plazos establecidos en el SLA de este documento.
+
+
+
+La contratista deberá responder por daños a terceros ocasionados por la ejecución del
+contrato.
+
+
+
+La contratista se obliga al cumplimiento de las disposiciones establecidas en el Código
+del Trabajo y en la Ley del Seguro Social Obligatorio, adquiriendo respecto de sus
+trabajadores, la calidad de patrono, sin que el Banco Central del Ecuador tenga
+
+responsabilidad alguna por tales cargas, ni relación con el personal que labore en la
+ejecución de los trabajos, ni con el personal de la subcontratista, de ser el caso.
+
+
+La contratista se obliga a proveer de mano de obra calificada y asignar el personal
+especializado con la suficiente experiencia para la provisión de los servicios.
+
+
+
+A más de las obligaciones que serán establecidas en el contrato, el contratista está
+obligado a cumplir con cualquier otra que se derive natural y legalmente del objeto del
+contrato y pueda ser exigible por constar en cualquier documento de él, en norma legal
+específicamente aplicable al mismo.
+
+
+
+El contratista deberá presentar las garantías establecidas en el numeral 19 del
+presente documento.
+
+
+
+En cumplimiento del memorando No. BCE-BCE-2018-0342-M de 3 de octubre de 2018,
+la Gerente General del Banco Central del Ecuador, dispone el cumplimiento de la
+siguiente recomendación que consta en el Informe BCE-DNAIG-I-007-2018 de 19 de
+septiembre de 2018: “Que en la elaboración de los contratos de prestación de servicios
+o consultoría, en los que involucre participación de personal de las empresas o firmas
+participantes, se considere dentro de la cláusula de obligaciones la presentación del
+Acuerdo de Confidencialidad”, entre la CONTRATANTE, el representante legal de la
+CONTRATISTA y todo el personal técnico que participe en la provisión de los bienes
+objeto del contrato.”.
+
+
+
+Proveer evidencias de los controles antisoborno implementados por la organización
+para prevenir y/o mitigar los riesgos de soborno a los que podrían estar sujetos, a fin
+de cumplir lo establecido en la Política Antisoborno.
+
+
+
+Cumplir con el Instructivo de seguridad y salud ocupacional para contratistas del Banco
+Central del Ecuador.
+
+
+
+Se compromete a cumplir los protocolos de bioseguridad por la emergencia sanitaria
+COVID-19, acatando las disposiciones emitidas tanto por el COE Nacional; así como,
+aplicando las normas internas del CONTRATANTE.
+
+
+
+Firmar el acuerdo de confidencialidad por parte de todo el equipo técnico
+
+
+
+El Contratista deberá suscribir una carta de confidencialidad posterior a la suscripción
+del contrato, en la que se comprometa a mantener en privacidad toda información del
+Banco Central del Ecuador, que llegare a conocer en su ejecución.
+El contratista, deberá suscribir el formulario de INFORMACION DEL PROVEEDOR,
+con sus respectivos anexos.
+El proveedor deberá suscribir la Declaración de conocimiento y compromiso de
+cumplimiento de la Política Antisoborno del Banco Central del Ecuador para socios de
+negocio.
+Suscribir el formulario F-DNC-006 sobre las evidencias de los controles antisoborno
+implementados por la organización para prevenir y/o mitigar los riesgos de soborno a
+los que podrían estar sujetos.
+
+
+
+
+
+22.2.
+
+Obligaciones del contratante
+
+
+
+Brindar todas las facilidades para que el proveedor cumpla a satisfacción con el objeto
+del presente contrato.
+
+
+
+El contratante dará solución a las peticiones o problemas que se presenten en la
+ejecución del contrato en un plazo de cinco (5) días a partir de la comunicación escrita
+
+formulada por el proveedor.
+
+
+En caso de ser necesario y previo el trámite legal y administrativo respectivo, celebrar
+los contratos complementarios en un plazo de quince (15) días contados a partir de la
+decisión de la máxima autoridad o su delegado.
+
+23. ADMINISTRADOR DEL CONTRATO
+Se sugiere que la supervisión y administración del contrato este a cargo del Ing. TOAPANTA
+OYOS HÉCTOR XAVIER, CI: 1714142559, Especialista de Infraestructura y Operaciones TI 1.
+De acuerdo a la RESOLUCIÓN No. RE-SERCOP-2021-0112 y sus reformas correspondientes,
+Art. 530.10.- Atribuciones comunes del administrador del contrato. A más de las
+establecidas en la Ley y en el respectivo instrumento contractual, son funciones comunes
+del administrador del contrato las siguientes:
+1. Coordinar todas las acciones que sean necesarias para garantizar la debida ejecución del
+contrato.
+2. Cumplir y hacer cumplir todas y cada de una de las obligaciones derivadas del contrato y los
+documentos que lo componen.
+3. Adoptar las acciones que sean necesarias para evitar retrasos injustificados, ya sea en las
+entregas parciales o totales.
+4. Imponer las multas y/o penalidades a que hubiere lugar, las cuales deberán estar tipificadas
+en el contrato administrativo, para lo cual se deberá respetar el debido proceso.
+5. Administrar las garantías correspondientes, de conformidad con las normas que la regulan y
+en los casos que apliquen, esta obligación persistirá durante todo el periodo de vigencia del
+contrato, sin perjuicio que esta actividad sea coordinada con el tesorero de la entidad
+contratante o quien haga sus veces, a la que le corresponde el control y custodia de
+las garantías. En todo caso la responsabilidad por la gestión de las garantías será solidaria
+entre el administrador del contrato y el tesorero.
+6. Reportar a la máxima autoridad de la entidad contratante o su delegado, cualquier aspecto
+operativo, técnico, económico y de cualquier naturaleza que pudieren afectar al cumplimiento
+del contrato.
+7. Coordinar con los demás órganos y profesionales de la entidad contratante, que por
+su competencia, conocimientos y perfil, sea indispensable su intervención, para garantizar la
+debida ejecución del contrato.
+8. Proporcionar al contratista todas las instrucciones que sean necesarias para garantizar el
+debido cumplimiento del contrato.
+9. Emitir instrucciones adicionales respecto del cumplimiento del Término de Referencia,
+en caso de que cualquier dato o información no hubieren sido establecidos o el contratista no
+pudiere obtenerla directamente, en ningún caso dichas instrucciones modificarán el Término de
+Referencia en lo que sea pertinente y legal.
+10. Verificar permanentemente y en los casos que sea aplicable, el cumplimiento de
+Valor de Agregado Ecuatoriano, así como el cumplimiento de cualquier otra figura
+legalmente exigible y que se encuentre prevista en el contrato o que por la naturaleza
+del objeto y el procedimiento de contratación sean imputables al contratista.
+11. Elaborar e intervenir en las actas de entrega recepción a las que hace referencia
+el artículo 81 de la Ley Orgánica del Sistema Nacional de Contratación Pública; así como
+coordinar con el contratista y el técnico que no intervino durante la ejecución del contrato, la
+recepción del contrato.
+12. Manejar el Portal de Compras Públicas durante la fase contractual. Al momento de registrar
+la información del contrato administrativo por parte del usuario creador del proceso, se
+deberá habilitar el usuario para el administrador del contrato, quien publicará en el
+Portal toda la información relevante a la fase de ejecución contractual, de conformidad
+con los manuales de usuario o directrices que emita el SERCOP para el efecto. En cualquier
+caso, la finalización del proceso en el Portal le corresponde al usuario creador del proceso, o a
+quien se haya migrado el mismo, para el registro de las actividades finales del contrato,
+debiendo publicar cualquier otro documento relevante no imputable al administrador del
+contrato. En caso de darse un cambio de administrador del contrato, el administrador
+
+entrante una vez recibida la notificación de designación, deberá coordinar inmediatamente
+con los servidores encargados de la administración del Portal, para que se le habilite el usuario
+y pueda registrar toda la información relevante.
+13. Armar y organizar el expediente de toda la gestión de administración del contrato,
+dejando la suficiente evidencia documental a efectos de las auditorías ulteriores que los
+órganos de control del Estado, realicen.
+14. Cualquier otra que de acuerdo con la naturaleza del objeto de contratación sea
+indispensable para garantizar su debida ejecución, en todo caso, las entidades contratantes
+deberán describir con precisión las atribuciones adicionales del administrador del contrato en la
+cláusula respectiva del contrato administrativo.
+15. Dar solución a las peticiones y problemas que se presentaren en la ejecución del contrato,
+en un plazo de cinco días contados a partir de la petición escrita formulada por el Proveedor.
+16. Hacer seguimiento para el pago oportuno de la factura.
+17. Ejecutar la garantía de servicio y soporte en caso de que se incumpla con el objeto de la
+contratación.
+24. COMISIÓN TÉCNICA SUGERIDA
+
+
+
+
+Presidente de la Comisión Técnica Ing. MARCILLO PARRA JUAN FRANCISCO CI
+1714426408, Especialista de Infraestructura y Operaciones TI 2.
+Profesional afín al proceso de contratación: Ing. Rojas Urbano Jonnathan Jair,
+0201862075, Especialista de Infraestructura y Operaciones TI 1.
+Delegado de la Área Requirente: Ing. VÁSCONEZ CHÁVEZ DIEGO PATRICIO,
+1708856446, Asistente de Infraestructura y Operaciones TI
+
+25. PUJA
+Variación mínima de la oferta durante la puja será recomienda 1% y el tiempo de duración
+mínimo será de 15 minutos.
+26. PRESUPUESTO REFERENCIAL
+El presupuesto referencial para esta contratación se ha determinado en base al estudio de
+mercado, la propuesta se deberá presentar en dólares de los Estados Unidos de América
+27. VERIFICACIÓN EN EL PORTAL INSTITUCIONAL SERCOP
+Conforme lo dispuesto en el artículo 46 de la Ley Orgánica del Sistema Nacional de
+Contratación Pública que señala: “Las Entidades Contratantes deberán consultar el catálogo
+electrónico previamente a establecer procesos de adquisición de bienes y servicios. Solo en
+caso de que el bien o servicio no se encuentre catalogado se podrá realizar otros
+procedimientos de solución para la adquisición de bienes o servicios, de conformidad con la
+presente Ley y su Reglamento (…)”, se procedió a verificar en el Portal de Compras Públicas
+que el servicio requerido NO CONSTA en el mismo.
+
+28. CPC A SER UTILIZADO EN ESTE PROCESO
+El CPC para este proceso de contratación es:
+Producto o Servicio Esperado
+
+CPC
+
+Activación del soporte de fábrica para los equipos listados en el numeral
+8 de los términos de referencia.
+
+871300011
+
+Servicio de Mantenimiento para los equipos detallados en el numeral 8
+de los términos de referencia, incluidos firmware y/o sistema operativo
+de la infraestructura considerada en el proceso de contratación y los
+servidores virtuales que se alojan en ella
+
+871300011
+
+Contratación de 50 horas de soporte técnico.
+
+871300011
+
+29. TIPO DE PROCESO
+El siguiente proceso de contratación se realizará mediante subasta Inversa Electrónica, de
+acuerdo al Art. 47 de la LONSCP.
+
+Firmado electrónicamente por:
+
+Paul Iturralde
+
+Director de Infraestructura y
+Operaciones TI.
+
+Revisado por
+
+Galo Cevallos
+
+Especialista de Infraestructura
+y Operaciones TI
+
+Elaborado por
+
+Byron Ponce
+
+Especialista
+Informático 1
+
+Aprobado por
+
+PAUL LENIN
+ITURRALDE
+SALAZAR
+Firmado electrónicamente por:
+
+GALO GERMAN
+CEVALLOS
+FLORES
+
+Firmado electrónicamente por:
+
+Fecha de Elaboración
+Fecha de Modificación
+
+de
+
+Soporte
+
+16/02/2022
+12/07/2022
+
+BYRON FERNANDO
+PONCE CHAUCA
+
+
