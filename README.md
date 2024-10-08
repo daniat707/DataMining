@@ -1,1 +1,1 @@
-**For Project 4 (NB and CNN):** https://colab.research.google.com/github/Negatix092/DM1/blob/main/CNN/P4.ipynb?hl=en#scrollTo=Igc330orCNob
+**For Project 4 (NB and CNN):** https://colab.research.google.com/drive/1Xvu_bzjxCi729WaPh__mc8SYEhCiGDn7?usp=sharing
